@@ -19,7 +19,7 @@ Thème Twenty Twenty-One, Polylang (fr, it, en, es), Rank Math.
 | Logo A (rosette + nom traduit) | `custom.css` prêt, à appliquer |
 | Traductions du nom et du slogan | À enregistrer (`update_string_translations`, Pont MCP 1.2.1) |
 | Menus de rubriques par langue | À faire (`create_menu`, `add_menu_item` avec `language_switcher`, `assign_menu_location` + `language`) |
-| Meta description Rank Math de l'accueil (page 449) | Proposée, à valider |
+| Meta descriptions Rank Math des accueils (fr 449, en 14798, it 11573, es 23116) | Fait |
 | Page « Les plantes succulentes » (594) : lien `http://banksia`, section Fouquieriacées en double, balises `<meta charset>` parasites, « Phytolaccacéess » | À corriger si validé |
 
 ## Traductions du logo
