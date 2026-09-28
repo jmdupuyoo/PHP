@@ -212,6 +212,24 @@ class Pont_MCP_Tools {
 			),
 		);
 
+		$polylang_list = Pont_MCP_Polylang::content_properties( false );
+		$polylang_edit = Pont_MCP_Polylang::content_properties( true );
+		self::$definitions['list_content']['properties']   += $polylang_list;
+		self::$definitions['list_terms']['properties']     += $polylang_list;
+		self::$definitions['create_content']['properties'] += $polylang_edit;
+		self::$definitions['update_content']['properties'] += $polylang_edit;
+		self::$definitions['create_term']['properties']    += $polylang_list;
+
+		self::$definitions = array_merge(
+			self::$definitions,
+			Pont_MCP_Tools_Media::definitions(),
+			Pont_MCP_Tools_Affiliate::definitions(),
+			Pont_MCP_Tools_Appearance::definitions(),
+			Pont_MCP_Tools_SEO::definitions(),
+			Pont_MCP_Tracking::definitions(),
+			Pont_MCP_Polylang::definitions()
+		);
+
 		return self::$definitions;
 	}
 
@@ -251,7 +269,7 @@ class Pont_MCP_Tools {
 					'title'           => $def['title'],
 					'readOnlyHint'    => $read_only,
 					'destructiveHint' => ! empty( $def['destructive'] ) || 'update_custom_css' === $name,
-					'openWorldHint'   => 'upload_media' === $name,
+					'openWorldHint'   => ! empty( $def['open_world'] ) || 'upload_media' === $name,
 				),
 			);
 		}
@@ -271,7 +289,8 @@ class Pont_MCP_Tools {
 			);
 		}
 		$args = self::validate( $args, $def );
-		return call_user_func( array( __CLASS__, 'tool_' . $name ), $args );
+		$handler = $def['handler'] ?? array( __CLASS__, 'tool_' . $name );
+		return call_user_func( $handler, $args );
 	}
 
 	/* ------------------------------------------------------------------ */
@@ -505,10 +524,16 @@ class Pont_MCP_Tools {
 			}
 		}
 
+		$query_args += Pont_MCP_Polylang::query_args( $args['language'] ?? '' );
+
 		$query = new WP_Query( $query_args );
 		$items = array();
 		foreach ( $query->posts as $post ) {
-			$items[] = array(
+			$items[] = array_filter(
+				array(
+					'language' => Pont_MCP_Polylang::post_language( $post->ID ),
+				)
+			) + array(
 				'id'       => $post->ID,
 				'title'    => get_the_title( $post ),
 				'status'   => $post->post_status,
@@ -555,6 +580,10 @@ class Pont_MCP_Tools {
 				'alt' => get_post_meta( $thumb_id, '_wp_attachment_image_alt', true ),
 			);
 		}
+		if ( Pont_MCP_Polylang::active() ) {
+			$data['language']     = Pont_MCP_Polylang::post_language( $post->ID );
+			$data['translations'] = Pont_MCP_Polylang::post_translations( $post->ID );
+		}
 		if ( is_object_in_taxonomy( $post->post_type, 'category' ) ) {
 			$data['categories'] = self::term_names( $post, 'category' );
 		}
@@ -575,13 +604,20 @@ class Pont_MCP_Tools {
 			throw new Pont_MCP_Tool_Error( 'Droits insuffisants pour créer ce type de contenu.' );
 		}
 
+		Pont_MCP_Polylang::validate( $args );
+
 		$data = array_merge( array( 'post_type' => $type, 'post_status' => $status ), self::post_fields( $args ) );
 		$id   = wp_insert_post( wp_slash( $data ), true );
 		if ( is_wp_error( $id ) ) {
 			throw new Pont_MCP_Tool_Error( $id->get_error_message() );
 		}
 
-		self::apply_relations( $id, $args );
+		try {
+			Pont_MCP_Polylang::apply( $id, $args );
+			self::apply_relations( $id, $args );
+		} catch ( Pont_MCP_Tool_Error $e ) {
+			throw new Pont_MCP_Tool_Error( 'Contenu créé (ID ' . $id . ', statut ' . get_post_status( $id ) . '), mais : ' . $e->getMessage() );
+		}
 
 		return array_merge( array( 'message' => 'Contenu créé.' ), self::summary( $id ) );
 	}
@@ -596,6 +632,8 @@ class Pont_MCP_Tools {
 			self::require_live_access_for_status( $args['status'] );
 		}
 
+		Pont_MCP_Polylang::validate( $args, $post->ID );
+
 		$data = self::post_fields( $args );
 		if ( isset( $args['status'] ) ) {
 			$data['post_status'] = $args['status'];
@@ -608,6 +646,7 @@ class Pont_MCP_Tools {
 			}
 		}
 
+		Pont_MCP_Polylang::apply( $post->ID, $args );
 		self::apply_relations( $post->ID, $args );
 
 		return array_merge( array( 'message' => 'Contenu modifié.' ), self::summary( $post->ID ) );
@@ -641,7 +680,7 @@ class Pont_MCP_Tools {
 				'hide_empty' => false,
 				'search'     => $args['search'] ?? '',
 				'number'     => 500,
-			)
+			) + Pont_MCP_Polylang::query_args( $args['language'] ?? '' )
 		);
 		if ( is_wp_error( $terms ) ) {
 			throw new Pont_MCP_Tool_Error( $terms->get_error_message() );
@@ -681,6 +720,9 @@ class Pont_MCP_Tools {
 		);
 		if ( is_wp_error( $result ) ) {
 			throw new Pont_MCP_Tool_Error( $result->get_error_message() );
+		}
+		if ( ! empty( $args['language'] ) ) {
+			Pont_MCP_Polylang::set_term_language( $result['term_id'], Pont_MCP_Polylang::check_language( $args['language'] ) );
 		}
 		return array( 'message' => 'Terme créé.', 'id' => (int) $result['term_id'] );
 	}
@@ -883,7 +925,8 @@ class Pont_MCP_Tools {
 			$ok = ( in_array( 'string', $types, true ) && is_string( $value ) )
 				|| ( in_array( 'integer', $types, true ) && is_int( $value ) )
 				|| ( in_array( 'boolean', $types, true ) && is_bool( $value ) )
-				|| ( in_array( 'array', $types, true ) && is_array( $value ) );
+				|| ( in_array( 'array', $types, true ) && is_array( $value ) )
+				|| ( in_array( 'object', $types, true ) && is_array( $value ) );
 			if ( ! $ok ) {
 				throw new Pont_MCP_Tool_Error( 'Type invalide pour « ' . $key . ' » (attendu : ' . implode( ' ou ', $types ) . ').' );
 			}
@@ -923,17 +966,26 @@ class Pont_MCP_Tools {
 	}
 
 	private static function apply_relations( $post_id, array $args ) {
-		$type = get_post_type( $post_id );
+		$type     = get_post_type( $post_id );
+		$language = Pont_MCP_Polylang::post_language( $post_id );
 
 		if ( isset( $args['categories'] ) && is_object_in_taxonomy( $type, 'category' ) ) {
 			$ids = array();
 			foreach ( $args['categories'] as $category ) {
-				$ids[] = self::resolve_term( $category, 'category' );
+				$ids[] = self::resolve_term( $category, 'category', $language );
 			}
 			wp_set_post_categories( $post_id, $ids );
 		}
 		if ( isset( $args['tags'] ) && is_object_in_taxonomy( $type, 'post_tag' ) ) {
-			wp_set_post_tags( $post_id, array_map( 'strval', $args['tags'] ) );
+			if ( $language ) {
+				$ids = array();
+				foreach ( $args['tags'] as $tag ) {
+					$ids[] = self::resolve_term( (string) $tag, 'post_tag', $language );
+				}
+				wp_set_post_terms( $post_id, $ids, 'post_tag' );
+			} else {
+				wp_set_post_tags( $post_id, array_map( 'strval', $args['tags'] ) );
+			}
 		}
 		if ( isset( $args['featured_media'] ) ) {
 			if ( 0 === $args['featured_media'] ) {
@@ -944,12 +996,35 @@ class Pont_MCP_Tools {
 		}
 	}
 
-	private static function resolve_term( $value, $taxonomy ) {
+	private static function resolve_term( $value, $taxonomy, $language = null ) {
 		if ( is_int( $value ) || ctype_digit( (string) $value ) ) {
 			if ( ! term_exists( (int) $value, $taxonomy ) ) {
 				throw new Pont_MCP_Tool_Error( 'Terme ' . $value . ' introuvable dans ' . $taxonomy . '.' );
 			}
 			return (int) $value;
+		}
+		if ( $language ) {
+			// Site multilingue : chercher et créer le terme dans la langue du contenu.
+			$existing = Pont_MCP_Polylang::find_term( $value, $taxonomy, $language );
+			if ( $existing ) {
+				return (int) $existing->term_id;
+			}
+			$created = wp_insert_term( wp_slash( $value ), $taxonomy );
+			if ( is_wp_error( $created ) && 'term_exists' === $created->get_error_code() ) {
+				$existing_id = (int) $created->get_error_data();
+				if ( $existing_id && ! Pont_MCP_Polylang::term_language( $existing_id ) ) {
+					// Terme créé avant Polylang, sans langue : il prend celle du contenu.
+					Pont_MCP_Polylang::set_term_language( $existing_id, $language );
+					return $existing_id;
+				}
+				// Le nom existe dans une autre langue : créer la version propre à cette langue.
+				$created = wp_insert_term( wp_slash( $value ), $taxonomy, array( 'slug' => sanitize_title( $value ) . '-' . $language ) );
+			}
+			if ( is_wp_error( $created ) ) {
+				throw new Pont_MCP_Tool_Error( $created->get_error_message() );
+			}
+			Pont_MCP_Polylang::set_term_language( $created['term_id'], $language );
+			return (int) $created['term_id'];
 		}
 		$existing = get_term_by( 'name', $value, $taxonomy );
 		if ( ! $existing ) {
@@ -1030,7 +1105,7 @@ class Pont_MCP_Tools {
 		}
 	}
 
-	private static function require_live_access_for_post( WP_Post $post ) {
+	public static function require_live_access_for_post( WP_Post $post ) {
 		if ( in_array( $post->post_status, array( 'publish', 'future', 'private' ), true ) && ! Pont_MCP_Settings::allows( Pont_MCP_Settings::LEVEL_FULL ) ) {
 			throw new Pont_MCP_Tool_Error( 'Ce contenu est en ligne : le niveau « Brouillons » ne permet pas de le modifier. Passez au niveau « Complet » dans Réglages › Pont MCP.' );
 		}

@@ -34,7 +34,10 @@ class Pont_MCP_Settings {
 				'key_hash' => '',
 				'user_id'  => 0,
 				'created'  => '',
-				'level'    => self::LEVEL_DRAFTS,
+				'level'             => self::LEVEL_DRAFTS,
+				'amazon_tag'        => '',
+				'amazon_domain'     => 'amazon.fr',
+				'amazon_disclosure' => '',
 			)
 		);
 	}

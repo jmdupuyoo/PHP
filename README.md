@@ -3,11 +3,18 @@
 Pont MCP est une extension WordPress qui transforme votre site en **connecteur Claude**
 (serveur MCP). Une fois installée, Claude peut, depuis claude.ai ou l'application :
 
-- analyser le site : thème, extensions, HTML réel des pages, feuilles de style ;
-- lire, rédiger et modifier articles et pages (brouillon par défaut) ;
-- gérer catégories et étiquettes ;
-- importer des images depuis une URL, avec texte alternatif et image mise en avant ;
-- retoucher le **design** via le CSS additionnel, chaque version restant restaurable.
+- **analyser** le site : thème, extensions, HTML réel des pages, feuilles de style ;
+- **rédiger** : articles et pages (brouillon par défaut), catégories, étiquettes, champs personnalisés ;
+- **illustrer** : chercher des photos libres de droits, les importer, insérer images et vidéos
+  (YouTube, Vimeo, Dailymotion) à un endroit précis d'un article ;
+- **référencer** : titre SEO, meta description, mot-clé, indexation, réseaux sociaux
+  (Yoast, Rank Math, SEOPress, ou Pont MCP lui-même), audit SEO du site, textes alternatifs ;
+- **mettre en forme** : CSS additionnel (avec révisions), options du thème (Personnaliser),
+  menus, widgets ;
+- **traduire** : sites multilingues Polylang (langue, traductions liées, catégories et menus par langue) ;
+- **monétiser** : liens affiliés Amazon avec identifiant Partenaire, `rel="sponsored"` et mention obligatoire ;
+- **mesurer** : Google Analytics 4 ou Tag Manager en Consent Mode v2, bandeau de consentement,
+  validation Google Search Console et Bing.
 
 Aucun service intermédiaire ni abonnement : l'extension s'installe sur autant de sites que
 vous voulez (succulentes.net, zootropical.com, formationsoigneuranimalier.fr…).
@@ -15,58 +22,102 @@ vous voulez (succulentes.net, zootropical.com, formationsoigneuranimalier.fr…)
 ## Installation
 
 1. Téléchargez [`dist/pont-mcp.zip`](dist/pont-mcp.zip).
-2. WordPress › **Extensions › Ajouter › Téléverser une extension**, choisissez le zip, puis activez.
+2. WordPress › **Extensions › Ajouter › Téléverser une extension**, choisissez le zip, puis activez
+   (ou « Remplacer la version installée » pour une mise à jour).
 3. **Réglages › Pont MCP** › *Générer l'adresse du connecteur* et copiez l'adresse (affichée une seule fois).
 4. Choisissez le **niveau d'accès** :
    | Niveau | Ce que Claude peut faire |
    |---|---|
    | Lecture seule | Consulter le site, rien modifier |
    | Brouillons (par défaut) | Créer et modifier des brouillons, importer des images. Rien ne change en ligne |
-   | Complet | Publier, modifier les contenus en ligne et le CSS du site |
+   | Complet | Publier, modifier les contenus en ligne, le design, les menus, les widgets, le suivi |
 5. Dans Claude : **Paramètres › Connecteurs › Ajouter un connecteur personnalisé**, collez l'adresse
    (laissez les champs OAuth vides).
+6. Facultatif : renseignez votre identifiant **Partenaires Amazon** dans Réglages › Pont MCP.
 
 ## Exemples de demandes
 
 - « Analyse le design de succulentes.net et propose une charte plus moderne. »
-- « Applique la nouvelle palette de couleurs au CSS du site. » (niveau Complet)
-- « Rédige un brouillon de fiche de culture pour l'Echeveria elegans, catégorie Crassulacées. »
-- « Liste les articles sans image mise en avant. »
+- « Désactive le diaporama de démonstration du thème et mets le menu principal en place. »
+- « Rédige une fiche de culture de l'Echeveria elegans, illustre-la avec une photo libre de droits,
+  et traduis-la en anglais. »
+- « Fais un audit SEO du site et corrige les meta descriptions manquantes. »
+- « Ajoute un lien Amazon vers un enfumoir dans l'article sur l'apiculture de loisir. »
+- « Installe Google Analytics avec l'identifiant G-XXXXXXX. »
 
-## Outils disponibles
+## Outils disponibles (38)
 
-| Outil | Rôle | Niveau |
+| Domaine | Outils | Niveau d'écriture |
 |---|---|---|
-| `site_overview` | Vue d'ensemble du site | Lecture |
-| `theme_info` | Thème, réglages du Customizer, styles globaux, modèles | Lecture |
-| `fetch_site_url` | HTML/CSS réel d'une page du site | Lecture |
-| `list_content` / `get_content` | Parcourir et lire les contenus | Lecture |
-| `list_terms` / `list_media` / `list_menus` / `list_plugins` | Inventaires | Lecture |
-| `get_custom_css` | CSS additionnel et révisions | Lecture |
-| `create_content` / `update_content` / `trash_content` | Rédaction (brouillons, ou en ligne au niveau Complet) | Brouillons |
-| `create_term` / `upload_media` | Catégories, images | Brouillons |
-| `update_custom_css` / `restore_custom_css` | Modifier ou restaurer le CSS du site | Complet |
+| Site | `site_overview`, `theme_info`, `list_plugins`, `fetch_site_url` | — |
+| Contenus | `list_content`, `get_content`, `create_content`, `update_content`, `trash_content` | Brouillons ¹ |
+| Taxonomies | `list_terms`, `create_term` | Brouillons |
+| Médias | `list_media`, `upload_media`, `update_media`, `search_free_images`, `insert_media` | Brouillons ¹ |
+| SEO | `get_seo`, `update_seo`, `seo_audit`, `get_meta`, `update_meta` | Brouillons ¹ |
+| Affiliation | `insert_affiliate_link` | Brouillons ¹ |
+| Design | `get_custom_css`, `update_custom_css`, `restore_custom_css` | Complet |
+| Thème | `list_customizer_settings`, `update_customizer_settings` | Complet |
+| Menus | `list_menus`, `create_menu`, `add_menu_item`, `delete_menu_item`, `assign_menu_location` | Complet |
+| Widgets | `list_widgets`, `save_widget`, `remove_widget` | Complet |
+| Suivi | `get_tracking`, `set_tracking` | Complet |
+| Langues | `list_languages` (+ paramètres `language` / `translation_of`) | — |
+
+¹ Modifier un contenu déjà en ligne exige le niveau Complet.
+
+Tous les outils sont toujours visibles dans Claude ; le niveau d'accès est vérifié à chaque action.
+Un changement de niveau prend donc effet immédiatement, sans reconnecter le connecteur.
+
+## Détails
+
+**Options du thème.** Les réglages passent par le Customizer de WordPress, comme dans
+Apparence › Personnaliser : c'est le thème qui valide chaque valeur. Fonctionne avec tous les
+thèmes classiques (Catch Base, Astra, GeneratePress…).
+
+**SEO.** Pont MCP écrit là où l'extension SEO active lit : Yoast SEO, Rank Math ou SEOPress.
+Sans extension SEO, il affiche lui-même le titre, la meta description, la balise canonique, le
+`noindex` et les balises Open Graph. All in One SEO n'est pas pris en charge (tables propres).
+
+**Photos libres de droits.** Recherche dans [Openverse](https://openverse.org) (Flickr, Wikimedia
+Commons…), licences commerciales par défaut. Citez l'auteur et la licence en légende (champ
+`attribution` fourni), sauf CC0 / domaine public.
+
+**Amazon.** Liens `https://www.amazon.fr/dp/ASIN?tag=VOTRE-TAG`, `rel="sponsored nofollow noopener"`,
+mention « En tant que Partenaire Amazon… » ajoutée une fois en fin d'article et maintenue en
+dernière position. Pas de prix (interdit par Amazon s'ils ne sont pas mis à jour en temps réel).
+
+**Google Analytics.** Consent Mode v2 : tout est refusé par défaut, le bandeau Pont MCP
+(Accepter / Refuser) met à jour le consentement. Les administrateurs connectés ne sont pas comptés.
+Le shortcode `[pont_cookies]` affiche un lien « Gérer les cookies » (à placer dans les mentions
+légales) pour revenir sur son choix. Désactivez le bandeau seulement si le site a déjà une solution
+de consentement compatible Consent Mode.
+
+**Polylang.** `create_content` avec `language` et `translation_of` crée une traduction liée ;
+les catégories et étiquettes sont choisies ou créées dans la langue du contenu ;
+`assign_menu_location` accepte `language` pour les menus par langue.
 
 ## Sécurité
 
 - L'adresse du connecteur contient une clé secrète de 48 caractères. Seule son empreinte
   (SHA-256) est stockée. Ne la partagez pas ; en cas de doute, cliquez sur *Révoquer l'accès*.
 - Claude agit au nom de l'administrateur qui a généré la clé : les droits WordPress s'appliquent.
-- Les suppressions vont à la corbeille ; les modifications de CSS sont conservées en révisions.
+- Les suppressions vont à la corbeille (contenus) ou dans les widgets inactifs ; les modifications
+  de CSS sont conservées en révisions.
+- Les métadonnées internes (commençant par `_`) ne sont pas modifiables par `update_meta`.
 - Toutes les actions sont inscrites dans le journal d'activité de la page de réglages.
-- Tous les outils sont toujours visibles dans Claude ; le niveau d’accès est vérifié à chaque action. Un changement de niveau prend donc effet immédiatement, sans reconnecter le connecteur.
 - La clé peut aussi être envoyée dans un en-tête `Authorization: Bearer …` au lieu de l'URL.
 
 ## Dépannage
 
 - **Erreur 403** : clé révoquée ou régénérée ; recopiez la nouvelle adresse dans Claude.
+  Avec **Wordfence**, un envoi rapide de nombreuses modifications peut aussi déclencher un blocage :
+  vérifiez Wordfence › Pare-feu › Blocage, et autorisez la route `/wp-json/pont-mcp/v1/mcp`.
 - **`fetch_site_url` échoue** : l'hébergeur bloque les requêtes du site vers lui-même (loopback).
   Les autres outils fonctionnent normalement.
-- **Extension de sécurité bloquant l'API REST** : autorisez la route `/wp-json/pont-mcp/v1/mcp`.
+- **Nouveaux outils absents dans Claude après une mise à jour** : ouvrez une nouvelle conversation.
 
 ## Technique
 
 - WordPress 6.0+, PHP 7.4+.
 - Protocole MCP en transport « Streamable HTTP », sans état (versions 2024-11-05 à 2025-06-18),
   exposé par l'API REST : `POST /wp-json/pont-mcp/v1/mcp`.
-- Reconstruire le zip : `cd /chemin/du/depot && rm -f dist/pont-mcp.zip && zip -r dist/pont-mcp.zip pont-mcp`.
+- Reconstruire le zip : `rm -f dist/pont-mcp.zip && zip -r dist/pont-mcp.zip pont-mcp`.

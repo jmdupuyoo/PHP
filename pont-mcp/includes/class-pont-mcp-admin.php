@@ -46,6 +46,17 @@ class Pont_MCP_Admin {
 					$notice = 'saved';
 				}
 				break;
+			case 'amazon':
+				$domain = strtolower( sanitize_text_field( wp_unslash( $_POST['pont_mcp_amazon_domain'] ?? 'amazon.fr' ) ) );
+				Pont_MCP_Settings::update(
+					array(
+						'amazon_tag'        => sanitize_text_field( wp_unslash( $_POST['pont_mcp_amazon_tag'] ?? '' ) ),
+						'amazon_domain'     => preg_match( '/^amazon\.[a-z.]{2,6}$/', $domain ) ? $domain : 'amazon.fr',
+						'amazon_disclosure' => sanitize_text_field( wp_unslash( $_POST['pont_mcp_amazon_disclosure'] ?? '' ) ),
+					)
+				);
+				$notice = 'saved';
+				break;
 			case 'clear_log':
 				delete_option( Pont_MCP_Settings::LOG_OPTION );
 				$notice = 'cleared';
@@ -139,6 +150,29 @@ class Pont_MCP_Admin {
 					<?php endforeach; ?>
 				</fieldset>
 				<p class="description">Au niveau « Complet », Claude peut modifier le CSS du site : chaque version précédente est conservée et restaurable (outil restore_custom_css, ou Apparence › Personnaliser › CSS additionnel).</p>
+				<?php submit_button( 'Enregistrer' ); ?>
+			</form>
+
+			<h2>4. Liens affiliés Amazon (facultatif)</h2>
+			<form method="post">
+				<?php wp_nonce_field( 'pont_mcp_settings' ); ?>
+				<input type="hidden" name="pont_mcp_action" value="amazon">
+				<table class="form-table" role="presentation">
+					<tr>
+						<th scope="row"><label for="pont_mcp_amazon_tag">Identifiant Partenaire</label></th>
+						<td><input type="text" id="pont_mcp_amazon_tag" name="pont_mcp_amazon_tag" class="regular-text" value="<?php echo esc_attr( $settings['amazon_tag'] ); ?>" placeholder="monsite-21">
+							<p class="description">Votre « tag » Partenaires Amazon, ajouté à chaque lien créé par Claude (outil insert_affiliate_link).</p></td>
+					</tr>
+					<tr>
+						<th scope="row"><label for="pont_mcp_amazon_domain">Boutique</label></th>
+						<td><input type="text" id="pont_mcp_amazon_domain" name="pont_mcp_amazon_domain" class="regular-text" value="<?php echo esc_attr( $settings['amazon_domain'] ); ?>"></td>
+					</tr>
+					<tr>
+						<th scope="row"><label for="pont_mcp_amazon_disclosure">Mention obligatoire</label></th>
+						<td><input type="text" id="pont_mcp_amazon_disclosure" name="pont_mcp_amazon_disclosure" class="large-text" value="<?php echo esc_attr( $settings['amazon_disclosure'] ); ?>" placeholder="<?php echo esc_attr( Pont_MCP_Tools_Affiliate::DEFAULT_DISCLOSURE ); ?>">
+							<p class="description">Ajoutée automatiquement en fin d’article lors de l’insertion d’un premier lien. Vide : texte officiel ci-dessus.</p></td>
+					</tr>
+				</table>
 				<?php submit_button( 'Enregistrer' ); ?>
 			</form>
 
