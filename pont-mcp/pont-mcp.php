@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Pont MCP
  * Description:       Connecte ce site WordPress à Claude (connecteur MCP personnalisé) : lecture et rédaction des contenus, médias, CSS du site, analyse du thème.
- * Version:           1.0.0
+ * Version:           1.1.0
  * Requires at least: 6.0
  * Requires PHP:      7.4
  * Author:            Jardin zoologique tropical
@@ -12,7 +12,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'PONT_MCP_VERSION', '1.0.0' );
+define( 'PONT_MCP_VERSION', '1.1.0' );
 define( 'PONT_MCP_DIR', __DIR__ );
 define( 'PONT_MCP_NAMESPACE', 'pont-mcp/v1' );
 define( 'PONT_MCP_ROUTE', '/mcp' );

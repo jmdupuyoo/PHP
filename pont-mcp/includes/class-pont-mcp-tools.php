@@ -220,13 +220,19 @@ class Pont_MCP_Tools {
 	}
 
 	/**
-	 * Liste au format MCP « tools/list ». Les outils au-delà du niveau d'accès ne sont pas proposés.
+	 * Liste au format MCP « tools/list ».
+	 *
+	 * Tous les outils sont toujours listés : les clients gardent la liste en cache pendant toute
+	 * une conversation, et un changement de niveau d'accès doit prendre effet sans reconnexion.
+	 * Le niveau est vérifié à chaque appel (voir call()).
 	 */
 	public static function list_for_client() {
-		$tools = array();
+		$levels = Pont_MCP_Settings::levels();
+		$tools  = array();
 		foreach ( self::definitions() as $name => $def ) {
-			if ( ! Pont_MCP_Settings::allows( $def['level'] ) ) {
-				continue;
+			$description = $def['description'];
+			if ( Pont_MCP_Settings::LEVEL_READ !== $def['level'] ) {
+				$description .= ' Niveau d’accès requis : ' . strtok( $levels[ $def['level'] ], ' ' ) . '.';
 			}
 			$schema = array(
 				'type'       => 'object',
@@ -239,7 +245,7 @@ class Pont_MCP_Tools {
 			$tools[]   = array(
 				'name'        => $name,
 				'title'       => $def['title'],
-				'description' => $def['description'],
+				'description' => $description,
 				'inputSchema' => $schema,
 				'annotations' => array(
 					'title'           => $def['title'],
@@ -255,7 +261,14 @@ class Pont_MCP_Tools {
 	public static function call( $name, array $args ) {
 		$def = self::definitions()[ $name ];
 		if ( ! Pont_MCP_Settings::allows( $def['level'] ) ) {
-			throw new Pont_MCP_Tool_Error( 'Le niveau d’accès actuel ne permet pas cette action. Il se règle dans Réglages › Pont MCP.' );
+			$levels = Pont_MCP_Settings::levels();
+			throw new Pont_MCP_Tool_Error(
+				sprintf(
+					'Cette action demande le niveau d’accès « %s » (niveau actuel : « %s »). Il se règle dans Réglages › Pont MCP.',
+					strtok( $levels[ $def['level'] ], ' ' ),
+					strtok( $levels[ Pont_MCP_Settings::level() ], ' ' )
+				)
+			);
 		}
 		$args = self::validate( $args, $def );
 		return call_user_func( array( __CLASS__, 'tool_' . $name ), $args );

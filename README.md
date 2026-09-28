@@ -54,6 +54,7 @@ vous voulez (succulentes.net, zootropical.com, formationsoigneuranimalier.fr…)
 - Claude agit au nom de l'administrateur qui a généré la clé : les droits WordPress s'appliquent.
 - Les suppressions vont à la corbeille ; les modifications de CSS sont conservées en révisions.
 - Toutes les actions sont inscrites dans le journal d'activité de la page de réglages.
+- Tous les outils sont toujours visibles dans Claude ; le niveau d’accès est vérifié à chaque action. Un changement de niveau prend donc effet immédiatement, sans reconnecter le connecteur.
 - La clé peut aussi être envoyée dans un en-tête `Authorization: Bearer …` au lieu de l'URL.
 
 ## Dépannage
