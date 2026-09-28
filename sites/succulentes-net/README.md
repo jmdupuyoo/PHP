@@ -16,13 +16,14 @@ Thème Twenty Twenty-One, Polylang (fr, it, en, es), Rank Math.
 |---|---|
 | Charte, sommaire, newsletter, widgets en cartes, pied de page | En ligne |
 | Barre de recherche (bloc Recherche) aux couleurs du site | En ligne |
+| Diaporama des pages d'accueil (4 langues), sous le bandeau vert | En ligne : 9 photos de la médiathèque, CSS seul (voir `custom.css`) |
 | Drapeaux (FR, IT, US, ES) | En ligne |
 | Widgets text-2 (FR) et text-5 (IT) nettoyés | Fait |
 | Logo A (rosette + nom traduit) | En ligne |
 | Traductions du nom et du slogan | En ligne (en, it, es) |
 | Menus de rubriques par langue | En ligne : bandeau vert sous le logo (Plantes, Jardins, Campus, Blog), drapeaux à droite du logo |
 | Meta description Rank Math de l'accueil (page 449) | Traité |
-| Page « Les plantes succulentes » (594) : corrections | Traité |
+| Page « Les plantes succulentes » (594) : lien Banksia, Fouquieriacées en double, `<meta charset>`, Phytolaccacées, Xanthorrhoea | Corrigé |
 
 ## Traductions du logo
 
