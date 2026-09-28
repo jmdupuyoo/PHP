@@ -21,6 +21,30 @@ class Pont_MCP_Polylang {
 				'handler'     => array( __CLASS__, 'list_languages' ),
 				'properties'  => array(),
 			),
+			'get_string_translations'    => array(
+				'title'       => 'Lire les traductions de chaînes',
+				'description' => 'Sites multilingues (Polylang) : traductions, dans chaque langue, de chaînes du site (Langues › Traductions). Par défaut : nom du site et slogan.',
+				'level'       => Pont_MCP_Settings::LEVEL_READ,
+				'handler'     => array( __CLASS__, 'get_string_translations' ),
+				'properties'  => array(
+					'strings' => array(
+						'type'        => 'array',
+						'items'       => array( 'type' => 'string' ),
+						'description' => 'Chaînes originales (dans la langue par défaut). Défaut : nom du site et slogan.',
+					),
+				),
+			),
+			'update_string_translations' => array(
+				'title'       => 'Traduire des chaînes',
+				'description' => 'Sites multilingues (Polylang) : enregistre les traductions de chaînes du site (nom du site, slogan, titres de widgets…) pour une langue, comme dans Langues › Traductions.',
+				'level'       => Pont_MCP_Settings::LEVEL_FULL,
+				'handler'     => array( __CLASS__, 'update_string_translations' ),
+				'properties'  => array(
+					'language'     => array( 'type' => 'string', 'description' => 'Code de la langue cible (ex. en).' ),
+					'translations' => array( 'type' => 'object', 'description' => 'Objet { chaîne originale: traduction }.' ),
+				),
+				'required'    => array( 'language', 'translations' ),
+			),
 		);
 	}
 
@@ -46,6 +70,100 @@ class Pont_MCP_Polylang {
 			'default'      => pll_default_language( 'slug' ),
 			'languages'    => $languages,
 			'hint'         => 'Pour traduire un contenu : create_content avec language et translation_of (ID de l’original). Les catégories sont propres à chaque langue.',
+		);
+	}
+
+	public static function get_string_translations( array $args ) {
+		self::require_strings_api();
+		$strings = ! empty( $args['strings'] ) ? array_map( 'strval', $args['strings'] ) : self::default_strings();
+
+		$result = array();
+		foreach ( pll_languages_list( array( 'fields' => 'slug' ) ) as $slug ) {
+			$mo = self::load_mo( $slug );
+			foreach ( $strings as $original ) {
+				$translation                         = $mo->translate( $original );
+				$result[ $original ][ $slug ] = array(
+					'translation' => $translation,
+					'translated'  => $translation !== $original,
+				);
+			}
+		}
+		return array(
+			'default_language' => pll_default_language( 'slug' ),
+			'strings'          => $result,
+		);
+	}
+
+	public static function update_string_translations( array $args ) {
+		self::require_strings_api();
+		$language = self::check_language( $args['language'] );
+		$mo       = self::load_mo( $language );
+		$done     = array();
+		foreach ( (array) $args['translations'] as $original => $translation ) {
+			$original    = (string) $original;
+			$translation = sanitize_text_field( (string) $translation );
+			if ( '' === $original ) {
+				continue;
+			}
+			$mo->add_entry( $mo->make_entry( $original, $translation ) );
+			$done[ $original ] = $translation;
+		}
+		if ( ! $done ) {
+			throw new Pont_MCP_Tool_Error( 'Aucune traduction fournie.' );
+		}
+		$mo->export_to_db( PLL()->model->get_language( $language ) );
+		return array(
+			'message'      => count( $done ) . ' traduction(s) enregistrée(s) pour « ' . $language . ' ».',
+			'translations' => $done,
+			'note'         => 'Seules les chaînes enregistrées par Polylang ou par le thème (visibles dans Langues › Traductions) sont utilisées sur le site.',
+		);
+	}
+
+	private static function require_strings_api() {
+		if ( ! self::active() ) {
+			throw new Pont_MCP_Tool_Error( 'Ce site n’utilise pas Polylang.' );
+		}
+		if ( ! class_exists( 'PLL_MO' ) || ! function_exists( 'PLL' ) ) {
+			throw new Pont_MCP_Tool_Error( 'Version de Polylang non prise en charge pour la traduction de chaînes.' );
+		}
+	}
+
+	private static function load_mo( $slug ) {
+		$language = PLL()->model->get_language( $slug );
+		if ( ! $language ) {
+			throw new Pont_MCP_Tool_Error( 'Langue inconnue : ' . $slug . '.' );
+		}
+		$mo = new PLL_MO();
+		$mo->import_from_db( $language );
+		return $mo;
+	}
+
+	/**
+	 * Nom et slogan tels qu'enregistrés (sans le filtre de traduction de Polylang).
+	 */
+	private static function default_strings() {
+		global $wpdb;
+		$values = array();
+		foreach ( array( 'blogname', 'blogdescription' ) as $option ) {
+			$value = $wpdb->get_var( $wpdb->prepare( "SELECT option_value FROM {$wpdb->options} WHERE option_name = %s", $option ) );
+			if ( '' !== (string) $value ) {
+				$values[] = (string) $value;
+			}
+		}
+		return $values;
+	}
+
+	/**
+	 * Élément de menu « sélecteur de langues » de Polylang.
+	 */
+	public static function switcher_meta( $show_flags ) {
+		return array(
+			'hide_if_no_translation' => 0,
+			'hide_current'           => 0,
+			'force_home'             => 0,
+			'show_flags'             => $show_flags ? 1 : 0,
+			'show_names'             => 1,
+			'dropdown'               => 0,
 		);
 	}
 

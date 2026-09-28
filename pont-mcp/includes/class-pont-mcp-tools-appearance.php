@@ -36,7 +36,8 @@ class Pont_MCP_Tools_Appearance {
 				'handler'     => array( __CLASS__, 'add_menu_item' ),
 				'properties'  => array(
 					'menu_id'   => array( 'type' => 'integer', 'description' => 'ID du menu (voir list_menus).' ),
-					'type'      => array( 'type' => 'string', 'enum' => array( 'page', 'post', 'category', 'custom' ), 'description' => 'Type de lien (défaut : page).' ),
+					'type'      => array( 'type' => 'string', 'enum' => array( 'page', 'post', 'category', 'custom', 'language_switcher' ), 'description' => 'Type de lien (défaut : page). language_switcher : sélecteur de langues Polylang (une entrée par langue).' ),
+					'show_flags' => array( 'type' => 'boolean', 'description' => 'language_switcher : afficher les drapeaux de Polylang (défaut : false).' ),
 					'object_id' => array( 'type' => 'integer', 'description' => 'ID de la page, de l’article ou de la catégorie (sauf type custom).' ),
 					'url'       => array( 'type' => 'string', 'description' => 'Adresse (type custom uniquement).' ),
 					'title'     => array( 'type' => 'string', 'description' => 'Libellé (défaut : titre de l’élément lié).' ),
@@ -155,7 +156,14 @@ class Pont_MCP_Tools_Appearance {
 			$item['menu-item-position'] = max( 1, (int) $args['position'] );
 		}
 
-		if ( 'custom' === $type ) {
+		if ( 'language_switcher' === $type ) {
+			if ( ! Pont_MCP_Polylang::active() ) {
+				throw new Pont_MCP_Tool_Error( 'Le sélecteur de langues nécessite Polylang.' );
+			}
+			$item['menu-item-type']  = 'custom';
+			$item['menu-item-url']   = '#pll_switcher';
+			$item['menu-item-title'] = $args['title'] ?? 'Langues';
+		} elseif ( 'custom' === $type ) {
 			if ( empty( $args['url'] ) ) {
 				throw new Pont_MCP_Tool_Error( 'Paramètre url requis pour un lien personnalisé.' );
 			}
@@ -188,6 +196,9 @@ class Pont_MCP_Tools_Appearance {
 		$item_id = wp_update_nav_menu_item( $menu->term_id, 0, wp_slash( $item ) );
 		if ( is_wp_error( $item_id ) ) {
 			throw new Pont_MCP_Tool_Error( $item_id->get_error_message() );
+		}
+		if ( 'language_switcher' === $type ) {
+			update_post_meta( $item_id, '_pll_menu_item', Pont_MCP_Polylang::switcher_meta( ! empty( $args['show_flags'] ) ) );
 		}
 		return array( 'message' => 'Lien ajouté au menu « ' . $menu->name . ' ».', 'item_id' => (int) $item_id );
 	}

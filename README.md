@@ -45,7 +45,7 @@ vous voulez (succulentes.net, zootropical.com, formationsoigneuranimalier.fr…)
 - « Ajoute un lien Amazon vers un enfumoir dans l'article sur l'apiculture de loisir. »
 - « Installe Google Analytics avec l'identifiant G-XXXXXXX. »
 
-## Outils disponibles (38)
+## Outils disponibles (40)
 
 | Domaine | Outils | Niveau d'écriture |
 |---|---|---|
@@ -60,7 +60,7 @@ vous voulez (succulentes.net, zootropical.com, formationsoigneuranimalier.fr…)
 | Menus | `list_menus`, `create_menu`, `add_menu_item`, `delete_menu_item`, `assign_menu_location` | Complet |
 | Widgets | `list_widgets`, `save_widget`, `remove_widget` | Complet |
 | Suivi | `get_tracking`, `set_tracking` | Complet |
-| Langues | `list_languages` (+ paramètres `language` / `translation_of`) | — |
+| Langues | `list_languages`, `get_string_translations`, `update_string_translations` (+ paramètres `language` / `translation_of`) | Complet |
 
 ¹ Modifier un contenu déjà en ligne exige le niveau Complet.
 
@@ -93,7 +93,9 @@ de consentement compatible Consent Mode.
 
 **Polylang.** `create_content` avec `language` et `translation_of` crée une traduction liée ;
 les catégories et étiquettes sont choisies ou créées dans la langue du contenu ;
-`assign_menu_location` accepte `language` pour les menus par langue.
+`assign_menu_location` accepte `language` pour les menus par langue ; `add_menu_item` avec
+`type: language_switcher` ajoute le sélecteur de langues dans un menu. `update_string_translations`
+traduit le nom du site, le slogan et les autres chaînes (Langues › Traductions).
 
 ## Sécurité
 

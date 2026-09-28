@@ -1,0 +1,516 @@
+/* =========================================================
+   Succulentes.net — charte « encyclopédie botanique »
+   Thème : Twenty Twenty-One. Appliquée via Pont MCP (révisions restaurables).
+   Polices système uniquement : aucun appel à des serveurs tiers (RGPD).
+   ========================================================= */
+
+:root {
+	--sn-vert: #1f4d3a;          /* vert botanique : titres, liens, boutons */
+	--sn-vert-clair: #2e6b4f;
+	--sn-sauge: #e8efe4;         /* fonds doux (sommaire, encadrés) */
+	--sn-sable: #faf7f0;         /* fond de page */
+	--sn-terre: #b85c38;         /* terre cuite : accents, appels à l'action */
+	--sn-texte: #23302a;
+	--sn-gris: #5b6660;
+	--sn-bord: #dfe6dc;
+	--sn-rayon: 14px;
+
+	--global--font-primary: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+	--global--font-secondary: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	--global--font-size-base: 1.125rem;
+	--global--line-height-body: 1.75;
+	--global--color-primary: var(--sn-texte);
+	--global--color-secondary: var(--sn-vert);
+	--global--color-primary-hover: var(--sn-terre);
+	--global--color-background: var(--sn-sable);
+	--global--color-border: var(--sn-bord);
+
+	--heading--font-weight: 600;
+	--heading--font-size-h2: 1.85rem;
+	--heading--font-size-h3: 1.4rem;
+	--heading--font-size-h4: 1.2rem;
+	--entry-header--font-size: 2.6rem;
+	--global--font-size-page-title: 2.8rem;
+	--heading--font-weight-page-title: 700;
+	--entry-header--color: var(--sn-vert);
+
+	--branding--title--text-transform: none;
+	--branding--title--font-size: 1.9rem;
+	--branding--color-link: var(--sn-vert);
+	--branding--color-text: var(--sn-vert);
+
+	--primary-nav--font-size: 0.95rem;
+	--primary-nav--color-link: var(--sn-texte);
+	--primary-nav--color-link-hover: var(--sn-terre);
+
+	--button--color-background: var(--sn-vert);
+	--button--color-text: #fff;
+	--button--color-text-hover: var(--sn-vert);
+	--button--border-radius: 999px;
+	--button--font-size: 1rem;
+	--button--padding-vertical: 12px;
+
+	--form--border-width: 1px;
+	--form--border-radius: 8px;
+	--form--border-color: #b9c4bb;
+	--form--font-size: 1rem;
+
+	--footer--color-link: var(--sn-vert);
+}
+
+/* Colonne de lecture un peu plus large (610 px par défaut) */
+@media only screen and (min-width: 822px) {
+	:root {
+		--responsive--aligndefault-width: min(calc(100vw - 8 * var(--global--spacing-horizontal)), 740px);
+	}
+}
+
+body,
+body.custom-background {
+	background-color: var(--sn-sable);
+	color: var(--sn-texte);
+}
+
+#page {
+	overflow-x: clip;
+}
+
+/* ---------- En-tête ---------- */
+.site-header {
+	padding-top: 1.25rem;
+	padding-bottom: 1.25rem;
+	background: #fff;
+	/* Fond blanc sur toute la largeur de l'écran */
+	box-shadow: 0 0 0 100vmax #fff, 0 1px 0 100vmax var(--sn-bord);
+	clip-path: inset(0 -100vmax -1px);
+	margin-bottom: 1rem;
+}
+
+.site-title a {
+	text-decoration: none;
+}
+
+.site-title {
+	font-family: var(--global--font-primary);
+	font-weight: 700;
+	letter-spacing: -0.01em;
+}
+
+.site-description {
+	color: var(--sn-gris);
+	font-style: italic;
+}
+
+.site-header > .site-logo {
+	border-bottom-color: var(--sn-bord);
+}
+
+.site-logo .custom-logo {
+	max-height: 90px;
+	width: auto;
+}
+
+.primary-navigation a:hover,
+.primary-navigation .current-menu-item > a {
+	text-decoration: none;
+	color: var(--sn-terre);
+}
+
+/* ---------- Titres et texte ---------- */
+.entry-title {
+	font-weight: 700;
+	letter-spacing: -0.015em;
+	line-height: 1.15;
+}
+
+.entry-content h2 {
+	color: var(--sn-vert);
+	margin-top: 2.4em;
+	padding-bottom: 0.35em;
+	border-bottom: 2px solid var(--sn-sauge);
+}
+
+.entry-content h3 {
+	color: var(--sn-vert-clair);
+	margin-top: 1.8em;
+}
+
+.entry-content h4 {
+	color: var(--sn-vert-clair);
+}
+
+.entry-content a {
+	color: var(--sn-vert-clair);
+	text-decoration-color: rgba(46, 107, 79, 0.35);
+	text-underline-offset: 3px;
+}
+
+.entry-content a:hover,
+.entry-content a:focus {
+	color: var(--sn-terre);
+	text-decoration-color: currentColor;
+}
+
+.entry-content li::marker {
+	color: var(--sn-terre);
+}
+
+.entry-content blockquote {
+	border-left: 4px solid var(--sn-terre);
+	padding-left: 1.25em;
+	color: var(--sn-gris);
+	font-style: italic;
+}
+
+/* ---------- Sommaire (Easy Table of Contents) ---------- */
+#ez-toc-container {
+	display: block;
+	width: auto;
+	background: var(--sn-sauge);
+	border: 0;
+	border-left: 4px solid var(--sn-vert);
+	border-radius: var(--sn-rayon);
+	box-shadow: none;
+	padding: 1.1em 1.5em 1.2em;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+#ez-toc-container .ez-toc-title {
+	font-family: var(--global--font-primary);
+	font-weight: 700;
+	font-size: 1.15rem;
+	color: var(--sn-vert);
+}
+
+#ez-toc-container a,
+#ez-toc-container a:visited {
+	color: var(--sn-texte);
+	font-size: 0.98rem;
+}
+
+#ez-toc-container a:hover {
+	color: var(--sn-terre);
+}
+
+#ez-toc-container .ez-toc-js-icon-con,
+#ez-toc-container .ez-toc-toggle label {
+	border-color: #b9c4bb;
+	background: #fff;
+}
+
+@media (min-width: 700px) {
+	#ez-toc-container nav > ul.ez-toc-list {
+		column-count: 2;
+		column-gap: 2.5em;
+	}
+
+	#ez-toc-container nav > ul.ez-toc-list > li {
+		break-inside: avoid;
+	}
+}
+
+/* ---------- Images, tableaux ---------- */
+.entry-content .wp-block-image img {
+	border-radius: 12px;
+}
+
+.entry-content figcaption,
+.entry-content .wp-element-caption {
+	color: var(--sn-gris);
+	font-size: 0.9rem;
+	text-align: center;
+	margin-top: 0.6em;
+}
+
+.entry-content table {
+	border-collapse: collapse;
+	width: 100%;
+	font-size: 0.95rem;
+}
+
+.entry-content th {
+	background: var(--sn-sauge);
+	color: var(--sn-vert);
+	text-align: left;
+}
+
+.entry-content th,
+.entry-content td {
+	border: 1px solid var(--sn-bord);
+	padding: 0.55em 0.8em;
+}
+
+/* ---------- Boutons ---------- */
+.entry-content .wp-block-button__link.has-green-background-color {
+	background-color: var(--sn-vert) !important;
+	color: #fff !important;
+}
+
+.wp-block-button__link,
+.entry-content .wp-block-button__link {
+	border-radius: 999px;
+	font-family: var(--global--font-secondary);
+	font-weight: 600;
+	text-decoration: none;
+}
+
+.wp-block-button__link:hover {
+	background-color: var(--sn-terre) !important;
+	color: #fff !important;
+}
+
+/* ---------- Encadré newsletter ---------- */
+.entry-content .wp-block-group.has-background {
+	border-radius: 18px;
+	padding: 2rem 2.25rem;
+}
+
+.entry-content .wp-block-group.has-background[style*="#a0cbdf"] {
+	background-color: var(--sn-sauge) !important;
+	border: 1px solid var(--sn-bord);
+}
+
+.entry-content .wp-block-group.has-background > .wp-block-group__inner-container > h2:first-child {
+	margin-top: 0;
+	border-bottom: 0;
+}
+
+.sib_signup_form br {
+	display: none;
+}
+
+.sib_signup_form p {
+	margin: 0.6em 0;
+}
+
+.sib_signup_form label.sib-email-area {
+	display: block;
+	font-weight: 600;
+	font-size: 0.95rem;
+	margin-bottom: 0.3em;
+}
+
+.sib_signup_form input[type="email"] {
+	width: 100%;
+	max-width: 420px;
+	background: #fff;
+	padding: 0.7em 1em;
+}
+
+.site .sib_signup_form input.sib-default-btn,
+.site .sib_signup_form input[type="submit"] {
+	background: var(--sn-terre) !important;
+	border: 0;
+	border-radius: 999px;
+	color: #fff;
+	cursor: pointer;
+	font-family: var(--global--font-secondary);
+	font-size: 1rem;
+	font-weight: 600;
+	margin-top: 0.4em;
+	padding: 0.8em 1.8em;
+}
+
+.site .sib_signup_form input.sib-default-btn:hover {
+	background: var(--sn-vert) !important;
+}
+
+.sib_signup_form p:last-child {
+	color: var(--sn-gris);
+	font-size: 0.85rem;
+}
+
+/* ---------- Widgets (bas de page) ---------- */
+.widget-area .widget {
+	background: #fff;
+	border: 1px solid var(--sn-bord);
+	border-radius: var(--sn-rayon);
+	padding: 1.5em;
+	font-size: 0.95rem;
+}
+
+.widget-area .widget-title {
+	font-family: var(--global--font-primary);
+	color: var(--sn-vert);
+	font-size: 1.25rem;
+	font-weight: 700;
+}
+
+/* La newsletter figure déjà dans la page d'accueil */
+.home .widget-area #custom_html-7 {
+	display: none;
+}
+
+/* ---------- Pied de page ---------- */
+.site-footer > .site-info {
+	border-top: 1px solid var(--sn-bord);
+	color: var(--sn-gris);
+	font-size: 0.9rem;
+}
+
+.site-footer .site-logo .custom-logo {
+	max-height: 60px;
+	width: auto;
+}
+
+.site-footer .powered-by {
+	display: none;
+}
+
+/* ---------- Mobile ---------- */
+@media (max-width: 651px) {
+	:root {
+		--global--font-size-base: 1.0625rem;
+		--entry-header--font-size: 2rem;
+		--global--font-size-page-title: 2.1rem;
+		--heading--font-size-h2: 1.55rem;
+	}
+
+	.entry-content .wp-block-group.has-background {
+		padding: 1.5rem 1.25rem;
+	}
+
+	.site-header {
+		padding-top: 0.75rem;
+		padding-bottom: 0.5rem;
+	}
+
+	.site-header > .site-logo {
+		padding-bottom: 0.5rem;
+		margin-bottom: 0.75rem;
+	}
+
+	.site-branding {
+		margin-bottom: 0;
+	}
+
+	.site-header .menu-button-container {
+		padding-top: 0;
+	}
+
+	.site-main {
+		padding-top: 1.5rem;
+	}
+}
+
+/* ---------- Sélecteur de langues : drapeaux ---------- */
+/* Le nom de la langue reste présent (lecteurs d'écran), seul le drapeau est affiché. */
+.primary-navigation .primary-menu-container > ul > .menu-item.lang-item > a {
+	display: inline-block;
+	width: 32px;
+	height: 22px;
+	padding: 0;
+	margin: 0 4px;
+	overflow: hidden;
+	text-indent: 200%;
+	white-space: nowrap;
+	vertical-align: middle;
+	background-color: #fff;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	border-radius: 4px;
+	box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15);
+	opacity: 0.75;
+	transition: opacity 0.15s, transform 0.15s, box-shadow 0.15s;
+}
+
+.primary-navigation .primary-menu-container > ul > .menu-item.lang-item > a:hover,
+.primary-navigation .primary-menu-container > ul > .menu-item.lang-item > a:focus {
+	opacity: 1;
+	transform: translateY(-1px);
+	background-color: #fff;
+}
+
+.primary-navigation .primary-menu-container > ul > .menu-item.lang-item.current-lang > a {
+	opacity: 1;
+	background-color: #fff;
+	box-shadow: 0 0 0 2px #fff, 0 0 0 4px var(--sn-vert);
+}
+
+.primary-navigation .lang-item-fr > a {
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3Cpath fill='%23002654' d='M0 0h1v2H0z'/%3E%3Cpath fill='%23fff' d='M1 0h1v2H1z'/%3E%3Cpath fill='%23ce1126' d='M2 0h1v2H2z'/%3E%3C/svg%3E");
+}
+
+.primary-navigation .lang-item-it > a {
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3Cpath fill='%23009246' d='M0 0h1v2H0z'/%3E%3Cpath fill='%23fff' d='M1 0h1v2H1z'/%3E%3Cpath fill='%23ce2b37' d='M2 0h1v2H2z'/%3E%3C/svg%3E");
+}
+
+.primary-navigation .lang-item-es > a {
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3Cpath fill='%23aa151b' d='M0 0h3v2H0z'/%3E%3Cpath fill='%23f1bf00' d='M0 .5h3v1H0z'/%3E%3C/svg%3E");
+}
+
+.primary-navigation .lang-item-en > a {
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E%3CclipPath id='t'%3E%3Cpath d='M30,15h30v15zv15h-30zh-30v-15zv-15h30z'/%3E%3C/clipPath%3E%3Cpath d='M0,0v30h60v-30z' fill='%23012169'/%3E%3Cpath d='M0,0L60,30M60,0L0,30' stroke='%23fff' stroke-width='6'/%3E%3Cpath d='M0,0L60,30M60,0L0,30' clip-path='url(%23t)' stroke='%23c8102e' stroke-width='4'/%3E%3Cpath d='M30,0v30M0,15h60' stroke='%23fff' stroke-width='10'/%3E%3Cpath d='M30,0v30M0,15h60' stroke='%23c8102e' stroke-width='6'/%3E%3C/svg%3E");
+}
+.primary-navigation .lang-item-en > a {
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 190 100'%3E%3Cpath fill='%23b22234' d='M0 0h190v100H0z'/%3E%3Cpath fill='%23fff' d='M0 7.69h190v7.69H0zM0 23.08h190v7.69H0zM0 38.46h190v7.69H0zM0 53.85h190v7.69H0zM0 69.23h190v7.69H0zM0 84.62h190v7.69H0z'/%3E%3Cpath fill='%233c3b6e' d='M0 0h76v53.85H0z'/%3E%3Cpattern id='s' width='12.67' height='10.77' patternUnits='userSpaceOnUse'%3E%3Ccircle cx='6.33' cy='5.38' r='2.2' fill='%23fff'/%3E%3C/pattern%3E%3Cpath fill='url(%23s)' d='M0 0h76v53.85H0z'/%3E%3C/svg%3E");
+}
+
+/* ---------- Logo : rosette + nom du site (traduit par Polylang) ---------- */
+:root {
+	--sn-rosette: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-35 -35 70 70'%3E%3Cg%3E%3Cpath d='M0 0 C 9 -9.299999999999999, 8.1 -24.8, 0 -31 C -8.1 -24.8, -9 -9.299999999999999, 0 0Z' fill='%234f7f63' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%280.0%29'/%3E%3Ccircle cx='0' cy='-28.8' r='1.8' fill='%23b85c38' transform='rotate%280.0%29'/%3E%3Cpath d='M0 0 C 9 -9.299999999999999, 8.1 -24.8, 0 -31 C -8.1 -24.8, -9 -9.299999999999999, 0 0Z' fill='%234f7f63' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%2836.0%29'/%3E%3Ccircle cx='0' cy='-28.8' r='1.8' fill='%23b85c38' transform='rotate%2836.0%29'/%3E%3Cpath d='M0 0 C 9 -9.299999999999999, 8.1 -24.8, 0 -31 C -8.1 -24.8, -9 -9.299999999999999, 0 0Z' fill='%234f7f63' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%2872.0%29'/%3E%3Ccircle cx='0' cy='-28.8' r='1.8' fill='%23b85c38' transform='rotate%2872.0%29'/%3E%3Cpath d='M0 0 C 9 -9.299999999999999, 8.1 -24.8, 0 -31 C -8.1 -24.8, -9 -9.299999999999999, 0 0Z' fill='%234f7f63' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28108.0%29'/%3E%3Ccircle cx='0' cy='-28.8' r='1.8' fill='%23b85c38' transform='rotate%28108.0%29'/%3E%3Cpath d='M0 0 C 9 -9.299999999999999, 8.1 -24.8, 0 -31 C -8.1 -24.8, -9 -9.299999999999999, 0 0Z' fill='%234f7f63' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28144.0%29'/%3E%3Ccircle cx='0' cy='-28.8' r='1.8' fill='%23b85c38' transform='rotate%28144.0%29'/%3E%3Cpath d='M0 0 C 9 -9.299999999999999, 8.1 -24.8, 0 -31 C -8.1 -24.8, -9 -9.299999999999999, 0 0Z' fill='%234f7f63' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28180.0%29'/%3E%3Ccircle cx='0' cy='-28.8' r='1.8' fill='%23b85c38' transform='rotate%28180.0%29'/%3E%3Cpath d='M0 0 C 9 -9.299999999999999, 8.1 -24.8, 0 -31 C -8.1 -24.8, -9 -9.299999999999999, 0 0Z' fill='%234f7f63' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28216.0%29'/%3E%3Ccircle cx='0' cy='-28.8' r='1.8' fill='%23b85c38' transform='rotate%28216.0%29'/%3E%3Cpath d='M0 0 C 9 -9.299999999999999, 8.1 -24.8, 0 -31 C -8.1 -24.8, -9 -9.299999999999999, 0 0Z' fill='%234f7f63' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28252.0%29'/%3E%3Ccircle cx='0' cy='-28.8' r='1.8' fill='%23b85c38' transform='rotate%28252.0%29'/%3E%3Cpath d='M0 0 C 9 -9.299999999999999, 8.1 -24.8, 0 -31 C -8.1 -24.8, -9 -9.299999999999999, 0 0Z' fill='%234f7f63' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28288.0%29'/%3E%3Ccircle cx='0' cy='-28.8' r='1.8' fill='%23b85c38' transform='rotate%28288.0%29'/%3E%3Cpath d='M0 0 C 9 -9.299999999999999, 8.1 -24.8, 0 -31 C -8.1 -24.8, -9 -9.299999999999999, 0 0Z' fill='%234f7f63' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28324.0%29'/%3E%3Ccircle cx='0' cy='-28.8' r='1.8' fill='%23b85c38' transform='rotate%28324.0%29'/%3E%3Cpath d='M0 0 C 8 -6.8999999999999995, 7.2 -18.400000000000002, 0 -23 C -7.2 -18.400000000000002, -8 -6.8999999999999995, 0 0Z' fill='%236f9c7c' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%2822.5%29'/%3E%3Cpath d='M0 0 C 8 -6.8999999999999995, 7.2 -18.400000000000002, 0 -23 C -7.2 -18.400000000000002, -8 -6.8999999999999995, 0 0Z' fill='%236f9c7c' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%2867.5%29'/%3E%3Cpath d='M0 0 C 8 -6.8999999999999995, 7.2 -18.400000000000002, 0 -23 C -7.2 -18.400000000000002, -8 -6.8999999999999995, 0 0Z' fill='%236f9c7c' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28112.5%29'/%3E%3Cpath d='M0 0 C 8 -6.8999999999999995, 7.2 -18.400000000000002, 0 -23 C -7.2 -18.400000000000002, -8 -6.8999999999999995, 0 0Z' fill='%236f9c7c' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28157.5%29'/%3E%3Cpath d='M0 0 C 8 -6.8999999999999995, 7.2 -18.400000000000002, 0 -23 C -7.2 -18.400000000000002, -8 -6.8999999999999995, 0 0Z' fill='%236f9c7c' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28202.5%29'/%3E%3Cpath d='M0 0 C 8 -6.8999999999999995, 7.2 -18.400000000000002, 0 -23 C -7.2 -18.400000000000002, -8 -6.8999999999999995, 0 0Z' fill='%236f9c7c' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28247.5%29'/%3E%3Cpath d='M0 0 C 8 -6.8999999999999995, 7.2 -18.400000000000002, 0 -23 C -7.2 -18.400000000000002, -8 -6.8999999999999995, 0 0Z' fill='%236f9c7c' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28292.5%29'/%3E%3Cpath d='M0 0 C 8 -6.8999999999999995, 7.2 -18.400000000000002, 0 -23 C -7.2 -18.400000000000002, -8 -6.8999999999999995, 0 0Z' fill='%236f9c7c' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28337.5%29'/%3E%3Cpath d='M0 0 C 6 -4.5, 5.4 -12.0, 0 -15 C -5.4 -12.0, -6 -4.5, 0 0Z' fill='%2393bb97' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%280.0%29'/%3E%3Cpath d='M0 0 C 6 -4.5, 5.4 -12.0, 0 -15 C -5.4 -12.0, -6 -4.5, 0 0Z' fill='%2393bb97' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%2860.0%29'/%3E%3Cpath d='M0 0 C 6 -4.5, 5.4 -12.0, 0 -15 C -5.4 -12.0, -6 -4.5, 0 0Z' fill='%2393bb97' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28120.0%29'/%3E%3Cpath d='M0 0 C 6 -4.5, 5.4 -12.0, 0 -15 C -5.4 -12.0, -6 -4.5, 0 0Z' fill='%2393bb97' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28180.0%29'/%3E%3Cpath d='M0 0 C 6 -4.5, 5.4 -12.0, 0 -15 C -5.4 -12.0, -6 -4.5, 0 0Z' fill='%2393bb97' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28240.0%29'/%3E%3Cpath d='M0 0 C 6 -4.5, 5.4 -12.0, 0 -15 C -5.4 -12.0, -6 -4.5, 0 0Z' fill='%2393bb97' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28300.0%29'/%3E%3Cpath d='M0 0 C 4 -2.4, 3.6 -6.4, 0 -8 C -3.6 -6.4, -4 -2.4, 0 0Z' fill='%23c4dcbf' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%2836.0%29'/%3E%3Cpath d='M0 0 C 4 -2.4, 3.6 -6.4, 0 -8 C -3.6 -6.4, -4 -2.4, 0 0Z' fill='%23c4dcbf' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28108.0%29'/%3E%3Cpath d='M0 0 C 4 -2.4, 3.6 -6.4, 0 -8 C -3.6 -6.4, -4 -2.4, 0 0Z' fill='%23c4dcbf' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28180.0%29'/%3E%3Cpath d='M0 0 C 4 -2.4, 3.6 -6.4, 0 -8 C -3.6 -6.4, -4 -2.4, 0 0Z' fill='%23c4dcbf' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28252.0%29'/%3E%3Cpath d='M0 0 C 4 -2.4, 3.6 -6.4, 0 -8 C -3.6 -6.4, -4 -2.4, 0 0Z' fill='%23c4dcbf' stroke='%23faf7f0' stroke-width='1.2' stroke-linejoin='round' transform='rotate%28324.0%29'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+.site-header > .site-logo,
+.site-footer .site-name .custom-logo-link {
+	display: none;
+}
+
+.site-branding {
+	display: grid;
+	grid-template-columns: 64px auto;
+	column-gap: 16px;
+	align-items: center;
+}
+
+.site-branding::before {
+	content: "";
+	grid-row: 1 / span 2;
+	width: 64px;
+	height: 64px;
+	background: var(--sn-rosette) center / contain no-repeat;
+}
+
+.site-branding .site-title {
+	grid-column: 2;
+	margin: 0;
+	font-size: 2.1rem;
+	line-height: 1.1;
+}
+
+.site-branding .site-description {
+	grid-column: 2;
+	margin: 0.15em 0 0;
+}
+
+.site-footer .site-name::before {
+	content: "";
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background: var(--sn-rosette) center / contain no-repeat;
+}
+
+@media (max-width: 651px) {
+	.site-header.has-logo.has-title-and-tagline.has-menu .site-branding,
+	.site-branding {
+		grid-template-columns: 48px auto;
+		column-gap: 12px;
+		justify-content: start;
+		text-align: left;
+		margin-left: 0;
+		margin-right: auto;
+		max-width: calc(100% - 110px);
+	}
+
+	.site-branding::before {
+		width: 48px;
+		height: 48px;
+	}
+
+	.site-branding .site-title {
+		font-size: 1.6rem;
+	}
+}
