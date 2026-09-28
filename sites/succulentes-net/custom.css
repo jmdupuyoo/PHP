@@ -730,23 +730,28 @@ body.custom-background {
 }
 
 
+
+
 /* ---------- Diaporama : pages d'accueil uniquement, sous le bandeau vert ---------- */
-/* Images de la médiathèque (versions 1536 px), 14 vues de 4 s en fondu. Pour changer une image : remplacer son adresse
-   ici (dans les @keyframes) et dans la liste de préchargement. */
-/* 1. Encephalartos laurentianus */
-/* 2. Nymphaea 'Wood's Blue Goddess' */
-/* 3. Euphorbia canariensis et E. balsamifera, Arona (Tenerife) */
-/* 4. Dioon edule, Lisbonne */
-/* 5. Nymphaea 'Siam Pink' */
-/* 6. Aloe marlothii en fleurs */
-/* 7. Chamaerops humilis, Palmetum de Tenerife */
-/* 8. Ceratozamia mexicana, Lisbonne */
-/* 9. Nymphaea 'Director George T. Moore' */
-/* 10. Dracaena draco millénaire, Icod (Tenerife) */
-/* 11. Euphorbia lamarckii dans son habitat, Arona (Tenerife) */
-/* 12. Nymphaea 'Red Flare' */
-/* 13. Puya berteroniana en fleurs, Domaine du Rayol */
-/* 14. Euphorbia regis-jubae, Parque del Drago (Tenerife) */
+/* 14 photos de la médiathèque (versions 1536 px), 4 s chacune, en fondu. Chaque vue charge la suivante
+   en arrière-plan (2e image) : 2 photos seulement sont téléchargées à l'ouverture de la page.
+   Pour changer une photo : remplacer son adresse dans la liste ci-dessous. */
+.home {
+	--sn-d1: url("https://succulentes.net/wp-content/uploads/2026/08/Encephalartos-laurentianus-1536x1024.jpg"); /* Encephalartos laurentianus */
+	--sn-d2: url("https://succulentes.net/wp-content/uploads/2024/08/woods-blue-goddess-1536x1152.jpg"); /* Nymphaea 'Wood's Blue Goddess' */
+	--sn-d3: url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-canariensis-balsamifera-arona-tenerife-1536x1024.jpg"); /* Euphorbia canariensis et E. balsamifera, Arona (Tenerife) */
+	--sn-d4: url("https://succulentes.net/wp-content/uploads/2023/10/dioon-edule-lisbonne-1536x1152.jpg"); /* Dioon edule, Lisbonne */
+	--sn-d5: url("https://succulentes.net/wp-content/uploads/2024/08/nymphaea-pink-siam-1536x1152.jpg"); /* Nymphaea 'Siam Pink' */
+	--sn-d6: url("https://succulentes.net/wp-content/uploads/2026/04/aloe-marlothii-fleurs-1536x1152.jpeg"); /* Aloe marlothii en fleurs */
+	--sn-d7: url("https://succulentes.net/wp-content/uploads/2026/09/chamaerops-humilis-argentea-cerifera-palmetum-tenerife-1536x1024.jpg"); /* Chamaerops humilis, Palmetum de Tenerife */
+	--sn-d8: url("https://succulentes.net/wp-content/uploads/2023/10/ceratozamia-mexicana-lisbonne-1536x1152.jpg"); /* Ceratozamia mexicana, Lisbonne */
+	--sn-d9: url("https://succulentes.net/wp-content/uploads/2024/08/director-moore-1536x1152.jpg"); /* Nymphaea 'Director George T. Moore' */
+	--sn-d10: url("https://succulentes.net/wp-content/uploads/2026/08/dracaena-draco-millenaire.jpg"); /* Dracaena draco millénaire, Icod (Tenerife) */
+	--sn-d11: url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-lamarckii-habitat-arona-tenerife-1536x1024.jpg"); /* Euphorbia lamarckii dans son habitat, Arona (Tenerife) */
+	--sn-d12: url("https://succulentes.net/wp-content/uploads/2024/09/nymphaea-red-flare-1536x1152.jpg"); /* Nymphaea 'Red Flare' */
+	--sn-d13: url("https://succulentes.net/wp-content/uploads/2026/04/puya-berteroniana-floraison-rayol-1536x1152.jpeg"); /* Puya berteroniana en fleurs, Domaine du Rayol */
+	--sn-d14: url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-regis-jubae-parque-drago-icod-tenerife-1536x1024.jpg"); /* Euphorbia regis-jubae, Parque del Drago (Tenerife) */
+}
 
 .home #masthead::after {
 	content: "";
@@ -755,80 +760,45 @@ body.custom-background {
 	order: 4;
 	flex: 0 0 100vw;
 	width: 100vw;
-	height: clamp(210px, 32vw, 480px);
+	height: clamp(170px, 24vw, 360px);
 	margin: -1.1rem calc(50% - 50vw) 0;
-	background: var(--sn-sauge) url("https://succulentes.net/wp-content/uploads/2026/08/Encephalartos-laurentianus-1536x1024.jpg") center / cover no-repeat;
+	background-color: var(--sn-sauge);
+	background-image: var(--sn-d1), var(--sn-d2);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
 	animation: sn-diaporama 56s linear -0.8s infinite;
 }
 
-/* Préchargement des images suivantes (invisible) */
-.home #masthead::before {
-	content: url("https://succulentes.net/wp-content/uploads/2024/08/woods-blue-goddess-1536x1152.jpg") url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-canariensis-balsamifera-arona-tenerife-1536x1024.jpg") url("https://succulentes.net/wp-content/uploads/2023/10/dioon-edule-lisbonne-1536x1152.jpg") url("https://succulentes.net/wp-content/uploads/2024/08/nymphaea-pink-siam-1536x1152.jpg") url("https://succulentes.net/wp-content/uploads/2026/04/aloe-marlothii-fleurs-1536x1152.jpeg") url("https://succulentes.net/wp-content/uploads/2026/09/chamaerops-humilis-argentea-cerifera-palmetum-tenerife-1536x1024.jpg") url("https://succulentes.net/wp-content/uploads/2023/10/ceratozamia-mexicana-lisbonne-1536x1152.jpg") url("https://succulentes.net/wp-content/uploads/2024/08/director-moore-1536x1152.jpg") url("https://succulentes.net/wp-content/uploads/2026/08/dracaena-draco-millenaire.jpg") url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-lamarckii-habitat-arona-tenerife-1536x1024.jpg") url("https://succulentes.net/wp-content/uploads/2024/09/nymphaea-red-flare-1536x1152.jpg") url("https://succulentes.net/wp-content/uploads/2026/04/puya-berteroniana-floraison-rayol-1536x1152.jpeg") url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-regis-jubae-parque-drago-icod-tenerife-1536x1024.jpg");
-	position: absolute;
-	width: 0;
-	height: 0;
-	overflow: hidden;
-	opacity: 0;
-	z-index: -1;
-}
-
 @keyframes sn-diaporama {
-	0.000% { background-image: url("https://succulentes.net/wp-content/uploads/2026/08/Encephalartos-laurentianus-1536x1024.jpg"); opacity: 0; }
-	1.250% { background-image: url("https://succulentes.net/wp-content/uploads/2026/08/Encephalartos-laurentianus-1536x1024.jpg"); opacity: 1; }
-	5.893% { background-image: url("https://succulentes.net/wp-content/uploads/2026/08/Encephalartos-laurentianus-1536x1024.jpg"); opacity: 1; }
-	7.142% { background-image: url("https://succulentes.net/wp-content/uploads/2026/08/Encephalartos-laurentianus-1536x1024.jpg"); opacity: 0; }
-	7.144% { background-image: url("https://succulentes.net/wp-content/uploads/2024/08/woods-blue-goddess-1536x1152.jpg"); opacity: 0; }
-	8.393% { background-image: url("https://succulentes.net/wp-content/uploads/2024/08/woods-blue-goddess-1536x1152.jpg"); opacity: 1; }
-	13.036% { background-image: url("https://succulentes.net/wp-content/uploads/2024/08/woods-blue-goddess-1536x1152.jpg"); opacity: 1; }
-	14.285% { background-image: url("https://succulentes.net/wp-content/uploads/2024/08/woods-blue-goddess-1536x1152.jpg"); opacity: 0; }
-	14.287% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-canariensis-balsamifera-arona-tenerife-1536x1024.jpg"); opacity: 0; }
-	15.536% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-canariensis-balsamifera-arona-tenerife-1536x1024.jpg"); opacity: 1; }
-	20.179% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-canariensis-balsamifera-arona-tenerife-1536x1024.jpg"); opacity: 1; }
-	21.428% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-canariensis-balsamifera-arona-tenerife-1536x1024.jpg"); opacity: 0; }
-	21.430% { background-image: url("https://succulentes.net/wp-content/uploads/2023/10/dioon-edule-lisbonne-1536x1152.jpg"); opacity: 0; }
-	22.679% { background-image: url("https://succulentes.net/wp-content/uploads/2023/10/dioon-edule-lisbonne-1536x1152.jpg"); opacity: 1; }
-	27.321% { background-image: url("https://succulentes.net/wp-content/uploads/2023/10/dioon-edule-lisbonne-1536x1152.jpg"); opacity: 1; }
-	28.570% { background-image: url("https://succulentes.net/wp-content/uploads/2023/10/dioon-edule-lisbonne-1536x1152.jpg"); opacity: 0; }
-	28.572% { background-image: url("https://succulentes.net/wp-content/uploads/2024/08/nymphaea-pink-siam-1536x1152.jpg"); opacity: 0; }
-	29.821% { background-image: url("https://succulentes.net/wp-content/uploads/2024/08/nymphaea-pink-siam-1536x1152.jpg"); opacity: 1; }
-	34.464% { background-image: url("https://succulentes.net/wp-content/uploads/2024/08/nymphaea-pink-siam-1536x1152.jpg"); opacity: 1; }
-	35.713% { background-image: url("https://succulentes.net/wp-content/uploads/2024/08/nymphaea-pink-siam-1536x1152.jpg"); opacity: 0; }
-	35.715% { background-image: url("https://succulentes.net/wp-content/uploads/2026/04/aloe-marlothii-fleurs-1536x1152.jpeg"); opacity: 0; }
-	36.964% { background-image: url("https://succulentes.net/wp-content/uploads/2026/04/aloe-marlothii-fleurs-1536x1152.jpeg"); opacity: 1; }
-	41.607% { background-image: url("https://succulentes.net/wp-content/uploads/2026/04/aloe-marlothii-fleurs-1536x1152.jpeg"); opacity: 1; }
-	42.856% { background-image: url("https://succulentes.net/wp-content/uploads/2026/04/aloe-marlothii-fleurs-1536x1152.jpeg"); opacity: 0; }
-	42.858% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/chamaerops-humilis-argentea-cerifera-palmetum-tenerife-1536x1024.jpg"); opacity: 0; }
-	44.107% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/chamaerops-humilis-argentea-cerifera-palmetum-tenerife-1536x1024.jpg"); opacity: 1; }
-	48.750% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/chamaerops-humilis-argentea-cerifera-palmetum-tenerife-1536x1024.jpg"); opacity: 1; }
-	49.999% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/chamaerops-humilis-argentea-cerifera-palmetum-tenerife-1536x1024.jpg"); opacity: 0; }
-	50.001% { background-image: url("https://succulentes.net/wp-content/uploads/2023/10/ceratozamia-mexicana-lisbonne-1536x1152.jpg"); opacity: 0; }
-	51.250% { background-image: url("https://succulentes.net/wp-content/uploads/2023/10/ceratozamia-mexicana-lisbonne-1536x1152.jpg"); opacity: 1; }
-	55.893% { background-image: url("https://succulentes.net/wp-content/uploads/2023/10/ceratozamia-mexicana-lisbonne-1536x1152.jpg"); opacity: 1; }
-	57.142% { background-image: url("https://succulentes.net/wp-content/uploads/2023/10/ceratozamia-mexicana-lisbonne-1536x1152.jpg"); opacity: 0; }
-	57.144% { background-image: url("https://succulentes.net/wp-content/uploads/2024/08/director-moore-1536x1152.jpg"); opacity: 0; }
-	58.393% { background-image: url("https://succulentes.net/wp-content/uploads/2024/08/director-moore-1536x1152.jpg"); opacity: 1; }
-	63.036% { background-image: url("https://succulentes.net/wp-content/uploads/2024/08/director-moore-1536x1152.jpg"); opacity: 1; }
-	64.285% { background-image: url("https://succulentes.net/wp-content/uploads/2024/08/director-moore-1536x1152.jpg"); opacity: 0; }
-	64.287% { background-image: url("https://succulentes.net/wp-content/uploads/2026/08/dracaena-draco-millenaire.jpg"); opacity: 0; }
-	65.536% { background-image: url("https://succulentes.net/wp-content/uploads/2026/08/dracaena-draco-millenaire.jpg"); opacity: 1; }
-	70.179% { background-image: url("https://succulentes.net/wp-content/uploads/2026/08/dracaena-draco-millenaire.jpg"); opacity: 1; }
-	71.428% { background-image: url("https://succulentes.net/wp-content/uploads/2026/08/dracaena-draco-millenaire.jpg"); opacity: 0; }
-	71.430% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-lamarckii-habitat-arona-tenerife-1536x1024.jpg"); opacity: 0; }
-	72.679% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-lamarckii-habitat-arona-tenerife-1536x1024.jpg"); opacity: 1; }
-	77.321% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-lamarckii-habitat-arona-tenerife-1536x1024.jpg"); opacity: 1; }
-	78.570% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-lamarckii-habitat-arona-tenerife-1536x1024.jpg"); opacity: 0; }
-	78.572% { background-image: url("https://succulentes.net/wp-content/uploads/2024/09/nymphaea-red-flare-1536x1152.jpg"); opacity: 0; }
-	79.821% { background-image: url("https://succulentes.net/wp-content/uploads/2024/09/nymphaea-red-flare-1536x1152.jpg"); opacity: 1; }
-	84.464% { background-image: url("https://succulentes.net/wp-content/uploads/2024/09/nymphaea-red-flare-1536x1152.jpg"); opacity: 1; }
-	85.713% { background-image: url("https://succulentes.net/wp-content/uploads/2024/09/nymphaea-red-flare-1536x1152.jpg"); opacity: 0; }
-	85.715% { background-image: url("https://succulentes.net/wp-content/uploads/2026/04/puya-berteroniana-floraison-rayol-1536x1152.jpeg"); opacity: 0; }
-	86.964% { background-image: url("https://succulentes.net/wp-content/uploads/2026/04/puya-berteroniana-floraison-rayol-1536x1152.jpeg"); opacity: 1; }
-	91.607% { background-image: url("https://succulentes.net/wp-content/uploads/2026/04/puya-berteroniana-floraison-rayol-1536x1152.jpeg"); opacity: 1; }
-	92.856% { background-image: url("https://succulentes.net/wp-content/uploads/2026/04/puya-berteroniana-floraison-rayol-1536x1152.jpeg"); opacity: 0; }
-	92.858% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-regis-jubae-parque-drago-icod-tenerife-1536x1024.jpg"); opacity: 0; }
-	94.107% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-regis-jubae-parque-drago-icod-tenerife-1536x1024.jpg"); opacity: 1; }
-	98.750% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-regis-jubae-parque-drago-icod-tenerife-1536x1024.jpg"); opacity: 1; }
-	100.000% { background-image: url("https://succulentes.net/wp-content/uploads/2026/09/euphorbia-regis-jubae-parque-drago-icod-tenerife-1536x1024.jpg"); opacity: 0; }
+	0.000%, 7.142% { background-image: var(--sn-d1), var(--sn-d2); opacity: 0; }
+	1.250%, 5.893% { background-image: var(--sn-d1), var(--sn-d2); opacity: 1; }
+	7.144%, 14.285% { background-image: var(--sn-d2), var(--sn-d3); opacity: 0; }
+	8.393%, 13.036% { background-image: var(--sn-d2), var(--sn-d3); opacity: 1; }
+	14.287%, 21.428% { background-image: var(--sn-d3), var(--sn-d4); opacity: 0; }
+	15.536%, 20.179% { background-image: var(--sn-d3), var(--sn-d4); opacity: 1; }
+	21.430%, 28.570% { background-image: var(--sn-d4), var(--sn-d5); opacity: 0; }
+	22.679%, 27.321% { background-image: var(--sn-d4), var(--sn-d5); opacity: 1; }
+	28.572%, 35.713% { background-image: var(--sn-d5), var(--sn-d6); opacity: 0; }
+	29.821%, 34.464% { background-image: var(--sn-d5), var(--sn-d6); opacity: 1; }
+	35.715%, 42.856% { background-image: var(--sn-d6), var(--sn-d7); opacity: 0; }
+	36.964%, 41.607% { background-image: var(--sn-d6), var(--sn-d7); opacity: 1; }
+	42.858%, 49.999% { background-image: var(--sn-d7), var(--sn-d8); opacity: 0; }
+	44.107%, 48.750% { background-image: var(--sn-d7), var(--sn-d8); opacity: 1; }
+	50.001%, 57.142% { background-image: var(--sn-d8), var(--sn-d9); opacity: 0; }
+	51.250%, 55.893% { background-image: var(--sn-d8), var(--sn-d9); opacity: 1; }
+	57.144%, 64.285% { background-image: var(--sn-d9), var(--sn-d10); opacity: 0; }
+	58.393%, 63.036% { background-image: var(--sn-d9), var(--sn-d10); opacity: 1; }
+	64.287%, 71.428% { background-image: var(--sn-d10), var(--sn-d11); opacity: 0; }
+	65.536%, 70.179% { background-image: var(--sn-d10), var(--sn-d11); opacity: 1; }
+	71.430%, 78.570% { background-image: var(--sn-d11), var(--sn-d12); opacity: 0; }
+	72.679%, 77.321% { background-image: var(--sn-d11), var(--sn-d12); opacity: 1; }
+	78.572%, 85.713% { background-image: var(--sn-d12), var(--sn-d13); opacity: 0; }
+	79.821%, 84.464% { background-image: var(--sn-d12), var(--sn-d13); opacity: 1; }
+	85.715%, 92.856% { background-image: var(--sn-d13), var(--sn-d14); opacity: 0; }
+	86.964%, 91.607% { background-image: var(--sn-d13), var(--sn-d14); opacity: 1; }
+	92.858%, 100.000% { background-image: var(--sn-d14), var(--sn-d1); opacity: 0; }
+	94.107%, 98.750% { background-image: var(--sn-d14), var(--sn-d1); opacity: 1; }
 }
 
 @media (max-width: 651px) {
