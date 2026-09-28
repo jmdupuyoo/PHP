@@ -15,6 +15,7 @@ Thème Twenty Twenty-One, Polylang (fr, it, en, es), Rank Math.
 | Élément | État |
 |---|---|
 | Charte, sommaire, newsletter, widgets en cartes, pied de page | En ligne |
+| Barre de recherche (bloc Recherche) aux couleurs du site | En ligne |
 | Drapeaux (FR, IT, US, ES) | En ligne |
 | Widgets text-2 (FR) et text-5 (IT) nettoyés | Fait |
 | Logo A (rosette + nom traduit) | En ligne |
@@ -42,11 +43,12 @@ Quatre entrées sans menu déroulant, affichées dans un bandeau vert sous le lo
 |---|---|---|---|---|
 | Plantes | 594 | 14798 | 11576 | 23116 |
 | Jardins | 4532 | 24688 | 24689 | 24690 |
-| Campus (e-books, formations) | 598 | 24691 | 24692 | 24693 |
+| Campus (e-books, formations) | 24710 (`/campus/`) | 24691 (`/en/campus-en/`) | 24692 | 24693 |
 | Blog | 9 | 15072 | 11688 | pas de page |
 
 Les pages Jardins et Campus en/it/es sont publiées et reliées (Polylang) aux pages françaises ;
-elles ne contiennent encore qu'une phrase d'introduction (à développer).
+elles ne contiennent encore qu'une phrase d'introduction (à développer). La page Campus française
+(24710) présente les e-books et formations à venir et renvoie à l'ancienne page 598 pour les cursus existants.
 
 Le CSS place les drapeaux par position absolue (fr, it, en, es de gauche à droite) : à revoir si une
 langue est ajoutée. Le bouton « Menu » mobile du thème est masqué, les quatre entrées restent visibles.

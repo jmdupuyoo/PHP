@@ -645,3 +645,86 @@ body.custom-background {
 	#masthead .menu-wrapper > .lang-item-en { right: 30px; }
 	#masthead .menu-wrapper > .lang-item-es { right: 0; }
 }
+
+/* ---------- Barre de recherche (bloc Recherche) ---------- */
+.wp-block-search {
+	margin-top: 1.75rem;
+	margin-bottom: 2rem;
+}
+
+.wp-block-search .wp-block-search__label {
+	display: block;
+	margin-bottom: 0.6em;
+	color: var(--sn-vert);
+	font-family: var(--global--font-secondary);
+	font-size: 0.95rem;
+	font-weight: 600;
+	line-height: 1.5;
+}
+
+.wp-block-search .wp-block-search__inside-wrapper,
+.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper {
+	display: flex;
+	align-items: center;
+	width: 100%;
+	max-width: 560px;
+	padding: 4px;
+	background: #fff;
+	border: 1px solid #b9c4bb;
+	border-radius: 999px;
+	transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.wp-block-search .wp-block-search__inside-wrapper:focus-within {
+	border-color: var(--sn-vert);
+	box-shadow: 0 0 0 3px rgba(31, 77, 58, 0.15);
+}
+
+.wp-block-search .wp-block-search__input,
+.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper .wp-block-search__input {
+	flex: 1 1 auto;
+	min-width: 0;
+	width: auto;
+	margin: 0;
+	padding: 0.55em 1.1em;
+	background: transparent;
+	border: 0;
+	box-shadow: none;
+	color: var(--sn-texte);
+	font-size: 1rem;
+}
+
+.wp-block-search .wp-block-search__input:focus {
+	outline: none;
+}
+
+.wp-block-search .wp-block-search__button,
+.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper .wp-block-search__button {
+	flex: 0 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 44px;
+	height: 44px;
+	margin: 0;
+	padding: 0;
+	background: var(--sn-vert) !important;
+	border: 0;
+	border-radius: 50%;
+	color: #fff !important;
+	cursor: pointer;
+}
+
+.wp-block-search .wp-block-search__button:hover,
+.wp-block-search .wp-block-search__button:focus {
+	background: var(--sn-terre) !important;
+}
+
+.wp-block-search .wp-block-search__button svg,
+.wp-block-search .wp-block-search__button.has-icon svg.search-icon {
+	width: 26px;
+	height: 26px;
+	min-width: 26px;
+	min-height: 26px;
+	fill: currentColor;
+}
