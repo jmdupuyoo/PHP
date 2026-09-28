@@ -62,10 +62,10 @@ L'ancien « Menu haut de page » (25) n'est plus affecté ; il peut être suppri
 
 355 pages clés (accueils, rubriques, familles, genres) : 326 descriptions rédigées d'après le contenu
 de chaque page, 28 déjà présentes conservées (4 d'entre elles, en français sur des pages en/it, remplacées),
-1 page vide sans description (fr 17597 Haworthiopsis). Détail par langue dans .
+1 page vide sans description (fr 17597 Haworthiopsis). Détail par langue dans `meta-descriptions/*.csv`.
 
 À corriger dans les contenus (relevé pendant la rédaction) :
-- Liens vers  dans 10 contenus (it 15769, 15746, 15736, 15729, 14423, 14312, 15599 ; fr 14413, 2336, 1960).
+- Liens vers `www.claudeusercontent.com` dans 10 contenus (it 15769, 15746, 15736, 15729, 14423, 14312, 15599 ; fr 14413, 2336, 1960).
 - Pages vides : fr 17597 (Haworthiopsis), es 23486 (Crassulaceae).
 - Nymphoides (fr 10307) classé à tort dans les Nymphéacées ; « Tagetes padula » (fr 7906) ; « Xanthorrhoeae » (fr 6885).
-- Genres en double (fr) : Astrophytum, Cereus, Cleistocactus sous  et .
+- Genres en double (fr) : Astrophytum, Cereus, Cleistocactus sous `especes-plantes-grasses/` et `cactaceae/`.
