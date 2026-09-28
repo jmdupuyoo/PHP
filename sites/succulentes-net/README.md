@@ -37,11 +37,13 @@ Thème Twenty Twenty-One, Polylang (fr, it, en, es), Rank Math.
 ## Menus de rubriques
 
 Un menu par langue (898 fr, 899 en, 900 it, 901 es), affecté à l'emplacement `primary` de sa langue.
-Quatre entrées sans menu déroulant, affichées dans un bandeau vert sous le logo ; les drapeaux
+Un pictogramme « maison » (lien Accueil, 1er élément du menu, texte masqué mais lu par les lecteurs d'écran)
+puis quatre entrées sans menu déroulant, affichées dans un bandeau vert sous le logo ; les drapeaux
 (sélecteur Polylang du même menu) sont sortis de la barre en CSS et placés à droite du logo.
 
 | Entrée | fr | en | it | es |
 |---|---|---|---|---|
+| Accueil (pictogramme maison, 1er élément) | 449 | 14798 | 11573 | 23116 |
 | Plantes | 594 | 14798 | 11576 | 23116 |
 | Jardins | 4532 | 24688 | 24689 | 24690 |
 | Campus (e-books, formations) | 24710 (`/campus/`) | 24691 (`/en/campus-en/`) | 24692 | 24693 |
