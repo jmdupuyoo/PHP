@@ -41,13 +41,12 @@ Quatre entrées sans menu déroulant, affichées dans un bandeau vert sous le lo
 | Entrée | fr | en | it | es |
 |---|---|---|---|---|
 | Plantes | 594 | 14798 | 11576 | 23116 |
-| Jardins | 4532 | 24688 (brouillon) | 24689 (brouillon) | 24690 (brouillon) |
-| Campus (e-books, formations) | 598 | 24691 (brouillon) | 24692 (brouillon) | 24693 (brouillon) |
+| Jardins | 4532 | 24688 | 24689 | 24690 |
+| Campus (e-books, formations) | 598 | 24691 | 24692 | 24693 |
 | Blog | 9 | 15072 | 11688 | pas de page |
 
-Les pages Jardins et Campus en/it/es sont des brouillons reliés (Polylang) aux pages françaises.
-WordPress n'affiche pas un brouillon dans un menu : les ajouter aux menus 899-901 une fois publiées
-(`add_menu_item` avec `position` 2 et 3).
+Les pages Jardins et Campus en/it/es sont publiées et reliées (Polylang) aux pages françaises ;
+elles ne contiennent encore qu'une phrase d'introduction (à développer).
 
 Le CSS place les drapeaux par position absolue (fr, it, en, es de gauche à droite) : à revoir si une
 langue est ajoutée. Le bouton « Menu » mobile du thème est masqué, les quatre entrées restent visibles.
