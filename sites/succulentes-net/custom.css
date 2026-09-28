@@ -514,3 +514,134 @@ body.custom-background {
 		font-size: 1.6rem;
 	}
 }
+
+/* ---------- Navigation : bandeau vert sous le logo, drapeaux à droite du logo ---------- */
+#masthead {
+	position: relative;
+	justify-content: flex-start;
+	padding-bottom: 0;
+	row-gap: 1.1rem;
+}
+
+#masthead .site-branding {
+	margin-left: 0;
+	margin-right: auto;
+	max-width: calc(100% - 180px);
+}
+
+#masthead .menu-button-container {
+	display: none;
+}
+
+#masthead .primary-navigation {
+	position: static;
+	top: auto;
+	order: 3;
+	flex: 0 0 100%;
+	margin: 0;
+	/* Fond vert sur toute la largeur de l'écran, sans rogner les drapeaux */
+	border-image: linear-gradient(var(--sn-vert), var(--sn-vert)) fill 0 / 0 / 0 100vmax;
+}
+
+#masthead .primary-navigation > .primary-menu-container {
+	position: static;
+	visibility: visible;
+	opacity: 1;
+	transform: none;
+	height: auto;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	overflow: visible;
+	background: transparent;
+}
+
+#masthead .primary-navigation > div > .menu-wrapper {
+	position: static;
+	flex-wrap: nowrap;
+	margin-left: -1.1rem;
+	padding: 0;
+}
+
+#masthead .primary-navigation > div > .menu-wrapper > li:not(.lang-item) {
+	display: block;
+	width: auto;
+	margin: 0;
+}
+
+#masthead .primary-navigation > div > .menu-wrapper > li:not(.lang-item) > a {
+	padding: 0.95rem 1.1rem 0.85rem;
+	color: #fff;
+	font-family: var(--global--font-secondary);
+	font-size: 0.9rem;
+	font-weight: 600;
+	letter-spacing: 0.08em;
+	text-decoration: none;
+	text-transform: uppercase;
+	box-shadow: inset 0 -3px 0 transparent;
+	transition: background-color 0.15s, box-shadow 0.15s;
+}
+
+#masthead .primary-navigation > div > .menu-wrapper > li:not(.lang-item) > a:hover,
+#masthead .primary-navigation > div > .menu-wrapper > li:not(.lang-item) > a:focus {
+	color: #fff;
+	background-color: rgba(255, 255, 255, 0.1);
+	box-shadow: inset 0 -3px 0 var(--sn-sauge);
+}
+
+#masthead .primary-navigation > div > .menu-wrapper > .current-menu-item:not(.lang-item) > a,
+#masthead .primary-navigation > div > .menu-wrapper > .current-page-ancestor:not(.lang-item) > a {
+	color: #fff;
+	box-shadow: inset 0 -3px 0 var(--sn-terre);
+}
+
+/* Drapeaux : sortis de la barre, alignés sur le logo, à droite */
+#masthead .primary-navigation > div > .menu-wrapper > li.lang-item {
+	position: absolute;
+	top: calc(1.25rem + 21px);
+	width: auto;
+	margin: 0;
+}
+
+#masthead .menu-wrapper > .lang-item-fr { right: 120px; }
+#masthead .menu-wrapper > .lang-item-it { right: 80px; }
+#masthead .menu-wrapper > .lang-item-en { right: 40px; }
+#masthead .menu-wrapper > .lang-item-es { right: 0; }
+
+@media (max-width: 651px) {
+	#masthead {
+		row-gap: 0.75rem;
+	}
+
+	#masthead .site-branding,
+	#masthead.has-logo.has-title-and-tagline.has-menu .site-branding {
+		max-width: calc(100% - 124px);
+	}
+
+	#masthead .primary-navigation > div > .menu-wrapper {
+		justify-content: space-between;
+		margin: 0 -0.6rem;
+	}
+
+	#masthead .primary-navigation > div > .menu-wrapper > li:not(.lang-item) > a {
+		padding: 0.85rem 0.6rem 0.75rem;
+		font-size: 0.78rem;
+		letter-spacing: 0.06em;
+	}
+
+	#masthead .primary-navigation > div > .menu-wrapper > li.lang-item {
+		top: calc(0.75rem + 16px);
+	}
+
+	#masthead .primary-navigation > div > .menu-wrapper > li.lang-item > a {
+		width: 24px;
+		height: 16px;
+		margin: 0 3px;
+		border-radius: 3px;
+	}
+
+	#masthead .menu-wrapper > .lang-item-fr { right: 90px; }
+	#masthead .menu-wrapper > .lang-item-it { right: 60px; }
+	#masthead .menu-wrapper > .lang-item-en { right: 30px; }
+	#masthead .menu-wrapper > .lang-item-es { right: 0; }
+}

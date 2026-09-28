@@ -19,9 +19,9 @@ Thème Twenty Twenty-One, Polylang (fr, it, en, es), Rank Math.
 | Widgets text-2 (FR) et text-5 (IT) nettoyés | Fait |
 | Logo A (rosette + nom traduit) | En ligne |
 | Traductions du nom et du slogan | En ligne (en, it, es) |
-| Menus de rubriques par langue | En ligne (menus 898 à 901, emplacement `primary`) |
-| Meta description Rank Math de l'accueil (page 449) | Proposée, à valider |
-| Page « Les plantes succulentes » (594) : lien `http://banksia`, section Fouquieriacées en double, balises `<meta charset>` parasites, « Phytolaccacéess » | À corriger si validé |
+| Menus de rubriques par langue | En ligne : bandeau vert sous le logo (Plantes, Jardins, Campus, Blog), drapeaux à droite du logo |
+| Meta description Rank Math de l'accueil (page 449) | Traité |
+| Page « Les plantes succulentes » (594) : corrections | Traité |
 
 ## Traductions du logo
 
@@ -34,20 +34,22 @@ Thème Twenty Twenty-One, Polylang (fr, it, en, es), Rank Math.
 
 ## Menus de rubriques
 
-Un menu par langue, affecté à l'emplacement `primary` de sa langue. Structure commune :
-un parent « Plantes » (sous-menu des grandes familles), quelques entrées de premier niveau,
-puis le sélecteur de langues (drapeaux via `custom.css`).
+Un menu par langue (898 fr, 899 en, 900 it, 901 es), affecté à l'emplacement `primary` de sa langue.
+Quatre entrées sans menu déroulant, affichées dans un bandeau vert sous le logo ; les drapeaux
+(sélecteur Polylang du même menu) sont sortis de la barre en CSS et placés à droite du logo.
 
-| Langue | Menu | Sous-menu « Plantes » | Premier niveau |
-|---|---|---|---|
-| fr | Rubriques (fr) — 898 | Plantes (594) : Agavoïdes, Aloès, Cactus, Cycadales, Euphorbes, Palmiers, Bambous, Plantes aquatiques | Culture (535), Biologie (624), Blog (9) |
-| en | Rubriques (en) — 899 | Plants (14798) : Agavoids, Aloes & alooids, Cacti, Crassulaceae, Cycads, Euphorbias, Apocynaceae | Growing (catégorie 249), Blog (15072) |
-| it | Rubriques (it) — 900 | Piante (11576) : Agavoidi, Aloidi, Cactus, Crassulaceae, Cicadi, Euforbie, Palme | Coltivazione (catégorie 177), Blog (11688) |
-| es | Rubriques (es) — 901 | Plantas (23116) : Agaváceas, Áloes y haworthias, Cactus, Crasuláceas, Cícadas, Euforbias, Pachypodium y afines, Didieráceas | — (pas de blog ni de catégorie espagnols) |
+| Entrée | fr | en | it | es |
+|---|---|---|---|---|
+| Plantes | 594 | 14798 | 11576 | 23116 |
+| Jardins | 4532 | 24688 (brouillon) | 24689 (brouillon) | 24690 (brouillon) |
+| Campus (e-books, formations) | 598 | 24691 (brouillon) | 24692 (brouillon) | 24693 (brouillon) |
+| Blog | 9 | 15072 | 11688 | pas de page |
 
-L'ancien « Menu haut de page » (25, sélecteur de langues seul) n'est plus affecté ; il peut être supprimé.
+Les pages Jardins et Campus en/it/es sont des brouillons reliés (Polylang) aux pages françaises.
+WordPress n'affiche pas un brouillon dans un menu : les ajouter aux menus 899-901 une fois publiées
+(`add_menu_item` avec `position` 2 et 3).
 
-Manques relevés en construisant les menus :
-- fr : pas de page famille Crassulaceae (les genres Crassula, Echeveria, Kalanchoe, Sedum, Aeonium existent).
-- en : pas de page d'index des palmiers.
-- es : toutes les publications sont dans « Non classé » (85) ; aucune page blog.
+Le CSS place les drapeaux par position absolue (fr, it, en, es de gauche à droite) : à revoir si une
+langue est ajoutée. Le bouton « Menu » mobile du thème est masqué, les quatre entrées restent visibles.
+
+L'ancien « Menu haut de page » (25) n'est plus affecté ; il peut être supprimé.
