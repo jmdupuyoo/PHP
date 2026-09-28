@@ -811,11 +811,6 @@ body.custom-background {
 	}
 }
 
-@media (prefers-reduced-motion: reduce) {
-	.home #masthead::after {
-		animation: none;
-	}
-}
 
 /* ---------- Menu : lien Accueil en pictogramme « maison » (1er élément de chaque menu) ---------- */
 #masthead .primary-navigation > div > .menu-wrapper > li:first-child > a {
