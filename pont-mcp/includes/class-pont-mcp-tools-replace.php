@@ -37,6 +37,7 @@ class Pont_MCP_Tools_Replace {
 						'description' => 'Types de contenu (défaut : page et post).',
 					),
 					'dry_run'      => array( 'type' => 'boolean', 'description' => 'true (défaut) : simulation sans modification ; false : applique les remplacements.' ),
+					'contains'     => array( 'type' => 'string', 'description' => 'Optionnel mais conseillé avec beaucoup de paires : chaîne présente dans toutes les chaînes from (ex. « /especes-plantes-grasses/ »). La base est alors parcourue une seule fois au lieu d’une fois par paire (beaucoup plus rapide).' ),
 					'limit'        => array( 'type' => 'integer', 'description' => 'Nombre maximal de contenus traités par appel (défaut 50, max ' . self::MAX_LIMIT . ').' ),
 				),
 				'required'    => array( 'replacements' ),
@@ -69,11 +70,22 @@ class Pont_MCP_Tools_Replace {
 		$dry_run = ! isset( $args['dry_run'] ) || false !== $args['dry_run'];
 		$limit   = isset( $args['limit'] ) ? max( 1, min( self::MAX_LIMIT, (int) $args['limit'] ) ) : 50;
 
-		$likes = array();
-		$vals  = array();
-		foreach ( array_keys( $map ) as $from ) {
+		$likes    = array();
+		$vals     = array();
+		$contains = isset( $args['contains'] ) ? (string) $args['contains'] : '';
+		if ( '' !== $contains ) {
+			foreach ( array_keys( $map ) as $from ) {
+				if ( false === strpos( $from, $contains ) ) {
+					throw new Pont_MCP_Tool_Error( '« contains » doit figurer dans chaque chaîne from ; absent de « ' . $from . ' ».' );
+				}
+			}
 			$likes[] = 'post_content LIKE %s';
-			$vals[]  = '%' . $wpdb->esc_like( $from ) . '%';
+			$vals[]  = '%' . $wpdb->esc_like( $contains ) . '%';
+		} else {
+			foreach ( array_keys( $map ) as $from ) {
+				$likes[] = 'post_content LIKE %s';
+				$vals[]  = '%' . $wpdb->esc_like( $from ) . '%';
+			}
 		}
 		$type_ph = implode( ',', array_fill( 0, count( $types ), '%s' ) );
 		$sql     = "SELECT ID FROM {$wpdb->posts} WHERE post_type IN ($type_ph)"
