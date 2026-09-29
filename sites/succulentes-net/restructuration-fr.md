@@ -101,5 +101,5 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   déplacées sous `/famille-cactaceae/<genre>/` ; `/haworthiopsis/` → `/aloides/haworthiopsis/` ; `le-genre-butia` → `/palmiers/butia/`.
 - Contenu des 13 anciennes pages de cactus reporté dans les pages gardées (sauf Myrtillocactus, Stenocereus : rien à reporter),
   puis anciennes pages à la corbeille (5061, 5072, 5086, 3143, 2414, 2890, 5131, 5318, 5144, 2929, 5026, 5160, 5173).
-- 199 redirections 301 créées (adresse exacte + dossier `*`), vérifiées sur des exemples.
+- 162 redirections 301 créées (adresse exacte, + règle de dossier `*` quand il y a des sous-pages), vérifiées sur des exemples.
 - À vérifier : Echinocactus (23789) situe *E. grusonii* à Querétaro « dans la vallée de Jaumave » (Jaumave est au Tamaulipas).
