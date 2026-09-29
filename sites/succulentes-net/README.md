@@ -82,4 +82,4 @@ de chaque page, 28 déjà présentes conservées (4 d'entre elles, en français 
   **Introduction** : un seul lien, vers la page du niveau au-dessus
   (Echinocactus → Cactaceae ; genre Cycas → Cycadales ; Cycas revoluta → genre Cycas).
   Pour une famille (ou Cycadales, agavoïdes…), le lien d'introduction va vers la page Plantes
-  `/especes-plantes-grasses/` (594), qui n'est pas pour autant page mère : les familles restent à la racine.
+  `/plantes/` (594, ancien slug `especes-plantes-grasses`, redirigé en 301), qui n'est pas pour autant page mère : les familles restent à la racine.

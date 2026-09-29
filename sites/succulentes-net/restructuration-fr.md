@@ -103,3 +103,5 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   puis anciennes pages à la corbeille (5061, 5072, 5086, 3143, 2414, 2890, 5131, 5318, 5144, 2929, 5026, 5160, 5173).
 - 162 redirections 301 créées (adresse exacte, + règle de dossier `*` quand il y a des sous-pages), vérifiées sur des exemples.
 - À vérifier : Echinocactus (23789) situe *E. grusonii* à Querétaro « dans la vallée de Jaumave » (Jaumave est au Tamaulipas).
+- Page Plantes (594) : slug `especes-plantes-grasses` → `plantes` ; 301 `/especes-plantes-grasses/` → `/plantes/`
+  (les règles `/especes-plantes-grasses/<x>/…` restent valables).
