@@ -83,6 +83,9 @@ euphorbiaceae, didieraceae, bromeliaceae, fabaceae, proteaceae, myrtaceae, cyath
 nymphaeaceae, menyanthaceae, papaveraceae, strelitziaceae, asteraceae, araucariaceae, phytolaccaceae,
 araliaceae, passifloraceae (slug `famille-<nom>` sauf aloides).
 
+Brouillons créés le 29/09/2026 : aloides 24878, famille-araliaceae 24865, famille-araucariaceae 24862, famille-asteraceae 24861, famille-bromeliaceae 24889, famille-crassulaceae 24880, famille-cyatheaceae 24867, famille-didieraceae 24888, famille-euphorbiaceae 24887, famille-fabaceae 24890, famille-lamiaceae 24876, famille-menyanthaceae 24879, famille-myrtaceae 24866, famille-nymphaeaceae 24877, famille-papaveraceae 24859, famille-passifloraceae 24868, famille-phytolaccaceae 24863, famille-proteaceae 24864, famille-strelitziaceae 24860.
+Traductions EN liées : aloides ↔ 15114, crassulaceae ↔ 18756, euphorbiaceae ↔ 18986, didieraceae ↔ 23313.
+
 ## 4. Redirections 301
 
 Pour chaque famille et chaque genre déplacé (2 règles) :
