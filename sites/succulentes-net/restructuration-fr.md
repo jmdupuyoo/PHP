@@ -41,17 +41,51 @@ Prérequis : Pont MCP 1.2.2 installé (redirections 301, y compris règles de do
 
 Avant la corbeille : reprendre dans la page gardée ce que l'ancienne a de plus (texte, photos).
 
-## 3. Les 77 autres genres
+## 3. Les 77 autres genres : chacun dans sa famille (règle : racine famille / genre / espèce)
 
-Parent 0, même slug : `/especes-plantes-grasses/agave/xylonacantha/` devient `/agave/xylonacantha/`.
+Exception : Cycadales (`/cycadales/genre/espece/`) ne change pas. Racines de groupe gardées :
+`/agavoides/` (13857, comme /en/agavoids/), `/aloides/` (nouvelle, comme /en/alooids/), `/palmiers/` (14652), `/bambous/`.
 Les fiches espèces suivent automatiquement leur genre.
+
+| Racine | Genres (ID de la page genre) |
+|---|---|
+| /famille-cactaceae/ | copiapoa (5098), cylindropuntia (3630), echinocereus (5309), epiphyllum (5107), espostoa (5124), hylocereus (5330), lophophora (5115), neobuxbaumia (2819), pachycereus (3716), pereskia (5153) |
+| /agavoides/ | agave (1018), yucca (871), nolina (1047), dasylirion (2563), beaucarnea (3093), beschorneria (2851), furcraea (5182), calibanus (5227), cordyline (4782), dracaena (3381), sansevieria (5193), lomandra (6637), doryanthes (6727) |
+| /aloides/ | aloe (996), xanthorrhoea (6885) |
+| /famille-crassulaceae/ | aeonium (3897), crassula (14642), echeveria (21587), kalanchoe (5202), sedum (5382) |
+| /famille-euphorbiaceae/ | euphorbia (3326), jatropha (3621) |
+| /famille-didieraceae/ | alluaudia (3594), didierea (5244) |
+| /famille-bromeliaceae/ | aechmea (6392), fascicularia (7762), hechtia (7613), ochagavia (7696), puya (6299) |
+| /famille-fabaceae/ | acacia (8281), erythrina (8200) |
+| /famille-proteaceae/ | banksia (7933), grevillea (8122), hakea (8624) |
+| /famille-myrtaceae/ | callistemon (8556) |
+| /famille-cyatheaceae/ | cyathea (9895) |
+| /famille-lamiaceae/ | leonotis (9534) |
+| /famille-nymphaeaceae/ | nymphaea (10030) |
+| /famille-menyanthaceae/ | nymphoides (10307) |
+| /famille-papaveraceae/ | romneya (8773) |
+| /famille-strelitziaceae/ | strelitzia (4616) |
+| /famille-asteraceae/ | tagetes (7906) |
+| /famille-araucariaceae/ | wollemia (7631) |
+| /famille-phytolaccaceae/ | phytolacca (8702) |
+| /famille-araliaceae/ | cussonia (12476) |
+| /famille-passifloraceae/ | adenia (6859) |
+| /famille-malvaceae/ | adansonia (3548), brachychiton (4398), chorisia (7435), pseudobombax (5255) |
+| /famille-apocynaceae/ | adenium (3512), pachypodium (3174), plumeria (3605) |
+| /famille-moringaceae/ | moringa (3745) |
+| /famille-pedaliaceae/ | uncarina (4845) |
+| /famille-fouquieriaceae/ | fouquieria (4125) |
+| /palmiers/ | butyagrus (6541), chamaedorea (6019), chamaerops (5391), livistona (7739), nannorrhops (6804), phoenix (4693), rhapidophyllum (9784), syagrus (6517), trachycarpus (5402), trithrinax (4512), le-genre-butia (5410) |
+
+Aussi : `/haworthiopsis/` (17597) → `/aloides/haworthiopsis/` ; `le-genre-butia` renommé `butia` sous `/palmiers/`.
+Nouvelles pages familles à créer (brouillons, publiées au moment du déplacement) : aloides, crassulaceae,
+euphorbiaceae, didieraceae, bromeliaceae, fabaceae, proteaceae, myrtaceae, cyatheaceae, lamiaceae,
+nymphaeaceae, menyanthaceae, papaveraceae, strelitziaceae, asteraceae, araucariaceae, phytolaccaceae,
+araliaceae, passifloraceae (slug `famille-<nom>` sauf aloides).
 
 ## 4. Redirections 301
 
-1. `/especes-plantes-grasses/*` → `/*` (tout le reste ; la page 594 elle-même n'est pas redirigée).
-2. Par famille : `/especes-plantes-grasses/<famille>/` → `/famille-<famille>/` et
-   `/especes-plantes-grasses/<famille>/*` → `/famille-<famille>/*`.
-3. Par genre en double : `/especes-plantes-grasses/<genre>/` → `/famille-cactaceae/<genre>/` et
-   `/especes-plantes-grasses/<genre>/*` → `/famille-cactaceae/<genre>/*`.
-
-Soit 45 règles pour 531 anciennes adresses. Ensuite : mise à jour des liens internes vers les nouvelles adresses.
+Pour chaque famille et chaque genre déplacé (2 règles) :
+`/especes-plantes-grasses/<x>/` → `/<racine>/<x>/` et `/especes-plantes-grasses/<x>/*` → `/<racine>/<x>/*`.
+Soit (9 familles + 90 genres) × 2 = 198 règles, plus `/haworthiopsis/`. La page 594 n'est pas redirigée.
+Ensuite : mise à jour des liens internes vers les nouvelles adresses.
