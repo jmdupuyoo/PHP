@@ -226,6 +226,7 @@ class Pont_MCP_Tools {
 			Pont_MCP_Tools_Affiliate::definitions(),
 			Pont_MCP_Tools_Appearance::definitions(),
 			Pont_MCP_Tools_SEO::definitions(),
+			Pont_MCP_Redirects::definitions(),
 			Pont_MCP_Tracking::definitions(),
 			Pont_MCP_Polylang::definitions()
 		);

@@ -45,7 +45,7 @@ vous voulez (succulentes.net, zootropical.com, formationsoigneuranimalier.fr…)
 - « Ajoute un lien Amazon vers un enfumoir dans l'article sur l'apiculture de loisir. »
 - « Installe Google Analytics avec l'identifiant G-XXXXXXX. »
 
-## Outils disponibles (40)
+## Outils disponibles (43)
 
 | Domaine | Outils | Niveau d'écriture |
 |---|---|---|
@@ -54,6 +54,7 @@ vous voulez (succulentes.net, zootropical.com, formationsoigneuranimalier.fr…)
 | Taxonomies | `list_terms`, `create_term` | Brouillons |
 | Médias | `list_media`, `upload_media`, `update_media`, `search_free_images`, `insert_media` | Brouillons ¹ |
 | SEO | `get_seo`, `update_seo`, `seo_audit`, `get_meta`, `update_meta` | Brouillons ¹ |
+| Redirections 301 | `list_redirects`, `create_redirect`, `delete_redirect` | Complet |
 | Affiliation | `insert_affiliate_link` | Brouillons ¹ |
 | Design | `get_custom_css`, `update_custom_css`, `restore_custom_css` | Complet |
 | Thème | `list_customizer_settings`, `update_customizer_settings` | Complet |
