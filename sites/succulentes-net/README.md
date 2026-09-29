@@ -68,4 +68,7 @@ de chaque page, 28 déjà présentes conservées (4 d'entre elles, en français 
 - Liens vers `www.claudeusercontent.com` dans 10 contenus (it 15769, 15746, 15736, 15729, 14423, 14312, 15599 ; fr 14413, 2336, 1960).
 - Pages vides : fr 17597 (Haworthiopsis), es 23486 (Crassulaceae).
 - Nymphoides (fr 10307) classé à tort dans les Nymphéacées ; « Tagetes padula » (fr 7906) ; « Xanthorrhoeae » (fr 6885).
-- Genres en double (fr) : Astrophytum, Cereus, Cleistocactus sous `especes-plantes-grasses/` et `cactaceae/`.
+- Genres en double (fr) : Astrophytum, Cereus, Cleistocactus — on garde `cactaceae/`. Fait : canonique des anciennes
+  pages (5061, 5072, 5086) vers `cactaceae/`, photo C. strausii ajoutée à 23804, liens internes remplacés (594, 9736, 15543).
+  Reste : redirections 301 à créer dans l'admin, puis mise à la corbeille des 3 anciennes pages.
+  Même doublon pour 11 autres genres de cactus (avec fiches espèces sous l'ancien chemin) : à décider.
