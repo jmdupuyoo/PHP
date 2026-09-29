@@ -32,12 +32,12 @@ class Pont_MCP_Redirects {
 			),
 			'create_redirect' => array(
 				'title'       => 'Créer une redirection 301',
-				'description' => 'Redirige définitivement (301) une ancienne adresse du site vers une nouvelle. L’ancienne adresse est un chemin du site (ex. /ancienne-page/) ; la nouvelle est un chemin ou une URL du même site. Remplace une redirection existante pour la même adresse. La redirection s’applique même si l’ancienne page existe encore.',
+				'description' => 'Redirige définitivement (301) une ancienne adresse du site vers une nouvelle. L’ancienne adresse est un chemin du site (ex. /ancienne-page/) ; la nouvelle est un chemin ou une URL du même site. Remplace une redirection existante pour la même adresse. La redirection s’applique même si l’ancienne page existe encore. Pour déplacer toute une rubrique, terminez les deux adresses par * (ex. /ancien-dossier/* => /nouveau-dossier/*) : tout ce qui est sous l’ancien dossier est redirigé, pas l’ancien dossier lui-même ; la règle la plus précise l’emporte, et une adresse exacte passe avant toute règle en *.',
 				'level'       => $full,
 				'handler'     => array( __CLASS__, 'create_redirect' ),
 				'properties'  => array(
-					'from' => array( 'type' => 'string', 'description' => 'Ancienne adresse : chemin (/ancienne-page/) ou URL complète du site.' ),
-					'to'   => array( 'type' => 'string', 'description' => 'Nouvelle adresse : chemin ou URL complète du même site.' ),
+					'from' => array( 'type' => 'string', 'description' => 'Ancienne adresse : chemin (/ancienne-page/) ou URL complète du site ; /dossier/* pour tout un dossier.' ),
+					'to'   => array( 'type' => 'string', 'description' => 'Nouvelle adresse : chemin ou URL complète du même site ; /dossier/* si l’ancienne se termine par *.' ),
 				),
 				'required'    => array( 'from', 'to' ),
 			),
@@ -82,6 +82,13 @@ class Pont_MCP_Redirects {
 		}
 		if ( null === $to ) {
 			throw new Pont_MCP_Tool_Error( 'Nouvelle adresse invalide : indiquez un chemin ou une URL de ce site.' );
+		}
+		$wild_from = self::is_wildcard( $from );
+		if ( $wild_from !== self::is_wildcard( $to ) ) {
+			throw new Pont_MCP_Tool_Error( 'Règle de dossier : terminez les deux adresses par /* (ex. /ancien-dossier/* => /nouveau-dossier/*).' );
+		}
+		if ( ( $wild_from && '/*' === $from ) || false !== strpos( rtrim( $from, '*' ) . rtrim( $to, '*' ), '*' ) ) {
+			throw new Pont_MCP_Tool_Error( 'Le caractère * n’est accepté qu’à la fin des deux adresses, après un nom de dossier.' );
 		}
 		if ( self::key( $from ) === self::key( $to ) ) {
 			throw new Pont_MCP_Tool_Error( 'L’ancienne et la nouvelle adresse sont identiques.' );
@@ -153,12 +160,12 @@ class Pont_MCP_Redirects {
 			return;
 		}
 
-		$key = self::key( $path );
-		if ( ! isset( $redirects[ $key ] ) ) {
+		$to = self::resolve( $redirects, self::key( $path ) );
+		if ( null === $to ) {
 			return;
 		}
 
-		$target = home_url( $redirects[ $key ]['to'] );
+		$target = home_url( $to );
 		$query  = wp_parse_url( $uri, PHP_URL_QUERY );
 		if ( $query && false === strpos( $target, '?' ) ) {
 			$target .= '?' . $query;
@@ -166,6 +173,36 @@ class Pont_MCP_Redirects {
 
 		wp_safe_redirect( $target, 301, 'Pont MCP' );
 		exit;
+	}
+
+	/**
+	 * Nouvelle adresse pour une clé de chemin : adresse exacte d'abord, puis la règle
+	 * « /dossier/* » la plus longue qui contient le chemin (le dossier lui-même exclu).
+	 */
+	private static function resolve( array $redirects, $key ) {
+		if ( isset( $redirects[ $key ] ) ) {
+			return $redirects[ $key ]['to'];
+		}
+
+		$best = null;
+		foreach ( $redirects as $from => $redirect ) {
+			if ( ! self::is_wildcard( $from ) ) {
+				continue;
+			}
+			$prefix = substr( $from, 0, -1 );
+			if ( strlen( $key ) > strlen( $prefix ) && 0 === strpos( $key, $prefix ) && ( null === $best || strlen( $prefix ) > strlen( $best[0] ) ) ) {
+				$best = array( $prefix, $redirect['to'] );
+			}
+		}
+		if ( null === $best ) {
+			return null;
+		}
+
+		return substr( $best[1], 0, -1 ) . substr( $key, strlen( $best[0] ) );
+	}
+
+	private static function is_wildcard( $path ) {
+		return '/*' === substr( $path, -2 );
 	}
 
 	private static function all() {
@@ -208,6 +245,9 @@ class Pont_MCP_Redirects {
 
 	/** Clé de comparaison : minuscules, sans requête, avec barre finale. */
 	private static function key( $path ) {
+		if ( self::is_wildcard( $path ) ) {
+			return strtolower( $path );
+		}
 		$path = strtolower( strtok( strtok( $path, '#' ), '?' ) );
 		return '/' === $path ? '/' : trailingslashit( $path );
 	}
