@@ -55,7 +55,7 @@ vous voulez (succulentes.net, zootropical.com, formationsoigneuranimalier.fr…)
 | Médias | `list_media`, `upload_media`, `update_media`, `search_free_images`, `insert_media` | Brouillons ¹ |
 | SEO | `get_seo`, `update_seo`, `seo_audit`, `get_meta`, `update_meta` | Brouillons ¹ |
 | Redirections 301 | `list_redirects`, `create_redirect`, `delete_redirect` | Complet |
-| Rechercher / remplacer | `replace_in_content` (simulation par défaut, par lots) | Complet |
+| Rechercher / remplacer | `replace_in_content` (simulation par défaut, par lots ; filtres `ids` et `contains`) | Complet |
 | Affiliation | `insert_affiliate_link` | Brouillons ¹ |
 | Design | `get_custom_css`, `update_custom_css`, `restore_custom_css` | Complet |
 | Thème | `list_customizer_settings`, `update_customizer_settings` | Complet |

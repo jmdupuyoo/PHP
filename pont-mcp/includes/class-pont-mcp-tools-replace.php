@@ -37,6 +37,11 @@ class Pont_MCP_Tools_Replace {
 						'description' => 'Types de contenu (défaut : page et post).',
 					),
 					'dry_run'      => array( 'type' => 'boolean', 'description' => 'true (défaut) : simulation sans modification ; false : applique les remplacements.' ),
+					'ids'          => array(
+						'type'        => 'array',
+						'items'       => array( 'type' => 'integer' ),
+						'description' => 'Optionnel : limiter aux contenus de ces ID (max 200), pour une correction ciblée page par page.',
+					),
 					'contains'     => array( 'type' => 'string', 'description' => 'Optionnel mais conseillé avec beaucoup de paires : chaîne présente dans toutes les chaînes from (ex. « /especes-plantes-grasses/ »). La base est alors parcourue une seule fois au lieu d’une fois par paire (beaucoup plus rapide).' ),
 					'limit'        => array( 'type' => 'integer', 'description' => 'Nombre maximal de contenus traités par appel (défaut 50, max ' . self::MAX_LIMIT . ').' ),
 				),
@@ -87,9 +92,16 @@ class Pont_MCP_Tools_Replace {
 				$vals[]  = '%' . $wpdb->esc_like( $from ) . '%';
 			}
 		}
+		$ids_filter = '';
+		if ( ! empty( $args['ids'] ) ) {
+			$only = array_slice( array_filter( array_map( 'absint', (array) $args['ids'] ) ), 0, 200 );
+			if ( $only ) {
+				$ids_filter = ' AND ID IN (' . implode( ',', $only ) . ')';
+			}
+		}
 		$type_ph = implode( ',', array_fill( 0, count( $types ), '%s' ) );
 		$sql     = "SELECT ID FROM {$wpdb->posts} WHERE post_type IN ($type_ph)"
-			. " AND post_status IN ('publish','future','private','draft','pending')"
+			. " AND post_status IN ('publish','future','private','draft','pending')" . $ids_filter
 			. ' AND (' . implode( ' OR ', $likes ) . ') ORDER BY ID';
 		$ids     = $wpdb->get_col( $wpdb->prepare( $sql, array_merge( $types, $vals ) ) ); // phpcs:ignore WordPress.DB.PreparedSQL.NotPrepared
 
