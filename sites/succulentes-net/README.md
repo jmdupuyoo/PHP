@@ -72,3 +72,12 @@ de chaque page, 28 déjà présentes conservées (4 d'entre elles, en français 
   pages (5061, 5072, 5086) vers `cactaceae/`, photo C. strausii ajoutée à 23804, liens internes remplacés (594, 9736, 15543).
   Reste : redirections 301 à créer dans l'admin, puis mise à la corbeille des 3 anciennes pages.
   Même doublon pour 11 autres genres de cactus (avec fiches espèces sous l'ancien chemin) : à décider.
+
+## Arborescence et liens internes (règles du propriétaire)
+
+- Adresses : racine famille / genre / espèce (ex. `/famille-cactaceae/echinopsis/pachanoi/`).
+  Exceptions : `/cycadales/` (ordre), racines de groupe `/agavoides/`, `/aloides/`, `/palmiers/`, `/bambous/`.
+  Familles FR à la racine avec le préfixe `famille-` (les slugs nus sont pris par EN/ES). Détail : `restructuration-fr.md`.
+- Liens internes : dans le texte, lier les espèces, genres et familles cités qui ont une page.
+  **Introduction** : un seul lien, vers la page du niveau au-dessus
+  (Echinocactus → Cactaceae ; genre Cycas → Cycadales ; Cycas revoluta → genre Cycas).
