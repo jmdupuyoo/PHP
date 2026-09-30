@@ -120,3 +120,156 @@ Remarques : les ancres (#…), liens externes, mailto, wp-admin et flux ont ét�
 ## Fichiers de travail
 
 `/tmp/claude-0/-home-user-PHP/108b8faf-69f6-537a-9a6a-fd7662bfd06d/scratchpad/linkaudit/` : `raw/` (JSON bruts REST, 23 lots), `broken.json`, `redirected.json`, `links_all.json`, `classified.json`, `tested.txt` (statuts HTTP), `media_sample.json`.
+
+## Corrections du 30/09/2026
+
+Corrections faites avec les outils MCP « Succulentes-1_2_5 » (`replace_in_content`, un contenu par appel : `ids=[id]`, paires `href="<forme exacte>"` → `href="https://succulentes.net/<cible>"`). Chaque correction a d'abord été simulée (dry_run) : le nombre de remplacements correspondait partout au nombre d'occurrences attendu. Les appels réels ont ensuite été lancés un par un. WordPress conserve une révision de chaque contenu modifié.
+
+**Bilan : 88 contenus corrigés, 123 liens réécrits (70 formes d'adresses fautives). 6 liens (6 adresses, dans 5 contenus) ne sont pas corrigés et attendent la décision du propriétaire.**
+
+Vérifications :
+- **Avant correction** : les 71 cibles ont été testées avec `fetch_site_url` (statut, `<title>`, canonique ou hreflang, langue de la page). Toutes répondent 200, sont la bonne page et sont dans la langue du contenu source.
+- **Après correction** : les 71 cibles ont été re-testées une fois et répondent toutes 200. Un dry_run sur les 88 contenus, avec les 70 formes fautives, ne trouve plus aucune occurrence (`matching: 0`).
+- **Contrôle du HTML** par `get_content` sur 3 pages corrigées :
+  - 8773 « Le genre Romneya » : le href vaut maintenant `https://succulentes.net/famille-papaveraceae/romneya/coulteri/`. Le `%ef%bf%bc` a disparu et le texte « Romneya coulteri » est intact.
+  - 23859 « La familia Burseraceae » : les 3 liens de genres sont maintenant en absolu vers `/es/burseraceae-2/{commiphora,bursera,boswellia}/`.
+  - 23865 « La familia Anacardiaceae » : les 2 liens pointent vers `/es/anacardiaceae/{operculicarya,pachycormus}/`.
+  
+  Sur ces 3 pages, les blocs Gutenberg et le texte des ancres sont intacts.
+- **Formes particulières** :
+  - 21206 : `…/fouquieria/↗` (caractère collé, sans barre finale) est remplacé par `/en/fouquieraceae/fouquieria/`.
+  - 8773 : la forme exacte dans le HTML brut était `coulteri%ef%bf%bc/` (le caractère U+FFFC encodé).
+  - 19242 : les liens relatifs n'avaient pas de barre finale (`/agave-neomexicana`, 2 occurrences).
+  - 14536 : l'hôte était `https://www.succulentes.net/cycas-revoluta/`.
+  - 23102 (espagnol) : la cible est `/es/agavaceae/yucca/elephantipes/`, et non la page FR.
+
+### Corrigé
+
+| ID | Contenu | Adresse remplacée (forme exacte) | Nouvelle cible (https://succulentes.net…) | Nb |
+|---|---|---|---|---|
+| 383 | Le charançon de l’agave : prévention et lutte | `https://succulentes.net/agavoides/yucca/yucca-elephantipes/` | `/agavoides/yucca/elephantipes/` | 1 |
+| 535 | Culture des succulentes | `https://succulentes.net/culture-exterieure/` | `/culture-entretien-des-plantes-succulentes/culture-exterieure/` | 1 |
+| 535 | Culture des succulentes | `https://succulentes.net/culture-sous-serre/` | `/culture-entretien-des-plantes-succulentes/culture-sous-serre/` | 1 |
+| 535 | Culture des succulentes | `https://succulentes.net/culture-interieure/` | `/culture-entretien-des-plantes-succulentes/culture-interieure/` | 1 |
+| 611 | Culture en intérieur | `https://succulentes.net/culture-exterieure/` | `/culture-entretien-des-plantes-succulentes/culture-exterieure/` | 1 |
+| 611 | Culture en intérieur | `https://succulentes.net/culture-sous-serre/` | `/culture-entretien-des-plantes-succulentes/culture-sous-serre/` | 1 |
+| 611 | Culture en intérieur | `https://succulentes.net/arrosage-des-succulentes/` | `/culture-entretien-des-plantes-succulentes/arrosage-des-succulentes/` | 1 |
+| 871 | Le genre Yucca | `https://succulentes.net/agavoides/yucca/yucca-elephantipes/` | `/agavoides/yucca/elephantipes/` | 1 |
+| 982 | Yucca thompsoniana | `https://succulentes.net/agavoides/yucca/yucca-elephantipes/` | `/agavoides/yucca/elephantipes/` | 1 |
+| 996 | Le genre Aloe | `https://succulentes.net/aloe-cheranganiensis/` | `/aloides/aloe/aloe-cheranganiensis/` | 1 |
+| 1018 | Le genre Agave | `https://succulentes.net/agavoides/agave/agave-lophanta/` | `/agavoides/agave/lophanta/` | 1 |
+| 1427 | Nolina longifolia | `https://succulentes.net/jardins-botaniques-et-collections-de-plantes-succulentes/domaine-du-rayol/` | `/jardin-botanique/domaine-du-rayol/` | 1 |
+| 1866 | Encephalartos natalensis | `https://succulentes.net/cycadales/encephalartos/encephartos-longifolius/` | `/cycadales/encephalartos/longifolius/` | 1 |
+| 2436 | Encephalartos altensteinii | `https://succulentes.net/it/piante/cycadales/encephalartos/encephalartos-natalensis/` | `/cycadales/encephalartos/natalensis/` | 1 |
+| 2679 | Yucca aloifolia | `https://succulentes.net/agavoides/yucca/yucca-elephantipes/` | `/agavoides/yucca/elephantipes/` | 1 |
+| 3654 | Plantes succulentes : six espèces représentatives | `https://succulentes.net/agavoides/yucca/yucca-elephantipes/` | `/agavoides/yucca/elephantipes/` | 1 |
+| 4125 | Le genre Fouquieria | `https://succulentes.net/famille-fouquieriaceae/fouquieria/fourquieria-macdougalii/` | `/famille-fouquieriaceae/fouquieria/macdougalii/` | 1 |
+| 4147 | Fouquieria splendens | `https://succulentes.net/famille-fouquieriaceae/fouquieria/fourquieria-macdougalii/` | `/famille-fouquieriaceae/fouquieria/macdougalii/` | 1 |
+| 4377 | Yucca arizonica | `https://succulentes.net/agavoides/yucca/yucca-elephantipes/` | `/agavoides/yucca/elephantipes/` | 1 |
+| 6451 | Mon yucca à des feuilles jaunes : pourquoi et comment le soigner ? | `https://succulentes.net/agavoides/yucca/yucca-elephantipes/` | `/agavoides/yucca/elephantipes/` | 1 |
+| 8773 | Le genre Romneya | `https://succulentes.net/famille-papaveraceae/romneya/coulteri%ef%bf%bc/` | `/famille-papaveraceae/romneya/coulteri/` | 1 |
+| 10568 | Acacia karroo | `https://succulentes.net/jardins-botaniques-et-collections-de-plantes-succulentes/domaine-du-rayol/` | `/jardin-botanique/domaine-du-rayol/` | 1 |
+| 11248 | Dioon holmgrenii | `https://succulentes.net/cycadales/dioon/dioon-mejiae/` | `/cycadales/dioon/mejiae/` | 1 |
+| 11907 | Cycas in piena terra: coltivazione, rusticità e specie resistenti | `https://succulentes.net/it/piante/cycadales/il-genere-macrozamia/` | `/it/piante/cycadales/macrozamia/` | 1 |
+| 12273 | Les racines coralloïdes chez les cycadales : rôle, fonctions et implications en culture | `https://succulentes.net/cycadales/cycas/cycas-thouarsii/` | `/cycadales/cycas/thouarsii/` | 1 |
+| 12642 | Encephalartos villosus | `https://succulentes.net/cycadales/encephalartos/encephalartos-horridus/` | `/cycadales/encephalartos/horridus/` | 1 |
+| 12706 | Agavoidi | `https://succulentes.net/it/piante/agavoidi/il-genere-beaucarnea/` | `/it/piante/agavoidi/beaucarnea/` | 1 |
+| 13082 | Macrozamia communis | `https://succulentes.net/it/piante/cycadales/il-genere-macrozamia/moorei/` | `/it/piante/cycadales/macrozamia/moorei/` | 1 |
+| 13105 | Macrozamia moorei | `https://succulentes.net/it/piante/cycadales/il-genere-macrozamia/communis/` | `/it/piante/cycadales/macrozamia/communis/` | 1 |
+| 13464 | Yucca lacandonica | `https://succulentes.net/agavoides/yucca/yucca-elephantipes/` | `/agavoides/yucca/elephantipes/` | 1 |
+| 13564 | Quand et comment rempoter un yucca d’intérieur | `https://succulentes.net/agavoides/yucca/yucca-elephantipes/` | `/agavoides/yucca/elephantipes/` | 1 |
+| 14127 | Mon cycas est malade : Comment le soigner ? | `https://succulentes.net/mon-cycas-ne-pousse-pas/` | `/cycas-ne-pousse-pas/` | 1 |
+| 14536 | Cycas resistenti al freddo: 5 specie per il nord Italia | `https://www.succulentes.net/cycas-revoluta/` | `/it/cycas-revoluta-coltivazione-guida-completa-alla-palma-nana-del-giappone/` | 1 |
+| 14721 | Agave schidigera | `/agave/` | `/agavoides/agave/` | 1 |
+| 14749 | Aloe arborescens | `/aloidi/` | `/it/piante/aloidi/` | 1 |
+| 14798 | Succulent’s guide | `https://succulentes.net/didieraceae/` | `/en/didieraceae/` | 1 |
+| 14798 | Succulent’s guide | `https://succulentes.net/dioscoreaceae/` | `/en/dioscoreaceae/` | 1 |
+| 14808 | Aloe ferox | `/aloidi/` | `/it/piante/aloidi/` | 1 |
+| 14819 | Aloe humilis | `/aloidi/` | `/it/piante/aloidi/` | 1 |
+| 14831 | Aloe vaombe | `https://succulentes.net/it/specie-di-piante-grasse/aloe/` | `/it/piante/aloidi/aloe/` | 1 |
+| 15082 | Palme vicino alla piscina: rischi, costi e alternative migliori | `https://succulentes.net/it/palme/` | `/it/piante/palme/` | 1 |
+| 15114 | Alooids | `https://succulentes.net/en/agave-vs-aloe-difference/` | `/en/agave-vs-aloe/` | 1 |
+| 15267 | The genus Calibanus | `https://succulentes.net/beaucarnea/` | `/en/agavoids/beaucarnea/` | 1 |
+| 15285 | Yucca linearifolia | `https://succulentes.net/yucca-rostrata/` | `/en/yucca-rostrata-in-pot/` | 1 |
+| 15345 | Yucca treculeana | `https://succulentes.net/agavoids/` | `/en/agavoids/` | 1 |
+| 15345 | Yucca treculeana | `https://succulentes.net/yucca/` | `/en/agavoids/yucca/` | 1 |
+| 15352 | Yucca elephantipes | `https://succulentes.net/agavoids/` | `/en/agavoids/` | 1 |
+| 15352 | Yucca elephantipes | `https://succulentes.net/yucca/` | `/en/agavoids/yucca/` | 1 |
+| 15361 | Yucca filifera | `https://succulentes.net/agavoids/` | `/en/agavoids/` | 1 |
+| 15361 | Yucca filifera | `https://succulentes.net/yucca/` | `/en/agavoids/yucca/` | 1 |
+| 15367 | Yucca decipiens | `https://succulentes.net/agavoids/` | `/en/agavoids/` | 1 |
+| 15367 | Yucca decipiens | `https://succulentes.net/yucca/` | `/en/agavoids/yucca/` | 1 |
+| 15373 | Yucca brevifolia | `https://succulentes.net/agavoids/` | `/en/agavoids/` | 1 |
+| 15373 | Yucca brevifolia | `https://succulentes.net/yucca/` | `/en/agavoids/yucca/` | 1 |
+| 15381 | Yucca filamentosa | `https://succulentes.net/agavoids/` | `/en/agavoids/` | 1 |
+| 15381 | Yucca filamentosa | `https://succulentes.net/yucca/` | `/en/agavoids/yucca/` | 1 |
+| 15513 | Yucca arizonica | `https://succulentes.net/yucca/baccata/` | `/en/agavoids/yucca/baccata/` | 2 |
+| 15532 | Yucca harrimaniae | `https://succulentes.net/yucca/neomexicana/` | `/en/agavoids/yucca/neomexicana/` | 1 |
+| 15567 | Cycas : entretien complet et guide de culture en pot et au jardin | `https://succulentes.net/mon-cycas-ne-pousse-pas/` | `/cycas-ne-pousse-pas/` | 1 |
+| 15729 | Il genere Nolina | `https://succulentes.net/it/il-genere-dasylirion/` | `/it/piante/agavoidi/dasylirion/` | 1 |
+| 16443 | Cycas micholitzii | `https://succulentes.net/en/cycads/cycas/cycas-armstrongii/` | `/en/cycads/cycas/armstrongii/` | 1 |
+| 16487 | Cycas calcicola | `https://succulentes.net/en/cycads/cycas/cycas-armstrongii/` | `/en/cycads/cycas/armstrongii/` | 2 |
+| 16520 | Cycas megacarpa | `https://succulentes.net/en/cycads/cycas/cycas-armstrongii/` | `/en/cycads/cycas/armstrongii/` | 1 |
+| 18287 | Genre Chusquea  | `https://succulentes.net/bambous/chusquea/cummingii/` | `/bambous/chusquea/cumingii/` | 1 |
+| 18403 | Pachypodium Pests and Diseases: Diagnosis, Treatment & Rescue Protocols | `https://succulentes.net/pachypodium-is-losing-its-leaves/` | `/en/my-pachypodium-is-losing-its-leaves-causes-decision-tree-solutions/` | 1 |
+| 18403 | Pachypodium Pests and Diseases: Diagnosis, Treatment & Rescue Protocols | `https://succulentes.net/en/pachypodium/` | `/en/apocynaceae/pachypodium/` | 2 |
+| 18403 | Pachypodium Pests and Diseases: Diagnosis, Treatment & Rescue Protocols | `https://succulentes.net/how-to-care-for-a-pachypodium-lamerei-madagascar-palm-indoors-complete-guide/` | `/en/apocynaceae/pachypodium/lamerei/` | 1 |
+| 18409 | My Pachypodium Is Losing Its Leaves: Causes, Decision Tree & Solutions | `https://succulentes.net/en/pachypodium/` | `/en/apocynaceae/pachypodium/` | 1 |
+| 18426 | Family Apocynaceae | `https://succulentes.net/en/pachypodium/` | `/en/apocynaceae/pachypodium/` | 2 |
+| 19075 | Euphorbia candelabrum | `/euphorbia/ingens/` | `/en/euphorbiaceae/euphorbia/ingens/` | 3 |
+| 19083 | Euphorbia abyssinica | `/euphorbia/ingens/` | `/en/euphorbiaceae/euphorbia/ingens/` | 2 |
+| 19083 | Euphorbia abyssinica | `/euphorbia/` | `/en/euphorbiaceae/euphorbia/` | 1 |
+| 19083 | Euphorbia abyssinica | `/euphorbia/tirucalli/` | `/en/euphorbiaceae/euphorbia/tirucalli/` | 1 |
+| 19083 | Euphorbia abyssinica | `/euphorbiaceae/` | `/en/euphorbiaceae/` | 1 |
+| 19101 | Euphorbia ammak | `/euphorbia/` | `/en/euphorbiaceae/euphorbia/` | 1 |
+| 19242 | Agave parryi | `/agave-neomexicana` | `/en/agavoids/agave/neomexicana/` | 2 |
+| 19242 | Agave parryi | `/agave-havardiana` | `/en/agavoids/agave/havardiana/` | 1 |
+| 19242 | Agave parryi | `/agave-ovatifolia` | `/en/agavoids/agave/ovatifolia/` | 1 |
+| 19242 | Agave parryi | `/agave-parryi-truncata` | `/en/agavoids/agave/parryi/truncata/` | 1 |
+| 19242 | Agave parryi | `/agave-utahensis` | `/en/agavoids/agave/utahensis/` | 1 |
+| 19242 | Agave parryi | `/agave-victoriae-reginae` | `/en/agavoids/agave/victoriae-reginae/` | 1 |
+| 19637 | Aloe comptonii | `/en/aloe-distans/` | `/en/alooids/aloe/distans/` | 1 |
+| 19676 | Aloe erinacea | `/en/aloe-melanacantha/` | `/en/alooids/aloe/melanacantha/` | 1 |
+| 19716 | Aloe divaricata | `/en/aloe-descoingsii/` | `/en/alooids/aloe/descoingsii/` | 1 |
+| 21089 | Fouquieria diguetii | `https://succulentes.net/famille-fouquieriaceae/fouquieria/fourquieria-macdougalii/` | `/famille-fouquieriaceae/fouquieria/macdougalii/` | 1 |
+| 21183 | Family Fouquieriaceae | `https://succulentes.net/en/fouquieraceae/fouquieria/ormosa/` | `/en/fouquieraceae/fouquieria/formosa/` | 1 |
+| 21206 | Fouquieria splendens | `https://succulentes.net/en/fouquieraceae/fouquieria/↗` | `/en/fouquieraceae/fouquieria/` | 1 |
+| 21220 | Fouquieria macdougalii | `https://succulentes.net/en/fouquieraceae/fouquieria/ormosa/` | `/en/fouquieraceae/fouquieria/formosa/` | 1 |
+| 21220 | Fouquieria macdougalii | `https://succulentes.net/en/succulent-plants/fouquieria/` | `/en/fouquieraceae/fouquieria/` | 1 |
+| 21227 | Fouquieria formosa | `https://succulentes.net/en/succulent-plants/fouquieria/` | `/en/fouquieraceae/fouquieria/` | 1 |
+| 21231 | Fouquieria ochoterenae | `https://succulentes.net/en/fouquieraceae/fouquieria/ormosa/` | `/en/fouquieraceae/fouquieria/formosa/` | 1 |
+| 21236 | Fouquieria shrevei | `https://succulentes.net/en/fouquieraceae/fouquieria/ormosa/` | `/en/fouquieraceae/fouquieria/formosa/` | 1 |
+| 21242 | Fouquieria leonilae | `https://succulentes.net/en/fouquieraceae/fouquieria/ormosa/` | `/en/fouquieraceae/fouquieria/formosa/` | 1 |
+| 21272 | Fouquieriacee | `https://succulentes.net/it/piante-grasse/fouquieria/` | `/it/piante/fouquieriaceae/fouquieria/` | 1 |
+| 21857 | Cycas calcicola | `https://succulentes.net/chilades-pandava/` | `/azure-des-sagous-chilades-pandava/` | 1 |
+| 23102 | Yucca con hojas amarillas: causas y soluciones | `https://succulentes.net/agavoides/yucca/yucca-elephantipes/` | `/es/agavaceae/yucca/elephantipes/` | 1 |
+| 23289 | Family Dioscoreaceae | `https://succulentes.net/dioscoreaceae/dioscorea/` | `/en/dioscoreaceae/dioscorea/` | 2 |
+| 23291 | Genus Dioscorea | `https://succulentes.net/dioscoreaceae/dioscorea/elephantipes/` | `/en/dioscoreaceae/dioscorea/elephantipes/` | 1 |
+| 23298 | Discorea elephantipes | `https://succulentes.net/dioscoreaceae/dioscorea/` | `/en/dioscoreaceae/dioscorea/` | 1 |
+| 23603 | Cycas thouarsii | `https://succulentes.net/es/cycadales-2/cycas/` | `/es/orden-cycadales/cycas/` | 1 |
+| 23623 | Dracaena inexpectata | `https://succulentes.net/es/agavoides/dracaena/cinnabari/` | `/es/agavaceae/dracaena/cinnabari/` | 2 |
+| 23859 | La familia Burseraceae | `/es/boswellia/` | `/es/burseraceae-2/boswellia/` | 1 |
+| 23859 | La familia Burseraceae | `/es/bursera/` | `/es/burseraceae-2/bursera/` | 1 |
+| 23859 | La familia Burseraceae | `/es/commiphora/` | `/es/burseraceae-2/commiphora/` | 1 |
+| 23862 | El género Commiphora | `/es/burseraceae/` | `/es/burseraceae-2/` | 1 |
+| 23863 | El género Bursera | `/es/burseraceae/` | `/es/burseraceae-2/` | 1 |
+| 23864 | El género Boswellia | `/es/burseraceae/` | `/es/burseraceae-2/` | 1 |
+| 23865 | La familia Anacardiaceae | `/es/operculicarya/` | `/es/anacardiaceae/operculicarya/` | 1 |
+| 23865 | La familia Anacardiaceae | `/es/pachycormus/` | `/es/anacardiaceae/pachycormus/` | 1 |
+| 23888 | El género Adenium | `https://succulentes.net/es/apocynaceae/` | `/es/apocynaceae-2/` | 1 |
+| 23889 | El género Fockea | `https://succulentes.net/es/apocynaceae/` | `/es/apocynaceae-2/` | 1 |
+| 23908 | Cyphostemma | `https://succulentes.net/en/vitaceae-2/` | `/en/vitaceae-family/` | 1 |
+| 23938 | Agave chrysoglossa | `https://succulentes.net/es/agavoides/agave/` | `/es/agavaceae/agave/` | 1 |
+
+### Non corrigé (décision du propriétaire)
+
+| ID | Contenu (langue) | Lien | Raison | Suggestion |
+|---|---|---|---|---|
+| 19242 | Agave parryi (en) | `/agave-parryi-couesii` (ancre « Agave parryi var. couesii — Coues’ Agave », suivie de *(coming soon)*) | Aucune page EN. Seule la page FR `/agavoides/agave/couesii/` existe. | Retirer le lien en gardant le texte (la page est annoncée « coming soon »), puis le rétablir quand la fiche EN sera publiée. À défaut : lien vers la page EN parente `/en/agavoids/agave/parryi/`, ou vers la page FR (changement de langue). |
+| 19242 | Agave parryi (en) | `/agave-parryi-huachucensis` (« … var. huachucensis — Huachuca Agave », *(coming soon)*) | Aucune page EN. Seule la page FR `/agavoides/agave/huachucensis/` existe. | Même traitement que couesii. |
+| 3897 | Le genre Aeonium (fr) | `https://succulentes.net/genre-sempervivum/` (« genre *Sempervivum* ») | Aucune page FR sur Sempervivum. Elle existe en EN, IT et ES (`/en/crassulaceae/sempervivum/`). | Retirer le lien en gardant le texte. À défaut : `/famille-crassulaceae/` (à vérifier), ou la page EN (changement de langue). |
+| 23389 | Chamaerops — The European Fan Palm (en) | `https://succulentes.net/en/arecaceae/chamaerops/humilis/` (« Chamaerops humilis ») | Aucune fiche EN pour C. humilis. Le genre est monotypique et la page source (`/en/chamaerops/`) traite déjà l'espèce. | Retirer le lien en gardant le texte : sinon la page pointerait vers elle-même. Autre option : lien vers la fiche FR si elle existe (`/palmiers/chamaerops/…`, à vérifier). |
+| 19089 | Euphorbia arbuscula (en) | `/euphorbia/socotra/` (« Socotra Euphorbia overview ») | La cible proposée, `/en/euphorbiaceae/euphorbia/` (200, page du genre), ne correspond pas au texte de l'ancre, et il n'existe aucune page « Euphorbia de Socotra ». **Aujourd'hui, WordPress redirige ce lien vers *Adenium socotranum* (mauvaise plante) : à traiter en priorité.** | Pointer vers `/en/euphorbiaceae/euphorbia/` en reformulant l'ancre (« genus *Euphorbia* »), ou retirer le lien en gardant le texte. |
+| 24878 | Les aloïdes (fr) | `https://succulentes.net/aloides/haworthiopsis/` (« *Haworthiopsis* ») | La règle 301 renvoie vers `/aloides/`, c'est-à-dire la page source elle-même : la correction créerait un lien de la page vers elle-même. Aucune page FR sur Haworthiopsis. | Retirer le lien en gardant le texte, ou créer la page FR du genre Haworthiopsis (la règle 301 deviendra alors inutile). |
+
+Remarque hors périmètre : le titre de la page `/famille-papaveraceae/romneya/coulteri/` contient lui aussi le caractère U+FFFC (« Romneya coulteri￼ », visible dans `<title>` et `og:title`). Il faudrait le retirer du titre de la page.
