@@ -1,6 +1,6 @@
 # Agave tequilana (FR) — note de livraison du pilote (30/09/2026)
 
-Brouillon WordPress : page 25697 (parent 1018, genre Agave). La page en ligne 2003 n'est pas modifiée.
+Publié le 30/09/2026 sur la page 2003 (/agavoides/agave/tequilana/), titre « Agave tequilana, l'agave bleu » ; brouillon 25697 à la corbeille.
 Environ 2 700 mots. Sources : recherche web (extraits de résultats) ; accès direct aux sites bloqué par
 la politique réseau de l'environnement (POWO, IUCN, Species+, GBIF, forums).
 
