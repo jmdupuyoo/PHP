@@ -3,9 +3,8 @@
 Page 1983 (/agavoides/agave/nickelsiae/). Rien n'a été modifié sur le site.
 
 - Titre de page proposé : Agave nickelsiae (Agave ferdinandi-regis)
-- Titre SEO (54 car.) : Agave nickelsiae (A. ferdinandi-regis) : fiche complète
-  (variante sans abréviation, 59 car. : Agave nickelsiae, ex-Agave ferdinandi-regis : la fiche)
-- Meta description (150 car.) : Agave nickelsiae, ancien Agave ferdinandi-regis : identification, différence avec Agave victoriae-reginae, taxonomie, culture et rusticité.
+- Titre SEO (49 car.) : Agave nickelsiae (Agave ferdinandi-regis) : fiche
+- Meta description (139 car.) : Agave nickelsiae, ancien Agave ferdinandi-regis : identification, différence avec Agave victoriae-reginae, taxonomie, culture et rusticité.
 - Mot-clé principal : Agave nickelsiae
 
 Environ 2 400 mots. Statut POWO : espèce acceptée (Agave nickelsiae Rol.-Goss., 1895) ; Agave ferdinandi-regis A.Berger en synonyme.
@@ -29,3 +28,5 @@ Page actuelle : un paragraphe, pas d'image. Corrigé : « certains botanistes le
 5. Encadré : IUCN et CITES marqués incertains ; toxicité « pas de donnée propre » ; aucun nom français attesté.
 Liens internes vérifiés (200) : /agavoides/agave/, victoria-reginae, asperrima, lechuguilla ; A. pintilla sans page (404), non lié. Blog : agave-en-pot…, agave-culture-en-france…, agave-fleurs.
 Liens externes : non vérifiables (réseau).
+
+Coordination : la page FR /agavoides/agave/nigra/ (Agave × nigra) et le brouillon agave-nigra-fr (autre lot) traitent 'Sharkskin' comme l'hybride nickelsiae × asperrima. Si le propriétaire valide cette équivalence, ajouter un lien vers Agave nigra dans le paragraphe « Hybrides » (non fait ici : équivalence non vérifiée de mon côté).

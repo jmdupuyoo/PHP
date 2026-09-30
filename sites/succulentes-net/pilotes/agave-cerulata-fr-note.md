@@ -5,7 +5,7 @@ Page 2276 (/agavoides/agave/cerulata/). Rien n'a été modifié sur le site.
 - Titre de page proposé : Agave cerulata, agave de Basse-Californie
   (aucun nom commun français attesté : « agave de Basse-Californie » n'est qu'une description ; à défaut, garder « Agave cerulata »)
 - Titre SEO (56 car.) : Agave cerulata : sous-espèces, identification et culture
-- Meta description (148 car.) : Agave cerulata, agave drageonnant de Basse-Californie : reconnaître l'espèce et ses sous-espèces, taxonomie, habitat, culture et rusticité.
+- Meta description (139 car.) : Agave cerulata, agave drageonnant de Basse-Californie : reconnaître l'espèce et ses sous-espèces, taxonomie, habitat, culture et rusticité.
 - Mot-clé principal : Agave cerulata
 
 Environ 2 450 mots. Statut POWO : espèce acceptée (Agave cerulata Trel., 1911) ; sous-espèces acceptées dentiens, nelsonii, subcerulata (et l'autonyme).

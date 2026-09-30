@@ -3,8 +3,8 @@
 Page 1992 (/agavoides/agave/montana/). Rien n'a été modifié sur le site.
 
 - Titre de page proposé : Agave montana, l'agave des montagnes
-- Titre SEO (58 car.) : Agave montana : agave des montagnes, culture et rusticité
-- Meta description (147 car.) : Agave montana, agave solitaire des montagnes du Mexique : identification, habitat, culture, rusticité documentée en climat humide et multiplication.
+- Titre SEO (57 car.) : Agave montana : agave des montagnes, culture et rusticité
+- Meta description (148 car.) : Agave montana, agave solitaire des montagnes du Mexique : identification, habitat, culture, rusticité documentée en climat humide et multiplication.
 - Mot-clé principal : Agave montana
 
 Environ 2 400 mots. Statut POWO : espèce acceptée (Agave montana Villarreal, 1996), aucun synonyme.
