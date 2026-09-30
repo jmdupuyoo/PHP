@@ -170,6 +170,9 @@ Le texte final de l'article, prêt à coller dans WordPress. Termine par une cou
 - Ordre en tête d'article : Introduction → Sommaire → « L'essentiel sur *Taxon* » (intitulé exact : « L'essentiel sur » + nom scientifique en italique). L'introduction est le tout premier bloc
   (aucun intertitre avant) ; le sommaire est ajouté automatiquement par Easy Table of Contents avant le premier H2.
 
+- Vérification des liens avant et après publication : chaque lien interne doit mener directement à une page
+  publiée (réponse 200, ni 404 ni redirection : utiliser l'adresse finale) ; chaque lien externe doit être vérifié
+  quand l'accès réseau le permet, sinon le signaler dans la note de livraison.
 - Liens internes dans le corps du texte : UNIQUEMENT sur les noms scientifiques (espèces, genres, familles)
   qui ont une page sur succulentes.net, et seulement la première occurrence utile. Aucun autre lien interne dans le texte.
 - Introduction : un seul lien, vers la page mère (espèce → genre, genre → famille/groupe, famille → /plantes/).
