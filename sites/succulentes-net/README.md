@@ -47,7 +47,7 @@ puis quatre entrées sans menu déroulant, affichées dans un bandeau vert sous 
 | Plantes | 594 | 14798 | 11576 | 23116 |
 | Jardins | 4532 | 24688 | 24689 | 24690 |
 | Campus (e-books, formations) | 24710 (`/campus/`) | 24691 (`/en/campus-en/`) | 24692 | 24693 |
-| Blog | 9 | 15072 | 11688 | pas de page |
+| Blog | 9 | 15072 | 11688 | 25597 (`/es/articulos/`) |
 
 Les pages Jardins et Campus en/it/es sont publiées et reliées (Polylang) aux pages françaises ;
 elles ne contiennent encore qu'une phrase d'introduction (à développer). La page Campus française
