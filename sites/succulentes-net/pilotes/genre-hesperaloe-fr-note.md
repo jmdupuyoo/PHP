@@ -41,3 +41,7 @@ Images : la page actuelle n'a ni bloc image ni image mise en avant ; rien à con
 3. Sources demandées mais inaccessibles : POWO (listes et décomptes directs), IUCN Red List, Species+, protologue d'Engelmann, description de H. malacophylla, forums francophones (aucun retour de culture daté trouvé).
 4. France : aucune donnée zone par zone (littoral méditerranéen, façade atlantique, Bretagne, intérieur, montagne) ni épisode hivernal documenté. Seules données : rusticité commerciale et recensement des taxons cultivés en Espagne (Guillot & Van der Meer 2006).
 5. Encadré « L'essentiel » : statut IUCN supprimé (aucune évaluation consultée) ; CITES « aucune inscription connue (non vérifié sur Species+) » ; noms communs omis de l'encadré (aucun nom français attesté).
+
+## Publication (30/09/2026)
+- Page publiée avec ce brouillon ; SEO (titre, meta, mot-clé) appliqué ; contrôle fetch_site_url OK (intro en tête, lien unique vers /agavoides/, première H2 « L’essentiel sur », liens internes 200).
+- JZT : aucune observation du jardin publiée sur les Hesperaloe ; la phrase sur le charançon reprend désormais le « principe général » de l'article 383 (lien sur Scyphophorus acupunctatus), sans l'attribuer au jardin.

@@ -36,3 +36,7 @@ Liens externes : aucun <a> externe ; URL de référence non vérifiées (réseau
 3. Sources inaccessibles : POWO (décompte direct), IUCN, Species+, protologue de Kunth, révision de García-Mendoza, forums francophones.
 4. France : seule indication, de source commerciale et Wikipédia : B. yuccoides « fréquent dans les jardins bretons et méditerranéens ». Aucune donnée zone par zone, aucun épisode hivernal documenté.
 5. Encadré : IUCN supprimé (aucune évaluation trouvée) ; CITES « aucune inscription connue (non vérifié sur Species+) » ; protections mexicaines NOM-059 (eFloraMEX) indiquées ; noms communs omis (aucun nom français).
+
+## Publication (30/09/2026)
+- Page publiée avec ce brouillon ; SEO (titre, meta, mot-clé) appliqué ; contrôle fetch_site_url OK (intro en tête, lien unique vers /agavoides/, première H2 « L’essentiel sur », liens internes 200).
+- JZT : observation du charançon de l'agave (article 383) intégrée dans « Rusticité et contexte français », attribuée au Jardin zoologique tropical de La Londe-les-Maures, lien sur Scyphophorus acupunctatus.

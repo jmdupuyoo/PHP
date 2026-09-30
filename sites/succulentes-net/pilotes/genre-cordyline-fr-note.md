@@ -58,3 +58,7 @@ Image : 17786 (Cordyline sellowiana, alt déjà renseigné en médiathèque). La
 ## À signaler au propriétaire
 - Médiathèque : 17783 (Cordyline sellowiana) et 4798 (Cordyline petiolaris) ont un alt vide (non modifiés).
 - La fiche 4810 (slug « dracaenoides », titre Cordyline sellowiana) contient des abréviations « C. sellowiana » et la contradiction du point 1.
+
+## Publication (30/09/2026)
+- Page publiée avec ce brouillon ; SEO (titre, meta, mot-clé) appliqué ; contrôle fetch_site_url OK (intro en tête, lien unique vers /agavoides/, première H2 « L’essentiel sur », liens internes 200).
+- JZT : seule source = légende de la photo 17783 sur la fiche 4810 (Cordyline sellowiana au JZT) ; phrase ajoutée dans « Contexte français ». Médiathèque : alt 17783 renseigné (Cordyline sellowiana) ; 4798 (Cordyline petiolaris d'après la note) non traité, hors de cette page.

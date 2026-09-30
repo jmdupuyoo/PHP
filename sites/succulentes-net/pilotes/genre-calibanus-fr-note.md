@@ -38,3 +38,7 @@ aucun bloc image dans le contenu ; alt conservé tel quel (nom d'usage ; nom acc
 3. Sources inaccessibles : POWO (pages complètes), texte de Rojas-Piña et al. 2014 (résumé seulement), Brittonia 2003, Species+, IUCN, NOM-059.
 4. France : aucune donnée zone par zone ni épisode hivernal documenté.
 5. Encadré : IUCN supprimé (aucune évaluation trouvée) ; noms communs omis (aucun nom français attesté ; « Mexican boulder plant », « sacamecate » donnés dans la section).
+
+## Publication (30/09/2026)
+- Page publiée avec ce brouillon ; SEO (titre, meta, mot-clé) appliqué ; contrôle fetch_site_url OK (intro en tête, lien unique vers /agavoides/, première H2 « L’essentiel sur », liens internes 200).
+- JZT : aucune observation publiée. Intro : nom d'usage + synonyme de Beaucarnea pour POWO ; phrase sur l'ancienne mention « sud-est de la France » supprimée ; bloc liste mal fermé (/wp:paragraph) corrigé.
