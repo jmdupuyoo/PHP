@@ -153,3 +153,7 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   Restent : alt de l'image 3104 (Beaucarnea, espèce non identifiée) ; fiche Cordyline dracaenoides (4810) : synonymie à corriger
   (POWO : Cordyline sellowiana) ; pages EN Hesperaloe/Beschorneria/Beaucarnea à revoir ; fiches FR Hesperaloe engelmannii (16087) et
   tenuifolia (16102) rédigées en anglais.
+- 30/09/2026 : fiche 4810 (Cordyline sellowiana, slug dracaenoides) : dracaenoides = nom d'usage ; POWO rattache Cordyline dracaenoides
+  Kunth (et Kunth ex Regel) à Cordyline congesta ; genre 4782 corrigé en conséquence. FR 16087 Hesperaloe engelmannii et 16102
+  Hesperaloe tenuifolia réécrites en français et publiées. EN 15238 Hesperaloe, 15251 Beschorneria, 15212 Beaucarnea corrigées et publiées.
+  Pas de page famille Asparagaceae en EN.
