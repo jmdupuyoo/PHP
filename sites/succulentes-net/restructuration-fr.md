@@ -141,3 +141,8 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   IT 14562, 20604, 20622 (striata polycarpique), 14577 + FR 3248 tenuifolia (floraison non documentée). Note changement de genre ajoutée
   aux IT 14550, 20622, 14577, 20610, 20617, 14562, 20604, EN 16227, ES 23543. Noms abrégés développés sur 4 pages IT.
   Reste : IT 20610 albopilosa dite monocarpique sans source.
+- Nomenclature dasylirioides (30/09/2026) : POWO accepte Agave dealbata É.Morren ex K.Koch ; A. dasylirioides et Echinoagave dasylirioides
+  y sont synonymes (l'espèce reste dans Agave). Notes erronées « Echinoagave » corrigées sur FR 20345, IT 20617 ; exemple retiré de
+  FR 3248, IT 14577, FR 2336 ; règle 10 e mise à jour. Nom d'usage conservé : Agave dasylirioides (à confirmer par le propriétaire).
+- Albopilosa (FR 20337, IT 20610) : « monocarpique » retiré (fiches de pépinières génériques) ; question ouverte. Hauteur d'inflorescence
+  divergente FR/IT/protologue, à vérifier.
