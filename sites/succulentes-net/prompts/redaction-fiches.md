@@ -161,3 +161,13 @@ Si des versions existent déjà dans d'autres langues, ne traduis pas mot à mot
 # LIVRABLE
 
 Le texte final de l'article, prêt à coller dans WordPress. Termine par une courte note distincte listant : (1) les points invérifiables ou incertains, (2) les choix éditoriaux signalés, (3) les sources demandées mais introuvables, (4) les zones ou épisodes pour lesquels aucune donnée nationale n'a été trouvée (FR/IT), (5) les champs de l'encadré « En bref » laissés non renseignés et pourquoi. Rien d'autre en dehors de l'article.
+
+# COMPLÉMENTS DU PROPRIÉTAIRE (30/09/2026, prioritaires sur la règle 14)
+
+- Liens internes dans le corps du texte : UNIQUEMENT sur les noms scientifiques (espèces, genres, familles)
+  qui ont une page sur succulentes.net, et seulement la première occurrence utile. Aucun autre lien interne dans le texte.
+- Introduction : un seul lien, vers la page mère (espèce → genre, genre → famille/groupe, famille → /plantes/).
+- En fin d'article, AVANT « Sites de référence » / « Bibliographie » : une section « À lire aussi sur Succulentes »
+  avec 1 à 3 liens vers des articles du blog qui apportent un intérêt supplémentaire réel pour cette plante
+  (ex. cycas : jaunissement des feuilles, gel, fertilisation). Si aucun article du blog n'est proche du sujet,
+  ne pas créer la section.

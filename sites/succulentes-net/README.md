@@ -89,5 +89,8 @@ de chaque page, 28 déjà présentes conservées (4 d'entre elles, en français 
   Pas de rattachement à des pages thématiques (ex. « Les plantes aquatiques » n'est pas une page mère).
 - Nom de famille obsolète cité (Bombacacées, Aloacées, Agavacées…) : lien vers la famille acceptée et courte note
   expliquant que ce nom n'est plus retenu et vers quelle(s) famille(s) les genres ont été transférés.
+- Liens dans le corps : uniquement sur les noms scientifiques (espèces, genres, familles) ayant une page.
+  En fin d'article, avant la bibliographie : « À lire aussi sur Succulentes », 1 à 3 articles du blog vraiment liés
+  (ex. cycas : jaunissement, gel, fertilisation) ; aucune section si rien de pertinent.
 - Pages faibles (une phrase, un paragraphe) : à enrichir selon le prompt de rédaction du propriétaire
   (`prompts/redaction-fiches.md`, prioritaire) ; `plan-type-fiches.md` décrit l'existant.
