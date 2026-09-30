@@ -16,4 +16,4 @@ la politique réseau de l'environnement (POWO, IUCN, Species+, GBIF, forums).
 3. Sources demandées mais introuvables ou inaccessibles
    - IUCN Red List, Species+/CITES (accès bloqué) ; protologue (BHL bloqué) ; forums de culture (bloqués).
 4. France : aucune donnée documentée de culture en pleine terre ni d'épisode de froid trouvée.
-5. Encadré « En bref » : IUCN et CITES « non documentés » (vérification impossible).
+5. Encadré « L'essentiel sur Agave tequilana » : IUCN et CITES « non documentés » (vérification impossible).

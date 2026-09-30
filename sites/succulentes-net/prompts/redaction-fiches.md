@@ -68,13 +68,15 @@ Consignes particulières : {parti pris éditorial, silo concerné, versions déj
 # GABARITS
 
 ## Article ESPÈCE (FR, sans numérotation)
-Introduction (premier bloc de la page, avec le lien d'ancrage du genre et, si besoin, l'ancien nom) → Sommaire (inséré automatiquement par Easy Table of Contents avant le premier intertitre : ne rien écrire) → Encadré « En bref » (intertitre H2 « En bref » + liste) → Comment reconnaître → Hybrides → Confusions possibles → Taxonomie (avec explication des changements de nom) → Étymologie et histoire → Noms communs → Dans la nature → Statut de conservation et réglementation → Culture → Multiplication → Maladies et ravageurs → Rusticité → Toxicité et précautions → Usages traditionnels → FAQ → Sites de référence → Bibliographie
+Introduction (premier bloc de la page, avec le lien d'ancrage du genre et, si besoin, l'ancien nom) → Sommaire (inséré automatiquement par Easy Table of Contents avant le premier intertitre : ne rien écrire) → Encadré « L'essentiel sur *Taxon* » (intertitre H2 « L'essentiel sur » + nom scientifique en italique, puis liste) → Comment reconnaître → Hybrides → Confusions possibles → Taxonomie (avec explication des changements de nom) → Étymologie et histoire → Noms communs → Dans la nature → Statut de conservation et réglementation → Culture → Multiplication → Maladies et ravageurs → Rusticité → Toxicité et précautions → Usages traditionnels → FAQ → Sites de référence → Bibliographie
 (Pas de section « Xérophyte ».)
 En EN/IT/ES : mêmes sections, titres traduits. En EN, scinder Culture en « Outdoor / In-ground cultivation » et « Container cultivation ».
 En FR et IT, la section Rusticité s'organise en deux parties : (1) le contexte national (règle 19), (2) des repères internationaux plus brefs.
 
-## Encadré « En bref »
-Placé APRÈS l'introduction et le sommaire (jamais avant l'introduction), sous un intertitre H2 « En bref ».
+## Encadré « L'essentiel sur *Taxon* » (anciennement « L'essentiel sur *Taxon* »)
+Placé APRÈS l'introduction et le sommaire (jamais avant l'introduction), sous un intertitre H2
+« L'essentiel sur <em>Nom du taxon</em> » (ex. « L'essentiel sur <em>Agave tequilana</em> »).
+Autres langues (à valider) : EN « Key facts about », IT « L'essenziale su », ES « Lo esencial sobre ».
 Liste simple (pas de tableau), collable dans WordPress, avec ces champs :
 - Nom accepté (POWO) et auteur(s)
 - Anciens noms et synonymes courants
@@ -113,11 +115,11 @@ Règles : chaque champ vient d'une source vérifiée. Champ non renseignable →
 - Aucun conseil médical, aucune dose. En cas d'ingestion ou de contact, renvoie à un centre antipoison ou à un médecin ou vétérinaire, en restant bref.
 
 ## Page GENRE (hub) : structure proposée, à valider
-Introduction (place du genre, famille, répartition, diversité, anciens noms de genre encore recherchés) → Sommaire (automatique) → Encadré « En bref » (nombre d'espèces acceptées par POWO, famille, répartition, anciens noms de genre, statut CITES ou IUCN s'il s'applique au genre entier) → Caractères du genre → Taxonomie et classification (POWO, synonymes, sous-genres/sections, explication des révisions) → Étymologie et histoire du genre (espèce type, description, grandes étapes) → Noms communs → Biogéographie et écologie → Réglementation et conservation (niveau du genre) → Culture en général (avec le contexte national en FR/IT) → Toxicité et précautions (niveau du genre) → Espèces du genre (index par section, sous-genre ou zone géographique : nom scientifique en italique et une ligne descriptive par espèce) → FAQ → Sites de référence → Bibliographie
+Introduction (place du genre, famille, répartition, diversité, anciens noms de genre encore recherchés) → Sommaire (automatique) → Encadré « L'essentiel sur *Taxon* » (nombre d'espèces acceptées par POWO, famille, répartition, anciens noms de genre, statut CITES ou IUCN s'il s'applique au genre entier) → Caractères du genre → Taxonomie et classification (POWO, synonymes, sous-genres/sections, explication des révisions) → Étymologie et histoire du genre (espèce type, description, grandes étapes) → Noms communs → Biogéographie et écologie → Réglementation et conservation (niveau du genre) → Culture en général (avec le contexte national en FR/IT) → Toxicité et précautions (niveau du genre) → Espèces du genre (index par section, sous-genre ou zone géographique : nom scientifique en italique et une ligne descriptive par espèce) → FAQ → Sites de référence → Bibliographie
 Le hub renvoie vers les pages espèces. Ces liens sont posés manuellement : fournis la liste des entrées, sans les lier.
 
 ## Page FAMILLE (hub) : structure proposée, à valider
-Introduction (avec les anciens noms de genre ou de famille encore recherchés) → Sommaire (automatique) → Encadré « En bref » (nombre de genres et d'espèces acceptés, répartition, anciens noms, protections éventuelles) → Caractères de la famille → Taxonomie (POWO, phylogénie, genres acceptés, explication des révisions) → Étymologie et histoire de la famille → Noms communs → Répartition et écologie → Importance horticole, économique, culturelle → Toxicité et précautions (niveau de la famille) → Index des genres (une ligne par genre) → FAQ → Sites de référence → Bibliographie
+Introduction (avec les anciens noms de genre ou de famille encore recherchés) → Sommaire (automatique) → Encadré « L'essentiel sur *Taxon* » (nombre de genres et d'espèces acceptés, répartition, anciens noms, protections éventuelles) → Caractères de la famille → Taxonomie (POWO, phylogénie, genres acceptés, explication des révisions) → Étymologie et histoire de la famille → Noms communs → Répartition et écologie → Importance horticole, économique, culturelle → Toxicité et précautions (niveau de la famille) → Index des genres (une ligne par genre) → FAQ → Sites de référence → Bibliographie
 
 # CONTENU DES SECTIONS SENSIBLES
 
@@ -153,7 +155,7 @@ Si des versions existent déjà dans d'autres langues, ne traduis pas mot à mot
    - un seul lien interne (le genre), liens externes en nouvel onglet ;
    - nom commun attesté dans le titre, nombre de mots atteint ;
    - ancien(s) nom(s) dans l'introduction et changement de nom expliqué et sourcé dans la Taxonomie ;
-   - encadré « En bref » complet, chaque champ vérifié ou marqué non documenté ;
+   - encadré « L'essentiel sur *Taxon* » complet, chaque champ vérifié ou marqué non documenté ;
    - chaque section ouverte par une réponse directe, FAQ de 6 à 8 questions avec réponse nette en tête ;
    - sections Étymologie, Noms communs, Conservation/réglementation et Toxicité présentes et sourcées (ou mention honnête d'absence de données) ;
    - FR/IT : contexte national développé (résultats en place par zone, épisodes hivernaux documentés) ;
@@ -161,11 +163,11 @@ Si des versions existent déjà dans d'autres langues, ne traduis pas mot à mot
 
 # LIVRABLE
 
-Le texte final de l'article, prêt à coller dans WordPress. Termine par une courte note distincte listant : (1) les points invérifiables ou incertains, (2) les choix éditoriaux signalés, (3) les sources demandées mais introuvables, (4) les zones ou épisodes pour lesquels aucune donnée nationale n'a été trouvée (FR/IT), (5) les champs de l'encadré « En bref » laissés non renseignés et pourquoi. Rien d'autre en dehors de l'article.
+Le texte final de l'article, prêt à coller dans WordPress. Termine par une courte note distincte listant : (1) les points invérifiables ou incertains, (2) les choix éditoriaux signalés, (3) les sources demandées mais introuvables, (4) les zones ou épisodes pour lesquels aucune donnée nationale n'a été trouvée (FR/IT), (5) les champs de l'encadré « L'essentiel sur *Taxon* » laissés non renseignés et pourquoi. Rien d'autre en dehors de l'article.
 
 # COMPLÉMENTS DU PROPRIÉTAIRE (30/09/2026, prioritaires sur la règle 14 et sur l'ordre des gabarits)
 
-- Ordre en tête d'article : Introduction → Sommaire → « En bref ». L'introduction est le tout premier bloc
+- Ordre en tête d'article : Introduction → Sommaire → « L'essentiel sur *Taxon* » (intitulé exact : « L'essentiel sur » + nom scientifique en italique). L'introduction est le tout premier bloc
   (aucun intertitre avant) ; le sommaire est ajouté automatiquement par Easy Table of Contents avant le premier H2.
 
 - Liens internes dans le corps du texte : UNIQUEMENT sur les noms scientifiques (espèces, genres, familles)
