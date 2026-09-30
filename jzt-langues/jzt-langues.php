@@ -2,7 +2,7 @@
 /**
  * Plugin Name: JZT Gestion des langues
  * Description: Barre de drapeaux et traduction du menu d'en-tête pour le Jardin zoologique tropical. S'appuie sur Polylang.
- * Version: 2.0.1
+ * Version: 2.0.2
  * Author: Jardin zoologique tropical
  * Requires Plugins: polylang
  * Text Domain: jzt-langues
@@ -164,7 +164,7 @@ add_action(
 .jzt-langue-code{font-size:12px;font-weight:600;color:inherit}
 .jzt-langue-active{opacity:1;pointer-events:none}
 .jzt-langue-active svg{box-shadow:0 0 0 2px rgba(0,0,0,.35)}
-.jzt-langues-barre{display:flex;justify-content:flex-end;padding:6px 16px;background:#f5f5f5}
+.jzt-langues-barre{display:flex;justify-content:flex-end;padding:6px 16px;background:#fff}
 @media (max-width:600px){.jzt-langue-code{display:none}.jzt-langues{gap:10px}}</style>
 		<?php
 	}
