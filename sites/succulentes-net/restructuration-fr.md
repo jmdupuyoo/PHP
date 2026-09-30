@@ -130,3 +130,9 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   20 liens claudeusercontent.com corrigés ; titre SEO Aloe.
 - Restent : alt manquants (images 1352, 3320, Aloe) ; lien intro Furcraea sur « agavoïdes » ; pas de page /famille-asphodelaceae/ ;
   fiches liées Echinoagave (stricta, tenuifolia, albopilosa, dasylirioides) à doter de la note de changement de genre.
+- Exception Agave / nouveaux genres 2024 (30/09/2026) : note (intro + Taxonomie) ajoutée sur 3248 tenuifolia, 2336 stricta, 20337 albopilosa,
+  20345 dasylirioides (Echinoagave), 1333 bracteosa (Paleoagave), 20193 ellemeetiana (Paraagave) ; phrases contradictoires « POWO n'a pas adopté »
+  corrigées ; synonymie et référence Phytoneuron de 1333 corrigées ; lien striata IT → FR sur 20345.
+  À décider : polycarpie d'A. bracteosa (1333 dit monocarpique, 20193 dit polycarpique) ; « 2,24 Ma » sur 2336 (attribution implicite) ;
+  pages IT (14550, 20622, 14577, 20610, 20617, 14562, 20604), EN 16227, ES 23543 sans la note.
+- Textes alternatifs = nom scientifique (règle du 30/09/2026) : images 1352, 3320, 1584, 1582, 1580.
