@@ -107,3 +107,5 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   (les règles `/especes-plantes-grasses/<x>/…` restent valables).
 - Variétés d'Agave parryi rangées sous l'espèce (30/09/2026) : couesii (2254), huachucensis (2328), truncata (1416)
   → /agavoides/agave/parryi/<variété>/ ; 301 depuis /agavoides/agave/couesii/, /huachucensis/, /parryi-truncata/ ; liens internes réécrits.
+- Agave parryi subsp. neomexicana (POWO) rangé sous Agave parryi dans 3 langues (30/09/2026) : FR 1967, EN 19234, IT 23082
+  → …/agave/parryi/neomexicana/ (IT : /it/piante/agavoidi/agave/parryi/neomexicana/) ; 301 depuis les anciennes adresses ; 16 liens réécrits.
