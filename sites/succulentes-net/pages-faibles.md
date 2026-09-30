@@ -27,17 +27,17 @@ Audit en **lecture seule** du 2026-09-30 (serveur MCP « Succulentes-1_2_5 », o
 | 13826 | famille | Les Cycadales | /cycadales/ | 108 | ≈ 1 paragraphe; sans image; racine de groupe; Page d'ordre (racine de 140 sous-pages) réduite à ~100 mots et un intertitre |
 | 2819 | genre | Le genre Neobuxbaumia | /famille-cactaceae/neobuxbaumia/ | 19 | ≈ 1 à 2 phrases; aucun H2; sans image; Une phrase et une liste de 2 espèces (inventaire contenus obsolètes) |
 | 8773 | genre | Le genre Romneya | /famille-papaveraceae/romneya/ | 39 | ≈ 1 à 2 phrases; aucun H2; sans image |
-| 15233 | genre | Le genre Hesperaloe | /agavoides/hesperaloe/ | 39 | ≈ 1 à 2 phrases; aucun H2; sans image; aucun lien interne; Pas de lien d'intro vers /agavoides/ ; la meta cite les « Agavacées », famille obsolète (Asparagaceae, Agavoideae) |
+| 15233 | genre | Le genre Hesperaloe | /agavoides/hesperaloe/ | 39 | ≈ 1 à 2 phrases; aucun H2; sans image; aucun lien interne; Pas de lien d'intro vers /agavoides/ ; la meta cite les « Agavacées », famille obsolète (Asparagaceae, Agavoideae) ; **enrichie et publiée le 30/09/2026** |
 | 3716 | genre | Le genre Pachycereus | /famille-cactaceae/pachycereus/ | 40 | ≈ 1 à 2 phrases; sans image |
 | 8702 | genre | Le genre Phytolacca | /famille-phytolaccaceae/phytolacca/ | 40 | ≈ 1 à 2 phrases; aucun H2; sans image |
 | 10307 | genre | Genre Nymphoides | /famille-menyanthaceae/nymphoides/ | 40 | ≈ 1 à 2 phrases; aucun H2; sans image; Nymphoides : ancien rattachement erroné aux Nymphéacées (voir README) ; vérifier que le texte cite bien les Menyanthaceae |
 | 5255 | genre | Le genre Pseudobombax | /famille-malvaceae/pseudobombax/ | 41 | ≈ 1 paragraphe; aucun H2; sans image |
 | 5153 | genre | Le Pereskia | /famille-cactaceae/pereskia/ | 43 | ≈ 1 paragraphe; aucun H2; sans image; Pas de meta description ; titre « Le Pereskia » à harmoniser (« Le genre Pereskia ») |
-| 2851 | genre | Le genre Beschorneria | /agavoides/beschorneria/ | 45 | ≈ 1 paragraphe; aucun H2; sans image; Surtout une liste d'espèces liées (5 liens) |
+| 2851 | genre | Le genre Beschorneria | /agavoides/beschorneria/ | 45 | ≈ 1 paragraphe; aucun H2; sans image; Surtout une liste d'espèces liées (5 liens) ; **enrichie et publiée le 30/09/2026** |
 | 9784 | genre | Le genre Rhapidophyllum | /palmiers/rhapidophyllum/ | 49 | ≈ 1 paragraphe; aucun H2; sans image |
-| 5193 | genre | Le genre Sansevieria | /agavoides/sansevieria/ | 50 | ≈ 1 paragraphe; aucun H2; sans image; Genre obsolète : Sansevieria est aujourd'hui inclus dans Dracaena (page 3381) ; réécrire en page de renvoi ou rediriger |
+| 5193 | genre | Le genre Sansevieria | /agavoides/sansevieria/ | 50 | ≈ 1 paragraphe; aucun H2; sans image; Genre obsolète : Sansevieria est aujourd'hui inclus dans Dracaena (page 3381) ; réécrire en page de renvoi ou rediriger ; **enrichie et publiée le 30/09/2026** |
 | 5115 | genre | Le genre Lophophora | /famille-cactaceae/lophophora/ | 61 | ≈ 1 paragraphe; aucun H2; sans image |
-| 5227 | genre | Le genre Calibanus | /agavoides/calibanus/ | 61 | ≈ 1 paragraphe; aucun H2; sans image |
+| 5227 | genre | Le genre Calibanus | /agavoides/calibanus/ | 61 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 30/09/2026** |
 | 5124 | genre | Le genre Espostoa | /famille-cactaceae/espostoa/ | 62 | ≈ 1 paragraphe; aucun H2; sans image |
 | 5107 | genre | Le genre Epiphyllum | /famille-cactaceae/epiphyllum/ | 65 | ≈ 1 paragraphe; aucun H2; sans image |
 | 8556 | genre | Le genre Callistemon | /famille-myrtaceae/callistemon/ | 73 | ≈ 1 paragraphe; sans image |
@@ -60,16 +60,16 @@ Audit en **lecture seule** du 2026-09-30 (serveur MCP « Succulentes-1_2_5 », o
 | 8281 | genre | Le genre Acacia | /famille-fabaceae/acacia/ | 138 | quelques paragraphes; sans image; Surtout une liste de liens vers les espèces (16 liens), peu de texte |
 | 5202 | genre | Le genre Kalanchoe | /famille-crassulaceae/kalanchoe/ | 142 | quelques paragraphes; aucun H2; sans image; 3 paragraphes (origine, bulbilles envahissantes, 2 espèces citées sans lien) ; aucune liste d'espèces |
 | 8200 | genre | Le genre Erythrina | /famille-fabaceae/erythrina/ | 142 | quelques paragraphes; sans image |
-| 3093 | genre | Le genre Beaucarnea | /agavoides/beaucarnea/ | 144 | quelques paragraphes; aucun H2; sans image; Liste d'espèces liées, sans intertitre |
+| 3093 | genre | Le genre Beaucarnea | /agavoides/beaucarnea/ | 144 | quelques paragraphes; aucun H2; sans image; Liste d'espèces liées, sans intertitre ; **enrichie et publiée le 30/09/2026** |
 | 9534 | genre | Le genre Leonotis | /famille-lamiaceae/leonotis/ | 149 | quelques paragraphes; sans image |
 | 8122 | genre | Le genre Grevillea | /famille-proteaceae/grevillea/ | 155 | quelques paragraphes; sans image |
-| 4782 | genre | Le genre Cordyline | /agavoides/cordyline/ | 159 | quelques paragraphes; sans image |
+| 4782 | genre | Le genre Cordyline | /agavoides/cordyline/ | 159 | quelques paragraphes; sans image ; **enrichie et publiée le 30/09/2026** |
 | 4512 | genre | le genre Trithrinax | /palmiers/trithrinax/ | 175 | quelques paragraphes; sans image |
 | 8624 | genre | Le genre Hakea | /famille-proteaceae/hakea/ | 183 | quelques paragraphes; sans image |
 | 6541 | genre | Le genre Butyagrus | /palmiers/butyagrus/ | 191 | quelques paragraphes; sans image |
-| 1047 | genre | Genre Nolina | /agavoides/nolina/ | 209 | quelques paragraphes; sans image; Surtout une liste de liens vers les espèces (14 liens), peu de texte |
+| 1047 | genre | Genre Nolina | /agavoides/nolina/ | 209 | quelques paragraphes; sans image; Surtout une liste de liens vers les espèces (14 liens), peu de texte ; **enrichie et publiée le 30/09/2026** |
 | 7696 | genre | Genre Ochagavia | /famille-bromeliaceae/ochagavia/ | 213 | quelques paragraphes |
-| 6637 | genre | Le genre Lomandra | /agavoides/lomandra/ | 232 | quelques paragraphes; sans image |
+| 6637 | genre | Le genre Lomandra | /agavoides/lomandra/ | 232 | quelques paragraphes; sans image ; **enrichie et publiée le 30/09/2026** |
 | 4693 | genre | Le genre Phoenix | /palmiers/phoenix/ | 245 | quelques paragraphes; sans image |
 | 5391 | genre | Le genre Chamaerops | /palmiers/chamaerops/ | 304 | quelques paragraphes |
 | 7933 | genre | Le genre Banksia | /famille-proteaceae/banksia/ | 310 | quelques paragraphes; sans image |

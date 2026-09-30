@@ -146,3 +146,10 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   FR 3248, IT 14577, FR 2336 ; règle 10 e mise à jour. Nom d'usage conservé : Agave dasylirioides (à confirmer par le propriétaire).
 - Albopilosa (FR 20337, IT 20610) : « monocarpique » retiré (fiches de pépinières génériques) ; question ouverte. Hauteur d'inflorescence
   divergente FR/IT/protologue, à vérifier.
+- Genres Asparagaceae enrichis et publiés (30/09/2026) : 15233 Hesperaloe, 2851 Beschorneria, 5227 Calibanus (nom d'usage, = Beaucarnea),
+  4782 Cordyline, 5193 Sansevieria (nom d'usage, = Dracaena), 3093 Beaucarnea, 1047 Nolina, 6637 Lomandra ; observations JZT intégrées
+  (Beschorneria/charançon, Cordyline sellowiana, Nolina matapensis/erumpens/nelsonii/lindheimeriana, Lomandra longifolia −7 °C).
+  Fiche 1427 Nolina longifolia : nom d'usage, botaniquement Nolina parviflora (POWO).
+  Restent : alt de l'image 3104 (Beaucarnea, espèce non identifiée) ; fiche Cordyline dracaenoides (4810) : synonymie à corriger
+  (POWO : Cordyline sellowiana) ; pages EN Hesperaloe/Beschorneria/Beaucarnea à revoir ; fiches FR Hesperaloe engelmannii (16087) et
+  tenuifolia (16102) rédigées en anglais.
