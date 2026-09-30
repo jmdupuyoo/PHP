@@ -91,7 +91,7 @@ Audit en **lecture seule** du 2026-09-30 (serveur MCP « Succulentes-1_2_5 », o
 | 2594 | espèce | Dasylirion texanum | /agavoides/dasylirion/texanum/ | 40 | ≈ 1 à 2 phrases; aucun H2; sans image |
 | 8337 | espèce | Acacia terminalis | /famille-fabaceae/acacia/terminalis/ | 40 | ≈ 1 à 2 phrases; aucun H2 |
 | 10377 | espèce | Nymphaea ‘Massanou’ | /famille-nymphaeaceae/nymphaea/massanou/ | 40 | ≈ 1 à 2 phrases; aucun H2; sans image; cultivar |
-| 2003 | espèce | Agave tequilana | /agavoides/agave/tequilana/ | 41 | ≈ 1 paragraphe; aucun H2; sans image; Un seul paragraphe de 3 phrases (sirop d'agave, tequila) alors que l'espèce est majeure |
+| 2003 | espèce | Agave tequilana | /agavoides/agave/tequilana/ | 41 | ≈ 1 paragraphe; aucun H2; sans image; Un seul paragraphe de 3 phrases (sirop d'agave, tequila) alors que l'espèce est majeure ; **enrichie et publiée le 30/09/2026** |
 | 3760 | espèce | Moringa drouhardii | /famille-moringaceae/moringa/drouhardii/ | 42 | ≈ 1 paragraphe; aucun H2; sans image |
 | 3107 | espèce | Beaucarnea stricta | /agavoides/beaucarnea/stricta/ | 43 | ≈ 1 paragraphe; aucun H2; sans image |
 | 2583 | espèce | Dasylirion glaucophyllum | /agavoides/dasylirion/glaucophyllum/ | 45 | ≈ 1 paragraphe; aucun H2; sans image |
@@ -128,8 +128,8 @@ Audit en **lecture seule** du 2026-09-30 (serveur MCP « Succulentes-1_2_5 », o
 | 2901 | espèce | Ferocactus pilosus | /famille-cactaceae/ferocactus/pilosus/ | 63 | ≈ 1 paragraphe; aucun H2; sans image |
 | 6270 | espèce | Opuntia huajuapensis | /famille-cactaceae/opuntia/huajuapensis/ | 63 | ≈ 1 paragraphe; aucun H2 |
 | 1661 | espèce | Aloe ramosissima | /aloides/aloe/ramosissima/ | 64 | ≈ 1 paragraphe; aucun H2; sans image |
-| 2353 | espèce | Agave pygmaea | /agavoides/agave/pygmaea/ | 67 | ≈ 1 paragraphe; aucun H2; sans image |
-| 2125 | espèce | Agave macroacantha | /agavoides/agave/macroacantha/ | 68 | ≈ 1 paragraphe; aucun H2; sans image |
+| 2353 | espèce | Agave pygmaea | /agavoides/agave/pygmaea/ | 67 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 30/09/2026** |
+| 2125 | espèce | Agave macroacantha | /agavoides/agave/macroacantha/ | 68 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 30/09/2026** |
 | 3526 | espèce | Adenium obesum | /famille-apocynaceae/adenium/obesum/ | 68 | ≈ 1 paragraphe; aucun H2; sans image |
 | 4481 | espèce | Echinopsis (Trichocereus) tarijensis | /famille-cactaceae/echinopsis/tarijensis/ | 68 | ≈ 1 paragraphe; aucun H2 |
 | 5646 | espèce | Pachycereus marginatus | /famille-cactaceae/pachycereus/marginatus/ | 68 | ≈ 1 paragraphe; aucun H2 |
@@ -142,19 +142,19 @@ Audit en **lecture seule** du 2026-09-30 (serveur MCP « Succulentes-1_2_5 », o
 | 5756 | espèce | Dasylirion berlandieri | /agavoides/dasylirion/berlandieri/ | 70 | ≈ 1 paragraphe; aucun H2 |
 | 2389 | espèce | Yucca endlichiana | /agavoides/yucca/endlichiana/ | 71 | ≈ 1 paragraphe; aucun H2; sans image |
 | 8551 | espèce | Banksia blechnifolia | /famille-proteaceae/banksia/blechnifolia/ | 71 | ≈ 1 paragraphe; aucun H2; sans image |
-| 2204 | espèce | Agave zebra | /agavoides/agave/zebra/ | 72 | ≈ 1 paragraphe; aucun H2; sans image |
-| 2317 | espèce | Agave leopoldii | /agavoides/agave/leopoldii/ | 72 | ≈ 1 paragraphe; aucun H2; sans image |
+| 2204 | espèce | Agave zebra | /agavoides/agave/zebra/ | 72 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 30/09/2026** |
+| 2317 | espèce | Agave leopoldii | /agavoides/agave/leopoldii/ | 72 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 30/09/2026** |
 | 2990 | espèce | Opuntia phaeacantha | /famille-cactaceae/opuntia/phaeacantha/ | 72 | ≈ 1 paragraphe; aucun H2; sans image |
 | 9260 | espèce | Aloe cheranganiensis | /aloides/aloe/aloe-cheranganiensis/ | 72 | ≈ 1 paragraphe; aucun H2; sans image |
 | 2875 | espèce | Beschorneria albiflora | /agavoides/beschorneria/albiflora/ | 73 | ≈ 1 paragraphe; aucun H2; sans image |
-| 2216 | espèce | Agave shawii | /agavoides/agave/shawii/ | 74 | ≈ 1 paragraphe; aucun H2; sans image |
+| 2216 | espèce | Agave shawii | /agavoides/agave/shawii/ | 74 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 30/09/2026** |
 | 2708 | espèce | Yucca filamentosa | /agavoides/yucca/filamentosa/ | 74 | ≈ 1 paragraphe; aucun H2; sans image |
 | 1116 | espèce | Aloe striata | /aloides/aloe/striata/ | 75 | ≈ 1 paragraphe; aucun H2 |
 | 2612 | espèce | Nolina parryi | /agavoides/nolina/parryi/ | 76 | ≈ 1 paragraphe; aucun H2; sans image |
 | 2688 | espèce | Yucca cernua | /agavoides/yucca/cernua/ | 76 | ≈ 1 paragraphe; aucun H2; sans image |
 | 2824 | espèce | Neobuxbaumia polylopha | /famille-cactaceae/neobuxbaumia/polylopha/ | 77 | ≈ 1 paragraphe; aucun H2; sans image |
 | 3257 | espèce | Aloe thraskii | /aloides/aloe/thraskii/ | 77 | ≈ 1 paragraphe; aucun H2; sans image |
-| 1348 | espèce | Agave striata | /agavoides/agave/striata/ | 78 | ≈ 1 paragraphe; aucun H2 |
+| 1348 | espèce | Agave striata | /agavoides/agave/striata/ | 78 | ≈ 1 paragraphe; aucun H2 ; **enrichie et publiée le 30/09/2026** |
 | 2758 | espèce | Yucca schidigera | /agavoides/yucca/schidigera/ | 80 | ≈ 1 paragraphe; aucun H2; sans image |
 | 2983 | espèce | Opuntia basilaris | /famille-cactaceae/opuntia/basilaris/ | 80 | ≈ 1 paragraphe; aucun H2; sans image; aucun lien interne; pas de lien d'intro vers le genre Opuntia |
 | 3205 | espèce | Aloe humilis | /aloides/aloe/humilis/ | 80 | ≈ 1 paragraphe; aucun H2; sans image |
@@ -162,9 +162,9 @@ Audit en **lecture seule** du 2026-09-30 (serveur MCP « Succulentes-1_2_5 », o
 | 2784 | espèce | Yucca madrensis | /agavoides/yucca/madrensis/ | 81 | ≈ 1 paragraphe; aucun H2; sans image |
 | 5929 | espèce | Euphorbia pulvinata | /famille-euphorbiaceae/euphorbia/pulvinata/ | 81 | ≈ 1 paragraphe; aucun H2; sans image |
 | 6751 | espèce | Syagrus romanzoffiana | /palmiers/syagrus/romanzoffiana/ | 81 | ≈ 1 paragraphe; aucun H2 |
-| 1992 | espèce | Agave montana | /agavoides/agave/montana/ | 82 | ≈ 1 paragraphe; aucun H2; sans image |
+| 1992 | espèce | Agave montana | /agavoides/agave/montana/ | 82 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 30/09/2026** |
 | 2622 | espèce | Nolina parviflora | /agavoides/nolina/parviflora/ | 82 | ≈ 1 paragraphe; aucun H2 |
-| 1983 | espèce | Agave nickelsiae | /agavoides/agave/nickelsiae/ | 84 | ≈ 1 paragraphe; aucun H2; sans image |
+| 1983 | espèce | Agave nickelsiae | /agavoides/agave/nickelsiae/ | 84 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 30/09/2026** |
 | 1400 | espèce | Yucca decipiens | /agavoides/yucca/decipiens/ | 85 | ≈ 1 paragraphe; aucun H2; sans image |
 | 2402 | espèce | Nolina interrata | /agavoides/nolina/interrata/ | 85 | ≈ 1 paragraphe; aucun H2 |
 | 2953 | espèce | Yucca harrimaniae | /agavoides/yucca/harrimaniae/ | 85 | ≈ 1 paragraphe; aucun H2; sans image |
@@ -176,11 +176,11 @@ Audit en **lecture seule** du 2026-09-30 (serveur MCP « Succulentes-1_2_5 », o
 | 2714 | espèce | Yucca glauca | /agavoides/yucca/glauca/ | 87 | ≈ 1 paragraphe; aucun H2; sans image |
 | 3565 | espèce | Adansonia gregorii | /famille-malvaceae/adansonia/gregorii/ | 88 | ≈ 1 paragraphe; aucun H2 |
 | 3001 | espèce | Opuntia humifusa | /famille-cactaceae/opuntia/humifusa/ | 89 | ≈ 1 paragraphe; aucun H2; sans image |
-| 2276 | espèce | Agave cerulata | /agavoides/agave/cerulata/ | 92 | ≈ 1 paragraphe; aucun H2; sans image |
+| 2276 | espèce | Agave cerulata | /agavoides/agave/cerulata/ | 92 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 30/09/2026** |
 | 8258 | espèce | Erythrina crista-galli | /famille-fabaceae/erythrina/crista-galli/ | 92 | ≈ 1 paragraphe; aucun H2 |
 | 1561 | espèce | Aloe dichotoma | /aloides/aloe/dichotoma/ | 93 | ≈ 1 paragraphe; aucun H2 |
 | 3031 | espèce | Opuntia cacanapa | /famille-cactaceae/opuntia/cacanapa/ | 93 | ≈ 1 paragraphe; aucun H2; sans image |
-| 3314 | espèce | Agave nigra | /agavoides/agave/nigra/ | 95 | ≈ 1 paragraphe; aucun H2; Agave nigra souvent traité comme hybride de jardin (cf. page genre Agave) : à préciser |
+| 3314 | espèce | Agave nigra | /agavoides/agave/nigra/ | 95 | ≈ 1 paragraphe; aucun H2; Agave nigra souvent traité comme hybride de jardin (cf. page genre Agave) : à préciser ; **enrichie et publiée le 30/09/2026** |
 | 8400 | espèce | Acacia covenyi  | /famille-fabaceae/acacia/covenyi/ | 96 | ≈ 1 paragraphe; aucun H2 |
 | 2702 | espèce | Yucca gloriosa | /agavoides/yucca/gloriosa/ | 98 | ≈ 1 paragraphe; aucun H2; sans image |
 | 5940 | espèce | Euphorbia resinifera | /famille-euphorbiaceae/euphorbia/resinifera/ | 99 | ≈ 1 paragraphe; aucun H2; sans image |

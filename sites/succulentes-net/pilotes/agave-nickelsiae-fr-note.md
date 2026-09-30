@@ -21,7 +21,7 @@ Page actuelle : un paragraphe, pas d'image. Corrigé : « certains botanistes le
    - « −7 °C (20 °F) au sec » : conseil de pépinière dont la source exacte n'est pas identifiée (formulé « des pépinières »).
 2. Choix éditoriaux
    - Ancien nom Agave ferdinandi-regis placé dans l'introduction et le titre proposé.
-   - La page FR d'Agave victoriae-reginae a le slug /victoria-reginae/ (sans e) : lien posé sur cette adresse (200). /victoriae-reginae/ renvoie 404.
+   - La page FR d'Agave victoriae-reginae a le slug /victoriae-reginae/ (sans e) : lien posé sur cette adresse (200). /victoriae-reginae/ renvoie 404.
    - Page ES existante (24129) : chiffres de rusticité reformulés, pas traduits ; son affirmation « Gentry 1982 le traitait comme forme de victoriae-reginae » non reprise faute de vérification (« plusieurs auteurs »).
 3. Sources inaccessibles : IUCN, Species+, protologue (Revue horticole), texte intégral d'Acta Botanica Mexicana 95, forums.
 4. France : aucun résultat daté ni épisode documenté ; seules des valeurs non datées (forum, pépinière).

@@ -12,7 +12,7 @@ Environ 2 700 mots (l'intro, la Taxonomie et la Rusticité portent l'essentiel ;
 
 Statut du nom : nom horticole. Aucune entrée « Agave nigra » ni « Agave × nigra » n'a été trouvée dans POWO ni dans IPNI (recherches indirectes, bases non consultables directement). L'OEPP (code AGVNI) le recense comme « Agave x nigra hortulanorum ». Le croisement concerné est *Agave nickelsiae* × *Agave asperrima* (hybride naturel du sud-est du Coahuila, documenté par González-Elizondo et al. 2011) ; les étiquettes « victoriae-reginae × scabra » renvoient aux mêmes parents sous d'anciens noms.
 
-Liens internes vérifiés (statut 200) : /agavoides/agave/ (intro), /agavoides/agave/asperrima/, /agavoides/agave/nickelsiae/, /agavoides/agave/victoria-reginae/ (slug sans « e »), /agavoides/agave/tequilana/ ; blog : /agave-culture-en-france-guide-pour-les-hivers-froids/, /agave-en-pot-le-guide-complet/, /agave-fleurs/. Pas de page famille Asparagaceae en FR (/famille-asparagaceae/ = 404) : non liée. Liens externes (Sites de référence) non vérifiables en direct (réseau).
+Liens internes vérifiés (statut 200) : /agavoides/agave/ (intro), /agavoides/agave/asperrima/, /agavoides/agave/nickelsiae/, /agavoides/agave/victoriae-reginae/ (slug sans « e »), /agavoides/agave/tequilana/ ; blog : /agave-culture-en-france-guide-pour-les-hivers-froids/, /agave-en-pot-le-guide-complet/, /agave-fleurs/. Pas de page famille Asparagaceae en FR (/famille-asparagaceae/ = 404) : non liée. Liens externes (Sites de référence) non vérifiables en direct (réseau).
 
 Image : le bloc image existant (id 3320) est conservé, avec sa légende d'origine, dans la section « Comment reconnaître ». L'image mise en avant (3318) n'est pas touchée.
 

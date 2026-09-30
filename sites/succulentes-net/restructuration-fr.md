@@ -120,3 +120,13 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   - EN 23390 Chamaerops var. argentea : répartition alignée sur POWO (montagnes du Maroc, Atlas et Rif), altitudes non sourcées retirées.
   - EN 18815 Sempervivum : S. zeleborii donné en synonyme de S. ruthenicum.
   - Restent à vérifier : auteur de var. cerifera et rusticité/protection sur EN 23390 ; doublons d'espèces dans les listes de EN 18815.
+- Enrichissement des espèces Agave (30/09/2026) : 10 fiches publiées (2353 pygmaea, 2125 macroacantha, 2204 zebra, 2317 × leopoldii,
+  2216 shawii, 1348 striata, 1992 montana, 1983 nickelsiae, 2276 cerulata, 3314 nigra) ; brouillons et notes dans pilotes/.
+  Décisions : pygmaea et nigra gardées (synonyme / nom horticole expliqués) ; exception éditoriale Agave pour Echinoagave (règle 10 e du prompt).
+- Page famille Asparagaceae créée (25879, /famille-asparagaceae/) ; lien famille posé dans le corps des 13 genres et des 10 fiches Agave.
+- Corrections : slug /agavoides/agave/victoriae-reginae/ (1928, 301 depuis victoria-reginae), orthographe victoriae-reginae (16 contenus) ;
+  seemanniana 20214 (localité pygmaea : Chiapas) ; genre Agave 1018 (rubrique « Hybrides et noms horticoles », aloès = Asphodelaceae,
+  lien truncata FR) ; Hesperaloe, Sansevieria (intro à un lien), Dracaena (lien arborea retiré), Calibanus (note POWO → Beaucarnea) ;
+  20 liens claudeusercontent.com corrigés ; titre SEO Aloe.
+- Restent : alt manquants (images 1352, 3320, Aloe) ; lien intro Furcraea sur « agavoïdes » ; pas de page /famille-asphodelaceae/ ;
+  fiches liées Echinoagave (stricta, tenuifolia, albopilosa, dasylirioides) à doter de la note de changement de genre.
