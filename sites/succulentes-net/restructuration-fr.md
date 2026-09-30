@@ -105,3 +105,5 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - À vérifier : Echinocactus (23789) situe *E. grusonii* à Querétaro « dans la vallée de Jaumave » (Jaumave est au Tamaulipas).
 - Page Plantes (594) : slug `especes-plantes-grasses` → `plantes` ; 301 `/especes-plantes-grasses/` → `/plantes/`
   (les règles `/especes-plantes-grasses/<x>/…` restent valables).
+- Variétés d'Agave parryi rangées sous l'espèce (30/09/2026) : couesii (2254), huachucensis (2328), truncata (1416)
+  → /agavoides/agave/parryi/<variété>/ ; 301 depuis /agavoides/agave/couesii/, /huachucensis/, /parryi-truncata/ ; liens internes réécrits.
