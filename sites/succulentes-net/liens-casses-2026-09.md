@@ -261,7 +261,7 @@ Vérifications :
 | 23908 | Cyphostemma | `https://succulentes.net/en/vitaceae-2/` | `/en/vitaceae-family/` | 1 |
 | 23938 | Agave chrysoglossa | `https://succulentes.net/es/agavoides/agave/` | `/es/agavaceae/agave/` | 1 |
 
-### Non corrigé (décision du propriétaire)
+### Non corrigé lors du premier passage (décision du propriétaire, traitée plus bas)
 
 | ID | Contenu (langue) | Lien | Raison | Suggestion |
 |---|---|---|---|---|
@@ -272,4 +272,23 @@ Vérifications :
 | 19089 | Euphorbia arbuscula (en) | `/euphorbia/socotra/` (« Socotra Euphorbia overview ») | La cible proposée, `/en/euphorbiaceae/euphorbia/` (200, page du genre), ne correspond pas au texte de l'ancre, et il n'existe aucune page « Euphorbia de Socotra ». **Aujourd'hui, WordPress redirige ce lien vers *Adenium socotranum* (mauvaise plante) : à traiter en priorité.** | Pointer vers `/en/euphorbiaceae/euphorbia/` en reformulant l'ancre (« genus *Euphorbia* »), ou retirer le lien en gardant le texte. |
 | 24878 | Les aloïdes (fr) | `https://succulentes.net/aloides/haworthiopsis/` (« *Haworthiopsis* ») | La règle 301 renvoie vers `/aloides/`, c'est-à-dire la page source elle-même : la correction créerait un lien de la page vers elle-même. Aucune page FR sur Haworthiopsis. | Retirer le lien en gardant le texte, ou créer la page FR du genre Haworthiopsis (la règle 301 deviendra alors inutile). |
 
-Remarque hors périmètre : le titre de la page `/famille-papaveraceae/romneya/coulteri/` contient lui aussi le caractère U+FFFC (« Romneya coulteri￼ », visible dans `<title>` et `og:title`). Il faudrait le retirer du titre de la page.
+### Décision du propriétaire appliquée (30/09/2026, second passage)
+
+Règle du site : un lien ne pointe que vers une page existante. Pour les 6 liens ci-dessus, le lien est **retiré et le texte conservé**, `<em>` compris. Méthode : `replace_in_content` avec `ids=[id]`, où `from` est la balise `<a …>texte</a>` exacte et `to` le texte seul. Chaque correction a d'abord été simulée (dry_run, compte conforme), puis appliquée réellement, un appel à la fois.
+
+| ID | Balise retirée | Texte conservé | Nb |
+|---|---|---|---|
+| 19242 | `<a href="/agave-parryi-couesii">…</a>` | *Agave parryi* var. *couesii* — Coues’ Agave | 1 |
+| 19242 | `<a href="/agave-parryi-huachucensis">…</a>` | *Agave parryi* var. *huachucensis* — Huachuca Agave | 1 |
+| 3897 | `<a href="https://succulentes.net/genre-sempervivum/">…</a>` | genre *Sempervivum* | 1 |
+| 23389 | `<a href="https://succulentes.net/en/arecaceae/chamaerops/humilis/">…</a>` | Chamaerops humilis (le `<em>` qui entoure le texte est conservé) | 1 |
+| 19089 | `<a href="/euphorbia/socotra/">…</a>` | Socotra Euphorbia overview | 1 |
+| 24878 | `<a href="https://succulentes.net/aloides/haworthiopsis/">…</a>` | *Haworthiopsis* | 1 |
+
+Contrôle : un dry_run sur ces 5 contenus avec les 6 adresses ne trouve plus aucune occurrence (`matching: 0`).
+
+Titre de la page 8778 (`/famille-papaveraceae/romneya/coulteri/`) : « Romneya coulteri￼ » devient « Romneya coulteri » (U+FFFC retiré, via `update_content`, champ title uniquement). Contrôle `fetch_site_url` : la page répond 200, avec `<title>Romneya coulteri - Succulentes</title>` et le même texte dans `og:title`.
+
+**Bilan final : les 44 liens cassés et les 85 liens redirigés de l'audit sont tous traités, soit 129 liens dans 93 contenus : 123 réécrits vers leur cible et 6 retirés (texte conservé). S'y ajoute 1 titre corrigé.**
+
+**Contre-ordre reçu après application** : le propriétaire va créer les pages manquantes et demande de conserver les liens de 19242 (couesii, huachucensis), 3897 (`/genre-sempervivum/`) et 23389 (`/en/arecaceae/chamaerops/humilis/`). Ces 4 liens **étaient déjà retirés** quand le contre-ordre est arrivé, et ils n'ont pas été rétablis. Pour les rétablir à l'identique, il suffit d'inverser les 4 remplacements ci-dessus avec `replace_in_content` (`ids=[id]`, `from` = texte seul, `to` = balise `<a …>` d'origine), ou de restaurer la révision WordPress précédente de ces 3 contenus. Les retraits de 19089 (socotra) et 24878 (haworthiopsis), ainsi que la correction du titre 8778, sont confirmés.
