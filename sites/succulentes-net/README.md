@@ -83,3 +83,10 @@ de chaque page, 28 déjà présentes conservées (4 d'entre elles, en français 
   (Echinocactus → Cactaceae ; genre Cycas → Cycadales ; Cycas revoluta → genre Cycas).
   Pour une famille (ou Cycadales, agavoïdes…), le lien d'introduction va vers la page Plantes
   `/plantes/` (594, ancien slug `especes-plantes-grasses`, redirigé en 301), qui n'est pas pour autant page mère : les familles restent à la racine.
+- Toute page commence par un paragraphe d'introduction (jamais directement par un intertitre), rédigé avec une
+  sémantique orientée SEO, qui contient le lien vers la page mère. On peut reformuler l'intro pour placer ce lien.
+- Rattachement scientifique : un genre renvoie à sa famille acceptée (APG IV), et la famille liste/lie ses genres.
+  Pas de rattachement à des pages thématiques (ex. « Les plantes aquatiques » n'est pas une page mère).
+- Nom de famille obsolète cité (Bombacacées, Aloacées, Agavacées…) : lien vers la famille acceptée et courte note
+  expliquant que ce nom n'est plus retenu et vers quelle(s) famille(s) les genres ont été transférés.
+- Pages faibles (une phrase, un paragraphe) : à enrichir selon le plan type des fiches (`plan-type-fiches.md`).
