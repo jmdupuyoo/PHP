@@ -181,3 +181,6 @@ Le texte final de l'article, prêt à coller dans WordPress. Termine par une cou
   avec 1 à 3 liens vers des articles du blog qui apportent un intérêt supplémentaire réel pour cette plante
   (ex. cycas : jaunissement des feuilles, gel, fertilisation). Si aucun article du blog n'est proche du sujet,
   ne pas créer la section.
+
+## Complément : texte alternatif des images (décision du 30/09/2026)
+Le texte alternatif (alt) de chaque image est le seul nom scientifique de la plante représentée (ex. « Agave striata »), sans autre mot. Le renseigner à la fois dans le bloc image de la page et dans la médiathèque (update_media).
