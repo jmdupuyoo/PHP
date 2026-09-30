@@ -73,7 +73,7 @@ Introduction (premier bloc de la page, avec le lien d'ancrage du genre et, si be
 En EN/IT/ES : mêmes sections, titres traduits. En EN, scinder Culture en « Outdoor / In-ground cultivation » et « Container cultivation ».
 En FR et IT, la section Rusticité s'organise en deux parties : (1) le contexte national (règle 19), (2) des repères internationaux plus brefs.
 
-## Encadré « L'essentiel sur *Taxon* » (anciennement « L'essentiel sur *Taxon* »)
+## Encadré « L'essentiel sur *Taxon* » (anciennement « En bref »)
 Placé APRÈS l'introduction et le sommaire (jamais avant l'introduction), sous un intertitre H2
 « L'essentiel sur <em>Nom du taxon</em> » (ex. « L'essentiel sur <em>Agave tequilana</em> »).
 Autres langues (à valider) : EN « Key facts about », IT « L'essenziale su », ES « Lo esencial sobre ».
