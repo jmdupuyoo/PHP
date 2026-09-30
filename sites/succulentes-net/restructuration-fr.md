@@ -136,3 +136,8 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   À décider : polycarpie d'A. bracteosa (1333 dit monocarpique, 20193 dit polycarpique) ; « 2,24 Ma » sur 2336 (attribution implicite) ;
   pages IT (14550, 20622, 14577, 20610, 20617, 14562, 20604), EN 16227, ES 23543 sans la note.
 - Textes alternatifs = nom scientifique (règle du 30/09/2026) : images 1352, 3320, 1584, 1582, 1580.
+- Floraison (30/09/2026, recherche) : A. bracteosa = rosette monocarpique en pratique, touffe persistante (« polycarpie » de Gentry 1982 non confirmée ;
+  Zona 2018) ; A. ellemeetiana monocarpique, rejets hypogés possibles (Etter et al. 2022). Pages alignées : FR 1333, 20193 ; EN 16227 ;
+  IT 14562, 20604, 20622 (striata polycarpique), 14577 + FR 3248 tenuifolia (floraison non documentée). Note changement de genre ajoutée
+  aux IT 14550, 20622, 14577, 20610, 20617, 14562, 20604, EN 16227, ES 23543. Noms abrégés développés sur 4 pages IT.
+  Reste : IT 20610 albopilosa dite monocarpique sans source.
