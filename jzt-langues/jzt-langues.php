@@ -2,7 +2,7 @@
 /**
  * Plugin Name: JZT Gestion des langues
  * Description: Barre de drapeaux et traduction du menu d'en-tête pour le Jardin zoologique tropical. S'appuie sur Polylang.
- * Version: 2.0.0
+ * Version: 2.0.1
  * Author: Jardin zoologique tropical
  * Requires Plugins: polylang
  * Text Domain: jzt-langues
@@ -104,31 +104,52 @@ function jztl_translate_url( $url, $lang ) {
 	return $new;
 }
 
-/** Traduit les liens du bloc Navigation avant leur rendu. */
+/** Traduit les liens du bloc Navigation dans le HTML rendu (le bloc Navigation n'applique pas render_block_data à ses liens). */
 add_filter(
-	'render_block_data',
-	function ( $block ) {
-		if ( ! isset( $block['blockName'] ) || 'core/navigation-link' !== $block['blockName'] || ! jztl_polylang_ok() ) {
-			return $block;
+	'render_block_core/navigation-link',
+	function ( $html, $block ) {
+		if ( ! jztl_polylang_ok() ) {
+			return $html;
 		}
 		$lang = pll_current_language();
 		if ( ! $lang || ( function_exists( 'pll_default_language' ) && pll_default_language() === $lang ) ) {
-			return $block;
+			return $html;
 		}
+		$attrs = isset( $block['attrs'] ) ? $block['attrs'] : array();
 
-		if ( ! empty( $block['attrs']['label'] ) ) {
-			$label  = trim( html_entity_decode( wp_strip_all_tags( $block['attrs']['label'] ), ENT_QUOTES, 'UTF-8' ) );
-			$labels = jztl_menu_labels();
-			if ( isset( $labels[ $label ][ $lang ] ) ) {
-				$block['attrs']['label'] = esc_html( $labels[ $label ][ $lang ] );
+		if ( ! empty( $attrs['url'] ) ) {
+			$new_url = jztl_translate_url( $attrs['url'], $lang );
+			if ( $new_url !== $attrs['url'] ) {
+				$html = preg_replace_callback(
+					'/(<a\b[^>]*\shref=")[^"]*(")/',
+					function ( $m ) use ( $new_url ) {
+						return $m[1] . esc_url( $new_url ) . $m[2];
+					},
+					$html,
+					1
+				);
 			}
 		}
-		if ( ! empty( $block['attrs']['url'] ) ) {
-			$block['attrs']['url'] = jztl_translate_url( $block['attrs']['url'], $lang );
-			unset( $block['attrs']['id'], $block['attrs']['kind'], $block['attrs']['type'] );
+
+		if ( ! empty( $attrs['label'] ) ) {
+			$label  = trim( html_entity_decode( wp_strip_all_tags( $attrs['label'] ), ENT_QUOTES, 'UTF-8' ) );
+			$labels = jztl_menu_labels();
+			if ( isset( $labels[ $label ][ $lang ] ) ) {
+				$translated = esc_html( $labels[ $label ][ $lang ] );
+				$html       = preg_replace_callback(
+					'/(<span class="wp-block-navigation-item__label">).*?(<\/span>)/s',
+					function ( $m ) use ( $translated ) {
+						return $m[1] . $translated . $m[2];
+					},
+					$html,
+					1
+				);
+			}
 		}
-		return $block;
-	}
+		return $html;
+	},
+	10,
+	2
 );
 
 /** Styles de la barre de drapeaux. */
