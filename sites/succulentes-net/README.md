@@ -89,4 +89,5 @@ de chaque page, 28 déjà présentes conservées (4 d'entre elles, en français 
   Pas de rattachement à des pages thématiques (ex. « Les plantes aquatiques » n'est pas une page mère).
 - Nom de famille obsolète cité (Bombacacées, Aloacées, Agavacées…) : lien vers la famille acceptée et courte note
   expliquant que ce nom n'est plus retenu et vers quelle(s) famille(s) les genres ont été transférés.
-- Pages faibles (une phrase, un paragraphe) : à enrichir selon le plan type des fiches (`plan-type-fiches.md`).
+- Pages faibles (une phrase, un paragraphe) : à enrichir selon le prompt de rédaction du propriétaire
+  (`prompts/redaction-fiches.md`, prioritaire) ; `plan-type-fiches.md` décrit l'existant.
