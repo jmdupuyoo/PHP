@@ -2,9 +2,9 @@
 
 Draft 25806 (page, EN), parent 19242 (/en/agavoids/agave/parryi/), slug "couesii", linked as translation of FR page 2254.
 Title: "Agave parryi var. couesii, Coues agave". Rank Math: title 55 chars, description 150 chars, focus keyword "Agave parryi var. couesii".
-About 3,500 words according to Rank Math (reference lists included); about 2,900 words in the body.
+About 3,400 words according to Rank Math (reference lists included); about 2,900 words in the body.
 Sources: web search result summaries only. Direct access to POWO, IPNI, FNA, IUCN, Species+, forums and nursery pages is blocked by the network policy.
-Internal links checked with fetch_site_url (status 200, correct <title>, final URLs): parryi (intro), chrysantha, parryi/truncata, neomexicana, genus Agave, victoriae-reginae, plus 3 blog posts (growing-agaves-in-pots, cold-hardy-succulents..., agave-snout-weevil).
+Internal links checked with fetch_site_url (status 200, correct <title>, final URLs): parryi (intro), chrysantha, parryi/truncata, parryi/neomexicana (the page was moved under parryi and renamed "Agave parryi subsp. neomexicana"; the link in the draft has been rewritten and checked), genus Agave, victoriae-reginae, plus 3 blog posts (growing-agaves-in-pots, cold-hardy-succulents..., agave-snout-weevil).
 External URLs (Reference sites, as plain text) could not be opened: not checked.
 
 ## 1. Unverifiable or uncertain points
@@ -14,8 +14,7 @@ External URLs (Reference sites, as plain text) could not be opened: not checked.
 - Type specimen and its collector: not verified. It is not stated that Coues collected it.
 - IUCN "Least Concern" for *Agave parryi*: relayed by Wikipedia, not read on the Red List. The year is unknown.
 - CITES: *Agave parryi* is not listed and *A. victoriae-reginae* is in App. II, according to secondary sources. Species+ was not consulted.
-- Stillwater, Oklahoma (−19 °F, 20 years, sandstone wall) and potted plants hardy to 0–5 °F if kept dry: these came from search results attributed to Kansas Plant Farm (kansasplantfarm.com/plants/agave-parryi-var-couesii). A second search did not find the page again. The text flags it as a single, unchecked report. Delete it if no one can confirm it.
-- The "German-language hardy-plant sites" (−12/−18 °C up to about −23 °C) are not attributed to a specific site. Delete them or name a site after checking.
+- Correction of 30/09/2026 (rule 1): three passages were removed from the draft (replace_in_content, 8 replacements). They were: the Stillwater, Oklahoma testimony (Kansas Plant Farm, unfound source), the potted-plant hardiness from the same source, and the unattributed values from the "German-language sites". The Kansas Plant Farm entry was removed from the Reference sites. An honest sentence replaces them: no dated, verifiable garden report with a measured minimum temperature was found. Hardiness now rests only on nursery and reference-site ratings.
 - Distribution: FNA gives 1,100–2,100 m. Llifle (after Gentry) gives Yavapai/Gila, the Agua Fria and Verde watersheds, and isolated populations at 6,500–7,000 ft on the Mogollon Rim. Plant Delights gives 4,500–8,000 ft. Coconino County is mentioned by one nursery. The divergence is set out in the text.
 - *Agave parryi* subsp. *neomexicana* (New Mexico and western Texas): taken from the site's own EN pages and general knowledge, not re-checked on POWO.
 - *Agave* ×*parryantha*: informal nursery name (Plant Delights), not found as an accepted name.

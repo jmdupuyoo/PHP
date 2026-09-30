@@ -109,3 +109,14 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   → /agavoides/agave/parryi/<variété>/ ; 301 depuis /agavoides/agave/couesii/, /huachucensis/, /parryi-truncata/ ; liens internes réécrits.
 - Agave parryi subsp. neomexicana (POWO) rangé sous Agave parryi dans 3 langues (30/09/2026) : FR 1967, EN 19234, IT 23082
   → …/agave/parryi/neomexicana/ (IT : /it/piante/agavoidi/agave/parryi/neomexicana/) ; 301 depuis les anciennes adresses ; 16 liens réécrits.
+  Intros FR/EN/IT réécrites (nom accepté + ancien nom, lien unique vers Agave parryi) ; titres et descriptions SEO ajoutés.
+- Pages publiées le 30/09/2026 : FR genre Sempervivum 25802 (/famille-crassulaceae/sempervivum/, relié à EN 18815, IT 19193, ES 23442),
+  EN var. huachucensis 25804, EN var. couesii 25806, EN Chamaerops humilis 25811 (/en/chamaerops/humilis/).
+  Liens rétablis vers ces pages : EN 19242 (Agave parryi, « coming soon » retirés), FR 3897 (Aeonium → Sempervivum), EN 23389 (Chamaerops).
+- Corrections factuelles (30/09/2026) :
+  - FR 2328 huachucensis : feuilles 10–20 cm de large (FNA, au lieu de 35 cm) ; étymologie O'odham et âge de floraison non sourcés retirés.
+  - FR 2254 couesii : combinaison Kearney & Peebles datée 1939 (IPNI) ; tableau huachucensis 10–20 cm.
+  - EN 19242 parryi : largeur huachucensis 10–20 cm (texte et tableau).
+  - EN 23390 Chamaerops var. argentea : répartition alignée sur POWO (montagnes du Maroc, Atlas et Rif), altitudes non sourcées retirées.
+  - EN 18815 Sempervivum : S. zeleborii donné en synonyme de S. ruthenicum.
+  - Restent à vérifier : auteur de var. cerifera et rusticité/protection sur EN 23390 ; doublons d'espèces dans les listes de EN 18815.
