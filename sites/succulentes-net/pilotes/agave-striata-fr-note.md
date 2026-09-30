@@ -1,9 +1,9 @@
-# Agave striata / Echinoagave striata (FR) : note de livraison (brouillon, 30/09/2026)
+# Agave striata (FR) : note de livraison (révisée le 30/09/2026, exception éditoriale Agave, règle 10 e)
 
-- Page : 1348, /agavoides/agave/striata/ (rien n'a été modifié sur le site)
-- Titre de page proposé : Agave striata (Echinoagave striata)
-- Titre SEO (56 car.) : Agave striata (Echinoagave striata) : culture, rusticité
-- Meta description (135 car.) : Agave striata, désormais Echinoagave striata : agave hérisson du Mexique qui survit à sa floraison. Identification, culture, rusticité.
+- Page : 1348, /agavoides/agave/striata/
+- Titre de page proposé : Agave striata
+- Titre SEO (50 car.) : Agave striata : culture, rusticité, identification
+- Meta description (137 car.) : Agave striata, l'agave hérisson du Mexique (Echinoagave striata pour POWO) qui survit à sa floraison. Identification, culture, rusticité.
 - Mot-clé principal : agave striata
 
 Environ 2 640 mots (2 330 hors Sites de référence et Bibliographie). Sources : recherche web (extraits) ; accès direct bloqué.
@@ -12,11 +12,13 @@ Statut POWO : Agave striata Zucc. n'est PLUS accepté. Nom accepté : Echinoagav
 García-Mor., Phytoneuron 2024-2 : 4 (étude Vázquez-García et al., janvier 2024, création des genres Echinoagave,
 Paleoagave, Paraagave). Agave striata subsp. falcata est traité par POWO comme synonyme d'Echinoagave striata.
 
-À VALIDER EN PRIORITÉ PAR LE PROPRIÉTAIRE
-   - Choix du nom d'usage : le brouillon suit POWO (Echinoagave striata dans le corps, l'encadré « L'essentiel sur
-     Echinoagave striata » et les titres), et garde « Agave striata » dans l'intro, le titre, la FAQ et le SEO.
-     Alternative : exception éditoriale type Sansevieria (garder Agave striata comme nom d'usage). À trancher, et à
-     appliquer de la même manière à Agave stricta, tenuifolia, albopilosa, dasylirioides… (aussi passés en Echinoagave).
+DÉCISION DU PROPRIÉTAIRE (30/09/2026), appliquée : exception éditoriale Agave (règle 10 e de redaction-fiches.md).
+   - Agave striata est le nom d'usage partout (titre, intro, « L'essentiel sur Agave striata », corps, FAQ, SEO).
+   - Intro : une phrase donne le nom accepté par POWO (Echinoagave striata (Zucc.) A.Vázquez, Rosales & García-Mor.)
+     et précise que le site garde Agave striata, nom encore employé par les cultivateurs et le commerce.
+   - Taxonomie : paragraphe sur le démembrement d'Agave (Vázquez-García et al., Phytoneuron 2024-02 : Echinoagave,
+     Paleoagave, Paraagave) et le transfert de l'espèce ; « L'essentiel » : ligne « Nom accepté (POWO) … ; nom d'usage
+     sur ce site : Agave striata ».
    - Pas de page Echinoagave sur le site : le lien d'intro pointe vers la page mère actuelle (genre Agave), posé sur
      « genre Agave ». Faut-il créer un hub Echinoagave (et déplacer ces espèces) ?
    - Le bloc image existant (id 1352) est conservé tel quel, avec sa légende (Jardin zoologique tropical,
