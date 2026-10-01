@@ -174,3 +174,4 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - Idées en attente (newsletter, 01/10/2026) : aimant à inscription à décider plus tard.
   Pistes : guide PDF « succulentes rustiques testées au Jardin zoologique tropical » ; calendrier de culture ; aimants ciblés par genre
   (texte variable dans le snippet 11) ; ou premier cours e-learning de botanique offert (mini-cours par e-mails Brevo).
+- 01/10/2026 : blocs Newsletter du pied de page retirés (custom_html-5/6/7/8, FR/EN/IT/ES) à la demande du propriétaire ; conservés dans les widgets inactifs.
