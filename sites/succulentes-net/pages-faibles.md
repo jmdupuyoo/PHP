@@ -25,34 +25,34 @@ Audit en **lecture seule** du 2026-09-30 (serveur MCP « Succulentes-1_2_5 », o
 | id | niveau | titre | adresse | mots | remarques |
 |---|---|---|---|---|---|
 | 13826 | famille | Les Cycadales | /cycadales/ | 108 | ≈ 1 paragraphe; sans image; racine de groupe; Page d'ordre (racine de 140 sous-pages) réduite à ~100 mots et un intertitre |
-| 2819 | genre | Le genre Neobuxbaumia | /famille-cactaceae/neobuxbaumia/ | 19 | ≈ 1 à 2 phrases; aucun H2; sans image; Une phrase et une liste de 2 espèces (inventaire contenus obsolètes) |
+| 2819 | genre | Le genre Neobuxbaumia | /famille-cactaceae/neobuxbaumia/ | 19 | ≈ 1 à 2 phrases; aucun H2; sans image; Une phrase et une liste de 2 espèces (inventaire contenus obsolètes) ; **enrichie et publiée le 01/10/2026** |
 | 8773 | genre | Le genre Romneya | /famille-papaveraceae/romneya/ | 39 | ≈ 1 à 2 phrases; aucun H2; sans image |
 | 15233 | genre | Le genre Hesperaloe | /agavoides/hesperaloe/ | 39 | ≈ 1 à 2 phrases; aucun H2; sans image; aucun lien interne; Pas de lien d'intro vers /agavoides/ ; la meta cite les « Agavacées », famille obsolète (Asparagaceae, Agavoideae) ; **enrichie et publiée le 30/09/2026** |
-| 3716 | genre | Le genre Pachycereus | /famille-cactaceae/pachycereus/ | 40 | ≈ 1 à 2 phrases; sans image |
+| 3716 | genre | Le genre Pachycereus | /famille-cactaceae/pachycereus/ | 40 | ≈ 1 à 2 phrases; sans image ; **enrichie et publiée le 01/10/2026** |
 | 8702 | genre | Le genre Phytolacca | /famille-phytolaccaceae/phytolacca/ | 40 | ≈ 1 à 2 phrases; aucun H2; sans image |
 | 10307 | genre | Genre Nymphoides | /famille-menyanthaceae/nymphoides/ | 40 | ≈ 1 à 2 phrases; aucun H2; sans image; Nymphoides : ancien rattachement erroné aux Nymphéacées (voir README) ; vérifier que le texte cite bien les Menyanthaceae |
 | 5255 | genre | Le genre Pseudobombax | /famille-malvaceae/pseudobombax/ | 41 | ≈ 1 paragraphe; aucun H2; sans image |
-| 5153 | genre | Le Pereskia | /famille-cactaceae/pereskia/ | 43 | ≈ 1 paragraphe; aucun H2; sans image; Pas de meta description ; titre « Le Pereskia » à harmoniser (« Le genre Pereskia ») |
+| 5153 | genre | Le Pereskia | /famille-cactaceae/pereskia/ | 43 | ≈ 1 paragraphe; aucun H2; sans image; Pas de meta description ; titre « Le Pereskia » à harmoniser (« Le genre Pereskia ») ; **enrichie et publiée le 01/10/2026** |
 | 2851 | genre | Le genre Beschorneria | /agavoides/beschorneria/ | 45 | ≈ 1 paragraphe; aucun H2; sans image; Surtout une liste d'espèces liées (5 liens) ; **enrichie et publiée le 30/09/2026** |
 | 9784 | genre | Le genre Rhapidophyllum | /palmiers/rhapidophyllum/ | 49 | ≈ 1 paragraphe; aucun H2; sans image |
 | 5193 | genre | Le genre Sansevieria | /agavoides/sansevieria/ | 50 | ≈ 1 paragraphe; aucun H2; sans image; Genre obsolète : Sansevieria est aujourd'hui inclus dans Dracaena (page 3381) ; réécrire en page de renvoi ou rediriger ; **enrichie et publiée le 30/09/2026** |
-| 5115 | genre | Le genre Lophophora | /famille-cactaceae/lophophora/ | 61 | ≈ 1 paragraphe; aucun H2; sans image |
+| 5115 | genre | Le genre Lophophora | /famille-cactaceae/lophophora/ | 61 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 01/10/2026** |
 | 5227 | genre | Le genre Calibanus | /agavoides/calibanus/ | 61 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 30/09/2026** |
-| 5124 | genre | Le genre Espostoa | /famille-cactaceae/espostoa/ | 62 | ≈ 1 paragraphe; aucun H2; sans image |
-| 5107 | genre | Le genre Epiphyllum | /famille-cactaceae/epiphyllum/ | 65 | ≈ 1 paragraphe; aucun H2; sans image |
+| 5124 | genre | Le genre Espostoa | /famille-cactaceae/espostoa/ | 62 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 01/10/2026** |
+| 5107 | genre | Le genre Epiphyllum | /famille-cactaceae/epiphyllum/ | 65 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 01/10/2026** |
 | 8556 | genre | Le genre Callistemon | /famille-myrtaceae/callistemon/ | 73 | ≈ 1 paragraphe; sans image |
 | 3621 | genre | Le genre Jatropha | /famille-euphorbiaceae/jatropha/ | 74 | ≈ 1 paragraphe; aucun H2; sans image |
 | 7435 | genre | Le genre Chorisia | /famille-malvaceae/chorisia/ | 74 | ≈ 1 paragraphe; aucun H2; sans image; Nom obsolète : Chorisia est aujourd'hui inclus dans Ceiba (C. speciosa, C. insignis) ; expliquer le transfert |
 | 5382 | genre | Le genre Sedum | /famille-crassulaceae/sedum/ | 75 | ≈ 1 paragraphe; aucun H2; sans image |
-| 5330 | genre | Le genre Hylocereus | /famille-cactaceae/hylocereus/ | 84 | ≈ 1 paragraphe; aucun H2; sans image; Nom obsolète : Hylocereus est aujourd'hui inclus dans Selenicereus (page 23791) ; doublon de fait à fusionner ou réorienter |
+| 5330 | genre | Le genre Hylocereus | /famille-cactaceae/hylocereus/ | 84 | ≈ 1 paragraphe; aucun H2; sans image; Nom obsolète : Hylocereus est aujourd'hui inclus dans Selenicereus (page 23791) ; doublon de fait à fusionner ou réorienter ; **enrichie et publiée le 01/10/2026** |
 | 7762 | genre | Le genre Fascicularia | /famille-bromeliaceae/fascicularia/ | 86 | ≈ 1 paragraphe; aucun H2; sans image |
-| 5098 | genre | Le genre Copiapoa | /famille-cactaceae/copiapoa/ | 91 | ≈ 1 paragraphe; aucun H2; sans image |
+| 5098 | genre | Le genre Copiapoa | /famille-cactaceae/copiapoa/ | 91 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 01/10/2026** |
 | 5402 | genre | Le genre Trachycarpus | /palmiers/trachycarpus/ | 91 | ≈ 1 paragraphe; aucun H2; sans image |
 | 6392 | genre | Le genre Aechmea | /famille-bromeliaceae/aechmea/ | 91 | ≈ 1 paragraphe; sans image; Un intertitre, pas de liste d'espèces rédigée |
 | 4616 | genre | Le genre Strelitzia | /famille-strelitziaceae/strelitzia/ | 92 | ≈ 1 paragraphe; sans image |
 | 4081 | genre | Le genre Stangeria | /cycadales/stangeria/ | 93 | ≈ 1 paragraphe; aucun H2; sans image |
 | 5410 | genre | Le genre Butia | /palmiers/butia/ | 101 | ≈ 1 paragraphe; aucun H2; sans image; Mentionne Butia capitata devenu Butia odorata ; page parente de fiches palmiers |
-| 5309 | genre | Le genre Echinocereus | /famille-cactaceae/echinocereus/ | 111 | ≈ 1 paragraphe; aucun H2; sans image |
+| 5309 | genre | Le genre Echinocereus | /famille-cactaceae/echinocereus/ | 111 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 01/10/2026** |
 | 3605 | genre | Le genre Plumeria | /famille-apocynaceae/plumeria/ | 112 | ≈ 1 paragraphe |
 | 7613 | genre | Le genre Hechtia  | /famille-bromeliaceae/hechtia/ | 115 | ≈ 1 paragraphe; sans image |
 | 7739 | genre | Le genre Livistona | /palmiers/livistona/ | 135 | quelques paragraphes |
@@ -74,7 +74,7 @@ Audit en **lecture seule** du 2026-09-30 (serveur MCP « Succulentes-1_2_5 », o
 | 5391 | genre | Le genre Chamaerops | /palmiers/chamaerops/ | 304 | quelques paragraphes |
 | 7933 | genre | Le genre Banksia | /famille-proteaceae/banksia/ | 310 | quelques paragraphes; sans image |
 | 3745 | genre | Le genre Moringa | /famille-moringaceae/moringa/ | 323 | quelques paragraphes; sans image |
-| 3630 | genre | Le genre Cylindropuntia | /famille-cactaceae/cylindropuntia/ | 329 | quelques paragraphes |
+| 3630 | genre | Le genre Cylindropuntia | /famille-cactaceae/cylindropuntia/ | 329 | quelques paragraphes ; **enrichie et publiée le 01/10/2026** |
 | 9895 | genre | Le genre Cyathea | /famille-cyatheaceae/cyathea/ | 330 | quelques paragraphes; sans image |
 | 10253 | espèce | Nymphaea odorata « sulphurea » | /famille-nymphaeaceae/nymphaea/sulphurea/ | 16 | ≈ 1 à 2 phrases; aucun H2; sans image; Une phrase (cultivar) |
 | 10300 | espèce | Nymphaea ‘Siam Pink’ | /famille-nymphaeaceae/nymphaea/nymphaea-siam-pink/ | 20 | ≈ 1 à 2 phrases; aucun H2; sans image; Une phrase (cultivar) |

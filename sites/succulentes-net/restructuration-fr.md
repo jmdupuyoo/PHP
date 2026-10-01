@@ -157,3 +157,10 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   Kunth (et Kunth ex Regel) à Cordyline congesta ; genre 4782 corrigé en conséquence. FR 16087 Hesperaloe engelmannii et 16102
   Hesperaloe tenuifolia réécrites en français et publiées. EN 15238 Hesperaloe, 15251 Beschorneria, 15212 Beaucarnea corrigées et publiées.
   Pas de page famille Asparagaceae en EN.
+- 01/10/2026 : 10 genres Cactaceae enrichis et publiés (Neobuxbaumia, Pachycereus, Espostoa, Lophophora, Copiapoa, Pereskia, Epiphyllum,
+  Hylocereus, Echinocereus, Cylindropuntia) ; Selenicereus 23791 corrigé et enrichi ; genre Marginatocereus créé (25989), fiche 5646
+  renommée Marginatocereus marginatus et déplacée (301 depuis /famille-cactaceae/pachycereus/marginatus/) ; Pachycereus 3716 mis à jour ;
+  page famille Cactaceae 23780 : index des 29 genres avec liens. À faire : page famille (sous-familles, chiffres, liens dans le texte),
+  version ES 23761, traductions EN/ES/IT de Selenicereus.
+- Newsletter : snippet sites/succulentes-net/snippets/newsletter-milieu-de-page.php (formulaires Brevo FR 1, EN 2, IT 3, ES 4) à installer
+  via Pont MCP 1.2.7 ; widget ES « Boletín » (custom_html-8) en attente dans les widgets inactifs.
