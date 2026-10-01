@@ -38,6 +38,7 @@ class Pont_MCP_Settings {
 				'amazon_tag'        => '',
 				'amazon_domain'     => 'amazon.fr',
 				'amazon_disclosure' => '',
+				'allow_snippets'    => false,
 			)
 		);
 	}

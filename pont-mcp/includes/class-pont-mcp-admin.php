@@ -57,6 +57,10 @@ class Pont_MCP_Admin {
 				);
 				$notice = 'saved';
 				break;
+			case 'snippets':
+				Pont_MCP_Settings::update( array( 'allow_snippets' => ! empty( $_POST['pont_mcp_allow_snippets'] ) ) );
+				$notice = 'saved';
+				break;
 			case 'clear_log':
 				delete_option( Pont_MCP_Settings::LOG_OPTION );
 				$notice = 'cleared';
@@ -173,6 +177,18 @@ class Pont_MCP_Admin {
 							<p class="description">Ajoutée automatiquement en fin d’article lors de l’insertion d’un premier lien. Vide : texte officiel ci-dessus.</p></td>
 					</tr>
 				</table>
+				<?php submit_button( 'Enregistrer' ); ?>
+			</form>
+
+			<h2>5. Extraits de code (Code Snippets)</h2>
+			<form method="post">
+				<?php wp_nonce_field( 'pont_mcp_settings' ); ?>
+				<input type="hidden" name="pont_mcp_action" value="snippets">
+				<label>
+					<input type="checkbox" name="pont_mcp_allow_snippets" value="1" <?php checked( ! empty( $settings['allow_snippets'] ) ); ?>>
+					Autoriser Claude à créer et activer des extraits de code
+				</label>
+				<p class="description">Un extrait de code exécute du PHP sur le site. Avec cette case cochée et le niveau « Complet », Claude peut créer des extraits (toujours inactifs à la création, syntaxe vérifiée), puis les activer ou les désactiver. Laissez décoché si vous n’en avez pas besoin. Les extraits restent visibles et modifiables dans le menu Extraits.</p>
 				<?php submit_button( 'Enregistrer' ); ?>
 			</form>
 

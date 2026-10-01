@@ -45,7 +45,7 @@ vous voulez (succulentes.net, zootropical.com, formationsoigneuranimalier.fr…)
 - « Ajoute un lien Amazon vers un enfumoir dans l'article sur l'apiculture de loisir. »
 - « Installe Google Analytics avec l'identifiant G-XXXXXXX. »
 
-## Outils disponibles (44)
+## Outils disponibles (50)
 
 | Domaine | Outils | Niveau d'écriture |
 |---|---|---|
@@ -60,7 +60,9 @@ vous voulez (succulentes.net, zootropical.com, formationsoigneuranimalier.fr…)
 | Design | `get_custom_css`, `update_custom_css`, `restore_custom_css` | Complet |
 | Thème | `list_customizer_settings`, `update_customizer_settings` | Complet |
 | Menus | `list_menus`, `create_menu`, `add_menu_item`, `delete_menu_item`, `assign_menu_location` | Complet |
-| Widgets | `list_widgets`, `save_widget`, `remove_widget` | Complet |
+| Widgets | `list_widgets`, `save_widget` (langue Polylang `pll_lang`), `remove_widget` | Complet |
+| Brevo (formulaires) | `brevo_list_forms`, `brevo_get_form` (lecture) ; `brevo_save_form` | Complet |
+| Code Snippets | `list_snippets` (lecture) ; `save_snippet`, `set_snippet_active` (case à cocher dans les réglages, extraits créés inactifs) | Complet |
 | Suivi | `get_tracking`, `set_tracking` | Complet |
 | Langues | `list_languages`, `get_string_translations`, `update_string_translations` (+ paramètres `language` / `translation_of`) | Complet |
 

@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name:       Pont MCP
- * Description:       Connecte ce site WordPress à Claude (connecteur MCP personnalisé) : contenus, médias, SEO, redirections 301, menus, widgets, options du thème, CSS, Polylang, liens Amazon, Google Analytics.
- * Version:           1.2.6
+ * Description:       Connecte ce site WordPress à Claude (connecteur MCP personnalisé) : contenus, médias, SEO, redirections 301, menus, widgets, options du thème, CSS, Polylang, liens Amazon, Google Analytics, formulaires Brevo, extraits Code Snippets.
+ * Version:           1.2.7
  * Requires at least: 6.0
  * Requires PHP:      7.4
  * Author:            Jardin zoologique tropical
@@ -12,7 +12,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'PONT_MCP_VERSION', '1.2.6' );
+define( 'PONT_MCP_VERSION', '1.2.7' );
 define( 'PONT_MCP_DIR', __DIR__ );
 define( 'PONT_MCP_NAMESPACE', 'pont-mcp/v1' );
 define( 'PONT_MCP_ROUTE', '/mcp' );
@@ -27,6 +27,7 @@ require_once PONT_MCP_DIR . '/includes/class-pont-mcp-tools-appearance.php';
 require_once PONT_MCP_DIR . '/includes/class-pont-mcp-tools-seo.php';
 require_once PONT_MCP_DIR . '/includes/class-pont-mcp-redirects.php';
 require_once PONT_MCP_DIR . '/includes/class-pont-mcp-tools-replace.php';
+require_once PONT_MCP_DIR . '/includes/class-pont-mcp-tools-extensions.php';
 require_once PONT_MCP_DIR . '/includes/class-pont-mcp-tracking.php';
 require_once PONT_MCP_DIR . '/includes/class-pont-mcp-server.php';
 require_once PONT_MCP_DIR . '/includes/class-pont-mcp-admin.php';
