@@ -257,10 +257,43 @@ class Pont_MCP_Tools_Extensions {
 	/* Code Snippets                                                       */
 	/* ------------------------------------------------------------------ */
 
-	private static function snippets_api() {
-		if ( ! function_exists( 'Code_Snippets\\get_snippets' ) || ! class_exists( 'Code_Snippets\\Snippet' ) ) {
-			throw new Pont_MCP_Tool_Error( 'Extension Code Snippets (version 3 ou plus) introuvable ou inactive.' );
+	/** Classes possibles du modèle d'extrait selon la version de Code Snippets. */
+	const SNIPPET_CLASSES = array( 'Code_Snippets\\Snippet', 'Code_Snippets\\Model\\Snippet' );
+
+	/**
+	 * Mode d'accès : « api » (fonctions de Code Snippets) ou « db » (table {prefix}snippets),
+	 * utilisé quand l'interface PHP de l'extension a changé.
+	 */
+	private static function snippets_backend() {
+		$fns = array( 'get_snippets', 'get_snippet', 'save_snippet', 'activate_snippet', 'deactivate_snippet' );
+		$api = true;
+		foreach ( $fns as $fn ) {
+			if ( ! function_exists( 'Code_Snippets\\' . $fn ) ) {
+				$api = false;
+			}
 		}
+		if ( $api && self::snippet_class() ) {
+			return 'api';
+		}
+		if ( self::snippets_table() ) {
+			return 'db';
+		}
+		throw new Pont_MCP_Tool_Error( 'Extension Code Snippets introuvable : ni ses fonctions, ni sa table ' . $GLOBALS['wpdb']->prefix . 'snippets.' );
+	}
+
+	private static function snippet_class() {
+		foreach ( self::SNIPPET_CLASSES as $class ) {
+			if ( class_exists( $class ) ) {
+				return $class;
+			}
+		}
+		return null;
+	}
+
+	private static function snippets_table() {
+		global $wpdb;
+		$table = $wpdb->prefix . 'snippets';
+		return $wpdb->get_var( $wpdb->prepare( 'SHOW TABLES LIKE %s', $wpdb->esc_like( $table ) ) ) === $table ? $table : null;
 	}
 
 	private static function require_snippets_allowed() {
@@ -272,124 +305,210 @@ class Pont_MCP_Tools_Extensions {
 		}
 	}
 
+	/** Lecture unifiée : objet de Code Snippets ou ligne de la table. */
 	private static function describe_snippet( $snippet, $with_code ) {
+		$s    = is_array( $snippet ) ? (object) $snippet : $snippet;
+		$desc = isset( $s->desc ) ? $s->desc : ( $s->description ?? '' );
+		$tags = $s->tags ?? array();
+		if ( is_string( $tags ) ) {
+			$tags = array_filter( array_map( 'trim', explode( ',', $tags ) ) );
+		}
 		$out = array(
-			'id'       => (int) $snippet->id,
-			'name'     => (string) $snippet->name,
-			'desc'     => wp_strip_all_tags( (string) $snippet->desc ),
-			'tags'     => (array) $snippet->tags,
-			'scope'    => (string) $snippet->scope,
-			'priority' => (int) $snippet->priority,
-			'active'   => (bool) $snippet->active,
-			'modified' => (string) $snippet->modified,
+			'id'       => (int) $s->id,
+			'name'     => (string) $s->name,
+			'desc'     => wp_strip_all_tags( (string) $desc ),
+			'tags'     => array_values( (array) $tags ),
+			'scope'    => (string) ( $s->scope ?? 'global' ),
+			'priority' => (int) ( $s->priority ?? 10 ),
+			'active'   => (bool) (int) ( $s->active ?? 0 ),
+			'modified' => (string) ( $s->modified ?? '' ),
 		);
 		if ( $with_code ) {
-			$out['code'] = (string) $snippet->code;
+			$out['code'] = (string) $s->code;
 		}
 		return $out;
 	}
 
+	private static function db_get( $id ) {
+		global $wpdb;
+		$table = self::snippets_table();
+		$row   = $wpdb->get_row( $wpdb->prepare( "SELECT * FROM `{$table}` WHERE id = %d", $id ), ARRAY_A ); // phpcs:ignore WordPress.DB.PreparedSQL.InterpolatedNotPrepared
+		if ( ! $row ) {
+			throw new Pont_MCP_Tool_Error( 'Extrait ' . (int) $id . ' introuvable.' );
+		}
+		return $row;
+	}
+
+	private static function api_get( $id ) {
+		$snippet = \Code_Snippets\get_snippet( (int) $id );
+		if ( ! $snippet || ! $snippet->id ) {
+			throw new Pont_MCP_Tool_Error( 'Extrait ' . (int) $id . ' introuvable.' );
+		}
+		return $snippet;
+	}
+
+	/** Vide les caches de Code Snippets après une écriture directe en base. */
+	private static function db_flush_cache() {
+		if ( function_exists( 'Code_Snippets\\clean_snippets_cache' ) ) {
+			\Code_Snippets\clean_snippets_cache( self::snippets_table() );
+		}
+		if ( function_exists( 'wp_cache_flush_group' ) ) {
+			wp_cache_flush_group( 'code_snippets' );
+		}
+	}
+
 	public static function list_snippets( array $args ) {
-		self::snippets_api();
+		global $wpdb;
+		$backend = self::snippets_backend();
 		if ( ! empty( $args['id'] ) ) {
-			$snippet = \Code_Snippets\get_snippet( (int) $args['id'] );
-			if ( ! $snippet || ! $snippet->id ) {
-				throw new Pont_MCP_Tool_Error( 'Extrait ' . (int) $args['id'] . ' introuvable.' );
-			}
-			return array( 'snippet' => self::describe_snippet( $snippet, true ) );
+			$snippet = 'api' === $backend ? self::api_get( $args['id'] ) : self::db_get( $args['id'] );
+			return array( 'snippet' => self::describe_snippet( $snippet, true ), 'backend' => $backend );
 		}
 		$items = array();
-		foreach ( \Code_Snippets\get_snippets() as $snippet ) {
-			$items[] = self::describe_snippet( $snippet, false );
+		if ( 'api' === $backend ) {
+			foreach ( \Code_Snippets\get_snippets() as $snippet ) {
+				$items[] = self::describe_snippet( $snippet, false );
+			}
+		} else {
+			$table = self::snippets_table();
+			foreach ( (array) $wpdb->get_results( "SELECT * FROM `{$table}` ORDER BY id", ARRAY_A ) as $row ) { // phpcs:ignore WordPress.DB.PreparedSQL.InterpolatedNotPrepared
+				$items[] = self::describe_snippet( $row, false );
+			}
 		}
 		return array(
-			'count'            => count( $items ),
-			'snippets'         => $items,
-			'writing_allowed'  => ! empty( Pont_MCP_Settings::get()['allow_snippets'] ),
+			'count'           => count( $items ),
+			'snippets'        => $items,
+			'backend'         => $backend,
+			'writing_allowed' => ! empty( Pont_MCP_Settings::get()['allow_snippets'] ),
 		);
 	}
 
 	public static function save_snippet( array $args ) {
-		self::snippets_api();
+		global $wpdb;
+		$backend = self::snippets_backend();
 		self::require_snippets_allowed();
 
 		$creating = empty( $args['id'] );
-		if ( $creating ) {
-			if ( empty( $args['name'] ) || ! isset( $args['code'] ) ) {
-				throw new Pont_MCP_Tool_Error( 'Création : indiquez name et code.' );
-			}
-			$snippet         = new \Code_Snippets\Snippet();
-			$snippet->active = false;
-		} else {
-			$snippet = \Code_Snippets\get_snippet( (int) $args['id'] );
-			if ( ! $snippet || ! $snippet->id ) {
-				throw new Pont_MCP_Tool_Error( 'Extrait ' . (int) $args['id'] . ' introuvable.' );
-			}
+		if ( $creating && ( empty( $args['name'] ) || ! isset( $args['code'] ) ) ) {
+			throw new Pont_MCP_Tool_Error( 'Création : indiquez name et code.' );
 		}
+		$current = $creating ? null : ( 'api' === $backend ? self::describe_snippet( self::api_get( $args['id'] ), true ) : self::describe_snippet( self::db_get( $args['id'] ), true ) );
+		$scope   = $args['scope'] ?? ( $current ? $current['scope'] : 'global' );
 
-		if ( isset( $args['scope'] ) ) {
-			$snippet->scope = $args['scope'];
-		} elseif ( $creating ) {
-			$snippet->scope = 'global';
-		}
+		$fields = array();
 		if ( isset( $args['code'] ) ) {
 			$code = preg_replace( '/^\s*<\?php\s*/i', '', (string) $args['code'] );
-			if ( self::is_php_scope( $snippet->scope ) ) {
+			if ( self::is_php_scope( $scope ) ) {
 				self::check_php( $code );
 			}
-			$snippet->code = $code;
+			$fields['code'] = $code;
 		}
 		if ( isset( $args['name'] ) ) {
-			$snippet->name = sanitize_text_field( $args['name'] );
+			$fields['name'] = sanitize_text_field( $args['name'] );
 		}
 		if ( isset( $args['description'] ) ) {
-			$snippet->desc = wp_kses_post( $args['description'] );
+			$fields['desc'] = wp_kses_post( $args['description'] );
 		}
 		if ( isset( $args['tags'] ) ) {
-			$snippet->tags = array_map( 'sanitize_text_field', (array) $args['tags'] );
+			$fields['tags'] = array_map( 'sanitize_text_field', (array) $args['tags'] );
 		}
 		if ( isset( $args['priority'] ) ) {
-			$snippet->priority = (int) $args['priority'];
+			$fields['priority'] = (int) $args['priority'];
+		}
+		if ( isset( $args['scope'] ) || $creating ) {
+			$fields['scope'] = $scope;
 		}
 
-		$saved = \Code_Snippets\save_snippet( $snippet );
-		$id    = is_object( $saved ) ? (int) $saved->id : (int) $saved;
-		if ( ! $id ) {
-			throw new Pont_MCP_Tool_Error( 'Enregistrement refusé par Code Snippets.' );
+		if ( 'api' === $backend ) {
+			if ( $creating ) {
+				$class   = self::snippet_class();
+				$snippet = new $class();
+				$snippet->active = false;
+			} else {
+				$snippet = self::api_get( $args['id'] );
+			}
+			foreach ( $fields as $key => $value ) {
+				$snippet->$key = $value;
+			}
+			$saved = \Code_Snippets\save_snippet( $snippet );
+			$id    = is_object( $saved ) ? (int) $saved->id : (int) $saved;
+			if ( ! $id ) {
+				throw new Pont_MCP_Tool_Error( 'Enregistrement refusé par Code Snippets.' );
+			}
+			$result = self::api_get( $id );
+		} else {
+			$table   = self::snippets_table();
+			$columns = $wpdb->get_col( "SHOW COLUMNS FROM `{$table}`" ); // phpcs:ignore WordPress.DB.PreparedSQL.InterpolatedNotPrepared
+			$row     = array();
+			foreach ( $fields as $key => $value ) {
+				$col = 'desc' === $key ? 'description' : $key;
+				if ( 'tags' === $key ) {
+					$value = implode( ', ', $value );
+				}
+				if ( in_array( $col, $columns, true ) ) {
+					$row[ $col ] = $value;
+				}
+			}
+			if ( in_array( 'modified', $columns, true ) ) {
+				$row['modified'] = current_time( 'mysql', true );
+			}
+			if ( $creating ) {
+				$row['active'] = 0;
+				if ( false === $wpdb->insert( $table, $row ) ) {
+					throw new Pont_MCP_Tool_Error( 'Création refusée par la base : ' . $wpdb->last_error );
+				}
+				$id = (int) $wpdb->insert_id;
+			} else {
+				$id = (int) $args['id'];
+				if ( false === $wpdb->update( $table, $row, array( 'id' => $id ) ) ) {
+					throw new Pont_MCP_Tool_Error( 'Modification refusée par la base : ' . $wpdb->last_error );
+				}
+			}
+			self::db_flush_cache();
+			$result = self::db_get( $id );
 		}
 
 		return array(
 			'message' => $creating ? 'Extrait créé (inactif).' : 'Extrait modifié.',
-			'snippet' => self::describe_snippet( \Code_Snippets\get_snippet( $id ), false ),
+			'snippet' => self::describe_snippet( $result, false ),
+			'backend' => $backend,
 		);
 	}
 
 	public static function set_snippet_active( array $args ) {
-		self::snippets_api();
+		global $wpdb;
+		$backend = self::snippets_backend();
 		self::require_snippets_allowed();
 
 		$id      = (int) $args['id'];
-		$snippet = \Code_Snippets\get_snippet( $id );
-		if ( ! $snippet || ! $snippet->id ) {
-			throw new Pont_MCP_Tool_Error( 'Extrait ' . $id . ' introuvable.' );
+		$current = 'api' === $backend ? self::describe_snippet( self::api_get( $id ), true ) : self::describe_snippet( self::db_get( $id ), true );
+
+		if ( $args['active'] && self::is_php_scope( $current['scope'] ) ) {
+			self::check_php( $current['code'] );
 		}
 
-		if ( $args['active'] ) {
-			if ( self::is_php_scope( $snippet->scope ) ) {
-				self::check_php( (string) $snippet->code );
+		if ( 'api' === $backend ) {
+			if ( $args['active'] ) {
+				$result = \Code_Snippets\activate_snippet( $id );
+				if ( is_string( $result ) ) {
+					throw new Pont_MCP_Tool_Error( 'Activation refusée par Code Snippets : ' . $result );
+				}
+			} else {
+				\Code_Snippets\deactivate_snippet( $id );
 			}
-			$result = \Code_Snippets\activate_snippet( $id );
-			if ( is_string( $result ) ) {
-				throw new Pont_MCP_Tool_Error( 'Activation refusée par Code Snippets : ' . $result );
-			}
+			$snippet = self::describe_snippet( self::api_get( $id ), false );
 		} else {
-			\Code_Snippets\deactivate_snippet( $id );
+			if ( false === $wpdb->update( self::snippets_table(), array( 'active' => $args['active'] ? 1 : 0 ), array( 'id' => $id ) ) ) {
+				throw new Pont_MCP_Tool_Error( 'Modification refusée par la base : ' . $wpdb->last_error );
+			}
+			self::db_flush_cache();
+			$snippet = self::describe_snippet( self::db_get( $id ), false );
 		}
 
-		$snippet = \Code_Snippets\get_snippet( $id );
 		return array(
-			'message' => $snippet->active ? 'Extrait actif.' : 'Extrait inactif.',
-			'snippet' => self::describe_snippet( $snippet, false ),
+			'message' => $snippet['active'] ? 'Extrait actif.' : 'Extrait inactif.',
+			'snippet' => $snippet,
+			'backend' => $backend,
 		);
 	}
 
