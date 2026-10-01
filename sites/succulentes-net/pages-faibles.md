@@ -34,7 +34,7 @@ Audit en **lecture seule** du 2026-09-30 (serveur MCP « Succulentes-1_2_5 », o
 | 5255 | genre | Le genre Pseudobombax | /famille-malvaceae/pseudobombax/ | 41 | ≈ 1 paragraphe; aucun H2; sans image |
 | 5153 | genre | Le Pereskia | /famille-cactaceae/pereskia/ | 43 | ≈ 1 paragraphe; aucun H2; sans image; Pas de meta description ; titre « Le Pereskia » à harmoniser (« Le genre Pereskia ») ; **enrichie et publiée le 01/10/2026** |
 | 2851 | genre | Le genre Beschorneria | /agavoides/beschorneria/ | 45 | ≈ 1 paragraphe; aucun H2; sans image; Surtout une liste d'espèces liées (5 liens) ; **enrichie et publiée le 30/09/2026** |
-| 9784 | genre | Le genre Rhapidophyllum | /palmiers/rhapidophyllum/ | 49 | ≈ 1 paragraphe; aucun H2; sans image |
+| 9784 | genre | Le genre Rhapidophyllum | /palmiers/rhapidophyllum/ | 49 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 01/10/2026** |
 | 5193 | genre | Le genre Sansevieria | /agavoides/sansevieria/ | 50 | ≈ 1 paragraphe; aucun H2; sans image; Genre obsolète : Sansevieria est aujourd'hui inclus dans Dracaena (page 3381) ; réécrire en page de renvoi ou rediriger ; **enrichie et publiée le 30/09/2026** |
 | 5115 | genre | Le genre Lophophora | /famille-cactaceae/lophophora/ | 61 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 01/10/2026** |
 | 5227 | genre | Le genre Calibanus | /agavoides/calibanus/ | 61 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 30/09/2026** |
@@ -47,15 +47,15 @@ Audit en **lecture seule** du 2026-09-30 (serveur MCP « Succulentes-1_2_5 », o
 | 5330 | genre | Le genre Hylocereus | /famille-cactaceae/hylocereus/ | 84 | ≈ 1 paragraphe; aucun H2; sans image; Nom obsolète : Hylocereus est aujourd'hui inclus dans Selenicereus (page 23791) ; doublon de fait à fusionner ou réorienter ; **enrichie et publiée le 01/10/2026** |
 | 7762 | genre | Le genre Fascicularia | /famille-bromeliaceae/fascicularia/ | 86 | ≈ 1 paragraphe; aucun H2; sans image |
 | 5098 | genre | Le genre Copiapoa | /famille-cactaceae/copiapoa/ | 91 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 01/10/2026** |
-| 5402 | genre | Le genre Trachycarpus | /palmiers/trachycarpus/ | 91 | ≈ 1 paragraphe; aucun H2; sans image |
+| 5402 | genre | Le genre Trachycarpus | /palmiers/trachycarpus/ | 91 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 01/10/2026** |
 | 6392 | genre | Le genre Aechmea | /famille-bromeliaceae/aechmea/ | 91 | ≈ 1 paragraphe; sans image; Un intertitre, pas de liste d'espèces rédigée |
 | 4616 | genre | Le genre Strelitzia | /famille-strelitziaceae/strelitzia/ | 92 | ≈ 1 paragraphe; sans image |
 | 4081 | genre | Le genre Stangeria | /cycadales/stangeria/ | 93 | ≈ 1 paragraphe; aucun H2; sans image |
-| 5410 | genre | Le genre Butia | /palmiers/butia/ | 101 | ≈ 1 paragraphe; aucun H2; sans image; Mentionne Butia capitata devenu Butia odorata ; page parente de fiches palmiers |
+| 5410 | genre | Le genre Butia | /palmiers/butia/ | 101 | ≈ 1 paragraphe; aucun H2; sans image; Mentionne Butia capitata devenu Butia odorata ; page parente de fiches palmiers ; **enrichie et publiée le 01/10/2026** |
 | 5309 | genre | Le genre Echinocereus | /famille-cactaceae/echinocereus/ | 111 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 01/10/2026** |
 | 3605 | genre | Le genre Plumeria | /famille-apocynaceae/plumeria/ | 112 | ≈ 1 paragraphe |
 | 7613 | genre | Le genre Hechtia  | /famille-bromeliaceae/hechtia/ | 115 | ≈ 1 paragraphe; sans image |
-| 7739 | genre | Le genre Livistona | /palmiers/livistona/ | 135 | quelques paragraphes |
+| 7739 | genre | Le genre Livistona | /palmiers/livistona/ | 135 | quelques paragraphes ; **enrichie et publiée le 01/10/2026** |
 | 7906 | genre | Le genre Tagetes | /famille-asteraceae/tagetes/ | 137 | quelques paragraphes; sans image; Coquille « Tagetes padula » signalée dans le README |
 | 8281 | genre | Le genre Acacia | /famille-fabaceae/acacia/ | 138 | quelques paragraphes; sans image; Surtout une liste de liens vers les espèces (16 liens), peu de texte |
 | 5202 | genre | Le genre Kalanchoe | /famille-crassulaceae/kalanchoe/ | 142 | quelques paragraphes; aucun H2; sans image; 3 paragraphes (origine, bulbilles envahissantes, 2 espèces citées sans lien) ; aucune liste d'espèces |
@@ -64,14 +64,14 @@ Audit en **lecture seule** du 2026-09-30 (serveur MCP « Succulentes-1_2_5 », o
 | 9534 | genre | Le genre Leonotis | /famille-lamiaceae/leonotis/ | 149 | quelques paragraphes; sans image |
 | 8122 | genre | Le genre Grevillea | /famille-proteaceae/grevillea/ | 155 | quelques paragraphes; sans image |
 | 4782 | genre | Le genre Cordyline | /agavoides/cordyline/ | 159 | quelques paragraphes; sans image ; **enrichie et publiée le 30/09/2026** |
-| 4512 | genre | le genre Trithrinax | /palmiers/trithrinax/ | 175 | quelques paragraphes; sans image |
+| 4512 | genre | le genre Trithrinax | /palmiers/trithrinax/ | 175 | quelques paragraphes; sans image ; **enrichie et publiée le 01/10/2026** |
 | 8624 | genre | Le genre Hakea | /famille-proteaceae/hakea/ | 183 | quelques paragraphes; sans image |
-| 6541 | genre | Le genre Butyagrus | /palmiers/butyagrus/ | 191 | quelques paragraphes; sans image |
+| 6541 | genre | Le genre Butyagrus | /palmiers/butyagrus/ | 191 | quelques paragraphes; sans image ; **enrichie et publiée le 01/10/2026** |
 | 1047 | genre | Genre Nolina | /agavoides/nolina/ | 209 | quelques paragraphes; sans image; Surtout une liste de liens vers les espèces (14 liens), peu de texte ; **enrichie et publiée le 30/09/2026** |
 | 7696 | genre | Genre Ochagavia | /famille-bromeliaceae/ochagavia/ | 213 | quelques paragraphes |
 | 6637 | genre | Le genre Lomandra | /agavoides/lomandra/ | 232 | quelques paragraphes; sans image ; **enrichie et publiée le 30/09/2026** |
-| 4693 | genre | Le genre Phoenix | /palmiers/phoenix/ | 245 | quelques paragraphes; sans image |
-| 5391 | genre | Le genre Chamaerops | /palmiers/chamaerops/ | 304 | quelques paragraphes |
+| 4693 | genre | Le genre Phoenix | /palmiers/phoenix/ | 245 | quelques paragraphes; sans image ; **enrichie et publiée le 01/10/2026** |
+| 5391 | genre | Le genre Chamaerops | /palmiers/chamaerops/ | 304 | quelques paragraphes ; **enrichie et publiée le 01/10/2026** |
 | 7933 | genre | Le genre Banksia | /famille-proteaceae/banksia/ | 310 | quelques paragraphes; sans image |
 | 3745 | genre | Le genre Moringa | /famille-moringaceae/moringa/ | 323 | quelques paragraphes; sans image |
 | 3630 | genre | Le genre Cylindropuntia | /famille-cactaceae/cylindropuntia/ | 329 | quelques paragraphes ; **enrichie et publiée le 01/10/2026** |
