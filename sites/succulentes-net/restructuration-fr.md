@@ -203,3 +203,5 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   (environ 16 genres, Wen et al. 2018). Restent : hub ES Haworthia « más de 150 especies » ; ES Aloe dichotomum / plicatilis sans nom actuel
   (Aloidendron, Kumara) ; Vitaceae EN/IT non liées dans Polylang ; Echeveria à revérifier (nouveau genre séparé en 2026, Cruz-López et al.).
 - 01/10/2026 : décision : fiches Aloe conservent les anciens noms (nom d'usage) ; page genre Aloe avec parties Aloidendron, Kumara, Aloiampelos (règle ajoutée au prompt).
+- 01/10/2026 : ES Haworthia 23439 : « unas 60 especies » (Bayer 2012), Haworthiopsis fasciata ; Vitaceae : groupe FR 23893 / EN 23891 / ES 23878 / IT 23919 relié.
+  Anomalie : /aloides/haworthia/ affiche la page EN 17589 (pas de page genre FR Haworthia ; EN et ES non reliées ; EN se contredit : ~150 vs 38 espèces).
