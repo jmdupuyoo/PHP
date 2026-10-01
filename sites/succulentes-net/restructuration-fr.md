@@ -202,3 +202,4 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   Echeveria : 206 espèces (POWO déc. 2025) sur ES 23438, ES 23486, FR 24880 ; FR Malvaceae 23900 (kénaf) ; Vitaceae FR 23893 / EN 23891 / IT 23919
   (environ 16 genres, Wen et al. 2018). Restent : hub ES Haworthia « más de 150 especies » ; ES Aloe dichotomum / plicatilis sans nom actuel
   (Aloidendron, Kumara) ; Vitaceae EN/IT non liées dans Polylang ; Echeveria à revérifier (nouveau genre séparé en 2026, Cruz-López et al.).
+- 01/10/2026 : décision : fiches Aloe conservent les anciens noms (nom d'usage) ; page genre Aloe avec parties Aloidendron, Kumara, Aloiampelos (règle ajoutée au prompt).
