@@ -1,6 +1,6 @@
 # Trachycarpus (FR, hub genre) : note de livraison (01/10/2026)
 
-- Page : 5402, /palmiers/trachycarpus/ (publiée ; brouillon local, rien n'a été envoyé sur le site)
+- Page : 5402, /palmiers/trachycarpus/ (publiée ; contenu, titre et SEO mis en ligne le 01/10/2026)
 - Titre de page proposé : Le genre Trachycarpus, palmier de Chine et palmiers chanvre (actuel : « Le genre Trachycarpus »)
 - Titre SEO (53 car.) : Trachycarpus : palmier de Chine, espèces et rusticité
 - Meta description (154 car.) : Trachycarpus, palmiers de l'Himalaya et de Chine : 10 espèces, palmier de Chine et wagnerianus, rusticité en France, papillon palmivore, statut en Suisse.
@@ -54,3 +54,9 @@ Aucune donnée datée (1956, 1985, 2012) ni par zone (atlantique, Bretagne, int�
 
 ## 5. Encadré
 « Port et dimensions » supprimé (trop variable selon les espèces). IUCN donné par espèce, avec réserve.
+
+## Publication (01/10/2026)
+Contenu, titre de page, titre SEO, meta description et mot-clé mis en ligne (Rank Math). Observations attribuées au Jardin zoologique
+tropical (décision du propriétaire). Correction en ligne et dans le brouillon : « Il y a planté trois sujets » → « On y a planté trois
+sujets » (sujet sans antécédent après la réattribution). Contrôle : 200, intro avec un seul lien (/palmiers/), première H2 « L'essentiel »,
+contenu complet, liens internes 200.

@@ -1,6 +1,6 @@
 # Butia (FR, hub genre) : note de livraison (01/10/2026)
 
-- Page : 5410, /palmiers/butia/ (publiée ; brouillon local, rien n'a été envoyé sur le site)
+- Page : 5410, /palmiers/butia/ (publiée ; contenu, titre et SEO mis en ligne le 01/10/2026)
 - Titre de page proposé : Le genre Butia, les palmiers abricots (actuel : « Le genre Butia »)
 - Titre SEO (54 car.) : Butia : palmier abricot, espèces, rusticité et culture
 - Meta description (137 car.) : Butia, palmiers d'Amérique du Sud : Butia odorata ou capitata, une vingtaine d'espèces, rusticité en France, culture, fruits comestibles.
@@ -25,7 +25,7 @@ Aucun bloc image dans la page actuelle, pas d'image mise en avant.
   ni dégâts ; Syagrus romanzoffiana défolié par un mistral de 3 jours (rafales 130 km/h) ; bonne tenue des Butia.
 - ATTENTION : l'article parle de « mon jardin à La Londe-les-Maures » sans nommer le Jardin zoologique tropical.
   Le texte dit donc « À La Londe-les-Maures, dans le Var, dans un jardin exposé au mistral » sans attribuer au JZT.
-  Si c'est bien le JZT, remplacer par « Au Jardin zoologique tropical de La Londe-les-Maures ». Année de l'hiver
+  Confirmé par le propriétaire : observations du JZT, froid de début février 2012 (appliqué).
   à −8 °C non précisée dans la source.
 - L'article sur le JZT (234) ne cite aucun Butia ; aucune autre observation trouvée sur le site.
 

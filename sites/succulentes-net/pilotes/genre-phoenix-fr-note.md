@@ -1,6 +1,6 @@
 # Phoenix (FR, hub genre) : note de livraison (01/10/2026)
 
-- Page : 4693, /palmiers/phoenix/ (publiée ; brouillon local, rien n'a été envoyé sur le site)
+- Page : 4693, /palmiers/phoenix/ (publiée ; contenu, titre et SEO mis en ligne le 01/10/2026)
 - Titre de page proposé : Le genre Phoenix, les dattiers (actuel : « Le genre Phoenix »)
 - Titre SEO (51 car.) : Phoenix : les palmiers dattiers, espèces et culture
 - Meta description (135 car.) : Phoenix, les dattiers : 14 espèces, du palmier dattier au dattier des Canaries, culture en France, charançon rouge, épines et hybrides.
@@ -54,3 +54,8 @@ Aucun dégât de gel documenté par espèce (1956, 1985, 2012) ; rien pour l'atl
 
 ## 5. Encadré
 « Port et dimensions » supprimé (trop variable). Rusticité : « aucune mesure publiée fiable ».
+
+## Publication (01/10/2026)
+Contenu, titre de page, titre SEO, meta description et mot-clé mis en ligne (Rank Math). Image mise en avant 4695 inchangée (alt conforme).
+Image 4983 non ajoutée (suggestion restée en attente). Contrôle : 200, intro avec un seul lien (/palmiers/), première H2 « L'essentiel »,
+contenu complet, liens internes 200.

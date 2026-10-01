@@ -1,6 +1,6 @@
 # Trithrinax (FR, hub genre) : note de livraison (01/10/2026)
 
-- Page : 4512, /palmiers/trithrinax/ (publiée ; brouillon local, rien n'a été envoyé sur le site)
+- Page : 4512, /palmiers/trithrinax/ (publiée ; contenu, titre et SEO mis en ligne le 01/10/2026)
 - Titre de page proposé : Le genre Trithrinax, palmiers tridents (actuel : « le genre Trithrinax », minuscule à corriger)
 - Titre SEO (57 car.) : Trithrinax : palmier trident, espèces, rusticité, culture
 - Meta description (140 car.) : Trithrinax, palmiers épineux d'Amérique du Sud : 3 espèces, Trithrinax campestris et acanthocoma, rusticité en France, culture, précautions.

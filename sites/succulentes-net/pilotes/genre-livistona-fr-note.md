@@ -1,6 +1,6 @@
 # Livistona (FR, hub genre) : note de livraison (01/10/2026)
 
-- Page : 7739, /palmiers/livistona/ (publiée ; brouillon local, rien n'a été envoyé sur le site)
+- Page : 7739, /palmiers/livistona/ (publiée ; contenu, titre et SEO mis en ligne le 01/10/2026)
 - Titre de page proposé : Le genre Livistona, les palmiers éventails (actuel : « Le genre Livistona »)
 - Titre SEO (59 car.) : Livistona : palmiers éventails, espèces, Saribus et culture
 - Meta description (136 car.) : Livistona, palmiers éventails d'Asie, d'Australie et d'Afrique : 28 espèces, Livistona rotundifolia devenu Saribus, rusticité en France.
@@ -25,7 +25,7 @@ Liens internes (tous vérifiés 200, sans redirection) :
 - Pas de lien famille : /famille-arecaceae/ renvoie 404.
 - À lire aussi : /paysandisia-archon/, /charancon-rouge-palmier/ (les Livistona sont hôtes des deux ravageurs).
 Image conservée : 7750 (alt corrigé « livistona decora » → « Livistona decora » ; légende inchangée). Dans la médiathèque, l'alt
-de 7750 et de 8883 est vide : à renseigner « Livistona decora » via update_media (non fait, aucune modification du site).
+de 7750 et de 8883 est vide : renseigné « Livistona decora » via update_media le 01/10/2026.
 Le fichier 7750 s'appelle « livistona-decipiens » : cohérent avec la synonymie.
 
 Observations du Jardin zoologique tropical : AUCUNE trouvée sur le site pour Livistona (mêmes recherches que pour Rhapidophyllum ;

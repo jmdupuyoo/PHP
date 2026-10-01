@@ -1,6 +1,6 @@
 # Rhapidophyllum (FR, hub genre) : note de livraison (01/10/2026)
 
-- Page : 9784, /palmiers/rhapidophyllum/ (publiée ; brouillon local, rien n'a été envoyé sur le site)
+- Page : 9784, /palmiers/rhapidophyllum/ (publiée ; contenu, titre et SEO mis en ligne le 01/10/2026)
 - Titre de page proposé : Le genre Rhapidophyllum, le palmier aiguille (actuel : « Le genre Rhapidophyllum »)
 - Titre SEO (58 car.) : Rhapidophyllum : le palmier aiguille, rusticité et culture
 - Meta description (147 car.) : Rhapidophyllum, genre à une seule espèce : le palmier aiguille ou porc-épic, palmier très rustique du sud-est des États-Unis. Taxonomie et culture.
@@ -53,3 +53,7 @@ Observations du Jardin zoologique tropical : AUCUNE trouvée sur le site (recher
 
 ## 5. Encadré « L'essentiel sur Rhapidophyllum »
 - Statut IUCN : « non vérifié ». Toxicité : « aucune donnée publiée trouvée ».
+
+## Publication (01/10/2026)
+Contenu, titre de page, titre SEO, meta description et mot-clé mis en ligne (Rank Math). Lien d'intro /plantes/ remplacé par /palmiers/.
+Contrôle : 200, intro avec un seul lien (/palmiers/), première H2 « L'essentiel », contenu complet, liens internes 200.

@@ -1,7 +1,7 @@
 # × Butyagrus (FR, hub nothogenre) : note de livraison (01/10/2026)
 
-- Page : 6541, /palmiers/butyagrus/ (publiée ; brouillon local, rien n'a été envoyé sur le site)
-- Titre de page proposé : × Butyagrus, l'hybride Butia × Syagrus (actuel : « Le genre Butyagrus »)
+- Page : 6541, /palmiers/butyagrus/ (publiée ; contenu, titre et SEO mis en ligne le 01/10/2026)
+- Titre de page publié : × Butyagrus, l'hybride Butia × Syagrus (ancien : « Le genre Butyagrus »)
 - Titre SEO (55 car.) : Butyagrus : hybride Butia × Syagrus, rusticité, culture
 - Meta description (143 car.) : × Butyagrus nabonnandii, le mule palm : hybride de Butia et du palmier reine né en France en 1890, nothoespèces, fertilité, rusticité, culture.
 - Mot-clé principal : butyagrus

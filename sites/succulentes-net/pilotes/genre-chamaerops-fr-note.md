@@ -1,6 +1,6 @@
 # Chamaerops (FR, hub genre) : note de livraison (01/10/2026)
 
-- Page : 5391, /palmiers/chamaerops/ (publiée ; brouillon local, rien n'a été envoyé sur le site)
+- Page : 5391, /palmiers/chamaerops/ (publiée ; contenu, titre et SEO mis en ligne le 01/10/2026)
 - Titre de page proposé : Le genre Chamaerops, le palmier nain (actuel : « Le genre Chamaerops »)
 - Titre SEO (50 car.) : Chamaerops : le palmier nain, culture et rusticité
 - Meta description (148 car.) : Chamaerops humilis, le palmier nain : seul palmier indigène de France, protégé, variété bleue cerifera, rusticité, culture au jardin et précautions.
@@ -54,3 +54,8 @@ Aucun épisode de froid daté (1956, 1985, 2012) ni résultat par zone (atlantiq
 
 ## 5. Encadré
 Tous les champs renseignés ; IUCN et CITES avec réserve (sources secondaires).
+
+## Publication (01/10/2026)
+Contenu, titre de page, titre SEO, meta description et mot-clé mis en ligne (Rank Math). Bloc image 9638 conservé (alt « Chamaerops humilis ») ;
+alt de la médiathèque 9638 mis à jour (update_media). Contrôle : 200, intro avec un seul lien (/palmiers/), première H2 « L'essentiel »,
+contenu complet, liens internes 200.
