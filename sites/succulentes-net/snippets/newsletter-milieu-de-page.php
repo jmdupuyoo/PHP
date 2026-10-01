@@ -37,7 +37,7 @@ function succulentes_newsletter_milieu( $content ) {
 		'fr' => array( 'Abonnez-vous à la newsletter de Succulentes', 'Conseils de culture, éclairages botaniques et nouvelles fiches, directement dans votre boîte mail. Désinscription possible à tout moment.' ),
 		'en' => array( 'Subscribe to the Succulentes newsletter', 'Growing tips, botanical insights and new plant profiles, straight to your inbox. Unsubscribe at any time.' ),
 		'it' => array( 'Iscriviti alla newsletter di Succulentes', 'Consigli di coltivazione, approfondimenti botanici e nuove schede, direttamente nella tua casella di posta. Disiscrizione possibile in qualsiasi momento.' ),
-		'es' => array( 'Suscríbete al boletín de Succulentes', 'Consejos de cultivo, apuntes de botánica y nuevas fichas, directamente en tu correo. Puedes darte de baja en cualquier momento.' ),
+		'es' => array( 'Suscríbase al boletín de Succulentes', 'Consejos de cultivo, apuntes de botánica y nuevas fichas, directamente en su correo. Puede darse de baja en cualquier momento.' ),
 	);
 
 	$lang = function_exists( 'pll_current_language' ) ? pll_current_language( 'slug' ) : 'fr';

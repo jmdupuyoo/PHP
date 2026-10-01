@@ -167,3 +167,7 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 01/10/2026 : widget ES « Boletín » (formulaire 4) remis dans le pied de page, réglé sur l'espagnol (Pont MCP 1.2.7). Accueil ES 23116 :
   copie figée du formulaire IT n° 3 (jeton périmé) remplacée par [sibwp_form id=4]. Formulaire 4 encore en anglais (gabarit Brevo par
   défaut : « Email Address », FIRSTNAME, LASTNAME, « Subscribe ») : à traduire avec brevo_save_form.
+- 01/10/2026 : formulaires Brevo traduits (ES 4 complet : texte, messages, modèle DOI ES n° 214 créé dans Brevo, redirection /es/gracias/
+  [page 25996 créée, noindex] ; IT 3 messages en italien ; EN 2 redirection /en/thank-you/ ; coquille « Email Adress » corrigée).
+  Snippet Code Snippets n° 11 « Newsletter Brevo au milieu des pages » créé et activé (Pont MCP 1.2.8) ; vérifié en ligne :
+  FR (formulaire 1), EN (2), IT (3), ES (4) au milieu des fiches, absent de l'accueil, aucune erreur.
