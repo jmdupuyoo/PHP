@@ -171,3 +171,6 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   [page 25996 créée, noindex] ; IT 3 messages en italien ; EN 2 redirection /en/thank-you/ ; coquille « Email Adress » corrigée).
   Snippet Code Snippets n° 11 « Newsletter Brevo au milieu des pages » créé et activé (Pont MCP 1.2.8) ; vérifié en ligne :
   FR (formulaire 1), EN (2), IT (3), ES (4) au milieu des fiches, absent de l'accueil, aucune erreur.
+- Idées en attente (newsletter, 01/10/2026) : aimant à inscription à décider plus tard.
+  Pistes : guide PDF « succulentes rustiques testées au Jardin zoologique tropical » ; calendrier de culture ; aimants ciblés par genre
+  (texte variable dans le snippet 11) ; ou premier cours e-learning de botanique offert (mini-cours par e-mails Brevo).
