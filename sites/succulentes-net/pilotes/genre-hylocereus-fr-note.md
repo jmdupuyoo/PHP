@@ -46,3 +46,7 @@ S. ocamponis (Salm-Dyck) D.R.Hunt ; S. escuintlensis, S. minutiflorus, S. stenop
   À lire aussi : /bouturer-un-cactus/, /mon-cactus-a-des-cochenilles-comment-les-identifier-et-les-traiter/.
   Aucune page d'espèce Hylocereus/Selenicereus : non liés.
 - Page actuelle : aucune image, pas d'image mise en avant, aucun média « hylocereus » en médiathèque.
+
+## Publication (01/10/2026)
+- Contenu, titre de page, titre SEO, meta description et mot-clé publiés sur le site ; contrôle fetch_site_url OK (texte identique au brouillon, liens internes 200).
+- Page conservée comme nom d'usage (pas de redirection vers Selenicereus), choix par défaut.

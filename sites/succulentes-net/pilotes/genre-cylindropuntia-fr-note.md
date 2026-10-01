@@ -70,3 +70,7 @@ Aucun résultat daté de culture en pleine terre, par zone ni par hiver. Seule d
 
 ## 5. Encadré
 UICN omis (aucune évaluation trouvée) ; nombre d'espèces donné selon Wikipédia et FNA.
+
+## Publication (01/10/2026)
+- Contenu, titre de page, titre SEO, meta description et mot-clé publiés sur le site ; contrôle fetch_site_url OK (texte identique au brouillon, liens internes 200).
+- Ajustements : absence sur la liste de l'Union formulée « d'après les mises à jour consultées » (encadré, section France et UE, FAQ) ; phrase sur le Jardin zoologique tropical supprimée ; alt médiathèque 4458 passé à « Cylindropuntia tunicata ».

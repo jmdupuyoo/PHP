@@ -53,3 +53,7 @@ non lue directement) : aculeata, bahiensis, diaz-romeroana, grandifolia, horrida
   Pas de page Pereskiopsis, Leuenbergeria ni d'espèces : non liés.
 - Page actuelle : aucun bloc image, aucune image mise en avant, aucun média « pereskia » dans la médiathèque.
 - Liens externes (Sites de référence) non testés un par un (accès direct bloqué pour plusieurs domaines).
+
+## Publication (01/10/2026)
+- Contenu, titre de page, titre SEO, meta description et mot-clé publiés sur le site ; contrôle fetch_site_url OK (texte identique au brouillon, liens internes 200).
+- Aucun ajustement de texte nécessaire.

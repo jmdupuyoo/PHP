@@ -61,3 +61,7 @@ Aucun résultat daté et localisé par zone (littoral méditerranéen, Atlantiqu
 
 ## 5. Encadré
 Statut UICN omis (aucune évaluation du genre ; une espèce citée dans le texte). Nombre d'espèces donné en fourchette sourcée.
+
+## Publication (01/10/2026)
+- Contenu, titre de page, titre SEO, meta description et mot-clé publiés sur le site ; contrôle fetch_site_url OK (texte identique au brouillon, liens internes 200).
+- Ajustements : annexe I CITES d'E. schmollii et d'E. ferreirianus subsp. lindsayi reformulée « signalée par des sources secondaires, à vérifier sur Species+ » (encadré, Réglementation, liste d'espèces) ; phrase sur le Jardin zoologique tropical supprimée.

@@ -42,3 +42,7 @@ Anciens Epiphyllum signalés : E. anguliger → Disocactus anguliger ; E. crenat
 - Aucun bloc image dans la page actuelle. Image mise en avant 5722 (epiphyllum.jpg) : alt actuel « epiphyllum » → à passer en
   « Epiphyllum » (update_media, non fait : consigne de ne rien modifier). Espèce représentée non identifiée ; si c'est un hybride,
   garder « Epiphyllum » (ou nom de l'hybride si connu).
+
+## Publication (01/10/2026)
+- Contenu, titre de page, titre SEO, meta description et mot-clé publiés sur le site ; contrôle fetch_site_url OK (texte identique au brouillon, liens internes 200).
+- Aucun ajustement de texte nécessaire ; alt de l'image mise en avant 5722 déjà « Epiphyllum ».
