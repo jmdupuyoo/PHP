@@ -205,4 +205,5 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 01/10/2026 : décision : fiches Aloe conservent les anciens noms (nom d'usage) ; page genre Aloe avec parties Aloidendron, Kumara, Aloiampelos (règle ajoutée au prompt).
 - 01/10/2026 : ES Haworthia 23439 : « unas 60 especies » (Bayer 2012), Haworthiopsis fasciata ; Vitaceae : groupe FR 23893 / EN 23891 / ES 23878 / IT 23919 relié.
   Anomalie : /aloides/haworthia/ affiche la page EN 17589 (pas de page genre FR Haworthia ; EN et ES non reliées ; EN se contredit : ~150 vs 38 espèces).
-- 01/10/2026 : 8 genres de palmiers enrichis et publiés (Trachycarpus, Chamaerops, Phoenix, Rhapidophyllum, Butia, × Butyagrus, Trithrinax, Livistona) ; observations JZT (février 2012, −8 °C) ; Syagrus : Butiagrus → Butyagrus.
+- 01/10/2026 : 8 genres de palmiers enrichis et publiés (Trachycarpus, Chamaerops, Phoenix, Rhapidophyllum, Butia, × Butyagrus, Trithrinax, Livistona) ; observations JZT (février 2012, −7 °C) ; Syagrus : Butiagrus → Butyagrus.
+- 01/10/2026 : correction du minimum JZT de février 2012 : −7 °C (et non −8 °C), sur Butia (5410, 3 occurrences), × Butyagrus (6541) et l'article « 5 palmiers résistants au vent » (13321).
