@@ -213,3 +213,4 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   - FR 5286 spinusolum → Dioon spinulosum (slug, titre, 301, 4 liens réécrits) ; IT 12758 dinnanensis → diannanensis (301, 2 liens) ;
   - IT 12127 Ceratozamia rangé sous /it/piante/cycadales/ceratozamia/ (301, liens réécrits) ; IT 12146 slug bowenia (301) ;
   - titres : EN 17976 « Bowenia spectabilis », espaces finaux retirés (FR 6162, EN 16895).
+  - contenus : Zamia 3963 (lien cremnophila → 22338, utm retirés) ; Cycas 1256 (phrase cassée réparée, lien dolichophylla retiré) ; Encephalartos 14229 (ouverture tronquée reconstituée d'après l'IT, longifolius → FR 1373, 13 espèces liées, coquille Encephalartus). Détail : pilotes/cycadales-anomalies-note.md.
