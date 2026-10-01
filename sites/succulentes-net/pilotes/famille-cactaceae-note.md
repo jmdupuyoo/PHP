@@ -1,5 +1,16 @@
 # Famille Cactaceae (FR 23780 + ES 23761, hubs famille) : note de livraison (01/10/2026)
 
+**ÉTAT : NON PUBLIÉ.** Le serveur MCP Succulentes-1_2_5 répond « 403 Forbidden / mcp_request_blocked » à tous les appels depuis la phase
+de vérification des liens (environ 20 minutes de tentatives). Contenus prêts dans famille-cactaceae-fr.html et famille-cactaceae-es.html.
+À faire à la reprise : update_content (content seul) sur 23780 et 23761 ; update_seo ; contrôle fetch_site_url (intro + lien unique,
+première H2, liens 200). Liens internes non encore contrôlés en 200 : existence et statut « publish » vérifiés via list_content/get_content
+(adresses finales), sauf /famille-didieraceae/ (lien vu dans list_content, publish) et /es/guia-de-plantas-ornamentales-y-suculentas/ (get_seo 23116).
+SEO prévu :
+- FR : title « Famille Cactaceae : cactus, sous-familles et genres » (51) ; description « La famille Cactaceae : environ 150 genres et 1 850 espèces,
+  six sous-familles depuis 2025, répartition, usages, CITES et index des 29 genres du site. » (149) ; mot-clé « Cactaceae ».
+- ES : title « Familia Cactaceae: cactus, subfamilias y géneros » (48) ; description « Familia Cactaceae: unos 150 géneros y 1850 especies, seis
+  subfamilias desde 2025, distribución, usos, CITES e índice de los géneros del sitio. » (142) ; mot-clé « Cactaceae ».
+
 FR : page 23780, https://succulentes.net/famille-cactaceae/ — ES : page 23761, https://succulentes.net/es/familia-cactaceae/
 Slug, parent, statut, langue inchangés ; titres conservés (« La famille Cactaceae » / « La familia Cactaceae »).
 Format : blocs Gutenberg commentés (<!-- wp:paragraph --> …), comme les autres pages famille récentes.

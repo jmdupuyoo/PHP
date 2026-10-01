@@ -5,9 +5,10 @@
  * À coller dans l'extension Code Snippets (type « PHP », exécution « partout » ou « front-end »).
  *
  * - Insère le formulaire de la langue courante (Polylang) avant l'intertitre H2 situé au milieu du texte.
- * - Ne touche ni à l'introduction ni au sommaire : jamais avant le 2e H2.
+ * - Repères : les H2 (au moins 4), sinon les H3, sinon tous les intertitres ; jamais avant le 3e intertitre.
+ * - Page courte (moins de 4 intertitres) : encadré en fin de texte. Pages en noindex (Rank Math) : rien.
  * - Pas de balise de titre (h2/h3) dans l'encadré : le sommaire et la structure SEO ne changent pas.
- * - Ignoré si la page contient déjà un formulaire Brevo, sur l'accueil et sur les pages trop courtes.
+ * - Ignoré si la page contient déjà un formulaire Brevo et sur l'accueil.
  * - Une langue sans formulaire (valeur 0) n'affiche rien.
  *
  * Formulaires de l'extension Brevo (Brevo > Formulaires) :
@@ -24,6 +25,11 @@ function succulentes_newsletter_milieu( $content ) {
 		return $content;
 	}
 	if ( false !== strpos( $content, 'sib_signup_form' ) || false !== strpos( $content, 'sibwp_form' ) ) {
+		return $content;
+	}
+	// Pages non indexées (remerciements, mentions légales…) : pas d'encadré.
+	$robots = get_post_meta( get_the_ID(), 'rank_math_robots', true );
+	if ( is_array( $robots ) && in_array( 'noindex', $robots, true ) ) {
 		return $content;
 	}
 
@@ -45,13 +51,20 @@ function succulentes_newsletter_milieu( $content ) {
 		return $content;
 	}
 
-	// Positions des H2 ; au moins 4 pour que la page soit assez longue.
-	if ( ! preg_match_all( '/<h2[\s>]/i', $content, $matches, PREG_OFFSET_CAPTURE ) || count( $matches[0] ) < 4 ) {
-		return $content;
+	// Repères : les H2 s'il y en a au moins 4, sinon les H3, sinon tous les intertitres.
+	$pos = null;
+	foreach ( array( '/<h2[\s>]/i', '/<h3[\s>]/i', '/<h[23][\s>]/i' ) as $pattern ) {
+		if ( preg_match_all( $pattern, $content, $matches, PREG_OFFSET_CAPTURE ) && count( $matches[0] ) >= 4 ) {
+			$headings = $matches[0];
+			$index    = max( 2, (int) floor( count( $headings ) / 2 ) ); // Jamais avant le 3e intertitre.
+			$pos      = $headings[ $index ][1];
+			break;
+		}
 	}
-	$h2    = $matches[0];
-	$index = max( 2, (int) floor( count( $h2 ) / 2 ) ); // Jamais avant le 3e H2 (après « L'essentiel »).
-	$pos   = $h2[ $index ][1];
+	// Page courte : encadré en fin de texte.
+	if ( null === $pos ) {
+		$pos = strlen( $content );
+	}
 
 	$box  = '<aside class="succulentes-newsletter" aria-label="Newsletter">';
 	$box .= '<p class="succulentes-newsletter__titre"><strong>' . esc_html( $texts[ $lang ][0] ) . '</strong></p>';

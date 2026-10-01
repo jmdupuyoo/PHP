@@ -430,12 +430,21 @@ class Pont_MCP_Tools_Extensions {
 			foreach ( $fields as $key => $value ) {
 				$snippet->$key = $value;
 			}
-			$saved = \Code_Snippets\save_snippet( $snippet );
-			$id    = is_object( $saved ) ? (int) $saved->id : (int) $saved;
+			$was_active = ! $creating && $current['active'];
+			$saved      = \Code_Snippets\save_snippet( $snippet );
+			$id         = is_object( $saved ) ? (int) $saved->id : (int) $saved;
 			if ( ! $id ) {
 				throw new Pont_MCP_Tool_Error( 'Enregistrement refusé par Code Snippets.' );
 			}
+			// Code Snippets désactive l'extrait à l'enregistrement : le réactiver s'il l'était.
 			$result = self::api_get( $id );
+			if ( $was_active && ! $result->active ) {
+				if ( self::is_php_scope( $scope ) ) {
+					self::check_php( (string) $result->code );
+				}
+				\Code_Snippets\activate_snippet( $id );
+				$result = self::api_get( $id );
+			}
 		} else {
 			$table   = self::snippets_table();
 			$columns = $wpdb->get_col( "SHOW COLUMNS FROM `{$table}`" ); // phpcs:ignore WordPress.DB.PreparedSQL.InterpolatedNotPrepared
