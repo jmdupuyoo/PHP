@@ -20,6 +20,18 @@ Messages du forum des Fous de palmiers envoyés depuis La Londe-les-Maures (comp
 - Retiré aussi des Sites de référence : le fil t=12560 (« Jardin Zoologique Tropical (83 La Londe-les-Maures) ») et la mention « plantation et croissance à La Londe-les-Maures (#p384685, #p394459, #p421000, #p421008) ». Le fil t=20234 reste cité (Montpellier, Gironde).
 - Le paragraphe « Au Jardin zoologique tropical de La Londe-les-Maures… » et sa liste (arrosage, exposition, carences, hiver) n'ont pas été touchés.
 
+### Zamia (genre-zamia-fr.html, non intégrés à la page)
+
+Messages du forum des Fous de palmiers envoyés depuis La Londe-les-Maures (localisation « La Londe (83) », signés « JM » ou « Jean-Michel »), relevés le 01/10/2026 lors de la préparation du brouillon *Zamia*. Aucun n'a été mis dans la page.
+
+- Novembre 2008 : « Nous avons aussi planté en cycadales : Zamia floridana et Cycas panzhihuaensis ». https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=3946&start=15#p42963
+- 6 janvier 2009 (épisode de froid de début janvier 2009) : sur deux *Zamia floridana* (= *Zamia integrifolia*), l'un montre des signes de faiblesse (base des feuilles molles), attribués à l'humidité des mois précédents et à un substrat de schiste pas assez drainant ; l'autre va bien ; « et tout ça avec seulement −3 °C ». Pleine terre probable, non dite. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=4291#p46520
+- Juillet 2013 : identification d'une plante comme « Zamia integrifolia sans doute » et mention de plantes identiques (« mes plantes ») au même stade. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=16032#p279128
+- 22 février 2014 : « J'ai seulement Zamia integrifolia mais en pleine terre ». https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=17399&start=15#p319513
+- Avril 2017 (conseil, pas un retour) : garder les cycadales un mois sous couvert d'arbustes avant plantation ; feuilles « de serre » plus fragiles au soleil, au vent et au gel. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=22019#p431708
+
+Si ces plantes sont celles du Jardin zoologique tropical, le message de janvier 2009 pourrait devenir un retour : « au Jardin zoologique tropical de La Londe-les-Maures, un des deux *Zamia integrifolia* a souffert de −3 °C en janvier 2009 après un automne humide, sur sol de schiste ». Préciser si les plantes sont toujours en place et leur comportement en février 2012.
+
 ## Image 1497 (Macrozamia)
 
 - Fichier : https://succulentes.net/wp-content/uploads/2021/07/feuille-macrozamia-comunis.jpg
