@@ -180,3 +180,4 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   Racines ES à reprendre (même problème) : 23482 orden-cycadales, 23478 asphodelaceae, 23486 crassulaceae-2 (vide), 23480 euphorbiaceae-2,
   23483 didieraceae-2, 23481 apocynaceae-2 (contenu en double), malvaceae, moringaceae, pedaliaceae, vitaceae.
   Erreur ES 23445 Nolina : Nolina recurvata (= Beaucarnea recurvata) traitée comme une Nolina.
+- 01/10/2026 : inscription ES testée par le propriétaire : liste Brevo succulentes-ES OK, e-mail de confirmation et page /es/gracias/ OK.
