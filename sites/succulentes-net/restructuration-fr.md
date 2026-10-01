@@ -214,3 +214,5 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   - IT 12127 Ceratozamia rangé sous /it/piante/cycadales/ceratozamia/ (301, liens réécrits) ; IT 12146 slug bowenia (301) ;
   - titres : EN 17976 « Bowenia spectabilis », espaces finaux retirés (FR 6162, EN 16895).
   - contenus : Zamia 3963 (lien cremnophila → 22338, utm retirés) ; Cycas 1256 (phrase cassée réparée, lien dolichophylla retiré) ; Encephalartos 14229 (ouverture tronquée reconstituée d'après l'IT, longifolius → FR 1373, 13 espèces liées, coquille Encephalartus). Détail : pilotes/cycadales-anomalies-note.md.
+- 01/10/2026 : article « Semis de cycadales » corrigé en FR (15578), EN (15581) et IT (15579) : liste complète de l'annexe I CITES (Encephalartos, Ceratozamia, Stangeria eriopus, Microcycas calocoma, Cycas beddomei, Zamia restrepoi) ; FR : renvoi au règlement (CE) 338/97.
+- 01/10/2026 : Ceratozamia : retrait des groupes A à F validé par le propriétaire.
