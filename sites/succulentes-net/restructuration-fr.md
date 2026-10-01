@@ -197,3 +197,8 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   301 exacte + règle dossier /* pour chacune ; 53 liens internes réécrits ; contrôles 200 + canoniques OK.
   À revoir : texte ES 23483 (« la forma Didieraceae, que se encuentra […] en la dirección de esta página ») devenu faux.
 - 01/10/2026 : Pont MCP 1.2.10 installé ; save_snippet sur l'extrait 11 actif → reste actif (vérifié), encadré présent en ligne.
+- 01/10/2026 : erreurs corrigées : ES Nolina 23445 (lien d'intro vers /es/agavaceae/), ES Aloe 23428 (Asphodelaceae, oiseaux nectarivores),
+  ES Haworthia attenuata 23594 / limifolia 23595 (nom d'usage, Haworthiopsis pour POWO, section Taxonomía), hub ES Haworthia (Haworthiopsis fasciata),
+  Echeveria : 206 espèces (POWO déc. 2025) sur ES 23438, ES 23486, FR 24880 ; FR Malvaceae 23900 (kénaf) ; Vitaceae FR 23893 / EN 23891 / IT 23919
+  (environ 16 genres, Wen et al. 2018). Restent : hub ES Haworthia « más de 150 especies » ; ES Aloe dichotomum / plicatilis sans nom actuel
+  (Aloidendron, Kumara) ; Vitaceae EN/IT non liées dans Polylang ; Echeveria à revérifier (nouveau genre séparé en 2026, Cruz-López et al.).
