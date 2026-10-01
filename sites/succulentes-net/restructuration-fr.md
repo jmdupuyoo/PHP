@@ -196,3 +196,4 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   23483 /es/didieraceae-2/ → /es/familia-didiereaceae/ (orthographe corrigée, 6), 23481 /es/apocynaceae-2/ → /es/familia-apocynaceae/ (5).
   301 exacte + règle dossier /* pour chacune ; 53 liens internes réécrits ; contrôles 200 + canoniques OK.
   À revoir : texte ES 23483 (« la forma Didieraceae, que se encuentra […] en la dirección de esta página ») devenu faux.
+- 01/10/2026 : Pont MCP 1.2.10 installé ; save_snippet sur l'extrait 11 actif → reste actif (vérifié), encadré présent en ligne.
