@@ -32,6 +32,18 @@ Messages du forum des Fous de palmiers envoyés depuis La Londe-les-Maures (loca
 
 Si ces plantes sont celles du Jardin zoologique tropical, le message de janvier 2009 pourrait devenir un retour : « au Jardin zoologique tropical de La Londe-les-Maures, un des deux *Zamia integrifolia* a souffert de −3 °C en janvier 2009 après un automne humide, sur sol de schiste ». Préciser si les plantes sont toujours en place et leur comportement en février 2012.
 
+### Encephalartos (genre-encephalartos-fr.html, brouillon du 01/10/2026) — non repris dans la page
+
+Messages du forum des Fous de palmiers envoyés depuis La Londe-les-Maures (compte JMDUPUYOO, profil « La Londe (83) »). Aucun ne concerne les six espèces dont la rusticité est traitée (horridus, lehmannii, friderici-guilielmi, ghellinckii, cycadifolius, laevifolius), et aucun ne donne un retour complet ; ils ne sont donc pas dans la page, ni en commentaire.
+
+- 6 janvier 2009 : à La Londe (Var), un Encephalartos d'espèce non déterminée, pourtant sous papier bulle, a les feuilles « épinard » ; E. sclavoi (feuilles glauques) va encore bien ; « et tout ça avec seulement −3 °C ». https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=4291#p46520
+- 14 janvier 2010 : −6 °C au plus bas à La Londe (quartier Saint-Honoré), mesuré hors abri sur rocaille (#p78448, #p78493) ; les deux Encephalartos du jardin avaient été mis en pot en mai 2009 puis confiés en septembre à un collectionneur de Giens (#p78458). https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=6494#p78458
+- 11 décembre 2011 : projet de planter un ou deux E. lehmannii en extérieur l'année suivante, en réponse à un membre de Goncelin (Isère) qui en a perdu un en serre froide à −4 °C. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=10717#p156174
+- 7 février 2016 (fil « Jardin Zoologique Tropical (83 La Londe-les-Maures) ») : « J'ai quelques Encephalartos sur rocailles. J'en ai d'autres en pot. Mon projet est de construire des abris pour protéger les plantes en terre » (espèces non précisées). https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=12560&start=30#p394459
+- Pour mémoire, un autre membre écrit (fil t=3946, #p41861) avoir vu des Encephalartos en pleine terre « au jardin d'oiseaux tropicaux de La Londe-les-Maures ». https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=3946#p41861
+
+Si ces plantes sont celles du Jardin zoologique tropical, une observation datée (espèce, pleine terre ou pot, minimum relevé, résultat) permettrait de l'ajouter à la page sous la forme « au Jardin zoologique tropical de La Londe-les-Maures ».
+
 ## Image 1497 (Macrozamia)
 
 - Fichier : https://succulentes.net/wp-content/uploads/2021/07/feuille-macrozamia-comunis.jpg
