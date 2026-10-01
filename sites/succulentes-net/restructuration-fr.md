@@ -208,3 +208,8 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 01/10/2026 : 8 genres de palmiers enrichis et publiés (Trachycarpus, Chamaerops, Phoenix, Rhapidophyllum, Butia, × Butyagrus, Trithrinax, Livistona) ; observations JZT (février 2012, −7 °C) ; Syagrus : Butiagrus → Butyagrus.
 - 01/10/2026 : correction du minimum JZT de février 2012 : −7 °C (et non −8 °C), sur Butia (5410, 3 occurrences), × Butyagrus (6541) et l'article « 5 palmiers résistants au vent » (13321).
 - 01/10/2026 : page d'ordre Cycadales (13826, /cycadales/) réécrite sur place (≈ 2 360 mots, 10 genres indexés par famille, CITES/UE, toxicité, FAQ) ; SEO Rank Math mis à jour. Intro liée à /plantes/ (décision du propriétaire : la page mère des racines est /plantes/). Inventaire Cycadales 4 langues : inventaire-cycadales.md.
+- 01/10/2026 : anomalies Cycadales (inventaire) corrigées :
+  - traductions liées : FR 1256 Cycas ↔ EN 16282 / IT 11549 / ES 23432 ; FR 13826 ↔ IT 11545 ; FR 14229 Encephalartos ↔ IT 11663 ;
+  - FR 5286 spinusolum → Dioon spinulosum (slug, titre, 301, 4 liens réécrits) ; IT 12758 dinnanensis → diannanensis (301, 2 liens) ;
+  - IT 12127 Ceratozamia rangé sous /it/piante/cycadales/ceratozamia/ (301, liens réécrits) ; IT 12146 slug bowenia (301) ;
+  - titres : EN 17976 « Bowenia spectabilis », espaces finaux retirés (FR 6162, EN 16895).
