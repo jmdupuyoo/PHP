@@ -186,3 +186,8 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   « chanvre de Manille » (c'est le kénaf), Vitaceae « 14 genres » ; ES Uncarina/Pachypodium/Adansonia à revérifier ; traductions IT/EN manquantes.
 - Snippet 11 : repli H3 / pages courtes / exclusion noindex. Pont MCP 1.2.9 (save_snippet réactive un extrait actif).
 - 01/10/2026 : page famille Cactaceae réécrite et publiée en FR (23780) et ES (23761) ; 63 liens internes vérifiés.
+- 01/10/2026 : racines ES reprises (lot A) : 23482 orden-cycadales, 23478 asphodelaceae (liée à /aloides/), 23486 crassulaceae-2 (rédigée),
+  23480 euphorbiaceae-2, 23483 didieraceae-2 ; traductions liées. Fiche ES Nolina 23445 corrigée (Beaucarnea recurvata, effectifs, aire).
+  À décider : slugs ES crassulaceae-2 / euphorbiaceae-2 / didieraceae-2 / apocynaceae-2 → familia-<x> (avec 301, enfants inclus).
+  À corriger : intro ES Nolina sans lien vers la page mère ; ES Aloe « Aloáceas » ; fiches Haworthia attenuata / limifolia → Haworthiopsis ;
+  ES Echeveria « más de 180 especies » vs ~150.
