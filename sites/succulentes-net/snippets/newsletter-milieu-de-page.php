@@ -14,7 +14,7 @@
  *   fr : id 1 (liste succulentes-FR, 17)
  *   en : id 2 (liste succulentes-EN, 30)
  *   it : id 3 (liste succulentes-IT, 29)
- *   es : à créer, liée à la liste succulentes-ES (31), puis reporter son id ci-dessous.
+ *   es : id 4 (liste succulentes-ES, 31)
  */
 
 add_filter( 'the_content', 'succulentes_newsletter_milieu', 20 );
@@ -31,7 +31,7 @@ function succulentes_newsletter_milieu( $content ) {
 		'fr' => 1,
 		'en' => 2,
 		'it' => 3,
-		'es' => 0, // À remplacer par l'id du formulaire espagnol.
+		'es' => 4,
 	);
 	$texts = array(
 		'fr' => array( 'Abonnez-vous à la newsletter de Succulentes', 'Conseils de culture, éclairages botaniques et nouvelles fiches, directement dans votre boîte mail. Désinscription possible à tout moment.' ),

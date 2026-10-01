@@ -76,7 +76,7 @@ class Pont_MCP_Tools_Appearance {
 			),
 			'save_widget'               => array(
 				'title'       => 'Ajouter ou modifier un widget',
-				'description' => 'Sans widget_id : ajoute un widget (type + sidebar requis). Avec widget_id : fusionne les réglages fournis et peut déplacer le widget. Réglages courants : text → title, text ; custom_html → title, content ; block → content (HTML de blocs) ; nav_menu → title, nav_menu (ID).',
+				'description' => 'Sans widget_id : ajoute un widget (type + sidebar requis). Avec widget_id : fusionne les réglages fournis et peut déplacer le widget. Réglages courants : text → title, text ; custom_html → title, content ; block → content (HTML de blocs) ; nav_menu → title, nav_menu (ID). Site multilingue (Polylang) : pll_lang (ex. fr, es) limite l’affichage du widget à une langue ; chaîne vide = toutes les langues.',
 				'level'       => $full,
 				'handler'     => array( __CLASS__, 'save_widget' ),
 				'properties'  => array(
@@ -325,6 +325,20 @@ class Pont_MCP_Tools_Appearance {
 		$instance = $widget->update( array_merge( $old, $settings ), $old );
 		if ( false === $instance ) {
 			throw new Pont_MCP_Tool_Error( 'Réglages refusés par le widget.' );
+		}
+		// Langue Polylang : ajoutée par Polylang depuis le formulaire de l'administration, absente de update().
+		if ( array_key_exists( 'pll_lang', $settings ) ) {
+			$lang = sanitize_key( (string) $settings['pll_lang'] );
+			if ( '' !== $lang && function_exists( 'pll_languages_list' ) && ! in_array( $lang, pll_languages_list(), true ) ) {
+				throw new Pont_MCP_Tool_Error( 'Langue inconnue : ' . $lang . ' (voir list_languages).' );
+			}
+			if ( '' === $lang ) {
+				unset( $instance['pll_lang'] );
+			} else {
+				$instance['pll_lang'] = $lang;
+			}
+		} elseif ( isset( $old['pll_lang'] ) ) {
+			$instance['pll_lang'] = $old['pll_lang'];
 		}
 		$all[ $number ] = $instance;
 		$widget->save_settings( $all );
