@@ -50,7 +50,7 @@ Audit en **lecture seule** du 2026-09-30 (serveur MCP « Succulentes-1_2_5 », o
 | 5402 | genre | Le genre Trachycarpus | /palmiers/trachycarpus/ | 91 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 01/10/2026** |
 | 6392 | genre | Le genre Aechmea | /famille-bromeliaceae/aechmea/ | 91 | ≈ 1 paragraphe; sans image; Un intertitre, pas de liste d'espèces rédigée |
 | 4616 | genre | Le genre Strelitzia | /famille-strelitziaceae/strelitzia/ | 92 | ≈ 1 paragraphe; sans image |
-| 4081 | genre | Le genre Stangeria | /cycadales/stangeria/ | 93 | ≈ 1 paragraphe; aucun H2; sans image |
+| 4081 | genre | Le genre Stangeria | /cycadales/stangeria/ | 93 | ≈ 1 paragraphe; aucun H2; sans image | **enrichie et publiée 01/10/2026**
 | 5410 | genre | Le genre Butia | /palmiers/butia/ | 101 | ≈ 1 paragraphe; aucun H2; sans image; Mentionne Butia capitata devenu Butia odorata ; page parente de fiches palmiers ; **enrichie et publiée le 01/10/2026** |
 | 5309 | genre | Le genre Echinocereus | /famille-cactaceae/echinocereus/ | 111 | ≈ 1 paragraphe; aucun H2; sans image ; **enrichie et publiée le 01/10/2026** |
 | 3605 | genre | Le genre Plumeria | /famille-apocynaceae/plumeria/ | 112 | ≈ 1 paragraphe |
