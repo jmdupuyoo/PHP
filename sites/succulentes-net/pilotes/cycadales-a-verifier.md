@@ -49,3 +49,18 @@ Si ces plantes sont celles du Jardin zoologique tropical, une observation datée
 - Fichier : https://succulentes.net/wp-content/uploads/2021/07/feuille-macrozamia-comunis.jpg
 - L'espèce (*Macrozamia communis*) n'est pas vérifiée. Texte alternatif ramené à « Macrozamia » (genre seul) dans le brouillon.
 - À voir : la légende du bloc dit toujours « Feuille de *Macrozamia communis*. » ; à corriger aussi si l'identification n'est pas confirmée. Le texte alternatif de la médiathèque (site) n'a pas été modifié.
+
+### Cycas (genre-cycas-fr.html) — ajout du 01/10/2026
+
+Aucun de ces messages n'a été mis dans la page. Messages du forum des Fous de palmiers envoyés depuis La Londe-les-Maures (profil « La Londe (83) », signés « JM » ou « Jean-Michel ») qui concernent des *Cycas* :
+
+- *C. panzhihuaensis*, « spécimen adulte cultivé depuis le printemps dernier à La Londe », feuilles abîmées par les vents violents de novembre 2008 : https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=3323#p43976 (5 décembre 2008).
+- Une dizaine de *C. panzhihuaensis* cultivés en pot depuis 4 ans, croissance lente : https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=3323#p44004 (5 décembre 2008).
+- *C. debaoensis* en pot, 9 graines sur 10 germées ; pertes de jeunes plants l'hiver même à 5 °C minimum : https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=3323&start=15#p44341 (10 décembre 2008).
+- Six *C. panzhihuaensis* plantés « au Jardin d'Oiseaux Tropicaux à La Londe », couronne détruite par les tempêtes : https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=3323&start=15#p46321 (5 janvier 2009).
+- Photos des *C. panzhihuaensis* après la neige de février 2012, pas de feuille cassée ni de brûlure : https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=3323&start=60#p167748 (12 février 2012) ; pas de nouvelle pousse en mai 2012 : https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=3323&start=75#p188827.
+- Cônes sur la plupart des *C. panzhihuaensis*, un seul sujet femelle : https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=3323&start=120#p382414 (20 septembre 2015).
+- Feuilles de serre de *C. panzhihuaensis* « ravagées » par un coup de vent après plantation ; brûlures sur *C. revoluta* après seulement 15 jours de mi-ombre ; un *C. taiwaniana* (« peut-être un revoluta ») brûlé en passant trop vite au soleil : https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=6514&start=90#p325076, #p325113, #p325149 (avril 2014).
+- Pas des retours de culture (pour mémoire) : demande d'informations pour un article sur *C. panzhihuaensis* avec Pierre Bianchi, prévu dans la revue *Le Palmier* de septembre 2009 (t=4327 #p47237, #p54077) ; hésitation à planter *C. multifrondis* (t=8427 #p110662) ; citation d'un autre membre (t=3323&start=60 #p171159).
+
+Les deux articles du blog du site sur le JZT (*C. panzhihuaensis*, id 306 ; *C. taitungensis*, id 339) ont, eux, été utilisés comme observations de première main, conformément à la décision du 30/09/2026. À noter : l'article 306 indique « environ 350 espèces » pour le genre *Cycas* (118 selon WLoC).
