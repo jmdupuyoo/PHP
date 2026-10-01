@@ -164,3 +164,6 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   version ES 23761, traductions EN/ES/IT de Selenicereus.
 - Newsletter : snippet sites/succulentes-net/snippets/newsletter-milieu-de-page.php (formulaires Brevo FR 1, EN 2, IT 3, ES 4) à installer
   via Pont MCP 1.2.7 ; widget ES « Boletín » (custom_html-8) en attente dans les widgets inactifs.
+- 01/10/2026 : widget ES « Boletín » (formulaire 4) remis dans le pied de page, réglé sur l'espagnol (Pont MCP 1.2.7). Accueil ES 23116 :
+  copie figée du formulaire IT n° 3 (jeton périmé) remplacée par [sibwp_form id=4]. Formulaire 4 encore en anglais (gabarit Brevo par
+  défaut : « Email Address », FIRSTNAME, LASTNAME, « Subscribe ») : à traduire avec brevo_save_form.
