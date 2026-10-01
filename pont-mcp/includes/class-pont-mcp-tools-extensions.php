@@ -437,14 +437,10 @@ class Pont_MCP_Tools_Extensions {
 				throw new Pont_MCP_Tool_Error( 'Enregistrement refusé par Code Snippets.' );
 			}
 			// Code Snippets désactive l'extrait à l'enregistrement : le réactiver s'il l'était.
-			$result = self::api_get( $id );
-			if ( $was_active && ! $result->active ) {
-				if ( self::is_php_scope( $scope ) ) {
-					self::check_php( (string) $result->code );
-				}
-				\Code_Snippets\activate_snippet( $id );
-				$result = self::api_get( $id );
+			if ( $was_active ) {
+				self::reactivate( $id, $scope );
 			}
+			$result = self::api_get( $id );
 		} else {
 			$table   = self::snippets_table();
 			$columns = $wpdb->get_col( "SHOW COLUMNS FROM `{$table}`" ); // phpcs:ignore WordPress.DB.PreparedSQL.InterpolatedNotPrepared
@@ -519,6 +515,24 @@ class Pont_MCP_Tools_Extensions {
 			'snippet' => $snippet,
 			'backend' => $backend,
 		);
+	}
+
+	/**
+	 * Code Snippets désactive un extrait à l'enregistrement : le réactiver, par son API,
+	 * puis, si la table indique encore « inactif », directement en base.
+	 */
+	private static function reactivate( $id, $scope ) {
+		global $wpdb;
+		$snippet = self::api_get( $id );
+		if ( self::is_php_scope( $scope ) ) {
+			self::check_php( (string) $snippet->code );
+		}
+		\Code_Snippets\activate_snippet( $id );
+		$table = self::snippets_table();
+		if ( $table && ! (int) $wpdb->get_var( $wpdb->prepare( "SELECT active FROM `{$table}` WHERE id = %d", $id ) ) ) { // phpcs:ignore WordPress.DB.PreparedSQL.InterpolatedNotPrepared
+			$wpdb->update( $table, array( 'active' => 1 ), array( 'id' => $id ) );
+			self::db_flush_cache();
+		}
 	}
 
 	private static function is_php_scope( $scope ) {
