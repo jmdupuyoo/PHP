@@ -207,3 +207,4 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   Anomalie : /aloides/haworthia/ affiche la page EN 17589 (pas de page genre FR Haworthia ; EN et ES non reliées ; EN se contredit : ~150 vs 38 espèces).
 - 01/10/2026 : 8 genres de palmiers enrichis et publiés (Trachycarpus, Chamaerops, Phoenix, Rhapidophyllum, Butia, × Butyagrus, Trithrinax, Livistona) ; observations JZT (février 2012, −7 °C) ; Syagrus : Butiagrus → Butyagrus.
 - 01/10/2026 : correction du minimum JZT de février 2012 : −7 °C (et non −8 °C), sur Butia (5410, 3 occurrences), × Butyagrus (6541) et l'article « 5 palmiers résistants au vent » (13321).
+- 01/10/2026 : page d'ordre Cycadales (13826, /cycadales/) réécrite sur place (≈ 2 360 mots, 10 genres indexés par famille, CITES/UE, toxicité, FAQ) ; SEO Rank Math mis à jour. Intro liée à l'accueil (/plantes/ n'est pas une page distincte : elle affiche l'accueil). Inventaire Cycadales 4 langues : inventaire-cycadales.md.

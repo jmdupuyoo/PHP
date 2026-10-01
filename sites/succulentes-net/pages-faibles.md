@@ -24,7 +24,7 @@ Audit en **lecture seule** du 2026-09-30 (serveur MCP « Succulentes-1_2_5 », o
 
 | id | niveau | titre | adresse | mots | remarques |
 |---|---|---|---|---|---|
-| 13826 | famille | Les Cycadales | /cycadales/ | 108 | ≈ 1 paragraphe; sans image; racine de groupe; Page d'ordre (racine de 140 sous-pages) réduite à ~100 mots et un intertitre |
+| 13826 | famille | Les Cycadales | /cycadales/ | 108 | ≈ 1 paragraphe; sans image; racine de groupe; Page d'ordre (racine de 140 sous-pages) réduite à ~100 mots et un intertitre | **enrichie et publiée 01/10/2026**
 | 2819 | genre | Le genre Neobuxbaumia | /famille-cactaceae/neobuxbaumia/ | 19 | ≈ 1 à 2 phrases; aucun H2; sans image; Une phrase et une liste de 2 espèces (inventaire contenus obsolètes) ; **enrichie et publiée le 01/10/2026** |
 | 8773 | genre | Le genre Romneya | /famille-papaveraceae/romneya/ | 39 | ≈ 1 à 2 phrases; aucun H2; sans image |
 | 15233 | genre | Le genre Hesperaloe | /agavoides/hesperaloe/ | 39 | ≈ 1 à 2 phrases; aucun H2; sans image; aucun lien interne; Pas de lien d'intro vers /agavoides/ ; la meta cite les « Agavacées », famille obsolète (Asparagaceae, Agavoideae) ; **enrichie et publiée le 30/09/2026** |
