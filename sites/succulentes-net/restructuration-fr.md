@@ -181,3 +181,7 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   23483 didieraceae-2, 23481 apocynaceae-2 (contenu en double), malvaceae, moringaceae, pedaliaceae, vitaceae.
   Erreur ES 23445 Nolina : Nolina recurvata (= Beaucarnea recurvata) traitée comme une Nolina.
 - 01/10/2026 : inscription ES testée par le propriétaire : liste Brevo succulentes-ES OK, e-mail de confirmation et page /es/gracias/ OK.
+- 01/10/2026 : racines ES reprises (lot B) : 23481 apocynaceae-2, 23885 malvaceae, 23883 moringaceae, 23880 pedaliaceae, 23878 vitaceae ;
+  traductions FR liées ; erreurs corrigées. À voir : slug apocynaceae-2 → apocynaceae (avec 301) ; FR : Hibiscus cannabinus présenté comme
+  « chanvre de Manille » (c'est le kénaf), Vitaceae « 14 genres » ; ES Uncarina/Pachypodium/Adansonia à revérifier ; traductions IT/EN manquantes.
+- Snippet 11 : repli H3 / pages courtes / exclusion noindex. Pont MCP 1.2.9 (save_snippet réactive un extrait actif).
