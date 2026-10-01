@@ -70,7 +70,7 @@ Dracaena ajgal ×2). Les fiches servies n'ont aucune balise `<meta name="descrip
 
 - Accueil : pas d'`og:image` (partages Facebook / WhatsApp sans image) ; schéma « Article » au lieu de « WebPage ».
 - Accueil anglais : titre « Succulent's guide » (préférer « Succulents guide » ou « Guide to succulents »).
-- Adresses avec suffixe `-2` (`/es/crassulaceae-2/`, `/en/malvaceae-2/`…) : limite de Polylang gratuit, sans gravité.
+- Adresses avec suffixe `-2` (`/es/crassulaceae-2/`, `/en/malvaceae-2/`…) : limite de Polylang gratuit, sans gravité. (01/10/2026 : les 4 racines ES `-2` renommées en `/es/familia-<x>/` avec 301.)
 - Espagnol : créer des catégories (Cultivo, Plagas…) pour les 85 articles « Non classé ».
 
 ## Vitesse — détail (page d'accueil)

@@ -80,7 +80,7 @@ Remarques : les ancres (#…), liens externes, mailto, wp-admin et flux ont ét�
 | `/culture-sous-serre/` | `/culture-entretien-des-plantes-succulentes/culture-sous-serre/` | `/culture-entretien-des-plantes-succulentes/culture-sous-serre/` | 2 | 535 « Culture des succulentes » (fr)<br>611 « Culture en intérieur » (fr) |  |
 | `/en/succulent-plants/fouquieria/` | `/famille-fouquieriaceae/fouquieria/` | `/en/fouquieraceae/fouquieria/` | 2 | 21220 « Fouquieria macdougalii » (en)<br>21227 « Fouquieria formosa » (en) | atterrit sur la page FR |
 | `/es/agavoides/dracaena/cinnabari/` | `/agavoides/dracaena/cinnabari/` | `/es/agavaceae/dracaena/cinnabari/` | 2 | 23623 « Dracaena inexpectata » (es) |  |
-| `/es/apocynaceae/` | `/en/apocynaceae/` | `/es/apocynaceae-2/` | 2 | 23888 « El género Adenium » (es)<br>23889 « El género Fockea » (es) | atterrit sur la page EN |
+| `/es/apocynaceae/` | `/en/apocynaceae/` | `/es/familia-apocynaceae/` | 2 | 23888 « El género Adenium » (es)<br>23889 « El género Fockea » (es) | atterrit sur la page EN |
 | `/euphorbia/` | `/famille-euphorbiaceae/euphorbia/` | `/en/euphorbiaceae/euphorbia/` | 2 | 19083 « Euphorbia abyssinica » (en)<br>19101 « Euphorbia ammak » (en) |  |
 | `/jardins-botaniques-et-collections-de-plantes-succulentes/domaine-du-rayol/` | `/jardin-botanique/domaine-du-rayol/` | `/jardin-botanique/domaine-du-rayol/` | 2 | 1427 « Nolina longifolia » (fr)<br>10568 « Acacia karroo » (fr) |  |
 | `/yucca/baccata/` | `/agavoides/yucca/baccata/` | `/en/agavoids/yucca/baccata/` | 2 | 15513 « Yucca arizonica » (en) |  |
@@ -256,8 +256,8 @@ Vérifications :
 | 23864 | El género Boswellia | `/es/burseraceae/` | `/es/burseraceae-2/` | 1 |
 | 23865 | La familia Anacardiaceae | `/es/operculicarya/` | `/es/anacardiaceae/operculicarya/` | 1 |
 | 23865 | La familia Anacardiaceae | `/es/pachycormus/` | `/es/anacardiaceae/pachycormus/` | 1 |
-| 23888 | El género Adenium | `https://succulentes.net/es/apocynaceae/` | `/es/apocynaceae-2/` | 1 |
-| 23889 | El género Fockea | `https://succulentes.net/es/apocynaceae/` | `/es/apocynaceae-2/` | 1 |
+| 23888 | El género Adenium | `https://succulentes.net/es/apocynaceae/` | `/es/familia-apocynaceae/` | 1 |
+| 23889 | El género Fockea | `https://succulentes.net/es/apocynaceae/` | `/es/familia-apocynaceae/` | 1 |
 | 23908 | Cyphostemma | `https://succulentes.net/en/vitaceae-2/` | `/en/vitaceae-family/` | 1 |
 | 23938 | Agave chrysoglossa | `https://succulentes.net/es/agavoides/agave/` | `/es/agavaceae/agave/` | 1 |
 

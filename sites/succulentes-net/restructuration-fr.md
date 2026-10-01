@@ -182,12 +182,17 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   Erreur ES 23445 Nolina : Nolina recurvata (= Beaucarnea recurvata) traitée comme une Nolina.
 - 01/10/2026 : inscription ES testée par le propriétaire : liste Brevo succulentes-ES OK, e-mail de confirmation et page /es/gracias/ OK.
 - 01/10/2026 : racines ES reprises (lot B) : 23481 apocynaceae-2, 23885 malvaceae, 23883 moringaceae, 23880 pedaliaceae, 23878 vitaceae ;
-  traductions FR liées ; erreurs corrigées. À voir : slug apocynaceae-2 → apocynaceae (avec 301) ; FR : Hibiscus cannabinus présenté comme
+  traductions FR liées ; erreurs corrigées. ~~À voir : slug apocynaceae-2 → apocynaceae (avec 301)~~ fait : /es/familia-apocynaceae/ ; FR : Hibiscus cannabinus présenté comme
   « chanvre de Manille » (c'est le kénaf), Vitaceae « 14 genres » ; ES Uncarina/Pachypodium/Adansonia à revérifier ; traductions IT/EN manquantes.
 - Snippet 11 : repli H3 / pages courtes / exclusion noindex. Pont MCP 1.2.9 (save_snippet réactive un extrait actif).
 - 01/10/2026 : page famille Cactaceae réécrite et publiée en FR (23780) et ES (23761) ; 63 liens internes vérifiés.
 - 01/10/2026 : racines ES reprises (lot A) : 23482 orden-cycadales, 23478 asphodelaceae (liée à /aloides/), 23486 crassulaceae-2 (rédigée),
   23480 euphorbiaceae-2, 23483 didieraceae-2 ; traductions liées. Fiche ES Nolina 23445 corrigée (Beaucarnea recurvata, effectifs, aire).
-  À décider : slugs ES crassulaceae-2 / euphorbiaceae-2 / didieraceae-2 / apocynaceae-2 → familia-<x> (avec 301, enfants inclus).
+  ~~À décider : slugs ES crassulaceae-2 / euphorbiaceae-2 / didieraceae-2 / apocynaceae-2 → familia-<x> (avec 301, enfants inclus).~~ Fait le 01/10/2026 (voir plus bas).
   À corriger : intro ES Nolina sans lien vers la page mère ; ES Aloe « Aloáceas » ; fiches Haworthia attenuata / limifolia → Haworthiopsis ;
   ES Echeveria « más de 180 especies » vs ~150.
+- 01/10/2026 : slugs ES renommés (validé par le propriétaire), sur le modèle /es/familia-cactaceae/ :
+  23486 /es/crassulaceae-2/ → /es/familia-crassulaceae/ (11 enfants), 23480 /es/euphorbiaceae-2/ → /es/familia-euphorbiaceae/ (6),
+  23483 /es/didieraceae-2/ → /es/familia-didiereaceae/ (orthographe corrigée, 6), 23481 /es/apocynaceae-2/ → /es/familia-apocynaceae/ (5).
+  301 exacte + règle dossier /* pour chacune ; 53 liens internes réécrits ; contrôles 200 + canoniques OK.
+  À revoir : texte ES 23483 (« la forma Didieraceae, que se encuentra […] en la dirección de esta página ») devenu faux.
