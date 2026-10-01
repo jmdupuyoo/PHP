@@ -175,3 +175,8 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
   Pistes : guide PDF « succulentes rustiques testées au Jardin zoologique tropical » ; calendrier de culture ; aimants ciblés par genre
   (texte variable dans le snippet 11) ; ou premier cours e-learning de botanique offert (mini-cours par e-mails Brevo).
 - 01/10/2026 : blocs Newsletter du pied de page retirés (custom_html-5/6/7/8, FR/EN/IT/ES) à la demande du propriétaire ; conservés dans les widgets inactifs.
+- 01/10/2026 : racine ES « Agavaceae » 23477 réécrite (intro, note nom obsolète, index des 6 genres ES avec liens, erreurs corrigées, SEO),
+  reliée au groupe de traductions FR 13857 / EN 15186 / IT 12706 (IT 12706 relié aussi). Coquille « e terme » corrigée sur FR 13857.
+  Racines ES à reprendre (même problème) : 23482 orden-cycadales, 23478 asphodelaceae, 23486 crassulaceae-2 (vide), 23480 euphorbiaceae-2,
+  23483 didieraceae-2, 23481 apocynaceae-2 (contenu en double), malvaceae, moringaceae, pedaliaceae, vitaceae.
+  Erreur ES 23445 Nolina : Nolina recurvata (= Beaucarnea recurvata) traitée comme une Nolina.
