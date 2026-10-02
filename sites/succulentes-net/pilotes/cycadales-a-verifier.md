@@ -44,6 +44,28 @@ Messages du forum des Fous de palmiers envoyés depuis La Londe-les-Maures (comp
 
 Si ces plantes sont celles du Jardin zoologique tropical, une observation datée (espèce, pleine terre ou pot, minimum relevé, résultat) permettrait de l'ajouter à la page sous la forme « au Jardin zoologique tropical de La Londe-les-Maures ».
 
+### Encephalartos — fiches espèce *hirsutus*, *humilis*, *laevifolius*, *lanatus*, *latifrons* (02/10/2026) — non repris dans les fiches
+
+Recherche des messages du compte JMDUPUYOO (profil « La Londe (83) ») sur le forum des Fous de palmiers, mots-clés hirsutus, humilis, laevifolius, lanatus, latifrons. Aucun retour de culture daté avec résultat ; rien n'a été mis dans les fiches.
+
+- *E. lanatus* — 7 octobre 2011 : demande de conseils pour des plantules ; 8 octobre 2011 : projet de faire venir « 3 caudex de 1/2 cm de diamètre », question sur la chaleur estivale ; 9 octobre et 8 novembre 2011 : questions (Aliette, protection des cycadales en Afrique du Sud). https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=10304#p147374 (#p147511, #p147573, #p151357, #p152684)
+- *E. lanatus* — 20 mai 2012 : « Je viens de recevoir de chez Peter 4 plantes : un lehmanni, un lanatus et deux friderici » ; « Je vais garder le lanatus en pot au moins une année ou deux », projet de rocaille couverte en hiver. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=5225#p187537 (#p187551)
+- *E. lanatus* — 24 juin 2012 : « Je suis en train de réaménager un abri à succulentes (sans pluies l'hiver). Je vais y placer le E. lanatus. » https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=12341#p195132
+- *E. humilis*, *E. laevifolius*, *E. lanatus* — 21 novembre 2008 : liste d'espèces rustiques « d'après la biblio (Grow Cycads - J. Donaldson et J. Winter) » ; pas un retour. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=3946&start=15#p42963
+- *E. laevifolius* — 26 juillet 2016 : « So beautiful! » (commentaire de photo). https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=19974#p410087
+- *E. latifrons* — 7 juin 2013 : « Magnifique. Vraiment un look préhistorique! » (commentaire de photos in situ). https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=15656#p268761
+- *E. hirsutus* : aucun message.
+
+Si l'*E. lanatus* reçu en mai 2012 est une plante du Jardin zoologique tropical, une observation datée (toujours en vie ? pot ou pleine terre, abri, minimum relevé, croissance) permettrait d'ajouter une phrase « au Jardin zoologique tropical de La Londe-les-Maures » dans la fiche *Encephalartos lanatus*.
+
+### Encephalartos — fiches espèce aemulans, aplanatus, arenarius, barteri, brevifoliolatus, bubalinus (02/10/2026) — non repris
+
+Recherche des six épithètes sur le forum des Fous de palmiers : un seul message du compte JMDUPUYOO (profil « La Londe (83) »), qui n'est pas un retour de culture.
+
+- 21 novembre 2008 : liste d'espèces « rustiques » d'après *Grow Cycads* (J. Donaldson et J. Winter), dont *E. brevifoliolatus* ; « les expériences sur les *Encephalartos* en pleine terre en France sont peu nombreuses ». https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=3946&start=15#p42963 (déjà cité plus haut pour *Zamia*).
+
+Rien n'a été mis dans les fiches. Si le JZT cultive l'une de ces six espèces, une observation datée (pot ou pleine terre, minimum relevé, résultat) serait la bienvenue.
+
 ### Lepidozamia et Bowenia (fiches espèce, 02/10/2026) — non repris dans les fiches
 
 Recherche des messages du compte JMDUPUYOO (profil « La Londe (83) ») sur le forum des Fous de palmiers : aucun message sur *Bowenia* (ni « Tinaroo »), ni sur *Lepidozamia hopei*. Trois messages concernent *Lepidozamia peroffskyana* ; aucun n'est un retour de culture, ils ne sont donc ni dans `espece-lepidozamia-peroffskyana-fr.html` ni dans `espece-lepidozamia-hopei-fr.html`.
@@ -53,6 +75,21 @@ Recherche des messages du compte JMDUPUYOO (profil « La Londe (83) ») sur le f
 - 31 mars 2012 : question (« Penses-tu qu'il soit possible de le cultiver en plein soleil avec une bonne irrigation en été ? ») après un conseil d'associer *Lepidozamia* au *Dioon* pour les exigences de chaleur. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=11385#p178451
 
 **Réponse du propriétaire (02/10/2026)** : le Jardin zoologique tropical ne cultive plus de *Lepidozamia*. Rien n'est ajouté aux fiches *Lepidozamia* ; aucune fiche ne doit dire que le JZT en cultive. (Ancienne remarque : si ces semis sont ceux du Jardin zoologique tropical, une observation datée (germination, plantes encore en place, pot ou pleine terre, exposition, comportement en février 2012 ou lors d'un hiver ultérieur) permettrait d'ajouter une phrase « au Jardin zoologique tropical de La Londe-les-Maures » dans la fiche *Lepidozamia peroffskyana*. Pour *Bowenia*, seule l'observation validée « cultivés en pot au JZT » a été intégrée aux deux fiches.
+
+### Encephalartos dyerianus, equatorialis, eugene-maraisii, ghellinckii, heenanii (fiches espèce, 02/10/2026) — non repris dans les fiches
+
+Vérification des auteurs des 153 messages trouvés sur le forum des Fous de palmiers pour ces cinq espèces : un seul vient du profil « La Londe (83) ». Ce n'est pas un retour de culture ; il n'est pas dans `espece-encephalartos-ghellinckii-fr.html`.
+
+- 21 novembre 2008 : liste d'*Encephalartos* « rustiques » d'après *Grow Cycads* (Donaldson et Winter), dont *E. ghellinckii* ; « les expériences sur les Encephalartos en pleine terre en France sont peu nombreuses ». https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=3946&start=15#p42963 (même message que celui cité plus haut pour *Zamia*).
+
+### Encephalartos cerinus, chimanimaniensis, concinnus, cupidus, cycadifolius, dolomiticus (fiches espèce, 02/10/2026) — non repris dans les fiches
+
+Recherche phpBB sur les six épithètes (forum des Fous de palmiers). Deux messages du compte JMDUPUYOO (profil « La Londe (83) ») apparaissent ; ce sont des questions, sans retour de culture. Ils ne sont dans aucune des six fiches.
+
+- 25 mai 2012, fil « Encephalartos cycadifolius » : « Alors ce E. cycadifolius ? » (question au cultivateur du Roussillon, qui répond que la plante a pourri après un arrosage estival). https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=4407#p188859
+- 16 novembre 2011, fil « Encephalartos lanatus » : « On se tient au courant alors. » (réponse dans une discussion où *E. dolomiticus* est cité à propos d'un collectionneur sud-africain). https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=10304#p152684
+
+Aucune observation du Jardin zoologique tropical n'est connue pour ces six espèces.
 
 ## Image 1497 (Macrozamia)
 
