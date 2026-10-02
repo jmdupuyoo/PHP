@@ -4,14 +4,14 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 
 | Genre | Espèce | Source existante | UICN (WLoC) | Statut |
 |---|---|---|---|---|
-| Bowenia | *Bowenia serrulata* | EN | Least Concern | brouillon prêt |
-| Bowenia | *Bowenia spectabilis* | EN | Least Concern | brouillon prêt |
-| Cycas | *Cycas dolichophylla* | EN | Near Threatened | brouillon prêt |
-| Cycas | *Cycas elephantipes* | EN | Endangered | brouillon prêt |
-| Cycas | *Cycas elongata* | EN | Endangered | brouillon prêt |
-| Cycas | *Cycas lindstromii* | EN | Endangered | brouillon prêt |
-| Cycas | *Cycas micronesica* | EN | Endangered | brouillon prêt |
-| Cycas | *Cycas pectinata* | EN | Vulnerable | brouillon prêt |
+| Bowenia | *Bowenia serrulata* | EN | Least Concern | publiée (26126) |
+| Bowenia | *Bowenia spectabilis* | EN | Least Concern | publiée (26130) |
+| Cycas | *Cycas dolichophylla* | EN | Near Threatened | publiée (26146) |
+| Cycas | *Cycas elephantipes* | EN | Endangered | publiée (26150) |
+| Cycas | *Cycas elongata* | EN | Endangered | publiée (26154) |
+| Cycas | *Cycas lindstromii* | EN | Endangered | publiée (26158) |
+| Cycas | *Cycas micronesica* | EN | Endangered | publiée (26163) |
+| Cycas | *Cycas pectinata* | EN | Vulnerable | publiée (26165) |
 | Dioon | *Dioon argenteum* | EN | Vulnerable | publiée (26124) |
 | Dioon | *Dioon caputoi* | EN | Endangered | publiée (26128) |
 | Dioon | *Dioon oaxacensis* | EN | Not Evaluated | publiée (26133) |
@@ -54,8 +54,8 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Encephalartos | *Encephalartos septentrionalis* | EN | Least Concern | à faire |
 | Encephalartos | *Encephalartos tegulaneus* | EN | Least Concern | à faire |
 | Encephalartos | *Encephalartos turneri* | EN | Least Concern | à faire |
-| Lepidozamia | *Lepidozamia hopei* | EN | Least Concern | brouillon prêt |
-| Lepidozamia | *Lepidozamia peroffskyana* | EN | Least Concern | brouillon prêt |
+| Lepidozamia | *Lepidozamia hopei* | EN | Least Concern | publiée (26135) |
+| Lepidozamia | *Lepidozamia peroffskyana* | EN | Least Concern | publiée (26141) |
 | Macrozamia | *Macrozamia concinna* | EN | Least Concern | à faire |
 | Macrozamia | *Macrozamia diplomera* | EN | Least Concern | à faire |
 | Macrozamia | *Macrozamia dyeri* | EN | Least Concern | à faire |

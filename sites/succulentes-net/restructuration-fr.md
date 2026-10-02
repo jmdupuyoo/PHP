@@ -235,3 +235,13 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 02/10/2026 : fiche Dioon stevensonii FR publiée (26152) : https://succulentes.net/cycadales/dioon/stevensonii/
 - 02/10/2026 : fiche Dioon tomasellii FR publiée (26156) : https://succulentes.net/cycadales/dioon/tomasellii/
 - 02/10/2026 : fiche Dioon vovidesii FR publiée (26160) : https://succulentes.net/cycadales/dioon/vovidesii/
+- 02/10/2026 : fiche Bowenia serrulata FR publiée (26126) : https://succulentes.net/cycadales/bowenia/serrulata/
+- 02/10/2026 : fiche Bowenia spectabilis FR publiée (26130) : https://succulentes.net/cycadales/bowenia/spectabilis/
+- 02/10/2026 : fiche Lepidozamia hopei FR publiée (26135) : https://succulentes.net/cycadales/lepidozamia/hopei/
+- 02/10/2026 : fiche Lepidozamia peroffskyana FR publiée (26141) : https://succulentes.net/cycadales/lepidozamia/peroffskyana/
+- 02/10/2026 : fiche Cycas dolichophylla FR publiée (26146) : https://succulentes.net/cycadales/cycas/dolichophylla/
+- 02/10/2026 : fiche Cycas elephantipes FR publiée (26150) : https://succulentes.net/cycadales/cycas/elephantipes/
+- 02/10/2026 : fiche Cycas elongata FR publiée (26154) : https://succulentes.net/cycadales/cycas/elongata/
+- 02/10/2026 : fiche Cycas lindstromii FR publiée (26158) : https://succulentes.net/cycadales/cycas/lindstromii/
+- 02/10/2026 : fiche Cycas micronesica FR publiée (26163) : https://succulentes.net/cycadales/cycas/micronesica/
+- 02/10/2026 : fiche Cycas pectinata FR publiée (26165) : https://succulentes.net/cycadales/cycas/pectinata/
