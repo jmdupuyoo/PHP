@@ -57,3 +57,9 @@
 3. Bloqués : JSTOR, POWO, UICN, PlantZAfrica, PalmTalk ; sources asiatiques sans résultat.
 4. France : aucune donnée, toutes zones.
 5. Encadré : rusticité « aucune observation datée » ; exposition en culture « non documenté ».
+
+
+## Publication (02/10/2026)
+- Page publiée : id 26209, https://succulentes.net/cycadales/encephalartos/dolomiticus/ (200), parent 14229, traduction EN liée, SEO appliqué.
+- Liens internes ajoutés avant publication (1re occurrence, pages FR publiées, 200 vérifié) : hirsutus, eugene-maraisii, nubimontanus, dyerianus, horridus.
+- Lien posé dans l'index des espèces de la page genre 14229.

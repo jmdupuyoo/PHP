@@ -61,3 +61,7 @@
 3. Sources bloquées : POWO, UICN, PalmTalk, PlantZAfrica (sans objet), Dave's Garden ; sources asiatiques sans résultat.
 4. France : aucune donnée.
 5. Encadré : rusticité « aucune valeur mesurée ».
+
+## Publication (02/10/2026)
+- Page 26227 publiée : https://succulentes.net/cycadales/encephalartos/bubalinus/ (200, sans redirection), parent 14229, traduction liée à 16877, SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 14229.
+- Liens internes ajoutés avant publication (pages FR publiées, 200) : Encephalartos tegulaneus, Encephalartos manikensis, Encephalartos horridus.

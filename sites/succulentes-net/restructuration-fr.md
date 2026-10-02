@@ -263,3 +263,17 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 02/10/2026 : fiche Encephalartos ngoyanus FR publiée (26196) : https://succulentes.net/cycadales/encephalartos/ngoyanus/
 - 02/10/2026 : fiche Encephalartos concinnus FR publiée (26197) : https://succulentes.net/cycadales/encephalartos/concinnus/
 - 02/10/2026 : fiche Encephalartos heenanii FR publiée (26198) : https://succulentes.net/cycadales/encephalartos/heenanii/
+- 02/10/2026 : fiche Encephalartos aemulans FR publiée (26207) : https://succulentes.net/cycadales/encephalartos/aemulans/
+- 02/10/2026 : fiche Encephalartos aplanatus FR publiée (26211) : https://succulentes.net/cycadales/encephalartos/aplanatus/
+- 02/10/2026 : fiche Encephalartos arenarius FR publiée (26215) : https://succulentes.net/cycadales/encephalartos/arenarius/
+- 02/10/2026 : fiche Encephalartos barteri FR publiée (26219) : https://succulentes.net/cycadales/encephalartos/barteri/
+- 02/10/2026 : fiche Encephalartos brevifoliolatus FR publiée (26223) : https://succulentes.net/cycadales/encephalartos/brevifoliolatus/
+- 02/10/2026 : fiche Encephalartos bubalinus FR publiée (26227) : https://succulentes.net/cycadales/encephalartos/bubalinus/
+- 02/10/2026 : fiche Encephalartos cupidus FR publiée (26230) : https://succulentes.net/cycadales/encephalartos/cupidus/
+- 02/10/2026 : fiche Encephalartos cycadifolius FR publiée (26205) : https://succulentes.net/cycadales/encephalartos/cycadifolius/
+- 02/10/2026 : fiche Encephalartos dolomiticus FR publiée (26209) : https://succulentes.net/cycadales/encephalartos/dolomiticus/
+- 02/10/2026 : fiche Encephalartos humilis FR publiée (26213) : https://succulentes.net/cycadales/encephalartos/humilis/
+- 02/10/2026 : fiche Encephalartos laevifolius FR publiée (26217) : https://succulentes.net/cycadales/encephalartos/laevifolius/
+- 02/10/2026 : fiche Encephalartos lanatus FR publiée (26221) : https://succulentes.net/cycadales/encephalartos/lanatus/
+- 02/10/2026 : fiche Encephalartos latifrons FR publiée (26225) : https://succulentes.net/cycadales/encephalartos/latifrons/
+- 02/10/2026 : fiche Encephalartos macrostrobilus FR publiée (26229) : https://succulentes.net/cycadales/encephalartos/macrostrobilus/

@@ -22,29 +22,29 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Dioon | *Dioon stevensonii* | EN | Endangered | publiée (26152) |
 | Dioon | *Dioon tomasellii* | EN | Vulnerable | publiée (26156) |
 | Dioon | *Dioon vovidesii* | EN | Not Evaluated | publiée (26160) |
-| Encephalartos | *Encephalartos aemulans* | EN | Critically Endangered | à faire |
-| Encephalartos | *Encephalartos aplanatus* | EN | Vulnerable | à faire |
-| Encephalartos | *Encephalartos arenarius* | EN | Endangered | à faire |
-| Encephalartos | *Encephalartos barteri* | EN | Vulnerable | à faire |
-| Encephalartos | *Encephalartos brevifoliolatus* | EN | Extinct in the Wild | à faire |
-| Encephalartos | *Encephalartos bubalinus* | EN | Vulnerable | à faire |
+| Encephalartos | *Encephalartos aemulans* | EN | Critically Endangered | publiée (26207) |
+| Encephalartos | *Encephalartos aplanatus* | EN | Vulnerable | publiée (26211) |
+| Encephalartos | *Encephalartos arenarius* | EN | Endangered | publiée (26215) |
+| Encephalartos | *Encephalartos barteri* | EN | Vulnerable | publiée (26219) |
+| Encephalartos | *Encephalartos brevifoliolatus* | EN | Extinct in the Wild | publiée (26223) |
+| Encephalartos | *Encephalartos bubalinus* | EN | Vulnerable | publiée (26227) |
 | Encephalartos | *Encephalartos cerinus* | EN | Critically Endangered | publiée (26181) |
 | Encephalartos | *Encephalartos chimanimaniensis* | EN | Endangered | publiée (26190) |
 | Encephalartos | *Encephalartos concinnus* | EN | Critically Endangered | publiée (26197) |
-| Encephalartos | *Encephalartos cupidus* | EN | Critically Endangered | à faire |
-| Encephalartos | *Encephalartos cycadifolius* | EN | Least Concern | à faire |
-| Encephalartos | *Encephalartos dolomiticus* | EN | Critically Endangered | à faire |
+| Encephalartos | *Encephalartos cupidus* | EN | Critically Endangered | publiée (26230) |
+| Encephalartos | *Encephalartos cycadifolius* | EN | Least Concern | publiée (26205) |
+| Encephalartos | *Encephalartos dolomiticus* | EN | Critically Endangered | publiée (26209) |
 | Encephalartos | *Encephalartos dyerianus* | EN | Critically Endangered | publiée (26170) |
 | Encephalartos | *Encephalartos equatorialis* | EN | Critically Endangered | publiée (26176) |
 | Encephalartos | *Encephalartos eugene-maraisii* | EN | Endangered | publiée (26184) |
 | Encephalartos | *Encephalartos ghellinckii* | EN | Vulnerable | publiée (26192) |
 | Encephalartos | *Encephalartos heenanii* | EN | Extinct in the Wild | publiée (26198) |
 | Encephalartos | *Encephalartos hirsutus* | EN | Critically Endangered | publiée (26194) |
-| Encephalartos | *Encephalartos humilis* | EN | Vulnerable | à faire |
-| Encephalartos | *Encephalartos laevifolius* | EN | Critically Endangered | à faire |
-| Encephalartos | *Encephalartos lanatus* | EN | Vulnerable | à faire |
-| Encephalartos | *Encephalartos latifrons* | EN | Critically Endangered | à faire |
-| Encephalartos | *Encephalartos macrostrobilus* | EN | Critically Endangered | à faire |
+| Encephalartos | *Encephalartos humilis* | EN | Vulnerable | publiée (26213) |
+| Encephalartos | *Encephalartos laevifolius* | EN | Critically Endangered | publiée (26217) |
+| Encephalartos | *Encephalartos lanatus* | EN | Vulnerable | publiée (26221) |
+| Encephalartos | *Encephalartos latifrons* | EN | Critically Endangered | publiée (26225) |
+| Encephalartos | *Encephalartos macrostrobilus* | EN | Critically Endangered | publiée (26229) |
 | Encephalartos | *Encephalartos manikensis* | EN | Vulnerable | publiée (26178) |
 | Encephalartos | *Encephalartos ngoyanus* | EN | Vulnerable | publiée (26196) |
 | Encephalartos | *Encephalartos nubimontanus* | EN | Extinct in the Wild | publiée (26171) |

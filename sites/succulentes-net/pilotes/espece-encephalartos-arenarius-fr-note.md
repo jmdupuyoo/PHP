@@ -75,3 +75,6 @@
 3. Sources bloquées : POWO, UICN, PalmTalk, PlantZAfrica, Dave's Garden ; sources japonaises (recherche « アレナリウス 耐寒性 » : uniquement des annonces de vente), thaïlandaises (Nong Nooch, utilisée).
 4. France : aucun retour chiffré ; zones littoral méditerranéen continental, Atlantique, intérieur, montagne sans donnée ; seule la Corse-du-Sud (sans gel).
 5. Encadré : rusticité réduite à « aucun gel dans l'habitat ».
+
+## Publication (02/10/2026)
+- Page 26215 publiée : https://succulentes.net/cycadales/encephalartos/arenarius/ (200, sans redirection), parent 14229, traduction liée à 16779, SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 14229.

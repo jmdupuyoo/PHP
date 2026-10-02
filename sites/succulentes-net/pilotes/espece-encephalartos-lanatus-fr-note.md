@@ -63,3 +63,9 @@
 3. Sources bloquées : POWO, UICN, PlantZAfrica, Dave's Garden, PalmTalk, mdpi.com (curl 403, PDF trouvé ailleurs) ; sources asiatiques sans résultat.
 4. France : aucun essai en pleine terre ; zones sans donnée : toutes.
 5. Encadré : rusticité limitée aux données d'habitat.
+
+
+## Publication (02/10/2026)
+- Page publiée : id 26221, https://succulentes.net/cycadales/encephalartos/lanatus/ (200), parent 14229, traduction EN liée, SEO appliqué.
+- Liens internes ajoutés avant publication (1re occurrence, pages FR publiées, 200 vérifié) : ghellinckii, horridus, humilis, laevifolius.
+- Lien posé dans l'index des espèces de la page genre 14229.

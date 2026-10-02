@@ -62,3 +62,7 @@
 3. Sources bloquées : POWO, UICN, PalmTalk, PlantZAfrica ; sources asiatiques cherchées sans résultat.
 4. France : aucune donnée, pour aucune zone.
 5. Encadré : rusticité « aucune donnée » ; aucun nom commun.
+
+## Publication (02/10/2026)
+- Page 26211 publiée : https://succulentes.net/cycadales/encephalartos/aplanatus/ (200, sans redirection), parent 14229, traduction liée à 17050, SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 14229.
+- Liens internes ajoutés avant publication (pages FR publiées, 200) : Encephalartos horridus.

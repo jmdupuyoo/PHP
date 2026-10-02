@@ -67,3 +67,7 @@
 3. Sources bloquées : POWO, UICN, PalmTalk, PlantZAfrica, Dave's Garden ; sources thaïlandaises, japonaises et chinoises cherchées, sans résultat propre à l'espèce.
 4. France : aucune donnée de culture en place, pour aucune zone ; aucun épisode hivernal.
 5. Encadré : rusticité réduite à l'habitat et à un retour B ; aucun nom français.
+
+## Publication (02/10/2026)
+- Page 26207 publiée : https://succulentes.net/cycadales/encephalartos/aemulans/ (200, sans redirection), parent 14229, traduction liée à 17076, SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 14229.
+- Liens internes ajoutés avant publication (pages FR publiées, 200) : Encephalartos horridus.

@@ -59,3 +59,9 @@
 3. Sources bloquées : POWO, UICN, PlantZAfrica, PalmTalk ; sources asiatiques sans résultat.
 4. France : aucune donnée, aucune zone.
 5. Encadré : rusticité non documentée.
+
+
+## Publication (02/10/2026)
+- Page publiée : id 26213, https://succulentes.net/cycadales/encephalartos/humilis/ (200), parent 14229, traduction EN liée, SEO appliqué.
+- Liens internes ajoutés avant publication (1re occurrence, pages FR publiées, 200 vérifié) : horridus, laevifolius, lanatus.
+- Lien posé dans l'index des espèces de la page genre 14229.

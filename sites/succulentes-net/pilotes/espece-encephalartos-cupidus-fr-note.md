@@ -53,3 +53,7 @@
 3. Bloqués : POWO, UICN, PlantZAfrica, PalmTalk ; sources asiatiques sans résultat.
 4. France : aucune donnée de froid, toutes zones.
 5. Encadré : rusticité « aucune observation datée ».
+
+## Publication (02/10/2026)
+- Page 26230 publiée : https://succulentes.net/cycadales/encephalartos/cupidus/ (200, sans redirection), parent 14229, traduction liée à 16744, SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 14229.
+- Liens internes ajoutés avant publication (pages FR publiées, 200) : Encephalartos dyerianus, Encephalartos horridus.

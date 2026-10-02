@@ -44,3 +44,10 @@
 1. **Population d’Agoro-Agu (Lamwo)** : attribuée à l’espèce par Ojelel (2016-2017), mais absente de la fiche Kew de 2024 (co-écrite par le même chercheur), qui donne Era-Lama comme seul site. Présentée à part, sans trancher.
 2. Évaluation UICN 2024 (Bösenberg) : citée par Kew, non lue ; WLoC donne encore 2010.
 3. Description originale (Jones & Wynants 1997) introuvable en ligne : à fournir si le propriétaire l’a.
+
+
+## Publication (02/10/2026)
+- Page publiée : id 26229, https://succulentes.net/cycadales/encephalartos/macrostrobilus/ (200), parent 14229, traduction EN liée, SEO appliqué.
+- Liens internes ajoutés avant publication (1re occurrence, pages FR publiées, 200 vérifié) : septentrionalis, whitelockii, horridus.
+- Lien posé dans l'index des espèces de la page genre 14229.
+- Corrections avant publication : retrait des 4 mentions de « la version anglaise de cette fiche » (méta-commentaires), phrase d'ouverture ajoutée à la section Rusticité, `&` encodé.

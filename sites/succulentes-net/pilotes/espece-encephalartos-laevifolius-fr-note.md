@@ -72,3 +72,9 @@ Source A = « Artificially propagated plants », D = « Captive-bred/artificiall
 3. Sources bloquées : POWO, UICN, PlantZAfrica, redlist.sanbi.org, PalmTalk, Dave's Garden ; sources asiatiques sans résultat.
 4. France : aucune donnée pour aucune zone.
 5. Encadré : rusticité sans valeur chiffrée.
+
+
+## Publication (02/10/2026)
+- Page publiée : id 26217, https://succulentes.net/cycadales/encephalartos/laevifolius/ (200), parent 14229, traduction EN liée, SEO appliqué.
+- Liens internes ajoutés avant publication (1re occurrence, pages FR publiées, 200 vérifié) : horridus, humilis, lanatus.
+- Lien posé dans l'index des espèces de la page genre 14229.

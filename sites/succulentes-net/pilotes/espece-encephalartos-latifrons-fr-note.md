@@ -64,3 +64,10 @@
 3. Sources bloquées : POWO, UICN, PlantZAfrica, redlist.sanbi.org, BHL (403, protologue non lu), PalmTalk ; sources asiatiques sans résultat.
 4. France : aucune donnée, aucune zone.
 5. Encadré : rusticité limitée aux données d'habitat.
+
+
+## Publication (02/10/2026)
+- Page publiée : id 26225, https://succulentes.net/cycadales/encephalartos/latifrons/ (200), parent 14229, traduction EN liée, SEO appliqué.
+- Liens internes ajoutés avant publication (1re occurrence, pages FR publiées, 200 vérifié) : aucun.
+- Lien posé dans l'index des espèces de la page genre 14229.
+- Redirection 301 /cycadales/encephalartos/latifrons/ → genre supprimée après création ; l'URL répond 200 sans redirection. La liaison de traduction avec 17086 a été acceptée.

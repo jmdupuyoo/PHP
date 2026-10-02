@@ -64,3 +64,9 @@
 3. Bloqués : BHL, POWO, UICN, PlantZAfrica, biodiversityadvisor.sanbi.org ; PalmTalk (extraits sans donnée).
 4. France : seul le littoral méditerranéen (Roussillon) ; rien pour l'Atlantique, la Bretagne, l'intérieur, la montagne.
 5. Encadré : « Port et dimensions » partiellement non vérifié (signalé).
+
+
+## Publication (02/10/2026)
+- Page publiée : id 26205, https://succulentes.net/cycadales/encephalartos/cycadifolius/ (200), parent 14229, traduction EN liée, SEO appliqué.
+- Liens internes ajoutés avant publication (1re occurrence, pages FR publiées, 200 vérifié) : ghellinckii, longifolius, lehmannii, laevifolius, lanatus.
+- Lien posé dans l'index des espèces de la page genre 14229.
