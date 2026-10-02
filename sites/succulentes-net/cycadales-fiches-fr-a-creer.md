@@ -17,11 +17,11 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Dioon | *Dioon oaxacensis* | EN | Not Evaluated | brouillon en cours |
 | Dioon | *Dioon planifolium* | EN | Vulnerable | brouillon en cours |
 | Dioon | *Dioon purpusii* | EN | Endangered | brouillon en cours |
-| Dioon | *Dioon rzedowskii* | EN | Endangered | brouillon en cours |
-| Dioon | *Dioon salas-moralesiae* | EN | Not Evaluated | brouillon en cours |
-| Dioon | *Dioon stevensonii* | EN | Endangered | brouillon en cours |
-| Dioon | *Dioon tomasellii* | EN | Vulnerable | brouillon en cours |
-| Dioon | *Dioon vovidesii* | EN | Not Evaluated | brouillon en cours |
+| Dioon | *Dioon rzedowskii* | EN | Endangered | brouillon prêt |
+| Dioon | *Dioon salas-moralesiae* | EN | Not Evaluated | brouillon prêt |
+| Dioon | *Dioon stevensonii* | EN | Endangered | brouillon prêt |
+| Dioon | *Dioon tomasellii* | EN | Vulnerable | brouillon prêt |
+| Dioon | *Dioon vovidesii* | EN | Not Evaluated | brouillon prêt |
 | Encephalartos | *Encephalartos aemulans* | EN | Critically Endangered | à faire |
 | Encephalartos | *Encephalartos aplanatus* | EN | Vulnerable | à faire |
 | Encephalartos | *Encephalartos arenarius* | EN | Endangered | à faire |
