@@ -41,7 +41,7 @@
 - Messages de La Londe-les-Maures : aucun message concernant cette espèce (rien ajouté à `cycadales-a-verifier.md`).
 
 ## Liens internes (contrôlés avec curl et fetch_site_url : 200, sans redirection)
-- Corps : *Macrozamia miquelii* (Comment reconnaître ; non lié dans l'introduction), *mountperriensis* (Confusions). *longispina*, *douglasii*, *cardiacensis*, *macleayi* : pas de page FR.
+- Corps : *Macrozamia miquelii* (Comment reconnaître ; non lié dans l'introduction), *mountperriensis*, *longispina*, *douglasii* (Confusions), *cardiacensis*, *macleayi* (Taxonomie). Les quatre derniers liens ajoutés après publication (pages publiées en parallèle par d'autres agents).
 - À lire aussi : cycas-toxique-danger-chien-chat-enfant, les-cycadales-produisent-elles-des-fleurs-ou-des-cones-males-femelles-et-reproduction, les-racines-coralloides-chez-les-cycadales-role-fonctions-et-implications-en-culture (200).
 - Les noms de l'encadré « L'essentiel » ne sont pas liés (modèle des fiches sœurs). Les genres d'autres familles (*Callitris*, *Grevillea*, *Livistona*…) ne sont pas liés, comme dans les fiches sœurs.
 - Liens externes : aucun `<a>` externe (URL en texte dans Sites de référence, DOI en texte dans la Bibliographie). URL de Sites de référence vérifiées par curl pendant la collecte (sauf speciesplus.net/species#…, page JavaScript ; l'API a été lue).
@@ -56,3 +56,10 @@
 3. Bloqués : POWO, UICN, PalmTalk, APNI.
 4. France : aucune culture ni épisode documenté, toutes zones.
 5. Encadré : « Rusticité documentée : aucune donnée ».
+
+## Publication (02/10/2026)
+- Page 26331 publiée : https://succulentes.net/cycadales/macrozamia/serpentina/ (200, sans redirection, vérifiée avec curl et fetch_site_url), parent 1453, langue fr, sans translation_of (aucune traduction : l'espèce n'a de fiche dans aucune langue).
+- Vérifié avant création : aucune page FR existante (list_content, recherche sur l'épithète) ; aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
+- SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
+- Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : tirets typographiques de WordPress et widgets du thème).
+- Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application, 6 liens en un appel pour les six fiches du lot).

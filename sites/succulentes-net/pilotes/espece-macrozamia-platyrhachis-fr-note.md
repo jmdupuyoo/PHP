@@ -1,7 +1,7 @@
 # Note de livraison — *Macrozamia platyrhachis* (FR) (02/10/2026)
 
-- Fichier : `pilotes/espece-macrozamia-platyrhachis-fr.html` (115 blocs Gutenberg ; blocs appariés, balises équilibrées, aucun `<em>` imbriqué, aucune image, aucun commentaire HTML hors délimiteurs, aucun `utm_`, aucun lien EN/IT/ES, vérifiés par script).
-- Longueur : environ 3026 mots hors Sites de référence et Bibliographie (3759 au total), découpage par espaces.
+- Fichier : `pilotes/espece-macrozamia-platyrhachis-fr.html` (116 blocs Gutenberg ; blocs appariés, balises équilibrées, aucun `<em>` imbriqué, aucune image, aucun commentaire HTML hors délimiteurs, aucun `utm_`, aucun lien EN/IT/ES, vérifiés par script).
+- Longueur : environ 3026 mots hors Sites de référence et Bibliographie (3814 au total), découpage par espaces.
 - Titre de page proposé : « Macrozamia platyrhachis » (aucun nom français attesté).
 - Slug : `platyrhachis`
 - Parent : 1453 (page genre FR *Macrozamia*, /cycadales/macrozamia/)
@@ -50,7 +50,7 @@
 - Messages de La Londe-les-Maures : aucun message concernant cette espèce (rien ajouté à `cycadales-a-verifier.md`).
 
 ## Liens internes (contrôlés avec curl et fetch_site_url : 200, sans redirection)
-- Corps : *Macrozamia fearnsidei*, *miquelii* (Confusions). *fawcettii*, *machinii*, *plurinervia* : pas de page FR au moment de la rédaction.
+- Corps : *Macrozamia fearnsidei*, *fawcettii*, *miquelii* (Confusions), *plurinervia* (Taxonomie), *machinii* (Dans la nature). Liens fawcettii et machinii ajoutés après publication (pages publiées en parallèle par d'autres agents).
 - À lire aussi : cycas-toxique-danger-chien-chat-enfant, les-cycadales-produisent-elles-des-fleurs-ou-des-cones-males-femelles-et-reproduction, les-racines-coralloides-chez-les-cycadales-role-fonctions-et-implications-en-culture (200).
 - Les noms de l'encadré « L'essentiel » ne sont pas liés (modèle des fiches sœurs). Les genres d'autres familles (*Callitris*, *Grevillea*, *Livistona*…) ne sont pas liés, comme dans les fiches sœurs.
 - Liens externes : aucun `<a>` externe (URL en texte dans Sites de référence, DOI en texte dans la Bibliographie). URL de Sites de référence vérifiées par curl pendant la collecte (sauf speciesplus.net/species#…, page JavaScript ; l'API a été lue).
@@ -66,3 +66,10 @@
 3. Bloqués : POWO, UICN, PalmTalk, APNI, agriculture.gov.au.
 4. France : aucune culture ni épisode documenté, toutes zones.
 5. Encadré : « Rusticité documentée : aucune donnée ».
+
+## Publication (02/10/2026)
+- Page 26337 publiée : https://succulentes.net/cycadales/macrozamia/platyrhachis/ (200, sans redirection, vérifiée avec curl et fetch_site_url), parent 1453, langue fr, sans translation_of (aucune traduction : l'espèce n'a de fiche dans aucune langue).
+- Vérifié avant création : aucune page FR existante (list_content, recherche sur l'épithète) ; aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
+- SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
+- Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : tirets typographiques de WordPress et widgets du thème).
+- Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application, 6 liens en un appel pour les six fiches du lot).

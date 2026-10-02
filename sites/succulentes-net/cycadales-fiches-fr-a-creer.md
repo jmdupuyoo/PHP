@@ -207,12 +207,12 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Macrozamia | *Macrozamia macleayi* | — | Least Concern | publiée (26297) |
 | Macrozamia | *Macrozamia occidua* | — | Vulnerable | publiée (26333) |
 | Macrozamia | *Macrozamia parcifolia* | — | Endangered | publiée (26340) |
-| Macrozamia | *Macrozamia platyrhachis* | — | Endangered | à faire |
-| Macrozamia | *Macrozamia plurinervia* | — | Endangered | à faire |
-| Macrozamia | *Macrozamia polymorpha* | — | Least Concern | à faire |
-| Macrozamia | *Macrozamia secunda* | — | Vulnerable | à faire |
-| Macrozamia | *Macrozamia serpentina* | — | Near Threatened | à faire |
-| Macrozamia | *Macrozamia viridis* | — | Endangered | à faire |
+| Macrozamia | *Macrozamia platyrhachis* | — | Endangered | publiée (26337) |
+| Macrozamia | *Macrozamia plurinervia* | — | Endangered | publiée (26309) |
+| Macrozamia | *Macrozamia polymorpha* | — | Least Concern | publiée (26301) |
+| Macrozamia | *Macrozamia secunda* | — | Vulnerable | publiée (26293) |
+| Macrozamia | *Macrozamia serpentina* | — | Near Threatened | publiée (26331) |
+| Macrozamia | *Macrozamia viridis* | — | Endangered | publiée (26318) |
 | Zamia | *Zamia acuminata* | — | Vulnerable | à faire |
 | Zamia | *Zamia cunaria* | — | Endangered | à faire |
 | Zamia | *Zamia disodon* | — | Endangered | à faire |

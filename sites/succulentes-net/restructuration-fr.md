@@ -310,3 +310,10 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 02/10/2026 : fiche Macrozamia machinii FR publiée (26327) : https://succulentes.net/cycadales/macrozamia/machinii/ (aucune traduction ; lien ajouté dans la page genre 1453)
 - 02/10/2026 : fiche Macrozamia occidua FR publiée (26333) : https://succulentes.net/cycadales/macrozamia/occidua/ (aucune traduction ; lien ajouté dans la page genre 1453)
 - 02/10/2026 : fiche Macrozamia parcifolia FR publiée (26340) : https://succulentes.net/cycadales/macrozamia/parcifolia/ (aucune traduction ; lien ajouté dans la page genre 1453)
+- 02/10/2026 : fiche Macrozamia secunda FR publiée (26293) : https://succulentes.net/cycadales/macrozamia/secunda/ (aucune traduction)
+- 02/10/2026 : fiche Macrozamia polymorpha FR publiée (26301) : https://succulentes.net/cycadales/macrozamia/polymorpha/ (aucune traduction)
+- 02/10/2026 : fiche Macrozamia plurinervia FR publiée (26309) : https://succulentes.net/cycadales/macrozamia/plurinervia/ (aucune traduction)
+- 02/10/2026 : fiche Macrozamia viridis FR publiée (26318) : https://succulentes.net/cycadales/macrozamia/viridis/ (aucune traduction)
+- 02/10/2026 : fiche Macrozamia serpentina FR publiée (26331) : https://succulentes.net/cycadales/macrozamia/serpentina/ (aucune traduction)
+- 02/10/2026 : fiche Macrozamia platyrhachis FR publiée (26337) : https://succulentes.net/cycadales/macrozamia/platyrhachis/ (aucune traduction)
+- 02/10/2026 : liens croisés ajoutés dans les fiches du lot secunda–platyrhachis : plurinervia → viridis, occidua, cranei, fawcettii, machinii, conferta, lomandroides ; viridis → plurinervia, fawcettii, cranei, occidua, machinii, conferta ; serpentina → longispina, douglasii, cardiacensis, macleayi ; platyrhachis → plurinervia, fawcettii, machinii. Liens vers les six fiches ajoutés dans l'index de la page genre 1453.

@@ -44,7 +44,7 @@
 - Messages de La Londe-les-Maures : aucun message concernant cette espèce (rien ajouté à `cycadales-a-verifier.md`).
 
 ## Liens internes (contrôlés avec curl et fetch_site_url : 200, sans redirection)
-- Corps : *Macrozamia heteromera*, *stenomera*, *pauli-guilielmi* (Hybrides), *flexuosa*, *concinna*, *fearnsidei* (Confusions). Pas de page FR pour *fawcettii*, *machinii*, *occidua*, *cranei*, *conferta*, *viridis* (au moment de la rédaction ; *viridis* publié en même temps, lien ajouté ensuite si possible).
+- Corps : *Macrozamia occidua*, *cranei* (Comment reconnaître), *heteromera*, *stenomera*, *pauli-guilielmi* (Hybrides), *fawcettii*, *flexuosa*, *concinna*, *fearnsidei*, *machinii*, *conferta*, *viridis* (Confusions), *lomandroides* (Taxonomie). Liens *viridis* et des espèces publiées en parallèle par d'autres agents (fawcettii, occidua, cranei, machinii, conferta, lomandroides) ajoutés après publication par replace_in_content (simulation puis application).
 - À lire aussi : cycas-toxique-danger-chien-chat-enfant, les-cycadales-produisent-elles-des-fleurs-ou-des-cones-males-femelles-et-reproduction, les-racines-coralloides-chez-les-cycadales-role-fonctions-et-implications-en-culture (200).
 - Les noms de l'encadré « L'essentiel » ne sont pas liés (modèle des fiches sœurs). Les genres d'autres familles (*Callitris*, *Grevillea*, *Livistona*…) ne sont pas liés, comme dans les fiches sœurs.
 - Liens externes : aucun `<a>` externe (URL en texte dans Sites de référence, DOI en texte dans la Bibliographie). URL de Sites de référence vérifiées par curl pendant la collecte (sauf speciesplus.net/species#…, page JavaScript ; l'API a été lue).
@@ -60,3 +60,10 @@
 3. Bloqués : POWO, UICN, PalmTalk, APNI, JSTOR.
 4. France : aucune culture ni épisode documenté, toutes zones.
 5. Encadré : tous les champs renseignés.
+
+## Publication (02/10/2026)
+- Page 26309 publiée : https://succulentes.net/cycadales/macrozamia/plurinervia/ (200, sans redirection, vérifiée avec curl et fetch_site_url), parent 1453, langue fr, sans translation_of (aucune traduction : l'espèce n'a de fiche dans aucune langue).
+- Vérifié avant création : aucune page FR existante (list_content, recherche sur l'épithète) ; aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
+- SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
+- Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : tirets typographiques de WordPress et widgets du thème).
+- Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application, 6 liens en un appel pour les six fiches du lot).

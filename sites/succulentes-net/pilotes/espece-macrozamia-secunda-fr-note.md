@@ -1,7 +1,7 @@
 # Note de livraison — *Macrozamia secunda* (FR) (02/10/2026)
 
 - Fichier : `pilotes/espece-macrozamia-secunda-fr.html` (115 blocs Gutenberg ; blocs appariés, balises équilibrées, aucun `<em>` imbriqué, aucune image, aucun commentaire HTML hors délimiteurs, aucun `utm_`, aucun lien EN/IT/ES, vérifiés par script).
-- Longueur : environ 2807 mots hors Sites de référence et Bibliographie (3370 au total), découpage par espaces.
+- Longueur : environ 2786 mots hors Sites de référence et Bibliographie (3349 au total), découpage par espaces.
 - Titre de page proposé : « Macrozamia secunda » (aucun nom français attesté).
 - Slug : `secunda`
 - Parent : 1453 (page genre FR *Macrozamia*, /cycadales/macrozamia/)
@@ -60,3 +60,10 @@
 3. Bloqués : POWO, UICN, BHL, PalmTalk, APNI.
 4. France : aucune culture ni épisode documenté, toutes zones.
 5. Encadré : tous les champs renseignés (rusticité : « aucun retour », avec le climat de Mudgee).
+
+## Publication (02/10/2026)
+- Page 26293 publiée : https://succulentes.net/cycadales/macrozamia/secunda/ (200, sans redirection, vérifiée avec curl et fetch_site_url), parent 1453, langue fr, sans translation_of (aucune traduction : l'espèce n'a de fiche dans aucune langue).
+- Vérifié avant création : aucune page FR existante (list_content, recherche sur l'épithète) ; aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
+- SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
+- Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : tirets typographiques de WordPress et widgets du thème).
+- Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application, 6 liens en un appel pour les six fiches du lot).
