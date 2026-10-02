@@ -48,3 +48,6 @@
 3. Sources bloquées/payantes : POWO, UICN, JSTOR.
 4. France : aucune donnée.
 5. Encadré : dimensions et rusticité non documentées.
+
+## Publication
+- Publiée le 02/10/2026 : id 26335, https://succulentes.net/cycadales/encephalartos/marunguensis/ (200, sans redirection) ; SEO Rank Math appliqué ; lien ajouté dans l’index de la page genre 14229. Aucune redirection ancienne trouvée pour cette URL.

@@ -51,3 +51,6 @@
 3. Sources asiatiques : Nong Nooch (Thaïlande) utilisé ; rien de japonais ou chinois trouvé.
 4. France : aucune donnée.
 5. Encadré : rusticité sans valeur.
+
+## Publication
+- Publiée le 02/10/2026 : id 26328, https://succulentes.net/cycadales/encephalartos/poggei/ (200, sans redirection) ; SEO Rank Math appliqué ; lien ajouté dans l’index de la page genre 14229. Aucune redirection ancienne trouvée pour cette URL.

@@ -50,3 +50,6 @@
 3. Sources bloquées/payantes : POWO, UICN, OUP.
 4. France : aucune donnée.
 5. Encadré : aucun nom commun, rusticité sans valeur.
+
+## Publication
+- Publiée le 02/10/2026 : id 26352, https://succulentes.net/cycadales/encephalartos/mackenziei/ (200, sans redirection) ; SEO Rank Math appliqué ; lien ajouté dans l’index de la page genre 14229. Aucune redirection ancienne trouvée pour cette URL.

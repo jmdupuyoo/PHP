@@ -49,3 +49,6 @@
 3. Sources bloquées/payantes : POWO, UICN.
 4. France : aucune donnée.
 5. Encadré : aucun nom commun, dimensions et rusticité non documentées.
+
+## Publication
+- Publiée le 02/10/2026 : id 26346, https://succulentes.net/cycadales/encephalartos/delucanus/ (200, sans redirection) ; SEO Rank Math appliqué ; lien ajouté dans l’index de la page genre 14229. Aucune redirection ancienne trouvée pour cette URL.

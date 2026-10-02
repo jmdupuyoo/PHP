@@ -73,3 +73,6 @@
 3. Sources bloquées : POWO, UICN, PlantZAfrica, PalmTalk.
 4. France : aucune donnée de pleine terre, aucune zone documentée.
 5. Encadré : rusticité « aucune valeur mesurée ».
+
+## Publication
+- Publiée le 02/10/2026 : id 26313, https://succulentes.net/cycadales/encephalartos/afer/ (200, sans redirection) ; SEO Rank Math appliqué ; lien ajouté dans l’index de la page genre 14229. Aucune redirection ancienne trouvée pour cette URL.

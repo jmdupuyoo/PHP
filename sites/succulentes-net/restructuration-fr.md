@@ -317,3 +317,10 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 02/10/2026 : fiche Macrozamia serpentina FR publiée (26331) : https://succulentes.net/cycadales/macrozamia/serpentina/ (aucune traduction)
 - 02/10/2026 : fiche Macrozamia platyrhachis FR publiée (26337) : https://succulentes.net/cycadales/macrozamia/platyrhachis/ (aucune traduction)
 - 02/10/2026 : liens croisés ajoutés dans les fiches du lot secunda–platyrhachis : plurinervia → viridis, occidua, cranei, fawcettii, machinii, conferta, lomandroides ; viridis → plurinervia, fawcettii, cranei, occidua, machinii, conferta ; serpentina → longispina, douglasii, cardiacensis, macleayi ; platyrhachis → plurinervia, fawcettii, machinii. Liens vers les six fiches ajoutés dans l'index de la page genre 1453.
+- 02/10/2026 : fiche Encephalartos afer FR publiée (26313) : https://succulentes.net/cycadales/encephalartos/afer/ (traduction de la fiche EN 16786 « caffer »)
+- 02/10/2026 : fiche Encephalartos poggei FR publiée (26328) : https://succulentes.net/cycadales/encephalartos/poggei/ (aucune traduction)
+- 02/10/2026 : fiche Encephalartos marunguensis FR publiée (26335) : https://succulentes.net/cycadales/encephalartos/marunguensis/ (aucune traduction)
+- 02/10/2026 : fiche Encephalartos schmitzii FR publiée (26341) : https://succulentes.net/cycadales/encephalartos/schmitzii/ (aucune traduction)
+- 02/10/2026 : fiche Encephalartos delucanus FR publiée (26346) : https://succulentes.net/cycadales/encephalartos/delucanus/ (aucune traduction)
+- 02/10/2026 : fiche Encephalartos mackenziei FR publiée (26352) : https://succulentes.net/cycadales/encephalartos/mackenziei/ (aucune traduction)
+- 02/10/2026 : liens vers les six fiches (afer, poggei, marunguensis, schmitzii, delucanus, mackenziei) ajoutés dans l'index de la page genre 14229.

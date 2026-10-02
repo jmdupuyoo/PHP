@@ -188,12 +188,12 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Cycas | *Cycas xipholepis* | — | Least Concern | à faire |
 | Cycas | *Cycas yorkiana* | — | Near Threatened | à faire |
 | Cycas | *Cycas zambalensis* | — | Critically Endangered | à faire |
-| Encephalartos | *Encephalartos afer* | — | Near Threatened | à faire |
-| Encephalartos | *Encephalartos delucanus* | — | Endangered | à faire |
-| Encephalartos | *Encephalartos mackenziei* | — | Critically Endangered | à faire |
-| Encephalartos | *Encephalartos marunguensis* | — | Vulnerable | à faire |
-| Encephalartos | *Encephalartos poggei* | — | Least Concern | à faire |
-| Encephalartos | *Encephalartos schmitzii* | — | Vulnerable | à faire |
+| Encephalartos | *Encephalartos afer* | — | Near Threatened | publiée (26313) |
+| Encephalartos | *Encephalartos delucanus* | — | Endangered | publiée (26346) |
+| Encephalartos | *Encephalartos mackenziei* | — | Critically Endangered | publiée (26352) |
+| Encephalartos | *Encephalartos marunguensis* | — | Vulnerable | publiée (26335) |
+| Encephalartos | *Encephalartos poggei* | — | Least Concern | publiée (26328) |
+| Encephalartos | *Encephalartos schmitzii* | — | Vulnerable | publiée (26341) |
 | Macrozamia | *Macrozamia cardiacensis* | — | Vulnerable | publiée (26291) |
 | Macrozamia | *Macrozamia conferta* | — | Vulnerable | publiée (26295) |
 | Macrozamia | *Macrozamia cranei* | — | Endangered | publiée (26311) |
