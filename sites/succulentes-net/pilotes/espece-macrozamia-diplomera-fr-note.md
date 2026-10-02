@@ -1,12 +1,12 @@
 # Note de livraison — *Macrozamia diplomera* (FR) (02/10/2026)
 
 - Fichier : `pilotes/espece-macrozamia-diplomera-fr.html` (121 blocs Gutenberg ; blocs appariés, balises équilibrées, aucun `<em>` imbriqué, aucune image, aucun commentaire HTML hors délimiteurs, aucun `utm_`, aucun lien EN/IT/ES, vérifiés par script).
-- Longueur : 2911 mots hors Sites de référence et Bibliographie (3423 au total).
+- Longueur : 2911 mots hors Sites de référence et Bibliographie (3424 au total).
 - Titre de page proposé : « Macrozamia diplomera » (aucun nom français attesté).
 - Slug : `diplomera`
 - Parent : 1453 (page genre FR *Macrozamia*, /cycadales/macrozamia/)
 - translation_of : 18233 (EN ; champ `translations` vide le 02/10/2026)
-- Titre SEO (57 car.) : `Macrozamia diplomera : la cycadale aux folioles fourchues`
+- Titre SEO (53 car.) : `Macrozamia diplomera, la cycadale fourchue du Pilliga`
 - Meta description (142 car.) : `Macrozamia diplomera, cycadale du Pilliga aux folioles divisées : description, intoxication de moutons en 1929, −7 °C en serre froide, statut.`
 - Mot-clé principal : `macrozamia diplomera`
 
@@ -52,7 +52,7 @@
 
 ## Liens internes (contrôlés avec fetch_site_url)
 - Introduction : https://succulentes.net/cycadales/macrozamia/ (200).
-- Corps : *Macrozamia communis* → https://succulentes.net/cycadales/macrozamia/communis/ (1471 ; 200).
+- Corps : *Macrozamia reducta*, *heteromera*, *glaucophylla*, *stenomera*, *communis*, *spiralis* (200 ; liens vers reducta, heteromera, glaucophylla, stenomera et spiralis ajoutés après publication). *Macrozamia polymorpha* : pas de page FR.
 - À lire aussi : articles du blog sur la toxicité des cycas et sur les cônes des cycadales et sur les racines coralloïdes (200).
 
 ## Points à valider par le propriétaire
@@ -66,3 +66,10 @@
 3. Bloqués : POWO, UICN, BHL, PalmTalk.
 4. France : un seul retour (Roussillon, serre froide) ; aucune donnée en pleine terre, toutes zones ; aucun épisode (1985, 2012) documenté.
 5. Encadré : tous les champs renseignés.
+
+## Publication (02/10/2026)
+- Page 26250 publiée : https://succulentes.net/cycadales/macrozamia/diplomera/ (200, sans redirection), parent 1453, traduction liée à la fiche EN (hreflang fr/en présent), SEO Rank Math appliqué (titre, meta, mot-clé).
+- Aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
+- Contenu publié vérifié identique au fichier local (comparaison du texte rendu).
+- Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application).
+- Titre SEO modifié après publication (le premier titre, « … la cycadale aux folioles fourchues », était déjà utilisé par la fiche *Macrozamia heteromera*, publiée en parallèle ; la fiche *Macrozamia stenomera* utilise aussi ce titre : à signaler à son rédacteur).

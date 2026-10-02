@@ -48,7 +48,7 @@
 
 ## Liens internes (contrôlés avec fetch_site_url)
 - Introduction : https://succulentes.net/cycadales/macrozamia/ (200).
-- Corps : *Macrozamia communis* → /cycadales/macrozamia/communis/ (1471 ; 200) ; *Macrozamia concinna* → /cycadales/macrozamia/concinna/ (publiée juste avant dans ce lot, 200).
+- Corps : *Macrozamia communis*, *reducta*, *concinna*, *spiralis*, *pauli-guilielmi* (200). *fawcettii*, *plurinervia* : pas de page FR.
 - À lire aussi : articles du blog sur la toxicité des cycas et sur les cônes des cycadales (200).
 
 ## Points à valider par le propriétaire
@@ -61,3 +61,9 @@
 3. Bloqués : POWO, UICN, BHL.
 4. France : aucune donnée, toutes zones.
 5. Encadré : rusticité « aucun retour daté » ; exposition en culture « non documenté ».
+
+## Publication (02/10/2026)
+- Page 26278 publiée : https://succulentes.net/cycadales/macrozamia/flexuosa/ (200, sans redirection), parent 1453, traduction liée à la fiche EN (hreflang fr/en présent), SEO Rank Math appliqué (titre, meta, mot-clé).
+- Aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
+- Contenu publié vérifié identique au fichier local (comparaison du texte rendu).
+- Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application).

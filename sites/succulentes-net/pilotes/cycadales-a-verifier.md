@@ -102,6 +102,10 @@ Messages du compte JMDUPUYOO (« La Londe (83) ») relevés dans le fil « Notes
 
 Recherche phpBB sur les six épithètes (forum des Fous de palmiers ; « guilielmi » ne renvoie qu'à *Encephalartos friderici-guilielmi*) et vérification des auteurs des 26 messages trouvés : aucun ne vient du compte JMDUPUYOO (profil « La Londe (83) »). Aucun message de La Londe-les-Maures n'a donc été écarté pour ces fiches, et aucune observation du Jardin zoologique tropical n'est connue pour ces six espèces.
 
+### Macrozamia — fiches espèce *concinna*, *diplomera*, *dyeri*, *elegans*, *fearnsidei*, *flexuosa*, *fraseri* (02/10/2026) — non repris
+
+Aucun message du compte JMDUPUYOO (« La Londe (83) ») ne porte sur ces sept espèces. Les deux seuls messages de ce compte dans le fil utilisé (t=17538, #p323086 et #p324035) sont déjà listés ci-dessus ; ils ne sont pas dans les fiches. Les repères du Jardin zoologique tropical validés pour le genre (arrosage d'été, gel sec moins dangereux qu'après la pluie) n'ont pas été mis dans ces fiches, faute d'indication que le JZT cultive ces espèces ; à ajouter si l'une d'elles y est cultivée.
+
 ## Image 1497 (Macrozamia)
 
 - Fichier : https://succulentes.net/wp-content/uploads/2021/07/feuille-macrozamia-comunis.jpg

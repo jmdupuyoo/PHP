@@ -53,7 +53,7 @@
 
 ## Liens internes (contrôlés avec fetch_site_url)
 - Introduction : https://succulentes.net/cycadales/macrozamia/ (200).
-- Corps : aucun lien (*Macrozamia riedlei* et *Macrozamia dyeri* sans page FR publiée au moment de la publication).
+- Corps : *Macrozamia riedlei*, *Macrozamia dyeri* (200 ; dyeri ajouté après publication).
 - À lire aussi : articles du blog sur la toxicité des cycas et sur les cônes des cycadales (200).
 
 ## Points à valider par le propriétaire
@@ -68,3 +68,9 @@
 3. Bloqués : POWO, UICN, BHL, VMCP (503).
 4. France : aucune donnée, toutes zones.
 5. Encadré : rusticité « aucun retour daté ».
+
+## Publication (02/10/2026)
+- Page 26273 publiée : https://succulentes.net/cycadales/macrozamia/fraseri/ (200, sans redirection), parent 1453, traduction liée à la fiche EN (hreflang fr/en présent), SEO Rank Math appliqué (titre, meta, mot-clé).
+- Aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
+- Contenu publié vérifié identique au fichier local (comparaison du texte rendu).
+- Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application).

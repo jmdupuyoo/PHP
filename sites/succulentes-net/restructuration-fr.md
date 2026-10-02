@@ -289,3 +289,10 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 02/10/2026 : fiche Macrozamia lucida FR publiée (26268) : https://succulentes.net/cycadales/macrozamia/lucida/
 - 02/10/2026 : fiche Macrozamia macdonnellii FR publiée (26261) : https://succulentes.net/cycadales/macrozamia/macdonnellii/
 - 02/10/2026 : fiche Macrozamia montana FR publiée (26238) : https://succulentes.net/cycadales/macrozamia/montana/
+- 02/10/2026 : fiche Macrozamia concinna FR publiée (26242) : https://succulentes.net/cycadales/macrozamia/concinna/
+- 02/10/2026 : fiche Macrozamia diplomera FR publiée (26250) : https://succulentes.net/cycadales/macrozamia/diplomera/
+- 02/10/2026 : fiche Macrozamia dyeri FR publiée (26282) : https://succulentes.net/cycadales/macrozamia/dyeri/
+- 02/10/2026 : fiche Macrozamia elegans FR publiée (26257) : https://succulentes.net/cycadales/macrozamia/elegans/
+- 02/10/2026 : fiche Macrozamia fearnsidei FR publiée (26264) : https://succulentes.net/cycadales/macrozamia/fearnsidei/
+- 02/10/2026 : fiche Macrozamia flexuosa FR publiée (26278) : https://succulentes.net/cycadales/macrozamia/flexuosa/
+- 02/10/2026 : fiche Macrozamia fraseri FR publiée (26273) : https://succulentes.net/cycadales/macrozamia/fraseri/

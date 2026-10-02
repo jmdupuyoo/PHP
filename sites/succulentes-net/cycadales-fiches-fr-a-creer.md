@@ -56,13 +56,13 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Encephalartos | *Encephalartos turneri* | EN | Least Concern | publiée (26187) |
 | Lepidozamia | *Lepidozamia hopei* | EN | Least Concern | publiée (26135) |
 | Lepidozamia | *Lepidozamia peroffskyana* | EN | Least Concern | publiée (26141) |
-| Macrozamia | *Macrozamia concinna* | EN | Least Concern | à faire |
-| Macrozamia | *Macrozamia diplomera* | EN | Least Concern | à faire |
-| Macrozamia | *Macrozamia dyeri* | EN | Least Concern | à faire |
-| Macrozamia | *Macrozamia elegans* | EN | Endangered | à faire |
-| Macrozamia | *Macrozamia fearnsidei* | EN | Least Concern | à faire |
-| Macrozamia | *Macrozamia flexuosa* | EN | Near Threatened | à faire |
-| Macrozamia | *Macrozamia fraseri* | EN | Least Concern | à faire |
+| Macrozamia | *Macrozamia concinna* | EN | Least Concern | publiée (26242) |
+| Macrozamia | *Macrozamia diplomera* | EN | Least Concern | publiée (26250) |
+| Macrozamia | *Macrozamia dyeri* | EN | Least Concern | publiée (26282) |
+| Macrozamia | *Macrozamia elegans* | EN | Endangered | publiée (26257) |
+| Macrozamia | *Macrozamia fearnsidei* | EN | Least Concern | publiée (26264) |
+| Macrozamia | *Macrozamia flexuosa* | EN | Near Threatened | publiée (26278) |
+| Macrozamia | *Macrozamia fraseri* | EN | Least Concern | publiée (26273) |
 | Macrozamia | *Macrozamia glaucophylla* | EN | Least Concern | publiée (26252) |
 | Macrozamia | *Macrozamia heteromera* | EN | Least Concern | publiée (26245) |
 | Macrozamia | *Macrozamia johnsonii* | EN | Vulnerable | publiée (26275) |
