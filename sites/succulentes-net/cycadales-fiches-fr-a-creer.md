@@ -12,11 +12,11 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Cycas | *Cycas lindstromii* | EN | Endangered | brouillon prêt |
 | Cycas | *Cycas micronesica* | EN | Endangered | brouillon prêt |
 | Cycas | *Cycas pectinata* | EN | Vulnerable | brouillon prêt |
-| Dioon | *Dioon argenteum* | EN | Vulnerable | brouillon en cours |
-| Dioon | *Dioon caputoi* | EN | Endangered | brouillon en cours |
-| Dioon | *Dioon oaxacensis* | EN | Not Evaluated | brouillon en cours |
-| Dioon | *Dioon planifolium* | EN | Vulnerable | brouillon en cours |
-| Dioon | *Dioon purpusii* | EN | Endangered | brouillon en cours |
+| Dioon | *Dioon argenteum* | EN | Vulnerable | brouillon prêt |
+| Dioon | *Dioon caputoi* | EN | Endangered | brouillon prêt |
+| Dioon | *Dioon oaxacensis* | EN | Not Evaluated | brouillon prêt |
+| Dioon | *Dioon planifolium* | EN | Vulnerable | brouillon prêt |
+| Dioon | *Dioon purpusii* | EN | Endangered | brouillon prêt |
 | Dioon | *Dioon rzedowskii* | EN | Endangered | brouillon prêt |
 | Dioon | *Dioon salas-moralesiae* | EN | Not Evaluated | brouillon prêt |
 | Dioon | *Dioon stevensonii* | EN | Endangered | brouillon prêt |
