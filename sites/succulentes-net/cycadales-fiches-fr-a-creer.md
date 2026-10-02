@@ -6,12 +6,12 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 |---|---|---|---|---|
 | Bowenia | *Bowenia serrulata* | EN | Least Concern | brouillon prêt |
 | Bowenia | *Bowenia spectabilis* | EN | Least Concern | brouillon prêt |
-| Cycas | *Cycas dolichophylla* | EN | Near Threatened | brouillon en cours |
-| Cycas | *Cycas elephantipes* | EN | Endangered | brouillon en cours |
-| Cycas | *Cycas elongata* | EN | Endangered | brouillon en cours |
-| Cycas | *Cycas lindstromii* | EN | Endangered | brouillon en cours |
-| Cycas | *Cycas micronesica* | EN | Endangered | brouillon en cours |
-| Cycas | *Cycas pectinata* | EN | Vulnerable | brouillon en cours |
+| Cycas | *Cycas dolichophylla* | EN | Near Threatened | brouillon prêt |
+| Cycas | *Cycas elephantipes* | EN | Endangered | brouillon prêt |
+| Cycas | *Cycas elongata* | EN | Endangered | brouillon prêt |
+| Cycas | *Cycas lindstromii* | EN | Endangered | brouillon prêt |
+| Cycas | *Cycas micronesica* | EN | Endangered | brouillon prêt |
+| Cycas | *Cycas pectinata* | EN | Vulnerable | brouillon prêt |
 | Dioon | *Dioon argenteum* | EN | Vulnerable | brouillon en cours |
 | Dioon | *Dioon caputoi* | EN | Endangered | brouillon en cours |
 | Dioon | *Dioon oaxacensis* | EN | Not Evaluated | brouillon en cours |
