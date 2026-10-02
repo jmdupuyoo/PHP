@@ -4,8 +4,8 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 
 | Genre | Espèce | Source existante | UICN (WLoC) | Statut |
 |---|---|---|---|---|
-| Bowenia | *Bowenia serrulata* | EN | Least Concern | brouillon en cours |
-| Bowenia | *Bowenia spectabilis* | EN | Least Concern | brouillon en cours |
+| Bowenia | *Bowenia serrulata* | EN | Least Concern | brouillon prêt |
+| Bowenia | *Bowenia spectabilis* | EN | Least Concern | brouillon prêt |
 | Cycas | *Cycas dolichophylla* | EN | Near Threatened | brouillon en cours |
 | Cycas | *Cycas elephantipes* | EN | Endangered | brouillon en cours |
 | Cycas | *Cycas elongata* | EN | Endangered | brouillon en cours |
@@ -54,8 +54,8 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Encephalartos | *Encephalartos septentrionalis* | EN | Least Concern | à faire |
 | Encephalartos | *Encephalartos tegulaneus* | EN | Least Concern | à faire |
 | Encephalartos | *Encephalartos turneri* | EN | Least Concern | à faire |
-| Lepidozamia | *Lepidozamia hopei* | EN | Least Concern | brouillon en cours |
-| Lepidozamia | *Lepidozamia peroffskyana* | EN | Least Concern | brouillon en cours |
+| Lepidozamia | *Lepidozamia hopei* | EN | Least Concern | brouillon prêt |
+| Lepidozamia | *Lepidozamia peroffskyana* | EN | Least Concern | brouillon prêt |
 | Macrozamia | *Macrozamia concinna* | EN | Least Concern | à faire |
 | Macrozamia | *Macrozamia diplomera* | EN | Least Concern | à faire |
 | Macrozamia | *Macrozamia dyeri* | EN | Least Concern | à faire |

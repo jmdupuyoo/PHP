@@ -44,6 +44,16 @@ Messages du forum des Fous de palmiers envoyés depuis La Londe-les-Maures (comp
 
 Si ces plantes sont celles du Jardin zoologique tropical, une observation datée (espèce, pleine terre ou pot, minimum relevé, résultat) permettrait de l'ajouter à la page sous la forme « au Jardin zoologique tropical de La Londe-les-Maures ».
 
+### Lepidozamia et Bowenia (fiches espèce, 02/10/2026) — non repris dans les fiches
+
+Recherche des messages du compte JMDUPUYOO (profil « La Londe (83) ») sur le forum des Fous de palmiers : aucun message sur *Bowenia* (ni « Tinaroo »), ni sur *Lepidozamia hopei*. Trois messages concernent *Lepidozamia peroffskyana* ; aucun n'est un retour de culture, ils ne sont donc ni dans `espece-lepidozamia-peroffskyana-fr.html` ni dans `espece-lepidozamia-hopei-fr.html`.
+
+- 30 octobre 2011 : réception de graines de cycadales de Rare Palm Seeds, « dont Lepidozamia ». https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=2373#p150242
+- 3 novembre 2011 : 10 graines de *Lepidozamia peroffskyana* achetées chez Rare Palm Seeds, mises à tremper 72 h ; question sur la température de germination. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=6101#p150769
+- 31 mars 2012 : question (« Penses-tu qu'il soit possible de le cultiver en plein soleil avec une bonne irrigation en été ? ») après un conseil d'associer *Lepidozamia* au *Dioon* pour les exigences de chaleur. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=11385#p178451
+
+Si ces semis sont ceux du Jardin zoologique tropical, une observation datée (germination, plantes encore en place, pot ou pleine terre, exposition, comportement en février 2012 ou lors d'un hiver ultérieur) permettrait d'ajouter une phrase « au Jardin zoologique tropical de La Londe-les-Maures » dans la fiche *Lepidozamia peroffskyana*. Pour *Bowenia*, seule l'observation validée « cultivés en pot au JZT » a été intégrée aux deux fiches.
+
 ## Image 1497 (Macrozamia)
 
 - Fichier : https://succulentes.net/wp-content/uploads/2021/07/feuille-macrozamia-comunis.jpg
