@@ -194,12 +194,12 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Encephalartos | *Encephalartos marunguensis* | — | Vulnerable | à faire |
 | Encephalartos | *Encephalartos poggei* | — | Least Concern | à faire |
 | Encephalartos | *Encephalartos schmitzii* | — | Vulnerable | à faire |
-| Macrozamia | *Macrozamia cardiacensis* | — | Vulnerable | à faire |
-| Macrozamia | *Macrozamia conferta* | — | Vulnerable | à faire |
-| Macrozamia | *Macrozamia cranei* | — | Endangered | à faire |
-| Macrozamia | *Macrozamia crassifolia* | — | Vulnerable | à faire |
-| Macrozamia | *Macrozamia douglasii* | — | Least Concern | à faire |
-| Macrozamia | *Macrozamia fawcettii* | — | Near Threatened | à faire |
+| Macrozamia | *Macrozamia cardiacensis* | — | Vulnerable | publiée (26291) |
+| Macrozamia | *Macrozamia conferta* | — | Vulnerable | publiée (26295) |
+| Macrozamia | *Macrozamia cranei* | — | Endangered | publiée (26311) |
+| Macrozamia | *Macrozamia crassifolia* | — | Vulnerable | publiée (26299) |
+| Macrozamia | *Macrozamia douglasii* | — | Least Concern | publiée (26289) |
+| Macrozamia | *Macrozamia fawcettii* | — | Near Threatened | publiée (26305) |
 | Macrozamia | *Macrozamia humilis* | — | Critically Endangered | à faire |
 | Macrozamia | *Macrozamia lomandroides* | — | Endangered | à faire |
 | Macrozamia | *Macrozamia longispina* | — | Near Threatened | à faire |

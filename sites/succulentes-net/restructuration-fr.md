@@ -296,3 +296,10 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 02/10/2026 : fiche Macrozamia fearnsidei FR publiée (26264) : https://succulentes.net/cycadales/macrozamia/fearnsidei/
 - 02/10/2026 : fiche Macrozamia flexuosa FR publiée (26278) : https://succulentes.net/cycadales/macrozamia/flexuosa/
 - 02/10/2026 : fiche Macrozamia fraseri FR publiée (26273) : https://succulentes.net/cycadales/macrozamia/fraseri/
+- 02/10/2026 : fiche Macrozamia cardiacensis FR publiée (26291) : https://succulentes.net/cycadales/macrozamia/cardiacensis/ (aucune traduction)
+- 02/10/2026 : fiche Macrozamia conferta FR publiée (26295) : https://succulentes.net/cycadales/macrozamia/conferta/ (aucune traduction)
+- 02/10/2026 : fiche Macrozamia cranei FR publiée (26311) : https://succulentes.net/cycadales/macrozamia/cranei/ (aucune traduction)
+- 02/10/2026 : fiche Macrozamia crassifolia FR publiée (26299) : https://succulentes.net/cycadales/macrozamia/crassifolia/ (aucune traduction)
+- 02/10/2026 : fiche Macrozamia douglasii FR publiée (26289) : https://succulentes.net/cycadales/macrozamia/douglasii/ (aucune traduction)
+- 02/10/2026 : fiche Macrozamia fawcettii FR publiée (26305) : https://succulentes.net/cycadales/macrozamia/fawcettii/ (aucune traduction)
+- 02/10/2026 : liens croisés entre fiches Macrozamia du jour : douglasii↔cardiacensis, conferta↔cranei, crassifolia ← fearnsidei (26264) et pauli-guilielmi (26246), fawcettii ← flexuosa (26278) et concinna (26242), fawcettii → flexuosa.

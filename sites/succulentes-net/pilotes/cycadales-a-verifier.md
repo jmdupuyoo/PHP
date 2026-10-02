@@ -106,6 +106,14 @@ Recherche phpBB sur les six épithètes (forum des Fous de palmiers ; « guiliel
 
 Aucun message du compte JMDUPUYOO (« La Londe (83) ») ne porte sur ces sept espèces. Les deux seuls messages de ce compte dans le fil utilisé (t=17538, #p323086 et #p324035) sont déjà listés ci-dessus ; ils ne sont pas dans les fiches. Les repères du Jardin zoologique tropical validés pour le genre (arrosage d'été, gel sec moins dangereux qu'après la pluie) n'ont pas été mis dans ces fiches, faute d'indication que le JZT cultive ces espèces ; à ajouter si l'une d'elles y est cultivée.
 
+### Encephalartos afer, delucanus, mackenziei, marunguensis, poggei, schmitzii (fiches espèce, 02/10/2026) — non repris dans les fiches
+
+Recherche phpBB sur « caffer », « afer », « delucanus », « mackenziei », « marunguensis », « poggei », « schmitzii » (28 messages) : un seul vient du profil « La Londe (83) ». Ce n'est pas un retour de culture ; il n'est pas dans `espece-encephalartos-afer-fr.html`.
+
+- 28 octobre 2015, fil « Encephalartos caffer » : « Magnifique plante. » (réponse à la photo d'un collectionneur). https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=20295#p386016
+
+Aucune observation du Jardin zoologique tropical n'est connue pour ces six espèces.
+
 ## Image 1497 (Macrozamia)
 
 - Fichier : https://succulentes.net/wp-content/uploads/2021/07/feuille-macrozamia-comunis.jpg
