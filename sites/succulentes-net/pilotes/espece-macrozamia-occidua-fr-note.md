@@ -1,7 +1,7 @@
 # Note de livraison — *Macrozamia occidua* (FR) (02/10/2026)
 
 - Fichier : `pilotes/espece-macrozamia-occidua-fr.html` (blocs Gutenberg appariés et balises équilibrées vérifiés par script ; aucune image, aucun `utm_`, aucun lien EN/IT/ES, aucun commentaire HTML hors délimiteurs de blocs).
-- Longueur : environ 1878 mots hors Sites de référence et Bibliographie (2228 au total, découpage par espaces).
+- Longueur : environ 1877 mots hors Sites de référence et Bibliographie (2227 au total, découpage par espaces).
 - Titre de page proposé : « Macrozamia occidua » (aucun nom français attesté).
 - Slug : `occidua`
 - Parent : 1453 (page genre FR *Macrozamia*)
@@ -54,3 +54,6 @@ Aucune.
 
 ## Champs de l'encadré
 - Tous renseignés ; rusticité : aucune donnée de culture, seulement des repères climatiques de station (signalé). UICN : catégorie et année d'après WLoC (Liste rouge non consultée). POWO non consulté (WLoC suivi).
+
+## Publication (02/10/2026)
+- Page publiée : id 26333, https://succulentes.net/cycadales/macrozamia/occidua/ (200, sans redirection ; parent 1453 ; aucune traduction liée). SEO Rank Math appliqué. Aucune redirection ancienne trouvée pour cette URL. Lien ajouté sur la première occurrence de l'index des espèces de la page genre 1453.

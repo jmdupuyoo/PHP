@@ -200,13 +200,13 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Macrozamia | *Macrozamia crassifolia* | — | Vulnerable | publiée (26299) |
 | Macrozamia | *Macrozamia douglasii* | — | Least Concern | publiée (26289) |
 | Macrozamia | *Macrozamia fawcettii* | — | Near Threatened | publiée (26305) |
-| Macrozamia | *Macrozamia humilis* | — | Critically Endangered | à faire |
-| Macrozamia | *Macrozamia lomandroides* | — | Endangered | à faire |
-| Macrozamia | *Macrozamia longispina* | — | Near Threatened | à faire |
-| Macrozamia | *Macrozamia machinii* | — | Vulnerable | à faire |
-| Macrozamia | *Macrozamia macleayi* | — | Least Concern | à faire |
-| Macrozamia | *Macrozamia occidua* | — | Vulnerable | à faire |
-| Macrozamia | *Macrozamia parcifolia* | — | Endangered | à faire |
+| Macrozamia | *Macrozamia humilis* | — | Critically Endangered | publiée (26307) |
+| Macrozamia | *Macrozamia lomandroides* | — | Endangered | publiée (26316) |
+| Macrozamia | *Macrozamia longispina* | — | Near Threatened | publiée (26303) |
+| Macrozamia | *Macrozamia machinii* | — | Vulnerable | publiée (26327) |
+| Macrozamia | *Macrozamia macleayi* | — | Least Concern | publiée (26297) |
+| Macrozamia | *Macrozamia occidua* | — | Vulnerable | publiée (26333) |
+| Macrozamia | *Macrozamia parcifolia* | — | Endangered | publiée (26340) |
 | Macrozamia | *Macrozamia platyrhachis* | — | Endangered | à faire |
 | Macrozamia | *Macrozamia plurinervia* | — | Endangered | à faire |
 | Macrozamia | *Macrozamia polymorpha* | — | Least Concern | à faire |

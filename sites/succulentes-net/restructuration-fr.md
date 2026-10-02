@@ -303,3 +303,10 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 02/10/2026 : fiche Macrozamia douglasii FR publiée (26289) : https://succulentes.net/cycadales/macrozamia/douglasii/ (aucune traduction)
 - 02/10/2026 : fiche Macrozamia fawcettii FR publiée (26305) : https://succulentes.net/cycadales/macrozamia/fawcettii/ (aucune traduction)
 - 02/10/2026 : liens croisés entre fiches Macrozamia du jour : douglasii↔cardiacensis, conferta↔cranei, crassifolia ← fearnsidei (26264) et pauli-guilielmi (26246), fawcettii ← flexuosa (26278) et concinna (26242), fawcettii → flexuosa.
+- 02/10/2026 : fiche Macrozamia macleayi FR publiée (26297) : https://succulentes.net/cycadales/macrozamia/macleayi/ (aucune traduction ; lien ajouté dans la page genre 1453)
+- 02/10/2026 : fiche Macrozamia longispina FR publiée (26303) : https://succulentes.net/cycadales/macrozamia/longispina/ (aucune traduction ; lien ajouté dans la page genre 1453)
+- 02/10/2026 : fiche Macrozamia humilis FR publiée (26307) : https://succulentes.net/cycadales/macrozamia/humilis/ (aucune traduction ; lien ajouté dans la page genre 1453)
+- 02/10/2026 : fiche Macrozamia lomandroides FR publiée (26316) : https://succulentes.net/cycadales/macrozamia/lomandroides/ (aucune traduction ; lien ajouté dans la page genre 1453)
+- 02/10/2026 : fiche Macrozamia machinii FR publiée (26327) : https://succulentes.net/cycadales/macrozamia/machinii/ (aucune traduction ; lien ajouté dans la page genre 1453)
+- 02/10/2026 : fiche Macrozamia occidua FR publiée (26333) : https://succulentes.net/cycadales/macrozamia/occidua/ (aucune traduction ; lien ajouté dans la page genre 1453)
+- 02/10/2026 : fiche Macrozamia parcifolia FR publiée (26340) : https://succulentes.net/cycadales/macrozamia/parcifolia/ (aucune traduction ; lien ajouté dans la page genre 1453)
