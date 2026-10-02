@@ -28,32 +28,32 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Encephalartos | *Encephalartos barteri* | EN | Vulnerable | à faire |
 | Encephalartos | *Encephalartos brevifoliolatus* | EN | Extinct in the Wild | à faire |
 | Encephalartos | *Encephalartos bubalinus* | EN | Vulnerable | à faire |
-| Encephalartos | *Encephalartos cerinus* | EN | Critically Endangered | à faire |
-| Encephalartos | *Encephalartos chimanimaniensis* | EN | Endangered | à faire |
-| Encephalartos | *Encephalartos concinnus* | EN | Critically Endangered | à faire |
+| Encephalartos | *Encephalartos cerinus* | EN | Critically Endangered | publiée (26181) |
+| Encephalartos | *Encephalartos chimanimaniensis* | EN | Endangered | publiée (26190) |
+| Encephalartos | *Encephalartos concinnus* | EN | Critically Endangered | publiée (26197) |
 | Encephalartos | *Encephalartos cupidus* | EN | Critically Endangered | à faire |
 | Encephalartos | *Encephalartos cycadifolius* | EN | Least Concern | à faire |
 | Encephalartos | *Encephalartos dolomiticus* | EN | Critically Endangered | à faire |
-| Encephalartos | *Encephalartos dyerianus* | EN | Critically Endangered | à faire |
-| Encephalartos | *Encephalartos equatorialis* | EN | Critically Endangered | à faire |
-| Encephalartos | *Encephalartos eugene-maraisii* | EN | Endangered | à faire |
-| Encephalartos | *Encephalartos ghellinckii* | EN | Vulnerable | à faire |
-| Encephalartos | *Encephalartos heenanii* | EN | Extinct in the Wild | à faire |
-| Encephalartos | *Encephalartos hirsutus* | EN | Critically Endangered | à faire |
+| Encephalartos | *Encephalartos dyerianus* | EN | Critically Endangered | publiée (26170) |
+| Encephalartos | *Encephalartos equatorialis* | EN | Critically Endangered | publiée (26176) |
+| Encephalartos | *Encephalartos eugene-maraisii* | EN | Endangered | publiée (26184) |
+| Encephalartos | *Encephalartos ghellinckii* | EN | Vulnerable | publiée (26192) |
+| Encephalartos | *Encephalartos heenanii* | EN | Extinct in the Wild | publiée (26198) |
+| Encephalartos | *Encephalartos hirsutus* | EN | Critically Endangered | publiée (26194) |
 | Encephalartos | *Encephalartos humilis* | EN | Vulnerable | à faire |
 | Encephalartos | *Encephalartos laevifolius* | EN | Critically Endangered | à faire |
 | Encephalartos | *Encephalartos lanatus* | EN | Vulnerable | à faire |
 | Encephalartos | *Encephalartos latifrons* | EN | Critically Endangered | à faire |
 | Encephalartos | *Encephalartos macrostrobilus* | EN | Critically Endangered | à faire |
-| Encephalartos | *Encephalartos manikensis* | EN | Vulnerable | à faire |
-| Encephalartos | *Encephalartos ngoyanus* | EN | Vulnerable | à faire |
-| Encephalartos | *Encephalartos nubimontanus* | EN | Extinct in the Wild | à faire |
-| Encephalartos | *Encephalartos pterogonus* | EN | Critically Endangered | à faire |
-| Encephalartos | *Encephalartos relictus* | EN | Extinct in the Wild | à faire |
-| Encephalartos | *Encephalartos schaijesii* | EN | Vulnerable | à faire |
-| Encephalartos | *Encephalartos septentrionalis* | EN | Least Concern | à faire |
-| Encephalartos | *Encephalartos tegulaneus* | EN | Least Concern | à faire |
-| Encephalartos | *Encephalartos turneri* | EN | Least Concern | à faire |
+| Encephalartos | *Encephalartos manikensis* | EN | Vulnerable | publiée (26178) |
+| Encephalartos | *Encephalartos ngoyanus* | EN | Vulnerable | publiée (26196) |
+| Encephalartos | *Encephalartos nubimontanus* | EN | Extinct in the Wild | publiée (26171) |
+| Encephalartos | *Encephalartos pterogonus* | EN | Critically Endangered | publiée (26186) |
+| Encephalartos | *Encephalartos relictus* | EN | Extinct in the Wild | publiée (26168) |
+| Encephalartos | *Encephalartos schaijesii* | EN | Vulnerable | publiée (26174) |
+| Encephalartos | *Encephalartos septentrionalis* | EN | Least Concern | publiée (26195) |
+| Encephalartos | *Encephalartos tegulaneus* | EN | Least Concern | publiée (26180) |
+| Encephalartos | *Encephalartos turneri* | EN | Least Concern | publiée (26187) |
 | Lepidozamia | *Lepidozamia hopei* | EN | Least Concern | publiée (26135) |
 | Lepidozamia | *Lepidozamia peroffskyana* | EN | Least Concern | publiée (26141) |
 | Macrozamia | *Macrozamia concinna* | EN | Least Concern | à faire |
