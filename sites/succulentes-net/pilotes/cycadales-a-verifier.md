@@ -52,7 +52,7 @@ Recherche des messages du compte JMDUPUYOO (profil « La Londe (83) ») sur le f
 - 3 novembre 2011 : 10 graines de *Lepidozamia peroffskyana* achetées chez Rare Palm Seeds, mises à tremper 72 h ; question sur la température de germination. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=6101#p150769
 - 31 mars 2012 : question (« Penses-tu qu'il soit possible de le cultiver en plein soleil avec une bonne irrigation en été ? ») après un conseil d'associer *Lepidozamia* au *Dioon* pour les exigences de chaleur. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=11385#p178451
 
-Si ces semis sont ceux du Jardin zoologique tropical, une observation datée (germination, plantes encore en place, pot ou pleine terre, exposition, comportement en février 2012 ou lors d'un hiver ultérieur) permettrait d'ajouter une phrase « au Jardin zoologique tropical de La Londe-les-Maures » dans la fiche *Lepidozamia peroffskyana*. Pour *Bowenia*, seule l'observation validée « cultivés en pot au JZT » a été intégrée aux deux fiches.
+**Réponse du propriétaire (02/10/2026)** : le Jardin zoologique tropical ne cultive plus de *Lepidozamia*. Rien n'est ajouté aux fiches *Lepidozamia* ; aucune fiche ne doit dire que le JZT en cultive. (Ancienne remarque : si ces semis sont ceux du Jardin zoologique tropical, une observation datée (germination, plantes encore en place, pot ou pleine terre, exposition, comportement en février 2012 ou lors d'un hiver ultérieur) permettrait d'ajouter une phrase « au Jardin zoologique tropical de La Londe-les-Maures » dans la fiche *Lepidozamia peroffskyana*. Pour *Bowenia*, seule l'observation validée « cultivés en pot au JZT » a été intégrée aux deux fiches.
 
 ## Image 1497 (Macrozamia)
 
