@@ -91,6 +91,17 @@ Recherche phpBB sur les six épithètes (forum des Fous de palmiers). Deux messa
 
 Aucune observation du Jardin zoologique tropical n'est connue pour ces six espèces.
 
+### Macrozamia glaucophylla, heteromera, johnsonii, lucida, macdonnellii, montana (fiches espèce, 02/10/2026) — non repris dans les fiches
+
+Messages du compte JMDUPUYOO (« La Londe (83) ») relevés dans le fil « Notes concernant la rusticité des Macrozamia », utilisé pour ces fiches. Aucun ne contient de valeur de froid ; aucun n'a été mis dans les fiches.
+
+- 20 mars 2014 : n'a jamais vu de plantes du groupe « le plus rustique » (heteromera, glaucophylla, etc.) ; demande si *M. communis* a passé les grands hivers et cite janvier 1985 comme référence pour le Sud-Est. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=17538#p323086
+- 27 mars 2014 : « il arrive un moment où il faut tester et retester » (sans donnée). https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=17538&start=15#p324035
+
+### Macrozamia — fiches espèce *mountperriensis*, *pauli-guilielmi*, *reducta*, *riedlei*, *spiralis*, *stenomera* (02/10/2026) — rien à reprendre
+
+Recherche phpBB sur les six épithètes (forum des Fous de palmiers ; « guilielmi » ne renvoie qu'à *Encephalartos friderici-guilielmi*) et vérification des auteurs des 26 messages trouvés : aucun ne vient du compte JMDUPUYOO (profil « La Londe (83) »). Aucun message de La Londe-les-Maures n'a donc été écarté pour ces fiches, et aucune observation du Jardin zoologique tropical n'est connue pour ces six espèces.
+
 ## Image 1497 (Macrozamia)
 
 - Fichier : https://succulentes.net/wp-content/uploads/2021/07/feuille-macrozamia-comunis.jpg

@@ -277,3 +277,9 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 02/10/2026 : fiche Encephalartos lanatus FR publiée (26221) : https://succulentes.net/cycadales/encephalartos/lanatus/
 - 02/10/2026 : fiche Encephalartos latifrons FR publiée (26225) : https://succulentes.net/cycadales/encephalartos/latifrons/
 - 02/10/2026 : fiche Encephalartos macrostrobilus FR publiée (26229) : https://succulentes.net/cycadales/encephalartos/macrostrobilus/
+- 02/10/2026 : fiche Macrozamia mountperriensis FR publiée (26254) : https://succulentes.net/cycadales/macrozamia/mountperriensis/
+- 02/10/2026 : fiche Macrozamia pauli-guilielmi FR publiée (26246) : https://succulentes.net/cycadales/macrozamia/pauli-guilielmi/
+- 02/10/2026 : fiche Macrozamia reducta FR publiée (26259) : https://succulentes.net/cycadales/macrozamia/reducta/
+- 02/10/2026 : fiche Macrozamia riedlei FR publiée (26236) : https://succulentes.net/cycadales/macrozamia/riedlei/
+- 02/10/2026 : fiche Macrozamia spiralis FR publiée (26239) : https://succulentes.net/cycadales/macrozamia/spiralis/
+- 02/10/2026 : fiche Macrozamia stenomera FR publiée (26266) : https://succulentes.net/cycadales/macrozamia/stenomera/

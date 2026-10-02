@@ -69,12 +69,12 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Macrozamia | *Macrozamia lucida* | EN | Least Concern | à faire |
 | Macrozamia | *Macrozamia macdonnellii* | EN | Least Concern | à faire |
 | Macrozamia | *Macrozamia montana* | EN | Least Concern | à faire |
-| Macrozamia | *Macrozamia mountperriensis* | EN | Least Concern | à faire |
-| Macrozamia | *Macrozamia pauli-guilielmi* | EN | Endangered | à faire |
-| Macrozamia | *Macrozamia reducta* | EN | Least Concern | à faire |
-| Macrozamia | *Macrozamia riedlei* | EN | Least Concern | à faire |
-| Macrozamia | *Macrozamia spiralis* | EN | Endangered | à faire |
-| Macrozamia | *Macrozamia stenomera* | EN | Near Threatened | à faire |
+| Macrozamia | *Macrozamia mountperriensis* | EN | Least Concern | publiée (26254) |
+| Macrozamia | *Macrozamia pauli-guilielmi* | EN | Endangered | publiée (26246) |
+| Macrozamia | *Macrozamia reducta* | EN | Least Concern | publiée (26259) |
+| Macrozamia | *Macrozamia riedlei* | EN | Least Concern | publiée (26236) |
+| Macrozamia | *Macrozamia spiralis* | EN | Endangered | publiée (26239) |
+| Macrozamia | *Macrozamia stenomera* | EN | Near Threatened | publiée (26266) |
 | Ceratozamia | *Ceratozamia alba* | — | Not Evaluated | à faire |
 | Ceratozamia | *Ceratozamia alvarezii* | — | Endangered | à faire |
 | Ceratozamia | *Ceratozamia aurantiaca* | — | Not Evaluated | à faire |
