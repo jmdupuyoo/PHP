@@ -225,3 +225,13 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 01/10/2026 : observation JZT validée par le propriétaire : Zamia integrifolia a survécu à −7 °C en février 2012 à La Londe-les-Maures, avec dégâts sur les feuilles. À intégrer à la page genre Zamia (3963) et à la fiche 3971.
 - 01/10/2026 : fiches Zamia integrifolia (3971, 10 corrections) et Zamia furfuracea (14461, 18 corrections) : rusticités non sourcées retirées, zones UF/IFAS, observation JZT ajoutée (3971), pseudo retiré et lieu corrigé (14461). Détail : pilotes/zamia-fiches-corrections.md.
 - 01/10/2026 : genres Zamia (3963, ≈ 10 000 mots), Encephalartos (14229, ≈ 8 150) et Cycas (1256, ≈ 11 240) publiés (SEO Rank Math ; média 5556 alt « Encephalartos » ; Encephalartos afer comme nom valide). Observation JZT Zamia integrifolia ajoutée à la page genre Zamia. Les 10 pages genres FR des Cycadales et la page d'ordre sont désormais refaites.
+- 02/10/2026 : fiche Dioon argenteum FR publiée (26124) : https://succulentes.net/cycadales/dioon/argenteum/
+- 02/10/2026 : fiche Dioon caputoi FR publiée (26128) : https://succulentes.net/cycadales/dioon/caputoi/
+- 02/10/2026 : fiche Dioon oaxacensis FR publiée (26133) : https://succulentes.net/cycadales/dioon/oaxacensis/
+- 02/10/2026 : fiche Dioon planifolium FR publiée (26137) : https://succulentes.net/cycadales/dioon/planifolium/
+- 02/10/2026 : fiche Dioon purpusii FR publiée (26139) : https://succulentes.net/cycadales/dioon/purpusii/
+- 02/10/2026 : fiche Dioon rzedowskii FR publiée (26144) : https://succulentes.net/cycadales/dioon/rzedowskii/
+- 02/10/2026 : fiche Dioon salas-moralesiae FR publiée (26148) : https://succulentes.net/cycadales/dioon/salas-moralesiae/
+- 02/10/2026 : fiche Dioon stevensonii FR publiée (26152) : https://succulentes.net/cycadales/dioon/stevensonii/
+- 02/10/2026 : fiche Dioon tomasellii FR publiée (26156) : https://succulentes.net/cycadales/dioon/tomasellii/
+- 02/10/2026 : fiche Dioon vovidesii FR publiée (26160) : https://succulentes.net/cycadales/dioon/vovidesii/

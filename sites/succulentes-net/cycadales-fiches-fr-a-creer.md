@@ -12,16 +12,16 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Cycas | *Cycas lindstromii* | EN | Endangered | brouillon prêt |
 | Cycas | *Cycas micronesica* | EN | Endangered | brouillon prêt |
 | Cycas | *Cycas pectinata* | EN | Vulnerable | brouillon prêt |
-| Dioon | *Dioon argenteum* | EN | Vulnerable | brouillon prêt |
-| Dioon | *Dioon caputoi* | EN | Endangered | brouillon prêt |
-| Dioon | *Dioon oaxacensis* | EN | Not Evaluated | brouillon prêt |
-| Dioon | *Dioon planifolium* | EN | Vulnerable | brouillon prêt |
-| Dioon | *Dioon purpusii* | EN | Endangered | brouillon prêt |
-| Dioon | *Dioon rzedowskii* | EN | Endangered | brouillon prêt |
-| Dioon | *Dioon salas-moralesiae* | EN | Not Evaluated | brouillon prêt |
-| Dioon | *Dioon stevensonii* | EN | Endangered | brouillon prêt |
-| Dioon | *Dioon tomasellii* | EN | Vulnerable | brouillon prêt |
-| Dioon | *Dioon vovidesii* | EN | Not Evaluated | brouillon prêt |
+| Dioon | *Dioon argenteum* | EN | Vulnerable | publiée (26124) |
+| Dioon | *Dioon caputoi* | EN | Endangered | publiée (26128) |
+| Dioon | *Dioon oaxacensis* | EN | Not Evaluated | publiée (26133) |
+| Dioon | *Dioon planifolium* | EN | Vulnerable | publiée (26137) |
+| Dioon | *Dioon purpusii* | EN | Endangered | publiée (26139) |
+| Dioon | *Dioon rzedowskii* | EN | Endangered | publiée (26144) |
+| Dioon | *Dioon salas-moralesiae* | EN | Not Evaluated | publiée (26148) |
+| Dioon | *Dioon stevensonii* | EN | Endangered | publiée (26152) |
+| Dioon | *Dioon tomasellii* | EN | Vulnerable | publiée (26156) |
+| Dioon | *Dioon vovidesii* | EN | Not Evaluated | publiée (26160) |
 | Encephalartos | *Encephalartos aemulans* | EN | Critically Endangered | à faire |
 | Encephalartos | *Encephalartos aplanatus* | EN | Vulnerable | à faire |
 | Encephalartos | *Encephalartos arenarius* | EN | Endangered | à faire |
