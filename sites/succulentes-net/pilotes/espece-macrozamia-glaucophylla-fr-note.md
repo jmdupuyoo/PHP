@@ -42,3 +42,10 @@ Aucun retour (A ou B) n'existe ; la fiche le dit. Mentions : classement d'Ironmo
 
 ## Champs de l'encadré
 - « Noms communs » : aucun (dit). « Rusticité » : aucune valeur (dit). « Exposition » : habitat seulement.
+
+## Publication (02/10/2026)
+- Page créée : **26252**, statut publish, https://succulentes.net/cycadales/macrozamia/glaucophylla/ (fetch_site_url : 200, sans redirection ; hreflang EN présent → traduction liée à 18213).
+- SEO Rank Math appliqué (titre, meta, mot-clé de la note).
+- Aucune redirection ancienne trouvée pour cette URL (list_redirects).
+- Lien posé dans la page genre 1453 sur la première occurrence de l'index des espèces (replace_in_content, dry run puis application, 1 remplacement).
+- Pas de lien vers les autres fiches Macrozamia publiées le même jour par d'autres agents (stenomera, diplomera, etc.) : à poser si souhaité.

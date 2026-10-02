@@ -72,3 +72,11 @@ Mentions (non chiffrées) : classement d'Ironmonger relayé (t=17538 #p323061) ;
 
 ## Champs de l'encadré
 - Tous renseignés. « Exposition » : seulement l'habitat (aucune source de culture). UICN : année et critères via WLoC (Liste rouge non consultée). Rusticité : uniquement retours d'amateurs.
+
+## Publication (02/10/2026)
+- Page créée : **26275**, statut publish, https://succulentes.net/cycadales/macrozamia/johnsonii/ (fetch_site_url : 200, sans redirection ; hreflang EN présent → traduction liée à 18074).
+- SEO Rank Math appliqué (titre, meta, mot-clé de la note).
+- Aucune redirection ancienne trouvée pour cette URL (list_redirects).
+- Lien posé dans la page genre 1453 sur la première occurrence de l'index des espèces (replace_in_content, dry run puis application, 1 remplacement).
+- Pas de lien vers les autres fiches Macrozamia publiées le même jour par d'autres agents (stenomera, diplomera, etc.) : à poser si souhaité.
+- Lien interne ajouté avant publication : /cycadales/macrozamia/lucida/ (Confusions), la fiche lucida ayant été publiée juste avant. Bibliographie : auteurs de Habib et al. 2022 abrégés en « et al. » (initiales non vérifiées).

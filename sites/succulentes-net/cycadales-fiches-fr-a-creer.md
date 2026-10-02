@@ -63,12 +63,12 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Macrozamia | *Macrozamia fearnsidei* | EN | Least Concern | à faire |
 | Macrozamia | *Macrozamia flexuosa* | EN | Near Threatened | à faire |
 | Macrozamia | *Macrozamia fraseri* | EN | Least Concern | à faire |
-| Macrozamia | *Macrozamia glaucophylla* | EN | Least Concern | à faire |
-| Macrozamia | *Macrozamia heteromera* | EN | Least Concern | à faire |
-| Macrozamia | *Macrozamia johnsonii* | EN | Vulnerable | à faire |
-| Macrozamia | *Macrozamia lucida* | EN | Least Concern | à faire |
-| Macrozamia | *Macrozamia macdonnellii* | EN | Least Concern | à faire |
-| Macrozamia | *Macrozamia montana* | EN | Least Concern | à faire |
+| Macrozamia | *Macrozamia glaucophylla* | EN | Least Concern | publiée (26252) |
+| Macrozamia | *Macrozamia heteromera* | EN | Least Concern | publiée (26245) |
+| Macrozamia | *Macrozamia johnsonii* | EN | Vulnerable | publiée (26275) |
+| Macrozamia | *Macrozamia lucida* | EN | Least Concern | publiée (26268) |
+| Macrozamia | *Macrozamia macdonnellii* | EN | Least Concern | publiée (26261) |
+| Macrozamia | *Macrozamia montana* | EN | Least Concern | publiée (26238) |
 | Macrozamia | *Macrozamia mountperriensis* | EN | Least Concern | publiée (26254) |
 | Macrozamia | *Macrozamia pauli-guilielmi* | EN | Endangered | publiée (26246) |
 | Macrozamia | *Macrozamia reducta* | EN | Least Concern | publiée (26259) |

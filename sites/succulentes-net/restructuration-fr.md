@@ -283,3 +283,9 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 02/10/2026 : fiche Macrozamia riedlei FR publiée (26236) : https://succulentes.net/cycadales/macrozamia/riedlei/
 - 02/10/2026 : fiche Macrozamia spiralis FR publiée (26239) : https://succulentes.net/cycadales/macrozamia/spiralis/
 - 02/10/2026 : fiche Macrozamia stenomera FR publiée (26266) : https://succulentes.net/cycadales/macrozamia/stenomera/
+- 02/10/2026 : fiche Macrozamia glaucophylla FR publiée (26252) : https://succulentes.net/cycadales/macrozamia/glaucophylla/
+- 02/10/2026 : fiche Macrozamia heteromera FR publiée (26245) : https://succulentes.net/cycadales/macrozamia/heteromera/
+- 02/10/2026 : fiche Macrozamia johnsonii FR publiée (26275) : https://succulentes.net/cycadales/macrozamia/johnsonii/
+- 02/10/2026 : fiche Macrozamia lucida FR publiée (26268) : https://succulentes.net/cycadales/macrozamia/lucida/
+- 02/10/2026 : fiche Macrozamia macdonnellii FR publiée (26261) : https://succulentes.net/cycadales/macrozamia/macdonnellii/
+- 02/10/2026 : fiche Macrozamia montana FR publiée (26238) : https://succulentes.net/cycadales/macrozamia/montana/

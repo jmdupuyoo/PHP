@@ -61,3 +61,11 @@ Météo-France : aucun retour français avec lieu et date sans valeur (le seul r
 
 ## Champs de l'encadré
 - Tous renseignés ; « Rusticité » : un seul retour de jeunes semis. « Toxicité » : pas de donnée propre (dit).
+
+## Publication (02/10/2026)
+- Page créée : **26261**, statut publish, https://succulentes.net/cycadales/macrozamia/macdonnellii/ (fetch_site_url : 200, sans redirection ; hreflang EN présent → traduction liée à 18105).
+- SEO Rank Math appliqué (titre, meta, mot-clé de la note).
+- Aucune redirection ancienne trouvée pour cette URL (list_redirects).
+- Lien posé dans la page genre 1453 sur la première occurrence de l'index des espèces (replace_in_content, dry run puis application, 1 remplacement).
+- Pas de lien vers les autres fiches Macrozamia publiées le même jour par d'autres agents (stenomera, diplomera, etc.) : à poser si souhaité.
+- Correction avant publication : « Sir Richard Graves MacDonnell » ramené à « Sir Richard G. MacDonnell » (forme de la source).
