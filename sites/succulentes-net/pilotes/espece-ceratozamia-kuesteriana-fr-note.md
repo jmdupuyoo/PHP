@@ -48,3 +48,7 @@ Brouillon : `pilotes/espece-ceratozamia-kuesteriana-fr.html` (blocs Gutenberg co
 - Aucun essai en pleine terre en France : une observation datée serait précieuse.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches *Ceratozamia* publiées et vérifiées (200, sans redirection) au moment de la publication.
+
+## Publication effectuée
+
+- Publiée le 03/10/2026 : id 26400, https://succulentes.net/cycadales/ceratozamia/kuesteriana/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.

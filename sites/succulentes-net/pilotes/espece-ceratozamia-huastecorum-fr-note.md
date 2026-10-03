@@ -37,3 +37,7 @@ Brouillon : `pilotes/espece-ceratozamia-huastecorum-fr.html` (blocs Gutenberg co
 - La page du genre parle d'un « plateau isolé de la Huasteca » ; la fiche dit « Sierra de Otontepec » (monographie).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches *Ceratozamia* publiées et vérifiées (200, sans redirection) au moment de la publication.
+
+## Publication effectuée
+
+- Publiée le 03/10/2026 : id 26391, https://succulentes.net/cycadales/ceratozamia/huastecorum/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.

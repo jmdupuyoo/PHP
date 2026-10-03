@@ -43,3 +43,7 @@ Brouillon : `pilotes/espece-ceratozamia-mexicana-fr.html` (blocs Gutenberg contr
 - Brouillon repris tel quel (complet).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches *Ceratozamia* publiées et vérifiées (200, sans redirection) au moment de la publication.
+
+## Publication effectuée
+
+- Publiée le 03/10/2026 : id 26426, https://succulentes.net/cycadales/ceratozamia/mexicana/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.

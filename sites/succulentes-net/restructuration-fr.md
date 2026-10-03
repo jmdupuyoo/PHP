@@ -336,3 +336,15 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 03/10/2026 : fiche Ceratozamia delucana FR publiée (26375) : https://succulentes.net/cycadales/ceratozamia/delucana/ (aucune traduction)
 - 03/10/2026 : fiche Ceratozamia dominguezii FR publiée (26379) : https://succulentes.net/cycadales/ceratozamia/dominguezii/ (aucune traduction)
 - 03/10/2026 : liens vers les onze fiches (alba à dominguezii) ajoutés dans l'index de la page genre 9866 ; liens croisés posés entre fiches Ceratozamia publiées (dont hondurensis, subroseophylla, euryphyllidia, sabatoi) et vers Zamia purpurea, Zamia magnifica, Cycas et Zamia.
+- 03/10/2026 : fiche Ceratozamia euryphyllidia FR publiée (26377) : https://succulentes.net/cycadales/ceratozamia/euryphyllidia/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia gigantea FR publiée (26413) : https://succulentes.net/cycadales/ceratozamia/gigantea/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia guatemalensis FR publiée (26410) : https://succulentes.net/cycadales/ceratozamia/guatemalensis/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia hildae FR publiée (26418) : https://succulentes.net/cycadales/ceratozamia/hildae/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia hondurensis FR publiée (26383) : https://succulentes.net/cycadales/ceratozamia/hondurensis/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia huastecorum FR publiée (26391) : https://succulentes.net/cycadales/ceratozamia/huastecorum/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia kuesteriana FR publiée (26400) : https://succulentes.net/cycadales/ceratozamia/kuesteriana/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia latifolia FR publiée (26422) : https://succulentes.net/cycadales/ceratozamia/latifolia/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia leptoceras FR publiée (26404) : https://succulentes.net/cycadales/ceratozamia/leptoceras/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia matudae FR publiée (26408) : https://succulentes.net/cycadales/ceratozamia/matudae/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia mexicana FR publiée (26426) : https://succulentes.net/cycadales/ceratozamia/mexicana/ (aucune traduction)
+- 03/10/2026 : liens vers les onze fiches (euryphyllidia, gigantea, guatemalensis, hildae, hondurensis, huastecorum, kuesteriana, latifolia, leptoceras, matudae, mexicana) ajoutés dans l'index de la page genre 9866 ; liens croisés posés entre ces fiches et vers les fiches Ceratozamia déjà publiées (brevifrons, chamberlainii, delucana, sabatoi, subroseophylla, tenuis, totonacorum, vovidesii, whitelockiana). Observation JZT « Palma Sola » (−6 °C sans protection, hiver 2011-2012) intégrée à la fiche mexicana.

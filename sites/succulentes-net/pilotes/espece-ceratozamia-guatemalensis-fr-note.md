@@ -38,3 +38,7 @@ Brouillon : `pilotes/espece-ceratozamia-guatemalensis-fr.html` (blocs Gutenberg 
 - Couleur et dimensions des graines mûres : seule la sarcotesta immature (crème) est décrite dans le traitement.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches *Ceratozamia* publiées et vérifiées (200, sans redirection) au moment de la publication.
+
+## Publication effectuée
+
+- Publiée le 03/10/2026 : id 26410, https://succulentes.net/cycadales/ceratozamia/guatemalensis/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.

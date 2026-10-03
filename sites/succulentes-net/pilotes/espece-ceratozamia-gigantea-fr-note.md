@@ -38,3 +38,7 @@ Brouillon : `pilotes/espece-ceratozamia-gigantea-fr.html` (blocs Gutenberg contr
 - Les trois espèces du Tabasco ne sont pas nommées (clé non lue).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches *Ceratozamia* publiées et vérifiées (200, sans redirection) au moment de la publication.
+
+## Publication effectuée
+
+- Publiée le 03/10/2026 : id 26413, https://succulentes.net/cycadales/ceratozamia/gigantea/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.

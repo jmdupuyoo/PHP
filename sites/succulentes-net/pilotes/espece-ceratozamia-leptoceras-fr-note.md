@@ -38,3 +38,7 @@ Brouillon : `pilotes/espece-ceratozamia-leptoceras-fr.html` (blocs Gutenberg con
 - La page du genre dit « espèce la plus occidentale du genre » ; la fiche reprend seulement « localité la plus septentrionale du genre sur le versant pacifique » (protologue).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches *Ceratozamia* publiées et vérifiées (200, sans redirection) au moment de la publication.
+
+## Publication effectuée
+
+- Publiée le 03/10/2026 : id 26404, https://succulentes.net/cycadales/ceratozamia/leptoceras/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.

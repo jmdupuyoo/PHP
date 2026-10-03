@@ -86,17 +86,17 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Ceratozamia | *Ceratozamia decumbens* | — | Endangered | publiée (26371) |
 | Ceratozamia | *Ceratozamia delucana* | — | Endangered | publiée (26375) |
 | Ceratozamia | *Ceratozamia dominguezii* | — | Not Evaluated | publiée (26379) |
-| Ceratozamia | *Ceratozamia euryphyllidia* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia gigantea* | — | Not Evaluated | à faire |
-| Ceratozamia | *Ceratozamia guatemalensis* | — | Not Evaluated | à faire |
-| Ceratozamia | *Ceratozamia hildae* | — | Critically Endangered | à faire |
-| Ceratozamia | *Ceratozamia hondurensis* | — | Critically Endangered | à faire |
-| Ceratozamia | *Ceratozamia huastecorum* | — | Critically Endangered | à faire |
-| Ceratozamia | *Ceratozamia kuesteriana* | — | Critically Endangered | à faire |
-| Ceratozamia | *Ceratozamia latifolia* | — | Vulnerable | à faire |
-| Ceratozamia | *Ceratozamia leptoceras* | — | Not Evaluated | à faire |
-| Ceratozamia | *Ceratozamia matudae* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia mexicana* | — | Critically Endangered | à faire |
+| Ceratozamia | *Ceratozamia euryphyllidia* | — | Endangered | publiée (26377) |
+| Ceratozamia | *Ceratozamia gigantea* | — | Not Evaluated | publiée (26413) |
+| Ceratozamia | *Ceratozamia guatemalensis* | — | Not Evaluated | publiée (26410) |
+| Ceratozamia | *Ceratozamia hildae* | — | Critically Endangered | publiée (26418) |
+| Ceratozamia | *Ceratozamia hondurensis* | — | Critically Endangered | publiée (26383) |
+| Ceratozamia | *Ceratozamia huastecorum* | — | Critically Endangered | publiée (26391) |
+| Ceratozamia | *Ceratozamia kuesteriana* | — | Critically Endangered | publiée (26400) |
+| Ceratozamia | *Ceratozamia latifolia* | — | Vulnerable | publiée (26422) |
+| Ceratozamia | *Ceratozamia leptoceras* | — | Not Evaluated | publiée (26404) |
+| Ceratozamia | *Ceratozamia matudae* | — | Endangered | publiée (26408) |
+| Ceratozamia | *Ceratozamia mexicana* | — | Critically Endangered | publiée (26426) |
 | Ceratozamia | *Ceratozamia miqueliana* | — | Endangered | à faire |
 | Ceratozamia | *Ceratozamia mirandae* | — | Endangered | à faire |
 | Ceratozamia | *Ceratozamia mixeorum* | — | Endangered | à faire |

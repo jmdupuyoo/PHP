@@ -40,3 +40,7 @@ Brouillon : `pilotes/espece-ceratozamia-latifolia-fr.html` (blocs Gutenberg cont
 - Brouillon repris tel quel ; corrections : « forêt de chênes, de pins et de chênes » reformulé, virgule parasite supprimée.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches *Ceratozamia* publiées et vérifiées (200, sans redirection) au moment de la publication.
+
+## Publication effectuée
+
+- Publiée le 03/10/2026 : id 26422, https://succulentes.net/cycadales/ceratozamia/latifolia/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.
