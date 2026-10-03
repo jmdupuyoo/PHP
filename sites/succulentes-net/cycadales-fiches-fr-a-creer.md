@@ -224,17 +224,17 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Zamia | *Zamia herrerae* | — | Vulnerable | publiée (26499) |
 | Zamia | *Zamia huilensis* | — | Endangered | publiée (26503) |
 | Zamia | *Zamia hymenophyllidia* | — | Least Concern | publiée (26507) |
-| Zamia | *Zamia imbricata* | — | Not Evaluated | à faire |
-| Zamia | *Zamia incognita* | — | Endangered | à faire |
-| Zamia | *Zamia ipetiensis* | — | Endangered | à faire |
-| Zamia | *Zamia katzeriana* | — | Critically Endangered | à faire |
-| Zamia | *Zamia lawsoniana* | — | Not Evaluated | à faire |
-| Zamia | *Zamia lecointei* | — | Least Concern | à faire |
-| Zamia | *Zamia lindenii* | — | Endangered | à faire |
-| Zamia | *Zamia lindleyi* | — | Endangered | à faire |
-| Zamia | *Zamia lindosensis* | — | Not Evaluated | à faire |
-| Zamia | *Zamia macrochiera* | — | Endangered | à faire |
-| Zamia | *Zamia manicata* | — | Near Threatened | à faire |
+| Zamia | *Zamia imbricata* | — | Not Evaluated | publiée (26483) |
+| Zamia | *Zamia incognita* | — | Endangered | publiée (26488) |
+| Zamia | *Zamia ipetiensis* | — | Endangered | publiée (26492) |
+| Zamia | *Zamia katzeriana* | — | Critically Endangered | publiée (26497) |
+| Zamia | *Zamia lawsoniana* | — | Not Evaluated | publiée (26501) |
+| Zamia | *Zamia lecointei* | — | Least Concern | publiée (26505) |
+| Zamia | *Zamia lindenii* | — | Endangered | publiée (26510) |
+| Zamia | *Zamia lindleyi* | — | Endangered | publiée (26517) |
+| Zamia | *Zamia lindosensis* | — | Not Evaluated | publiée (26519) |
+| Zamia | *Zamia macrochiera* | — | Endangered | publiée (26521) |
+| Zamia | *Zamia manicata* | — | Near Threatened | publiée (26523) |
 | Zamia | *Zamia meermanii* | — | Endangered | à faire |
 | Zamia | *Zamia melanorrhachis* | — | Endangered | à faire |
 | Zamia | *Zamia multidentata* | — | Not Evaluated | à faire |

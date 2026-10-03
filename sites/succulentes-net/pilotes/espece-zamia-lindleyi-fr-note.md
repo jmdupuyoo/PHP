@@ -47,3 +47,7 @@ Brouillon : `pilotes/espece-zamia-lindleyi-fr.html` (blocs Gutenberg contrôlés
 - Fiche courte faute de description accessible ; un PDF de Calonje et al. 2012 permettrait de compléter.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches *Zamia* FR publiées et vérifiées (200, sans redirection) au moment de la publication.
+
+## Publication effectuée
+
+- Publiée le 03/10/2026 : id 26517, https://succulentes.net/cycadales/zamia/lindleyi/ (200, sans redirection ; aucune redirection ancienne trouvée). Sans translation_of (aucune traduction). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 3963 ; liens croisés posés vers les fiches Zamia FR publiées (vérifiées 200).

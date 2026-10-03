@@ -41,3 +41,7 @@ Brouillon : `pilotes/espece-zamia-imbricata-fr.html` (blocs Gutenberg contrôlé
 - Species+ ne nomme pas l'espèce (couverte par l'inscription du genre).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches *Zamia* FR publiées et vérifiées (200, sans redirection) au moment de la publication.
+
+## Publication effectuée
+
+- Publiée le 03/10/2026 : id 26483, https://succulentes.net/cycadales/zamia/imbricata/ (200, sans redirection ; aucune redirection ancienne trouvée). Sans translation_of (aucune traduction). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 3963 ; liens croisés posés vers les fiches Zamia FR publiées (vérifiées 200).

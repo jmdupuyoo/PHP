@@ -384,3 +384,15 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 03/10/2026 : fiche Zamia huilensis FR publiée (26503) : https://succulentes.net/cycadales/zamia/huilensis/ (aucune traduction)
 - 03/10/2026 : fiche Zamia hymenophyllidia FR publiée (26507) : https://succulentes.net/cycadales/zamia/hymenophyllidia/ (aucune traduction)
 - 03/10/2026 : liens vers les onze fiches Zamia (acuminata, cunaria, disodon, dressleri, fairchildiana, gentryi, gomeziana, hamannii, herrerae, huilensis, hymenophyllidia) ajoutés dans l'index de la page genre 3963 ; liens croisés posés entre ces fiches (première occurrence, hors introduction et encadré).
+- 03/10/2026 : fiche Zamia imbricata FR publiée (26483) : https://succulentes.net/cycadales/zamia/imbricata/ (aucune traduction)
+- 03/10/2026 : fiche Zamia incognita FR publiée (26488) : https://succulentes.net/cycadales/zamia/incognita/ (aucune traduction)
+- 03/10/2026 : fiche Zamia ipetiensis FR publiée (26492) : https://succulentes.net/cycadales/zamia/ipetiensis/ (aucune traduction)
+- 03/10/2026 : fiche Zamia katzeriana FR publiée (26497) : https://succulentes.net/cycadales/zamia/katzeriana/ (aucune traduction)
+- 03/10/2026 : fiche Zamia lawsoniana FR publiée (26501) : https://succulentes.net/cycadales/zamia/lawsoniana/ (aucune traduction)
+- 03/10/2026 : fiche Zamia lecointei FR publiée (26505) : https://succulentes.net/cycadales/zamia/lecointei/ (aucune traduction)
+- 03/10/2026 : fiche Zamia lindenii FR publiée (26510) : https://succulentes.net/cycadales/zamia/lindenii/ (aucune traduction)
+- 03/10/2026 : fiche Zamia lindleyi FR publiée (26517) : https://succulentes.net/cycadales/zamia/lindleyi/ (aucune traduction)
+- 03/10/2026 : fiche Zamia lindosensis FR publiée (26519) : https://succulentes.net/cycadales/zamia/lindosensis/ (aucune traduction)
+- 03/10/2026 : fiche Zamia macrochiera FR publiée (26521) : https://succulentes.net/cycadales/zamia/macrochiera/ (aucune traduction)
+- 03/10/2026 : fiche Zamia manicata FR publiée (26523) : https://succulentes.net/cycadales/zamia/manicata/ (aucune traduction)
+- 03/10/2026 : liens vers les onze fiches (imbricata, incognita, ipetiensis, katzeriana, lawsoniana, lecointei, lindenii, lindleyi, lindosensis, macrochiera, manicata) ajoutés dans l'index de la page genre 3963 ; liens croisés posés entre ces fiches et vers les fiches Zamia déjà publiées (première occurrence, hors introduction). Aucune redirection ancienne trouvée pour ces URL.

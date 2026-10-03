@@ -50,3 +50,7 @@ Brouillon : `pilotes/espece-zamia-ipetiensis-fr.html` (blocs Gutenberg contrôl�
 - Deux DOI UICN 2022 pour l'espèce (A69839117 et version amendée A243405877).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches *Zamia* FR publiées et vérifiées (200, sans redirection) au moment de la publication.
+
+## Publication effectuée
+
+- Publiée le 03/10/2026 : id 26492, https://succulentes.net/cycadales/zamia/ipetiensis/ (200, sans redirection ; aucune redirection ancienne trouvée). Sans translation_of (aucune traduction). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 3963 ; liens croisés posés vers les fiches Zamia FR publiées (vérifiées 200).

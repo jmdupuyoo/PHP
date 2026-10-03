@@ -47,3 +47,7 @@ Brouillon : `pilotes/espece-zamia-lindosensis-fr.html` (blocs Gutenberg contrôl
 - Restauration par l'institut SINCHI (Wikipédia, « Montero 2022 ») : non vérifiée.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches *Zamia* FR publiées et vérifiées (200, sans redirection) au moment de la publication.
+
+## Publication effectuée
+
+- Publiée le 03/10/2026 : id 26519, https://succulentes.net/cycadales/zamia/lindosensis/ (200, sans redirection ; aucune redirection ancienne trouvée). Sans translation_of (aucune traduction). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 3963 ; liens croisés posés vers les fiches Zamia FR publiées (vérifiées 200).
