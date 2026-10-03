@@ -10,6 +10,7 @@
 - **Meta** (137 car.) : `Cycas nitida, cycas des forêts littorales de Luçon aux feuilles très brillantes : identification, graines flottantes, typhons, statut EN.`
 - **Mot-clé** : `cycas nitida`
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=nitida) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/nitida/.
+- **Publiée** le 03/10/2026 : id 26691, https://succulentes.net/cycadales/cycas/nitida/ (200 sans redirection) ; SEO appliqué ; lien ajouté dans la page genre 1256.
 
 ## Sources
 - The World List of Cycads, https://cycadlist.org/scientific_name/173 (lu) : auteurs, protologue (Telopea 12(1) : 142-143), type cultivé (Sydney, NSW 728768, graines de Rapu-Rapu), répartition (Albay, Cagayan, Quezon, Northern Samar), EN A2ac, étymologie.

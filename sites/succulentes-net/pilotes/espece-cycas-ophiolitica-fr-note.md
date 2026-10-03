@@ -1,7 +1,7 @@
 # Note de livraison — *Cycas ophiolitica* (FR), fiche du 03/10/2026
 
 - Fichier : `pilotes/espece-cycas-ophiolitica-fr.html` (101 blocs Gutenberg ; contrôles par script OK : blocs appariés, balises équilibrées, aucun `<em>` imbriqué, aucun nom abrégé, aucune image, aucun `utm_`, aucun lien EN/IT/ES).
-- Longueur : environ 2517 mots hors Sites de référence et Bibliographie (3127 au total).
+- Longueur : environ 2511 mots hors Sites de référence et Bibliographie (3121 au total).
 - **Titre de page proposé** : `Cycas ophiolitica` (aucun nom français attesté)
 - **Slug** : `ophiolitica`
 - **Parent** : 1256
@@ -10,6 +10,7 @@
 - **Meta** (136 car.) : `Cycas ophiolitica ('Marlborough Blue'), cycas bleu des serpentinites du Queensland : identification, hybrides, culture, statut et CITES.`
 - **Mot-clé** : `cycas ophiolitica`
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=ophiolitica) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/ophiolitica/.
+- **Publiée** le 03/10/2026 : id 26715, https://succulentes.net/cycadales/cycas/ophiolitica/ (200 sans redirection) ; SEO appliqué ; lien ajouté dans la page genre 1256.
 
 ## Sources
 - The World List of Cycads, https://cycadlist.org/scientific_name/176 (lu) : auteur, protologue (Telopea 5(1) : 190-191), type (Hill & Stanberg 4140, 48,6 km S de Marlborough, 01/10/1991), VU, référence Forster 2010, synonymie de Laubenfels & Adema (sous *C. angulata*), étymologie.

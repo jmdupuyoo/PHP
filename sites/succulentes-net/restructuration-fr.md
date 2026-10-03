@@ -460,3 +460,14 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 03/10/2026 : fiche Cycas macrocarpa FR publiée (26696) : https://succulentes.net/cycadales/cycas/macrocarpa/ (aucune traduction)
 - 03/10/2026 : fiche Cycas mindanaensis FR publiée (26692) : https://succulentes.net/cycadales/cycas/mindanaensis/ (aucune traduction)
 - 03/10/2026 : liens vers les dix fiches Cycas (furfuracea, glauca, indica, inermis, javana, lacrimans, lane-poolei, maconochiei, macrocarpa, mindanaensis) ajoutés dans l'index des espèces de la page genre 1256 ; liens croisés entre ces fiches et vers les fiches Cycas déjà publiées (première occurrence, hors introduction et encadré). SEO Rank Math appliqué. Aucune redirection ancienne trouvée pour ces URL.
+- 03/10/2026 : fiche Cycas montana FR publiée (26685) : https://succulentes.net/cycadales/cycas/montana/ (aucune traduction)
+- 03/10/2026 : fiche Cycas nathorstii FR publiée (26688) : https://succulentes.net/cycadales/cycas/nathorstii/ (aucune traduction)
+- 03/10/2026 : fiche Cycas nayagarhensis FR publiée (26697) : https://succulentes.net/cycadales/cycas/nayagarhensis/ (aucune traduction)
+- 03/10/2026 : fiche Cycas nitida FR publiée (26691) : https://succulentes.net/cycadales/cycas/nitida/ (aucune traduction)
+- 03/10/2026 : fiche Cycas nongnoochiae FR publiée (26717) : https://succulentes.net/cycadales/cycas/nongnoochiae/ (aucune traduction)
+- 03/10/2026 : fiche Cycas ophiolitica FR publiée (26715) : https://succulentes.net/cycadales/cycas/ophiolitica/ (aucune traduction)
+- 03/10/2026 : fiche Cycas orientis FR publiée (26700) : https://succulentes.net/cycadales/cycas/orientis/ (aucune traduction)
+- 03/10/2026 : fiche Cycas orixensis FR publiée (26694) : https://succulentes.net/cycadales/cycas/orixensis/ (aucune traduction)
+- 03/10/2026 : fiche Cycas papuana FR publiée (26712) : https://succulentes.net/cycadales/cycas/papuana/ (aucune traduction)
+- 03/10/2026 : fiche Cycas petraea FR publiée (26719) : https://succulentes.net/cycadales/cycas/petraea/ (aucune traduction)
+- 03/10/2026 : liens vers les dix fiches Cycas (montana, nathorstii, nayagarhensis, nitida, nongnoochiae, ophiolitica, orientis, orixensis, papuana, petraea) ajoutés dans l'index des espèces de la page genre 1256 (replace_in_content, dry run puis application) ; liens croisés entre ces fiches (nayagarhensis ↔ orixensis, nongnoochiae ↔ petraea, orientis → papuana) et vers les fiches Cycas déjà publiées (première occurrence, hors introduction et encadré). SEO Rank Math appliqué. Aucune redirection ancienne trouvée pour ces URL.

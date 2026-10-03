@@ -10,6 +10,7 @@
 - **Meta** (136 car.) : `Cycas nathorstii, cycas de Sri Lanka et du Tamil Nadu longtemps pris pour Cycas circinalis : identification, histoire, statut VU, CITES.`
 - **Mot-clé** : `cycas nathorstii`
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=nathorstii) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/nathorstii/.
+- **Publiée** le 03/10/2026 : id 26688, https://succulentes.net/cycadales/cycas/nathorstii/ (200 sans redirection) ; SEO appliqué ; lien ajouté dans la page genre 1256.
 
 ## Sources
 - The World List of Cycads, https://cycadlist.org/scientific_name/172 (lu) : auteur, protologue (Pflanzenr. 99 : 76), lectotype Thwaites 3689, répartition, VU A2cd+4cd, référence Bösenberg 2022, synonymie de Laubenfels & Adema (sous *C. sphaerica*), étymologie.

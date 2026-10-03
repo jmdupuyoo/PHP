@@ -10,6 +10,7 @@
 - **Meta** (139 car.) : `Cycas montana, cycas des forêts de montagne de Florès décrit en 2009 : identification, espèces voisines, noms locaux, statut UICN et CITES.`
 - **Mot-clé** : `cycas montana`
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=montana) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/montana/.
+- **Publiée** le 03/10/2026 : id 26685, https://succulentes.net/cycadales/cycas/montana/ (200 sans redirection) ; SEO appliqué ; lien ajouté dans la page genre 1256.
 
 ## Sources
 - The World List of Cycads, https://cycadlist.org/scientific_name/167 (lu) : auteurs, protologue (Telopea 12(3) : 396-397), HT BO, Nusa Tenggara Timur, LC, étymologie.

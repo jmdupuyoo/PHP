@@ -157,16 +157,16 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Cycas | *Cycas maconochiei* | — | Least Concern | publiée (26682) |
 | Cycas | *Cycas macrocarpa* | — | Vulnerable | publiée (26696) |
 | Cycas | *Cycas mindanaensis* | — | Not Evaluated | publiée (26692) |
-| Cycas | *Cycas montana* | — | Least Concern | à faire |
-| Cycas | *Cycas nathorstii* | — | Vulnerable | à faire |
-| Cycas | *Cycas nayagarhensis* | — | Critically Endangered | à faire |
-| Cycas | *Cycas nitida* | — | Endangered | à faire |
-| Cycas | *Cycas nongnoochiae* | — | Vulnerable | à faire |
-| Cycas | *Cycas ophiolitica* | — | Vulnerable | à faire |
-| Cycas | *Cycas orientis* | — | Least Concern | à faire |
-| Cycas | *Cycas orixensis* | — | Critically Endangered | à faire |
-| Cycas | *Cycas papuana* | — | Least Concern | à faire |
-| Cycas | *Cycas petraea* | — | Endangered | à faire |
+| Cycas | *Cycas montana* | — | Least Concern | publiée (26685) |
+| Cycas | *Cycas nathorstii* | — | Vulnerable | publiée (26688) |
+| Cycas | *Cycas nayagarhensis* | — | Critically Endangered | publiée (26697) |
+| Cycas | *Cycas nitida* | — | Endangered | publiée (26691) |
+| Cycas | *Cycas nongnoochiae* | — | Vulnerable | publiée (26717) |
+| Cycas | *Cycas ophiolitica* | — | Vulnerable | publiée (26715) |
+| Cycas | *Cycas orientis* | — | Least Concern | publiée (26700) |
+| Cycas | *Cycas orixensis* | — | Critically Endangered | publiée (26694) |
+| Cycas | *Cycas papuana* | — | Least Concern | publiée (26712) |
+| Cycas | *Cycas petraea* | — | Endangered | publiée (26719) |
 | Cycas | *Cycas platyphylla* | — | Endangered | à faire |
 | Cycas | *Cycas pranburiensis* | — | Critically Endangered | à faire |
 | Cycas | *Cycas pruinosa* | — | Least Concern | à faire |

@@ -10,6 +10,7 @@
 - **Meta** (130 car.) : `Cycas orixensis, ancien Cycas circinalis var. orixensis, cycas de l'Odisha aux cônes mâles fourchus : histoire, usages, statut CR.`
 - **Mot-clé** : `cycas orixensis`
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=orixensis) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/orixensis/.
+- **Publiée** le 03/10/2026 : id 26694, https://succulentes.net/cycadales/cycas/orixensis/ (200 sans redirection) ; SEO appliqué ; lien ajouté dans la page genre 1256.
 
 ## Sources
 - The World List of Cycads, https://cycadlist.org/scientific_name/673 (lu) : auteurs, basionyme *C. circinalis* var. *orixensis* Haines (1924), Odisha, CR A4ad, étymologie (aucune référence UICN affichée).

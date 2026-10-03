@@ -10,6 +10,7 @@
 - **Meta** (132 car.) : `Cycas orientis, cycas des savanes de l'est de la terre d'Arnhem (Australie) : identification, hybrides avec Cycas arnhemica, statut.`
 - **Mot-clé** : `cycas orientis`
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=orientis) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/orientis/.
+- **Publiée** le 03/10/2026 : id 26700, https://succulentes.net/cycadales/cycas/orientis/ (200 sans redirection) ; SEO appliqué ; lien ajouté dans la page genre 1256.
 
 ## Sources
 - The World List of Cycads, https://cycadlist.org/scientific_name/177 (lu) : auteur, protologue (Telopea 5(4) : 696-697), type (Hill & Stanberg 3936, 26/08/1991), LC, référence Bösenberg 2022, synonymie de Laubenfels & Adema (sous *C. angulata*), étymologie.

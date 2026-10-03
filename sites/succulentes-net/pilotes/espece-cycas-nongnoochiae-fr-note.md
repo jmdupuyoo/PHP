@@ -10,6 +10,7 @@
 - **Meta** (130 car.) : `Cycas nongnoochiae, cycas des collines calcaires de Tak Fa (Thaïlande) : nom thaï, identification, inventaire, statut VU et CITES.`
 - **Mot-clé** : `cycas nongnoochiae`
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=nongnoochiae) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/nongnoochiae/.
+- **Publiée** le 03/10/2026 : id 26717, https://succulentes.net/cycadales/cycas/nongnoochiae/ (200 sans redirection) ; SEO appliqué ; lien ajouté dans la page genre 1256.
 
 ## Sources
 - The World List of Cycads, https://cycadlist.org/scientific_name/174 (lu) : auteur, protologue (Brittonia 51(1) : 60-62), type (Hill & Vatcharakorn 4643, Wat Suk Sam Ran, 29/04/1994), Laos (Vientiane) et Thaïlande (Nakhon Sawan), VU A2d ; B1ab(v), référence Marler & Lindstrom 2022, étymologie.

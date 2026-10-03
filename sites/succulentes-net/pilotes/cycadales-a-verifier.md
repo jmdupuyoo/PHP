@@ -156,3 +156,14 @@ Aucun autre message envoyé depuis La Londe-les-Maures ne concerne ces vingt esp
 - 18 mars 2012, fil « Conférence sur les Cycadacées acclimatables » (compte JMDUPUYOO, profil « La Londe (83) », signé « JM ») : *Cycas edentata* (« ancien nom de *C. litoralis* » selon le message cité) « très simple de culture » ; un sujet en pot, en intérieur, issu d'une graine de chez RPS, « déjà résistant aux écarts (arrosages irréguliers) ». Pas de valeur de froid. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?p=175939#p175939
 
 Si ce *Cycas edentata* est une plante du Jardin zoologique tropical, une observation datée (pot ou serre, minimum relevé) permettrait d'ajouter une phrase « au Jardin zoologique tropical de La Londe-les-Maures » dans la fiche 26657. Aucun autre message envoyé depuis La Londe ne concerne ces huit espèces.
+
+### Cycas — fiches espèce montana, nathorstii, nayagarhensis, nitida, nongnoochiae, ophiolitica, orientis, orixensis, papuana, petraea (03/10/2026) — non repris dans les fiches
+
+Messages du forum des Fous de palmiers envoyés depuis La Londe-les-Maures (profil « La Londe (83) », signés « JM » ou « Jean-Michel »), fil « Cycas petraea » (t=14236). Aucun ne contient d'observation de culture ou de froid ; aucun n'a été mis dans la fiche *Cycas petraea* (26719).
+
+- 27/12/2012 : demande où trouver des plantes à caudex de plus de 10 cm. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?p=233606#p233606
+- 27/12/2012 : questions sur un vendeur eBay (Peter ?), achat remis au printemps ; « C. tropophylla c'est une merveille ». https://www.fousdepalmiers.fr/html/forum/viewtopic.php?p=233624#p233624 et https://www.fousdepalmiers.fr/html/forum/viewtopic.php?p=233629#p233629 (lien vers palms.de)
+- 29/12/2012 : question sur un revendeur espagnol (Canaries ?). https://www.fousdepalmiers.fr/html/forum/viewtopic.php?p=233969#p233969
+- 22/01/2015 : « Y a-t-il eu d'autres essais avec cette espèce ? Il serait bien de parler des échecs également. » https://www.fousdepalmiers.fr/html/forum/viewtopic.php?p=355331#p355331
+
+Si un *Cycas petraea* a été acheté et cultivé au Jardin zoologique tropical, une observation datée (pot ou pleine terre, minimum relevé) permettrait d'ajouter une phrase « au Jardin zoologique tropical de La Londe-les-Maures » dans la fiche 26719. Aucun autre message envoyé depuis La Londe ne concerne ces dix espèces.

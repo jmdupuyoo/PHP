@@ -10,6 +10,7 @@
 - **Meta** (134 car.) : `Cycas papuana, cycas des savanes du Fly (Nouvelle-Guinée), ancien Cycas circinalis subsp. papuana : identification, taxonomie, statut.`
 - **Mot-clé** : `cycas papuana`
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=papuana) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/papuana/.
+- **Publiée** le 03/10/2026 : id 26712, https://succulentes.net/cycadales/cycas/papuana/ (200 sans redirection) ; SEO appliqué ; lien ajouté dans la page genre 1256.
 
 ## Sources
 - The World List of Cycads, https://cycadlist.org/scientific_name/181 (lu) : auteur, protologue (Descr. Notes Papuan Pl. 4 : 71-72), lectotype MEL 68056 (Fly River, D'Albertis), répartition incluant l'île du Prince-de-Galles (Qld), LC, référence Hill 2010, synonyme *C. circinalis* subsp. *papuana*, synonymie de Laubenfels & Adema (sous *C. armstrongii*), étymologie.

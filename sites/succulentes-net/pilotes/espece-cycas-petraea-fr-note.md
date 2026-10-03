@@ -1,7 +1,7 @@
 # Note de livraison — *Cycas petraea* (FR), fiche du 03/10/2026
 
 - Fichier : `pilotes/espece-cycas-petraea-fr.html` (105 blocs Gutenberg ; contrôles par script OK : blocs appariés, balises équilibrées, aucun `<em>` imbriqué, aucun nom abrégé, aucune image, aucun `utm_`, aucun lien EN/IT/ES).
-- Longueur : environ 2623 mots hors Sites de référence et Bibliographie (3344 au total).
+- Longueur : environ 2619 mots hors Sites de référence et Bibliographie (3340 au total).
 - **Titre de page proposé** : `Cycas petraea` (aucun nom français attesté)
 - **Slug** : `petraea`
 - **Parent** : 1256
@@ -10,6 +10,7 @@
 - **Meta** (135 car.) : `Cycas petraea, cycas des falaises calcaires de Loei (Thaïlande) : identification, semis, culture en pot, rusticité observée, statut EN.`
 - **Mot-clé** : `cycas petraea`
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=petraea) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/petraea/.
+- **Publiée** le 03/10/2026 : id 26719, https://succulentes.net/cycadales/cycas/petraea/ (200 sans redirection) ; SEO appliqué ; lien ajouté dans la page genre 1256.
 
 ## Sources
 - The World List of Cycads, https://cycadlist.org/scientific_name/186 (lu) : auteurs, protologue (Brittonia 54(4) : 299, 2002 publ. 2003), note d'orthographe (« petrae »), type (Hill & Vatcharakorn 5086, Phu Kradung, Ban Pong Khao, 01/02/2000, HT BKF), Laos (Vientiane) et Thaïlande (Loei), EN B1ab(v), référence Bösenberg 2010, Nazor & Lindström 2010, étymologie.

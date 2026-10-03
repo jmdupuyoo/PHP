@@ -10,6 +10,7 @@
 - **Meta** (133 car.) : `Cycas nayagarhensis, cycas à tronc massif de Nayagarh (Odisha) décrit en 2015 : différences avec Cycas orixensis, menaces, statut CR.`
 - **Mot-clé** : `cycas nayagarhensis`
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=nayagarhensis) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/nayagarhensis/.
+- **Publiée** le 03/10/2026 : id 26697, https://succulentes.net/cycadales/cycas/nayagarhensis/ (200 sans redirection) ; SEO appliqué ; lien ajouté dans la page genre 1256.
 
 ## Sources
 - The World List of Cycads, https://cycadlist.org/scientific_name/674 (lu) : auteurs, protologue (Asian J. Conserv. Biol. 4(1) : 3-14), type (Singh & Khuraijam 67409, mai 2009, HT CAL), CR B1ab(iii,v), référence Khuraijam 2022, étymologie.
