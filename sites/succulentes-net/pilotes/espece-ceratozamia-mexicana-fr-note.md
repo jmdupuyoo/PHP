@@ -47,3 +47,5 @@ Brouillon : `pilotes/espece-ceratozamia-mexicana-fr.html` (blocs Gutenberg contr
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26426, https://succulentes.net/cycadales/ceratozamia/mexicana/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.
+
+- 03/10/2026 : « Palma Sola » = C. brevifrons (et non C. mexicana) : SEO de C. mexicana mis à jour (Var retiré).
