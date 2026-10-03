@@ -97,17 +97,17 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Ceratozamia | *Ceratozamia leptoceras* | — | Not Evaluated | publiée (26404) |
 | Ceratozamia | *Ceratozamia matudae* | — | Endangered | publiée (26408) |
 | Ceratozamia | *Ceratozamia mexicana* | — | Critically Endangered | publiée (26426) |
-| Ceratozamia | *Ceratozamia miqueliana* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia mirandae* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia mixeorum* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia morettii* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia norstogii* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia oliversacksii* | — | Not Evaluated | à faire |
-| Ceratozamia | *Ceratozamia osbornei* | — | Not Evaluated | à faire |
-| Ceratozamia | *Ceratozamia popolucana* | — | Not Evaluated | à faire |
-| Ceratozamia | *Ceratozamia reesii* | — | Not Evaluated | à faire |
-| Ceratozamia | *Ceratozamia robusta* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia rosea* | — | Not Evaluated | à faire |
+| Ceratozamia | *Ceratozamia miqueliana* | — | Endangered | publiée (26452) |
+| Ceratozamia | *Ceratozamia mirandae* | — | Endangered | publiée (26454) |
+| Ceratozamia | *Ceratozamia mixeorum* | — | Endangered | publiée (26456) |
+| Ceratozamia | *Ceratozamia morettii* | — | Endangered | publiée (26458) |
+| Ceratozamia | *Ceratozamia norstogii* | — | Endangered | publiée (26460) |
+| Ceratozamia | *Ceratozamia oliversacksii* | — | Not Evaluated | publiée (26462) |
+| Ceratozamia | *Ceratozamia osbornei* | — | Not Evaluated | publiée (26464) |
+| Ceratozamia | *Ceratozamia popolucana* | — | Not Evaluated | publiée (26466) |
+| Ceratozamia | *Ceratozamia reesii* | — | Not Evaluated | publiée (26468) |
+| Ceratozamia | *Ceratozamia robusta* | — | Endangered | publiée (26472) |
+| Ceratozamia | *Ceratozamia rosea* | — | Not Evaluated | publiée (26476) |
 | Ceratozamia | *Ceratozamia sabatoi* | — | Endangered | publiée (26373) |
 | Ceratozamia | *Ceratozamia sancheziae* | — | Not Evaluated | publiée (26416) |
 | Ceratozamia | *Ceratozamia santillanii* | — | Critically Endangered | publiée (26420) |

@@ -360,3 +360,15 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 03/10/2026 : fiche Ceratozamia vovidesii FR publiée (26428) : https://succulentes.net/cycadales/ceratozamia/vovidesii/ (aucune traduction)
 - 03/10/2026 : fiche Ceratozamia zoquorum FR publiée (26438) : https://succulentes.net/cycadales/ceratozamia/zoquorum/ (aucune traduction)
 - 03/10/2026 : liens vers les onze fiches (sabatoi, subroseophylla, tenuis, totonacorum, whitelockiana, zaragozae, sancheziae, santillanii, schiblii, vovidesii, zoquorum) ajoutés dans l'index de la page genre 9866 ; liens croisés posés entre ces fiches et vers les fiches Ceratozamia déjà publiées (première occurrence, hors introduction).
+- 03/10/2026 : fiche Ceratozamia miqueliana FR publiée (26452) : https://succulentes.net/cycadales/ceratozamia/miqueliana/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia mirandae FR publiée (26454) : https://succulentes.net/cycadales/ceratozamia/mirandae/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia mixeorum FR publiée (26456) : https://succulentes.net/cycadales/ceratozamia/mixeorum/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia morettii FR publiée (26458) : https://succulentes.net/cycadales/ceratozamia/morettii/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia norstogii FR publiée (26460) : https://succulentes.net/cycadales/ceratozamia/norstogii/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia oliversacksii FR publiée (26462) : https://succulentes.net/cycadales/ceratozamia/oliversacksii/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia osbornei FR publiée (26464) : https://succulentes.net/cycadales/ceratozamia/osbornei/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia popolucana FR publiée (26466) : https://succulentes.net/cycadales/ceratozamia/popolucana/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia reesii FR publiée (26468) : https://succulentes.net/cycadales/ceratozamia/reesii/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia robusta FR publiée (26472) : https://succulentes.net/cycadales/ceratozamia/robusta/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia rosea FR publiée (26476) : https://succulentes.net/cycadales/ceratozamia/rosea/ (aucune traduction)
+- 03/10/2026 : liens vers les onze fiches (miqueliana, mirandae, mixeorum, morettii, norstogii, oliversacksii, osbornei, popolucana, reesii, robusta, rosea) ajoutés dans l'index de la page genre 9866 ; liens croisés posés entre ces fiches et vers les fiches Ceratozamia déjà publiées (première occurrence, hors introduction).
