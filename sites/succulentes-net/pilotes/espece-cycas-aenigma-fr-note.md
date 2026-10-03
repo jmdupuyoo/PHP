@@ -37,3 +37,6 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 2. **Année UICN** : la page genre 1256 indique « année non indiquée » pour *aenigma* ; Crossref donne une évaluation publiée dans la Liste rouge 2023 (Agoo & Lindström). Mise à jour possible de la ligne d'index.
 3. Graines en vente sur rarepalmseeds.com (vu en titre de résultat) : non vérifié (redirection), non repris.
 - Encadré : champs non documentés signalés comme tels ; rusticité « aucune donnée ».
+
+## Publication
+- Publiée le 03/10/2026 : id 26570, https://succulentes.net/cycadales/cycas/aenigma/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.

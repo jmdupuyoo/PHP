@@ -41,3 +41,6 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Points à valider par le propriétaire
 1. **UICN** : EN B1ab(iii,v)+2ab(iii,v) (Bösenberg 2022) ; ancienne catégorie LR/cd (1994) citée pour mémoire.
+
+## Publication
+- Publiée le 03/10/2026 : id 26632, https://succulentes.net/cycadales/cycas/candida/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.

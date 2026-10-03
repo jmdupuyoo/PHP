@@ -36,3 +36,6 @@ Aucune fiche EN (ni IT, ni ES) : rien à corriger.
 ## Points à valider par le propriétaire
 1. **Description et habitat** fondés sur des sources secondaires (protologue payant, Cycad Pages hors ligne) : à remplacer si vous avez accès à Hill 1994 (*Austral. Syst. Bot.* 7 : 557-560).
 - Encadré : champs non documentés signalés comme tels ; rusticité « aucune donnée ».
+
+## Publication
+- Publiée le 03/10/2026 : id 26622, https://succulentes.net/cycadales/cycas/bougainvilleana/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.

@@ -43,3 +43,6 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Points à valider par le propriétaire
 1. **UICN** : NT D2 (Forster 2010, WLoC) ; réévaluation Bösenberg 2023-1 non lue ; Forster proposait VU D2 en 2001.
+
+## Publication
+- Publiée le 03/10/2026 : id 26642, https://succulentes.net/cycadales/cycas/cupida/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.

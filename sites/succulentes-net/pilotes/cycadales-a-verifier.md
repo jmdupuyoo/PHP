@@ -144,3 +144,9 @@ Aucun de ces messages n'a été mis dans la page. Messages du forum des Fous de 
 - Pas des retours de culture (pour mémoire) : demande d'informations pour un article sur *C. panzhihuaensis* avec Pierre Bianchi, prévu dans la revue *Le Palmier* de septembre 2009 (t=4327 #p47237, #p54077) ; hésitation à planter *C. multifrondis* (t=8427 #p110662) ; citation d'un autre membre (t=3323&start=60 #p171159).
 
 Les deux articles du blog du site sur le JZT (*C. panzhihuaensis*, id 306 ; *C. taitungensis*, id 339) ont, eux, été utilisés comme observations de première main, conformément à la décision du 30/09/2026. À noter : l'article 306 indique « environ 350 espèces » pour le genre *Cycas* (118 selon WLoC).
+
+### Cycas — fiches espèce aenigma à curranii (03/10/2026) — non repris dans les fiches
+
+- 30 novembre 2015, fil t=14826 (compte JMDUPUYOO, profil « La Londe (83) ») : simple citation d'un autre membre qui cherche des *Cycas thouarsii* × *cairnsiana* ; aucun retour de culture. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?p=389559#p389559
+
+Aucun autre message envoyé depuis La Londe-les-Maures ne concerne ces vingt espèces.

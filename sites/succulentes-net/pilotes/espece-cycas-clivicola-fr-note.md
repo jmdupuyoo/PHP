@@ -54,3 +54,6 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Points à valider par le propriétaire
 1. **Statuts** : LC mondial (Hill 2010, WLoC) ; réévaluation Bösenberg & Nguyen 2023-1 non lue ; EN pour la sous-espèce type en Malaisie péninsulaire, NT (2006) puis LC (2019) en Thaïlande.
 2. Noms anglais « cliff cycad », « mountain cycad » (Llifle) non retenus faute de source primaire.
+
+## Publication
+- Publiée le 03/10/2026 : id 26636, https://succulentes.net/cycadales/cycas/clivicola/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.

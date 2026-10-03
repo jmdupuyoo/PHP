@@ -43,3 +43,6 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Points à valider par le propriétaire
 1. **Synonyme** : *Cycas canalis* subsp. *carinata* traité en synonyme (WLoC) ; à confirmer si la page genre 1256 le mentionne autrement.
 2. **UICN** : LC (Bösenberg 2022) ; l'évaluation d'Ottley 2010 n'a pas été consultée.
+
+## Publication
+- Publiée le 03/10/2026 : id 26630, https://succulentes.net/cycadales/cycas/canalis/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.

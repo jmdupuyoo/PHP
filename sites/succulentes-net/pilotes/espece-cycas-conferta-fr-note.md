@@ -44,3 +44,6 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Points à valider par le propriétaire
 1. **UICN à confirmer** : WLoC affiche VU B1ab(i,ii,iv,v) (Ottley 2010) ; la réévaluation Nagalingum (2023-1) serait NT selon des sources secondaires, non vérifié.
 2. **Description** : écarts entre le protologue (Chirgwin & Wigston 1993) et Hill (1996) exposés dans la fiche.
+
+## Publication
+- Publiée le 03/10/2026 : id 26638, https://succulentes.net/cycadales/cycas/conferta/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.

@@ -36,3 +36,6 @@ Aucune fiche EN (ni IT, ni ES) : rien à corriger.
 ## Points à valider par le propriétaire
 1. **Statut UICN contradictoire** : WLoC LC (Hill 2010) ; Flora of Australia NT 2022 ; Wikipédia LC (Ottley & Liddle 2023). La fiche expose la divergence ; la page genre 1256 indique « LC, 2010 ». À trancher sur la Liste rouge (bloquée ici).
 - Encadré : champs non documentés signalés comme tels ; rusticité « aucune donnée ».
+
+## Publication
+- Publiée le 03/10/2026 : id 26609, https://succulentes.net/cycadales/cycas/arenicola/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.

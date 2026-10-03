@@ -35,3 +35,6 @@ Aucune fiche EN (ni IT, ni ES) : rien à corriger.
 ## Points à valider par le propriétaire
 1. **Aire** : WLoC ajoute Maluku Utara et Nusa Tenggara Timur, absents de la carte de Lindström et al. 2009 ; divergence exposée dans la fiche, origine non trouvée.
 - Encadré : champs non documentés signalés comme tels ; rusticité « aucune donnée ».
+
+## Publication
+- Publiée le 03/10/2026 : id 26605, https://succulentes.net/cycadales/cycas/apoa/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.

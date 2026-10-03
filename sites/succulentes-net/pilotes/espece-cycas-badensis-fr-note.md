@@ -34,3 +34,6 @@ Aucune fiche EN (ni IT, ni ES) : rien à corriger.
 ## Points à valider par le propriétaire
 1. **Statut UICN contradictoire** : WLoC LC (Hill 2010), Flora of Australia NT 2022, Wikipédia LC (2023). Divergence exposée ; page genre : « LC, 2010 ».
 - Encadré : champs non documentés signalés comme tels ; rusticité « aucune donnée ».
+
+## Publication
+- Publiée le 03/10/2026 : id 26618, https://succulentes.net/cycadales/cycas/badensis/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.

@@ -42,3 +42,6 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Points à valider par le propriétaire
 1. **UICN** : WLoC affiche VU D2 sans citer l'évaluation ; l'évaluation Jutta & Lindström (Liste rouge 2023-1) n'a pas pu être lue ; les auteurs proposaient CR en 2010. La fiche expose les deux.
 2. Menace de carrières signalée en 2010 : situation actuelle non documentée.
+
+## Publication
+- Publiée le 03/10/2026 : id 26634, https://succulentes.net/cycadales/cycas/cantafolia/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.

@@ -41,3 +41,6 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Points à valider par le propriétaire
 1. **Concept de l'espèce** : Hill (1994) et de Laubenfels & Adema (1998) l'appliquent différemment (plaines herbeuses vs grand arbre de forêt du seul type) ; la fiche suit WLoC/Hill et expose la divergence.
 2. **UICN** : NT B1b(iii,v) (Bösenberg 2022), version corrigée 2023 non lue.
+
+## Publication
+- Publiée le 03/10/2026 : id 26628, https://succulentes.net/cycadales/cycas/campestris/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.

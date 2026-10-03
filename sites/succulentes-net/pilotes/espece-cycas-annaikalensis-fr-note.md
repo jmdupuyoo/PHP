@@ -34,3 +34,6 @@ Aucune fiche EN (ni IT, ni ES) : rien à corriger.
 ## Points à valider par le propriétaire
 Aucun point bloquant. Nom accepté (WLoC), aucune page existante sous ce nom ou un synonyme (list_content / REST search).
 - Encadré : champs non documentés signalés comme tels ; rusticité « aucune donnée ».
+
+## Publication
+- Publiée le 03/10/2026 : id 26601, https://succulentes.net/cycadales/cycas/annaikalensis/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.

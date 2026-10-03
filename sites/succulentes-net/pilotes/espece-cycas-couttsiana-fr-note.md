@@ -52,3 +52,6 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 1. **Synonymie** : de Laubenfels & Adema (1998) l'ont mis en synonymie avec *Cycas angulata* ; non suivi par WLoC (espèce acceptée). Exposé dans la fiche.
 2. **UICN** : NT B1a (Bösenberg 2010) ; réévaluation 2023-1 non lue.
 3. Lien « À lire aussi » vers l'article du blog sur la méthode Simon Lavaud (id 16529), demandé par le propriétaire : présent.
+
+## Publication
+- Publiée le 03/10/2026 : id 26640, https://succulentes.net/cycadales/cycas/couttsiana/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.

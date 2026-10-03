@@ -119,26 +119,26 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Ceratozamia | *Ceratozamia whitelockiana* | — | Endangered | publiée (26406) |
 | Ceratozamia | *Ceratozamia zaragozae* | — | Endangered | publiée (26412) |
 | Ceratozamia | *Ceratozamia zoquorum* | — | Critically Endangered | publiée (26438) |
-| Cycas | *Cycas aenigma* | — | Endangered | à faire |
-| Cycas | *Cycas angulata* | — | Least Concern | à faire |
-| Cycas | *Cycas annaikalensis* | — | Critically Endangered | à faire |
-| Cycas | *Cycas apoa* | — | Least Concern | à faire |
-| Cycas | *Cycas arenicola* | — | Least Concern | à faire |
-| Cycas | *Cycas arnhemica* | — | Least Concern | à faire |
-| Cycas | *Cycas badensis* | — | Least Concern | à faire |
-| Cycas | *Cycas basaltica* | — | Least Concern | à faire |
-| Cycas | *Cycas bougainvilleana* | — | Near Threatened | à faire |
-| Cycas | *Cycas brunnea* | — | Near Threatened | à faire |
-| Cycas | *Cycas cairnsiana* | — | Near Threatened | à faire |
-| Cycas | *Cycas campestris* | — | Near Threatened | à faire |
-| Cycas | *Cycas canalis* | — | Least Concern | à faire |
-| Cycas | *Cycas candida* | — | Endangered | à faire |
-| Cycas | *Cycas cantafolia* | — | Vulnerable | à faire |
-| Cycas | *Cycas clivicola* | — | Least Concern | à faire |
-| Cycas | *Cycas conferta* | — | Vulnerable | à faire |
-| Cycas | *Cycas couttsiana* | — | Near Threatened | à faire |
-| Cycas | *Cycas cupida* | — | Near Threatened | à faire |
-| Cycas | *Cycas curranii* | — | Critically Endangered | à faire |
+| Cycas | *Cycas aenigma* | — | Endangered | publiée (26570) |
+| Cycas | *Cycas angulata* | — | Least Concern | publiée (26591) |
+| Cycas | *Cycas annaikalensis* | — | Critically Endangered | publiée (26601) |
+| Cycas | *Cycas apoa* | — | Least Concern | publiée (26605) |
+| Cycas | *Cycas arenicola* | — | Least Concern | publiée (26609) |
+| Cycas | *Cycas arnhemica* | — | Least Concern | publiée (26613) |
+| Cycas | *Cycas badensis* | — | Least Concern | publiée (26618) |
+| Cycas | *Cycas basaltica* | — | Least Concern | publiée (26620) |
+| Cycas | *Cycas bougainvilleana* | — | Near Threatened | publiée (26622) |
+| Cycas | *Cycas brunnea* | — | Near Threatened | publiée (26624) |
+| Cycas | *Cycas cairnsiana* | — | Near Threatened | publiée (26626) |
+| Cycas | *Cycas campestris* | — | Near Threatened | publiée (26628) |
+| Cycas | *Cycas canalis* | — | Least Concern | publiée (26630) |
+| Cycas | *Cycas candida* | — | Endangered | publiée (26632) |
+| Cycas | *Cycas cantafolia* | — | Vulnerable | publiée (26634) |
+| Cycas | *Cycas clivicola* | — | Least Concern | publiée (26636) |
+| Cycas | *Cycas conferta* | — | Vulnerable | publiée (26638) |
+| Cycas | *Cycas couttsiana* | — | Near Threatened | publiée (26640) |
+| Cycas | *Cycas cupida* | — | Near Threatened | publiée (26642) |
+| Cycas | *Cycas curranii* | — | Critically Endangered | publiée (26644) |
 | Cycas | *Cycas desolata* | — | Near Threatened | à faire |
 | Cycas | *Cycas dharmrajii* | — | Not Evaluated | à faire |
 | Cycas | *Cycas distans* | — | Endangered | à faire |

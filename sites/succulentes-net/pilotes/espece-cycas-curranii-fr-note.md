@@ -44,3 +44,6 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Points à valider par le propriétaire
 1. **UICN** : CR A2acd+4acd (Agoo et al. 2014, WLoC) alors que Lindström et al. (2008) recommandaient NT ; écart inexpliqué, réévaluation Bösenberg 2023-1 non lue.
 2. Nom local « pitogo » (PACSOA) : générique pour les cycas à larges folioles.
+
+## Publication
+- Publiée le 03/10/2026 : id 26644, https://succulentes.net/cycadales/cycas/curranii/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.

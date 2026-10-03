@@ -57,3 +57,6 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 1. **UICN** : WLoC affiche NT (Hill 2010) ; la réévaluation Bösenberg (Liste rouge 2023-1) n'a pas pu être lue.
 2. **Retour d'Arizona** : connu seulement par un résumé de forum de la Cycad Newsletter (texte original non lu).
 3. Lien « À lire aussi » vers l'article du blog sur la méthode Simon Lavaud (id 16529), demandé par le propriétaire : présent.
+
+## Publication
+- Publiée le 03/10/2026 : id 26626, https://succulentes.net/cycadales/cycas/cairnsiana/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
