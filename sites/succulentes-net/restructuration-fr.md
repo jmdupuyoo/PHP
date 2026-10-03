@@ -449,3 +449,14 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 03/10/2026 : fiche Cycas flabellata FR publiée (26661) : https://succulentes.net/cycadales/cycas/flabellata/ (aucune traduction)
 - 03/10/2026 : fiche Cycas fugax FR publiée (26663) : https://succulentes.net/cycadales/cycas/fugax/ (aucune traduction)
 - 03/10/2026 : liens vers les huit fiches Cycas (desolata à fugax) ajoutés dans l'index des espèces de la page genre 1256 ; lien vers Cycas divyadarshanii ajouté dans la fiche Cycas pectinata (26165) à la première occurrence hors introduction et encadré ; liens croisés edentata ↔ falcata et liens vers desolata, dharmrajii, edentata et fugax posés à la première occurrence dans angulata, cairnsiana, cantafolia, clivicola, couttsiana, cupida, curranii, hoabinhensis, zeylanica, pschannae et andamanica. Aucune redirection ancienne trouvée pour ces URL.
+- 03/10/2026 : fiche Cycas furfuracea FR publiée (26680) : https://succulentes.net/cycadales/cycas/furfuracea/ (aucune traduction)
+- 03/10/2026 : fiche Cycas glauca FR publiée (26684) : https://succulentes.net/cycadales/cycas/glauca/ (aucune traduction)
+- 03/10/2026 : fiche Cycas indica FR publiée (26683) : https://succulentes.net/cycadales/cycas/indica/ (aucune traduction)
+- 03/10/2026 : fiche Cycas inermis FR publiée (26699) : https://succulentes.net/cycadales/cycas/inermis/ (aucune traduction)
+- 03/10/2026 : fiche Cycas javana FR publiée (26687) : https://succulentes.net/cycadales/cycas/javana/ (aucune traduction)
+- 03/10/2026 : fiche Cycas lacrimans FR publiée (26690) : https://succulentes.net/cycadales/cycas/lacrimans/ (aucune traduction)
+- 03/10/2026 : fiche Cycas lane-poolei FR publiée (26681) : https://succulentes.net/cycadales/cycas/lane-poolei/ (aucune traduction)
+- 03/10/2026 : fiche Cycas maconochiei FR publiée (26682) : https://succulentes.net/cycadales/cycas/maconochiei/ (aucune traduction)
+- 03/10/2026 : fiche Cycas macrocarpa FR publiée (26696) : https://succulentes.net/cycadales/cycas/macrocarpa/ (aucune traduction)
+- 03/10/2026 : fiche Cycas mindanaensis FR publiée (26692) : https://succulentes.net/cycadales/cycas/mindanaensis/ (aucune traduction)
+- 03/10/2026 : liens vers les dix fiches Cycas (furfuracea, glauca, indica, inermis, javana, lacrimans, lane-poolei, maconochiei, macrocarpa, mindanaensis) ajoutés dans l'index des espèces de la page genre 1256 ; liens croisés entre ces fiches et vers les fiches Cycas déjà publiées (première occurrence, hors introduction et encadré). SEO Rank Math appliqué. Aucune redirection ancienne trouvée pour ces URL.

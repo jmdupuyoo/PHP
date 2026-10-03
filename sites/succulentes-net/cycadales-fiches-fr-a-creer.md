@@ -147,16 +147,16 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Cycas | *Cycas falcata* | — | Vulnerable | publiée (26659) |
 | Cycas | *Cycas flabellata* | — | Not Evaluated | publiée (26661) |
 | Cycas | *Cycas fugax* | — | Critically Endangered | publiée (26663) |
-| Cycas | *Cycas furfuracea* | — | Least Concern | à faire |
-| Cycas | *Cycas glauca* | — | Critically Endangered | à faire |
-| Cycas | *Cycas indica* | — | Endangered | à faire |
-| Cycas | *Cycas inermis* | — | Vulnerable | à faire |
-| Cycas | *Cycas javana* | — | Critically Endangered | à faire |
-| Cycas | *Cycas lacrimans* | — | Endangered | à faire |
-| Cycas | *Cycas lane-poolei* | — | Least Concern | à faire |
-| Cycas | *Cycas maconochiei* | — | Least Concern | à faire |
-| Cycas | *Cycas macrocarpa* | — | Vulnerable | à faire |
-| Cycas | *Cycas mindanaensis* | — | Not Evaluated | à faire |
+| Cycas | *Cycas furfuracea* | — | Least Concern | publiée (26680) |
+| Cycas | *Cycas glauca* | — | Critically Endangered | publiée (26684) |
+| Cycas | *Cycas indica* | — | Endangered | publiée (26683) |
+| Cycas | *Cycas inermis* | — | Vulnerable | publiée (26699) |
+| Cycas | *Cycas javana* | — | Critically Endangered | publiée (26687) |
+| Cycas | *Cycas lacrimans* | — | Endangered | publiée (26690) |
+| Cycas | *Cycas lane-poolei* | — | Least Concern | publiée (26681) |
+| Cycas | *Cycas maconochiei* | — | Least Concern | publiée (26682) |
+| Cycas | *Cycas macrocarpa* | — | Vulnerable | publiée (26696) |
+| Cycas | *Cycas mindanaensis* | — | Not Evaluated | publiée (26692) |
 | Cycas | *Cycas montana* | — | Least Concern | à faire |
 | Cycas | *Cycas nathorstii* | — | Vulnerable | à faire |
 | Cycas | *Cycas nayagarhensis* | — | Critically Endangered | à faire |
