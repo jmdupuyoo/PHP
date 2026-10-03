@@ -213,17 +213,17 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Macrozamia | *Macrozamia secunda* | — | Vulnerable | publiée (26293) |
 | Macrozamia | *Macrozamia serpentina* | — | Near Threatened | publiée (26331) |
 | Macrozamia | *Macrozamia viridis* | — | Endangered | publiée (26318) |
-| Zamia | *Zamia acuminata* | — | Vulnerable | à faire |
-| Zamia | *Zamia cunaria* | — | Endangered | à faire |
-| Zamia | *Zamia disodon* | — | Endangered | à faire |
-| Zamia | *Zamia dressleri* | — | Endangered | à faire |
-| Zamia | *Zamia fairchildiana* | — | Near Threatened | à faire |
-| Zamia | *Zamia gentryi* | — | Endangered | à faire |
-| Zamia | *Zamia gomeziana* | — | Near Threatened | à faire |
-| Zamia | *Zamia hamannii* | — | Vulnerable | à faire |
-| Zamia | *Zamia herrerae* | — | Vulnerable | à faire |
-| Zamia | *Zamia huilensis* | — | Endangered | à faire |
-| Zamia | *Zamia hymenophyllidia* | — | Least Concern | à faire |
+| Zamia | *Zamia acuminata* | — | Vulnerable | publiée (26470) |
+| Zamia | *Zamia cunaria* | — | Endangered | publiée (26474) |
+| Zamia | *Zamia disodon* | — | Endangered | publiée (26477) |
+| Zamia | *Zamia dressleri* | — | Endangered | publiée (26480) |
+| Zamia | *Zamia fairchildiana* | — | Near Threatened | publiée (26484) |
+| Zamia | *Zamia gentryi* | — | Endangered | publiée (26487) |
+| Zamia | *Zamia gomeziana* | — | Near Threatened | publiée (26491) |
+| Zamia | *Zamia hamannii* | — | Vulnerable | publiée (26495) |
+| Zamia | *Zamia herrerae* | — | Vulnerable | publiée (26499) |
+| Zamia | *Zamia huilensis* | — | Endangered | publiée (26503) |
+| Zamia | *Zamia hymenophyllidia* | — | Least Concern | publiée (26507) |
 | Zamia | *Zamia imbricata* | — | Not Evaluated | à faire |
 | Zamia | *Zamia incognita* | — | Endangered | à faire |
 | Zamia | *Zamia ipetiensis* | — | Endangered | à faire |

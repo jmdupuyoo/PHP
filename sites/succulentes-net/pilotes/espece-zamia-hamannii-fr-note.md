@@ -1,7 +1,7 @@
 # Note de livraison — *Zamia hamannii* (FR) (03/10/2026)
 
 - Fichier : `pilotes/espece-zamia-hamannii-fr.html` (blocs appariés, balises équilibrées, aucun `<em>` imbriqué, aucune image, aucun commentaire HTML hors délimiteurs, aucun `utm_`, aucun lien EN/IT/ES, vérifiés par script).
-- Longueur : environ 2044 mots hors Sites de référence et Bibliographie (2437 au total).
+- Longueur : environ 2009 mots hors Sites de référence et Bibliographie (2381 au total).
 - Titre de page proposé : « Zamia hamannii » (aucun nom français attesté).
 - Slug : `hamannii`
 - Parent : 3963 (page genre FR *Zamia*, /cycadales/zamia/)
@@ -28,7 +28,7 @@
 
 ## Retours de culture (forums)
 - fdp search « hamannii » (31) et « hamanni » (7) : t=13490 (distribution de graines, nov.-déc. 2012) ; t=14274 (germinations 2013 : Gard #p236328, Nantes #p238509, Dordogne #p238052 et #p241277 moisissure, #p249391 bilan, conseils #p227249, #p228488, #p239131, #p241112, #p238874) ; t=12464 (couleur du flush, hybrides supposés, 2014-2015) ; t=19109&start=15 #p358092 (Grèce, ouï-dire).
-- A : aucun. B : germination et culture sous abri (Gard, janvier 2013, 28-29 °C) ; Grèce (février 2015, minima −2/−2,5 °C, pleine terre sous couvert, défoliés puis repousse) — retour de seconde main sans lieu ni date précis, cité avec réserve (déjà classé C dans la note genre, ici mentionné comme non confirmé). C : aucun autre.
+- A : aucun. B : germination et culture sous abri (Gard, janvier 2013, 28-29 °C) ; C : Grèce (t=19109&start=15 #p358092, février 2015, minima −2/−2,5 °C, pleine terre sous couvert, défoliés puis repousse) — seconde main, sans lieu ni date précis ; écarté comme dans la note genre (mentionné dans la page comme écarté).
 - Tropicamente : recherche https://www.tropicamente.it/forums/search/zamia+hamannii/ (03/10/2026) : aucun résultat.
 - Messages de La Londe-les-Maures : aucun message.
 
@@ -37,8 +37,14 @@
 - Liens externes : aucun `<a>` externe (URL en texte dans Sites de référence) ; URL externes vérifiées en 200 le 03/10/2026.
 
 ## Points à valider par le propriétaire
-- Retour grec cité avec réserve (seconde main) : à retirer si le propriétaire préfère s'en tenir à la note genre (classé C).
 - « Île à 70 km des côtes » (forum) : non repris (invérifiable).
 - Hybrides hamannii × imperialis / skinneri : hypothèse d'amateur, présentée comme telle.
 - POWO non consulté (Cloudflare) : nom accepté d'après WLoC.
 - France : aucune culture en pleine terre ni épisode de gel documenté, toutes zones ; encadré « Rusticité documentée : aucune donnée ».
+
+## Publication (03/10/2026)
+- Page 26495 publiée : https://succulentes.net/cycadales/zamia/hamannii/ (200, sans redirection, vérifiée avec curl), parent 3963, langue fr, sans translation_of (aucune traduction : l'espèce n'a de fiche dans aucune langue).
+- Vérifié avant création : aucune page FR existante (list_content « Zamia », toutes pages, tous statuts) ; aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
+- SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
+- Contenu publié vérifié identique au fichier local (comparaison du texte rendu, phrase par phrase).
+- Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).

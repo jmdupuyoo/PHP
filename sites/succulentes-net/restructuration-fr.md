@@ -372,3 +372,15 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 03/10/2026 : fiche Ceratozamia robusta FR publiée (26472) : https://succulentes.net/cycadales/ceratozamia/robusta/ (aucune traduction)
 - 03/10/2026 : fiche Ceratozamia rosea FR publiée (26476) : https://succulentes.net/cycadales/ceratozamia/rosea/ (aucune traduction)
 - 03/10/2026 : liens vers les onze fiches (miqueliana, mirandae, mixeorum, morettii, norstogii, oliversacksii, osbornei, popolucana, reesii, robusta, rosea) ajoutés dans l'index de la page genre 9866 ; liens croisés posés entre ces fiches et vers les fiches Ceratozamia déjà publiées (première occurrence, hors introduction).
+- 03/10/2026 : fiche Zamia acuminata FR publiée (26470) : https://succulentes.net/cycadales/zamia/acuminata/ (aucune traduction)
+- 03/10/2026 : fiche Zamia cunaria FR publiée (26474) : https://succulentes.net/cycadales/zamia/cunaria/ (aucune traduction)
+- 03/10/2026 : fiche Zamia disodon FR publiée (26477) : https://succulentes.net/cycadales/zamia/disodon/ (aucune traduction)
+- 03/10/2026 : fiche Zamia dressleri FR publiée (26480) : https://succulentes.net/cycadales/zamia/dressleri/ (aucune traduction)
+- 03/10/2026 : fiche Zamia fairchildiana FR publiée (26484) : https://succulentes.net/cycadales/zamia/fairchildiana/ (aucune traduction)
+- 03/10/2026 : fiche Zamia gentryi FR publiée (26487) : https://succulentes.net/cycadales/zamia/gentryi/ (aucune traduction)
+- 03/10/2026 : fiche Zamia gomeziana FR publiée (26491) : https://succulentes.net/cycadales/zamia/gomeziana/ (aucune traduction)
+- 03/10/2026 : fiche Zamia hamannii FR publiée (26495) : https://succulentes.net/cycadales/zamia/hamannii/ (aucune traduction)
+- 03/10/2026 : fiche Zamia herrerae FR publiée (26499) : https://succulentes.net/cycadales/zamia/herrerae/ (aucune traduction)
+- 03/10/2026 : fiche Zamia huilensis FR publiée (26503) : https://succulentes.net/cycadales/zamia/huilensis/ (aucune traduction)
+- 03/10/2026 : fiche Zamia hymenophyllidia FR publiée (26507) : https://succulentes.net/cycadales/zamia/hymenophyllidia/ (aucune traduction)
+- 03/10/2026 : liens vers les onze fiches Zamia (acuminata, cunaria, disodon, dressleri, fairchildiana, gentryi, gomeziana, hamannii, herrerae, huilensis, hymenophyllidia) ajoutés dans l'index de la page genre 3963 ; liens croisés posés entre ces fiches (première occurrence, hors introduction et encadré).

@@ -41,3 +41,11 @@
 - Nom du papillon : « E. goddarti » dans le mémoire, écrit Eumaeus godartii (orthographe usuelle) — à confirmer.
 - POWO non consulté (Cloudflare) : nom accepté d'après WLoC.
 - France : aucune culture en pleine terre ni épisode de gel documenté, toutes zones ; encadré « Rusticité documentée : aucune donnée ».
+
+## Publication (03/10/2026)
+- Page 26484 publiée : https://succulentes.net/cycadales/zamia/fairchildiana/ (200, sans redirection, vérifiée avec curl), parent 3963, langue fr, sans translation_of (aucune traduction : l'espèce n'a de fiche dans aucune langue).
+- Vérifié avant création : aucune page FR existante (list_content « Zamia », toutes pages, tous statuts) ; aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
+- SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
+- Contenu publié vérifié identique au fichier local (comparaison du texte rendu, phrase par phrase).
+- Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).
+- Liens croisés posés après publication vers les fiches du lot : gomeziana, acuminata (première occurrence hors introduction et encadré).

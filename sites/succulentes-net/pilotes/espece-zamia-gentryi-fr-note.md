@@ -1,7 +1,7 @@
 # Note de livraison — *Zamia gentryi* (FR) (03/10/2026)
 
 - Fichier : `pilotes/espece-zamia-gentryi-fr.html` (blocs appariés, balises équilibrées, aucun `<em>` imbriqué, aucune image, aucun commentaire HTML hors délimiteurs, aucun `utm_`, aucun lien EN/IT/ES, vérifiés par script).
-- Longueur : environ 2012 mots hors Sites de référence et Bibliographie (2351 au total).
+- Longueur : environ 2023 mots hors Sites de référence et Bibliographie (2362 au total).
 - Titre de page proposé : « Zamia gentryi » (aucun nom français attesté).
 - Slug : `gentryi`
 - Parent : 3963 (page genre FR *Zamia*, /cycadales/zamia/)
@@ -40,3 +40,10 @@
 - Observation de 2012 (>40 plantes) opposée par le témoin à un chiffre UICN de 10 plantes : non reprise (chiffre UICN non vérifiable).
 - POWO non consulté (Cloudflare) : nom accepté d'après WLoC.
 - France : aucune culture en pleine terre ni épisode de gel documenté, toutes zones ; encadré « Rusticité documentée : aucune donnée ».
+
+## Publication (03/10/2026)
+- Page 26487 publiée : https://succulentes.net/cycadales/zamia/gentryi/ (200, sans redirection, vérifiée avec curl), parent 3963, langue fr, sans translation_of (aucune traduction : l'espèce n'a de fiche dans aucune langue).
+- Vérifié avant création : aucune page FR existante (list_content « Zamia », toutes pages, tous statuts) ; aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
+- SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
+- Contenu publié vérifié identique au fichier local (comparaison du texte rendu, phrase par phrase).
+- Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).
