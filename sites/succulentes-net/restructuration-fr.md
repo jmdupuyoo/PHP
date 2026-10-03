@@ -483,3 +483,15 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 03/10/2026 : fiche Cycas seshachalamensis FR publiée (26740) : https://succulentes.net/cycadales/cycas/seshachalamensis/ (aucune traduction)
 - 03/10/2026 : liens vers les dix fiches Cycas (platyphylla, pranburiensis, pruinosa, riuminiana, sancti-lasallei, saxatilis, schumanniana, scratchleyana, semota, seshachalamensis) ajoutés dans l'index des espèces de la page genre 1256 (replace_in_content, dry run puis application) ; liens vers les fiches Cycas déjà publiées (première occurrence, hors introduction et encadré). SEO Rank Math appliqué. Aucune redirection ancienne trouvée pour ces URL.
 - 2026-10-03 : Cycas riuminiana (26728) — retour de forum (Bicol, bouturage) retiré, identification douteuse ; FAQ ajustée. Cycas papuana (26712) — date du message Fous de palmiers p=115282 corrigée (décembre 2010).
+- 03/10/2026 : fiche Cycas silvestris FR publiée (26745) : https://succulentes.net/cycadales/cycas/silvestris/ (aucune traduction)
+- 03/10/2026 : fiche Cycas sphaerica FR publiée (26747) : https://succulentes.net/cycadales/cycas/sphaerica/ (aucune traduction)
+- 03/10/2026 : fiche Cycas sundaica FR publiée (26749) : https://succulentes.net/cycadales/cycas/sundaica/ (aucune traduction)
+- 03/10/2026 : fiche Cycas tansachana FR publiée (26751) : https://succulentes.net/cycadales/cycas/tansachana/ (aucune traduction)
+- 03/10/2026 : fiche Cycas terryana FR publiée (26753) : https://succulentes.net/cycadales/cycas/terryana/ (aucune traduction)
+- 03/10/2026 : fiche Cycas tuckeri FR publiée (26755) : https://succulentes.net/cycadales/cycas/tuckeri/ (aucune traduction)
+- 03/10/2026 : fiche Cycas vespertilio FR publiée (26757) : https://succulentes.net/cycadales/cycas/vespertilio/ (aucune traduction)
+- 03/10/2026 : fiche Cycas wadei FR publiée (26759) : https://succulentes.net/cycadales/cycas/wadei/ (aucune traduction)
+- 03/10/2026 : fiche Cycas xipholepis FR publiée (26761) : https://succulentes.net/cycadales/cycas/xipholepis/ (aucune traduction)
+- 03/10/2026 : fiche Cycas yorkiana FR publiée (26763) : https://succulentes.net/cycadales/cycas/yorkiana/ (aucune traduction)
+- 03/10/2026 : fiche Cycas zambalensis FR publiée (26765) : https://succulentes.net/cycadales/cycas/zambalensis/ (aucune traduction)
+- 03/10/2026 : liens vers les onze fiches Cycas (silvestris, sphaerica, sundaica, tansachana, terryana, tuckeri, vespertilio, wadei, xipholepis, yorkiana, zambalensis) ajoutés dans l'index des espèces de la page genre 1256 (replace_in_content, dry run puis application) ; liens croisés ajoutés ensuite dans tuckeri (yorkiana, xipholepis, semota) et yorkiana (semota). SEO Rank Math appliqué. Aucune redirection ancienne trouvée pour ces URL.

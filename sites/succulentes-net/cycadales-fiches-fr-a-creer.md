@@ -177,17 +177,17 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Cycas | *Cycas scratchleyana* | — | Least Concern | publiée (26736) |
 | Cycas | *Cycas semota* | — | Vulnerable | publiée (26738) |
 | Cycas | *Cycas seshachalamensis* | — | Not Evaluated | publiée (26740) |
-| Cycas | *Cycas silvestris* | — | Near Threatened | à faire |
-| Cycas | *Cycas sphaerica* | — | Endangered | à faire |
-| Cycas | *Cycas sundaica* | — | Least Concern | à faire |
-| Cycas | *Cycas tansachana* | — | Critically Endangered | à faire |
-| Cycas | *Cycas terryana* | — | Vulnerable | à faire |
-| Cycas | *Cycas tuckeri* | — | Vulnerable | à faire |
-| Cycas | *Cycas vespertilio* | — | Vulnerable | à faire |
-| Cycas | *Cycas wadei* | — | Critically Endangered | à faire |
-| Cycas | *Cycas xipholepis* | — | Least Concern | à faire |
-| Cycas | *Cycas yorkiana* | — | Near Threatened | à faire |
-| Cycas | *Cycas zambalensis* | — | Critically Endangered | à faire |
+| Cycas | *Cycas silvestris* | — | Near Threatened | publiée (26745) |
+| Cycas | *Cycas sphaerica* | — | Endangered | publiée (26747) |
+| Cycas | *Cycas sundaica* | — | Least Concern | publiée (26749) |
+| Cycas | *Cycas tansachana* | — | Critically Endangered | publiée (26751) |
+| Cycas | *Cycas terryana* | — | Vulnerable | publiée (26753) |
+| Cycas | *Cycas tuckeri* | — | Vulnerable | publiée (26755) |
+| Cycas | *Cycas vespertilio* | — | Vulnerable | publiée (26757) |
+| Cycas | *Cycas wadei* | — | Critically Endangered | publiée (26759) |
+| Cycas | *Cycas xipholepis* | — | Least Concern | publiée (26761) |
+| Cycas | *Cycas yorkiana* | — | Near Threatened | publiée (26763) |
+| Cycas | *Cycas zambalensis* | — | Critically Endangered | publiée (26765) |
 | Encephalartos | *Encephalartos afer* | — | Near Threatened | publiée (26313) |
 | Encephalartos | *Encephalartos delucanus* | — | Endangered | publiée (26346) |
 | Encephalartos | *Encephalartos mackenziei* | — | Critically Endangered | publiée (26352) |
