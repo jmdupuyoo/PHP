@@ -348,3 +348,15 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 03/10/2026 : fiche Ceratozamia matudae FR publiée (26408) : https://succulentes.net/cycadales/ceratozamia/matudae/ (aucune traduction)
 - 03/10/2026 : fiche Ceratozamia mexicana FR publiée (26426) : https://succulentes.net/cycadales/ceratozamia/mexicana/ (aucune traduction)
 - 03/10/2026 : liens vers les onze fiches (euryphyllidia, gigantea, guatemalensis, hildae, hondurensis, huastecorum, kuesteriana, latifolia, leptoceras, matudae, mexicana) ajoutés dans l'index de la page genre 9866 ; liens croisés posés entre ces fiches et vers les fiches Ceratozamia déjà publiées (brevifrons, chamberlainii, delucana, sabatoi, subroseophylla, tenuis, totonacorum, vovidesii, whitelockiana). Observation JZT « Palma Sola » (−6 °C sans protection, hiver 2011-2012) intégrée à la fiche mexicana.
+- 03/10/2026 : fiche Ceratozamia sabatoi FR publiée (26373) : https://succulentes.net/cycadales/ceratozamia/sabatoi/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia subroseophylla FR publiée (26381) : https://succulentes.net/cycadales/ceratozamia/subroseophylla/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia tenuis FR publiée (26397) : https://succulentes.net/cycadales/ceratozamia/tenuis/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia totonacorum FR publiée (26402) : https://succulentes.net/cycadales/ceratozamia/totonacorum/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia whitelockiana FR publiée (26406) : https://succulentes.net/cycadales/ceratozamia/whitelockiana/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia zaragozae FR publiée (26412) : https://succulentes.net/cycadales/ceratozamia/zaragozae/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia sancheziae FR publiée (26416) : https://succulentes.net/cycadales/ceratozamia/sancheziae/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia santillanii FR publiée (26420) : https://succulentes.net/cycadales/ceratozamia/santillanii/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia schiblii FR publiée (26424) : https://succulentes.net/cycadales/ceratozamia/schiblii/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia vovidesii FR publiée (26428) : https://succulentes.net/cycadales/ceratozamia/vovidesii/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia zoquorum FR publiée (26438) : https://succulentes.net/cycadales/ceratozamia/zoquorum/ (aucune traduction)
+- 03/10/2026 : liens vers les onze fiches (sabatoi, subroseophylla, tenuis, totonacorum, whitelockiana, zaragozae, sancheziae, santillanii, schiblii, vovidesii, zoquorum) ajoutés dans l'index de la page genre 9866 ; liens croisés posés entre ces fiches et vers les fiches Ceratozamia déjà publiées (première occurrence, hors introduction).

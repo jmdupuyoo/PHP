@@ -28,7 +28,7 @@
 - Retenus (A, B) : aucun. Écartés : aucun. Messages de La Londe-les-Maures : aucun (rien ajouté à `cycadales-a-verifier.md`).
 
 ## Liens internes (200 sans redirection, curl le 03/10/2026)
-- Intro : https://succulentes.net/cycadales/ceratozamia/ (9866). Corps : https://succulentes.net/cycadales/zamia/ ; https://succulentes.net/cycadales/dioon/vovidesii/. Aucune autre fiche *Ceratozamia* n'est publiée : espèces citées sans lien.
+- Intro : https://succulentes.net/cycadales/ceratozamia/ (9866). Corps : https://succulentes.net/cycadales/zamia/ ; https://succulentes.net/cycadales/dioon/vovidesii/. Liens vers les fiches *Ceratozamia* publiées le 03/10/2026 (première occurrence hors intro) : alvarezii, chimalapensis, guatemalensis, latifolia, matudae, mexicana, subroseophylla.
 - À lire aussi : arrosage des cycadales, cônes et reproduction, toxicité du cycas.
 
 ## Points à valider par le propriétaire
@@ -43,3 +43,9 @@
 3. Sources demandées introuvables : aucun retour de culture, aucune source asiatique.
 4. France : aucune donnée, quelle que soit la zone.
 5. Encadré : rusticité « aucune donnée » ; exposition en culture non documentée.
+
+## Publication (03/10/2026)
+- Page créée et publiée : id 26428, https://succulentes.net/cycadales/ceratozamia/vovidesii/ (200, sans redirection ; contenu en ligne comparé au fichier : identique, hors bloc newsletter du thème). Aucune redirection ancienne sur cette URL (list_redirects).
+- translation_of : aucun (aucune fiche dans une autre langue).
+- SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
+- Lien ajouté dans l'index de la page genre 9866 (dry_run puis application).

@@ -108,17 +108,17 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Ceratozamia | *Ceratozamia reesii* | — | Not Evaluated | à faire |
 | Ceratozamia | *Ceratozamia robusta* | — | Endangered | à faire |
 | Ceratozamia | *Ceratozamia rosea* | — | Not Evaluated | à faire |
-| Ceratozamia | *Ceratozamia sabatoi* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia sancheziae* | — | Not Evaluated | à faire |
-| Ceratozamia | *Ceratozamia santillanii* | — | Critically Endangered | à faire |
-| Ceratozamia | *Ceratozamia schiblii* | — | Not Evaluated | à faire |
-| Ceratozamia | *Ceratozamia subroseophylla* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia tenuis* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia totonacorum* | — | Vulnerable | à faire |
-| Ceratozamia | *Ceratozamia vovidesii* | — | Vulnerable | à faire |
-| Ceratozamia | *Ceratozamia whitelockiana* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia zaragozae* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia zoquorum* | — | Critically Endangered | à faire |
+| Ceratozamia | *Ceratozamia sabatoi* | — | Endangered | publiée (26373) |
+| Ceratozamia | *Ceratozamia sancheziae* | — | Not Evaluated | publiée (26416) |
+| Ceratozamia | *Ceratozamia santillanii* | — | Critically Endangered | publiée (26420) |
+| Ceratozamia | *Ceratozamia schiblii* | — | Not Evaluated | publiée (26424) |
+| Ceratozamia | *Ceratozamia subroseophylla* | — | Endangered | publiée (26381) |
+| Ceratozamia | *Ceratozamia tenuis* | — | Endangered | publiée (26397) |
+| Ceratozamia | *Ceratozamia totonacorum* | — | Vulnerable | publiée (26402) |
+| Ceratozamia | *Ceratozamia vovidesii* | — | Vulnerable | publiée (26428) |
+| Ceratozamia | *Ceratozamia whitelockiana* | — | Endangered | publiée (26406) |
+| Ceratozamia | *Ceratozamia zaragozae* | — | Endangered | publiée (26412) |
+| Ceratozamia | *Ceratozamia zoquorum* | — | Critically Endangered | publiée (26438) |
 | Cycas | *Cycas aenigma* | — | Endangered | à faire |
 | Cycas | *Cycas angulata* | — | Least Concern | à faire |
 | Cycas | *Cycas annaikalensis* | — | Critically Endangered | à faire |
