@@ -235,24 +235,24 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Zamia | *Zamia lindosensis* | — | Not Evaluated | publiée (26519) |
 | Zamia | *Zamia macrochiera* | — | Endangered | publiée (26521) |
 | Zamia | *Zamia manicata* | — | Near Threatened | publiée (26523) |
-| Zamia | *Zamia meermanii* | — | Endangered | à faire |
-| Zamia | *Zamia melanorrhachis* | — | Endangered | à faire |
-| Zamia | *Zamia multidentata* | — | Not Evaluated | à faire |
-| Zamia | *Zamia muricata* | — | Least Concern | à faire |
-| Zamia | *Zamia nesophila* | — | Critically Endangered | à faire |
-| Zamia | *Zamia onan-reyesii* | — | Endangered | à faire |
-| Zamia | *Zamia oreillyi* | — | Critically Endangered | à faire |
-| Zamia | *Zamia orinoquiensis* | — | Not Evaluated | à faire |
-| Zamia | *Zamia paucifoliolata* | — | Not Evaluated | à faire |
-| Zamia | *Zamia paucijuga* | — | Near Threatened | à faire |
-| Zamia | *Zamia pyrophylla* | — | Critically Endangered | à faire |
-| Zamia | *Zamia restrepoi* | — | Critically Endangered | à faire |
-| Zamia | *Zamia sandovalii* | — | Endangered | à faire |
-| Zamia | *Zamia sinuensis* | — | Not Evaluated | à faire |
-| Zamia | *Zamia spartea* | — | Critically Endangered | à faire |
-| Zamia | *Zamia standleyi* | — | Least Concern | à faire |
-| Zamia | *Zamia stenophyllidia* | — | Not Evaluated | à faire |
-| Zamia | *Zamia stevensonii* | — | Endangered | à faire |
-| Zamia | *Zamia tolimensis* | — | Endangered | à faire |
-| Zamia | *Zamia urarinorum* | — | Not Evaluated | à faire |
-| Zamia | *Zamia urep* | — | Endangered | à faire |
+| Zamia | *Zamia meermanii* | — | Endangered | publiée (26542) |
+| Zamia | *Zamia melanorrhachis* | — | Endangered | publiée (26556) |
+| Zamia | *Zamia multidentata* | — | Not Evaluated | publiée (26550) |
+| Zamia | *Zamia muricata* | — | Least Concern | publiée (26548) |
+| Zamia | *Zamia nesophila* | — | Critically Endangered | publiée (26544) |
+| Zamia | *Zamia onan-reyesii* | — | Endangered | publiée (26558) |
+| Zamia | *Zamia oreillyi* | — | Critically Endangered | publiée (26562) |
+| Zamia | *Zamia orinoquiensis* | — | Not Evaluated | publiée (26546) |
+| Zamia | *Zamia paucifoliolata* | — | Not Evaluated | publiée (26552) |
+| Zamia | *Zamia paucijuga* | — | Near Threatened | publiée (26566) |
+| Zamia | *Zamia pyrophylla* | — | Critically Endangered | publiée (26554) |
+| Zamia | *Zamia restrepoi* | — | Critically Endangered | publiée (26560) |
+| Zamia | *Zamia sandovalii* | — | Endangered | publiée (26603) |
+| Zamia | *Zamia sinuensis* | — | Not Evaluated | publiée (26564) |
+| Zamia | *Zamia spartea* | — | Critically Endangered | publiée (26596) |
+| Zamia | *Zamia standleyi* | — | Least Concern | publiée (26607) |
+| Zamia | *Zamia stenophyllidia* | — | Not Evaluated | publiée (26611) |
+| Zamia | *Zamia stevensonii* | — | Endangered | publiée (26614) |
+| Zamia | *Zamia tolimensis* | — | Endangered | publiée (26599) |
+| Zamia | *Zamia urarinorum* | — | Not Evaluated | publiée (26590) |
+| Zamia | *Zamia urep* | — | Endangered | publiée (26568) |
