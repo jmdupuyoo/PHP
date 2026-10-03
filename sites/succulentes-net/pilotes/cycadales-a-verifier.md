@@ -124,6 +124,15 @@ Messages du forum des Fous de palmiers envoyés depuis La Londe-les-Maures (prof
 
 Si le *Ceratozamia kuesteriana* ou le *Ceratozamia hildae* du Jardin zoologique tropical sont toujours en place, une observation datée (pot ou pleine terre, minimum relevé, résultat) permettrait d'ajouter une phrase « au Jardin zoologique tropical de La Londe-les-Maures » dans leur fiche.
 
+### Stangeria eriopus (fiche espèce 4090, brouillon espece-stangeria-eriopus-fr.html, 03/10/2026) — non repris dans la fiche
+
+Fil « Stangeria eriopus » du forum des Fous de palmiers (https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=16218), lu en entier le 03/10/2026. Deux messages du compte JMDUPUYOO, localisation « La Londe (83) » :
+
+- 02/04/2017 (#p431623) : question à un cultivateur de Corse-du-Sud sur l'ombre et l'arrosage d'été, et intention de « faire un essai en extérieur ». Aucune donnée de culture ni de température.
+- 29/04/2017 (#p433755) : remerciements, sans contenu technique.
+
+À valider par le propriétaire : la fiche reprend, comme la page genre (4081), l'observation du Jardin zoologique tropical (survie à −7 °C en pleine terre à l'ombre, feuilles détruites vers −4 °C, plante désormais en pot) sans année. Si l'essai en extérieur annoncé en avril 2017 est celui du JZT, l'épisode à −7 °C serait postérieur à 2017 : préciser l'hiver (et l'âge ou la taille de la plante) permettrait de dater le retour.
+
 ## Image 1497 (Macrozamia)
 
 - Fichier : https://succulentes.net/wp-content/uploads/2021/07/feuille-macrozamia-comunis.jpg
