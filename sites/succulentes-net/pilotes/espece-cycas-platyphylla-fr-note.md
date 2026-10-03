@@ -1,7 +1,7 @@
 # Note de livraison — *Cycas platyphylla* (FR), fiche du 03/10/2026
 
 - Fichier : `pilotes/espece-cycas-platyphylla-fr.html` (95 blocs Gutenberg ; contrôles par script : OK — blocs appariés, balises équilibrées, aucune image, aucun `utm_`, aucun lien EN/IT/ES, aucun nom abrégé).
-- Longueur : environ 2244 mots hors Sites de référence et Bibliographie (2749 au total).
+- Longueur : environ 2242 mots hors Sites de référence et Bibliographie (2747 au total).
 - **Titre de page proposé** : `Cycas platyphylla` (aucun nom français attesté)
 - **Slug** : `platyphylla`
 - **Parent** : 1256
@@ -9,6 +9,7 @@
 - **Titre SEO** (54 car.) : `Cycas platyphylla : cycas bleu de Petford (Queensland)`
 - **Meta** (139 car.) : `Cycas platyphylla, cycas du Queensland aux jeunes feuilles bleutées, longtemps vendu comme Cycas cairnsiana : description, statut, culture.`
 - **Mot-clé** : `cycas platyphylla`
+- **Publiée le 03/10/2026** : id 26721, https://succulentes.net/cycadales/cycas/platyphylla/ (200 sans redirection), parent 1256, sans translation_of ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=platyphylla) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/platyphylla/.
 
 ## Sources

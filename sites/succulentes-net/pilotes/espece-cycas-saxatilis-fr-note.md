@@ -1,7 +1,7 @@
 # Note de livraison — *Cycas saxatilis* (FR), fiche du 03/10/2026
 
 - Fichier : `pilotes/espece-cycas-saxatilis-fr.html` (86 blocs Gutenberg ; contrôles par script : OK — blocs appariés, balises équilibrées, aucune image, aucun `utm_`, aucun lien EN/IT/ES, aucun nom abrégé).
-- Longueur : environ 1785 mots hors Sites de référence et Bibliographie (2091 au total).
+- Longueur : environ 1788 mots hors Sites de référence et Bibliographie (2094 au total).
 - **Titre de page proposé** : `Cycas saxatilis` (aucun nom français attesté)
 - **Slug** : `saxatilis`
 - **Parent** : 1256
@@ -9,6 +9,7 @@
 - **Titre SEO** (57 car.) : `Cycas saxatilis : cycas des falaises calcaires de Palawan`
 - **Meta** (133 car.) : `Cycas saxatilis, cycas rupestre des falaises calcaires de Palawan (Philippines), de la section Wadeae : description, habitat, statut.`
 - **Mot-clé** : `cycas saxatilis`
+- **Publiée le 03/10/2026** : id 26732, https://succulentes.net/cycadales/cycas/saxatilis/ (200 sans redirection), parent 1256, sans translation_of ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=saxatilis) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/saxatilis/.
 
 ## Sources

@@ -9,6 +9,7 @@
 - **Titre SEO** (40 car.) : `Cycas pruinosa : cycas bleu du Kimberley`
 - **Meta** (147 car.) : `Cycas pruinosa, cycas du Kimberley aux folioles enroulées et graines pruineuses, bleu ou vert selon les populations : description, statut, culture.`
 - **Mot-clé** : `cycas pruinosa`
+- **Publiée le 03/10/2026** : id 26726, https://succulentes.net/cycadales/cycas/pruinosa/ (200 sans redirection), parent 1256, sans translation_of ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=pruinosa) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/pruinosa/.
 
 ## Sources

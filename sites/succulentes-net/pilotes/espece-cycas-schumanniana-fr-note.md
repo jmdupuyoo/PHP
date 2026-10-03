@@ -1,7 +1,7 @@
 # Note de livraison — *Cycas schumanniana* (FR), fiche du 03/10/2026
 
 - Fichier : `pilotes/espece-cycas-schumanniana-fr.html` (88 blocs Gutenberg ; contrôles par script : OK — blocs appariés, balises équilibrées, aucune image, aucun `utm_`, aucun lien EN/IT/ES, aucun nom abrégé).
-- Longueur : environ 1905 mots hors Sites de référence et Bibliographie (2298 au total).
+- Longueur : environ 1907 mots hors Sites de référence et Bibliographie (2300 au total).
 - **Titre de page proposé** : `Cycas schumanniana` (aucun nom français attesté)
 - **Slug** : `schumanniana`
 - **Parent** : 1256
@@ -9,6 +9,7 @@
 - **Titre SEO** (58 car.) : `Cycas schumanniana : cycas des prairies de Nouvelle-Guinée`
 - **Meta** (142 car.) : `Cycas schumanniana, cycas des prairies du nord-est de la Papouasie-Nouvelle-Guinée, quasi menacé : description, confusions, taxonomie, statut.`
 - **Mot-clé** : `cycas schumanniana`
+- **Publiée le 03/10/2026** : id 26734, https://succulentes.net/cycadales/cycas/schumanniana/ (200 sans redirection), parent 1256, sans translation_of ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=schumanniana) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/schumanniana/.
 
 ## Sources

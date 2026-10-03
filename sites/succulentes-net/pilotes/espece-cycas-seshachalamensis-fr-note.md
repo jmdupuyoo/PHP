@@ -1,7 +1,7 @@
 # Note de livraison — *Cycas seshachalamensis* (FR), fiche du 03/10/2026
 
 - Fichier : `pilotes/espece-cycas-seshachalamensis-fr.html` (83 blocs Gutenberg ; contrôles par script : OK — blocs appariés, balises équilibrées, aucune image, aucun `utm_`, aucun lien EN/IT/ES, aucun nom abrégé).
-- Longueur : environ 1839 mots hors Sites de référence et Bibliographie (2121 au total).
+- Longueur : environ 1838 mots hors Sites de référence et Bibliographie (2120 au total).
 - **Titre de page proposé** : `Cycas seshachalamensis` (aucun nom français attesté)
 - **Slug** : `seshachalamensis`
 - **Parent** : 1256
@@ -9,6 +9,7 @@
 - **Titre SEO** (58 car.) : `Cycas seshachalamensis : cycas des collines de Seshachalam`
 - **Meta** (136 car.) : `Cycas seshachalamensis, cycas d'Andhra Pradesh (Inde) décrit en 2016, à base renflée et tige souterraine : description, habitat, statut.`
 - **Mot-clé** : `cycas seshachalamensis`
+- **Publiée le 03/10/2026** : id 26740, https://succulentes.net/cycadales/cycas/seshachalamensis/ (200 sans redirection), parent 1256, sans translation_of ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=seshachalamensis) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/seshachalamensis/.
 
 ## Sources

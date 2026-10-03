@@ -1,7 +1,7 @@
 # Note de livraison — *Cycas scratchleyana* (FR), fiche du 03/10/2026
 
 - Fichier : `pilotes/espece-cycas-scratchleyana-fr.html` (88 blocs Gutenberg ; contrôles par script : OK — blocs appariés, balises équilibrées, aucune image, aucun `utm_`, aucun lien EN/IT/ES, aucun nom abrégé).
-- Longueur : environ 2269 mots hors Sites de référence et Bibliographie (2739 au total).
+- Longueur : environ 2270 mots hors Sites de référence et Bibliographie (2737 au total).
 - **Titre de page proposé** : `Cycas scratchleyana` (aucun nom français attesté)
 - **Slug** : `scratchleyana`
 - **Parent** : 1256
@@ -9,6 +9,7 @@
 - **Titre SEO** (57 car.) : `Cycas scratchleyana : cycas des forêts de Nouvelle-Guinée`
 - **Meta** (139 car.) : `Cycas scratchleyana, grand cycas forestier de Nouvelle-Guinée et des Moluques, présent sur l'île Mer : description, taxonomie, noms locaux.`
 - **Mot-clé** : `cycas scratchleyana`
+- **Publiée le 03/10/2026** : id 26736, https://succulentes.net/cycadales/cycas/scratchleyana/ (200 sans redirection), parent 1256, sans translation_of ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=scratchleyana) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/scratchleyana/.
 
 ## Sources

@@ -471,3 +471,15 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 03/10/2026 : fiche Cycas papuana FR publiée (26712) : https://succulentes.net/cycadales/cycas/papuana/ (aucune traduction)
 - 03/10/2026 : fiche Cycas petraea FR publiée (26719) : https://succulentes.net/cycadales/cycas/petraea/ (aucune traduction)
 - 03/10/2026 : liens vers les dix fiches Cycas (montana, nathorstii, nayagarhensis, nitida, nongnoochiae, ophiolitica, orientis, orixensis, papuana, petraea) ajoutés dans l'index des espèces de la page genre 1256 (replace_in_content, dry run puis application) ; liens croisés entre ces fiches (nayagarhensis ↔ orixensis, nongnoochiae ↔ petraea, orientis → papuana) et vers les fiches Cycas déjà publiées (première occurrence, hors introduction et encadré). SEO Rank Math appliqué. Aucune redirection ancienne trouvée pour ces URL.
+- 03/10/2026 : fiche Cycas platyphylla FR publiée (26721) : https://succulentes.net/cycadales/cycas/platyphylla/ (aucune traduction)
+- 03/10/2026 : fiche Cycas pranburiensis FR publiée (26724) : https://succulentes.net/cycadales/cycas/pranburiensis/ (aucune traduction)
+- 03/10/2026 : fiche Cycas pruinosa FR publiée (26726) : https://succulentes.net/cycadales/cycas/pruinosa/ (aucune traduction)
+- 03/10/2026 : fiche Cycas riuminiana FR publiée (26728) : https://succulentes.net/cycadales/cycas/riuminiana/ (aucune traduction)
+- 03/10/2026 : fiche Cycas sancti-lasallei FR publiée (26730) : https://succulentes.net/cycadales/cycas/sancti-lasallei/ (aucune traduction)
+- 03/10/2026 : fiche Cycas saxatilis FR publiée (26732) : https://succulentes.net/cycadales/cycas/saxatilis/ (aucune traduction)
+- 03/10/2026 : fiche Cycas schumanniana FR publiée (26734) : https://succulentes.net/cycadales/cycas/schumanniana/ (aucune traduction)
+- 03/10/2026 : fiche Cycas scratchleyana FR publiée (26736) : https://succulentes.net/cycadales/cycas/scratchleyana/ (aucune traduction)
+- 03/10/2026 : fiche Cycas semota FR publiée (26738) : https://succulentes.net/cycadales/cycas/semota/ (aucune traduction)
+- 03/10/2026 : fiche Cycas seshachalamensis FR publiée (26740) : https://succulentes.net/cycadales/cycas/seshachalamensis/ (aucune traduction)
+- 03/10/2026 : liens vers les dix fiches Cycas (platyphylla, pranburiensis, pruinosa, riuminiana, sancti-lasallei, saxatilis, schumanniana, scratchleyana, semota, seshachalamensis) ajoutés dans l'index des espèces de la page genre 1256 (replace_in_content, dry run puis application) ; liens vers les fiches Cycas déjà publiées (première occurrence, hors introduction et encadré). SEO Rank Math appliqué. Aucune redirection ancienne trouvée pour ces URL.
+- 2026-10-03 : Cycas riuminiana (26728) — retour de forum (Bicol, bouturage) retiré, identification douteuse ; FAQ ajustée. Cycas papuana (26712) — date du message Fous de palmiers p=115282 corrigée (décembre 2010).

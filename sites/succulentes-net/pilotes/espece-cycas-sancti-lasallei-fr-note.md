@@ -9,6 +9,7 @@
 - **Titre SEO** (58 car.) : `Cycas sancti-lasallei : cycas de Cagayan de Oro (Mindanao)`
 - **Meta** (138 car.) : `Cycas sancti-lasallei, cycas de Mindanao en danger critique, connu du seul bassin de la Cugman : description, population, menaces, statut.`
 - **Mot-clé** : `cycas sancti-lasallei`
+- **Publiée le 03/10/2026** : id 26730, https://succulentes.net/cycadales/cycas/sancti-lasallei/ (200 sans redirection), parent 1256, sans translation_of ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=lasallei) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/sancti-lasallei/.
 
 ## Sources

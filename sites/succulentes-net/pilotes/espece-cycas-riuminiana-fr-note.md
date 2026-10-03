@@ -9,6 +9,7 @@
 - **Titre SEO** (51 car.) : `Cycas riuminiana : le pitogo de Luçon (Philippines)`
 - **Meta** (134 car.) : `Cycas riuminiana (syn. Cycas chamberlainii), le pitogo des forêts de montagne de Luçon : description, noms, synonymes, statut, usages.`
 - **Mot-clé** : `cycas riuminiana`
+- **Publiée le 03/10/2026** : id 26728, https://succulentes.net/cycadales/cycas/riuminiana/ (200 sans redirection), parent 1256, sans translation_of ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=riuminiana) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/riuminiana/.
 
 ## Sources

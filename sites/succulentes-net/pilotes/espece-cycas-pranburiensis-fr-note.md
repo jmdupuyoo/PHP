@@ -9,6 +9,7 @@
 - **Titre SEO** (56 car.) : `Cycas pranburiensis : cycas des calcaires de Sam Roi Yot`
 - **Meta** (142 car.) : `Cycas pranburiensis, petit cycas des falaises calcaires de Prachuap Khiri Khan (Thaïlande), en danger critique : description, habitat, statut.`
 - **Mot-clé** : `cycas pranburiensis`
+- **Publiée le 03/10/2026** : id 26724, https://succulentes.net/cycadales/cycas/pranburiensis/ (200 sans redirection), parent 1256, sans translation_of ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=pranburiensis) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/pranburiensis/.
 
 ## Sources

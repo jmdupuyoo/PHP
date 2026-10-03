@@ -9,6 +9,7 @@
 - **Titre SEO** (50 car.) : `Cycas semota : cycas de Bamaga, pointe du cap York`
 - **Meta** (142 car.) : `Cycas semota, cycas arborescent de Bamaga, à la pointe du cap York (Queensland), vulnérable : description, habitat, série Yorkianosae, statut.`
 - **Mot-clé** : `cycas semota`
+- **Publiée le 03/10/2026** : id 26738, https://succulentes.net/cycadales/cycas/semota/ (200 sans redirection), parent 1256, sans translation_of ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
 - Vérifications préalables (03/10/2026) : list_content (page, fr, search=semota) → aucune page de l'espèce ; aucun synonyme publié ; list_redirects → aucune redirection depuis /cycadales/cycas/semota/.
 
 ## Sources

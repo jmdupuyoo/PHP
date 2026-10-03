@@ -167,16 +167,16 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Cycas | *Cycas orixensis* | — | Critically Endangered | publiée (26694) |
 | Cycas | *Cycas papuana* | — | Least Concern | publiée (26712) |
 | Cycas | *Cycas petraea* | — | Endangered | publiée (26719) |
-| Cycas | *Cycas platyphylla* | — | Endangered | à faire |
-| Cycas | *Cycas pranburiensis* | — | Critically Endangered | à faire |
-| Cycas | *Cycas pruinosa* | — | Least Concern | à faire |
-| Cycas | *Cycas riuminiana* | — | Endangered | à faire |
-| Cycas | *Cycas sancti-lasallei* | — | Critically Endangered | à faire |
-| Cycas | *Cycas saxatilis* | — | Vulnerable | à faire |
-| Cycas | *Cycas schumanniana* | — | Near Threatened | à faire |
-| Cycas | *Cycas scratchleyana* | — | Least Concern | à faire |
-| Cycas | *Cycas semota* | — | Vulnerable | à faire |
-| Cycas | *Cycas seshachalamensis* | — | Not Evaluated | à faire |
+| Cycas | *Cycas platyphylla* | — | Endangered | publiée (26721) |
+| Cycas | *Cycas pranburiensis* | — | Critically Endangered | publiée (26724) |
+| Cycas | *Cycas pruinosa* | — | Least Concern | publiée (26726) |
+| Cycas | *Cycas riuminiana* | — | Endangered | publiée (26728) |
+| Cycas | *Cycas sancti-lasallei* | — | Critically Endangered | publiée (26730) |
+| Cycas | *Cycas saxatilis* | — | Vulnerable | publiée (26732) |
+| Cycas | *Cycas schumanniana* | — | Near Threatened | publiée (26734) |
+| Cycas | *Cycas scratchleyana* | — | Least Concern | publiée (26736) |
+| Cycas | *Cycas semota* | — | Vulnerable | publiée (26738) |
+| Cycas | *Cycas seshachalamensis* | — | Not Evaluated | publiée (26740) |
 | Cycas | *Cycas silvestris* | — | Near Threatened | à faire |
 | Cycas | *Cycas sphaerica* | — | Endangered | à faire |
 | Cycas | *Cycas sundaica* | — | Least Concern | à faire |
