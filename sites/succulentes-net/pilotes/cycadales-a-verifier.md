@@ -150,3 +150,9 @@ Les deux articles du blog du site sur le JZT (*C. panzhihuaensis*, id 306 ; *C. 
 - 30 novembre 2015, fil t=14826 (compte JMDUPUYOO, profil « La Londe (83) ») : simple citation d'un autre membre qui cherche des *Cycas thouarsii* × *cairnsiana* ; aucun retour de culture. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?p=389559#p389559
 
 Aucun autre message envoyé depuis La Londe-les-Maures ne concerne ces vingt espèces.
+
+### Cycas — fiches espèce desolata, dharmrajii, distans, divyadarshanii, edentata, falcata, flabellata, fugax (03/10/2026) — non repris dans les fiches
+
+- 18 mars 2012, fil « Conférence sur les Cycadacées acclimatables » (compte JMDUPUYOO, profil « La Londe (83) », signé « JM ») : *Cycas edentata* (« ancien nom de *C. litoralis* » selon le message cité) « très simple de culture » ; un sujet en pot, en intérieur, issu d'une graine de chez RPS, « déjà résistant aux écarts (arrosages irréguliers) ». Pas de valeur de froid. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?p=175939#p175939
+
+Si ce *Cycas edentata* est une plante du Jardin zoologique tropical, une observation datée (pot ou serre, minimum relevé) permettrait d'ajouter une phrase « au Jardin zoologique tropical de La Londe-les-Maures » dans la fiche 26657. Aucun autre message envoyé depuis La Londe ne concerne ces huit espèces.

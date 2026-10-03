@@ -440,3 +440,12 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 03/10/2026 : fiche Cycas cupida FR publiée (26642) : https://succulentes.net/cycadales/cycas/cupida/ (aucune traduction)
 - 03/10/2026 : fiche Cycas curranii FR publiée (26644) : https://succulentes.net/cycadales/cycas/curranii/ (aucune traduction)
 - 03/10/2026 : liens vers les vingt fiches Cycas (aenigma à curranii) ajoutés dans l'index des espèces de la page genre 1256 ; liens croisés posés entre ces fiches et vers les fiches Cycas déjà publiées (première occurrence, hors introduction et encadré), y compris dans aenigma (26570) et angulata (26591), publiées plus tôt par un agent interrompu (SEO d'angulata complété). Lien « À lire aussi » vers l'article Simon Lavaud (16529) dans cairnsiana et couttsiana. Aucune redirection ancienne trouvée pour ces URL.
+- 03/10/2026 : fiche Cycas desolata FR publiée (26649) : https://succulentes.net/cycadales/cycas/desolata/ (aucune traduction)
+- 03/10/2026 : fiche Cycas dharmrajii FR publiée (26651) : https://succulentes.net/cycadales/cycas/dharmrajii/ (aucune traduction)
+- 03/10/2026 : fiche Cycas distans FR publiée (26653) : https://succulentes.net/cycadales/cycas/distans/ (aucune traduction)
+- 03/10/2026 : fiche Cycas divyadarshanii FR publiée (26655) : https://succulentes.net/cycadales/cycas/divyadarshanii/ (aucune traduction)
+- 03/10/2026 : fiche Cycas edentata FR publiée (26657) : https://succulentes.net/cycadales/cycas/edentata/ (aucune traduction)
+- 03/10/2026 : fiche Cycas falcata FR publiée (26659) : https://succulentes.net/cycadales/cycas/falcata/ (aucune traduction)
+- 03/10/2026 : fiche Cycas flabellata FR publiée (26661) : https://succulentes.net/cycadales/cycas/flabellata/ (aucune traduction)
+- 03/10/2026 : fiche Cycas fugax FR publiée (26663) : https://succulentes.net/cycadales/cycas/fugax/ (aucune traduction)
+- 03/10/2026 : liens vers les huit fiches Cycas (desolata à fugax) ajoutés dans l'index des espèces de la page genre 1256 ; lien vers Cycas divyadarshanii ajouté dans la fiche Cycas pectinata (26165) à la première occurrence hors introduction et encadré ; liens croisés edentata ↔ falcata et liens vers desolata, dharmrajii, edentata et fugax posés à la première occurrence dans angulata, cairnsiana, cantafolia, clivicola, couttsiana, cupida, curranii, hoabinhensis, zeylanica, pschannae et andamanica. Aucune redirection ancienne trouvée pour ces URL.

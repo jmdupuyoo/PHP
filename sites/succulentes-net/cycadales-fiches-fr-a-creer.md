@@ -139,14 +139,14 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Cycas | *Cycas couttsiana* | — | Near Threatened | publiée (26640) |
 | Cycas | *Cycas cupida* | — | Near Threatened | publiée (26642) |
 | Cycas | *Cycas curranii* | — | Critically Endangered | publiée (26644) |
-| Cycas | *Cycas desolata* | — | Near Threatened | à faire |
-| Cycas | *Cycas dharmrajii* | — | Not Evaluated | à faire |
-| Cycas | *Cycas distans* | — | Endangered | à faire |
-| Cycas | *Cycas divyadarshanii* | — | Not Evaluated | à faire |
-| Cycas | *Cycas edentata* | — | Endangered | à faire |
-| Cycas | *Cycas falcata* | — | Vulnerable | à faire |
-| Cycas | *Cycas flabellata* | — | Not Evaluated | à faire |
-| Cycas | *Cycas fugax* | — | Critically Endangered | à faire |
+| Cycas | *Cycas desolata* | — | Near Threatened | publiée (26649) |
+| Cycas | *Cycas dharmrajii* | — | Not Evaluated | publiée (26651) |
+| Cycas | *Cycas distans* | — | Endangered | publiée (26653) |
+| Cycas | *Cycas divyadarshanii* | — | Not Evaluated | publiée (26655) |
+| Cycas | *Cycas edentata* | — | Endangered | publiée (26657) |
+| Cycas | *Cycas falcata* | — | Vulnerable | publiée (26659) |
+| Cycas | *Cycas flabellata* | — | Not Evaluated | publiée (26661) |
+| Cycas | *Cycas fugax* | — | Critically Endangered | publiée (26663) |
 | Cycas | *Cycas furfuracea* | — | Least Concern | à faire |
 | Cycas | *Cycas glauca* | — | Critically Endangered | à faire |
 | Cycas | *Cycas indica* | — | Endangered | à faire |
