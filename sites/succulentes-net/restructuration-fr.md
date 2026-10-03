@@ -324,3 +324,15 @@ Ensuite : mise à jour des liens internes vers les nouvelles adresses.
 - 02/10/2026 : fiche Encephalartos delucanus FR publiée (26346) : https://succulentes.net/cycadales/encephalartos/delucanus/ (aucune traduction)
 - 02/10/2026 : fiche Encephalartos mackenziei FR publiée (26352) : https://succulentes.net/cycadales/encephalartos/mackenziei/ (aucune traduction)
 - 02/10/2026 : liens vers les six fiches (afer, poggei, marunguensis, schmitzii, delucanus, mackenziei) ajoutés dans l'index de la page genre 14229.
+- 03/10/2026 : fiche Ceratozamia alba FR publiée (26355) : https://succulentes.net/cycadales/ceratozamia/alba/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia alvarezii FR publiée (26357) : https://succulentes.net/cycadales/ceratozamia/alvarezii/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia aurantiaca FR publiée (26359) : https://succulentes.net/cycadales/ceratozamia/aurantiaca/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia becerrae FR publiée (26361) : https://succulentes.net/cycadales/ceratozamia/becerrae/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia brevifrons FR publiée (26363) : https://succulentes.net/cycadales/ceratozamia/brevifrons/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia chamberlainii FR publiée (26365) : https://succulentes.net/cycadales/ceratozamia/chamberlainii/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia chimalapensis FR publiée (26367) : https://succulentes.net/cycadales/ceratozamia/chimalapensis/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia chinantlensis FR publiée (26369) : https://succulentes.net/cycadales/ceratozamia/chinantlensis/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia decumbens FR publiée (26371) : https://succulentes.net/cycadales/ceratozamia/decumbens/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia delucana FR publiée (26375) : https://succulentes.net/cycadales/ceratozamia/delucana/ (aucune traduction)
+- 03/10/2026 : fiche Ceratozamia dominguezii FR publiée (26379) : https://succulentes.net/cycadales/ceratozamia/dominguezii/ (aucune traduction)
+- 03/10/2026 : liens vers les onze fiches (alba à dominguezii) ajoutés dans l'index de la page genre 9866 ; liens croisés posés entre fiches Ceratozamia publiées (dont hondurensis, subroseophylla, euryphyllidia, sabatoi) et vers Zamia purpurea, Zamia magnifica, Cycas et Zamia.

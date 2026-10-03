@@ -114,6 +114,16 @@ Recherche phpBB sur « caffer », « afer », « delucanus », « mackenziei »,
 
 Aucune observation du Jardin zoologique tropical n'est connue pour ces six espèces.
 
+### Ceratozamia — fiches espèce euryphyllidia, gigantea, guatemalensis, hildae, hondurensis, huastecorum, kuesteriana, latifolia, leptoceras, matudae, mexicana (03/10/2026) — non repris dans les fiches
+
+Messages du forum des Fous de palmiers envoyés depuis La Londe-les-Maures (profil « La Londe (83) », signés « JM » ou « Jean-Michel ») qui concernent ces espèces. Seule l'observation du *Ceratozamia* « Palma Sola » (−6 °C sans protection, hiver 2011-2012), validée par le propriétaire, figure dans la fiche *Ceratozamia mexicana*.
+
+- 4 août 2012, fil « Ceratozamia kuesteriana » : « J'en ai un de chez Peter » ; question sur la mi-ombre (soleil le matin, ombre l'après-midi). Pas de résultat. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?p=203131#p203131
+- 5 janvier 2013 et 8 février 2013 (fils « Transplantation Ceratozamia "Palma Sola" » et « le substrat des Ceratozamia et les soins ? ») : *Ceratozamia hildae* et « une autre espèce supposée résistante » achetés en 2012, en serre, à planter sous des palmiers. Pas de résultat. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?p=235788#p235788 et https://www.fousdepalmiers.fr/html/forum/viewtopic.php?p=243217#p243217
+- 1er octobre 2015, fil « ceratozamia mexicana » : question sur les protections d'hiver d'un autre cultivateur. Pas de retour. https://www.fousdepalmiers.fr/html/forum/viewtopic.php?p=383425#p383425
+
+Si le *Ceratozamia kuesteriana* ou le *Ceratozamia hildae* du Jardin zoologique tropical sont toujours en place, une observation datée (pot ou pleine terre, minimum relevé, résultat) permettrait d'ajouter une phrase « au Jardin zoologique tropical de La Londe-les-Maures » dans leur fiche.
+
 ## Image 1497 (Macrozamia)
 
 - Fichier : https://succulentes.net/wp-content/uploads/2021/07/feuille-macrozamia-comunis.jpg

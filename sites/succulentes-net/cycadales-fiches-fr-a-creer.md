@@ -75,17 +75,17 @@ Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche 
 | Macrozamia | *Macrozamia riedlei* | EN | Least Concern | publiée (26236) |
 | Macrozamia | *Macrozamia spiralis* | EN | Endangered | publiée (26239) |
 | Macrozamia | *Macrozamia stenomera* | EN | Near Threatened | publiée (26266) |
-| Ceratozamia | *Ceratozamia alba* | — | Not Evaluated | à faire |
-| Ceratozamia | *Ceratozamia alvarezii* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia aurantiaca* | — | Not Evaluated | à faire |
-| Ceratozamia | *Ceratozamia becerrae* | — | Not Evaluated | à faire |
-| Ceratozamia | *Ceratozamia brevifrons* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia chamberlainii* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia chimalapensis* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia chinantlensis* | — | Not Evaluated | à faire |
-| Ceratozamia | *Ceratozamia decumbens* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia delucana* | — | Endangered | à faire |
-| Ceratozamia | *Ceratozamia dominguezii* | — | Not Evaluated | à faire |
+| Ceratozamia | *Ceratozamia alba* | — | Not Evaluated | publiée (26355) |
+| Ceratozamia | *Ceratozamia alvarezii* | — | Endangered | publiée (26357) |
+| Ceratozamia | *Ceratozamia aurantiaca* | — | Not Evaluated | publiée (26359) |
+| Ceratozamia | *Ceratozamia becerrae* | — | Not Evaluated | publiée (26361) |
+| Ceratozamia | *Ceratozamia brevifrons* | — | Endangered | publiée (26363) |
+| Ceratozamia | *Ceratozamia chamberlainii* | — | Endangered | publiée (26365) |
+| Ceratozamia | *Ceratozamia chimalapensis* | — | Endangered | publiée (26367) |
+| Ceratozamia | *Ceratozamia chinantlensis* | — | Not Evaluated | publiée (26369) |
+| Ceratozamia | *Ceratozamia decumbens* | — | Endangered | publiée (26371) |
+| Ceratozamia | *Ceratozamia delucana* | — | Endangered | publiée (26375) |
+| Ceratozamia | *Ceratozamia dominguezii* | — | Not Evaluated | publiée (26379) |
 | Ceratozamia | *Ceratozamia euryphyllidia* | — | Endangered | à faire |
 | Ceratozamia | *Ceratozamia gigantea* | — | Not Evaluated | à faire |
 | Ceratozamia | *Ceratozamia guatemalensis* | — | Not Evaluated | à faire |
