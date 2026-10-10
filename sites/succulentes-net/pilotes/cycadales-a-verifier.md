@@ -176,3 +176,9 @@ Messages du forum des Fous de palmiers envoyés depuis La Londe-les-Maures (prof
 - 22/01/2015 : « Y a-t-il eu d'autres essais avec cette espèce ? Il serait bien de parler des échecs également. » https://www.fousdepalmiers.fr/html/forum/viewtopic.php?p=355331#p355331
 
 Si un *Cycas petraea* a été acheté et cultivé au Jardin zoologique tropical, une observation datée (pot ou pleine terre, minimum relevé) permettrait d'ajouter une phrase « au Jardin zoologique tropical de La Londe-les-Maures » dans la fiche 26719. Aucun autre message envoyé depuis La Londe ne concerne ces dix espèces.
+
+## À faire plus tard : courriels aux jardins botaniques italiens (demande du propriétaire, 10/10/2026)
+
+Écrire aux jardins botaniques italiens pour vérifier les informations de l'inventaire (pilotes/cycadales-jardins-botaniques-italie.md) et de l'article multilingue : Orto Botanico di Napoli (statut actuel d'E. woodii, liste à jour des espèces, plantes en plein air), Palerme (Cycas revoluta de 1793 ou 1799 ; E. woodii × natalensis), Florence (liste des ~60 espèces en serre froide ; dégâts éventuels de janvier 1985), Hanbury, Pise, Padoue, Catane, Rome. Préparer un modèle de courriel en italien, à envoyer par le propriétaire ou depuis sa messagerie après validation.
+
+Donnée fournie par le propriétaire : Météociel, Firenze/Peretola (40 m), janvier 1985 : minimales d'environ −21/−22 °C les 11 et 12 janvier 1985.
