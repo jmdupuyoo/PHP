@@ -38,3 +38,9 @@ Aucun point bloquant. Nom accepté (WLoC), aucune page existante sous ce nom ou 
 
 ## Publication
 - Publiée le 03/10/2026 : id 26620, https://succulentes.net/cycadales/cycas/basaltica/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
+
+## Complément du 10/10/2026 (protologue)
+- Protologue lu (Gardner 1923, For. Dep. Bull. W. Austral. 32, p. 31 selon WLoC ; copie de The Cycad Society, une page, scan OCR vérifié sur l'image).
+- Écarts Gardner / Hill 1996 exposés : tronc ~45 cm (60 cm à la base) contre 15-23 cm ; limbe du mégasporophylle entier contre denté ; graines globuleuses.
+- Corrigé : formulation « lane-poolei publié l'année précédente » (même bulletin de 1923 ; article de presse de 1922).
+- Publication : replace_in_content (dry run puis application, 6 remplacements), brouillon mis à jour, comparaison identique, URL 200.

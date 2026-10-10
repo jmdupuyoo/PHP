@@ -66,3 +66,10 @@
 3. Sources bloquées : POWO, UICN, PlantZAfrica, SANBI Red List ; rien de spécifique en thaï, japonais ou chinois.
 4. France : Bretagne (Concarneau) et Méditerranée (culture en pot) ; aucune donnée pour l'intérieur et la montagne.
 5. Encadré : exposition et substrat en culture non documentés.
+
+## Complément du 10/10/2026 — protologue lu
+
+- Source : Verdoorn, I.C. (1945), A new species of *Encephalartos* from the Waterberg, *J. S. African Bot.* 11(1) : 1-3, pl. 1, texte intégral (OCR de l'Internet Archive, `journalofsouthaf11unse`) ; et, dans le même volume, Henderson, M.R. (1945), Materials for a revision of the South African species of *Encephalartos* (passage sur l'espèce, p. 39).
+- Ajouts (replace_in_content, 12 remplacements, dry run puis application, texte vérifié en ligne) : L'essentiel (dimensions du protologue, toxicité reformulée) ; Comment reconnaître (diagnose contre *E. lehmannii*, lien 200 ; liste tronc, feuilles, folioles, cônes, graines ; réserves de Verdoorn ; rachis en barque et cônes de Kirstenbosch selon Henderson) ; Taxonomie (titre « Waterberg », pas « Waterburg » ; récoltes de Kafferkraal ~1 500 m et Hangklip ~1 800 m ; aucune date ni altitude pour le type dans le protologue) ; Étymologie et histoire (visite d'octobre 1944, deux plantes de Vlakfontein avec 3-4 rejets souterrains, contenu de l'échantillon Marais, première cycadale de l'ouest du Transvaal) ; Dans la nature (plantes coincées dans les rochers, reliques) ; Toxicité et FAQ ; Bibliographie.
+- Corrections : « graines grillées ayant rendu malades des enfants (témoignage de Marais) » → deux faits distincts dans le protologue (note de Marais : vertiges après avoir mangé les amandes grillées ; enfants de Kafferkraal gravement malades après avoir mangé les graines) ; titre « Waterburg » → « Waterberg ».
+- Écarts : altitude du type 750 m (WLoC) non donnée par le protologue, dont les autres récoltes sont à ~1 500-1 800 m ; dimensions du protologue (tronc ~1,3 m, feuilles ~75 cm) plus petites que celles du SANBI et de PlantZAfrica (tiges 2 à 4 m, feuilles 0,7-1,5 m), présentées côte à côte.

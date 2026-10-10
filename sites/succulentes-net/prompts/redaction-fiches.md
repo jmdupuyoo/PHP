@@ -198,3 +198,9 @@ Le texte alternatif (alt) de chaque image est le seul nom scientifique de la pla
 3. Lien cassé sans copie archivée : lien vers la racine du site, en gardant le titre de la page et la mention « page n'existant plus, consultée le … ».
 4. Site disparu : retirer le lien, garder la référence en texte.
 Les adresses en texte brut sont rendues cliquables par l'extrait n° 12 (externes en nofollow, nouvel onglet).
+
+## Version italienne (décision du propriétaire, 10/10/2026)
+
+- Le Jardin zoologique tropical (La Londe-les-Maures) et ses observations validées peuvent être mentionnés en IT comme en FR.
+- Rechercher systématiquement la présence de l'espèce dans les jardins botaniques italiens, en priorité l'Orto Botanico di Napoli (collection de cycadales très étendue), puis Palerme, Rome, Padoue, Florence, Pise, Catane, Hanbury (La Mortola), etc. Citer la source (catalogue, Index Seminum, article, inventaire publié) ; ne rien affirmer sans source.
+- Retours de culture : privilégier les forums italiens (Tropicamente, Forum Palme, Cactus & Co…) selon le même format anonyme.

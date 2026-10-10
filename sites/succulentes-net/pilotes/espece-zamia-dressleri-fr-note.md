@@ -37,7 +37,9 @@
 - Liens externes : aucun `<a>` externe (URL en texte dans Sites de référence) ; URL externes vérifiées en 200 le 03/10/2026.
 
 ## Points à valider par le propriétaire
-- Fiche fondée sur WLoC + témoignages : description originale à compléter si Brittonia 45(1) est accessible.
+- 10/10/2026 : Brittonia 45(1) (Stevenson 1993) lu en texte intégral (copie de The Cycad Society, scan OCR ; citée par sa référence d'origine) : dimensions (tige 3-5 cm, cataphylles, feuille 0,5-1,5 m, 2-5 paires de folioles de 30-50 × 12-15 cm, cônes, graines), affinité avec Z. wallisii (lien ajouté), clé face à Z. skinneri et Z. cunaria, deux populations connues, récolteurs anciens, dédicace.
+- Écarts internes au protologue signalés dans la fiche : 2-5 paires de folioles (description) / 4-8 paires (introduction) ; dans la partie biogéographique, le caractère distinctif d'avec Z. wallisii est inversé (pétiolule sillonné attribué à Z. dressleri).
+- Écarts protologue / WLoC non exposés dans la fiche : récolteurs du type (protologue : Stevenson & Valdespino ; WLoC ajoute H. Herrera) ; isotypes du protologue FTG, MO, NY, PMA et « VU » (lecture OCR ; fiche : U).
 - « Complexe dressleri » : notion d'amateur, signalée comme non formalisée.
 - POWO non consulté (Cloudflare) : nom accepté d'après WLoC.
 - France : aucune culture en pleine terre ni épisode de gel documenté, toutes zones ; encadré « Rusticité documentée : aucune donnée ».
