@@ -41,3 +41,10 @@ Brouillon : `pilotes/espece-ceratozamia-huastecorum-fr.html` (blocs Gutenberg co
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26391, https://succulentes.net/cycadales/ceratozamia/huastecorum/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.
+
+## Complément du 10/10/2026 (protologue lu)
+
+- Protologue lu en texte intégral (Avendaño, Vovides & Castillo-Campos 2003, Bot. J. Linn. Soc. 141 : 395-398, copie de la Cycad Society). Ajouts : description chiffrée du protologue (tronc 12-13 cm, 3-5 feuilles de 50-73 cm, folioles 6,5-21 × 3,2-6,5 cm, cônes, graines, 2n = 16), parenté avec C. morettii et complexe de C. latifolia, première identification comme C. microstrobila, habitat détaillé (tepui, 900-1 300 m, crête basaltique ventée).
+- Correction : la fiche disait l'holotype femelle (d'après la monographie) ; le protologue donne Castillo-Campos et al. 2567 « male ». Les deux versions sont exposées. Écart de date pour le paratype 2481 (1982 dans l'article, 1981 dans la monographie).
+- Page genre 9866 (800-1 300 m) non modifiée : la borne de 800 m vient de spécimens à 820 m (monographie), le protologue donne 900-1 300 m sans contredire ces récoltes.
+- replace_in_content sur 26391 (dry run puis application, 7 remplacements) ; brouillon identique au contenu en ligne ; URL 200.

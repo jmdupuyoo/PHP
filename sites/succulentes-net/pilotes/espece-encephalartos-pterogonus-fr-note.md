@@ -51,3 +51,9 @@
 ## Points à valider par le propriétaire
 1. Date de la réintroduction : 2003 et 2004 coexistent dans la fiche Kew ; la page dit « 2003-2004 ».
 2. Date « déclaré éteint dans son habitat dès 1975 » : LLIFLE seul (présentée comme non vérifiée).
+
+## Complément du 10/10/2026 — protologue lu
+
+- Source : Dyer, R.A. & Verdoorn, I.C. (1969), *Encephalartos manikensis* and its near allies, *Kirkia* 7 : 147-158 (*E. pterogonus* p. 151-152), texte intégral (PDF The World List of Cycads, 31 pages dont planches ; couche texte et OCR).
+- Ajouts (replace_in_content, 7 remplacements, dry run puis application, texte vérifié en ligne) : L'essentiel (port et dimensions du protologue) ; Comment reconnaître (liste complète : troncs, feuilles, folioles, cônes mâles et femelles, graines ; facette terminale en retrait ; clé végétative ; LLIFLE ramené au rang de comparaison) ; Confusions (diagnose contre *E. manikensis* ; cônes serrés contre cônes lâches de *E. munchii* et *E. chimanimaniensis*) ; Taxonomie (récoltes Dyer & Verdoorn 5862-5864, plante cultivée chez Munch) ; Étymologie (sens donné par le protologue, sans les racines) ; histoire (colonie homogène trouvée par Munch ; étude reprise en 1966 sur les plantes cultivées) ; Bibliographie.
+- Écarts : graines 3,5-4 cm (protologue) contre 30-35 mm (LLIFLE) ; nombre de cônes par plante (2-3 selon LLIFLE) non donné par le protologue ; Haynes (2022) traduit « gonas » par « graine », le protologue ne détaille pas l'étymologie.

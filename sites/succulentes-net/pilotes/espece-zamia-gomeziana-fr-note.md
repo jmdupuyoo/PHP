@@ -35,8 +35,9 @@
 - Liens externes : aucun `<a>` externe (URL en texte dans Sites de référence) ; URL externes vérifiées en 200 le 03/10/2026.
 
 ## Points à valider par le propriétaire
-- La description vient du mémoire de 2010 (version « sp. nova ined. ») : vérifier qu'elle ne diffère pas du protologue publié dans Brenesia.
-- WLoC : isotype à INB ; mémoire : holotype « CR, INB » — gardé l'indication WLoC (HT:CR ; IT:INB) dans la note seulement.
+- 10/10/2026 : protologue publié (Acuña-Castillo 2010, Brenesia 73-74 : 29-33) lu en texte intégral (copie WLoC / The Cycad Society, citée par sa référence d'origine). La description tirée du mémoire concorde (tige 1-2 m, feuilles 105-175 cm, 13-24 paires, folioles ~35 × 3,5 cm, pointe > 25 %, cône 20 × 8 cm sec, pédoncule 11 cm, pointe stérile < 5 mm), sauf la couleur des graines : roses (mémoire, fiche) → orange, 1 cm (protologue) : corrigé et signalé. Écarts internes au protologue : cône femelle 20 cm (description) / 17 cm (tableau) ; 13-24 paires (description) / 13 (tableau) / « plus de 20 paires » (commentaire).
+- Type : holotype CR, isotype INB (protologue = WLoC) : ajouté dans la fiche.
+- Ajouts : rachis, angle d'insertion, écailles du cône, < 100 graines, habitat (forêt primaire, relief), climat sans saison sèche, bryophytes épiphylles, cônes en avril, statut VU B2a proposé en 2010 et faible menace directe ; lien Z. skinneri ajouté.
 - POWO non consulté (Cloudflare) : nom accepté d'après WLoC.
 - France : aucune culture en pleine terre ni épisode de gel documenté, toutes zones ; encadré « Rusticité documentée : aucune donnée ».
 

@@ -42,6 +42,9 @@ Fichier : `pilotes/espece-zamia-tolimensis-fr.html` (blocs Gutenberg contrôlés
 
 - Couleur des cônes femelles : beige-jaune (résumé Brittonia) / bruns (plan colombien) : divergence signalée.
 - Effectifs : le plan colombien donne < 50 adultes par population (étude préalable) et < 250 individus par population (autre passage) : les deux chiffres sont signalés.
-- Protologue non lu en entier (paywall Springer).
+- 10/10/2026 : protologue (Calonje et al. 2011, Brittonia 63(4) : 442-451) lu en texte intégral (copie de The Cycad Society, citée par sa référence d'origine) : tronc, cataphylles, feuilles (3,25 m et non 3 m), pétiole, rachis, folioles basales/médianes/apicales, cônes mâles (4-9, pédoncule jusqu'à 28,5 cm), cônes femelles (35-37 × 11-13 cm, dressés), graines (3-3,8 cm et non « jusqu'à 4 cm »), clé du complexe de Z. poeppigiana, habitat (pentes, argile humifère, Phytelephas schottii), climat (2 400-2 600 mm, 13-21 °C, WorldClim ; la fiche disait « aucun relevé climatique publié » : corrigé), phénologie, Pharaxonotha et Eumaeus, populations (11 et 53 adultes, fragments < 1 ha), CR proposé, histoire des récoltes (Woronow 1923, Little 1944, von Eggers 14034 = Z. lindenii d'Équateur), explication de « palma de yuca », isotypes dans 13 herbiers (la fiche disait « neuf » : corrigé). Liens ajoutés : incognita, montana, wallisii.
+- Couleur des cônes : beige-jaune / beige (mâles et femelles) selon le protologue ; « bruns » selon le plan colombien 2015 : divergence exposée pour les deux sexes.
+- Effectifs : protologue 11 et 53 adultes en 2010 ; plan 2015 « < 50 adultes par population » et « < 250 individus par population » : les trois chiffres figurent dans la fiche.
+- Fragments : < 1 ha (protologue) / < 100 ha (plan) : les deux figurent.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : 1re occurrence des *Zamia* ayant une fiche FR publiée (200 sans redirection), y compris les fiches de ce lot.

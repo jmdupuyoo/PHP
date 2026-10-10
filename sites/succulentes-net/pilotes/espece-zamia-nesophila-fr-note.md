@@ -52,7 +52,8 @@ Fiche : `pilotes/espece-zamia-nesophila-fr.html` (blocs Gutenberg contrôlés pa
 ## Points à valider par le propriétaire
 
 - Retour Côte Bleue : lieu = « Côte Bleue » sans commune ; station Météo-France la plus proche avec TN = Marignane (pas de station côtière disponible en 2014-2015) ; la fiche précise que la valeur subie n'est pas connue. Ce retour concerne aussi Z. hamannii, Z. lindenii et Z. encephalartoides (mêmes plantations) : à signaler aux fiches correspondantes (non modifiées).
-- Nom « guade teet » : uniquement via Wikipédia citant l'UICN ; présenté comme non vérifié.
-- Destructions de populations (15 000 et 10 000 plantes) : d'après Wikipédia (résumé du protologue), non vérifiées.
+- 10/10/2026 : protologue (Taylor, Haynes & Holzman 2008) lu en texte intégral (copie de The Cycad Society, citée par sa référence d'origine). Chiffres de seconde main (Wikipédia) vérifiés : dimensions de la tige, des feuilles, des folioles médianes, des cônes et des graines confirmées ; « guade teet » confirmé comme nom local (langue non précisée) ; destructions : 15 000 plantes avant octobre 2007, 80-90 % détruites (confirmé), mais la deuxième sous-population comptait « peut-être plusieurs dizaines de milliers » de plantes, et non « au moins 10 000 » (Wikipédia) : corrigé.
+- Ajouts : folioles apicales et basales, écailles mâles saillantes recourbées, cônes femelles pendants, plantules à deux folioles, critères face à Z. skinneri, embruns, raisiniers et cocotiers, phénologie, crabes terrestres, Eumaeus godarti, Mycoleptodiscus, usage local en tisane aphrodisiaque (la fiche disait « aucun usage » : corrigé), coupe des troncs, statut CR proposé en 2008.
+- Lien vers Z. skinneri déplacé à sa nouvelle première occurrence (Comment reconnaître) ; italiques de la FAQ corrigés.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches FR publiées et vérifiées (200, sans redirection), à la première occurrence hors introduction.

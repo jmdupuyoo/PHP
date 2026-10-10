@@ -46,3 +46,9 @@ Brouillon : `pilotes/espece-ceratozamia-euryphyllidia-fr.html` (blocs Gutenberg 
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26377, https://succulentes.net/cycadales/ceratozamia/euryphyllidia/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.
+
+## Complément du 10/10/2026 (protologue lu)
+
+- Protologue lu en texte intégral (Stevenson, Sabato & Vázquez Torres 1986, Brittonia 38(1) : 17-26, copie de la Cycad Society). Ajouts : description chiffrée du protologue (tronc < 20 cm, < 10 feuilles de 2-3,2 m, 6-13 paires de folioles de 18-31 × 9-16 cm, jeunes feuilles cuivre foncé, cône mâle 28 × 3 cm, cône femelle 20 × 5 cm à sommet mucroné, graines 2,3-2,7 cm), écarts avec la monographie, parenté proposée avec C. miqueliana et groupe des espèces à folioles larges, Rupert Barneby à l'origine de l'épithète, type 2842 du 22/06/1984 (localité omise volontairement), paratypes et étiquettes d'habitat (120-150 m), ~30 plantes vues en 1986.
+- Écart notable : le critère de la monographie « cône femelle à longue pointe (jusqu'à 5 cm) » contre C. hondurensis est contredit par le protologue (sommet « mucronate ») ; signalé dans Confusions possibles sans modifier la FAQ.
+- replace_in_content sur 26377 (dry run puis application, 8 remplacements) ; brouillon identique au contenu en ligne ; URL 200.

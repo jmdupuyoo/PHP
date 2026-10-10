@@ -38,6 +38,8 @@
 
 ## Points à valider par le propriétaire
 - « Île à 70 km des côtes » (forum) : non repris (invérifiable).
+- 10/10/2026 : protologue (Taylor, Haynes & Holzman 2008, Bot. J. Linn. Soc. 158 : 399-429) lu en texte intégral (copie de The Cycad Society, citée par sa référence d'origine) : dimensions (tronc, feuilles, folioles, cônes, graines, plantules), couleur des jeunes feuilles (brun rosé/rose, duvet argenté, puis orange rosé), critères face à Z. skinneri, habitat (pentes côtières, plages, tolérance à l'eau de mer), sols, climat, phénologie (cônes mai-juin, réceptivité septembre-octobre, graines 12 mois), Pharaxonotha, fourmis, Mycoleptodiscus, populations (~1 000 plantes, <1 km²), statut CR proposé (UICN 2022 : VU D1+2), plantes coupées. Le protologue ne nomme pas l'île (localités omises) : Escudo de Veraguas reste attribué à MiAmbiente/TVN.
+- Écart : en 2008, aucun prélèvement constaté (population isolée) ; en 2022, saisie de sept plantes (TVN) : les deux sont exposés.
 - Hybrides hamannii × imperialis / skinneri : hypothèse d'amateur, présentée comme telle.
 - POWO non consulté (Cloudflare) : nom accepté d'après WLoC.
 - France : aucune culture en pleine terre ni épisode de gel documenté, toutes zones ; encadré « Rusticité documentée : aucune donnée ».

@@ -63,3 +63,9 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : sommaire, newsletter et pied de page du thème).
 - Lien ajouté dans l'index des espèces de la page genre 9866 (replace_in_content, simulation puis application ; 11 liens en un appel pour les 11 fiches du lot).
+
+## Complément du 10/10/2026 (protologue lu)
+
+- Protologue lu en texte intégral (Vovides et al. 2004, Bot. J. Linn. Soc. 146 : 123-128, copie de la Cycad Society). Ajouts : mesures du protologue et écarts avec la monographie (2-5 feuilles contre 2-12 ; cône femelle 11-13,5 cm contre 15-23 ; pédoncule femelle 2-3 cm contre 5-12 cm, ce qui affaiblit le critère monographique face à C. santillanii ; folioles brillantes dans la clé contre jeunes feuilles glauques), 2n = 16, historique (1985, jardin Clavijero, 1996), paratypes, localité volontairement omise, habitat du protologue (400-600 m, karst, rendzine, forêt à trois strates, Zamia cremnophila et Z. splendens, deux populations), statut CR B2(a-e) proposé en 2004 (incendie de 1998).
+- Attribution du nom : l'article lui-même écrit « Pérez-Farrera, Vovides & Schutzman sp. nov. » ; phrase corrigée.
+- replace_in_content sur 26361 (dry run puis application, 11 remplacements) ; brouillon identique au contenu en ligne ; URL 200.

@@ -64,3 +64,7 @@
 - Contenu publié identique au fichier local (comparaison texte de la page en ligne / fichier).
 - Aucune redirection ancienne pour /cycadales/macrozamia/riedlei/ (list_redirects).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, dry run puis application).
+
+## Complément du 10/10/2026 (vérification)
+- Copie cycad.org lue : uniquement la page de Gardner (1930), Enumeratio Plantarum Australiae Occidentalis, listant les Cycadales (aucune description). Combinaisons M. Dyeri (F.v.M.) Gardner et M. Reidlei (Gaud.) Gardner, M. fraseri Miq. en synonymie de M. reidlei ; M. dyeri traité comme distinct. Le basionyme et sa description restent non consultés.
+- Fiche précisée en Taxonomie et Bibliographie (replace_in_content, 2 remplacements) ; brouillon mis à jour, comparaison identique.

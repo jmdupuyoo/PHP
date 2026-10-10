@@ -47,3 +47,10 @@ Brouillon : `pilotes/espece-ceratozamia-hildae-fr.html` (blocs Gutenberg contrô
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26418, https://succulentes.net/cycadales/ceratozamia/hildae/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.
+
+## Complément du 10/10/2026 (protologue lu)
+
+- Protologue lu en texte intégral : Landry & Wilson 1979, Brittonia 31(3) : 422-424 (copie de la Cycad Society). Ajouts : description et mesures du protologue (tronc 9-15 × 8-12 cm, 5-20 feuilles de 1-1,5 m, folioles 7-22 × 1-5 cm à 8-30 nervures, cône mâle 18-25 × ~3 cm, cône femelle 10-14 × 3-5 cm), écarts avec la monographie (nombre de feuilles, longueur du cône mâle), auteurs (Garrie P. Landry, Marcia C. Wilson), type (Landry 76521, 6/06/1976, plantes de W. J. Harman à Baton Rouge venues de Larry Bussell, au nord de Xilitla ; isotypes MEXU, MICH, US, NY, FTG, LSU ; Landry 75495 ♀ examiné), étymologie précisée (Guerra importait l'espèce dès 1960 ; nom commercial « hilda »), habitat du protologue, « bamboo cycad » déjà cité en 1979.
+- Altitude du protologue imprimée « 3600 km to 4500 km » : coquille, non reprise. Page genre 9866 non modifiée.
+- Statut UICN : The World List of Cycads donne CR A2acd (2022) ; la monographie de 2022 donne EN A2abcd ; B1ab(ii,iii,iv) (UICN 2021) ; le protologue ne donne aucun statut. Les deux sont exposés sans trancher (L'essentiel, intro, Statut de conservation, FAQ).
+- replace_in_content sur 26418 (dry run puis application, 11 remplacements) ; brouillon identique au contenu en ligne ; URL 200.

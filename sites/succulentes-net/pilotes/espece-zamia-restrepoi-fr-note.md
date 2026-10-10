@@ -45,7 +45,7 @@ Fichier : `pilotes/espece-zamia-restrepoi-fr.html` (blocs Gutenberg contrôlés 
 
 - CITES : Species+ indique « Originally listed as Chigua » ; la page suit la consigne (inscrit sous le nom *Chigua restrepoi*). À confirmer si l'inscription de 1990 visait le genre *Chigua* entier.
 - Le plan d'action colombien (2015) indique à tort l'annexe II : signalé dans la page, Species+ fait foi.
-- Arguments de Lindström (2009) non lus (résumé seul) : la page le dit.
+- 10/10/2026 : Lindstrom 2009 (Taxon 58(1) : 265-270) lu en texte intégral (copie de The Cycad Society, citée par sa référence d'origine) : arguments morphologiques (bosses des mégasporophylles = artefact de non-pollinisation, cônes à long pédoncule chez disodon et melanorrhachis), moléculaires (études citées par l'auteur) et populationnels (visite de 2008, plantes sauvées mesurées, variation de la largeur et du nombre des folioles), planche de 1990, 2n = 18, isotypes des deux types, altitude et milieu du type de bernalii ajoutés. Liens manicata, disodon, melanorrhachis déplacés à leur nouvelle première occurrence ; liens urep et amplifolia ajoutés.
 - Écarts de dimensions : le plan colombien donne des pédoncules mâles ≤ 10 cm, alors que le clade *manicata* a en général des pédoncules > 20 cm (Calonje et al. 2021) ; repris tel quel.
 - Longueur (≈ 3 100 mots avant les références) au-dessus de la fourchette 1 200-2 000 : espèce bien documentée (consigne : expliquer *Chigua*).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
