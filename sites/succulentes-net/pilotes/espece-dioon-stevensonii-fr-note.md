@@ -56,3 +56,10 @@ Intro : /cycadales/dioon/. Corps : /cycadales/dioon/nuusaviorum/, /cycadales/dio
 3. Sources bloquées : POWO, UICN, Cambridge (protologue), PalmTalk ; sources thaïlandaises, japonaises et chinoises : rien.
 4. France : aucune donnée pour aucune zone.
 5. Encadré : rusticité et exposition non documentées.
+
+## Complément du 10/10/2026 (protologue)
+- Protologue lu en texte intégral (Syst. Biodivers. 7(1) : 73-79 ; copie de The Cycad Society).
+- Point 1 résolu : la démarche de 2009 est décrite d'après le texte.
+- Note 6 : le protologue recommande bien « CR C2a(ii) », « the species is not found in any currently protected areas » ; localités omises volontairement. « Synonymised for over two decades » : non trouvé dans le protologue (non repris).
+- Écarts signalés dans la fiche : couleur du duvet du pétiole et du rachis ; imbrication des folioles juvéniles ; pointe des mégasporophylles de D. tomasellii ; position phylogénétique (groupes edule/spinulosum en 2009, clade Western en 2020). Altitude 500-1 200 m (protologue) contre 400-1 550 m (révision). Altitude du type (« vers 1 180 m ») absente du protologue (gardée, source WLoC).
+- Publication : replace_in_content (dry run puis application, 13 remplacements), brouillon mis à jour, comparaison identique, URL 200.

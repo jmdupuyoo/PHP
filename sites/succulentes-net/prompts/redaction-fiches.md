@@ -190,3 +190,11 @@ Le texte final de l'article, prêt à coller dans WordPress. Termine par une cou
 
 ## Complément : texte alternatif des images (décision du 30/09/2026)
 Le texte alternatif (alt) de chaque image est le seul nom scientifique de la plante représentée (ex. « Agave striata »), sans autre mot. Le renseigner à la fois dans le bloc image de la page et dans la médiathèque (update_media).
+
+## Liens cassés dans les sources (décision du propriétaire, 10/10/2026)
+
+1. Lien qui fonctionne : garder le lien précis.
+2. Lien cassé avec une copie sur archive.org (Wayback Machine) : remplacer par le lien vers la copie archivée.
+3. Lien cassé sans copie archivée : lien vers la racine du site, en gardant le titre de la page et la mention « page n'existant plus, consultée le … ».
+4. Site disparu : retirer le lien, garder la référence en texte.
+Les adresses en texte brut sont rendues cliquables par l'extrait n° 12 (externes en nofollow, nouvel onglet).

@@ -39,7 +39,9 @@ Fichier : `pilotes/espece-zamia-standleyi-fr.html` (blocs Gutenberg contrôlés 
 
 ## Points à valider par le propriétaire
 
-- Protologue (Schutzman 1989, *Syst. Bot.*) et synthèse de Haynes (2007) non accessibles : aucune dimension donnée ; fiche courte.
+- 10/10/2026 : protologue (Schutzman 1989, *Syst. Bot.* 14(2) : 214-219) lu en texte intégral (copie de The Cycad Society, scan OCR ; cité par sa référence d'origine) : dimensions (feuilles, folioles, pétiole, cônes, graines), 2n = 16, type et récoltes anciennes (1887-1938), habitat (bois semi-secs, fourrés, versants humides, champs ; 0-100 m), camotillo, citation de Standley 1937 sur la toxicité, culture au Fairchild Tropical Garden (Eumaeus atala florida), affinités (splendens, purpurea, cremnophila ; confusion historique avec loddigesii) ajoutés. Haynes (2007) toujours non consulté.
+- Écart : habitat « forêt tropicale sempervirente » (Nicolalde-Morejón et al. 2011, repris auparavant dans l'intro, l'encadré et la FAQ) contredit par le protologue (bois semi-secs, matorral, versants humides, champs) : la fiche suit le protologue et expose la divergence.
+- Lien vers Z. furfuracea déplacé à sa nouvelle première occurrence (Confusions) ; liens ajoutés vers splendens, purpurea, cremnophila, loddigesii, pumila (200).
 - Wikipédia EN cite une réévaluation UICN de Bösenberg (e.T42157A243412288, version 2025) : non vérifiée ; la page suit WLoC (LC 2022).
 - Mesures de sites d'amateurs (llifle) et nom indigène cité par Wikipédia non repris (non sourcés).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.

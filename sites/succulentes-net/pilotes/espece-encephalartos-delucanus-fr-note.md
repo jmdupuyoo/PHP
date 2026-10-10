@@ -52,3 +52,10 @@
 
 ## Publication
 - Publiée le 02/10/2026 : id 26346, https://succulentes.net/cycadales/encephalartos/delucanus/ (200, sans redirection) ; SEO Rank Math appliqué ; lien ajouté dans l’index de la page genre 14229. Aucune redirection ancienne trouvée pour cette URL.
+
+## Complément du 10/10/2026 — protologue lu
+
+- Source : Malaisse, F., Sclavo, J.-P. & Crosiers, C. (1992), *Annales de Gembloux* 98 : 153-157, texte intégral (PDF The World List of Cycads, couche texte de qualité moyenne, lue page par page).
+- Ajouts (replace_in_content, 12 remplacements, dry run puis application, texte vérifié en ligne) : introduction ; L'essentiel (exposition, port et dimensions) ; Comment reconnaître (liste complète d'après la diagnose latine) ; Confusions (groupe des espèces à tronc très court, de l'Angola à la Tanzanie, selon le protologue) ; Taxonomie (en-tête 1992, 98 : 153-157 ; holotype mâle ; trois autres récoltes avec coordonnées et altitudes ; = *Encephalartos* sp. C « Mpanda » de Heenan 1977) ; Étymologie (De Luca, université Federico II, directeur du jardin botanique de Naples) ; Dans la nature (localités et altitudes 1 500 et 1 950 m confirmées, milieux, rareté selon Kielland : deux groupes d'une vingtaine de pieds au mont Sitebi) ; Bibliographie.
+- Corrections (seconde main, Wikipédia d'après The Cycad Pages, contredite par le protologue) : « sans tronc aérien » → tronc dressé de 12 cm au plus ; cônes mâles « 10 à 20 cm » → 10 à 12 cm (sur le sec) ; folioles « coriaces, laineuses dessous » → vertes, aucun duvet décrit ; « seuls des pieds mâles » : confirmé. Limite basse de 1 200 m : absente du protologue, signalée.
+- Non modifié : méta-description Rank Math (« cycadale sans tronc »), à corriger à la main si souhaité. Turner 1995 toujours non lu.
