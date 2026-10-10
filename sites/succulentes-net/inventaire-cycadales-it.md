@@ -2,11 +2,15 @@
 
 Mis à jour le 2026-10-10 (phase 1 : pages IT existantes). Sources : `list_content` (langue it, 273 pages IT parcourues), API REST publique (parent, contenu rendu), balises `hreflang` des pages publiques (groupes Polylang), `get_content` (FR 13945 après liaison, pages modifiées). Rien n’a été commité.
 
+Phase 2 (2026-10-10) : pages genres IT *Cycas* 11549, *Encephalartos* 11663, *Zamia* 11879 et *Ceratozamia* 12127 réécrites sur le modèle des pages genres FR (update_content : slug, parent 11545, image mise en avant et liens Polylang conservés, vérifiés par `hreflang` : it + fr + en, plus es pour *Cycas*).
+
+Phase 2, suite (2026-10-10) : pages genres IT *Dioon* 11673, *Macrozamia* 12116 et *Bowenia* 12146 réécrites (update_content, slug/parent/traductions conservés) ; pages genres IT **créées** *Lepidozamia* 27374, *Stangeria* 27377, *Microcycas* 27379 (create_content, publish, parent 11545, liées à la FR 13803, 4081, 13865 ; groupe Polylang it + fr + en vérifié par `hreflang`) ; page ordre 11545 réécrite (titre « Cicadee (Cycadales): ordine, famiglie e generi », liens vers les 10 pages genres IT et vers l'article 27311). Brouillons et notes : `pilotes/genre-{dioon,macrozamia,bowenia,lepidozamia,stangeria,microcycas}-it.html` / `-it-note.md`, `pilotes/ordre-cycadales-it.html` / `-it-note.md`.
+
 Chemins : IT `/it/piante/cycadales/<genre>/<espèce>/` ; page ordre IT 11545 (parent : 11576 « Piante », comme les autres racines IT).
 
 ## 1. Synthèse
 
-- Pages IT Cycadales : **55** (1 page ordre, 7 pages genres, 47 fiches espèces). Aucune page IT orpheline hors de l’arborescence (recherche par titre et par mots-clés dans les 273 pages IT et via l’API), aucun brouillon.
+- Pages IT Cycadales : **58** (1 page ordre, 10 pages genres dont 3 créées le 10/10 en phase 2, 47 fiches espèces). Aucune page IT orpheline hors de l’arborescence (recherche par titre et par mots-clés dans les 273 pages IT et via l’API), aucun brouillon.
 - Structure : toutes les fiches ont pour parent leur page genre IT et toutes les pages genres ont pour parent 11545. **Aucun parent corrigé, aucune URL modifiée, aucune redirection créée.** Les 4 redirections IT existantes (dinnanensis, il-genere-ceratozamia, il-genere-bowenia et yucca/elata hors sujet) pointent vers des pages existantes et ne bloquent aucune page.
 - Liens Polylang : 53/55 étaient déjà liés à la FR ; **2 liens créés** (11558 *Cycas revoluta*, 13198 *Dioon angustifolium*), plus ES 24488 *Cycas revoluta* rattaché au groupe FR. Vérifié ensuite : FR 13945 ↔ EN 16343 / IT 11558 / ES 24488 (`get_content`) ; FR 7876 ↔ EN 17796 / IT 13198 (`hreflang`).
 - Doublons (deux pages IT pour un même taxon) : **aucun**.
@@ -16,14 +20,17 @@ Chemins : IT `/it/piante/cycadales/<genre>/<espèce>/` ; page ordre IT 11545 (pa
 
 | IT | Titre | URL | Parent | FR | Polylang (groupe actuel) | Corrections du 10/10/2026 |
 |---|---|---|---|---|---|---|
-| 11545 | Cicade / Cycadales: generi, specie e coltivazione in Europa | `/it/piante/cycadales/` | 11576 | 13826 | it + fr + en + es | Paragraphe résiduel de chatbot retiré (« Se vuoi, posso anche scrivere… »). |
-| 11549 | Genere Cycas | `/it/piante/cycadales/cycas/` | 11545 | 1256 | it + fr + en + es | Lien de l’intro (pointait vers la page elle-même) → page ordre 11545 ; italique imbriqué retiré (revoluta). |
-| 12146 | Il genere Bowenia | `/it/piante/cycadales/bowenia/` | 11545 | 12142 | it + fr + en | — |
-| 12127 | Il genere Ceratozamia | `/it/piante/cycadales/ceratozamia/` | 11545 | 9866 | it + fr + en | Groupes A–F retirés (comme en FR : attribution non vérifiable, decumbens rangé dans le complexe mexicana en 2025) ; remplacés par les 3 clades (Habib et al. 2023) + liste alphabétique des 45 espèces WLoC. |
-| 11673 | Il genere Dioon | `/it/piante/cycadales/dioon/` | 11545 | 3794 | it + fr + en | — |
-| 11663 | Il genere Encephalartos | `/it/piante/cycadales/encephalartos/` | 11545 | 14229 | it + fr + en | Liens paucidentatus et whitelockii pointant vers les pages FR → pages IT 12014 et 12037. |
-| 12116 | Il genere Macrozamia | `/it/piante/cycadales/macrozamia/` | 11545 | 1453 | it + fr + en | Mot français « pennes » → « foglioline ». |
-| 11879 | Il genere Zamia | `/it/piante/cycadales/zamia/` | 11545 | 3963 | it + fr + en | — |
+| 11545 | Cicadee (Cycadales): ordine, famiglie e generi (ancien titre : Cicade / Cycadales: generi, specie e coltivazione in Europa) | `/it/piante/cycadales/` | 11576 | 13826 | it + fr + en + es | Paragraphe résiduel de chatbot retiré (« Se vuoi, posso anche scrivere… ») ; **Phase 2 (10/10)** : page réécrite d'après `ordre-cycadales-fr.html` (3 118 mots), effectifs WLoC revérifiés, section orti botanici + lien 27311, 10 genres IT liés ; note `pilotes/ordre-cycadales-it-note.md`. |
+| 11549 | Genere Cycas | `/it/piante/cycadales/cycas/` | 11545 | 1256 | it + fr + en + es | Lien de l’intro (pointait vers la page elle-même) → page ordre 11545 ; italique imbriqué retiré (revoluta) ; **Phase 2 (10/10)** : page réécrite (update_content, 11 894 mots), 16 fiches IT liées dans l’index ; SEO, alt médias 4670/7334/18322 ; note `pilotes/genre-cycas-it-note.md`. |
+| 12146 | Il genere Bowenia | `/it/piante/cycadales/bowenia/` | 11545 | 12142 | it + fr + en | **Phase 2 (10/10)** : page réécrite (4 844 mots) ; *B.* « Tinaroo » en pot au JZT ; Naples 1984 / Florence ; note `pilotes/genre-bowenia-it-note.md`. |
+| 12127 | Il genere Ceratozamia | `/it/piante/cycadales/ceratozamia/` | 11545 | 9866 | it + fr + en | Groupes A–F retirés (comme en FR : attribution non vérifiable, decumbens rangé dans le complexe mexicana en 2025) ; remplacés par les 3 clades (Habib et al. 2023) + liste alphabétique des 45 espèces WLoC ; **Phase 2 (10/10)** : page réécrite (7 286 mots), 3 clades conservés, altitudes de la FR 9866 reprises ; aucune fiche IT à lier ; note `pilotes/genre-ceratozamia-it-note.md`. |
+| 11673 | Il genere Dioon | `/it/piante/cycadales/dioon/` | 11545 | 3794 | it + fr + en | **Phase 2 (10/10)** : page réécrite (7 502 mots), 9 fiches Dioon IT liées ; Naples, Palerme, Hanbury, Ravenne ; alt média 7305 corrigé ; note `pilotes/genre-dioon-it-note.md`. |
+| 11663 | Il genere Encephalartos | `/it/piante/cycadales/encephalartos/` | 11545 | 14229 | it + fr + en | Liens paucidentatus et whitelockii pointant vers les pages FR → pages IT 12014 et 12037 ; **Phase 2 (10/10)** : page réécrite (8 746 mots), 17 fiches IT liées dans l’index, lien vers le genre IT Stangeria 27377 ; note `pilotes/genre-encephalartos-it-note.md`. |
+| 12116 | Il genere Macrozamia | `/it/piante/cycadales/macrozamia/` | 11545 | 1453 | it + fr + en | Mot français « pennes » → « foglioline » ; **Phase 2 (10/10)** : page réécrite (8 550 mots), fiches communis/moorei/miquelii liées, 5 espèces et conseils d'arrosage/gel du JZT, image 1497 ajoutée ; note `pilotes/genre-macrozamia-it-note.md`. |
+| 11879 | Il genere Zamia | `/it/piante/cycadales/zamia/` | 11545 | 3963 | it + fr + en | **Phase 2 (10/10)** : page réécrite (9 802 mots), 2 fiches Zamia + 4 fiches d’autres genres liées ; note `pilotes/genre-zamia-it-note.md`. |
+| 27374 | Il genere Lepidozamia | `/it/piante/cycadales/lepidozamia/` | 11545 | 13803 | it + fr + en | **Créée (10/10, phase 2)**, 5 398 mots ; JZT non cité (ne cultive plus le genre) ; note `pilotes/genre-lepidozamia-it-note.md`. |
+| 27377 | Il genere Stangeria | `/it/piante/cycadales/stangeria/` | 11545 | 4081 | it + fr + en | **Créée (10/10, phase 2)**, 4 289 mots ; observation JZT février 2012 et culture en pot ; note `pilotes/genre-stangeria-it-note.md`. |
+| 27379 | Il genere Microcycas | `/it/piante/cycadales/microcycas/` | 11545 | 13865 | it + fr + en | **Créée (10/10, phase 2)**, 5 645 mots ; Naples (Delpinoa 2007) ; note `pilotes/genre-microcycas-it-note.md`. |
 | 14390 | Cycas beddomei | `/it/piante/cycadales/cycas/beddomei/` | 11549 | 14377 | it + fr + en + es | — |
 | 14404 | Cycas bifida | `/it/piante/cycadales/cycas/bifida/` | 11549 | 14394 | it + fr + en | UICN : VU A2cd « Hill 2010 » → évaluation Bösenberg 2022 (e.T42059A67337100) ; bibliographie complétée. |
 | 13750 | Cycas circinalis | `/it/piante/cycadales/cycas/circinalis/` | 11549 | 13700 | it + fr + en + es | — |
@@ -82,11 +89,11 @@ Article de blog IT corrigé (hors pages) : **17555** « Aulacaspis yasumatsui �
 - *Encephalartos friderici-guilielmi* IT 12042 : « media annua delle minime di circa −4,9 °C » à Queenstown (formulation ambiguë) ; IT 11991, 12042, 12049 citent en source des URL de pages FR du site (texte brut).
 - *Cycas beddomei* IT 14390 : zones USDA « 9b–11 » contre « 9a–11b approximativement » en FR (deux estimations non sourcées).
 - *Cycas guizhouensis* FR 1741 : « −7 °C en janvier 2012 » au JZT (le minimum JZT documenté est de février 2012) ; erreur FR, l’IT ne date pas l’épisode.
-- Pages genres IT (Bowenia, Ceratozamia, Dioon, Encephalartos, Macrozamia, Zamia, Cycas) et page ordre : anciennes versions courtes, sans le gabarit ni les corrections de fond des pages FR refaites le 01/10 (seules les erreurs ponctuelles ont été corrigées). À reprendre en phase 2.
+- Pages genres IT (Bowenia, Ceratozamia, Dioon, Encephalartos, Macrozamia, Zamia, Cycas) et page ordre : anciennes versions courtes, sans le gabarit ni les corrections de fond des pages FR refaites le 01/10 (seules les erreurs ponctuelles ont été corrigées). À reprendre en phase 2. **Fait le 10/10** pour les 10 pages genres et la page ordre (voir en-tête).
 
 ## 4. Taxons FR sans page IT (phase 3)
 
-Total : **334** fiches FR sans version IT (sur 381 fiches FR) ; pages genres IT manquantes : *Lepidozamia* (FR 13803), *Microcycas* (FR 13865), *Stangeria* (FR 4081).
+Total : **334** fiches FR sans version IT (sur 381 fiches FR) ; pages genres IT manquantes : aucune depuis le 10/10 (*Lepidozamia* 27374, *Microcycas* 27379, *Stangeria* 27377 créées).
 
 | Genre | Fiches FR | Avec IT | À créer en IT |
 |---|---|---|---|
