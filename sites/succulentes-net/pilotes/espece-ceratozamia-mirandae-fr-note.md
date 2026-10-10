@@ -44,3 +44,8 @@ Brouillon : `pilotes/espece-ceratozamia-mirandae-fr.html` (blocs Gutenberg contr
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Aucun message de La Londe-les-Maures trouvé pour cette espèce.
 - Liens internes du corps : première occurrence des *Ceratozamia* ayant une fiche FR publiée, vérifiés en 200 après publication.
+
+## Complément du 10/10/2026 (protologue lu)
+
+- Protologue lu en texte intégral (Vovides, Pérez-Farrera & Iglesias 2001, Bot. J. Linn. Soc. 137 : 81-85, copie de la Cycad Society). Ajouts : description chiffrée (n = 30), écarts avec la monographie (tronc ramifié 32-105 cm ; folioles coriaces et non papyracées ; cône femelle 26-48 cm ; graines ovales et non sphériques), parenté avec C. kuesteriana selon les auteurs (confusion initiale avec C. norstogii), holotype femelle et isotypes, spécimens Chamberlain et Breedlove sans date, habitat du protologue (forêt de chênes et de pins à 950 m sur granites et roches métamorphiques ; autres populations 910-1 300 m ; pas de calcaire, contre « rochers karstiques » dans la monographie), menaces (brûlis, incendies de 1998).
+- replace_in_content sur 26454 (dry run puis application, 11 remplacements) ; brouillon identique au contenu en ligne ; URL 200.
