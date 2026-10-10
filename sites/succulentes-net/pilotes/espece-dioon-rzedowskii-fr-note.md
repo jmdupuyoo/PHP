@@ -72,3 +72,10 @@ Intro : /cycadales/dioon/ (seul lien). Corps, 1re occurrence : /cycadales/dioon/
 3. Sources introuvables ou bloquées : POWO, UICN, JSTOR (protologue), PalmTalk, Dave's Garden (403), Cycad Pages (Wayback bloqué) ; sources thaïlandaises, japonaises et chinoises : rien sur l'espèce.
 4. France : aucune donnée pour aucune zone (méditerranéenne, atlantique, Bretagne, intérieur, montagne).
 5. Encadré : « Exposition et substrat » non documentés en culture ; « Rusticité » sans valeur mesurée.
+
+## Complément du 10/10/2026 (protologue)
+- Protologue lu en texte intégral (Brittonia 32(2) : 225-229 ; copie de The Cycad Society, numéro de récolte et localité exacte du type masqués).
+- Point 2 résolu : San Pedro Teutila est cité par le protologue (station signalée par Steven R. Hill, versant opposé du canyon, près de la localité type).
+- Note 4 (habitat) : le protologue dit bien « bosque tropical subcaducifolio » et « prefers more open areas » ; repris et opposé à la « forêt tropicale humide » de la révision 2020 et de Skelley et al. 2022, sans trancher.
+- Autres écarts : altitude 650-850 m (protologue) contre 400-1 300 m (révision) ; nervures 30-35 contre une douzaine ; cône mâle 30-50 cm contre 30-35 cm.
+- Publication : replace_in_content (dry run puis application, 13 remplacements), brouillon mis à jour, comparaison identique, URL 200.

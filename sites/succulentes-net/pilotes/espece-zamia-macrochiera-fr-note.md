@@ -16,7 +16,7 @@ Brouillon : `pilotes/espece-zamia-macrochiera-fr.html` (blocs Gutenberg contrôl
 ## Sources
 
 - León 2006, Libro rojo de las plantas endémicas del Perú (Rev. Peru. Biol. 13(2)) : texte intégral (statut national, localités, altitude, dernière récolte).
-- Protologue Stevenson 2004 (ouvrage imprimé) : non consulté.
+- Protologue Stevenson 2004 (Zamiaceae of Bolivia, Ecuador and Peru, in Walters & Osborne, CABI : 185-187, fig. 14.7) : texte intégral des 3 pages lu le 10/10/2026 (copie WLoC / The Cycad Society, citée par sa référence d'origine).
 - Wikipédia EN : localités Pebas/Pucaurquillo, CR 2010 ; auteur « D.W.Stev. & Sabato ».
 - The World List of Cycads (cycadlist.org, version 2026.08.15) : page espèce et export XLSX lus directement (auteurs, protologue, type, répartition, statut UICN 2022 et critères, étymologie, synonymes).
 - Species+ (API JSON) interrogée le 03/10/2026 : annexe II CITES (genre, 04/02/1977, annotation #4), annexe B UE (règlement (UE) 2026/1383).
@@ -39,8 +39,9 @@ Brouillon : `pilotes/espece-zamia-macrochiera-fr.html` (blocs Gutenberg contrôl
 
 ## Points à valider par le propriétaire
 
-- Auteur : WLoC « D.W.Stev. » ; Wikipédia (et peut-être POWO) « D.W.Stev. & Sabato » : à vérifier sur POWO.
-- Aucune dimension accessible.
+- Auteur : le protologue porte « D.W. Stevenson, species nova » (Stevenson seul), comme WLoC ; Wikipédia « D.W.Stev. & Sabato » (POWO non vérifié).
+- 10/10/2026 : dimensions (tige, cataphylles, feuilles, folioles, cônes, graines), 2n = 18, paratypes, comparaison avec Z. manicata, état des populations en 2004 ajoutés ; phrase « aucune source ne les rapproche » corrigée (le protologue compare les deux espèces) ; « petite cycadale » corrigé (feuilles jusqu'à 3,5 m).
+- Écarts : isotypes du protologue AMAZ, FTG, NY, U (WLoC ajoute MO, sans doute un paratype Mathias) ; le protologue écrit « Rio Amiyacu » (fiche : río Ampiyacu, conservé).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches *Zamia* FR publiées et vérifiées (200, sans redirection) au moment de la publication.
 

@@ -53,3 +53,11 @@
 
 ## Publication
 - Publiée le 02/10/2026 : id 26352, https://succulentes.net/cycadales/encephalartos/mackenziei/ (200, sans redirection) ; SEO Rank Math appliqué ; lien ajouté dans l’index de la page genre 14229. Aucune redirection ancienne trouvée pour cette URL.
+
+## Complément du 10/10/2026 — protologue lu
+
+- Source : Newton, L.E. (2002), *Bot. J. Linn. Soc.* 140 : 187-192, texte intégral (copie cycad.org, scan OCR ; la page 4, figures seules, sans texte).
+- Ajouts (replace_in_content, 13 remplacements, dry run puis application, texte vérifié en ligne) : introduction (phrase « seul le résumé » remplacée) ; L'essentiel (nom provisoire attesté par Heibloem 1999, port et dimensions) ; Comment reconnaître (liste complète d'après le protologue) ; Confusions (tableau de Newton contre *E. septentrionalis* ; comparaison avec *E. macrostrobilus*, alors qu'il était écrit qu'aucune source ne les comparait) ; Taxonomie (localité tue dans le protologue, matériel étudié, choix du rang) ; Étymologie (Mackenzie et Heibloem, récolte 1995) ; Dans la nature (feux, repousse, cônes mûrs vers septembre, semis détruits par le feu, terrain rocheux) ; Culture (dix plantes établies à Nairobi) ; FAQ ; Bibliographie (Newton « texte intégral lu », Jones & Wynants 1997 pour la note d'Osborne sur « sp. Sudan »).
+- Corrections (données de seconde main, Wikipédia d'après The Cycad Pages, contredites par le protologue) : cônes femelles « un ou deux » → jusqu'à quatre ; folioles « coriaces et laineuses » → duvet court et clairsemé ; sarcotesta « rouge orangé » → orange ; insertion « environ 45° » → 60° sur le rachis, inclinées à 45°. Altitude 1 800-2 000 m : absente du protologue, laissée comme non vérifiée.
+- Écart : localité (monts Didinga, Chukudum) donnée par WLoC, volontairement tue par Newton (« Equatoria Province »).
+- Retombée : Newton signale que la largeur des folioles d'*E. macrostrobilus* (« 190-250 mm ») est une erreur du protologue (25 mm au plus) — fiche macrostrobilus corrigée.
