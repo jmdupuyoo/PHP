@@ -51,3 +51,10 @@
 
 ## Publication
 - Publiée le 02/10/2026 : id 26341, https://succulentes.net/cycadales/encephalartos/schmitzii/ (200, sans redirection) ; SEO Rank Math appliqué ; lien ajouté dans l’index de la page genre 14229. Aucune redirection ancienne trouvée pour cette URL.
+
+## Complément du 10/10/2026 — protologue lu
+
+- Source : Malaisse, F. (1969), *Bull. Jard. Bot. Nat. Belg.* 39 : 401-406 (daté du 31-12-1969), texte intégral (copie cycad.org, couche texte).
+- Ajouts (replace_in_content, 10 remplacements, dry run puis application, texte vérifié en ligne) : introduction (trois pieds connus en 1969) ; L'essentiel (milieux, port et dimensions) ; Comment reconnaître (liste complète d'après la description latine et française) ; Confusions (diagnose contre *E. marunguensis* ; clés de Malaisse : inclinaison des écailles femelles 40-60° contre 70-80°, nervures < 17, longueur des feuilles ; lien septentrionalis 200) ; Taxonomie (holotype = cône femelle ; Schmitz 5417, Malaisse 6461 ; date de parution) ; Étymologie et histoire (découverte d'août 1955, Kipopo, Devred 1959, pied de 1966 sous forêt-verger à *Protea petiolaris*, cône femelle 1968-1969, pied de Lualala non retrouvé) ; Dans la nature (désaccord de Malaisse avec Schmitz sur l'écologie) ; Bibliographie.
+- Corrections / écarts (seconde main, Wikipédia d'après The Cycad Pages) : pétiole « épineux » → glabre, sans épines mentionnées ; cône femelle 20-25 cm → 26 cm ; graines « rouge orangé » → orange (sous réserve, cône mûri au laboratoire) ; tige « 30 cm × 20 cm » et folioles « vert glauque » : absents du protologue, signalés non vérifiés.
+- Malaisse, Sclavo & Turner 1990 et Hurter & Whitelock 1998 toujours non lus.

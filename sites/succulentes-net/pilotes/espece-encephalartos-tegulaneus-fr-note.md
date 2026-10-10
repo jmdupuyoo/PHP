@@ -65,3 +65,11 @@
 3. Sources bloquées : POWO, UICN, BioOne, JSTOR.
 4. France : aucune donnée, pour aucune zone.
 5. Encadré : rusticité non documentée.
+
+## Complément du 10/10/2026 — protologue lu
+
+- Source : Melville, R. (1957), *Encephalartos* in Central Africa, *Kew Bull.* 12 : 237-257, texte intégral (copie cycad.org, couche texte ; *E. tegulaneus* p. 249-252). Les décimales du Kew Bulletin (point médian) sont lues « 2-5 » par la couche texte : 2,5.
+- Sous-espèce *powysii* (Miringu & Beentje 1999, *J. East Afr. Nat. Hist.* 88 : 35-39) : OpenAlex la dit en libre accès (« diamond »), mais le PDF BioOne est derrière une protection anti-robot (Incapsula) ; non contournée, article toujours non lu.
+- Ajouts (replace_in_content, 7 remplacements, dry run puis application, texte vérifié en ligne) : L'essentiel (port et dimensions d'après le protologue) ; Comment reconnaître (liste complète d'après Melville, puis LLIFLE présenté comme fourchettes secondaires) ; Taxonomie (date 7 mai 1954, Sabatchi, altitude 2 300 m sur l'étiquette) ; Étymologie et histoire (spécimens, photographies et aquarelle de Joy Adamson, notes de terrain citées par Melville) ; FAQ (étymologie, taille) ; Bibliographie.
+- Corrections : altitude du type « vers 7 000 pieds (environ 2 130 m) » → 2 300 m (étiquette du type ; 7 000 pieds = sommet de la montagne selon les notes d'Adamson) ; date de récolte : 7 mai (protologue) contre 5 mai (WLoC), divergence exposée ; dimensions « selon LLIFLE » remplacées par celles du protologue dans L'essentiel.
+- Écarts : longueur des folioles 16-32 cm (latin) contre 16-22 cm (anglais) dans le protologue ; nervures 28-46 (Melville) contre 26-40 (LLIFLE) ; cônes femelles cylindriques d'environ 40 × 19 cm (Melville) contre ovoïdes de 40-68 × 19-30 cm (LLIFLE).

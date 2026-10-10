@@ -36,8 +36,10 @@
 - Liens externes : aucun `<a>` externe (URL en texte dans Sites de référence) ; URL externes vérifiées en 200 le 03/10/2026.
 
 ## Points à valider par le propriétaire
-- Fiche courte (description originale non accessible) : à compléter si le propriétaire a accès à Brittonia 45(1).
-- Wikipédia EN donne des dimensions (tige sub-globuleuse 10 cm, 1-3 feuilles, 3-12 paires de folioles, habitat 400-800 m sur argile en végétation secondaire) dont la source n'est pas vérifiable : non reprises.
+- 10/10/2026 : Brittonia 45(1) (Stevenson 1993) lu en texte intégral (copie de The Cycad Society, scan OCR ; citée par sa référence d'origine) : dimensions (tige, cataphylles, feuilles, folioles, cônes, graines), habitat (sols argileux, pentes et crêtes, 400-800 m, végétation secondaire), noms kunas « obset » / « obset e sana » (la fiche disait « aucun nom vernaculaire » : corrigé), critères de la clé face à Z. ipetiensis et Z. dressleri, récolteurs anciens, manuscrit de Dressler. Les données de Wikipédia EN (tige 10 cm, 3-12 paires, 400-800 m, argile) sont confirmées par le protologue. Ajout de Calonje et al. 2010 (feuilles jusqu'à 2,5 m d'après A. Taylor ; caractères communs avec ipetiensis).
+- Paragraphe Taxonomie du 03/10/2026 sur Z. ipetiensis conservé tel quel.
+- Écarts internes au protologue : cônes femelles 15-20 cm (description) / 20-30 cm (clé) ; feuilles 0,5-1,5 m (protologue) / jusqu'à 2,5 m (Calonje et al. 2010).
+- Lien vers Z. ipetiensis déplacé à sa nouvelle première occurrence (Comment reconnaître) ; lien ajouté vers Z. muricata (200).
 - POWO non consulté (Cloudflare) : nom accepté d'après WLoC.
 - France : aucune culture en pleine terre ni épisode de gel documenté, toutes zones ; encadré « Rusticité documentée : aucune donnée ».
 

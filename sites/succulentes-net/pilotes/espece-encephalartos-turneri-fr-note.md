@@ -62,3 +62,10 @@
 3. Sources bloquées ou payantes : POWO, UICN, PalmTalk, *Garcia de Orta*, *Cycad Newsletter* 2007.
 4. France : aucune donnée de froid, pour aucune zone.
 5. Encadré : dimensions et rusticité non documentées.
+
+## Complément du 10/10/2026 — protologue lu
+
+- Source : Lavranos, J.J. & Goode, D. (1985 [1988 selon WLoC et IPNI]), *Garcia de Orta, Sér. Bot.* 7(1-2) : 11-14, texte intégral (PDF The World List of Cycads ; couche texte de qualité moyenne, page 1 contrôlée sur l'image : troncs « 80 cm diam. »).
+- Ajouts (replace_in_content, 11 remplacements, dry run puis application, texte vérifié en ligne) : L'essentiel (exposition, port et dimensions) ; Comment reconnaître (liste complète d'après le protologue) ; Confusions (affinités selon Lavranos & Goode : complexe *manikensis*, *ferox*, *gratus*, plantes de Heenan en Tanzanie, espèce non décrite des collines de Marungu près de Voi ; liens manikensis, ferox, gratus 200) ; Taxonomie (pied de page « 7 (1-2), 1985 », reçu le 22/02/1985 ; « Springs Farm ») ; Dans la nature (basses collines de granite, fissures, mi-ombre ou plein soleil, troncs couchés, feu inconnu, chute des folioles) ; FAQ ; Bibliographie.
+- Corrections : FAQ « le cône femelle n'a pas de pédoncule » (Vorster & Heibloem 1995) retirée — le protologue donne un pédoncule d'environ 5 cm ; l'écart est signalé dans la liste de Vorster & Heibloem. « Spring Farms » → « Springs Farm ». « Folioles armées d'épines » (Jungle Music) nuancé : bords entiers dans la moitié supérieure. Note du 02/10, point 1 (« leaflets with entire margins » retiré) : le protologue confirme des bords entiers dans la moitié supérieure seulement.
+- Turner 1998 et Cycad Newsletter 2007 toujours non lus.

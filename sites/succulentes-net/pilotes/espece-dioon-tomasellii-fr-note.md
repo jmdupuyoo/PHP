@@ -65,3 +65,9 @@ Intro : /cycadales/dioon/. Corps : /cycadales/dioon/sonorense/, /cycadales/encep
 3. Sources bloquées : POWO, UICN, JSTOR, Dave's Garden, PalmTalk, Cycad Pages ; sources thaïlandaises, japonaises et chinoises : rien.
 4. France : aucune donnée pour aucune zone.
 5. Encadré : rusticité = estimations de pépinières seulement.
+
+## Complément du 10/10/2026 (protologue)
+- Protologue lu en texte intégral (Brittonia 36(3) : 223-227 ; copie de The Cycad Society, localité du type masquée). Type Vázquez Torres 2307, 12/06/1979, NAP (isotypes ENCB, MEXU, NY, XALU) : concorde avec la fiche.
+- Écart principal : « megasporophyll tip mostly peculiarly reflexed » (protologue) contre mégasporophylles « entièrement plates » (révision 2020) ; exposé sans trancher.
+- Concept de 1984 large (Guerrero à Sonora) : mesures données comme telles ; largeur des folioles de la variété type (7-12 mm) précisée.
+- Publication : replace_in_content (dry run puis application, 8 remplacements), brouillon mis à jour, comparaison identique, URL 200.

@@ -51,3 +51,9 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26759, https://succulentes.net/cycadales/cycas/wadei/ (200 sans redirection, curl), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256 (replace_in_content, dry run puis application) ; contenu publié comparé au fichier local (texte et liens identiques, hors sommaire automatique).
+
+## Complément du 10/10/2026 (protologue)
+- Point 2 résolu : Merrill 1936 (Philipp. J. Sci. 60(3) : 233-237, pl. 1-4) lu en texte intégral (scan OCR, numéro de fascicule « 60, 3 » vérifié sur l'image).
+- Écarts Merrill / Lindström et al. 2008 exposés : lobes du mégasporophylle (~15 par côté contre 20-30), ovules (en général 2 contre 2-4), feuilles (~75 cm contre 75-180 cm), diamètre du tronc (base renflée 30-48 cm).
+- Corrigé : destinataires des graines et plantules (Kew et Berlin : graines ; New York et Coconut Grove Palmetum : plantules).
+- Publication : replace_in_content (dry run puis application, 9 remplacements), brouillon mis à jour, comparaison identique, URL 200.

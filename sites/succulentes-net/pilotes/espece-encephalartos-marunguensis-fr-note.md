@@ -51,3 +51,10 @@
 
 ## Publication
 - Publiée le 02/10/2026 : id 26335, https://succulentes.net/cycadales/encephalartos/marunguensis/ (200, sans redirection) ; SEO Rank Math appliqué ; lien ajouté dans l’index de la page genre 14229. Aucune redirection ancienne trouvée pour cette URL.
+
+## Complément du 10/10/2026 — description complémentaire de 1971 lue
+
+- Source : Lisowski, S. & Malaisse, F. (1971), *Bull. Jard. Bot. Nat. Belg.* 41 : 357-361 (30-9-1971), texte intégral (copie cycad.org, couche texte). NB : la section 3 de descriptions-payantes.md attribuait cet article à « Devred 1971 » ; il est de Lisowski & Malaisse. Le protologue (Devred 1958/1959, *Bull. Soc. Roy. Bot. Belg.* 91, JSTOR) reste non lu.
+- Ajouts (replace_in_content, 13 remplacements en deux passes, dry run puis application, texte vérifié en ligne) : introduction ; L'essentiel (noms kitabwa, exposition, port et dimensions) ; Comment reconnaître (liste d'après le matériel frais de 1971 ; plantes toutes acaules ; tronc de 30-40 cm de Devred contredit par l'étiquette « plantes acaules ») ; Confusions (proche mais distinct de *E. schmitzii* ; nervures 17-25 contre < 17, clés de Malaisse 1969) ; Taxonomie (stations, altitudes, récolteurs ; divergence Muhila / Marungu pour la récolte type) ; Noms communs (« Kavunduvundu », « Tusu », kitabwa) ; Dans la nature (1 390-1 690 m, savane arborée et steppe herbeuse, relevé de la montagne Mwango) ; FAQ ; Bibliographie.
+- Corrections : « aucun nom vernaculaire africain » → deux noms kitabwa ; altitude 1 400-1 500 m (Wikipédia) élargie à 1 390-1 690 m ; « sols granitiques » (Wikipédia) non confirmé, signalé.
+- Écart : localité type « plateau des Muhila » (Lisowski & Malaisse 1971) contre « plateaux de Marungu » (WLoC, épithète) ; non tranché faute du protologue.
