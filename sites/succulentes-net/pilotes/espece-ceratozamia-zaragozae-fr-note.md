@@ -48,3 +48,9 @@
 - translation_of : aucun (aucune fiche dans une autre langue).
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Lien ajouté dans l'index de la page genre 9866 (dry_run puis application).
+
+## Complément du 10/10/2026 (protologue lu)
+
+- Protologue lu (Medellín-Leal 1963, Brittonia 15 : 175-176 ; scan de la Cycad Society lu par OCR, chiffres et type vérifiés sur l'image). Ajouts : description chiffrée (tronc 9-20 cm, feuilles 20-95 cm à 16-43 paires de folioles coriaces de 3-10 mm, cônes, graines presque sphériques côtelées), écarts avec la monographie (folioles membraneuses, graines ovales, feuilles jusqu'à 202 cm), circonstances de la récolte (Molseed, Kimnach), traduction de McVaugh, affinités (C. kuesteriana, C. matudae), caractères distinctifs, dédicace confirmée, holotype femelle 1452 et plante mâle 1451, isotypes prévus.
+- Habitat : le protologue situe le type sur rhyolite en forêt de pins et de chênes à 1 800 m (la fiche attribuait la rhyolite à Jones 1993 seulement) ; contradiction avec les « rochers karstiques » de la monographie toujours exposée.
+- replace_in_content sur 26412 (dry run puis application, 7 remplacements) ; brouillon identique au contenu en ligne ; URL 200.

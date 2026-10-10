@@ -48,3 +48,9 @@
 - translation_of : aucun (aucune fiche dans une autre langue).
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Lien ajouté dans l'index de la page genre 9866 (dry_run puis application).
+
+## Complément du 10/10/2026 (protologue lu)
+
+- Protologue lu en texte intégral (Pérez-Farrera et al. 2009, Systematics and Biodiversity 7(4) : 433-443, copie de la Cycad Society). Ajouts : description chiffrée (12 adultes), analyse morphométrique du complexe, rattachement à C. zoquorum et critères (cône femelle dressé, nervures invisibles, folioles espacées de 3,4-7,5 cm), critères visibles face à C. becerrae, paratype, localité omise volontairement, culture expérimentale (UNICACH, Clavijero), habitat (« cimas », karst, 800-900 m, climat), statut CR B1 proposé en 2009.
+- Écart majeur exposé : la monographie décrit une plante naine (2-3 feuilles de moins de 80 cm) ; le protologue donne 4-7 feuilles de 62-211 cm et un tronc de 20-67 cm. Intro, L'essentiel, Comment reconnaître et FAQ nuancés.
+- replace_in_content sur 26420 (dry run puis application, 11 remplacements) ; brouillon identique au contenu en ligne ; URL 200.

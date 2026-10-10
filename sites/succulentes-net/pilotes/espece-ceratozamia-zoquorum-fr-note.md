@@ -48,3 +48,10 @@
 - translation_of : aucun (aucune fiche dans une autre langue).
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Lien ajouté dans l'index de la page genre 9866 (dry_run puis application).
+
+## Complément du 10/10/2026 (protologue lu)
+
+- Protologue lu en texte intégral : Pérez-Farrera, Vovides & Iglesias 2001, « A new species of Ceratozamia (Zamiaceae) from Chiapas, Mexico », Bot. J. Linn. Soc. 137 : 77-80 (copie de la Cycad Society). Titre exact désormais en Bibliographie et en Taxonomie (point 3 ci-dessus réglé pour le titre).
+- Écart majeur exposé : cône femelle retombant (« decumbent ») dans le protologue, caractère diagnostique repris dans le protologue de C. santillanii ; la monographie le dit dressé. Autres écarts : 1-5 feuilles de 81-374 cm, tronc ramifié jusqu'à 48 cm, folioles espacées de 1,7-2,4 cm (protologue de santillanii) contre 4,6-11 cm (monographie).
+- Ajouts : rapprochement avec C. miqueliana, culture expérimentale (UNICACH, Clavijero), « C. zoquensis » employé par erreur dans le corps du protologue, « isotype » 905 (autre numéro et date), spécimen Breedlove 1981, habitat (520-1 200 m, falaises karstiques, rendzines et argiles rouges), statut CR proposé en 2001.
+- replace_in_content sur 26438 (dry run puis application, 9 remplacements) ; brouillon identique au contenu en ligne ; URL 200.

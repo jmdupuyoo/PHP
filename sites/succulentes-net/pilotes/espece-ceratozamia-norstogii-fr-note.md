@@ -41,3 +41,10 @@ Brouillon : `pilotes/espece-ceratozamia-norstogii-fr.html` (blocs Gutenberg cont
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Aucun message de La Londe-les-Maures trouvé pour cette espèce.
 - Liens internes du corps : première occurrence des *Ceratozamia* ayant une fiche FR publiée, vérifiés en 200 après publication.
+
+## Complément du 10/10/2026 (protologue lu)
+
+- Protologue lu en texte intégral (Stevenson 1982, Brittonia 34(2) : 181-184, copie de la Cycad Society). Ajouts : description chiffrée de 1982, histoire des noms d'herbier inédits (Rose, Standley, Chamberlain), paratypes, plantes cultivées en Californie et en Floride (1929-1981), dédicace.
+- Écart majeur exposé sans trancher : le protologue décrit un pétiole et un rachis DROITS (caractère qui l'opposait à C. zaragozae) ; la clé de 1986 et la monographie de 2022 le disent tordu. Phrases « Comment reconnaître », Confusions et FAQ nuancées.
+- Corrigé : « Aucune source ne documente son introduction en culture » (le protologue cite des plantes cultivées dès 1929). Isotypes : le protologue ne cite que US et des fragments à F (la fiche, d'après la monographie, cite F, MO et US).
+- replace_in_content sur 26460 (dry run puis application, 8 + 1 remplacements) ; brouillon identique au contenu en ligne ; URL 200.

@@ -49,3 +49,8 @@
 - translation_of : aucun (aucune fiche dans une autre langue).
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Lien ajouté dans l'index de la page genre 9866 (dry_run puis application).
+
+## Complément du 10/10/2026 (protologue lu)
+
+- Protologue lu en texte intégral (Pérez-Farrera, González-Astorga, Avendaño & Iglesias 2007, Bot. J. Linn. Soc. 153 : 393-400, copie de la Cycad Society). Ajouts : description chiffrée (tronc 15-85 cm parfois ramifié, 8-16 feuilles de 124-188 cm, 74-93 paires de folioles coriaces, cônes, graines, 2n = 16), écarts avec la monographie (nombre et texture des folioles), parenté avec C. matudae selon les auteurs et critères, découverte et culture expérimentale de six ans, spécimens de 1940 et 1951, localité omise, habitat du protologue (forêt de chênes sur granites et roches métamorphiques, 1 000-1 700 m, contre « rochers karstiques » dans la monographie), statut VU C2a proposé en 2007 (quatre populations).
+- replace_in_content sur 26428 (dry run puis application, 10 remplacements) ; brouillon identique au contenu en ligne ; URL 200.
