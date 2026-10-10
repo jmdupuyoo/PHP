@@ -50,3 +50,8 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26681, https://succulentes.net/cycadales/cycas/lane-poolei/ (200 sans redirection, curl et fetch_site_url), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256 (replace_in_content, dry run puis application) ; contenu publié comparé au fichier local (texte et liens identiques).
+
+## Complément du 10/10/2026 (protologue)
+- Protologue lu (Gardner 1923, For. Dep. Bull. W. Austral. 32 : 30-31, fig. E ; copie de The Cycad Society, 3 pages, scan OCR vérifié sur l'image pour les mesures du tronc).
+- Écarts Gardner / Hill 1996 exposés : tronc 15-23 cm contre 12-15 cm ; mégasporophylles glabres contre duveteux ; graines 5,7 × 5 cm, glauques jeunes, contre 38-45 mm, non pruineuses.
+- Publication : replace_in_content (dry run puis application, 5 remplacements), brouillon mis à jour, comparaison identique, URL 200.

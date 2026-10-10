@@ -46,6 +46,9 @@ Brouillon : `pilotes/espece-zamia-ipetiensis-fr.html` (blocs Gutenberg contrôl�
 ## Points à valider par le propriétaire
 
 - Calonje et al. 2018 traitent Z. cunaria et Z. ipetiensis ensemble ; WLoC garde les deux. À surveiller.
+- 10/10/2026 : Brittonia 45(1) (Stevenson 1993, pp. 7-9) lu en texte intégral (copie de The Cycad Society, scan OCR ; citée par sa référence d'origine) : tige, cataphylles, feuilles (0,5-1,5 m, 3-12 paires), folioles médianes 20-40 × 5-8 cm, cônes mâles, habitat (100-500 m, forêt humide primaire et secondaire), type dans la province de Panamá, clé face à Z. cunaria, espèces sœurs par vicariance (lien Z. muricata ajouté) ; Calonje et al. 2010 ajouté (feuilles 1,7 m au plus).
+- Écarts signalés dans la fiche : cônes femelles et graines de la description anglaise copiés de Z. cunaria (15-20 cm, graines roses) alors que la clé donne des cônes femelles de 10 cm au plus et la diagnose latine des cônes brun roux foncé et des graines rouges ; folioles médianes 20-40 × 5-8 cm (1993) / 22-49,7 × 3,5-7 cm (2018) ; 3-12 paires (1993) / 4-32 folioles (2018).
+- Étymologie : le protologue place le type dans la province de Panamá, sans localité (WLoC/Haynes : Ipetí, Darién) ; écart conservé dans la fiche.
 - Étymologie : WLoC/Haynes situent Ipetí dans le Darién, la répartition WLoC dit Panamá et Kuna Yala ; la fiche signale l'écart.
 - Deux DOI UICN 2022 pour l'espèce (A69839117 et version amendée A243405877).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
