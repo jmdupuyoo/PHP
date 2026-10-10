@@ -59,3 +59,4 @@
 - Écarts protologue / monographie exposés sans trancher : altitude 1 500-1 800 m (protologue) contre 1 000-1 536 m (monographie) ; cône mâle 25-28 × 8,9-10 cm contre 15-20 × 1,8-3,2 cm ; autres mesures voisines.
 - Page genre 9866 : l'index donne « Tenejapa et Altamirano, 1 000-1 536 m » (correction du 03/10/2026 d'après la monographie). Contradiction avec le protologue sur l'altitude : la valeur de 1 500-1 800 m est ajoutée à côté (voir journal), sans retirer celle de la monographie.
 - Publication : replace_in_content (dry run puis application, 11 remplacements), brouillon mis à jour, comparaison identique, URL 200.
+- 10/10/2026 : valeur du protologue (1 500-1 800 m) ajoutée sur la page genre 9866 à côté de 1 000-1 536 m.

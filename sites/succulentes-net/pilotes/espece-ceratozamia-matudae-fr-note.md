@@ -41,3 +41,10 @@ Brouillon : `pilotes/espece-ceratozamia-matudae-fr.html` (blocs Gutenberg contr�
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26408, https://succulentes.net/cycadales/ceratozamia/matudae/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.
+
+## Complément du 10/10/2026 (protologue lu)
+
+- Protologue lu : Lundell 1939, Lloydia 2(2) : 75-76 (scan de la Cycad Society, lu par OCR ; versions latine et anglaise concordantes). Titre complet de l'article non visible sur les deux pages de la copie (titre courant « Mexican and Central American plants ») : la référence reste entre crochets.
+- Ajouts : description chiffrée (feuilles 75-122 cm, 23-44 paires de folioles coriaces de 6,5-15 mm, cônes, pédoncule femelle jusqu'à 22 cm, graines ~3 cm), comparaison de Lundell avec C. mexicana et C. kuesteriana, récoltes antérieures (Matuda 2087, décembre 1937 ; 2646, cône femelle, février 1939), habitat du type (forêt de feuillus, versant nord du mont Ovando, 1 000 m ; pas de mention de calcaire, contre « rochers karstiques » dans la monographie).
+- Page genre 9866 (1 000-1 500 m) non modifiée : le protologue (1 000 m pour le type) ne la contredit pas.
+- replace_in_content sur 26408 (dry run puis application, 6 remplacements) ; brouillon identique au contenu en ligne ; URL 200.

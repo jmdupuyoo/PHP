@@ -95,3 +95,4 @@ Aucune donnée documentée pour la France, quelle que soit la zone (littoral mé
 - Index des espèces par région (six zones) plutôt que par clade, faute de pouvoir vérifier les sous-clades.
 - Section « Contexte français » volontairement courte (absence de données), complétée par des « Repères internationaux ».
 - Pas de section Hybrides (rien de documenté au niveau du genre). L'hybride *C. latifolia* × *hildae* est seulement mentionné sur PalmTalk.
+- 10/10/2026 : index, C. sancheziae : « 1 000 à 1 536 m selon la monographie de 2022 (1 500 à 1 800 m selon la description originale de 2021) » (contradiction avec le protologue). Autres altitudes du 03/10 inchangées.
