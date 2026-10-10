@@ -50,3 +50,12 @@
 - translation_of : aucun (aucune fiche dans une autre langue).
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Lien ajouté dans l'index de la page genre 9866 (dry_run puis application).
+
+## Complément du 10/10/2026 (protologue)
+- Source lue : Plazi, traitement 03FCB4583C38FF8999823590FA5244F0 (partie taxonomique de Phytotaxa 500(3) : holotype, paratypes, diagnose, description, habitat, sols, étymologie).
+- Point 2 (type) résolu : holotype Pérez-Farrera 3558 ♀ (HEM ; isotypes XAL, MEXU), Tenejapa, 1 500 m, 16/05/2017 ; Pérez-Farrera 1673 (HEM) est un paratype (WLoC le donne comme type : erreur probable de WLoC).
+- Point 3 (étymologie) : le protologue dit « reproduction biology, particularly the anatomy of the ovule and archegonia of cycads ».
+- Point 5 (texte intégral) : partie taxonomique lue ; analyses morphométriques et discussion toujours connues par le résumé.
+- Écarts protologue / monographie exposés sans trancher : altitude 1 500-1 800 m (protologue) contre 1 000-1 536 m (monographie) ; cône mâle 25-28 × 8,9-10 cm contre 15-20 × 1,8-3,2 cm ; autres mesures voisines.
+- Page genre 9866 : l'index donne « Tenejapa et Altamirano, 1 000-1 536 m » (correction du 03/10/2026 d'après la monographie). Contradiction avec le protologue sur l'altitude : la valeur de 1 500-1 800 m est ajoutée à côté (voir journal), sans retirer celle de la monographie.
+- Publication : replace_in_content (dry run puis application, 11 remplacements), brouillon mis à jour, comparaison identique, URL 200.

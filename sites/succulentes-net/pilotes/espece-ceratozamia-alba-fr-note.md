@@ -54,3 +54,10 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : sommaire, newsletter et pied de page du thème).
 - Lien ajouté dans l'index des espèces de la page genre 9866 (replace_in_content, simulation puis application ; 11 liens en un appel pour les 11 fiches du lot).
+
+## Complément du 10/10/2026 (protologue)
+- Source lue : Plazi TreatmentBank, traitement 039F7F5A1833FFB7E49A2A2D41900A8A (XML tb.plazi.org), texte intégral de la partie taxonomique de Pérez-Farrera et al. 2024 (p. 265-268 : diagnose, description, type, habitat, étymologie, statut, spécimens). Le reste de l'article (morphométrie, phylogénie, discussion) n'est pas sur Plazi : toujours connu par le résumé Crossref.
+- Ajouté : description chiffrée complète, type femelle (Pérez-Farrera & Martínez-Martínez 4396, HEM ; isotypes CHIP, XAL), spécimens examinés 2019-2023, habitat (rupicole, karst, forêt tropicale humide, 700-800 m, flore associée), population (trois groupes, < 50 adultes, ~0,1 km²), menaces (pâturages, maïs, café, carrières), recommandations des auteurs (conservation in situ et ex situ).
+- Corrigé : couleur du cône mâle (vert clair à vert jaunâtre selon la description ; « vert bleuté » selon le résumé) et teinte finale des feuilles (vert clair à vert olive) ; écart exposé dans « Comment reconnaître ».
+- Phénologie : non décrite par le protologue (rien ajouté).
+- Publication : replace_in_content (dry run puis application, 17 remplacements), brouillon local mis à jour, comparaison texte brouillon/en ligne identique, URL 200.

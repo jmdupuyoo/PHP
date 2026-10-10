@@ -61,3 +61,10 @@
 3. Sources bloquées : POWO, UICN, BHL, botanicgardens.ie ; source thaïlandaise : seulement la participation de Nong Nooch au projet Darwin ; rien en japonais ni en chinois.
 4. France : aucune donnée, pour aucune zone.
 5. Encadré : rusticité, port et dimensions non documentés.
+
+## Complément du 10/10/2026 — protologue lu
+
+- Source : Hurter, P.J.H. & Glen, H.F. (1995), *S. African J. Bot.* 61(4) : 226-229, texte intégral (PDF hébergé par The World List of Cycads, `storage/proto/Encephalartos_equatorialis.pdf`, couche texte ; copie identique sur cycad.org). Vorster 1995 (*Novon*, BHL) toujours non lu.
+- Ajouts (replace_in_content, 13 remplacements, dry run puis application) : L'essentiel (port et dimensions, exposition 1995) ; Comment reconnaître (liste tronc, feuilles, folioles, cônes mâles et femelles, graines, toutes dimensions du protologue) ; Confusions (comparaison avec *E. hildebrandtii* et *E. ituriensis* d'après le protologue, lien hildebrandtii 200) ; Taxonomie (nature du type ; identification de Heenan 1977 avec *E. hildebrandtii* var. *dentatus* écartée) ; Dans la nature (une seule colline granitique, versant ouest, forêt humide dégradée à Rubiaceae et Euphorbiaceae en 1994-1995 ; aucune régénération, graines stériles, rejets) ; Conservation (menaces de 1995 : collectionneurs, troncs replantés) ; Multiplication (rejets basaux abondants) ; FAQ ; Bibliographie (« texte intégral lu »).
+- Écarts : habitat 1995 (forêt humide dégradée, une colline) ≠ TIPAs (prairie, prairie arborée, fourré, deux sous-populations) — les deux présentés avec leur date. Les dimensions « en ligne » (tronc 3,5-4 m, feuilles 3-4 m) concordent avec le protologue. Les graines stériles sont constatées dès 1995, pas seulement par le projet Darwin.
+- Point 1 des « Points à valider » (obtenir le protologue) : résolu.

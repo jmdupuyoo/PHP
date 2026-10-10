@@ -15,7 +15,7 @@ Fichier : `pilotes/espece-zamia-stevensonii-fr.html` (blocs Gutenberg contrôlé
 
 ## Sources
 
-- Taylor Blake & Holzman 2012, *Bot. Rev.* 78(4) : résumé seulement (page Springer).
+- Taylor Blake & Holzman 2012, *Bot. Rev.* 78(4) : 335-344 : texte intégral lu le 10/10/2026 (copie de The Cycad Society ; citée par sa référence d'origine).
 - FdP t=13490&start=105 #p244879 (graines « sp. blanco », 2013) ; Tropicamente le-foglie-nuove-delle-cycadacee/page/2 #post-40940 (Ravenne, 2013).
 - Species+ (API JSON) interrogée le 03/10/2026 : genre *Zamia* annexe II depuis le 04/02/1977, annotation #4 (CoP20, 05/03/2026) ; *Z. restrepoi* annexe I depuis le 18/01/1990 ; UE A/B (règlement (UE) 2026/1383, 29/06/2026).
 - The World List of Cycads (version 2026.08.15) : page espèce et export XLSX lus directement.
@@ -38,8 +38,8 @@ Fichier : `pilotes/espece-zamia-stevensonii-fr.html` (blocs Gutenberg contrôlé
 
 ## Points à valider par le propriétaire
 
-- Protologue non lu (paywall) : aucune dimension ; fiche courte.
-- Origine du nom « blanco » (jeunes feuilles blanches selon Wikipédia) non vérifiée : signalée comme telle.
-- Infos Wikipédia non reprises : altitude 110-700 m, parc national Chagres, « dry hardy ».
+- Protologue lu le 10/10/2026 : description et dimensions, type (CCh23052012, PMA/NY/XAL), habitat (110 à plus de 700 m, forêt secondaire, sols basiques humifères), climat, phénologie, pollinisateurs, ravageurs (Eumaeus godarti, Alacoscelis), absence de nom local, statut proposé CR B1B2ab(ii,v) (UICN 2022 : EN) ajoutés.
+- Origine du nom « blanco » confirmée par le protologue (jeunes feuilles blanches) ; altitude 110-700 m et parc national Chagres confirmés.
+- Écarts internes au protologue signalés dans la fiche : cônes femelles 4,5-16 cm (description) / jusqu'à 20 cm (commentaire) ; graines 24 à 126 ou plus par cône (anglais) / plus de 144 (latin) ; 16 ans de recherches (résumé) / plus de 20 ans (méthodes).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : 1re occurrence des *Zamia* ayant une fiche FR publiée (200 sans redirection), y compris les fiches de ce lot.

@@ -50,3 +50,9 @@
 - translation_of : aucun (aucune fiche dans une autre langue).
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Lien ajouté dans l'index de la page genre 9866 (dry_run puis application).
+
+## Complément du 10/10/2026 (protologue)
+- Source lue : Plazi, traitement 03A28790FFE9FFA9FF635378FE8E9356 (Phytotaxa 268(1), p. 35-37 : diagnose, holotype et paratypes, description, étymologie, répartition, habitat, climat). Reste de l'article (biogéographie, morphométrie, code-barres ADN) : résumé seulement.
+- Apport principal pour le point 1 (dominguezii) : mesures au sens strict (populations de Los Tuxtlas seules), désormais données à côté de celles de la monographie au sens large.
+- Écart interne au protologue : folioles « non-pruinose on abaxial side » (diagnose) contre « abaxial side pruinose » (description) ; signalé dans la fiche.
+- Publication : replace_in_content (dry run puis application, 8 remplacements), brouillon mis à jour, comparaison identique, URL 200.

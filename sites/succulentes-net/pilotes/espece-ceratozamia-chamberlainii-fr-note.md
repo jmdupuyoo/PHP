@@ -60,3 +60,8 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : sommaire, newsletter et pied de page du thème).
 - Lien ajouté dans l'index des espèces de la page genre 9866 (replace_in_content, simulation puis application ; 11 liens en un appel pour les 11 fiches du lot).
+
+## Complément du 10/10/2026 (protologue)
+- Source lue : Plazi, traitement FF35878CEE10FFD45FB129802C89FC59 (Phytotaxa 317(1), p. 22-23 : diagnose, type, spécimens examinés, description, étymologie, répartition et habitat). Analyses morphologiques (reste de l'article) : résumé seulement.
+- Écarts protologue / monographie 2022 exposés : type à 850 m (protologue, WLoC) contre 1 044 m (monographie) ; habitat « pine-oak forest » seul dans le protologue (la monographie ajoute la forêt de nuages) ; type à 850 m sous la fourchette 900-1 200 m du même protologue ; cônes et graines un peu plus grands dans le protologue ; nombre de folioles « 20–42 » sans « pairs ».
+- Publication : replace_in_content (dry run puis application, 5 remplacements), brouillon mis à jour, comparaison identique, URL 200.
