@@ -29,3 +29,5 @@
 - Complément 11/10/2026 (lot miqueliana → rosea) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia miqueliana* 27475 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte en ligne).
 
 - Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia santillanii* 27494, *Ceratozamia zoquorum* 27556 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).
+
+- Complément 11/10/2026 (lot IT Zamia acuminata → decumbens) : lien ajouté à la première occurrence hors intro/encadré/titres/Fonti vers *Zamia cremnophila* (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).
