@@ -10,10 +10,14 @@
 - Redirections / doublons : aucune page IT préexistante (list_content it « Ceratozamia » ; enfants de 12127) ; aucune redirection visant l'URL (list_redirects, 213 entrées).
 
 ## Liens internes (tous en 200 au 11/10/2026)
-- Genre 12127 (intro) ; fiches IT : alvarezii, chimalapensis, norstogii, kuesteriana, robusta ; « Leggi anche » : articles IT 15579, 12252, 15593 (mêmes liens que les fiches du lot précédent).
-- Non liées : vovidesii (pas de fiche IT au 11/10/2026).
-- Les liens vers les fiches publiées en parallèle (hondurensis, huastecorum, kuesteriana, latifolia, leptoceras, matudae, mexicana, santillanii, sancheziae, subroseophylla, tenuis) ont été ajoutés après leur publication par replace_in_content ciblé (simulation puis application), brouillon aligné.
+- Genre 12127 (intro) ; fiches IT : alvarezii, chimalapensis, vovidesii, norstogii, kuesteriana, robusta ; « Leggi anche » : articles IT 15579, 12252, 15593 (mêmes liens que les fiches du lot précédent).
+- Non liées : aucune (toutes les *Ceratozamia* citées ont une fiche IT liée à leur première occurrence).
+- Les liens vers les fiches publiées en parallèle (hondurensis, huastecorum, kuesteriana, latifolia, leptoceras, matudae, mexicana, santillanii, sancheziae, subroseophylla, tenuis, puis vovidesii, whitelockiana, zaragozae, zoquorum) ont été ajoutés après leur publication par replace_in_content ciblé (simulation puis application), brouillon aligné.
 - Lien ajouté dans l'index de la page genre IT 12127 (replace_in_content ciblé, 11 liens du lot en un appel, simulation puis application) ; brouillon `genre-ceratozamia-it.html` aligné.
+
+## Liens vers cette fiche dans les autres fiches IT
+- Ajoutés (première occurrence hors intro/encadré/titres/Fonti, replace_in_content ciblé, simulation puis application ; brouillons `espece-ceratozamia-<x>-it.html` alignés et recomparés au texte en ligne) : chimalapensis 27415, alvarezii 27398.
+- Non ajoutés : fiches IT créées en parallèle par d'autres agents (euryphyllidia → mexicana : consigne de ne pas y toucher ; sabatoi → zoquorum : lot en cours) qui citent l'espèce sans lien au 11/10/2026 : vovidesii 27523, kuesteriana 27487. À traiter quand ces lots seront clos.
 
 ## Italie
 - Jardins botaniques italiens : espèce absente de `pilotes/cycadales-jardins-botaniques-italie.md` → « nessuna presenza documentata » (sans autre affirmation).

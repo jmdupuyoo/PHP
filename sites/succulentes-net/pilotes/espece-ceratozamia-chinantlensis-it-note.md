@@ -21,3 +21,5 @@
 
 ## Points douteux
 - Fiche courte (1 577 mots avant Fonti) comme la FR (1 658 mots) : espèce décrite en 2024, sans culture connue.
+
+- Complément 11/10/2026 (lot miqueliana → rosea) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia miqueliana* 27475 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte en ligne).
