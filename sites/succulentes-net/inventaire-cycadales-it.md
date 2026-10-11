@@ -122,7 +122,7 @@ Cycas aculeata (22084), Cycas aenigma (26570), Cycas andamanica (21956), Cycas a
 
 ### Dioon (10)
 
-Dioon argenteum (26124, publiée IT 27439), Dioon caputoi (26128, publiée IT 27445), Dioon oaxacensis (26133), Dioon planifolium (26137), Dioon purpusii (26139), Dioon rzedowskii (26144), Dioon salas-moralesiae (26148), Dioon stevensonii (26152), Dioon tomasellii (26156), Dioon vovidesii (26160)
+Dioon argenteum (26124, publiée IT 27439), Dioon caputoi (26128, publiée IT 27445), Dioon oaxacensis (26133, publiée IT 27430), Dioon planifolium (26137, publiée IT 27436), Dioon purpusii (26139, publiée IT 27438), Dioon rzedowskii (26144, publiée IT 27441), Dioon salas-moralesiae (26148, publiée IT 27442), Dioon stevensonii (26152, publiée IT 27444), Dioon tomasellii (26156, publiée IT 27449), Dioon vovidesii (26160, publiée IT 27458)
 
 ### Encephalartos (48)
 
