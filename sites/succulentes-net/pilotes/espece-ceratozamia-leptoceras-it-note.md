@@ -25,3 +25,5 @@
 ## Points douteux / choix
 - Titre SEO prévu (47 car.) trop court, remplacé par « l'unica Ceratozamia del Guerrero » (56 car.), fondé sur l'intro de la FR.
 - Aucune fiche IT existante hors lot ne cite l'espèce.
+
+- Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia whitelockiana* 27534 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).

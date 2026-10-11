@@ -29,3 +29,5 @@
 - −7 °C de Ravenne : pot ou pleine terre et protection non précisés (la protection « neige et pluie » concerne la mexicana du même message) ; corrigé avant publication.
 - Identifications des forums non vérifiées (achats sous le nom latifolia ou microstrobila).
 - Liens ajoutés dans les fiches IT existantes chamberlainii 27413, decumbens 27423 et delucana 27428.
+
+- Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia totonacorum* 27516, *Ceratozamia vovidesii* 27523 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).

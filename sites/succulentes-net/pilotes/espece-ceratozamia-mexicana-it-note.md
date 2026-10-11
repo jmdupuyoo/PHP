@@ -29,3 +29,5 @@
 - « Palma Sola » présentée comme C. brevifrons, jamais comme variété de mexicana (section Possibili confusioni + FAQ) ; lien vers brevifrons 27409, et lien inverse ajouté dans brevifrons.
 - Identifications des jardins et des forums non vérifiées selon les critères de 2016-2025 (signalé dans la page).
 - Liens ajoutés dans les fiches IT existantes aurantiaca 27401, brevifrons 27409, decumbens 27423 et delucana 27428 ; chamberlainii ne cite mexicana que dans les fonti (pas de lien).
+
+- Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia tenuis* 27504 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).

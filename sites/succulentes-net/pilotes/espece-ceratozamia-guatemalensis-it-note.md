@@ -24,3 +24,5 @@
 
 ## Points douteux / choix
 - Aucune fiche IT existante hors lot ne cite l'espèce (lien réciproque avec matudae 27480 dans le lot).
+
+- Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia vovidesii* 27523 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).

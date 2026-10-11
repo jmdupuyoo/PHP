@@ -24,3 +24,5 @@
 ## Points douteux / choix
 - Clé de détermination et statut proposé par les auteurs non lus (article non accessible), signalés comme tels, comme dans la FR.
 - Aucune fiche IT existante ne cite l'espèce.
+
+- Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia subroseophylla* 27501 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).

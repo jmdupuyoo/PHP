@@ -27,3 +27,5 @@
 - Liens ajoutés sur la première occurrence hors intro, encadré, titres et fonti (replace_in_content ciblé, simulation puis application) : mexicana 27507. Brouillon `espece-ceratozamia-aurantiaca-it.html` aligné et comparé au rendu en ligne (identique).
 
 - Complément 11/10/2026 (lot miqueliana → rosea) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia robusta* 27505 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte en ligne).
+
+- Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia subroseophylla* 27501, *Ceratozamia whitelockiana* 27534 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).

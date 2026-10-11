@@ -23,3 +23,5 @@
 - Catégorie CR seulement proposée par les auteurs ; POWO non lu (Cloudflare) ; couleur des cônes : divergence résumé / description détaillée exposée (comme en FR).
 
 - Complément 11/10/2026 (lot miqueliana → rosea) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia robusta* 27505 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte en ligne).
+
+- Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia santillanii* 27494 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).

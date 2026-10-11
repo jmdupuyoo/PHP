@@ -26,3 +26,5 @@
 - Liens ajoutés sur la première occurrence hors intro, encadré, titres et fonti (replace_in_content ciblé, simulation puis application) : huastecorum 27474, latifolia 27500, mexicana 27507. Brouillon `espece-ceratozamia-decumbens-it.html` aligné et comparé au rendu en ligne (identique).
 
 - Complément 11/10/2026 (lot miqueliana → rosea) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia morettii* 27484 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte en ligne).
+
+- Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia zoquorum* 27556 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).

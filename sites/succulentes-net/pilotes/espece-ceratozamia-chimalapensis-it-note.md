@@ -24,3 +24,5 @@
 - Habitat contradictoire (chênaie sur argile / forêt tropicale sempervirente) exposé ; protologue 2008 non lu (comme en FR). Fiche la plus courte du lot (1 506 mots avant Fonti), à l'image de la FR (1 815 mots au total).
 
 - Complément 11/10/2026 (lot miqueliana → rosea) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia mirandae* 27478, *Ceratozamia norstogii* 27488 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte en ligne).
+
+- Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia vovidesii* 27523 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).

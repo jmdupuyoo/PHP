@@ -28,3 +28,5 @@
 - Valeurs de froid précises seulement en serre (Roussillon, Ravenne) et via un extrait PalmTalk (Caroline du Sud, −11 °C) ; mention californienne reprise de la FR.
 - Protologue (Regel 1857) non consulté.
 - Lien ajouté dans la fiche IT existante alvarezii 27398.
+
+- Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia sabatoi* 27485 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).
