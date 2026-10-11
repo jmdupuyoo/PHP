@@ -110,7 +110,7 @@ Total : **334** fiches FR sans version IT (sur 381 fiches FR) ; pages genres IT 
 
 ### Bowenia (2)
 
-Bowenia serrulata (26126), Bowenia spectabilis (26130)
+Bowenia serrulata (26126, publiée IT 27397), Bowenia spectabilis (26130, publiée IT 27403)
 
 ### Ceratozamia (44)
 
@@ -122,7 +122,7 @@ Cycas aculeata (22084), Cycas aenigma (26570), Cycas andamanica (21956), Cycas a
 
 ### Dioon (10)
 
-Dioon argenteum (26124), Dioon caputoi (26128), Dioon oaxacensis (26133), Dioon planifolium (26137), Dioon purpusii (26139), Dioon rzedowskii (26144), Dioon salas-moralesiae (26148), Dioon stevensonii (26152), Dioon tomasellii (26156), Dioon vovidesii (26160)
+Dioon argenteum (26124, publiée IT 27439), Dioon caputoi (26128, publiée IT 27445), Dioon oaxacensis (26133), Dioon planifolium (26137), Dioon purpusii (26139), Dioon rzedowskii (26144), Dioon salas-moralesiae (26148), Dioon stevensonii (26152), Dioon tomasellii (26156), Dioon vovidesii (26160)
 
 ### Encephalartos (48)
 
@@ -130,7 +130,7 @@ Encephalartos aemulans (26207), Encephalartos afer (26313), Encephalartos aplana
 
 ### Lepidozamia (2)
 
-Lepidozamia hopei (26135), Lepidozamia peroffskyana (26141)
+Lepidozamia hopei (26135, publiée IT 27411), Lepidozamia peroffskyana (26141, publiée IT 27417)
 
 ### Macrozamia (38)
 
@@ -138,11 +138,11 @@ Macrozamia cardiacensis (26291), Macrozamia concinna (26242), Macrozamia confert
 
 ### Microcycas (1)
 
-Microcycas calocoma (13877)
+Microcycas calocoma (13877, publiée IT 27425)
 
 ### Stangeria (1)
 
-Stangeria eriopus (4090)
+Stangeria eriopus (4090, publiée IT 27433)
 
 ### Zamia (82)
 
