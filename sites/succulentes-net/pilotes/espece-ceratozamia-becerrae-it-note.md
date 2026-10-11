@@ -22,3 +22,6 @@
 
 ## Points douteux
 - Statut UICN contradictoire (NE WLoC / EN monographie) exposé comme en FR ; orthographe « beccerrae » de Species+.
+
+## Mise à jour du 11/10/2026 (lot IT euryphyllidia → mexicana)
+- Liens ajoutés sur la première occurrence hors intro, encadré, titres et fonti (replace_in_content ciblé, simulation puis application) : euryphyllidia 27472, hondurensis 27483. Brouillon `espece-ceratozamia-becerrae-it.html` aligné et comparé au rendu en ligne (identique).

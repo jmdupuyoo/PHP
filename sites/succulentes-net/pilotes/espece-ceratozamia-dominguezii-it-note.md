@@ -22,3 +22,6 @@
 
 ## Points douteux
 - Statut taxonomique disputé (WLoC/Haynes vs monographie 2022), exposé comme en FR ; POWO non lu.
+
+## Mise à jour du 11/10/2026 (lot IT euryphyllidia → mexicana)
+- Liens ajoutés sur la première occurrence hors intro, encadré, titres et fonti (replace_in_content ciblé, simulation puis application) : euryphyllidia 27472. Brouillon `espece-ceratozamia-dominguezii-it.html` aligné et comparé au rendu en ligne (identique).

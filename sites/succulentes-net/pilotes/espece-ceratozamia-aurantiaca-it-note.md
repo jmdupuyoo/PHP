@@ -22,3 +22,6 @@
 
 ## Points douteux
 - Tolérance « sous zéro » en zone 9b (extrait non sourcé) écartée comme en FR ; folioles coriaces (protologue) / papyracées (monographie) exposées.
+
+## Mise à jour du 11/10/2026 (lot IT euryphyllidia → mexicana)
+- Liens ajoutés sur la première occurrence hors intro, encadré, titres et fonti (replace_in_content ciblé, simulation puis application) : mexicana 27507. Brouillon `espece-ceratozamia-aurantiaca-it.html` aligné et comparé au rendu en ligne (identique).

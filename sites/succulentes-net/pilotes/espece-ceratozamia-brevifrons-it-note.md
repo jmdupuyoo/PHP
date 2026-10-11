@@ -23,3 +23,6 @@
 
 ## Points douteux
 - Identification « Palma Sola » = *brevifrons* fondée sur l'étiquette commerciale (population de Palma Sola rattachée à l'espèce en 2022 et 2025) ; retour de Ravenne sans mode de culture.
+
+## Mise à jour du 11/10/2026 (lot IT euryphyllidia → mexicana)
+- Liens ajoutés sur la première occurrence hors intro, encadré, titres et fonti (replace_in_content ciblé, simulation puis application) : mexicana 27507 (« complesso di Ceratozamia mexicana »). Brouillon `espece-ceratozamia-brevifrons-it.html` aligné et comparé au rendu en ligne (identique).

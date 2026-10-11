@@ -21,3 +21,6 @@
 
 ## Points douteux
 - POWO non lu ; usage alimentaire des graines (étiquette d'herbier) sans détail de préparation.
+
+## Mise à jour du 11/10/2026 (lot IT euryphyllidia → mexicana)
+- Liens ajoutés sur la première occurrence hors intro, encadré, titres et fonti (replace_in_content ciblé, simulation puis application) : kuesteriana 27487, matudae 27480. Brouillon `espece-ceratozamia-alvarezii-it.html` aligné et comparé au rendu en ligne (identique).

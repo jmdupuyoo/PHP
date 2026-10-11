@@ -21,3 +21,6 @@
 
 ## Points douteux
 - Couleur du cône femelle : rouge lie-de-vin (monographie) / vert olive à brun (protologue), exposé comme en FR.
+
+## Mise à jour du 11/10/2026 (lot IT euryphyllidia → mexicana)
+- Liens ajoutés sur la première occurrence hors intro, encadré, titres et fonti (replace_in_content ciblé, simulation puis application) : huastecorum 27474, latifolia 27500, mexicana 27507. Brouillon `espece-ceratozamia-decumbens-it.html` aligné et comparé au rendu en ligne (identique).

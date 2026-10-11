@@ -21,3 +21,6 @@
 
 ## Points douteux
 - POWO lu seulement par extrait ; altitude du type 850 m / 1 044 m selon les sources.
+
+## Mise à jour du 11/10/2026 (lot IT euryphyllidia → mexicana)
+- Liens ajoutés sur la première occurrence hors intro, encadré, titres et fonti (replace_in_content ciblé, simulation puis application) : hildae 27493, latifolia 27500 (mexicana cité seulement dans les fonti : pas de lien). Brouillon `espece-ceratozamia-chamberlainii-it.html` aligné et comparé au rendu en ligne (identique).

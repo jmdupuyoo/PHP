@@ -23,3 +23,6 @@
 
 ## Points douteux
 - Divergences protologue / monographie (ci-dessus) : la FR 26375 devrait être alignée.
+
+## Mise à jour du 11/10/2026 (lot IT euryphyllidia → mexicana)
+- Liens ajoutés sur la première occurrence hors intro, encadré, titres et fonti (replace_in_content ciblé, simulation puis application) : latifolia 27500, mexicana 27507. Brouillon `espece-ceratozamia-delucana-it.html` aligné et comparé au rendu en ligne (identique).
