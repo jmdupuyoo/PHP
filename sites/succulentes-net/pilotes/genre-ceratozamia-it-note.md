@@ -33,3 +33,7 @@
 - Altitude de *C. sancheziae* : contradiction monographie / protologue (les deux données).
 - Identifications de Palerme et de Padoue fondées sur un forum.
 - Erreur UICN de la FR 9866 (ci-dessus).
+
+## Verifica del 11/10/2026 : impollinatori
+
+- Même vérification et mêmes corrections que la FR 9866 (paragraphe « Biogeografia ed ecologia », index *santillanii*, Siti di riferimento, Bibliografia). Source : traitements Zenodo/Plazi de Tang & Gómez Domínguez 2022 ; aucune mention de pollinisation. Détail dans `restructuration-fr.md`.

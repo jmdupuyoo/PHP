@@ -24,3 +24,5 @@
 - Rôle pollinisateur de *Pharaxonotha perezi* : la page genre IT 12127 (index) dit « impollinata da *Pharaxonotha perezi* », plus affirmatif que la source (résumé Zootaxa 2022 : coléoptères « des cônes mâles ») ; la fiche IT garde la prudence de la FR. Page genre non modifiée (seule la pose de liens est autorisée).
 - Écart de taille entre description originale (4-7 feuilles jusqu'à 2,1 m) et monographie (2-3 feuilles < 80 cm), donné tel quel.
 - POWO non lu.
+
+- 11/10/2026 : descriptions de *P. perezi* et *C. chipjonesi* lues sur Zenodo/Plazi (10.5281/zenodo.6623173 et 6623167) : un seul cône mâle (16-V-2021), adultes seulement (70 % *C. chipjonesi*, 25 % *P. perezi*, 5 % *Pharaxonotha* non décrit), pollinisation non abordée. Texte, FAQ, Sites de référence et Bibliographie mis à jour ; pages genres FR 9866 et IT 12127 corrigées dans le même sens.

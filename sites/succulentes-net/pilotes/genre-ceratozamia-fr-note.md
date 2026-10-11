@@ -96,3 +96,7 @@ Aucune donnée documentée pour la France, quelle que soit la zone (littoral mé
 - Section « Contexte français » volontairement courte (absence de données), complétée par des « Repères internationaux ».
 - Pas de section Hybrides (rien de documenté au niveau du genre). L'hybride *C. latifolia* × *hildae* est seulement mentionné sur PalmTalk.
 - 10/10/2026 : index, C. sancheziae : « 1 000 à 1 536 m selon la monographie de 2022 (1 500 à 1 800 m selon la description originale de 2021) » (contradiction avec le protologue). Autres altitudes du 03/10 inchangées.
+
+## Vérification du 11/10/2026 : pollinisateurs
+
+- Descriptions de *Pharaxonotha perezi* et *Ceratophila chipjonesi* (Tang & Gómez Domínguez 2022, *Zootaxa* 5150(3) : 428-442) lues sur Zenodo/Plazi (10.5281/zenodo.6623173, 6623167, 6646027) : adultes d'un seul cône mâle de *C. santillanii* ; rien sur alimentation, larves, cônes femelles ou pollinisation. Le paragraphe écologie (« se nourrit de pollen et le transporte… ») et l'index (« pollinisé par ») ont été corrigés ; pollinisation par *Pharaxonotha* présentée comme analogie (*P. portophylla*, *Zamia* de Porto Rico, Franz & Skelley 2008). « Lignée propre aux *Ceratozamia* » : confirmée par le résumé de Tang et al. 2018 (*Diversity* 10(2) : 38), à présent citée. Détail dans `restructuration-fr.md`.
