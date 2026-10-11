@@ -460,3 +460,11 @@ Toutes les URL ont été consultées le 10/10/2026, sauf mention contraire. « A
 - **Florence, −25 °C en 1985** : témoignage de forum indirect, non corroboré. Ne pas le citer comme une donnée de rusticité.
 - **Hanbury** : la liste BGCI recoupe exactement le catalogue de 1912. On ne sait pas si elle décrit des plantes encore vivantes.
 - **Index Seminum de Naples** : une liste montre ce qui a été proposé à l'échange une année donnée (pollen, feuilles, graines), pas un inventaire complet. L'absence d'une espèce dans les éditions récentes ne prouve pas sa disparition.
+
+## Ajout du 11/10/2026 — Orto Botanico di Messina, page « Cicadee »
+
+Source institutionnelle trouvée après la rédaction de l'inventaire : https://www.ortobotanico.messina.it/cicadee/ (page datée du 23/02/2009, lue le 11/10/2026). Elle corrige la mention « aucune liste d'espèces pour Messine » ci-dessus. Noms tels qu'ils figurent sur la page (48), à ramener au nom accepté WLoC avant usage (ex. « Cycas circinnalis » : nom souvent mal appliqué en culture ; « Cycas rumphii », « Cycas taitungensis », « Zamia pumila », « Zamia loddigesii » : statut à vérifier) :
+
+Ceratozamia hildae, C. kuesteriana, C. latifolia ; Cycas circinnalis, C. media, C. revoluta, C. rumphii, C. taitungensis, C. thouarsii ; Dioon califanoi, D. caputoi, D. edule, D. rzedowskii, D. spinulosum ; Encephalartos altensteinii, E. ferox, E. friderici-guilielmi, E. gratus, E. hildebrandtii, E. horridus, E. kisambo, E. laurentianus, E. lebomboensis, E. lehmannii, E. longifolius, E. manikensis, E. msinganus, E. natalensis, E. princeps, E. pterogonus, E. sclavoi, E. senticosus, E. tegulaneus, E. transvenosus, E. umbeluziensis, E. villosus ; Lepidozamia peroffskyana ; Macrozamia communis, M. moorei, M. plurinervia, M. spiralis ; Stangeria eriopus ; Zamia fairchildiana, Z. furfuracea, Z. integrifolia, Z. loddigesii, Z. neurophyllidia, Z. pumila.
+
+Présence actuelle (2026) non vérifiée. Les fiches IT déjà publiées pour ces espèces (Ceratozamia, Dioon, Lepidozamia, Macrozamia, Stangeria, Encephalartos) pourront être complétées lors d'une passe finale.
