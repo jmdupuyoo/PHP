@@ -24,3 +24,8 @@
 - Vérifié avant création : aucune page IT de l'espèce (list_content it, enfants de 11879 via REST) ; aucune redirection visant `/it/piante/cycadales/zamia/` (list_redirects).
 - Liens externes contrôlés le 11/10/2026 : CICY, Redalyc, WLoC, Species+, Tropicamente en 200 ; EUR-Lex non testé (page anti-robot connue).
 - Rien commité.
+
+## Suivi 12/10/2026
+- Index de la page genre IT 11879 : entrée liée (replace_in_content ciblé, dry run puis application) ; brouillon `genre-zamia-it.html` aligné.
+- Contenu en ligne revérifié le 12/10 : identique au brouillon (liens ajoutés entre-temps par le lot pygmaea → splendens déjà reportés dans le brouillon par cet autre lot). Inventaire et journal mis à jour. Lot réduit à 5 fiches par le coordinateur : pas de passe globale de liens croisés.
+- Liens croisés de fin de lot (12/10) : voir journal `restructuration-fr.md` (10 fiches IT liées vers standleyi, stenophyllidia, stricta, tolimensis ; aucune mention non liée de stevensonii trouvée).

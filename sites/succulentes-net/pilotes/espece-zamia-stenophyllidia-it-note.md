@@ -22,3 +22,8 @@
 - Avant création : aucune page IT ni redirection pour l'espèce.
 - Liens externes (WLoC, DOI Acta Bot. Mex., Tropicamente) en 200 ; DOI Nordic J. Bot. derrière Cloudflare (signalé dans la page).
 - Rien commité.
+
+## Suivi 12/10/2026
+- Index de la page genre IT 11879 : entrée liée (replace_in_content ciblé, dry run puis application) ; brouillon `genre-zamia-it.html` aligné.
+- Contenu en ligne revérifié le 12/10 : identique au brouillon (liens ajoutés entre-temps par le lot pygmaea → splendens déjà reportés dans le brouillon par cet autre lot). Inventaire et journal mis à jour. Lot réduit à 5 fiches par le coordinateur : pas de passe globale de liens croisés.
+- Liens croisés de fin de lot (12/10) : voir journal `restructuration-fr.md` (10 fiches IT liées vers standleyi, stenophyllidia, stricta, tolimensis ; aucune mention non liée de stevensonii trouvée).
