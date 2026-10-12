@@ -29,3 +29,6 @@
 ## Points douteux
 - Mesures morphologiques issues de synthèses (protologue non lu).
 - Culture : déduite de l'habitat (présentée comme telle).
+
+## Liens croisés (12/10/2026, fin du lot balansae–brunnea)
+- *Cycas balansae* (28478) liée sur sa première occurrence (Possibili confusioni, « La specie più vicina… ») par replace_in_content ciblé (chaîne unique, dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne.

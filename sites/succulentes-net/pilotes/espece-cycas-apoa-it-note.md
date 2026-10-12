@@ -21,3 +21,6 @@
 ## Points douteux (repris de la FR)
 - Aire WLoC (Moluques du Nord, Nusa Tenggara oriental) non expliquée par les sources ; divergence exposée.
 - Catégorie UICN 2023 non vérifiée à la source (accès bloqué).
+
+## Liens croisés (12/10/2026, fin du lot balansae–brunnea)
+- *Cycas bougainvilleana* (28484) liée sur sa première occurrence (Tassonomia) par replace_in_content ciblé (chaîne unique, dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne.

@@ -23,3 +23,6 @@
 
 ## Liens croisés (12/10/2026, fin du lot apoa–badensis)
 - *Cycas arnhemica* (28469) et *Cycas badensis* (28472), désormais publiées, liées sur leur première occurrence (Tassonomia, liste de de Laubenfels et Adema) par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne (10 liens).
+
+## Liens croisés (12/10/2026, fin du lot balansae–brunnea)
+- *Cycas brunnea* (28490) liée sur sa première occurrence (Possibili confusioni, liste) par replace_in_content ciblé (chaîne unique, dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne.
