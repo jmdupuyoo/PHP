@@ -19,3 +19,5 @@
 ## Points douteux (repris de la FR)
 - Étude à l'origine de la mise en synonymie des sous-espèces non identifiée (dit dans la page).
 - « Bureia » : orthographe de Hill 1996 conservée.
+
+- 12/10/2026, fin du lot *Cycas* cairnsiana–candida : liens croisés posés par replace_in_content ciblé (dry run puis application) vers calcicola (Possibili confusioni), canalis (Tassonomia) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py).

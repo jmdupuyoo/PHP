@@ -20,3 +20,5 @@
 ## Points douteux (repris de la FR)
 - Écarts Gardner 1923 / Hill 1996 (diamètre du tronc, limbe du mégasporophylle entier ou denté) : exposés sans arbitrage, comme en FR.
 - Liste rouge non consultée (accès bloqué) ; catégorie via WLoC.
+
+- 12/10/2026, fin du lot *Cycas* cairnsiana–candida : liens croisés posés par replace_in_content ciblé (dry run puis application) vers cairnsiana (Come riconoscere) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py).

@@ -35,3 +35,5 @@
 
 ## Liens croisés (12/10/2026, fin de lot)
 - *Cycas arnhemica* (28469) liée sur sa première occurrence (Possibili confusioni, série *Calcicolosae*) par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié (8 liens).
+
+- 12/10/2026, fin du lot *Cycas* cairnsiana–candida : liens croisés posés par replace_in_content ciblé (dry run puis application) vers calcicola (Possibili confusioni), canalis (Tassonomia) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py).

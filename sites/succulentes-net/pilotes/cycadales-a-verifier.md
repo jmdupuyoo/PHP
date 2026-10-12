@@ -201,3 +201,5 @@ Ajouter, dans la section des liens vers les articles du blog (« À lire aussi �
 - IT déjà publiées avant la consigne : angulata 28454, arenicola 28463, armstrongii 28466, arnhemica 28469, badensis 28472, basaltica 28481, brunnea 28490 (+ fiches IT anciennes : media, ophiolitica si elles existent).
 - FR : toutes les fiches de Cycas australiens (et en priorité couttsiana, cairnsiana, ophiolitica, media citées dans l'article).
 Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallèle).
+- Passe Lavaud (même moment) : poser aussi des liens dans les articles « méthode Simon Lavaud » (FR 16529, IT 16534, EN, ES) vers les fiches espèces citées (couttsiana, cairnsiana, ophiolitica, media, siamensis, revoluta) dans la langue de l'article.
+- Cycas calcicola : pages genres FR et IT indiquent « VU, 2022 » ; selon Crossref, l'évaluation (Nagalingum & Clugston) date de 2021, publiée dans la Liste rouge 2023-1. À harmoniser.
