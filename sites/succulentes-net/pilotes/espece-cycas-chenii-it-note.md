@@ -39,3 +39,5 @@
 - Protologue non lu : la page est volontairement sans description chiffrée ; à compléter si l'article devient accessible.
 - Statut UICN : EN B1ab(iii,v) via WLoC, sans auteur ni année ; Yang et al. 2017 parlent de « critically endangered » (formulation de l'article, pas une évaluation Liste rouge) : les deux sont exposés.
 - Altitude : 500-1300 m (protologue via Yang 2017) contre 489-1600 m (tableau des populations échantillonnées) : les deux sont donnés.
+
+- 12/10/2026, fin du lot *Cycas* furfuracea–hongheensis : lien vers *hainanensis* (IT 28636) posé à la première occurrence hors intro/encadré/titres/fonti par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py).

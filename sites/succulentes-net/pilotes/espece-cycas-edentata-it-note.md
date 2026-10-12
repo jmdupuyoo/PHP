@@ -34,3 +34,5 @@
 
 - Lien posé vers *Cycas falcata* (fiche IT nouvelle) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py : 0 bloc manquant).
 - Les fiches *clivicola* 28533 et *cantafolia* 28516 ont été corrigées le 12/10/2026 : *Cycas litoralis* y est désormais présenté comme synonyme d’*edentata* (lien vers cette fiche conservé).
+
+- 12/10/2026, fin du lot *Cycas* furfuracea–hongheensis : lien vers *glauca* (IT 28633) posé à la première occurrence hors intro/encadré/titres/fonti par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py).
