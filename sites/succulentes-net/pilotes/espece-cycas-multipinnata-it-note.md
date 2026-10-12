@@ -36,7 +36,7 @@ La FR 16437 n'a ni encadré ni sources détaillées. N'ont été repris que les 
 - Index de la page genre 11549 : entrée liée (dry run puis application) ; brouillon genre aligné (verify.py : 0 bloc manquant, 88 liens).
 - Liens entrants posés (première occurrence hors intro/encadré/titres/fonti ; dry run puis application) : *hongheensis* 28642, *collina* 28536, *brachycantha* 28487 (brouillons alignés, verify.py 0 bloc manquant) ; pages IT anciennes sans brouillon local : *micholitzii* 14423 (paragraphe « Classificazione »), *bifida* 14404 (liste « Le cugine a foglie ramificate », dans le `<strong>`), *multifrondis* 14312 (liste « Posizione sistematica », dans le `<strong>`), *debaoensis* 11764 (premier paragraphe de « Confronto con una specie vicina ») — 1 lien chacune vérifié en ligne. *chevalieri* 28528 ne cite l'espèce que dans ses sources : non liée.
 
-## Incohérences relevées dans d'autres pages IT (non corrigées, hors périmètre)
+## Incohérences relevées dans d'autres pages IT (corrigées le 12/10/2026, voir journal ; tableau micholitzii : répartition, altitude et UICN non modifiés)
 - *micholitzii* 14423 : « pétioles les plus longs des gymnospermes (jusqu'à 3,4 m) », feuilles 2-4 m, divisions 2-5 dichotomies : non sourcés / différents de Hill et FoC.
 - *multifrondis* 14312 : « *Cycas multipinnata* D.Yue Wang » (auteur erroné : C.J.Chen & S.Y.Yang) ; « *Cycas debaoensis* D.Yue Wang » (auteur erroné : Y.C.Zhong & C.J.Chen).
 - *bifida* 14404 : *multipinnata* « Yunnan et Guangxi » et « tripennata » (Guangxi selon Hill 2008 seulement).

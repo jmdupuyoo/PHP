@@ -29,3 +29,4 @@
 
 ## Liens croisés (fin du lot Cycas cupida–distans, 12/10/2026)
 - Lien posé vers *Cycas desolata* (IT 28564) à la première occurrence hors intro/encadré/titres/fonti (Possibili confusioni), par replace_in_content ciblé (dry run puis application) ; brouillon aligné (verify.py : 0 manquant, 10 liens). Pages IT qui citent *cupida* et ont reçu le lien : *couttsiana* 28546, *cairnsiana* 28496, *desolata* 28564 (à la création), *thouarsii* 12901 (hybride « Cycas thouarsii × cupida », section Varietà orticole).
+- 12/10/2026 (lot nayagarhensis–orientis) : lien vers *Cycas ophiolitica* 28751 posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content dry run puis application ; brouillon aligné).

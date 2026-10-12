@@ -27,3 +27,4 @@
 
 ## Liens croisés (fin du lot Cycas cupida–distans, 12/10/2026)
 - Liens reçus à la première occurrence hors intro/encadré/titres/fonti : *cupida* 28558 (Possibili confusioni), *couttsiana* 28546, *cairnsiana* 28496, *angulata* 28454 (Tassonomia), *media* 14337 (Etimologia e inquadramento tassonomico ; la balise d'origine `<em>Cycas desolata </em>` avec espace finale a été normalisée), *megacarpa* 14330 (Posizione sistematica). Pas de brouillon local pour *media* ni *megacarpa*.
+- 12/10/2026 (lot nayagarhensis–orientis) : lien vers *Cycas ophiolitica* 28751 posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content dry run puis application ; brouillon aligné).

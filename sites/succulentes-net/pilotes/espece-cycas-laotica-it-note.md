@@ -25,3 +25,4 @@
 - Liens externes le 12/10/2026 : cycadlist 653, IPNI, Species+, Rufford (PDF), EUR-Lex, ASPCA → 200.
 - Liens entrants : recherche API REST « laotica » → aucune autre page ou article IT ne cite l'espèce (hors page genre).
 - 12/10/2026 (fin de lot) : lien vers *Cycas macrocarpa* (28700) posé dans « Possibili confusioni » (première occurrence hors intro/encadré/titres/fonti ; replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py : 0 bloc manquant, 11 liens).
+- 12/10/2026 (lot nayagarhensis–orientis) : lien vers *Cycas nongnoochiae* 28747 posé (première occurrence, liste des espèces de la sous-section ; replace_in_content dry run puis application ; brouillon aligné).

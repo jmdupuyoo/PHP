@@ -22,3 +22,4 @@
 
 ## Points douteux (repris de la FR)
 - Prénoms des collecteurs de 1927 (Ramos et Edaño) non vérifiés ; caractères séparant l'espèce de *C. mindanaensis*, *C. flabellata* et *C. sancti-lasallei* non lus (protologue de 2019) ; Liste rouge non consultée.
+- 12/10/2026 (lot nayagarhensis–orientis) : lien vers *Cycas nitida* 28743 posé dans « Tassonomia » (première occurrence ; replace_in_content dry run puis application ; brouillon aligné).
