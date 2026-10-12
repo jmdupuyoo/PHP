@@ -40,3 +40,5 @@
 - Statut taxonomique : WLoC accepte l'espèce, Feng et al. 2021 et la liste chinoise 2021 la placent dans *C. taiwaniana* ; la page suit WLoC et le dit.
 - Liste rouge non consultée (accès bloqué) ; catégorie et critères via WLoC.
 - Interprétation de 葫芦 (« zucca a fiasco ») en lien avec le tronc « flask-shaped » : présentée comme probable, aucune source ne l'explique.
+
+- 12/10/2026 (lot Cycas divyadarshanii–elongata) : lien vers *Cycas dolichophylla* (28585) posé à la première occurrence (Ibridi) par replace_in_content ciblé ; brouillon aligné.

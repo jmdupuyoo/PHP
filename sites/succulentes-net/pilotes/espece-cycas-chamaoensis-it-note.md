@@ -43,3 +43,5 @@
 - Liste rouge non consultée (accès bloqué) ; catégories et critères via WLoC.
 - Mesures morphologiques tirées de Wikipédia (secondaire) faute d'accès au protologue (JSTOR) ; signalé dans la page.
 - Translittération « prong khao chamao » et traduction « cicadea del Khao Chamao » : faites par le rédacteur (ปรง = cycadale, เขา = mont) ; aucune source ne donne la translittération.
+
+- 12/10/2026 (lot Cycas divyadarshanii–elongata) : lien vers *Cycas elephantipes* (28591) posé à la première occurrence (Possibili confusioni) par replace_in_content ciblé ; brouillon aligné.

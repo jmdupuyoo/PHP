@@ -22,3 +22,5 @@
 - Taille du cône mâle : 8-15 cm (Thaïlande) contre 68 cm (MyBIS), écart signalé dans la page.
 - UICN : LC (Hill 2010) via WLoC ; réévaluation Bösenberg & Nguyen 2023-1 non lue. Protologue (Hill & Yang 1999) non consulté.
 - Mise en synonymie de la subsp. *lutea* : étude à l'origine non identifiée.
+
+- 12/10/2026 (lot Cycas divyadarshanii–elongata) : liens vers *Cycas elongata* (28594, Come riconoscere) et *Cycas edentata* (28588, Possibili confusioni) posés à la première occurrence par replace_in_content ciblé ; brouillon aligné. Remarque : la fiche cite *C. edentata* et *C. litoralis* comme deux espèces, or *litoralis* est synonyme d'*edentata* (WLoC).

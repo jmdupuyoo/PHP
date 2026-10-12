@@ -31,3 +31,5 @@
 
 ## Liens croisés (fin du lot Cycas clivicola–couttsiana, 12/10/2026)
 - Lien posé vers *Cycas clivicola* (IT 28533) à la première occurrence hors intro/encadré/titres/fonti, par replace_in_content ciblé (dry run puis application) ; brouillon aligné.
+
+- 12/10/2026 (lot Cycas divyadarshanii–elongata) : lien vers *Cycas edentata* (28588) posé sur la première occurrence de l'espèce, sous son synonyme « *Cycas litoralis* » (Possibili confusioni), par replace_in_content ciblé ; brouillon aligné.

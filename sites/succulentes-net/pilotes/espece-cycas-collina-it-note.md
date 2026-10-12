@@ -31,3 +31,5 @@
 - Protologue (Hill et al. 2004) et fiche UICN non consultés ; causes du déclin non lues.
 - Noms chinois : publiés sous *C. simplicipinna* ; rattachement à *C. collina* présenté comme déduction de la taxonomie de Hill.
 - Graphie des localités vietnamiennes de Hill (sans diacritiques) conservée.
+
+- 12/10/2026 (lot Cycas divyadarshanii–elongata) : lien vers *Cycas dolichophylla* (28585) posé à la première occurrence (Ibridi) par replace_in_content ciblé ; brouillon aligné.
