@@ -203,3 +203,4 @@ Ajouter, dans la section des liens vers les articles du blog (« À lire aussi �
 Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallèle).
 - Passe Lavaud (même moment) : poser aussi des liens dans les articles « méthode Simon Lavaud » (FR 16529, IT 16534, EN, ES) vers les fiches espèces citées (couttsiana, cairnsiana, ophiolitica, media, siamensis, revoluta) dans la langue de l'article.
 - Cycas calcicola : pages genres FR et IT indiquent « VU, 2022 » ; selon Crossref, l'évaluation (Nagalingum & Clugston) date de 2021, publiée dans la Liste rouge 2023-1. À harmoniser.
+- (ajout 12/10) Cycas chamaoensis, changjiangensis, chenii, chevalieri FR : anciennes, affirmations non sourcées ou erronées (listes dans les notes IT). Cycas chevalieri FR 21892 : traduction EN liée = 18748, à la corbeille (lien Polylang vers une page supprimée à nettoyer). Cycas changjiangensis : mesures de Hill 2008 recopiées de C. hainanensis (préférer la Flora of China).
