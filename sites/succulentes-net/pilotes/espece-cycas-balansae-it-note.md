@@ -37,3 +37,6 @@
 - Flora of China (eFloras) non accessible : nom chinois non vérifié, non donné.
 - La FR 21822 mériterait elle-même une révision (erreurs ci-dessus) : signalé, non modifiée (hors périmètre).
 - 12/10/2026, fin du lot *Cycas* cantafolia–chevalieri : lien vers *Cycas changjiangensis* 28522 posé dans « Ibridi » (première occurrence hors intro/encadré/titres/fonti) par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py). *C. chevalieri* 28528 et *C. chenii* ne sont pas cités dans la page.
+
+## Liens croisés (fin du lot Cycas clivicola–couttsiana, 12/10/2026)
+- Lien posé vers *Cycas collina* (IT 28536) à la première occurrence hors intro/encadré/titres/fonti, par replace_in_content ciblé (dry run puis application) ; brouillon aligné.

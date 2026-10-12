@@ -45,3 +45,6 @@ Pas de brouillon FR local. Faits repris seulement s'ils sont vérifiés ailleurs
 - Protologue (Maconochie 1978) non consulté.
 
 - 12/10/2026, fin du lot *Cycas* cairnsiana–candida : liens croisés posés par replace_in_content ciblé (dry run puis application) vers cairnsiana (In Italia), canalis (Possibili confusioni) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py).
+
+## Liens croisés (fin du lot Cycas clivicola–couttsiana, 12/10/2026)
+- Lien posé vers *Cycas conferta* (IT 28543) à la première occurrence hors intro/encadré/titres/fonti, par replace_in_content ciblé (dry run puis application) ; brouillon aligné.

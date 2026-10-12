@@ -20,3 +20,6 @@
 ## Points douteux (repris de la FR)
 - Traitement sous *C. angulata* dans le Territoire du Nord (Flora of Australia) : motif non précisé.
 - Liste rouge non consultée (accès bloqué) ; catégorie via WLoC et Flora of Australia.
+
+## Liens croisés (fin du lot Cycas clivicola–couttsiana, 12/10/2026)
+- Lien posé vers *Cycas couttsiana* (IT 28546) à la première occurrence hors intro/encadré/titres/fonti, par replace_in_content ciblé (dry run puis application) ; brouillon aligné.

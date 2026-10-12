@@ -26,3 +26,6 @@
 
 ## Liens croisés (12/10/2026, fin du lot balansae–brunnea)
 - *Cycas brunnea* (28490) liée sur sa première occurrence (Possibili confusioni, liste) par replace_in_content ciblé (chaîne unique, dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne.
+
+## Liens croisés (fin du lot Cycas clivicola–couttsiana, 12/10/2026)
+- Lien posé vers *Cycas couttsiana* (IT 28546) à la première occurrence hors intro/encadré/titres/fonti, par replace_in_content ciblé (dry run puis application) ; brouillon aligné.

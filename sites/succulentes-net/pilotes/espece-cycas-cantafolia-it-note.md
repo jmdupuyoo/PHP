@@ -28,3 +28,6 @@
 - UICN : WLoC donne VU D2 sans citer l'évaluation ; l'évaluation Jutta & Lindström (Liste rouge 2023-1) n'a pas pu être lue (accès bloqué) ; les auteurs proposaient CR en 2010. Les deux sont exposés (comme en FR).
 - Menace de carrières signalée en 2010 : situation actuelle non documentée (dit dans la page).
 - 12/10/2026, fin du lot *Cycas* cantafolia–chevalieri : lien vers *Cycas chamaoensis* 28519 posé dans « Possibili confusioni » par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py, 7 liens).
+
+## Liens croisés (fin du lot Cycas clivicola–couttsiana, 12/10/2026)
+- Lien posé vers *Cycas clivicola* (IT 28533) à la première occurrence hors intro/encadré/titres/fonti, par replace_in_content ciblé (dry run puis application) ; brouillon aligné.

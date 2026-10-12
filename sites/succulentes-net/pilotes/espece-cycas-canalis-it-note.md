@@ -21,3 +21,6 @@
 ## Points douteux (repris de la FR)
 - Mise en synonymie de la subsp. *carinata* : étude à l'origine non identifiée.
 - UICN : LC (Bösenberg 2022) via WLoC ; évaluation Ottley 2010 non consultée.
+
+## Liens croisés (fin du lot Cycas clivicola–couttsiana, 12/10/2026)
+- Lien posé vers *Cycas conferta* (IT 28543) à la première occurrence hors intro/encadré/titres/fonti, par replace_in_content ciblé (dry run puis application) ; brouillon aligné.

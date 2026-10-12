@@ -31,3 +31,6 @@
 - UICN : NT (Hill 2010) via WLoC ; réévaluation Bösenberg 2023-1 non lue.
 - Retour d'Arizona connu seulement par un résumé de forum de la Cycad Newsletter.
 - Retour de Ravenne à −3 °C : liste sans date précise de l'épisode, jeune plante en pot.
+
+## Liens croisés (fin du lot Cycas clivicola–couttsiana, 12/10/2026)
+- Lien posé vers *Cycas couttsiana* (IT 28546) à la première occurrence hors intro/encadré/titres/fonti, par replace_in_content ciblé (dry run puis application) ; brouillon aligné.
