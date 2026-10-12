@@ -20,3 +20,6 @@
 
 ## Points douteux
 - Lieu du collectionneur Tropicamente non indiqué ; « da 3 cm » sans précision (tronc ou plante).
+
+## Liens croisés (12/10/2026, fin du lot apoa–badensis)
+- *Cycas arnhemica* (28469) et *Cycas badensis* (28472), désormais publiées, liées sur leur première occurrence (Tassonomia, liste de de Laubenfels et Adema) par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne (10 liens).
