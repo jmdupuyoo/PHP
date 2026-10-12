@@ -24,3 +24,7 @@
 
 ## Liens croisés (fin du lot Cycas cupida–distans, 12/10/2026)
 - Lien posé vers *Cycas curranii* (IT 28561) à la première occurrence hors intro/encadré/titres/fonti (Malattie e parassiti), par replace_in_content ciblé ; brouillon aligné et revérifié.
+
+## Liens croisés (12/10/2026)
+
+- Lien posé vers *Cycas lacrimans* (28664) à sa seule occurrence (Possibili confusioni), replace_in_content ciblé, dry run puis application ; brouillon aligné (verify.py : 0 bloc manquant).

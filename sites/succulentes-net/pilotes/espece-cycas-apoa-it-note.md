@@ -24,3 +24,7 @@
 
 ## Liens croisés (12/10/2026, fin du lot balansae–brunnea)
 - *Cycas bougainvilleana* (28484) liée sur sa première occurrence (Tassonomia) par replace_in_content ciblé (chaîne unique, dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne.
+
+## Liens croisés (12/10/2026)
+
+- Lien posé vers *Cycas javana* (28660) à sa seule occurrence (Tassonomia), replace_in_content ciblé, dry run puis application ; brouillon aligné (verify.py : 0 bloc manquant).

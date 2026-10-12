@@ -24,3 +24,7 @@
 ## Liens croisés (fin de lot, 12/10/2026)
 
 - Aucune fiche ni article IT ne cite cette espèce (hors page genre, déjà liée).
+
+## Liens croisés (12/10/2026)
+
+- Lien posé vers *Cycas lacrimans* (28664) à sa seule occurrence (Possibili confusioni), replace_in_content ciblé, dry run puis application ; brouillon aligné (verify.py : 0 bloc manquant).

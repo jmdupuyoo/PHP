@@ -18,3 +18,7 @@
 
 ## Points douteux (repris de la FR)
 - Catégorie de la réévaluation UICN 2023 non vérifiée (Liste rouge bloquée) ; protologue non lu.
+
+## Liens croisés (12/10/2026)
+
+- Lien posé vers *Cycas indica* (28651) à la première occurrence hors intro/encadré/titres/fonti (Possibili confusioni), replace_in_content ciblé, dry run puis application ; brouillon aligné (verify.py : 0 bloc manquant, 8 liens).

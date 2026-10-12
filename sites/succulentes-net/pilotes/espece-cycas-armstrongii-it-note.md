@@ -40,3 +40,7 @@
 
 ## Liens croisés (fin du lot Cycas clivicola–couttsiana, 12/10/2026)
 - Lien posé vers *Cycas conferta* (IT 28543) à la première occurrence hors intro/encadré/titres/fonti, par replace_in_content ciblé (dry run puis application) ; brouillon aligné.
+
+## Lien vers *Cycas lane-poolei* (12/10/2026)
+
+- Lien posé vers *Cycas lane-poolei* (28669) à la première occurrence hors intro/encadré/titres/fonti, replace_in_content ciblé (chaîne unique, dry run puis application) ; brouillon aligné (verify.py : 0 bloc manquant).
