@@ -23,3 +23,6 @@
 - Brouillon identique au live (0 différence, liens identiques) ; URL 200 ; blocs appariés (103) ; aucun commentaire visible ; aucun `<em>` imbriqué ni nom abrégé ; aucun lien FR.
 - Avant création : aucune page IT de l'espèce, aucune redirection visant l'URL.
 - Rien commité.
+
+## Liens croisés (12/10/2026, fin de lot)
+- Lien ajouté vers *Zamia standleyi* (Possibili confusioni ; page publiée par un autre lot) : première occurrence hors intro/encadré/titres/fonti, replace_in_content ciblé (dry run puis application), brouillon aligné, live = brouillon vérifié.

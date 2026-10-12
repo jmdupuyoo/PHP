@@ -22,3 +22,6 @@
 - Brouillon `pilotes/espece-zamia-restrepoi-it.html` identique au live (texte rendu, 0 différence ; liens identiques) ; URL 200 ; blocs appariés (122) ; aucun commentaire visible ; aucun `<em>` imbriqué ni nom abrégé ; aucun lien FR.
 - Avant création : aucune page IT de l'espèce ni de *Chigua* (API REST, list_content), aucune redirection visant l'URL.
 - Rien commité.
+
+## Liens croisés (12/10/2026, fin de lot)
+- Lien ajouté vers *Zamia sinuensis* (Possibili confusioni) : première occurrence hors intro/encadré/titres/fonti, replace_in_content ciblé (dry run puis application), brouillon aligné, live = brouillon vérifié.

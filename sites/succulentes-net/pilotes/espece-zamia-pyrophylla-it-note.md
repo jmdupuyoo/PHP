@@ -26,3 +26,6 @@
 - Brouillon `pilotes/espece-zamia-pyrophylla-it.html` identique au contenu en ligne (texte rendu comparé mot à mot, 0 différence ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés (107) ; aucun `<em>` imbriqué ni nom abrégé ; aucun lien vers une page FR.
 - Vérifié avant création : aucune page IT de l'espèce (enfants de 11879 via l'API REST, list_content it « pyrophylla ») ; aucune redirection visant l'URL (list_redirects).
 - Rien commité.
+
+## Liens croisés (12/10/2026, fin de lot)
+- Lien ajouté vers *Zamia restrepoi* (phrase CITES) : première occurrence hors intro/encadré/titres/fonti, replace_in_content ciblé (dry run puis application), brouillon aligné, live = brouillon vérifié.
