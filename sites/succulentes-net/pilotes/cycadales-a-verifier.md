@@ -207,3 +207,4 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 - Passe Lavaud : l'article (FR 16529 et traductions) situe C. couttsiana dans le « Queensland central » ; l'espèce est du nord du Queensland (Hill 1996, WLoC) — à corriger dans les 4 langues.
 - Cycas collina FR 22067 : « endémique du Vietnam » (aussi au Yunnan selon Hill 2008 ; WLoC ne cite que le Vietnam), « tronc dressé » (sans tronc aérien) ; UICN CR 2010 contre VU chez Hill 2008. Index genre IT « Vietnam » seul.
 - Cycas condaoensis FR 22008 : pentes granitiques (FR) contre sables littoraux (ES), sans source ; à vérifier sur le protologue.
+- (ajout 12/10) Cycas desolata FR 26649 : le message Fous de palmiers #p502442 (2022) est présenté comme une liste de cycas bleus cultivés ; c'est en fait une liste de plantes que l'auteur trouve belles et dont il ignore la rusticité — à corriger.

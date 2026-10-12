@@ -24,3 +24,6 @@
 ## Points douteux (repris de la FR)
 - UICN : NT (Bösenberg 2010) via WLoC ; réévaluation 2023-1 non lue.
 - Hauteurs PACSOA (11,60 m) non vérifiées, signalées comme telles.
+
+## Liens croisés (fin du lot Cycas cupida–distans, 12/10/2026)
+- Liens posés vers *Cycas cupida* (IT 28558) et *Cycas desolata* (IT 28564) à la première occurrence hors intro/encadré/titres/fonti, par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié.

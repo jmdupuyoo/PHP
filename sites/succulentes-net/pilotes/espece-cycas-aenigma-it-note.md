@@ -21,3 +21,6 @@
 ## Points douteux (repris de la FR)
 - Populations sauvages : seule une mention non sourcée (trois populations sur ultramafiques à Palawan), signalée comme non vérifiée.
 - Fiche UICN 2023 non lue (accès bloqué).
+
+## Liens croisés (fin du lot Cycas cupida–distans, 12/10/2026)
+- Lien posé vers *Cycas curranii* (IT 28561) à la première occurrence hors intro/encadré/titres/fonti (Malattie e parassiti), par replace_in_content ciblé ; brouillon aligné et revérifié.

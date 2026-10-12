@@ -34,3 +34,6 @@
 
 ## Points douteux
 - La page *andamanica* existe en FR comme page de synonyme ; une future fiche IT *pschannae* devra reprendre ces données (et cette page pourra alors pointer vers elle).
+
+## Liens croisés (fin du lot Cycas cupida–distans, 12/10/2026)
+- Lien posé vers *Cycas dharmrajii* (IT 28567) à la première occurrence hors intro/encadré/titres/fonti (Un chiarimento tassonomico), par replace_in_content ciblé ; brouillon aligné et revérifié.

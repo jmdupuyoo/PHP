@@ -34,3 +34,6 @@
 
 ## Liens croisés (fin du lot Cycas clivicola–couttsiana, 12/10/2026)
 - Lien posé vers *Cycas couttsiana* (IT 28546) à la première occurrence hors intro/encadré/titres/fonti, par replace_in_content ciblé (dry run puis application) ; brouillon aligné.
+
+## Liens croisés (fin du lot Cycas cupida–distans, 12/10/2026)
+- Liens posés vers *Cycas cupida* (IT 28558) et *Cycas desolata* (IT 28564) à la première occurrence hors intro/encadré/titres/fonti, par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié.
