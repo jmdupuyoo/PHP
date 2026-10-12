@@ -27,3 +27,4 @@
 - 12/10/2026, fin du lot *Cycas* cairnsiana–candida : liens croisés posés par replace_in_content ciblé (dry run puis application) vers calcicola (Possibili confusioni) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py).
 
 - 12/10/2026, fin du lot *Cycas* furfuracea–hongheensis : lien vers *furfuracea* (IT 28630) posé à la première occurrence hors intro/encadré/titres/fonti par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py).
+- 12/10/2026 : lien vers *Cycas maconochiei* (28690) posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.

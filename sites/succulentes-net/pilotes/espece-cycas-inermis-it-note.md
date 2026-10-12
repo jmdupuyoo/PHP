@@ -22,3 +22,4 @@
 
 ## Points douteux (repris de la FR)
 - Description et dimensions non vérifiées à la source (Hill, Nguyen & Phan 2004 payant ; chiffres de Wikipédia signalés comme indicatifs) ; noms vietnamiens non vérifiés ; Liste rouge non consultée ; protologue non lu (BHL bloqué).
+- 12/10/2026 : lien vers *Cycas macrocarpa* (28700) posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.

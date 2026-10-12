@@ -23,3 +23,4 @@
 
 ## Points douteux (repris de la FR)
 - Écarts de mesures entre Gardner 1923 et Hill 1996 non commentés par les sources ; population intermédiaire du sud du plateau Mitchell (espèce possible, Flora of Australia) ; Liste rouge non consultée ; article de presse de 1922 non lu.
+- 12/10/2026 : lien vers *Cycas maconochiei* (28690) posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.

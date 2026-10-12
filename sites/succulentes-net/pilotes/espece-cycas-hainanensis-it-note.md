@@ -32,3 +32,4 @@
 ## Liens croisés (fin de lot, 12/10/2026)
 
 - Liens posés vers cette fiche dans *dolichophylla* 28585, *chenii* 28525 et *changjiangensis* 28522 (première occurrence hors intro/encadré/titres/fonti), replace_in_content ciblé, dry run puis application ; brouillons alignés (verify.py : 0 bloc manquant). Mentions de la section Tassonomia de la page genre non modifiées (lien posé dans l'index).
+- 12/10/2026 : lien vers la fiche *Cycas lingshuigensis* (28685) posé sur la première occurrence de *Cycas lingshuiensis* hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.

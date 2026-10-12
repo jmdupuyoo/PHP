@@ -31,3 +31,4 @@
 ## Liens croisés (12/10/2026)
 
 - Lien posé vers *Cycas inermis* (28656) à sa seule occurrence (paragraphe sur le message Fous de palmiers de 2010, hors intro/encadré/titres/fonti), replace_in_content ciblé, dry run puis application ; brouillon aligné (verify.py : 0 bloc manquant, 6 liens).
+- 12/10/2026 : lien vers *Cycas lindstromii* (28680) posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.

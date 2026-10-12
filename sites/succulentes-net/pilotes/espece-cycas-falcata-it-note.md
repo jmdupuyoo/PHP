@@ -25,3 +25,4 @@
 ## Liens croisés (fin de lot, 12/10/2026)
 
 - Lien reçu : *C. edentata* 28588 (Possibili confusioni).
+- 12/10/2026 : lien vers *Cycas macrocarpa* (28700) posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.

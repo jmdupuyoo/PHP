@@ -32,3 +32,4 @@
 
 ## Liens croisés (fin du lot Cycas cupida–distans, 12/10/2026)
 - Lien posé vers *Cycas desolata* (IT 28564) à la première occurrence hors intro/encadré/titres/fonti (Tassonomia), par replace_in_content ciblé ; brouillon aligné et revérifié.
+- 12/10/2026 : lien vers *Cycas maconochiei* (28690) posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.

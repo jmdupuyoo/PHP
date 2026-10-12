@@ -48,3 +48,4 @@
 - Lien posé vers *Cycas fairylakea* (fiche IT nouvelle) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py : 0 bloc manquant).
 
 - 12/10/2026, fin du lot *Cycas* furfuracea–hongheensis : lien vers *hainanensis* (IT 28636) posé à la première occurrence hors intro/encadré/titres/fonti par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py).
+- 12/10/2026 : lien vers la fiche *Cycas lingshuigensis* (28685) posé sur la première occurrence de *Cycas lingshuiensis* hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.
