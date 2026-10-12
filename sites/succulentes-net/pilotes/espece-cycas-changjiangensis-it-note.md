@@ -42,3 +42,7 @@
 - Interprétation de 葫芦 (« zucca a fiasco ») en lien avec le tronc « flask-shaped » : présentée comme probable, aucune source ne l'explique.
 
 - 12/10/2026 (lot Cycas divyadarshanii–elongata) : lien vers *Cycas dolichophylla* (28585) posé à la première occurrence (Ibridi) par replace_in_content ciblé ; brouillon aligné.
+
+## Liens croisés (lot Cycas fairylakea–fugax, 12/10/2026)
+
+- Lien posé vers *Cycas fairylakea* (fiche IT nouvelle) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py : 0 bloc manquant).

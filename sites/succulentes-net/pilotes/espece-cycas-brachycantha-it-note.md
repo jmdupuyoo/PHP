@@ -30,3 +30,7 @@
 - Toute la morphologie et l'habitat reposent sur une source secondaire (protologue non lu).
 - Catégorie UICN 2023 inconnue (VU 2010 selon WLoC ; NT selon certaines sources non vérifiées).
 - La FR 22089 mériterait une révision (auteur UICN erroné, statut NT non sourcé, culture et USDA non sourcés) : signalé, non modifiée (hors périmètre).
+
+## Liens croisés (lot Cycas fairylakea–fugax, 12/10/2026)
+
+- Lien posé vers *Cycas ferruginea* (fiche IT nouvelle) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py : 0 bloc manquant).

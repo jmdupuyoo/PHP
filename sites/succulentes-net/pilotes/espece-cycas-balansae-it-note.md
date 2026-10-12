@@ -42,3 +42,7 @@
 - Lien posé vers *Cycas collina* (IT 28536) à la première occurrence hors intro/encadré/titres/fonti, par replace_in_content ciblé (dry run puis application) ; brouillon aligné.
 
 - 12/10/2026 (lot Cycas divyadarshanii–elongata) : lien vers *Cycas dolichophylla* (28585) posé à la première occurrence (Ibridi) par replace_in_content ciblé ; brouillon aligné.
+
+## Liens croisés (lot Cycas fairylakea–fugax, 12/10/2026)
+
+- Lien posé vers *Cycas ferruginea* (fiche IT nouvelle) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py : 0 bloc manquant).

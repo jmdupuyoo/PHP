@@ -208,3 +208,4 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 - Cycas collina FR 22067 : « endémique du Vietnam » (aussi au Yunnan selon Hill 2008 ; WLoC ne cite que le Vietnam), « tronc dressé » (sans tronc aérien) ; UICN CR 2010 contre VU chez Hill 2008. Index genre IT « Vietnam » seul.
 - Cycas condaoensis FR 22008 : pentes granitiques (FR) contre sables littoraux (ES), sans source ; à vérifier sur le protologue.
 - (ajout 12/10) Cycas desolata FR 26649 : le message Fous de palmiers #p502442 (2022) est présenté comme une liste de cycas bleus cultivés ; c'est en fait une liste de plantes que l'auteur trouve belles et dont il ignore la rusticité — à corriger.
+- (ajout 12/10) Cycas fairylakea FR 21932 : mesures de la forme type, ovules 2-4 (et non 4-6, Hill 2008 / Liang et al. 2024), culture et USDA non sourcés. Cycas ferruginea FR 22030 : pagination de Yang 2022 = 1048-1049 (et non 1056-1058).

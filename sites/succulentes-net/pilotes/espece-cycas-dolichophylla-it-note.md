@@ -30,3 +30,7 @@
 ## Liens croisés (fin du lot Cycas divyadarshanii–elongata, 12/10/2026)
 - Liens reçus (première occurrence hors intro/encadré/titres/fonti, replace_in_content ciblé, dry run puis application) : *C. collina* 28536 (Ibridi), *C. changjiangensis* 28522 (Ibridi), *C. balansae* 28478 (Ibridi), *C. bifida* 14404 (« Le cugine a foglie ramificate », liste), *C. multifrondis* 14312 (Etimologia e storia tassonomica). Brouillons locaux de collina, changjiangensis, balansae alignés ; bifida et multifrondis n'ont pas de brouillon local.
 - À signaler : la fiche IT *bifida* 14404 (ancienne, hors phase 3) décrit *C. dolichophylla* avec des « foglioline intere ma estremamente strette » ; Hill 2008 donne des folioles larges (14-25 mm). Non corrigé (hors périmètre du lot).
+
+## Liens croisés (lot Cycas fairylakea–fugax, 12/10/2026)
+
+- Lien posé vers *Cycas ferruginea* (fiche IT nouvelle) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py : 0 bloc manquant).

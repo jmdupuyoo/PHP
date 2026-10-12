@@ -29,3 +29,8 @@
 ## Liens croisés (fin du lot Cycas divyadarshanii–elongata, 12/10/2026)
 - Liens reçus (première occurrence hors intro/encadré/titres/fonti, replace_in_content ciblé, dry run puis application) : *C. curranii* 28561 (Possibili confusioni), *C. clivicola* 28533 (Possibili confusioni), *C. cantafolia* 28516 (Possibili confusioni : première mention sous le synonyme « *Cycas litoralis* », lien posé sur ce nom), *C. rumphii* 11721 (« Il complesso Cycas rumphii »). Brouillons locaux de curranii, clivicola, cantafolia alignés ; rumphii n'a pas de brouillon local.
 - À signaler : *C. clivicola* 28533 et *C. cantafolia* 28516 citent *C. edentata* et *C. litoralis* (ou *C. litoralis* seul) comme deux espèces distinctes, alors que *litoralis* est synonyme d'*edentata* (WLoC). Non corrigé (contenu d'autres fiches).
+
+## Liens croisés (lot Cycas fairylakea–fugax, 12/10/2026)
+
+- Lien posé vers *Cycas falcata* (fiche IT nouvelle) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py : 0 bloc manquant).
+- Les fiches *clivicola* 28533 et *cantafolia* 28516 ont été corrigées le 12/10/2026 : *Cycas litoralis* y est désormais présenté comme synonyme d’*edentata* (lien vers cette fiche conservé).
