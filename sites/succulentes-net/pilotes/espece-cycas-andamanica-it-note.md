@@ -37,3 +37,6 @@
 
 ## Liens croisés (fin du lot Cycas cupida–distans, 12/10/2026)
 - Lien posé vers *Cycas dharmrajii* (IT 28567) à la première occurrence hors intro/encadré/titres/fonti (Un chiarimento tassonomico), par replace_in_content ciblé ; brouillon aligné et revérifié.
+
+## Lien vers la fiche *Cycas pschannae* (13/10/2026, lot platyphylla–riuminiana)
+- Fiche IT *Cycas pschannae* créée (id 28836). Lien posé dans cette page à la première occurrence de *Cycas pschannae* hors intro/encadré/titres/fonti (« Un chiarimento tassonomico », liste des noms décrits 2014-2017), par replace_in_content ciblé (dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant, 7 liens). Page genre 11549 : le nom *Cycas pschannae* de l'entrée d'index est désormais lié à 28836 (le lien *andamanica* de la même entrée est conservé).
