@@ -27,3 +27,9 @@
 
 ## Liens croisés (fin du lot Cycas cupida–distans, 12/10/2026)
 - Lien reçu de *Cycas andamanica* 28451 (Un chiarimento tassonomico).
+
+## Correction (13/10/2026, avant le lot Cycas sancti-lasallei–segmentifida)
+- Section « Possibili confusioni », entrée *Cycas pschannae* : « megasporofillo con lamina semicircolare » (reprise de la FR « limbe semi-circulaire ») contredit par le protologue de *pschannae* (Srivastava & Singh 2015, relu intégralement le 13/10, voir `espece-cycas-pschannae-it-note.md` : partie stérile triangulaire, deux dents latérales inégales en corne) → « megasporofillo la cui parte sterile, triangolare secondo la descrizione originale (Srivastava e Singh 2015), porta due denti laterali disuguali a forma di corno ». Référence ajoutée en Bibliografia (Srivastava & Singh 2015, PDF ijcrbp 200 le 13/10). replace_in_content ciblé (ids [28567], dry run puis application, 2 paires) ; brouillon aligné (verify.py : 0 bloc manquant, 8 liens, blocs 102/102).
+- Lien vers *pschannae* 28836 : déjà présent (posé le 13/10 à la première occurrence, même entrée de liste) ; rien à ajouter.
+- Reste douteux : critère « fusto superiore a 9 m » attribué à la clé de Singh (2017), non lue (le protologue de *pschannae* donne un arbre jusqu'à 12 m) ; non modifié.
+- **À corriger aussi en FR** (26651) : « mégasporophylle à limbe semi-circulaire » (non modifié, hors périmètre IT).
