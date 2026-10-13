@@ -38,3 +38,4 @@
 ## Liens croisés (fin de lot, 12/10/2026)
 
 - Lien reçu : *C. changjiangensis* 28522 (Possibili confusioni). Mention dans la section Tassonomia de la page genre laissée sans lien (comme pour les lots précédents).
+- 13/10/2026 (lot *Cycas* simplicipinna–taiwaniana) : page IT *Cycas szechuanensis* 28950 publiée ; lien posé dans « Un chiarimento tassonomico » (première occurrence hors intro/encadré), replace_in_content ciblé, brouillon aligné (verify.py 0 bloc manquant). Dans l'index de la page genre, le nom *szechuanensis* de l'entrée est lié aussi.
