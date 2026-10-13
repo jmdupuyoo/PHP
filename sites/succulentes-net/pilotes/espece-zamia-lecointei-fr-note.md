@@ -1,5 +1,18 @@
 # Note de livraison — *Zamia lecointei* (FR)
 
+## Nettoyage FR du 13/10/2026
+
+- Page : https://succulentes.net/cycadales/zamia/lecointei/ — id **26505**, slug `lecointei`, parent 3963, titre « Zamia lecointei » inchangés. Polylang : IT 28117 toujours liée (hreflang fr/it vérifiés ; pas d'EN ni d'ES). Aucune image. Rien commité.
+- Choix : **corrections ciblées** (fiche récente et sourcée ; une seule erreur de fond, relevée par la note IT : la *Flora de Colombia* était déclarée inaccessible alors qu'elle est en ligne). replace_in_content (simulation puis application, 23 remplacements).
+- Source primaire lue ce jour : *Flora de Colombia*, traitement de D.W. Stevenson (2001), https://www.biovirtual.unal.edu.co/floradecolombia/en/description/620/ (200) ; Lindstrom et al. 2024 relu dans la copie locale du texte intégral PMC (PMC en ligne bloqué par un captcha ce jour). Wikipédia : seulement pour le Pérou et la catégorie NT 2010, comme avant (déjà signalé dans le texte).
+- Corrigé : « aucune description fiable », « Flora de Colombia inaccessible », « habitat, altitude non documentés », encadré « exposition / port non documentés », note bibliographique de Stevenson 2001.
+- Ajouté (d'après la Flora) : description complète (tige, feuilles, folioles, cônes, graines, 2n = 16 cité d'après Caputo et al. 1996), variation des folioles selon la lumière, habitat (sols sableux drainés, 100-300 m, lieux ouverts ou sous-bois secondaire), répartition (Bolívar, centre et sud de la Colombie), isotype G, Le Cointe à Óbidos, histoire nomenclaturale (concept erroné de *Zamia ulei* chez Ducke, Schuster 1932, types identiques de *jirijirimensis*, *obidensis* = forme juvénile et d'ombre), conservation 2001 (graines abondantes, localement commune), comparaison avec *Zamia muricata* + paire *muricata*/*lecointei* sœur d'*orinoquiensis* (Lindstrom 2024), FAQ « distinguer de *muricata* » (8 questions). Sites de référence : Flora de Colombia, Lindstrom 2024 ; bibliographie : Lindstrom 2024.
+- Retiré : phrase « comme la plupart des *Zamia* amazoniens, elle reste mal connue » (intro), mention des sites d'agrégation (habitat désormais sourcé).
+- Liens internes ajoutés (200, sans redirection, 13/10/2026) : *muricata*, *orinoquiensis*.
+- SEO Rank Math : titre inchangé (56 car.) ; meta réécrite (151 car.).
+- Vérifications : URL 200 ; aucun commentaire de bloc visible ; 108 blocs appariés ; texte rendu identique au brouillon (hors sommaire automatique et typographie de « ... »), même séquence de liens ; liens internes en 200.
+- Points douteux : page de *Zamia obidensis* (19 selon WLoC, 20 selon la Flora, divergence signalée dans le texte) ; source du 2n = 16 (Caputo et al. 1996, citée sans référence complète par la Flora).
+
 Brouillon : `pilotes/espece-zamia-lecointei-fr.html` (blocs Gutenberg contrôlés par script : blocs appariés, balises équilibrées, aucun lien EN/IT/ES, aucune image, aucun utm_source). Longueur : 2094 mots au total, 1639 avant « Sites de référence ».
 
 ## Publication
