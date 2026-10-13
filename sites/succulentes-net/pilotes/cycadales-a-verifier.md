@@ -244,3 +244,10 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - roezlii IT 28260 : Panama selon Species+ ; clade VI (Lindstrom 2024).
   - skinneri IT 28263 : point mineur (nervation plissée, Lindstrom 2024).
 - EN à vérifier lors de la phase EN : skinneri 20387, roezlii 20467 (reprennent probablement les erreurs des anciennes fiches FR).
+
+- IT à compléter (13/10/2026, nettoyage FR Z6 ; détails dans les -fr-note.md) :
+  - purpurea IT 28186 : feuilles neuves rouge pourpre foncé, feuilles dressées, cônes retombants (Schutzman & Vovides 1998) ; 50-200 m (2014) ; complexe katzeriana (2011) ; proche de meermanii (Lindstrom 2024).
+  - vazquezii IT 28383 : nord Veracruz, 2 localités, ≤ 50 plantes, menaces, évaluation corrigée 2023 e.T42120A243413573 (Gómez Díaz 2025) ; 40-350 m, NOM-059 « P » (2014).
+  - wallisii IT 28386 : sous-groupe avec oligodonta et montana (Lindstrom 2024).
+  - tuerckheimii IT 28389 : forêt sempervirente, rapprochement soconuscensis/inermis (2011) ; clade III (Lindstrom 2024).
+  - variegata IT 28395 : 80-150 m au Chiapas, NOM-059 « Pr » (2014) ; sous-clade III-A avec prasina (Lindstrom 2024).
