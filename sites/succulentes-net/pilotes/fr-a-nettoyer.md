@@ -8,7 +8,7 @@ Source : pilotes/cycadales-a-verifier.md (sections « FR à nettoyer » et ajout
 | Z1 | amazonum 22275 (fait 13/10/2026), amplifolia 21680 (fait 13/10/2026), angustifolia 21722 (fait 13/10/2026), boliviana 22283 (fait 13/10/2026), chigua 21673 (fait 13/10/2026) |
 | Z2 | cremnophila 22338 (fait 13/10/2026), decumbens 22376 (fait 13/10/2026), integrifolia 3971 (fait 13/10/2026), imperialis 21802 (fait 13/10/2026), inermis 21714 (fait 13/10/2026) |
 | Z3 | erosa 21754 (fait 13/10/2026), montana 22316 (fait 13/10/2026), oligodonta 22321 (fait 13/10/2026), monticola 22382 (fait 13/10/2026), neurophyllidia 22328 (fait 13/10/2026) |
-| Z4 | encephalartoides 22294, lucayana 21788, loddigesii 21664, lacandona 22356, magnifica 22363 |
+| Z4 | encephalartoides 22294 (fait 13/10/2026), lucayana 21788 (fait 13/10/2026), loddigesii 21664 (fait 13/10/2026), lacandona 22356 (fait 13/10/2026), magnifica 22363 (fait 13/10/2026) |
 | Z5 | lecointei 26505, skinneri 21691, soconuscensis 22308, pygmaea 21780, roezlii 21660 |
 | Z6 | purpurea 22349, vazquezii 21709, wallisii 21734, tuerckheimii 22391, variegata 21795 |
 | Z7 | ulei 22288, stricta 21774, poeppigiana 18304, portoricensis 21767, prasina 22369 |
