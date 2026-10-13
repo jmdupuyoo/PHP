@@ -11,7 +11,7 @@ Source : pilotes/cycadales-a-verifier.md (sections « FR à nettoyer » et ajout
 | Z4 | encephalartoides 22294 (fait 13/10/2026), lucayana 21788 (fait 13/10/2026), loddigesii 21664 (fait 13/10/2026), lacandona 22356 (fait 13/10/2026), magnifica 22363 (fait 13/10/2026) |
 | Z5 | lecointei 26505 (fait 13/10/2026), skinneri 21691 (fait 13/10/2026), soconuscensis 22308 (fait 13/10/2026), pygmaea 21780 (fait 13/10/2026), roezlii 21660 (fait 13/10/2026) |
 | Z6 | purpurea 22349 (fait 13/10/2026), vazquezii 21709 (fait 13/10/2026), wallisii 21734 (fait 13/10/2026), tuerckheimii 22391 (fait 13/10/2026), variegata 21795 (fait 13/10/2026) |
-| Z7 | ulei 22288, stricta 21774, poeppigiana 18304, portoricensis 21767, prasina 22369 |
+| Z7 | ulei 22288 (fait 13/10/2026), stricta 21774 (fait 13/10/2026), poeppigiana 18304 (fait 13/10/2026), portoricensis 21767 (fait 13/10/2026), prasina 22369 (fait 13/10/2026) |
 | Z8 | pumila 21729 |
 
 ## Cycas

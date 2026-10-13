@@ -251,3 +251,10 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - wallisii IT 28386 : sous-groupe avec oligodonta et montana (Lindstrom 2024).
   - tuerckheimii IT 28389 : forêt sempervirente, rapprochement soconuscensis/inermis (2011) ; clade III (Lindstrom 2024).
   - variegata IT 28395 : 80-150 m au Chiapas, NOM-059 « Pr » (2014) ; sous-clade III-A avec prasina (Lindstrom 2024).
+
+- IT à compléter (13/10/2026, nettoyage FR Z7 ; détails dans les -fr-note.md) :
+  - ulei IT 28392 : protologue lu (Verh. Bot. Vereins Prov. Brandenburg 48 : 117-118, folioles ≈ 50 × 6 cm) ; Lindstrom 2024 (paire ulei/amazonum, clade VII) ; titre Segalla et al. 2023 à aligner sur Crossref (« from Acre, Brazil »).
+  - stricta IT 28370 : Flora de la República de Cuba 8(4) (description, milieu, clé, noms locaux, holotype cubain).
+  - poeppigiana IT 28188 : Calonje et al. 2011 et protologue (Flora Brasiliensis 4(1) : 414-416) lus.
+  - portoricensis IT 28190 : protologue Urban 1899 lu (pétiole inerme, 20-24 paires de folioles de 13-16 cm × 5 mm…) ; recrutement très limité dans la plupart des populations (Lazcano-Lara & Ackerman 2018, d'après une thèse de 2015) ; CR < 500 plantes en 2003. [Numéro Index Seminum corrigé le 13/10 : n. 1495 (et non NAP 1720, qui est Z. inermis), « campioni di foglie » retiré.]
+  - prasina IT 28184 : Nicolalde-Morejón 2014 et 2024, Lindstrom 2024, UICN 2003, Fedick & Santiago 2022.
