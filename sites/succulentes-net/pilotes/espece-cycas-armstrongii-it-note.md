@@ -46,3 +46,6 @@
 - Lien posé vers *Cycas lane-poolei* (28669) à la première occurrence hors intro/encadré/titres/fonti, replace_in_content ciblé (chaîne unique, dry run puis application) ; brouillon aligné (verify.py : 0 bloc manquant).
 - 12/10/2026 : lien vers *Cycas maconochiei* (28690) posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.
 - 12/10/2026 (lot nayagarhensis–orientis) : lien vers *Cycas orientis* 28762 posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content dry run puis application ; brouillon aligné).
+- (12/10/2026, correction) Graphie de la série harmonisée en « Armstrongianosae » (IPNI 980282-1 ; Hill 1996 : clé, fig. 1, 2 et 14 ; seul l'intitulé de série de Hill 1996 porte la coquille « Armstrongiosae »), replace_in_content dry run puis application ; brouillon aligné (verify.py 0 bloc manquant). Voir `cycadales-a-verifier.md`. 1 occurrence (Tassonomia).
+
+- 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas papuana* (28786) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).

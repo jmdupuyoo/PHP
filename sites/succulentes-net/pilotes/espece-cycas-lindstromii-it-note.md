@@ -24,3 +24,5 @@
 - Brouillon identique au contenu en ligne (verify.py : 0 bloc manquant, 7 liens) ; URL 200 ; aucun commentaire visible ; blocs 101/101 ; aucun lien FR.
 - Liens externes le 12/10/2026 : cycadlist 147, Species+, EUR-Lex, ASPCA, NCSU → 200 ; ACNP → 403.
 - Liens entrants posés (première occurrence hors intro/encadré/titres/fonti) : *elongata* 28594, *condaoensis* 28540 (recherche API REST « lindstromii » : seules pages IT citant l'espèce avec la page genre). Brouillons alignés (verify.py : 0 bloc manquant).
+
+- 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas pachypoda* (28778) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).

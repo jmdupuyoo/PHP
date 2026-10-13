@@ -26,3 +26,5 @@
 
 ## Points douteux (repris de la FR)
 - Sarcotesta « 40-50 mm » du protologue non repris (coquille évidente). POWO et Liste rouge non consultés (Cloudflare).
+
+- 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas orixensis* (28774) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).

@@ -33,3 +33,5 @@
 - *C. circinalis* à Rome : nom souvent mal appliqué en culture, signalé comme à vérifier.
 - *C. taitungensis* à Naples : Index Seminum sans zone du jardin, probablement graines d'autre provenance (formulation prudente).
 - Années UICN manquantes pour 8 espèces (voir ci-dessus).
+
+- 13/10/2026 (lot orixensis–petraea) : entrées d'index liées vers *orixensis* 28774, *pachypoda* 28778, *papuana* 28786, *pectinata* 28793, *petraea* 28803 (replace_in_content, dry run puis application, une à une) ; brouillon aligné (verify.py 0 bloc manquant, 99 liens).

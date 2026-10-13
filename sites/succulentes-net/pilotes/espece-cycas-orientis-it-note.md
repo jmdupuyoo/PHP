@@ -28,3 +28,6 @@
 
 ## Points douteux (repris de la FR)
 - Aucun nom aborigène trouvé. Graphie de la série : « Armstrongianosae » (FR, d'après Hill 1996) ; la fiche IT *lane-poolei* écrit « Armstrongiosae » — à vérifier sur Hill 1996.
+- (12/10/2026) Graphie vérifiée : « Armstrongianosae » est correcte (IPNI 980282-1 ; Hill 1996) ; *lane-poolei* et *armstrongii* IT corrigées.
+
+- 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas papuana* (28786) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).

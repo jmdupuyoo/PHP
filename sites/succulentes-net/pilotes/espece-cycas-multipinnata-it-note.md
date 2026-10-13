@@ -43,3 +43,4 @@ La FR 16437 n'a ni encadré ni sources détaillées. N'ont été repris que les 
 
 ## Points douteux
 - Divergence bipennée (Hill) / tripennée (FoC), exposée. Altitude du type (1100 m) au-dessus de la fourchette FoC (200-1000 m), exposée. Présence au Guangxi (Hill 2008) absente de WLoC. Statut IUCN : CR (Nguyen 2010, via WLoC) ; Gong et al. 2015 écrivent encore EN.
+- (12/10/2026, correction) Tableau comparatif de *micholitzii* 14423 aligné sur cette fiche (replace_in_content, dry run puis application ; pas de brouillon local) : répartition « Yunnan, Guangxi (Cina), N. Vietnam » → Yunnan et Yen Bai (WLoC), Guangxi occidental selon Hill 2008 seulement ; altitude « 200–800 m » → 200–1000 m (Flora of China), type à 1100 m (Hill 2008) ; UICN « EN » → CR (WLoC, Nguyen 2010).

@@ -30,3 +30,5 @@
 - Habitat, dimensions et effectifs inconnus faute d'accès au protologue et à la fiche UICN (page volontairement courte sur ces points).
 - Identification du collecteur « Pierre, L » à Louis Pierre (botaniste de Cochinchine) : évidente mais non écrite par WLoC.
 - 12/10/2026 : lien vers *Cycas lindstromii* (28680) posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.
+
+- 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas pachypoda* (28778), *Cycas pectinata* (28793) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).

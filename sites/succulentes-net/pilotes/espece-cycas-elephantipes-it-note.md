@@ -29,3 +29,5 @@
 
 ## Liens croisés (fin du lot Cycas divyadarshanii–elongata, 12/10/2026)
 - Lien reçu : *C. chamaoensis* 28519 (Possibili confusioni, liste) par replace_in_content ciblé (dry run puis application) ; brouillon local aligné. *C. dolichophylla* 28585 ne cite que le titre du fil FDP « Cycas Elephantipes ? » (pas de lien). Articles IT : seuls des articles sur *Yucca elephantipes*.
+
+- 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas pachypoda* (28778), *Cycas petraea* (28803) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).

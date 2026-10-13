@@ -29,3 +29,5 @@
 
 *Cycas litoralis* n’est plus présenté comme une espèce distincte : reformulé en « oggi sinonimo di *Cycas edentata* » (WLoC), lien vers la fiche IT *edentata* 28588 conservé (replace_in_content ciblé, dry run puis application ; brouillon aligné, verify.py : 0 bloc manquant).
 - 12/10/2026 : lien vers *Cycas macrocarpa* (28700) posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.
+
+- 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas pectinata* (28793) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).

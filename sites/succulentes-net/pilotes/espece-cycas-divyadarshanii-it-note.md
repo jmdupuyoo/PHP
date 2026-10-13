@@ -28,3 +28,5 @@
 
 ## Liens croisés (fin du lot Cycas divyadarshanii–elongata, 12/10/2026)
 - Aucune fiche ni article IT ne cite l'espèce en dehors de la page genre 11549 (lien d'index posé) : recherche API REST pages et articles IT « divyadarshanii ».
+
+- 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas pectinata* (28793) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).

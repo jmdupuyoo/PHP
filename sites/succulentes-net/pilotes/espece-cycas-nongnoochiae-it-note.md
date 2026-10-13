@@ -26,3 +26,5 @@
 
 ## Points douteux (repris de la FR)
 - Description sans mesures (protologue non lu) ; présence au Laos (WLoC) non détaillée ; POWO et Liste rouge non consultés (Cloudflare).
+
+- 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas pectinata* (28793), *Cycas petraea* (28803) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).

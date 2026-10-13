@@ -45,3 +45,5 @@
 - Translittération « prong khao chamao » et traduction « cicadea del Khao Chamao » : faites par le rédacteur (ปรง = cycadale, เขา = mont) ; aucune source ne donne la translittération.
 
 - 12/10/2026 (lot Cycas divyadarshanii–elongata) : lien vers *Cycas elephantipes* (28591) posé à la première occurrence (Possibili confusioni) par replace_in_content ciblé ; brouillon aligné.
+
+- 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas pectinata* (28793) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).

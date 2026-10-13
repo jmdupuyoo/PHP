@@ -23,3 +23,5 @@
 - Concept de l'espèce : Hill 1994 (plaines herbeuses) vs de Laubenfels & Adema 1998 (grand arbre de forêt, type seul) ; la fiche suit WLoC/Hill et expose la divergence.
 - Description morphologique de source secondaire (Cycad Pages via Wikipédia), protologue non lu.
 - UICN : NT B1b(iii,v) (Bösenberg 2022), version corrigée 2023 non lue.
+
+- 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas papuana* (28786) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).

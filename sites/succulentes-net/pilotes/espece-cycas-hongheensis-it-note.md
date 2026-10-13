@@ -32,3 +32,5 @@
 ## Liens croisés (fin de lot, 12/10/2026)
 
 - Aucune fiche ni article IT ne cite cette espèce (recherche API REST it, pages et articles), hors page genre (déjà liée).
+
+- 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas pectinata* (28793) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).
