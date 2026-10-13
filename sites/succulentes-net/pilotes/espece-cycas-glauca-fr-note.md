@@ -47,3 +47,16 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26684, https://succulentes.net/cycadales/cycas/glauca/ (200 sans redirection, curl et fetch_site_url), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256 (replace_in_content, dry run puis application) ; contenu publié comparé au fichier local (texte et liens identiques).
+
+## Nettoyage FR du 13/10/2026
+
+- Choix : **corrections ciblées** (fiche récente du 03/10/2026, sourcée ; une erreur d'attribution signalée par la note IT et un statut UICN rendu vérifiable). replace_in_content sur 26684 : 8 paires, 8 remplacements (7 simulés puis appliqués avec la 8e, ajout d'une ligne GBIF en Sites de référence) ; slug, parent, traduction IT 28633 inchangés (hreflang fr/it vérifiés). Ancien brouillon sauvegardé (scratchpad c4/glauca-before.html). Rien commité.
+- Sources relues ce jour : WLoC 128 (références : de Laubenfels & Adema 1998 p. 369 « as synonym of Cycas rumphii » ; galerie : Covalima 2023 et **Lautém 2003**) ; GBIF API (catégorie actuelle **CR**, iucnTaxonID 178874) ; Crossref (Lindström 2023-1, e.T178874A68901750, DOI). Fous de palmiers et zootropical.com : aucune mention de l'espèce (JZT rien). Wikipédia non utilisée (et non citée dans la fiche).
+- Corrigé : attribution de de Laubenfels & Adema 1998 (« WLoC et Flora of Australia » → « WLoC et Lindström et al. 2009 », avec la page 369 et la mise en synonymie de *rumphii*) ; statut UICN (catégorie actuelle CR = réévaluation Lindström 2023-1, vérifiée via GBIF/Crossref ; catégorie de 2010 non vérifiée) dans l'encadré, la section Statut et la bibliographie (DOI ajouté) ; « climat tropical sans gel » (non sourcé) → îles tropicales, récoltes jusque vers 415 m (Lindström et al. 2009) ; lien EUR-Lex en version FR.
+- Ajouté : observation de Lautém (2003) dans Dans la nature ; GBIF en Sites de référence.
+- Espèce de Timor et Sumba (non australienne) : pas d'article Lavaud.
+- SEO : titre allongé « Cycas glauca : le cycas bleuté de Timor et de Sumba » (51 car.) ; meta (139 car.) et mot-clé inchangés ; aucun problème.
+- Vérifications (verify.py) : URL 200 ; aucun commentaire visible ; 100 blocs appariés ; brouillon `pilotes/espece-cycas-glauca-fr.html` aligné, texte identique, 13 liens.
+- Index de la page genre FR 1256 : « Timor oriental, Indonésie ; en danger critique (CR, année non vérifiée) » → « Timor oriental, Indonésie (Timor occidental, Sumba) ; en danger critique (CR, 2023) » (dry run 1 remplacement puis application).
+- **À signaler pour l'IT 28633 (non modifiée)** : catégorie CR désormais datée (réévaluation 2023-1 via GBIF/Crossref) ; page « anno non verificato » de l'index IT 11549 à mettre à jour ; observation de Lautém (2003) sur WLoC.
+- Points douteux : catégorie de l'évaluation de 2010 ; recommandation « VU » de 2009 face au CR actuel (critères non lus).
