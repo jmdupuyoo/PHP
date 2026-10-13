@@ -19,7 +19,7 @@ Source : pilotes/cycadales-a-verifier.md (sections « FR à nettoyer » et ajout
 |---|---|
 | C1 | andamanica 21956 (fait 13/10/2026), aculeata 22084 (fait 13/10/2026), armstrongii 21562 (fait 13/10/2026), balansae 21822 (fait 13/10/2026), brachycantha 22089 (fait 13/10/2026) |
 | C2 | chamaoensis 21828 (fait 13/10/2026), changjiangensis 21885 (fait 13/10/2026), chenii 21968 (fait 13/10/2026), chevalieri 21892 (fait 13/10/2026), collina 22067 (fait 13/10/2026) |
-| C3 | condaoensis 22008, desolata 26649, fairylakea 21932, ferruginea 22030, hoabinhensis 22042 |
+| C3 | condaoensis 22008 (fait 13/10/2026), desolata 26649 (fait 13/10/2026), fairylakea 21932 (fait 13/10/2026), ferruginea 22030 (fait 13/10/2026), hoabinhensis 22042 (fait 13/10/2026) |
 | C4 | hongheensis 21975, hainanensis 21912, glauca 26684, laotica 22052, lingshuigensis 21921 |
 | C5 | maconochiei 26682, multipinnata 16437, petraea 26719, pachypoda 22073, pschannae 21984 |
 | C6 | dharmrajii 26651, segmentifida 22059, siamensis 22080, simplicipinna 21897, sexseminifera 22025 |
@@ -33,3 +33,7 @@ Source : pilotes/cycadales-a-verifier.md (sections « FR à nettoyer » et ajout
 | A1 | Microcycas calocoma 13877 ; Encephalartos msinganus 5596, munchii 12296, gratus 12439, umbeluziensis 12681 |
 
 Hors liste : Macrozamia serpentina (question au propriétaire sur deux phrases de rusticité hypothétique, sans réponse).
+
+
+## Après les lots Cycas
+- Réaligner le brouillon local pilotes/genre-cycas-fr.html (03/10) sur la page genre FR 1256 en ligne (lignes d'index modifiées pendant le nettoyage).

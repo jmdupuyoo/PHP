@@ -43,3 +43,17 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Points à valider par le propriétaire
 1. **Statut UICN divergent** : WLoC affiche NT D2 (Forster 2010) ; la Flora of Australia indique VU 2022. Les deux sont exposés dans la fiche ; la référence de 2022 n'a pas été trouvée (Liste rouge bloquée).
 2. Nombre de populations : « au moins deux » (Forster 1995) contre « un seul peuplement » (FoA) ; exposé tel quel.
+
+## Nettoyage FR du 13/10/2026
+
+- Page 26649 (slug `desolata`, parent 1256, titre inchangés ; Polylang : IT 28564 toujours liée, hreflang fr/it vérifiés ; aucune image). Rien commité. Ancien contenu sauvegardé (scratchpad c3/old-26649.json ; brouillon avant correction c3/desolata-before.html).
+- Choix : **corrections ciblées** (fiche récente et sourcée ; 8 paires replace_in_content, dry run 8 remplacements puis application).
+- Sources relues ce jour : message Fous de palmiers #p502442 (06/02/2022, relu en entier : liste de cycas « que je trouve beaux, mais dont je ne connais pas encore la rusticité », simple souhait, aucune culture) ; GBIF API (catégorie actuelle **NT**, jeu de données UICN daté du 28/07/2026) ; Crossref (**réévaluation J.D. Bösenberg, version 2023-1, doi 10.2305/IUCN.UK.2023-1.RLTS.T41959A68899597.en** ; Forster 2010 évalué le 31/10/2009) ; WLoC 117 (NT D2) ; Flora of Australia JSON (« IUCN Red List: Listed as Vulnerable, 2022 » + Qld VU nov. 2022) ; Wikipédia EN relue (NT, Bösenberg 2023), non utilisée comme source.
+- Corrigé : message Fous de palmiers (liste de souhaits d'un amateur qui ignore la rusticité, et non « liste de cycas bleus cultivés ») dans Culture et dans Sites de référence ; statut UICN (NT maintenu par la réévaluation 2023-1 ; le « VU 2022 » de la Flora of Australia signalé comme sans évaluation retrouvée) dans l'intro, l'encadré, la section Statut et la FAQ ; culture déduite de l'habitat présentée comme déduction ; « elle relève de la serre » nuancé.
+- Ajouté : GBIF (Sites de référence), Bösenberg 2023 (Bibliographie).
+- Conservé : article Simon Lavaud dans « À lire aussi » uniquement (vérifié : aucune mention dans le corps), semis, toxicité.
+- SEO Rank Math inchangé (titre 59, meta 142 toujours exacts ; aucun problème).
+- Vérifications (verify.py) : URL 200 ; aucun commentaire visible ; 107 blocs appariés ; texte rendu identique au brouillon aligné ; 13 liens, même séquence.
+- Index de la page genre FR 1256 : « (NT, 2010) » → « (NT, 2023) » (dry run 1 remplacement puis application).
+- **À signaler pour l'IT 28564 (non modifiée)** : réévaluation Bösenberg 2023-1 (NT, catégorie actuelle GBIF) absente ; la fiche IT présente encore la divergence NT 2010 / VU 2022 sans cette référence.
+- Points douteux : origine du « VU 2022 » de la Flora of Australia ; nombre de populations (au moins deux selon Forster 1995, une selon la FoA).
