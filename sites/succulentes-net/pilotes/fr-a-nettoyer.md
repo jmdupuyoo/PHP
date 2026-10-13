@@ -21,7 +21,7 @@ Source : pilotes/cycadales-a-verifier.md (sections « FR à nettoyer » et ajout
 | C2 | chamaoensis 21828 (fait 13/10/2026), changjiangensis 21885 (fait 13/10/2026), chenii 21968 (fait 13/10/2026), chevalieri 21892 (fait 13/10/2026), collina 22067 (fait 13/10/2026) |
 | C3 | condaoensis 22008 (fait 13/10/2026), desolata 26649 (fait 13/10/2026), fairylakea 21932 (fait 13/10/2026), ferruginea 22030 (fait 13/10/2026), hoabinhensis 22042 (fait 13/10/2026) |
 | C4 | hongheensis 21975 (fait 13/10/2026), hainanensis 21912 (fait 13/10/2026), glauca 26684 (fait 13/10/2026), laotica 22052 (fait 13/10/2026), lingshuigensis 21921 (fait 13/10/2026) |
-| C5 | maconochiei 26682, multipinnata 16437, petraea 26719, pachypoda 22073, pschannae 21984 |
+| C5 | maconochiei 26682 (fait 13/10/2026), multipinnata 16437 (fait 13/10/2026), petraea 26719 (fait 13/10/2026), pachypoda 22073 (fait 13/10/2026), pschannae 21984 (fait 13/10/2026) |
 | C6 | dharmrajii 26651, segmentifida 22059, siamensis 22080, simplicipinna 21897, sexseminifera 22025 |
 | C7 | szechuanensis 21937, taiwaniana 21905, tanqingii 21944, tropophylla 22019, zeylanica 21995 |
 | C8 | terryana 26753, tuckeri 26755, vespertilio 26757, media 14336, calcicola 21857 |

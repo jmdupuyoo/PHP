@@ -54,3 +54,17 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26682, https://succulentes.net/cycadales/cycas/maconochiei/ (200 sans redirection, curl et fetch_site_url), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256 (replace_in_content, dry run puis application) ; contenu publié comparé au fichier local (texte et liens identiques).
+
+## Nettoyage FR du 13/10/2026
+
+- Page 26682 (slug `maconochiei`, parent 1256, titre inchangés ; Polylang : IT 28690 toujours liée, hreflang fr/it vérifiés ; aucune image). Rien commité. Brouillon avant correction : scratchpad lotc5/maconochiei-before.html.
+- Choix : **corrections ciblées** (fiche récente et sourcée ; 9 paires replace_in_content, dry run 9 remplacements puis application ; mêmes paires appliquées au brouillon : scratchpad lotc5/mac-pairs.json).
+- Sources relues ce jour : message Fous de palmiers p=254363 (29/03/2013 : « j'en avais déjà eu mais à ce moment-là je n'avais aucun recul sur les espèces australiennes, ce qui a conduit à leur mort » ; ni âge des plantes ni conditions) ; GBIF, jeu de données UICN (version du 28/07/2026) : espèce **LC** (renvoi à l'évaluation 42027/68903755 = Ottley, Clugston & Liddle 2023-1), subsp. *maconochiei* LC (Liddle & Clugston 2023-1), subsp. *viridis* LC (Bösenberg 2023-1), *lanata* synonyme de la sous-espèce type ; Crossref (évaluations 2010-3 de l'espèce et des trois sous-espèces par Hill et Ottley ; réévaluations 2023-1) ; Flora of Australia, profil subsp. *maconochiei* (JSON) : « IUCN Red List: Listed as Near Threatened, 2022 ». Wikipédia non utilisée.
+- Corrigé : message Fous de palmiers (« jeunes plantes issues de graines » → plantes perdues sans âge ni conditions précisés) en Culture, Rusticité et Sites de référence ; statut UICN (LC confirmé par la réévaluation 2023 ; sous-espèces évaluées dès 2010, LC en 2023 ; NT 2022 de la Flora of Australia signalé sans évaluation retrouvée) dans l'encadré, Statut et FAQ ; catégorie d'Ottley et al. 2023 renseignée en Bibliographie.
+- Retiré du corps : la mention de l'article Simon Lavaud en Culture (le lien reste uniquement dans « À lire aussi ») et « en France, la plante relève de la serre chaude » (non sourcé) ; « climat tropical sans gel » de Darwin (non sourcé) reformulé ; culture déduite de l'habitat présentée comme déduction. Le lien *Cycas revoluta* passe à la première occurrence restante (Toxicité).
+- Ajouté : GBIF (Sites de référence) ; Liddle & Clugston 2023 et Bösenberg 2023 (Bibliographie).
+- SEO Rank Math inchangé (titre et meta toujours exacts).
+- Vérifications (verify.py) : URL 200 ; aucun commentaire visible ; 116 blocs appariés ; texte rendu identique au brouillon ; 14 liens, même séquence, tous en 200.
+- Index de la page genre FR 1256 : « (LC, 2010) » → « (LC, 2023) » (dry run 1 remplacement puis application). Brouillon local pilotes/genre-cycas-fr.html non aligné (déjà en retard sur les lots précédents).
+- **À signaler pour l'IT 28690 (non modifiée)** : même statut UICN à mettre à jour (LC 2023 pour l'espèce, la sous-espèce type et *viridis* ; *lanata* rangée sous la sous-espèce type par la Liste rouge ; sous-espèces évaluées dès 2010) ; la fiche IT reprend aussi « savana tropicale a stagione secca marcata » et le « clima tropicale senza gelo » non sourcés.
+- Points douteux : origine du « NT 2022 » de la Flora of Australia pour la sous-espèce type ; catégories des évaluations 2010 des sous-espèces non vues.

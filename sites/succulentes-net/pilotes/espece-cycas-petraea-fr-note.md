@@ -51,3 +51,16 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 1. **Statut UICN** : WLoC affiche EN B1ab(v) mais cite Bösenberg 2010 ; le DOA (2019) cite NT 2010 ; Crossref montre une réévaluation Averyanov & Lindström 2020 (publiée 2023-1). La fiche présente NT (2010) puis EN (2020). La page genre (1256) indique « EN, 2010 » : à harmoniser si vous le souhaitez.
 2. Description tirée du rapport DOA (protologue non lu) : aucune mesure de cône ni de graine. Le PDF de Lindström & Hill 2003 permettrait de compléter.
 3. Météo-France : non utilisée (valeur fournie par le cultivateur ; lieu exact sur la Côte Bleue non précisé).
+
+## Nettoyage FR du 13/10/2026
+
+- Page 26719 (slug `petraea`, parent 1256, titre inchangés ; Polylang : IT 28803 toujours liée, hreflang fr/it vérifiés ; aucune image). Rien commité. Brouillon avant correction : scratchpad lotc5/petraea-before.html.
+- Choix : **corrections ciblées** (fiche récente et sourcée ; 9 paires replace_in_content, dry run 9 remplacements puis application ; paires : scratchpad lotc5/pet-pairs.json, appliquées aussi au brouillon).
+- Sources relues ce jour : Tropicamente « Rusticità Dioon spinulosum » #43170 (28/10/2009 : « Abbastanza rustica (zona 9a) la Cycas petraea, delicato (9b-10a) il Dioon spinulosum ») et « Le foglie nuove delle cycadacee » #40887 (07/07/2009 : deux *C. petrea* arrêtées après une attaque fongique « cet hiver » ; signature Ravenne, zone 8a/8b) et #40891 (08/07/2009 : en pot, dehors, abritées seulement de la pluie et du vent, jusqu'à −3 °C) ; GBIF API (jeu de données UICN du 28/07/2026 : **EN**, renvoi à l'évaluation 178873/69154793 d'Averyanov & Lindström). Wikipédia non utilisée.
+- Corrigé : classement du cultivateur de Ravenne (la FR inversait : *C. petraea* « assez rustique », zone 9a ; « délicat, 9b-10a » = *Dioon spinulosum*) ; mode de culture (« non précisé » → en pot, dehors, abri contre pluie et vent) dans Rusticité, l'encadré, Culture, la FAQ et les Sites de référence ; « jeunes plants issus de semis » (non dit) → « jeunes plantes » ; classement présenté comme avis personnel.
+- Ajouté : confirmation GBIF du statut EN (Statut + Sites de référence) ; fil Tropicamente #40891 (Sites de référence). Liens : *Cycas revoluta* déplacé à la première occurrence (Rusticité), *Dioon spinulosum* (5286, 200) lié.
+- SEO Rank Math inchangé (titre et meta toujours exacts).
+- Vérifications (verify.py) : URL 200 ; aucun commentaire visible ; 107 blocs appariés ; texte rendu identique au brouillon ; 10 liens, même séquence, tous en 200.
+- Index de la page genre FR 1256 : « Laos, Thaïlande ; en danger (EN, 2020 ; quasi menacée en 2010) » → « Thaïlande (Loei, Khon Kaen), Laos ; en danger (EN, 2023) » (année de publication de l'évaluation, comme pour les autres lignes ; dry run 1 remplacement puis application).
+- IT 28803 : déjà corrigée sur ces points ; rien de nouveau à signaler (GBIF confirme EN).
+- Points douteux (inchangés) : protologue non lu ; présence au Laos non détaillée ; seuil réel de froid inconnu.

@@ -289,3 +289,9 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - glauca IT 28633 : CR daté 2023 ; index IT 11549 encore « anno non verificato ».
   - laotica IT 28677 : évaluation 2023-1 (VU) ; fiche IT et index IT 11549 disent « senza valutazione datata ».
   - lingshuigensis IT 28685 : synonyme de taiwaniana dans les données UICN actuelles.
+
+- IT à compléter (13/10/2026, nettoyage FR C5 ; détails dans les -fr-note.md) :
+  - maconochiei IT 28690 : statut UICN 2023 (espèce, subsp. maconochiei, viridis : LC) ; « stagione secca marcata » et « clima senza gelo » non sourcés.
+  - multipinnata IT 28722 : réévaluation CR 2023-1 ; mesures Flora of China / Hill mélangées (mégasporophylles 8-12 cm, 25-35 lobes, 12-22 paires de folioles).
+  - pachypoda IT 28778 : réévaluation CR 2023-1.
+  - pschannae IT 28836, andamanica IT 28451, dharmrajii IT 28567 : la Liste rouge 2022-1 (via GBIF) range pschannae, andamanica et dharmrajii sous C. sainathii s.l., VU ; WLoC donne NE.
