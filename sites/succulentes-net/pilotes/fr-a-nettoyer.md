@@ -5,7 +5,7 @@ Source : pilotes/cycadales-a-verifier.md (sections « FR à nettoyer » et ajout
 ## Zamia
 | Lot | Espèces (id FR) |
 |---|---|
-| Z1 | amazonum 22275, amplifolia 21680, angustifolia 21722, boliviana 22283, chigua 21673 |
+| Z1 | amazonum 22275 (fait 13/10/2026), amplifolia 21680 (fait 13/10/2026), angustifolia 21722 (fait 13/10/2026), boliviana 22283 (fait 13/10/2026), chigua 21673 (fait 13/10/2026) |
 | Z2 | cremnophila 22338, decumbens 22376, integrifolia 3971, imperialis 21802, inermis 21714 |
 | Z3 | erosa 21754, montana 22316, oligodonta 22321, monticola 22382, neurophyllidia 22328 |
 | Z4 | encephalartoides 22294, lucayana 21788, loddigesii 21664, lacandona 22356, magnifica 22363 |
