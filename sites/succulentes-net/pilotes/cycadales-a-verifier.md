@@ -260,3 +260,10 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - prasina IT 28184 : Nicolalde-Morejón 2014 et 2024, Lindstrom 2024, UICN 2003, Fedick & Santiago 2022.
 
 - IT à compléter (13/10/2026, nettoyage FR Z8) : pumila IT 28196 — protologue et planche de Commelin lus ; Flora de Cuba (description chiffrée, répartition orientale sur serpentine) ; Eckenwalder 1980 et Hortus Kewensis (origine de la confusion avec integrifolia) ; plan UICN 2003 (NT, 5 000-10 000 plantes, présumée éteinte à Porto Rico) ; Ornduff 1987 ; Pagán-Jiménez 2013 (pente ≈ 45° pour le 1er groupe ; petit groupe de jeunes plantes près d'une femelle : l'IT généralise « nessuna plantula ») ; Abbad y Lasierra (intoxications). Détails dans espece-zamia-pumila-fr-note.md.
+
+- IT à compléter (13/10/2026, nettoyage FR C1 ; détails dans les -fr-note.md) :
+  - andamanica IT 28451 : raison du choix de pschannae (eFlora of India : priorité de date, août contre septembre 2015) ; les deux noms étaient synonymes de sainathii dans l'ancienne WLoC.
+  - aculeata IT 28445 : réévaluation UICN 2023-1 (e.T42043A67334346), EN maintenu — l'IT dit qu'aucune évaluation postérieure à 2010 n'existe.
+  - armstrongii IT 28466 : dates de John Armstrong (1820-1902 selon WLoC et Haynes 2022 ; à vérifier, nommé à Port Essington dès 1838).
+  - balansae IT 28478 : réévaluation UICN 2023-1 (e.T42069A67336462), EN maintenu.
+  - brachycantha IT 28487 : catégorie 2023 VU selon GBIF (l'IT la dit inconnue et mentionne NT).
