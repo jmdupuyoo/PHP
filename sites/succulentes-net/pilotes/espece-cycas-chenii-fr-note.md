@@ -1,0 +1,21 @@
+# Note — *Cycas chenii* (FR), id 21968
+
+## Nettoyage FR du 13/10/2026
+
+- Page : https://succulentes.net/cycadales/cycas/chenii/ — id **21968**, slug `chenii`, parent 1256, titre « Cycas chenii » inchangés. Polylang : ES 24596 et IT 28525 toujours liées (hreflang fr/it/es vérifiés ; pas d'EN, comme avant). Aucune image. Rien commité. Ancien contenu rendu sauvegardé (scratchpad c2/old-21968.json).
+- Choix : **réécriture complète** (fiche du 03/10/2026 sans brouillon ni encadré ; description chiffrée et caryotype tirés d'un protologue non lisible, quatre populations, forêts dominantes et phénologie non vérifiées, « modèle riverain », culture, multiplication et USDA 10 non sourcés), d'après la fiche IT 28525 et des sources relues ce jour :
+  - Résumé du protologue (Crossref, 13/10) : tige acaule qui sépare l'espèce de *C. guizhouensis* ; 16 espèces, 2 régions plastidiales, ITS, 2 régions nucléaires ; groupe distinct dans *Stangerioides*. Texte intégral fermé (OpenAlex et Semantic Scholar : closed ; Wiley 403).
+  - WLoC 665 (WebFetch, 13/10) : J. Syst. Evol. 53(6) : 497 ; type W. Zhou 201235, 2012, Dutian, Shuangbai, 1100 m, HT KUN ; Haynes 2022 ; Yunnan ; EN B1ab(iii,v) sans auteur ni année.
+  - **Crossref (13/10) : évaluation UICN de W. Zhou & X. Gong, version 2023-1, doi 10.2305/IUCN.UK.2023-1.RLTS.T103632155A103632285.en** ; GBIF API : catégorie actuelle **EN** (iucnTaxonID 103632155).
+  - Yang et al. 2017 (texte intégral PMC, relu) : Chuxiong et Honghe, 500-1300 m, calcaire à schistes, pentes raides, 6 populations (4 NE, 2 SO), < 500 individus, toutes loin des aires protégées, < 100 individus par population, défrichement et surcollecte, « critically endangered ».
+  - Hill 2008 (texte local) : *Stangerioides* ; *guizhouensis* « arborescent to acaulescent, to 1 m », vallées du Nanpan et du Qingshui, forêts basses sur calcaire.
+  - Wikipédia EN (wikitext, 13/10) : **seule source lue** pour la liste des localités du protologue (Dutian, Qingshuihe, Menglong, Lianhua) ; dit dans le texte.
+  - Repris de la fiche IT (12/10) : Wu et al. 2024 et Wang et al. 2026 (résumés), Xi et al. 2022 (nom chinois, districts, protection de première classe), Wang et al. 2023 (Kunming), Species+ (pas de fiche), Tropicamente et Fous de palmiers (aucun résultat). JZT : aucune observation.
+- Corrigé : statut UICN (évaluation 2023-1 de Zhou & Gong, et non « sans évaluation publiée ni année »), nombre de populations (6 en 2012-2017, 10 en 2024, et non 4), « critically endangered » de 2017 présenté comme formulation d'article.
+- Retiré : description chiffrée (feuilles, folioles, cônes, mégasporophylles, graines) et caryotype 2n = 22 (protologue non lu), comparaisons détaillées avec *guizhouensis* (tronc 2 m, 9-30 feuilles), *simplicipinna* et *tanqingii*, arbres dominants, phénologie, « modèle riverain », culture et multiplication génériques, ravageurs détaillés, USDA 10, chaleur et sécheresse, POWO et IPNI cités sans contenu, Zheng 2017 et Osborne 2012.
+- Ajouté : encadré, réserve sur le protologue, études génétiques (2017, 2024, 2026), étymologie (C.J. Chen, FoC, *hainanensis* 1975), nom chinois, conservation détaillée, protection chinoise de première classe, CITES/UE (pas de fiche Species+), Kunming, France (aucune donnée ; JZT rien), rusticité en deux parties, Toxicité, FAQ (7 questions), « À lire aussi » (semis, toxicité).
+- Liens internes (200, 13/10/2026) : genre (intro), *guizhouensis*, *simplicipinna*, *tanqingii*, *hainanensis*, *beddomei*, *Aulacaspis yasumatsui* (article), *revoluta* ; « À lire aussi » : 2 articles.
+- SEO Rank Math : titre « Cycas chenii : le cycas acaule du fleuve Rouge, Yunnan » (54 car.) ; meta 155 car. ; mot-clé `cycas chenii`. Rank Math : aucun problème.
+- Vérifications (verify.py) : URL 200 ; aucun commentaire de bloc visible ; 99 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-cycas-chenii-fr.html`, même séquence de 10 liens.
+- **À signaler pour l'IT 28525 (non modifiée)** : l'évaluation UICN existe et est datée — W. Zhou & X. Gong, Liste rouge version 2023-1 (évaluation enregistrée le 23/04/2020 selon Crossref), e.T103632155A103632285, EN ; la fiche IT dit « senza anno indicato » / sans auteur.
+- Points douteux : protologue non lu (pas de description chiffrée) ; altitude 500-1300 m (protologue via Yang 2017) contre 489-1600 m (populations échantillonnées).

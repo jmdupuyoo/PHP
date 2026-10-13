@@ -18,7 +18,7 @@ Source : pilotes/cycadales-a-verifier.md (sections « FR à nettoyer » et ajout
 | Lot | Espèces (id FR) |
 |---|---|
 | C1 | andamanica 21956 (fait 13/10/2026), aculeata 22084 (fait 13/10/2026), armstrongii 21562 (fait 13/10/2026), balansae 21822 (fait 13/10/2026), brachycantha 22089 (fait 13/10/2026) |
-| C2 | chamaoensis 21828, changjiangensis 21885, chenii 21968, chevalieri 21892, collina 22067 |
+| C2 | chamaoensis 21828 (fait 13/10/2026), changjiangensis 21885 (fait 13/10/2026), chenii 21968 (fait 13/10/2026), chevalieri 21892 (fait 13/10/2026), collina 22067 (fait 13/10/2026) |
 | C3 | condaoensis 22008, desolata 26649, fairylakea 21932, ferruginea 22030, hoabinhensis 22042 |
 | C4 | hongheensis 21975, hainanensis 21912, glauca 26684, laotica 22052, lingshuigensis 21921 |
 | C5 | maconochiei 26682, multipinnata 16437, petraea 26719, pachypoda 22073, pschannae 21984 |
