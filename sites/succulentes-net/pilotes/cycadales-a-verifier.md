@@ -295,3 +295,10 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - multipinnata IT 28722 : réévaluation CR 2023-1 ; mesures Flora of China / Hill mélangées (mégasporophylles 8-12 cm, 25-35 lobes, 12-22 paires de folioles).
   - pachypoda IT 28778 : réévaluation CR 2023-1.
   - pschannae IT 28836, andamanica IT 28451, dharmrajii IT 28567 : la Liste rouge 2022-1 (via GBIF) range pschannae, andamanica et dharmrajii sous C. sainathii s.l., VU ; WLoC donne NE.
+
+- Message La Londe (compte JMDUPUYOO, Fous de palmiers 2012) : Cycas sexseminifera, plants « 3 ans dehors sous canopée sans problème ». Exclu de la fiche FR 22025 selon la consigne ; à confirmer par le propriétaire comme observation du Jardin zoologique tropical.
+- IT à compléter (13/10/2026, nettoyage FR C6 ; détails dans les -fr-note.md) :
+  - dharmrajii IT 28567 : VU 2022 sous sainathii (Liste rouge via GBIF) ; Luthrodes pandava (Purti et al. 2022) ; revoir le critère « 9 m » (Srivastava & Singh 2015, Lindström & Hill 2007).
+  - segmentifida IT 28877 : Hill 2008 range aussi crassipes sous sexseminifera (p. 109) ; retour nantais (plantule sous tunnel et voile, −4 °C, hiver 2012-2013, sans dommage), alors que l'IT dit que Fous de palmiers n'a rien donné.
+  - siamensis IT 28898 : PROSEA ; « Silver » ; confusion avec ferruginea inversée dans l'IT (plante achetée comme siamensis puis rapprochée de ferruginea).
+- FR andamanica 21956 : Taxonomie et Maladies citent encore des ravageurs génériques ; Purti et al. 2022 (Luthrodes pandava sur pschannae) à intégrer.

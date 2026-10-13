@@ -17,3 +17,9 @@
 - Vérifications (verify.py) : URL 200 ; aucun commentaire de bloc visible ; 102 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-cycas-andamanica-fr.html`, même séquence de 10 liens ; ≈ 3 100 mots.
 - À signaler pour l'IT 28451 (non modifiée) : eFlora of India (priorité de date août/septembre 2015 qui explique le choix de *pschannae* — la fiche IT dit que les sources ne l'expliquent pas ; ancienne synonymie WLoC des **deux** noms sous *sainathii*).
 - Points douteux : protologue d'*andamanica* toujours non lu ; page eFlora mentionnant « *Cycas paramajitii* » non retrouvée ce jour ; présence aux Nicobar non précisée ; POWO non consulté.
+
+## Correction ciblée du 13/10/2026 (lot C6, à la suite de *dharmrajii*)
+
+- replace_in_content (ids [21956], dry run 4 remplacements puis application), formulation alignée sur *pschannae* 21984 : encadré « Statut UICN » et section Statut : NE selon WLoC **et** Liste rouge 2022-1 rangeant *andamanica*, *pschannae* et *dharmrajii* sous *C. sainathii* s.l., VU (GBIF API, jeu UICN du 28/07/2026, clé nub 10295162 → 199005758, VU). Sites de référence : entrée GBIF ajoutée ; Bibliographie : Singh 2022 (UICN, doi 10.2305/IUCN.UK.2022-1.RLTS.T103631608A243419871.en).
+- verify.py : texte identique au brouillon (aligné), 10 liens en 200, blocs 104/104, hreflang fr/it.
+- Non modifié (hors périmètre demandé) : section Taxonomie (ne mentionne pas la divergence UICN) et section « Maladies et ravageurs » (ravageurs génériques, alors que Purti et al. 2022 documentent *Luthrodes pandava* sur *C. pschannae*, comme dans la fiche FR *pschannae*).
