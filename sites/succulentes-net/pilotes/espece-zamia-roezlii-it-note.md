@@ -48,3 +48,11 @@
 
 ## Liens croisés (12/10/2026, fin de lot)
 - Lien ajouté vers « *Zamia skinneri* » (Tassonomia) : première occurrence hors intro/encadré/titres/fonti, replace_in_content ciblé (dry run puis application), brouillon aligné, live = brouillon vérifié.
+
+## Correzione del 17/10/2026 (lot IZ1, d'après le nettoyage FR du 13/10)
+- Choix : **corrections ciblées** (replace_in_content sur l'id 28260 : simulation 7/7, application 7/7) ; la fiche du 12/10 était déjà fondée sur les sources primaires (Flora de Colombia, Dodson 1998, protologue) ; aucune erreur factuelle relevée.
+- Sources relues ce jour : Lindstrom et al. 2024, texte intégral (copie locale `scratchpad/lind.txt` de PMC11560380 : échantillon « Colombia (Nariño) », clade VI des Andes occidentales à 12 espèces décrites, surtout arborescentes et de forêt pluviale, *roezlii* exemple d'espèce des marécages côtiers ; sous-clade *wallisii*/*oligodonta*/*montana*) ; Tropicamente relancé (mêmes messages de 2009-2011, aucune expérience de culture ; mention « Brahea roezlii » sans rapport).
+- Ajouté : Panama selon Species+ (encadré, In natura, Fonti), présenté comme divergence non reprise par WLoC ; clade VI (Lindstrom 2024) dans Tassonomia, avec le sous-groupe *wallisii*/*oligodonta*/*montana* en regard de Caputo 2004 ; marécages côtiers (Lindstrom) dans In natura ; PMC Lindstrom dans les Fonti et la Bibliografia ; date du contrôle Tropicamente.
+- Liens internes ajoutés (200) : *oligodonta*, *montana* (premières occurrences). 16 liens internes IT en 200, aucun lien FR.
+- Contrôles (verify.py) : URL 200, aucun commentaire de bloc visible, 131 blocs appariés, texte rendu identique au brouillon `espece-zamia-roezlii-it.html`, même séquence de liens ; hreflang fr/it/en conservés ; ≈ 4 170 mots.
+- SEO Rank Math inchangé (exact). Index de la page genre IT 11879 : ligne conforme (LC 2022 ; répartition WLoC), non modifiée — le Panama de Species+ n'y est pas ajouté (non retenu par WLoC).

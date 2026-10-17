@@ -236,12 +236,12 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 - (fait 13/10) Passe Lavaud terminée : articles FR/IT/EN corrigés (couttsiana = nord du Queensland) et liés aux fiches ; lien en « Leggi anche » / « À lire aussi » sur toutes les fiches IT et FR de Cycas australiens.
 - (à faire, phase ES) Article ES 23244 (méthode Simon Lavaud) : non relié aux traductions FR/IT/EN dans Polylang ; sa section « Especies probadas » présente C. ophiolitica et C. cairnsiana comme greffés avec succès, alors que les versions FR/IT/EN ne les donnent que comme candidats.
 
-- IT à compléter (13/10/2026, nettoyage FR Z4) : Zamia lacandona IT 28095 (description originale Schutzman & Vovides 1998 confirme la séparation d'avec splendens, 2n = 16/17/18, repousse après brûlis ; mesures exactes dans la fiche FR 22356) ; Zamia magnifica IT 28109 (article Pérez-Farrera et al. 2023 lu en entier : voir fiche FR 22363).
+- IT à compléter (13/10/2026, nettoyage FR Z4) : Zamia lacandona IT 28095 (description originale Schutzman & Vovides 1998 confirme la séparation d'avec splendens, 2n = 16/17/18, repousse après brûlis ; mesures exactes dans la fiche FR 22356) ; Zamia magnifica IT 28109 (article Pérez-Farrera et al. 2023 lu en entier : voir fiche FR 22363). — IT FAIT 17/10/2026 (lacandona, magnifica)
 
 - IT à compléter (13/10/2026, nettoyage FR Z5) :
-  - soconuscensis IT 28266 : altitude 900-1 400 m et NOM-059 « P » sourcées par Nicolalde-Morejón 2014 ; Lindstrom 2024 place l'espèce comme sœur des clades V-VII (et non « accanto al clade III »).
-  - pygmaea IT 28257 : la Flora de la República de Cuba 8(4) confirme le type cubain (Salisbury), donne description, habitat (sables quartzeux), usage mort-aux-rats ; ottonis traité comme espèce (aussi Lindstrom 2024, kickxii sœur de pygmaea).
-  - roezlii IT 28260 : Panama selon Species+ ; clade VI (Lindstrom 2024).
+  - soconuscensis IT 28266 : altitude 900-1 400 m et NOM-059 « P » sourcées par Nicolalde-Morejón 2014 ; Lindstrom 2024 place l'espèce comme sœur des clades V-VII (et non « accanto al clade III »). — IT FAIT 17/10/2026
+  - pygmaea IT 28257 : la Flora de la República de Cuba 8(4) confirme le type cubain (Salisbury), donne description, habitat (sables quartzeux), usage mort-aux-rats ; ottonis traité comme espèce (aussi Lindstrom 2024, kickxii sœur de pygmaea). — IT FAIT 17/10/2026
+  - roezlii IT 28260 : Panama selon Species+ ; clade VI (Lindstrom 2024). — IT FAIT 17/10/2026
   - skinneri IT 28263 : point mineur (nervation plissée, Lindstrom 2024).
 - EN à vérifier lors de la phase EN : skinneri 20387, roezlii 20467 (reprennent probablement les erreurs des anciennes fiches FR).
 
@@ -335,3 +335,5 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - gratus IT 27956 : Bayliss et al. 2010, liste UICN 1984 (Les Cèdres, Naples), UICN 2003 ; cas floridien PalmTalk non vérifiable.
   - umbeluziensis IT 27960 : Dyer 1965, liste 1984, UICN 2003, écart Species+ sur l'Afrique du Sud.
 - EN à vérifier lors de la phase EN : umbeluziensis 16978 (graines « bosselées », cônes restant verts, Mlawula, statut eswatinien 2005, Van Wyk & Claassen 1981).
+
+- FR retouches mineures (signalées 17/10/2026 lors de IZ1) : lacandona 22356 et magnifica 22363 — toxines « chez les Zamia », Aulacaspis yasumatsui et règlement (UE) 2026/1383 cités sans référence dans la fiche (ajouter les références ou les liens vers les pages qui les sourcent) ; magnifica FR — exposer aussi la contradiction de l'article sur la taille des graines (1,9-2,4 cm dans la discussion, 18,6-23,5 mm dans la description), comme l'IT 28109.
