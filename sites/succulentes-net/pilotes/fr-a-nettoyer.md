@@ -31,7 +31,7 @@ Source : pilotes/cycadales-a-verifier.md (sections « FR à nettoyer » et ajout
 ## Autres
 | Lot | Espèces |
 |---|---|
-| A1a | Microcycas calocoma 13877 |
+| A1a | Microcycas calocoma 13877 (fait 17/10/2026) |
 | A1b | Encephalartos msinganus 5596, munchii 12296, gratus 12439, umbeluziensis 12681 |
 
 Hors liste : Macrozamia serpentina 26331 — fait 17/10/2026 (accord du propriétaire : deux phrases de rusticité hypothétique retirées).
