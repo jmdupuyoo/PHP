@@ -45,3 +45,14 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26753, https://succulentes.net/cycadales/cycas/terryana/ (200 sans redirection, curl), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256 (replace_in_content, dry run puis application) ; contenu publié comparé au fichier local (texte et liens identiques, hors sommaire automatique).
+
+## Nettoyage FR du 17/10/2026 (lot C8)
+- Corrections ciblées (replace_in_content, simulation puis application, 7 remplacements) ; fiche du 03/10 déjà sourcée, aucune réécriture.
+- Sources relues ce jour : Crossref (évaluation UICN de P. Forster, datée du 19/11/2020, Liste rouge 2023-1, e.T66910064A66910102 ; DOI du protologue 10.5962/p.299813) ; GBIF 8411905 (VU). Wikipédia non utilisée.
+- Corrigés : statut UICN (« année non indiquée » → évaluation Forster 2020, publiée 2023-1) dans l'encadré et la section Conservation ; conseil de culture en pot présenté comme déduit de l'habitat, non comme résultat d'essai.
+- Ajoutés : JZT (aucune observation publiée), GBIF dans les Sites de référence, référence Liste rouge et DOI du protologue en Bibliographie.
+- Origine hybride : la fiche reste conforme (hypothèse de Hill 1992/1996 attribuée, réfutée par Forster 2011 ; aucune étude génétique) ; aucune affirmation non sourcée.
+- Article Simon Lavaud : déjà dans « À lire aussi » seulement, avec la mention que l'article ne cite pas *terryana* ; inchangé.
+- SEO : titre « Cycas terryana : cycas vulnérable du Queensland central » (55 car., remplace « cycas du Broadsound », qui ressemblait à un nom commun non attesté) ; meta inchangée (132).
+- Contrôles : verify.py texte identique au brouillon, 8 liens internes en 200, page 200, aucun commentaire de bloc visible, blocs 95/95, hreflang fr + it.
+- Index de la page genre 1256 : « Australie (Queensland) ; vulnérable (VU, année non indiquée) » → « Australie (centre-est du Queensland : chaînons de Broadsound et de Connors) ; vulnérable (VU, 2023) ».

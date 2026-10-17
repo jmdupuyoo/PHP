@@ -50,3 +50,13 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26757, https://succulentes.net/cycadales/cycas/vespertilio/ (200 sans redirection, curl), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256 (replace_in_content, dry run puis application) ; contenu publié comparé au fichier local (texte et liens identiques, hors sommaire automatique).
+
+## Nettoyage FR du 17/10/2026 (lot C8)
+- Corrections ciblées (replace_in_content, simulation puis application, 6 remplacements) ; fiche du 03/10 déjà sourcée, aucune réécriture.
+- Sources relues ce jour : Crossref (évaluation UICN d'A. Lindström et L. Stanberg, datée du 15/10/2020, Liste rouge 2023-1, e.T187823A1827625) ; GBIF 3594975 (VU) ; résumé de Ragasa et al. 2015 (OpenAlex : lignanes, stérols, esters d'acides gras ; ni cycasine ni BMAA). Wikipédia non utilisée.
+- Corrigés : statut UICN (« année non indiquée » → Lindström & Stanberg 2020, publiée 2023-1) dans l'encadré et la section Conservation.
+- Ajoutés : phrase Ragasa 2015 en Toxicité (présentée comme ne disant rien de la toxicité), homonymes des forums (*Erythrina vespertilio*, *Christia vespertilionis*), JZT (aucune observation publiée), GBIF dans les Sites de référence, références Liste rouge 2023-1 et Ragasa 2015 en Bibliographie.
+- Espèce des Philippines : pas d'article Simon Lavaud (consigne réservée aux Cycas australiens).
+- SEO : titre « Cycas vespertilio : le cycas aux mégasporophylles ailés » (au lieu de « le cycas chauve-souris », nom français non attesté) ; meta inchangée (125).
+- Contrôles : verify.py texte identique au brouillon, 14 liens internes en 200, page 200, aucun commentaire de bloc visible, blocs 98/98, hreflang fr + it.
+- Index de la page genre 1256 : « Philippines ; vulnérable (VU, année non indiquée) » → « Philippines (Visayas et sud de Luçon, aussi Mindoro et Marinduque) ; vulnérable (VU, 2023) ».

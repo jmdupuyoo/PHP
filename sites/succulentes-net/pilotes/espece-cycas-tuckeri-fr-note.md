@@ -48,3 +48,14 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26755, https://succulentes.net/cycadales/cycas/tuckeri/ (200 sans redirection, curl), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256 (replace_in_content, dry run puis application) ; contenu publié comparé au fichier local (texte et liens identiques, hors sommaire automatique). Liens croisés ajoutés après publication (replace_in_content) vers yorkiana, xipholepis et semota.
+
+## Nettoyage FR du 17/10/2026 (lot C8)
+- Corrections ciblées (replace_in_content, simulation puis application, 6 remplacements) ; fiche du 03/10 déjà sourcée, aucune réécriture.
+- Sources relues ce jour : Crossref (réévaluation UICN de J.D. Bösenberg, datée du 17/09/2020, Liste rouge 2023-1, e.T41976A69828135) ; GBIF 2683268 (VU). Wikipédia non utilisée.
+- Corrigés : statut UICN (Hill 2010 seul → Bösenberg 2020/2023-1 ajouté, Hill 2010 et Flora « 2022 » conservés) dans l'encadré et la section Conservation ; FAQ rusticité (« son aire ne connaît pas le gel », non sourcé → absence de donnée, prudence hors gel).
+- Ajoutés : précision sur les résultats FDP (tous des palmiers *tuckeri*), JZT (aucune observation publiée), GBIF dans les Sites de référence, référence Bösenberg 2023 en Bibliographie.
+- Article Simon Lavaud : déjà dans « À lire aussi » seulement, avec la mention que l'article ne cite pas *tuckeri* ; inchangé.
+- SEO : titre « Cycas tuckeri : cycas rare du district de Coen (Queensland) » (59 car., au lieu de 46) ; meta inchangée (143).
+- Contrôles : verify.py texte identique au brouillon, 11 liens internes en 200, page 200, aucun commentaire de bloc visible, blocs 98/98, hreflang fr + it.
+- Index de la page genre 1256 : « Australie (Queensland) ; vulnérable (VU, 2010) » → « Australie (Queensland : une population dans le district de Coen, péninsule du cap York) ; vulnérable (VU, 2023) ».
+- Point douteux maintenu : Flora of Australia « 2022 » (sans doute l'inscription au Queensland) à côté de Bösenberg 2020/2023-1.
