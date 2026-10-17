@@ -25,7 +25,7 @@ Source : pilotes/cycadales-a-verifier.md (sections « FR à nettoyer » et ajout
 | C6 | dharmrajii 26651 (fait 13/10/2026), segmentifida 22059 (fait 13/10/2026), siamensis 22080 (fait 13/10/2026), simplicipinna 21897 (fait 13/10/2026), sexseminifera 22025 (fait 13/10/2026) |
 | C7 | szechuanensis 21937 (fait 13/10/2026), taiwaniana 21905 (fait 17/10/2026), tanqingii 21944 (fait 17/10/2026), tropophylla 22019 (fait 17/10/2026), zeylanica 21995 (fait 17/10/2026) |
 | C8 | terryana 26753 (fait 17/10/2026), tuckeri 26755 (fait 17/10/2026), vespertilio 26757 (fait 17/10/2026), media 14336 (fait 17/10/2026), calcicola 21857 (fait 17/10/2026) |
-| C9a | lindstromii 26158, macrocarpa 26696, lane-poolei 26681 (Armstrongianosae), ophiolitica 26715, orientis 26700 |
+| C9a | lindstromii 26158 (fait 17/10/2026), macrocarpa 26696 (fait 17/10/2026), lane-poolei 26681 (Armstrongianosae) (fait 17/10/2026), ophiolitica 26715 (fait 17/10/2026), orientis 26700 (fait 17/10/2026) |
 | C9b | papuana 26712 (PACSOA), schumanniana 26734, scratchleyana 26736 (écart Species+) |
 
 ## Autres

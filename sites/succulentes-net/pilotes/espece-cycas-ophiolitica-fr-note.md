@@ -56,3 +56,15 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 1. **Statut UICN** : WLoC cite Forster 2010 ; Crossref montre une évaluation Bösenberg 2023 (VU), la FoA indique « VU 2022 ». La fiche donne VU, évaluation 2023. La page genre (1256) indique « VU, 2010 » : à harmoniser si vous le souhaitez.
 2. Divergence protologue (folioles plates) / FoA (marges recourbées) et hauteur (4 m contre 7 m) : exposée dans la fiche.
 3. Rusticité : seules des indications commerciales contradictoires (PACSOA « frost tolerant » / Top Tropicals « frost sensitive », zones 9-10) ; aucune valeur mesurée.
+
+## Nettoyage FR du 17/10/2026 (lot C9a)
+- Corrections ciblées (10 remplacements, replace_in_content dry run puis application) sur la fiche en ligne 26715 (fiche du 03/10, déjà sourcée ; note IT : aucune affirmation FR écartée, PACSOA à corriger).
+- Sources relues ce jour : PDF de Simon Lavaud 2021 (cycadales.eu, téléchargé, identique à la copie locale) : *C. ophiolitica* dans la classe « Moyenne » avec *media*, *megacarpa*, *silvestris*, « (tolère des conditions un peu plus fraiches) » ; conseils généraux (substrat minéral, plein soleil, arrosage réduit < 20 °C, arrêt possible si nuits < 10 °C, pourriture si arrosage au frais) ; article FR 16529 du site (ophiolitica citée parmi les cycas bleus qui dépérissent et parmi les « candidats logiques pour de futurs essais » : **aucun greffage réussi**, la fiche ne prétend rien d'autre) ; PACSOA (nouvelle adresse, texte de L.P. Butt repris de *Palms & Cycads* 27, 1990) ; Tropicamente #50676 (22/02/2013, relu) ; de Laubenfels & Adema 1998 p. 363 (synonymie sous *angulata*) ; article *Aulacaspis* 14141 du site (OEPP : seulement interceptée en France). Wikipédia non utilisée.
+- Corrigés : zones USDA 9-10 = −7 à +4 °C (et non −7 à −1 °C) ; *Aulacaspis* « absente de France » → interceptée seulement (OEPP) ; adresse PACSOA ; Tropicamente daté et complété (froid plutôt qu'humidité, *media* seul adaptable) ; Blumea « non consulté » → consulté.
+- Ajoutés : classement de Lavaud 2021 (Culture, Rusticité, FAQ, Sites de référence), lien *silvestris* (200) ; JZT : aucune observation publiée.
+- Retiré : « En pot, un substrat minéral très drainant… sont donc de rigueur » (déduction) → remplacé par les conseils attribués à Lavaud.
+- Lavaud (blog) : toujours uniquement dans « À lire aussi » ; texte de présentation exact (candidat à des essais, aucun résultat).
+- SEO : titre 46 → 52 car. (« Cycas ophiolitica : le cycas bleu 'Marlborough Blue' ») ; meta inchangée (136).
+- Contrôles : verify.py texte identique au rendu, 16 liens, URL 200, aucun commentaire visible, blocs 103/103, hreflang FR/IT conservés, liens internes 200.
+- Index genre 1256 : « Australie (Queensland) » → « Australie (centre-est du Queensland, région de Marlborough et de Rockhampton) » ; (VU, 2023) conforme.
+- À signaler pour l'IT 28751 : même erreur USDA (« da −7 a −1 °C ») ; classement de Lavaud 2021 absent ; Tropicamente déjà daté en IT.

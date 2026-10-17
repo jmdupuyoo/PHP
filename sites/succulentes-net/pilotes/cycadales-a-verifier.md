@@ -315,3 +315,10 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 
 - PRIORITAIRE (17/10/2026, nettoyage FR C8) : Cycas media IT 14337 (et EN 16423) reprennent les erreurs de l'ancienne FR : aire (Nouvelle-Guinée, Territoire du Nord, Australie-Occidentale — faux, est du Queensland seulement), tronc 30-60 cm (Hill : 10-18 cm), −2/−3 °C et USDA 9b attribués à Lavaud (absents de son PDF), Investigator, Cheetup, Theclinesthes ; IT : « PACSOA frost tolerant » absent de la page PACSOA. Réécrire d'après la FR 14336 du 17/10 (Hill 1992/1996, Flora of Australia, WLoC 159-161, Bösenberg 2023-1, PDF Lavaud, retour Concarneau).
 - calcicola IT 28499 : PDF Lavaud 2021 consultable (cycadales.eu/wp-content/uploads/2021/04/Bases-de-la-culture-des-Cycas-australiens.pdf) ; mise en garde du forum = C. siamensis vendus sous les noms pruinosa et calcicola ; isotypes BRI, CANB, K, L, PERTH ; page genre IT 11549 encore « VU, 2022 » (Nagalingum & Clugston, évaluation 2021 publiée en 2023-1).
+
+- IT à compléter (17/10/2026, nettoyage FR C9a ; détails dans les -fr-note.md) :
+  - lindstromii IT 28680 : évaluation UICN Nguyen 2010 sourcée par Wikipédia EN seule (à dire ou retirer) ; description de Laubenfels & Adema 1998.
+  - lane-poolei IT 28669 : section Cycas, sous-section Endemicae, série Armstrongianosae (Hill 1996) ; de Laubenfels & Adema lui rattachent conferta, canalis, xipholepis ; constat de l'article de greffage dans le corps et la FAQ → remplacer par le PDF Lavaud 2021.
+  - ophiolitica IT 28751 : zones USDA 9-10 = environ −7 à +4 °C (et non −7 à −1 °C) ; classement Lavaud 2021 (difficulté moyenne).
+  - orientis IT 28762 : Lavaud 2021.
+  - Index page genre IT 11549 : répartitions moins précises qu'en FR ; macrocarpa sans la réserve sur le Laos (Averyanov et al. 2014).

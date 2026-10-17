@@ -43,3 +43,13 @@
 2. Raison du rejet d'*Epicycas* non trouvée.
 3. Encadré : exposition, substrat, dimensions, rusticité, noms communs non documentés.
 4. Aucune donnée nationale française.
+
+## Nettoyage FR du 17/10/2026 (lot C9a)
+- Corrections ciblées (12 remplacements, replace_in_content dry run puis application) sur la fiche en ligne 26158. Fiche du 02/10 déjà sourcée : aucune erreur factuelle relevée, seulement des lacunes (cf. cycadales-a-verifier.md, ajout du 12/10 : « compléments à reporter en FR »).
+- Source primaire lue ce jour : de Laubenfels & Adema 1998, *Blumea* 43 : 351-400, texte intégral (scratchpad `cyq/blumea-0006-5196-43-351-400.txt`) : p. 353 (caractères d'*Epicycas*, « Otherwise, the two genera are not different »), clé (bulbe ramifié, pas de tronc aérien), p. 395 (description, isotypes NSW et S, « Sandy grassland and open woodland at low elevation », différences avec *siamensis*). Wikipédia non utilisée.
+- Ajouts : habitat (intro, encadré, Dans la nature, FAQ) ; encadré Port et dimensions (bulbe 13-25 cm, feuilles 50-78 cm) ; description détaillée en liste dans « Comment reconnaître » ; caractères d'*Epicycas* dans Taxonomie ; isotype de Stockholm (S) ; JZT : aucune observation publiée (Rusticité en France) ; Bibliographie Blumea « texte intégral consulté ».
+- Nuancés : Culture (« en France, la culture se fait en serre ») → option prudente faute de donnée ; substrat drainant présenté comme déduit du milieu naturel ; FAQ rusticité.
+- Non repris : évaluation UICN 2010 de H.T. Nguyen (présente dans l'IT 28680, source : Wikipédia EN selon la note IT ; Liste rouge non consultable).
+- SEO : titre inchangé (55) ; meta modifiée (143, « description, habitat »).
+- Contrôles : verify.py texte identique au rendu, 12 liens, URL 200, aucun commentaire visible, blocs 88/88, hreflang FR/EN/IT conservés, liens internes 200.
+- Index genre 1256 : « Vietnam » → « Vietnam (côte sud, de Khanh Hoa à Ba Ria-Vung Tau) » ; (EN, 2022) conforme.

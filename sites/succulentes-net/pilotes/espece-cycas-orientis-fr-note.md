@@ -46,3 +46,14 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Points à valider par le propriétaire
 1. Aucun nom aborigène trouvé pour l'espèce (terres yolngu) ; à compléter si une source ethnobotanique est connue.
+
+## Nettoyage FR du 17/10/2026 (lot C9a)
+- Corrections ciblées (7 remplacements, replace_in_content dry run puis application) sur la fiche en ligne 26700 (fiche du 03/10, déjà sourcée ; note IT : aucune affirmation FR écartée, adresse PACSOA à corriger).
+- Sources relues ce jour : PDF de Simon Lavaud 2021 (« Très difficiles : Toutes les espèces du Territoire du Nord sauf C. angulata » ; espèces du TN « les plus difficiles », capricieuses même sur la Sunshine Coast ; prospèrent à Nong Nooch ; conseils généraux) — ne nomme pas *orientis*, dit tel quel ; article FR 16529 (ne cite pas l'espèce) ; Hill 1996 (statut, feux, p. 32-33, relu) ; PACSOA (nouvelle adresse, texte de K.D. Hill 1994) ; de Laubenfels & Adema 1998 p. 363 (synonymie sous *angulata*). Wikipédia non utilisée.
+- Corrigés / nuancés : Rusticité et FAQ (« ne connaît pas le gel », non sourcé) → climat de mousson à deux saisons chaudes (PACSOA), aucune donnée de gel ; conseils de serre (« substrat sableux, saison plus sèche ») présentés comme option prudente et remplacés par les conseils attribués à Lavaud ; adresse PACSOA ; Blumea « non consulté » → consulté.
+- Ajoutés : Lavaud 2021 (Culture, FAQ, Sites de référence) ; JZT : aucune observation publiée.
+- Lavaud (blog) : uniquement dans « À lire aussi » (présentation inchangée : l'article ne cite pas l'espèce).
+- SEO inchangé (titre 52, meta 132).
+- Contrôles : verify.py texte identique au rendu, 11 liens, URL 200, aucun commentaire visible, blocs 95/95, hreflang FR/IT conservés, liens internes 200.
+- Index genre 1256 : « Australie (Territoire du Nord) ; … (LC, 2020) » → « Australie (Territoire du Nord, est de la terre d’Arnhem) ; … (LC, 2022) » (année de publication dans la Liste rouge 2022-1, convention des lots précédents ; évaluation de Bösenberg datée de 2020).
+- À signaler pour l'IT 28762 : Lavaud 2021 absent ; page genre IT 11549 à vérifier pour l'année UICN (2020/2022).

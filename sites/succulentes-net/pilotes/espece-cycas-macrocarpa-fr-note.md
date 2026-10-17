@@ -53,3 +53,13 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26696, https://succulentes.net/cycadales/cycas/macrocarpa/ (200 sans redirection, curl et fetch_site_url), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256 (replace_in_content, dry run puis application) ; contenu publié comparé au fichier local (texte et liens identiques).
+
+## Nettoyage FR du 17/10/2026 (lot C9a)
+- Corrections ciblées (14 remplacements, replace_in_content dry run puis application) sur la fiche en ligne 26696. Fiche du 03/10 déjà sourcée ; lacune signalée par la note IT (Laos cité d'après WLoC seulement).
+- Source primaire lue ce jour : Averyanov et al. 2014, *Gymnosperms of Laos* (version Early View, Rufford, texte intégral ; `scratchpad/gymlaos.txt`, p. 19-20 et clé) : récoltes LA-VN 350, 353, 462 (13-15/03/2013, Vang Vieng, 300-900 m), description, écologie (lithophyte sur calcaire, 300-1000 m, mi-ombre humide), régénération, « easily cultivated », sous-populations assez grandes, doute des auteurs sur la présence d'une espèce « malaise » en Indochine du Nord, VU national recommandé (A2c), hévéas (d'après Hill & Yang 1999), pollinisation juin-juillet / graines février-mars. Lien Rufford vérifié (200, PDF). Wikipédia non utilisée.
+- Ajouts : intro (« signalé aussi au Laos ») ; encadré (Laos, présence douteuse ; calcaire 300-1000 m) ; description du Laos et clé ; paragraphe Laos dans « Dans la nature » ; statut national proposé au Laos ; Culture (« facile à cultiver » au Laos) ; phénologie ; JZT : aucune observation ; FAQ ; Bibliographie et Sites de référence.
+- Corrigés / nuancés : « Les plantes de Penang dépassent les longueurs publiées » attribué à Liew & Chacko et confronté à Averyanov (feuilles 3,2 m, 120 paires) ; conseils de serre présentés comme déduits du milieu ; Rusticité : « climat tropical humide sans gel » (non sourcé) remplacé par l'aire documentée et l'absence de donnée.
+- Point douteux maintenu : présence au Laos (WLoC la retient ; ses découvreurs la jugent douteuse) ; hauteur 9 / 12 m ; « pakoo galowe ».
+- SEO inchangé (titre 58, meta 142, déjà conformes).
+- Contrôles : verify.py texte identique au rendu, 14 liens, URL 200, aucun commentaire visible, blocs 109/109, hreflang FR/IT conservés, liens internes 200.
+- Index genre 1256 : « Laos, Malaisie, Thaïlande » → « Malaisie péninsulaire, Thaïlande, Laos (présence à confirmer selon ses découvreurs) » ; (VU, 2023) conforme.
