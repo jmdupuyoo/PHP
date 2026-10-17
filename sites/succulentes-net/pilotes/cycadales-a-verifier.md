@@ -328,3 +328,10 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - schumanniana IT 28865 : UICN Bösenberg 2020 (Liste rouge 2023-1, NT) ; Lindström et al. 2009 (absente d'Indonésie) ; date 1901 chez de Laubenfels & Adema.
   - scratchleyana IT 28869 : UICN Bösenberg 2020 (2023-1, LC) ; tronc 12-20 cm ; tolérance à l'ombre = site commercial de grainetier ; serre et rusticité = déductions.
 - FR papuana 26712 (mineur) : Species+ ne cite pas non plus l'Australie ; à ajouter à « présence à confirmer ».
+
+- IT à compléter (17/10/2026, nettoyage FR A1b ; détails dans les -fr-note.md) :
+  - msinganus IT 27851 : avis SANBI (NDF 2015), nom « Msinga cycad », avis négatif UE 2013, date du type ; données PlantZAfrica et conseils de culture repris de l'ancienne FR non vérifiés.
+  - munchii IT 27853 : fiche Kew Mount Zembe (2026), UICN 2003 (17 plantes), retour Agen −4 °C.
+  - gratus IT 27956 : Bayliss et al. 2010, liste UICN 1984 (Les Cèdres, Naples), UICN 2003 ; cas floridien PalmTalk non vérifiable.
+  - umbeluziensis IT 27960 : Dyer 1965, liste 1984, UICN 2003, écart Species+ sur l'Afrique du Sud.
+- EN à vérifier lors de la phase EN : umbeluziensis 16978 (graines « bosselées », cônes restant verts, Mlawula, statut eswatinien 2005, Van Wyk & Claassen 1981).
