@@ -14,3 +14,6 @@
 - Index genre 1256 : « préoccupation mineure (LC, 2010) » → « (LC, 2023) » (dry run 1 puis application) ; répartition et section inchangées.
 - Points douteux : protologue (Wei 1996) et Hill et al. 2004 non lus ; Xi et al. 2025 en résumé seulement ; critères de l'évaluation 2020 inconnus ; rattachement de *acuminatissima* et *crassipes* divergent.
 - **À signaler pour l'IT 28889 (non modifiée)** : rien de nouveau de fond ; le résumé de Xi et al. 2025 compte *ferruginea* parmi les six taxons du complexe (l'IT le dit implicitement).
+
+## Correction du 17/10/2026
+- Paragraphe sur C. tropophylla : la remarque « carénées en V » / « cycas de la baie d'Ha Long » non confirmés est remplacée par le caractère confirmé (feuilles nettement carénées, Haynes 2022 repris par WLoC) ; Ha Long et Cát Bà sont bien l'aire de tropophylla (fiche FR 22019 du 17/10).

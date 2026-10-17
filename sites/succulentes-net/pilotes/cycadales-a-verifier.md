@@ -307,3 +307,8 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 - Cycas sexseminifera, message La Londe 2012 (« 3 ans dehors sous canopée ») : le propriétaire n'est pas certain → non utilisé ; reste exclu de la fiche FR 22025.
 - Cycas chevalieri EN 18748 (corbeille) : à restaurer et réécrire lors de la phase EN.
 - Macrozamia serpentina FR 26331 : deux phrases de rusticité hypothétique retirées (fait le 17/10).
+
+- IT à compléter (17/10/2026, nettoyage FR C7 ; détails dans les -fr-note.md) :
+  - taiwaniana IT 28960 : la Flora of China transcrit 台湾苏铁 « guang dong su tie » (l'IT écrit « tai wan su tie ») ; Wu 2022 (population cultivée du Fujian moins diverse, pollinisation manuelle recommandée) ; Tao 2021 associe aussi szechuanensis aux signaux d'hybridation ; retour Côte Bleue 2010-2011 (identité discutée).
+  - tanqingii IT 28970 : Hill 2008 (aire ≈ 100 km², réduction d'habitat < 20 %) ; Zheng 2025 / Xi et al. 2022 (bassin du Xiaoheijiang seul) ; Li 2025 (statut modélisé VU → EN avec ravageurs).
+  - zeylanica IT 29032 : la Liste rouge évalue sainathii à part (VU 2022).
