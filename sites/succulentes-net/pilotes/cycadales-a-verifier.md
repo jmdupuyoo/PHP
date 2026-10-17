@@ -302,3 +302,8 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - segmentifida IT 28877 : Hill 2008 range aussi crassipes sous sexseminifera (p. 109) ; retour nantais (plantule sous tunnel et voile, −4 °C, hiver 2012-2013, sans dommage), alors que l'IT dit que Fous de palmiers n'a rien donné.
   - siamensis IT 28898 : PROSEA ; « Silver » ; confusion avec ferruginea inversée dans l'IT (plante achetée comme siamensis puis rapprochée de ferruginea).
 - FR andamanica 21956 : Taxonomie et Maladies citent encore des ravageurs génériques ; Purti et al. 2022 (Luthrodes pandava sur pschannae) à intégrer.
+
+## Réponses du propriétaire (17/10/2026)
+- Cycas sexseminifera, message La Londe 2012 (« 3 ans dehors sous canopée ») : le propriétaire n'est pas certain → non utilisé ; reste exclu de la fiche FR 22025.
+- Cycas chevalieri EN 18748 (corbeille) : à restaurer et réécrire lors de la phase EN.
+- Macrozamia serpentina FR 26331 : deux phrases de rusticité hypothétique retirées (fait le 17/10).

@@ -63,3 +63,6 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : tirets typographiques de WordPress et widgets du thème).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application, 6 liens en un appel pour les six fiches du lot).
+
+## Correction du 17/10/2026
+- Sur accord du propriétaire, retrait des deux phrases de rusticité hypothétique (Culture > Climat ; Repères internationaux). Remplacées par « aucune donnée sur sa résistance au froid n'a été trouvée » et « Sa rusticité reste inconnue. »

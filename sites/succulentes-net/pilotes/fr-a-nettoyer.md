@@ -23,7 +23,7 @@ Source : pilotes/cycadales-a-verifier.md (sections « FR à nettoyer » et ajout
 | C4 | hongheensis 21975 (fait 13/10/2026), hainanensis 21912 (fait 13/10/2026), glauca 26684 (fait 13/10/2026), laotica 22052 (fait 13/10/2026), lingshuigensis 21921 (fait 13/10/2026) |
 | C5 | maconochiei 26682 (fait 13/10/2026), multipinnata 16437 (fait 13/10/2026), petraea 26719 (fait 13/10/2026), pachypoda 22073 (fait 13/10/2026), pschannae 21984 (fait 13/10/2026) |
 | C6 | dharmrajii 26651 (fait 13/10/2026), segmentifida 22059 (fait 13/10/2026), siamensis 22080 (fait 13/10/2026), simplicipinna 21897 (fait 13/10/2026), sexseminifera 22025 (fait 13/10/2026) |
-| C7 | szechuanensis 21937 (fait 13/10/2026), taiwaniana 21905, tanqingii 21944, tropophylla 22019, zeylanica 21995 |
+| C7 | szechuanensis 21937 (fait 13/10/2026), taiwaniana 21905 (fait 17/10/2026), tanqingii 21944 (fait 17/10/2026), tropophylla 22019 (fait 17/10/2026), zeylanica 21995 (fait 17/10/2026) |
 | C8 | terryana 26753, tuckeri 26755, vespertilio 26757, media 14336, calcicola 21857 |
 | C9 | lindstromii 26158, macrocarpa 26696, lane-poolei 26681 (Armstrongianosae), ophiolitica 26715, orientis 26700, papuana 26712 (PACSOA) , schumanniana 26734, scratchleyana 26736 (écart Species+) |
 
@@ -32,7 +32,7 @@ Source : pilotes/cycadales-a-verifier.md (sections « FR à nettoyer » et ajout
 |---|---|
 | A1 | Microcycas calocoma 13877 ; Encephalartos msinganus 5596, munchii 12296, gratus 12439, umbeluziensis 12681 |
 
-Hors liste : Macrozamia serpentina (question au propriétaire sur deux phrases de rusticité hypothétique, sans réponse).
+Hors liste : Macrozamia serpentina 26331 — fait 17/10/2026 (accord du propriétaire : deux phrases de rusticité hypothétique retirées).
 
 
 ## Après les lots Cycas
