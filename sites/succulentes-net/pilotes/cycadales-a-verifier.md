@@ -250,13 +250,13 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - vazquezii IT 28383 : nord Veracruz, 2 localités, ≤ 50 plantes, menaces, évaluation corrigée 2023 e.T42120A243413573 (Gómez Díaz 2025) ; 40-350 m, NOM-059 « P » (2014). — IT FAIT 17/10/2026
   - wallisii IT 28386 : sous-groupe avec oligodonta et montana (Lindstrom 2024). — IT FAIT 17/10/2026
   - tuerckheimii IT 28389 : forêt sempervirente, rapprochement soconuscensis/inermis (2011) ; clade III (Lindstrom 2024). — IT FAIT 17/10/2026
-  - variegata IT 28395 : 80-150 m au Chiapas, NOM-059 « Pr » (2014) ; sous-clade III-A avec prasina (Lindstrom 2024).
+  - variegata IT 28395 : 80-150 m au Chiapas, NOM-059 « Pr » (2014) ; sous-clade III-A avec prasina (Lindstrom 2024). — IT FAIT 17/10/2026
 
 - IT à compléter (13/10/2026, nettoyage FR Z7 ; détails dans les -fr-note.md) :
-  - ulei IT 28392 : protologue lu (Verh. Bot. Vereins Prov. Brandenburg 48 : 117-118, folioles ≈ 50 × 6 cm) ; Lindstrom 2024 (paire ulei/amazonum, clade VII) ; titre Segalla et al. 2023 à aligner sur Crossref (« from Acre, Brazil »).
-  - stricta IT 28370 : Flora de la República de Cuba 8(4) (description, milieu, clé, noms locaux, holotype cubain).
-  - poeppigiana IT 28188 : Calonje et al. 2011 et protologue (Flora Brasiliensis 4(1) : 414-416) lus.
-  - portoricensis IT 28190 : protologue Urban 1899 lu (pétiole inerme, 20-24 paires de folioles de 13-16 cm × 5 mm…) ; recrutement très limité dans la plupart des populations (Lazcano-Lara & Ackerman 2018, d'après une thèse de 2015) ; CR < 500 plantes en 2003. [Numéro Index Seminum corrigé le 13/10 : n. 1495 (et non NAP 1720, qui est Z. inermis), « campioni di foglie » retiré.]
+  - ulei IT 28392 : protologue lu (Verh. Bot. Vereins Prov. Brandenburg 48 : 117-118, folioles ≈ 50 × 6 cm) ; Lindstrom 2024 (paire ulei/amazonum, clade VII) ; titre Segalla et al. 2023 à aligner sur Crossref (« from Acre, Brazil »). — IT FAIT 17/10/2026
+  - stricta IT 28370 : Flora de la República de Cuba 8(4) (description, milieu, clé, noms locaux, holotype cubain). — IT FAIT 17/10/2026
+  - poeppigiana IT 28188 : Calonje et al. 2011 et protologue (Flora Brasiliensis 4(1) : 414-416) lus. — IT FAIT 17/10/2026
+  - portoricensis IT 28190 : protologue Urban 1899 lu (pétiole inerme, 20-24 paires de folioles de 13-16 cm × 5 mm…) ; recrutement très limité dans la plupart des populations (Lazcano-Lara & Ackerman 2018, d'après une thèse de 2015) ; CR < 500 plantes en 2003. [Numéro Index Seminum corrigé le 13/10 : n. 1495 (et non NAP 1720, qui est Z. inermis), « campioni di foglie » retiré.] — IT FAIT 17/10/2026
   - prasina IT 28184 : Nicolalde-Morejón 2014 et 2024, Lindstrom 2024, UICN 2003, Fedick & Santiago 2022.
 
 - IT à compléter (13/10/2026, nettoyage FR Z8) : pumila IT 28196 — protologue et planche de Commelin lus ; Flora de Cuba (description chiffrée, répartition orientale sur serpentine) ; Eckenwalder 1980 et Hortus Kewensis (origine de la confusion avec integrifolia) ; plan UICN 2003 (NT, 5 000-10 000 plantes, présumée éteinte à Porto Rico) ; Ornduff 1987 ; Pagán-Jiménez 2013 (pente ≈ 45° pour le 1er groupe ; petit groupe de jeunes plantes près d'une femelle : l'IT généralise « nessuna plantula ») ; Abbad y Lasierra (intoxications). Détails dans espece-zamia-pumila-fr-note.md.
@@ -340,3 +340,5 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 
 ## Espèces acceptées sans fiche (contrôle WLoC du 17/10/2026)
 WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site en FR ET en IT : Ceratozamia fuscoviridis, Zamia elegantissima, Zamia nana, Zamia obliqua, Zamia pseudomonticola. À créer (FR puis IT) après la passe IT ; elles sont déjà citées sans lien dans plusieurs fiches (imperialis, skinneri, wallisii, ulei, stevensonii, acuminata, reesii…), à lier ensuite.
+- FR portoricensis 21767 (mineur) : mettre en regard le plan UICN 2003 (deux localités, ni graines ni pollinisateur observés en dix ans) et les travaux de 2008 et 2018 (comme l'IT 28190 du 17/10).
+- Zamia ottonis et Z. kickxii : pas de page IT ni FR (ottonis synonyme de pygmaea pour WLoC, kickxii à vérifier dans WLoC).

@@ -40,3 +40,14 @@
 
 ## Liens de fin de lot (12/10/2026)
 - Liens entrants : decumbens 28037, prasina 28184, standleyi 28239, stenophyllidia 28243, tuerckheimii 28389.
+
+## Correzione del 17/10/2026 (lot IZ3)
+
+- Comparaison avec la FR 21795 réécrite le 13/10 (paragraphe « À signaler pour l'IT »). Aucune erreur factuelle dans l'IT du 12/10 ; quatre phrases devenues inexactes : « habitat non descritto », « tipo di foresta non descritto », « posizione negli alberi molecolari non precisabile », « fonti che non descrivono l'habitat » (Coltivazione).
+- Corrections ciblées (replace_in_content ids=[28395], simulation 11/11 puis application 11/11).
+- Sources relues ce jour (copies locales) : Nicolalde-Morejón et al. 2014 (Cuadro 1 : « Z. variegata Warsz. México, Guatemala M: Chiapas 80-150 Pr GM ») ; Nicolalde-Morejón et al. 2011 (Cuadro 1 : Guatemala, México, G: Alta Verapaz, Izabal, BTP = bosque tropical perennifolio sensu Rzedowski 1978 ; zone Alta Verapaz-Izabal-nord du Honduras, 7 espèces dont *variegata*, 25 °C, 3 000-4 000 mm ; « folíolos variegados por el haz, atributo único dentro del género ») ; Lindstrom et al. 2024 (deux accessions, Toledo et Alta Verapaz ; « Z. variegata/Z. prasina from Southeastern Mexico and extending their distribution into Belize and Guatemala, as seen in subclade III-A rather than with the Southern Mega-Mexico clade » ; sous-clade III-A « all hypogeous with rather uniform morphological characters »). Tropicamente revérifié (recherches « zamia variegata » et « zamia picta ») : rien de nouveau (les autres résultats concernent des *Cycas revoluta* « variegata », *Alpinia*, *Rhapis*).
+- Ajouts : encadré (80-150 m au Chiapas ; NOM-059 « Pr » ; forêt tropicale sempervirente) ; Tassonomia (Lindstrom 2024, sous-clade III-A avec *prasina*) ; In natura (2014 : 80-150 m, région du golfe du Mexique ; nouveau paragraphe 2011 : forêt sempervirente, zone de diversité et climat) ; Stato di conservazione (NOM-059 « Pr ») ; Coltivazione (divergence exposée : habitat très pluvieux d'après 2011 / groupe de Lavaud issu surtout de climats à saison sèche ; aucune conséquence tirée) ; FAQ « Dove vive? » et « È minacciata? » ; Fonti (RMB 2014, RMB 2011, PMC Lindstrom) ; Bibliografia (2014, 2011, Lindstrom 2024).
+- Non repris de la FR : paragraphe sur l'ancienne version FR (*muricata*, Honduras, Petén, *Eumaeus toxea*), propre à l'historique de la page FR.
+- Encadré : statut inchangé (EN, 2022). SEO inchangé. Index de la page genre IT 11879 : ligne conforme (non modifiée).
+- Contrôles (verify.py) : texte en ligne identique au brouillon, 13 liens identiques, liens internes IT en 200, URL 200, aucun commentaire de bloc visible, 125/125 blocs, hreflang fr/it. ≈ 3 480 mots.
+- Points douteux inchangés : aucune description chiffrée (Nicolalde-Morejón 2009 payant, protologue non lu) ; Liste rouge et POWO non consultés.

@@ -37,3 +37,16 @@
 
 ## Liens de fin de lot (12/10/2026)
 - Liens entrants : amazonum 28006, boliviana 28014, brasiliensis 28017, incognita 28024 (synonyme *Z. cupatiensis*), lecointei 28117, lindosensis 28150.
+
+## Correzione del 17/10/2026 (lot IZ3)
+
+- Comparaison avec la FR 22288 réécrite le 13/10 (paragraphe « À signaler pour l'IT » et complément Lindstrom).
+- Corrections ciblées (replace_in_content ids=[28392], simulation 17/17 puis application 17/17).
+- Erreur corrigée : superlatif « la più diffusa delle Zamia amazzoniche a fusto sotterraneo » (intro et In natura), non sourcé (retiré de la FR) → « largamente diffusa nel bacino amazzonico » (Segalla & Calonje 2019 : « broadly distributed in the Amazon basin »). Bibliographie : titre de Segalla, Pimenta & Calonje 2023 corrigé d'après Crossref (« … from Acre, Brazil », et non « from the Brazilian and Peruvian Amazon »).
+- Protologue lu ce jour (Internet Archive `verhandlungendes48bota`, texte OCR, p. 117-118) : diagnose latine et description allemande (pétiole ≈ 1 m, aiguillons droits 1-4 mm ; rachis 30-45 cm ; 5-8 paires de folioles ≈ 50 × 6 cm, ≈ 60 nervures, 12-15 dents ; cône femelle ≈ 20 × 6 cm, 9 orthostiques de 13-14 écailles de 12 × 22 mm ; graines 15 × 8 mm en latin, « 5 mm Dicke » en allemand) ; Ule 5523 seule récolte citée ; localités rapportées oralement (Boca de Moa, Jurimaguas, Tarapoto/St. Antonio avec *Z. lindenii*, Huallaga/Shapaga ; OCR, un mot « Letieia » non repris) ; Heft II paru le 8 mars 1907 ; note : 1re partie de la série au Jahrg. XLVII.
+- Ajouts : intro (aiguillons droits, récolte 1901) ; encadré (folioles ≤ 50 cm dans le protologue) ; Come riconoscere (troisième description, liste du protologue, remarque : folioles de 50 cm plus proches de 2019 que de la Flora) ; Tassonomia (volume 48/1906, fascicule du 8/3/1907, erreur « 47 » de la Flora expliquée, Ule 5523 seule récolte ; Lindstrom 2024 : clade VII, paire avec *amazonum*, sœur de (*muricata*–*lecointei*) + *orinoquiensis*) ; Etimologia e storia (Dammer, cycadales et palmiers de l'expédition ; localités d'Ule avec réserve OCR) ; In natura (*hymenophyllidia*, *macrochiera* à Iquitos d'après Lavaud) ; Coltivazione (dégâts sur feuilles nouvelles lors des pics de chaleur, nuits de 19 °C à Montpellier en juillet-août — Cycadales.eu relu ce jour) ; In Italia et Fonti (Tropicamente revérifié : 0 résultat) ; FAQ (mesures du protologue) ; Fonti (Internet Archive, PMC) ; Bibliografia (protologue complété, Lindstrom 2024, Stevenson & Sabato 1986).
+- Phrase de la FR non reprise : « garder le substrat sec l'hiver marche moins bien pour les espèces des tropiques humides » (le passage de Cycadales.eu relu ce jour vise un « groupe précédent » dont l'identité est ambiguë).
+- Liens internes IT ajoutés (200) : muricata, orinoquiensis, lindenii, hymenophyllidia, macrochiera (15 liens au total).
+- Encadré : statut inchangé (LC, 2022). SEO inchangé (titre et meta toujours exacts). Index de la page genre IT 11879 : ligne conforme (non modifiée).
+- Contrôles (verify.py) : texte en ligne identique au brouillon, 15 liens identiques, liens internes IT en 200, URL 200, aucun commentaire de bloc visible, 133/133 blocs, hreflang fr/it/en. ≈ 3 950 mots.
+- Points douteux : noms de lieux lus en OCR ; statut HT/LT du type ; Liste rouge et POWO non consultés.
