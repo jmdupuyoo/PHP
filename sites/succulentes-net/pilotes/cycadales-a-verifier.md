@@ -322,3 +322,9 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - ophiolitica IT 28751 : zones USDA 9-10 = environ −7 à +4 °C (et non −7 à −1 °C) ; classement Lavaud 2021 (difficulté moyenne).
   - orientis IT 28762 : Lavaud 2021.
   - Index page genre IT 11549 : répartitions moins précises qu'en FR ; macrocarpa sans la réserve sur le Laos (Averyanov et al. 2014).
+
+- IT à compléter (17/10/2026, nettoyage FR C9b ; détails dans les -fr-note.md) :
+  - papuana IT 28786 : série Armstrongianosae d'après Hill 1996 (au lieu de « alleanza ») ; « Andrebbe coltivata in vaso, in serra calda » à présenter comme déduction.
+  - schumanniana IT 28865 : UICN Bösenberg 2020 (Liste rouge 2023-1, NT) ; Lindström et al. 2009 (absente d'Indonésie) ; date 1901 chez de Laubenfels & Adema.
+  - scratchleyana IT 28869 : UICN Bösenberg 2020 (2023-1, LC) ; tronc 12-20 cm ; tolérance à l'ombre = site commercial de grainetier ; serre et rusticité = déductions.
+- FR papuana 26712 (mineur) : Species+ ne cite pas non plus l'Australie ; à ajouter à « présence à confirmer ».

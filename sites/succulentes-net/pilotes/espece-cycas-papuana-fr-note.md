@@ -52,3 +52,17 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 1. **Présence australienne** (île du Prince-de-Galles, WLoC) non confirmée par Hill 1996, la Flora of Australia ni Species+ : présentée comme « à confirmer ».
 2. Statut 2010 : Wikipédia (non utilisé) indique NT pour l'évaluation de Hill 2010 ; non vérifié, la fiche cite seulement le NT de 2003 rapporté par Lindström et al. 2009.
 3. Usage des graines (PACSOA) : présenté comme non confirmé.
+
+## Nettoyage FR du 17/10/2026 (lot C9b)
+- Corrections ciblées (8 remplacements, replace_in_content dry run puis application) sur la fiche en ligne 26712 (fiche du 03/10, déjà sourcée ; brouillon identique au contenu en ligne avant intervention).
+- Sources relues ce jour : WLoC 181 (Distribution : « Australia (Queensland [Prince of Wales Island]), Indonesia (Papua), Papua New Guinea (Western) », LC ; lectotype MEL 68056) ; Hill 1996, *Telopea* 7(1) (texte intégral, `scratchpad/cy10/telopea19963040.txt`) : p. 4 (alliance de *C. armstrongii* : *armstrongii*, *conferta*, *orientis*, *canalis*, *lane-poolei*, *xipholepis* et *papuana*), p. 4-5 (toutes les espèces australiennes en section *Cycas*, sous-section *Endemicae*), p. 31 (série *Armstrongianosae*, espèce type *C. armstrongii*, « C. papuana […] also belongs with this group » ; intitulé « Armstrongiosae », coquille) ; PACSOA (nouvelle adresse, 200 ; l'ancienne renvoie en 301 vers l'accueil du wiki). Wikipédia non utilisée.
+- **Série *Armstrongianosae*** : rattachement précisé d'après Hill 1996 (série créée en 1994, espèce type, espèces citées, sols sableux latéritisés de terrain plat), cohérent avec la fiche *lane-poolei* 26681 corrigée le 17/10 ; liens *orientis*, *canalis*, *lane-poolei*, *xipholepis* ajoutés (200) ; annotation de Hill 1996 en bibliographie complétée (coquille de l'intitulé signalée).
+- Corrigés : adresse PACSOA ; « climat tropical à saison sèche marquée » → « climat tropical de mousson » (texte exact de PACSOA : « tropical, monsoonal climate »).
+- Nuancés : « En France, il relève de la serre chaude » (présenté comme déduction) ; Rusticité et FAQ (« sans gel » / « ne connaît pas le gel » non sourcés).
+- Ajouté : JZT (aucune observation publiée).
+- Article Simon Lavaud : WLoC signale une population australienne (île du Prince-de-Galles, Queensland) → le lien reste, uniquement dans « À lire aussi » (« l'article ne cite pas *Cycas papuana* ») ; rien dans le corps.
+- Non repris : description du wiki PACSOA (« jusqu'à environ 4 m, tronc souvent ramifié »), qui contredit Lindström et al. 2009 (2,8 m) et illustre une plante d'East Sepik, hors de l'aire connue.
+- SEO inchangé (titre 52, meta 134).
+- Contrôles : verify.py texte identique au rendu, 18 liens, URL 200, aucun commentaire visible, blocs 93/93, hreflang FR/IT conservés, liens internes 200.
+- Index genre 1256 : « Australie (Queensland, île Prince-de-Galles), Indonésie, Papouasie-Nouvelle-Guinée ; (LC, 2020) » → « sud de la Nouvelle-Guinée (Papouasie-Nouvelle-Guinée, province Occidentale ; Indonésie, Papouasie) ; Australie (Queensland, île du Prince-de-Galles) selon The World List of Cycads, présence à confirmer ; (LC, 2023) » (évaluation Bösenberg 2020, Liste rouge 2023-1).
+- À signaler pour l'IT 28786 : même formulation du rattachement (« alleanza ») à préciser d'après Hill 1996 (série, espèce type, liste des espèces) ; phrase « Andrebbe coltivata in vaso, in serra calda » présentée comme un fait (déduction).

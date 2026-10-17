@@ -26,15 +26,16 @@ Source : pilotes/cycadales-a-verifier.md (sections « FR à nettoyer » et ajout
 | C7 | szechuanensis 21937 (fait 13/10/2026), taiwaniana 21905 (fait 17/10/2026), tanqingii 21944 (fait 17/10/2026), tropophylla 22019 (fait 17/10/2026), zeylanica 21995 (fait 17/10/2026) |
 | C8 | terryana 26753 (fait 17/10/2026), tuckeri 26755 (fait 17/10/2026), vespertilio 26757 (fait 17/10/2026), media 14336 (fait 17/10/2026), calcicola 21857 (fait 17/10/2026) |
 | C9a | lindstromii 26158 (fait 17/10/2026), macrocarpa 26696 (fait 17/10/2026), lane-poolei 26681 (Armstrongianosae) (fait 17/10/2026), ophiolitica 26715 (fait 17/10/2026), orientis 26700 (fait 17/10/2026) |
-| C9b | papuana 26712 (PACSOA), schumanniana 26734, scratchleyana 26736 (écart Species+) |
+| C9b | papuana 26712 (PACSOA) (fait 17/10/2026), schumanniana 26734 (fait 17/10/2026), scratchleyana 26736 (écart Species+) (fait 17/10/2026) |
 
 ## Autres
 | Lot | Espèces |
 |---|---|
-| A1 | Microcycas calocoma 13877 ; Encephalartos msinganus 5596, munchii 12296, gratus 12439, umbeluziensis 12681 |
+| A1a | Microcycas calocoma 13877 |
+| A1b | Encephalartos msinganus 5596, munchii 12296, gratus 12439, umbeluziensis 12681 |
 
 Hors liste : Macrozamia serpentina 26331 — fait 17/10/2026 (accord du propriétaire : deux phrases de rusticité hypothétique retirées).
 
 
 ## Après les lots Cycas
-- Réaligner le brouillon local pilotes/genre-cycas-fr.html (03/10) sur la page genre FR 1256 en ligne (lignes d'index modifiées pendant le nettoyage).
+- [x] Réaligner le brouillon local pilotes/genre-cycas-fr.html (03/10) sur la page genre FR 1256 en ligne (lignes d'index modifiées pendant le nettoyage). — fait 17/10/2026 (brouillon remplacé par le contenu brut get_content, identique octet pour octet)
