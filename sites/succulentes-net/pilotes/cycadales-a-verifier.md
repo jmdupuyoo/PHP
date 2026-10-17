@@ -242,14 +242,14 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - soconuscensis IT 28266 : altitude 900-1 400 m et NOM-059 « P » sourcées par Nicolalde-Morejón 2014 ; Lindstrom 2024 place l'espèce comme sœur des clades V-VII (et non « accanto al clade III »). — IT FAIT 17/10/2026
   - pygmaea IT 28257 : la Flora de la República de Cuba 8(4) confirme le type cubain (Salisbury), donne description, habitat (sables quartzeux), usage mort-aux-rats ; ottonis traité comme espèce (aussi Lindstrom 2024, kickxii sœur de pygmaea). — IT FAIT 17/10/2026
   - roezlii IT 28260 : Panama selon Species+ ; clade VI (Lindstrom 2024). — IT FAIT 17/10/2026
-  - skinneri IT 28263 : point mineur (nervation plissée, Lindstrom 2024).
+  - skinneri IT 28263 : point mineur (nervation plissée, Lindstrom 2024). — IT FAIT 17/10/2026
 - EN à vérifier lors de la phase EN : skinneri 20387, roezlii 20467 (reprennent probablement les erreurs des anciennes fiches FR).
 
 - IT à compléter (13/10/2026, nettoyage FR Z6 ; détails dans les -fr-note.md) :
-  - purpurea IT 28186 : feuilles neuves rouge pourpre foncé, feuilles dressées, cônes retombants (Schutzman & Vovides 1998) ; 50-200 m (2014) ; complexe katzeriana (2011) ; proche de meermanii (Lindstrom 2024).
-  - vazquezii IT 28383 : nord Veracruz, 2 localités, ≤ 50 plantes, menaces, évaluation corrigée 2023 e.T42120A243413573 (Gómez Díaz 2025) ; 40-350 m, NOM-059 « P » (2014).
-  - wallisii IT 28386 : sous-groupe avec oligodonta et montana (Lindstrom 2024).
-  - tuerckheimii IT 28389 : forêt sempervirente, rapprochement soconuscensis/inermis (2011) ; clade III (Lindstrom 2024).
+  - purpurea IT 28186 : feuilles neuves rouge pourpre foncé, feuilles dressées, cônes retombants (Schutzman & Vovides 1998) ; 50-200 m (2014) ; complexe katzeriana (2011) ; proche de meermanii (Lindstrom 2024). — IT FAIT 17/10/2026
+  - vazquezii IT 28383 : nord Veracruz, 2 localités, ≤ 50 plantes, menaces, évaluation corrigée 2023 e.T42120A243413573 (Gómez Díaz 2025) ; 40-350 m, NOM-059 « P » (2014). — IT FAIT 17/10/2026
+  - wallisii IT 28386 : sous-groupe avec oligodonta et montana (Lindstrom 2024). — IT FAIT 17/10/2026
+  - tuerckheimii IT 28389 : forêt sempervirente, rapprochement soconuscensis/inermis (2011) ; clade III (Lindstrom 2024). — IT FAIT 17/10/2026
   - variegata IT 28395 : 80-150 m au Chiapas, NOM-059 « Pr » (2014) ; sous-clade III-A avec prasina (Lindstrom 2024).
 
 - IT à compléter (13/10/2026, nettoyage FR Z7 ; détails dans les -fr-note.md) :
@@ -337,3 +337,6 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 - EN à vérifier lors de la phase EN : umbeluziensis 16978 (graines « bosselées », cônes restant verts, Mlawula, statut eswatinien 2005, Van Wyk & Claassen 1981).
 
 - FR retouches mineures (signalées 17/10/2026 lors de IZ1) : lacandona 22356 et magnifica 22363 — toxines « chez les Zamia », Aulacaspis yasumatsui et règlement (UE) 2026/1383 cités sans référence dans la fiche (ajouter les références ou les liens vers les pages qui les sourcent) ; magnifica FR — exposer aussi la contradiction de l'article sur la taille des graines (1,9-2,4 cm dans la discussion, 18,6-23,5 mm dans la description), comme l'IT 28109.
+
+## Espèces acceptées sans fiche (contrôle WLoC du 17/10/2026)
+WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site en FR ET en IT : Ceratozamia fuscoviridis, Zamia elegantissima, Zamia nana, Zamia obliqua, Zamia pseudomonticola. À créer (FR puis IT) après la passe IT ; elles sont déjà citées sans lien dans plusieurs fiches (imperialis, skinneri, wallisii, ulei, stevensonii, acuminata, reesii…), à lier ensuite.

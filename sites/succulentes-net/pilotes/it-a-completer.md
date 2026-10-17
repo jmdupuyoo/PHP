@@ -8,7 +8,7 @@ Source des points : pilotes/cycadales-a-verifier.md (sections « IT à compléte
 | Lot | Espèces (id IT) |
 |---|---|
 | IZ1 | lacandona 28095 fait (17/10/2026), magnifica 28109 fait (17/10/2026), soconuscensis 28266 fait (17/10/2026), pygmaea 28257 fait (17/10/2026), roezlii 28260 fait (17/10/2026) |
-| IZ2 | skinneri 28263, purpurea 28186, vazquezii 28383, wallisii 28386, tuerckheimii 28389 |
+| IZ2 | skinneri 28263 fait (17/10/2026), purpurea 28186 fait (17/10/2026), vazquezii 28383 fait (17/10/2026), wallisii 28386 fait (17/10/2026), tuerckheimii 28389 fait (17/10/2026) |
 | IZ3 | variegata 28395, ulei 28392, stricta 28370, poeppigiana 28188, portoricensis 28190 |
 | IZ4 | prasina 28184, pumila 28196 |
 

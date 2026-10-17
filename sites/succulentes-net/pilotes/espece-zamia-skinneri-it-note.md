@@ -43,3 +43,14 @@
 - Brouillon identique au live (0 différence, liens identiques) ; URL 200 ; blocs appariés (125) ; aucun commentaire visible ; aucun `<em>` imbriqué ni nom abrégé ; aucun lien FR.
 - Avant création : aucune page IT de l'espèce, URL en 404, aucune redirection.
 - Rien commité.
+
+## Correzione del 17/10/2026 (lot IZ2)
+
+- Comparaison avec la FR 21691 nettoyée le 13/10 (note -fr-note.md) : la fiche IT du 12/10 reposait déjà sur les mêmes sources primaires (Taylor et al. 2008, protologue Dietrich 1851, WLoC 552, Species+, Lavaud 2023, Fous de palmiers) ; aucune erreur factuelle trouvée, aucune affirmation non sourcée à retirer. Seul écart : Lindstrom et al. 2024 (point « IT à compléter » de cycadales-a-verifier.md).
+- Corrections ciblées (replace_in_content ids=[28263], simulation 4/4 puis application 4/4) :
+  - Tassonomia : Lindstrom et al. 2024 (plante de Bocas del Toro échantillonnée ; *Zamia skinneri* exemple de nervation profondément plissée ; caractère homoplasique, apparu indépendamment, surtout dans les clades V de l'isthme et VI des Andes occidentales) — relu ce jour dans la copie locale du texte intégral PMC (« distinct plicate and deeply folded venation (e.g. in Z. skinneri) », « convergently evolved in seven separate lineages », clade V 99 %, clade VI 97 %). La conclusion « le foglioline pieghettate, da sole, non indicano una parentela stretta » est une reformulation directe de l'homoplasie démontrée par l'article.
+  - Fonti : ligne PubMed Central (Lindstrom 2024) ; Bibliografia : référence complète Lindstrom et al. 2024.
+  - Tropicamente : recherche « skinneri » refaite le 17/10/2026 (mêmes mentions de 2008 et 2011, rien de nouveau) → mention datée ajoutée.
+- Encadré, statut (EN 2022), SEO : inchangés. Index de la page genre IT 11879 : ligne conforme (non modifiée).
+- Contrôles (verify.py) : texte en ligne identique au brouillon, 16 liens identiques, liens internes IT tous en 200, URL 200, aucun commentaire de bloc visible, 127/127 blocs, hreflang fr/it/en. ≈ 3 800 mots.
+- Hors lot : *Zamia obliqua* toujours sans page IT (404) → laissée sans lien.

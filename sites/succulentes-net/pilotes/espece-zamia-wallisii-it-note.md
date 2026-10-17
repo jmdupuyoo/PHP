@@ -41,3 +41,14 @@
 ## Compléments de fin de lot (12/10/2026)
 - Ajout (replace_in_content ciblé sur 28386, dry run puis application) d'un paragraphe Lavaud 2023 (Cycadales.eu : groupe 5 « forêts de nuages », « très difficile », substrat drainant neutre à acide, 20-30 °C) + source et bibliographie ; première phrase de « Coltivazione » nuancée (« propria… pubblicata da un orto botanico »). Brouillon aligné, identique au contenu en ligne (12 liens, blocs 116/116).
 - Liens entrants posés en fin de lot : amplifolia 28008, dressleri 28025, imperialis 28020, montana 28097, paucifoliolata 28159, roezlii 28260, tolimensis 28367.
+
+## Correzione del 17/10/2026 (lot IZ2)
+
+- Comparaison avec la FR 21734 réécrite le 13/10 (paragraphe « À signaler pour l'IT »). Aucune erreur factuelle dans l'IT du 12/10 (déjà fondée sur la *Flora de Colombia*, Braun 1875, WLoC, IPNI, Calonje 2018) ; écart principal : sous-groupe *wallisii*-*oligodonta*-*montana*, écarté le 12/10 faute de lecture, désormais vérifié.
+- Corrections ciblées (replace_in_content ids=[28386], simulation 8/8 puis application 8/8).
+- Sources relues ce jour : Lindstrom et al. 2024 (copie locale PMC : plante d'Antioquia ; « Zamia wallisii, Z. oligodonta and Z. montana formed a morphologically uniform subclade supported by morphological data in Calonje et al. (2019). Our study confirms that Z. montana, not sampled in the previous study, is part of this subclade » ; clade VI des Andes occidentales) ; *Flora de Colombia* 629 relue en ligne (« Ejemplares examinados. Antioquia: Bernal et al. 735, 1255 (COL); Kalbreyer 1927 (K) » face à « Ambas colecciones se perdieron ») ; Tropicamente (recherche « wallisii » : seulement des *Phragmipedium*).
+- Ajouts : Possibili confusioni (*oligodonta*, même petit groupe ; lien IT 200) ; Tassonomia (paragraphe Lindstrom 2024 / Calonje 2019 ; *montana* arborescente, *wallisii* souterraine — précision reprise de la clé de la *Flora* déjà citée dans la page) ; Etimologia e storia (contradiction Kalbreyer 1927 de la *Flora*) ; In Italia (Tropicamente revérifié) ; FAQ « Quali sono le specie più vicine? » (8 questions) ; Fonti (PMC Lindstrom, *Flora* relue) ; Bibliografia (Lindstrom 2024, Calonje 2019 non consulté).
+- Non repris : Sabato 1990 (*Mem. New York Bot. Gard.* 57 : 175-176), simple référence nomenclaturale de la *Flora*, sans contenu apporté.
+- Encadré, statut (CR, 2022), SEO : inchangés. Index de la page genre IT 11879 : ligne conforme (non modifiée).
+- Contrôles (verify.py) : texte en ligne identique au brouillon, 13 liens identiques, liens internes IT en 200, URL 200, aucun commentaire de bloc visible, 122/122 blocs, hreflang fr/it/en. ≈ 3 720 mots.
+- Points douteux inchangés : priorité Braun / Veitch ; supersession du néotype (Lindström 2009 non lu) ; altitude et effectifs inconnus ; Liste rouge et POWO non consultés.

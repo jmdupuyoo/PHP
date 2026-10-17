@@ -38,3 +38,13 @@
 ## Liens de fin de lot (12/10/2026)
 - Dans cette fiche : lien vers *Zamia variegata* 28395 posé (Possibili confusioni).
 - Liens entrants : decumbens 28037, onan-reyesii 28123, soconuscensis 28266, standleyi 28239, *Ceratozamia hondurensis* 27483.
+
+## Correzione del 17/10/2026 (lot IZ2)
+
+- Comparaison avec la FR 22391 réécrite le 13/10 (paragraphe « À signaler pour l'IT »). Aucune erreur factuelle dans l'IT du 12/10 (déjà fondée sur le protologue, Calonje 2009, WLoC, Lavaud) ; deux phrases devenues inexactes : « les analyses moléculaires récentes n'ont pas pu être consultées » et « les sources ne donnent pas le climat ».
+- Corrections ciblées (replace_in_content ids=[28389], simulation 9/9 puis application 9/9).
+- Sources relues ce jour : Nicolalde-Morejón et al. 2011 (copie locale : Cuadro 1 « Z. tuerckheimii Guatemala Alta Verapaz BTP » ; groupe *tuerckheimii*/*soconuscensis*/*inermis* « no existen problemas para su identificación, éstas comparten caracteres, como los tallos epigeos y los folíolos con los bordes enteros » ; second centre de diversité Alta Verapaz-Izabal-Honduras, 25 °C, 3 000-4 000 mm (Toledo 1982) ; « 6 para Z. tuerckheimii » récoltes) ; Lindstrom et al. 2024 (copie locale PMC : échantillon d'Alta Verapaz ; clade III, cité dans le nœud de réticulation « clade III (without Z. meermanii, Z. standleyi and Z. tuerckheimii) » ; sous-clade III-B « seven described and one possibly undescribed (aff. monticola) species », forêts de nuages, forêts décidues plus sèches, lithophytes à feuilles pendantes ; position propre de l'espèce non précisée dans le texte) ; Tropicamente (recherche « tuerckheimii » : seulement *Chamaedorea tuerckheimii*).
+- Ajouts : encadré (forêt tropicale sempervirente, 2011) ; Possibili confusioni (rapprochement *soconuscensis*/*inermis*, 2011 ; lien *soconuscensis* déplacé sur cette première occurrence, lien *inermis* ajouté) ; Tassonomia (Lindstrom 2024, avec la réserve sur la position exacte) ; In natura (forêt sempervirente, zone de diversité et climat, six récoltes d'herbier) ; In Italia et Fonti (Tropicamente revérifié) ; Fonti (RMB 2011, PMC Lindstrom) ; Bibliografia (Nicolalde-Morejón 2011, Lindstrom 2024).
+- Encadré : statut inchangé (NT, 2022). SEO inchangé. Index de la page genre IT 11879 : ligne conforme (non modifiée).
+- Contrôles (verify.py) : texte en ligne identique au brouillon, 15 liens identiques, liens internes IT en 200, URL 200, aucun commentaire de bloc visible, 121/121 blocs, hreflang fr/it. ≈ 3 650 mots.
+- Points douteux inchangés : position dans le sous-clade III-B (figure non lue) ; « 2 dm » lu à l'image ; Liste rouge et POWO non consultés.
