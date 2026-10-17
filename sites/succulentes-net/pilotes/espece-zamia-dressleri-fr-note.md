@@ -1,0 +1,53 @@
+# Note de livraison — *Zamia dressleri* (FR) (03/10/2026)
+
+- Fichier : `pilotes/espece-zamia-dressleri-fr.html` (blocs appariés, balises équilibrées, aucun `<em>` imbriqué, aucune image, aucun commentaire HTML hors délimiteurs, aucun `utm_`, aucun lien EN/IT/ES, vérifiés par script).
+- Longueur : environ 1547 mots hors Sites de référence et Bibliographie (1909 au total).
+- Titre de page proposé : « Zamia dressleri » (aucun nom français attesté).
+- Slug : `dressleri`
+- Parent : 3963 (page genre FR *Zamia*, /cycadales/zamia/)
+- translation_of : aucune traduction (aucune fiche de l'espèce dans aucune langue sur le site).
+- Titre SEO (54 car.) : `Zamia dressleri, cycadale à grandes folioles du Panama`
+- Meta description (148 car.) : `Zamia dressleri, cycadale en danger de l’est du Panama, à grandes folioles nervurées et jeunes feuilles rougeâtres : identification, culture, CITES.`
+- Mot-clé principal : `zamia dressleri`
+
+## Sources
+### Lues directement ou par extrait
+- WLoC : https://cycadlist.org/scientific_name/461
+- The World List of Cycads 2026.08.15 : page espèce (id ci-dessous) et export XLSX accepted=1 / accepted=0 (aucun synonyme pour l'espèce) — lus directement.
+- Species+ (API JSON, taxon 13387 « Zamia ») interrogé le 03/10/2026 : annexe II #4 en vigueur ; l'espèce n'a pas de fiche propre (recherche auto-complete vide).
+- Page genre FR (genre-zamia-fr.html et sa note) : CITES, toxicité, statuts UICN 2022, cohérence.
+- ASPCA (Cardboard Cycad) : toxicité citée au niveau du genre.
+- Stevenson 1993, Brittonia 45 : métadonnées Crossref ; texte non lu.
+- PACSOF Virtual Cycad Encyclopedia (archive Hambourg) : fiche lue (photo 1999, Colón, jeune feuille rougeâtre).
+- Wikipédia EN (extrait) : dimensions sans source vérifiable, NON reprises.
+### Bloquées ou non fouillées
+- POWO, Liste rouge UICN, PalmTalk, cites.org, Dave's Garden : bloqués (Cloudflare), non contournés. Biodiversity Heritage Library : bloquée (Cloudflare), protologues BHL non lus. Wayback Machine : hors service le 03/10/2026. Sources asiatiques (Nong Nooch, BGO, Nanagarden, ameblo, planchu.jp, Kunming) : aucune donnée propre à l'espèce trouvée. Autres forums de la consigne (Palmiers & Cie, Au jardin, Cactuspro, Agaveville, Cycad Society, Forum Giardinaggio, InfoJardín, Club de Palmeras) : aucune mention trouvée par recherche web ; non fouillés un par un.
+
+## Erreurs relevées sur la fiche EN
+- Sans objet : aucune fiche EN (ni IT, ni ES) n'existe pour cette espèce.
+
+## Retours de culture (forums)
+- fdp search « dressleri » (6 messages) : t=12431 #p197943 (Côte Bleue, 11/07/2012 : culture difficile, 2 plantes « mal en point ») ; t=14274&start=15 #p238874 et start=30 #p239614 (2013, description par un observateur : folioles énormes, peu de feuilles, très semblable à Z. amplifolia) ; t=14274&start=90 #p267790 (photos de jeunes plantes, mai 2013) ; t=14689 #p242058 ; t=12783&start=30 #p217858.
+- A : aucun. B (1) : Côte Bleue (13), juillet 2012, culture sous abri, plantes en mauvais état, sans température (échec instructif). C : aucun.
+- Tropicamente : recherche https://www.tropicamente.it/forums/search/zamia+dressleri/ (03/10/2026) : aucun résultat.
+- Messages de La Londe-les-Maures : aucun message.
+
+## Liens internes (contrôlés : 200, sans redirection, curl le 03/10/2026)
+- https://succulentes.net/cycadales/zamia/ (intro) ; liens du corps vers les fiches Zamia publiées citées (première occurrence hors intro, encadré et intertitres) ; À lire aussi : semis, arrosage, toxicité.
+- Liens externes : aucun `<a>` externe (URL en texte dans Sites de référence) ; URL externes vérifiées en 200 le 03/10/2026.
+
+## Points à valider par le propriétaire
+- 10/10/2026 : Brittonia 45(1) (Stevenson 1993) lu en texte intégral (copie de The Cycad Society, scan OCR ; citée par sa référence d'origine) : dimensions (tige 3-5 cm, cataphylles, feuille 0,5-1,5 m, 2-5 paires de folioles de 30-50 × 12-15 cm, cônes, graines), affinité avec Z. wallisii (lien ajouté), clé face à Z. skinneri et Z. cunaria, deux populations connues, récolteurs anciens, dédicace.
+- Écarts internes au protologue signalés dans la fiche : 2-5 paires de folioles (description) / 4-8 paires (introduction) ; dans la partie biogéographique, le caractère distinctif d'avec Z. wallisii est inversé (pétiolule sillonné attribué à Z. dressleri).
+- Écarts protologue / WLoC non exposés dans la fiche : récolteurs du type (protologue : Stevenson & Valdespino ; WLoC ajoute H. Herrera) ; isotypes du protologue FTG, MO, NY, PMA et « VU » (lecture OCR ; fiche : U).
+- « Complexe dressleri » : notion d'amateur, signalée comme non formalisée.
+- POWO non consulté (Cloudflare) : nom accepté d'après WLoC.
+- France : aucune culture en pleine terre ni épisode de gel documenté, toutes zones ; encadré « Rusticité documentée : aucune donnée ».
+
+## Publication (03/10/2026)
+- Page 26480 publiée : https://succulentes.net/cycadales/zamia/dressleri/ (200, sans redirection, vérifiée avec curl), parent 3963, langue fr, sans translation_of (aucune traduction : l'espèce n'a de fiche dans aucune langue).
+- Vérifié avant création : aucune page FR existante (list_content « Zamia », toutes pages, tous statuts) ; aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
+- SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
+- Contenu publié vérifié identique au fichier local (comparaison du texte rendu, phrase par phrase).
+- Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).
+- Liens croisés posés après publication vers les fiches du lot : hamannii, cunaria (première occurrence hors introduction et encadré).
