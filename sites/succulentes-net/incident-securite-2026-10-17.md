@@ -43,3 +43,5 @@ Suspendu par Claude le 17/10/2026 après le lot IZ4, en attendant le nettoyage.
 - FTP : aucun compte supplémentaire (seulement les comptes spéciaux idje4654 et idje4654_logs).
 - Administrateurs WordPress : 2 comptes, tous deux connus du propriétaire — admin-succulentes (propriétaire) et Nilo (compte utilisé par l’outil OpenClaw du propriétaire ; snippet 10 « Nilo Translation API » associé). Conseillé : renouveler mots de passe et mots de passe d’application des deux comptes.
 - 18/10/2026 : compte Nilo supprimé par le propriétaire ; snippet 10 « Nilo Translation API » désactivé par Claude (réversible). Site contrôlé en 200 ensuite.
+- 18/10/2026 : Google Search Console, « Problèmes de sécurité » : aucun problème détecté. Reste conseillé : renvoyer sitemap_index.xml, surveiller les pages indexées en /product/ (404 désormais).
+- Travail de contenu repris le 18/10/2026 (lot IC1).
