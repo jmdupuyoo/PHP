@@ -39,3 +39,12 @@
 
 ## Points douteux
 - Protologue (Wang & Deng 1995) non lu ; dimensions divergentes Hill 2008 / FOC (données toutes deux) ; critères de l'évaluation UICN 2020 inconnus ; présence au Vietnam incertaine.
+
+## Correzione del 18/10/2026 (lot IC5)
+- Corrections ciblées (replace_in_content sur 28877 : simulation 9/9 puis application 9/9) d'après la FR 22059 réécrite le 13/10 (lot C6) et sa note.
+- Sources relues ce jour : Hill 2008, *Telopea* 12(1) : 108-109 (texte local lotcyc3/hill2008.txt : *C. acuminatissima*, type de Tianyang, et *C. crassipes*, type du comté de « Longling » [Longlin], Guangxi, tous deux rangés sous *C. sexseminifera* : types dans l'aire de cette espèce, illustrations des protologues conformes, études de terrain) ; Fous de palmiers p=289508 (copie locale c6/fdp/p289508.html relue ; URL 200 le 18/10/2026) : message du 18/09/2013 d'un cultivateur de Nantes, sud Loire — semis de 2012, hiver passé sous tunnel avec voile, « un petit −4 °C », sans dommage (l'hiver 2012-2013 est déduit de la date du semis et du message, comme en FR).
+- Erreurs corrigées : synonymie de Hill 2008 incomplète (seul *acuminatissima* rattaché à *sexseminifera* → *acuminatissima* **et** *crassipes* : encadré, Tassonomia, Bibliografia) ; « il forum Fous de palmiers non ha dato riscontri » (→ retour nantais, plantule à −4 °C sous tunnel et voile, sans dommage, présenté comme isolé et limité à une très jeune plante abritée : encadré, Rusticità, FAQ, Fonti) ; « nessun riscontro … fuori dall'Italia » (Riferimenti internazionali → hors d'Italie et de France).
+- Nuance : « nessun valore misurato » → aucune valeur publiée par une source scientifique.
+- Rien retiré. Statut inchangé (EN, Bösenberg 2020 publiée en 2023-1). Toxicité inchangée (cicasina → metilazossimetanolo, BMAA).
+- SEO inchangé. Index genre IT 11549 : « (EN, valutazione 2020, pubblicata nel 2023) » → « (EN, 2023) » (format du lot, comme l'index FR 1256 ; simulation 1 puis application 1), brouillon genre aligné.
+- Contrôles : verify.py (texte identique, 10 liens en 200, blocs 103/103, hreflang fr/it/en, aucun commentaire visible) ; User-Agent curl et Chrome : 200, `<title>` « Cycas segmentifida: la cicadea dagli sporofilli divisi », nouveau texte servi.

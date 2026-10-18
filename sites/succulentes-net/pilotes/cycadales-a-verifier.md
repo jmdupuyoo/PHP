@@ -292,14 +292,14 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 
 - IT à compléter (13/10/2026, nettoyage FR C5 ; détails dans les -fr-note.md) :
   - maconochiei IT 28690 : statut UICN 2023 (espèce, subsp. maconochiei, viridis : LC) ; « stagione secca marcata » et « clima senza gelo » non sourcés. — IT FAIT 18/10/2026
-  - multipinnata IT 28722 : réévaluation CR 2023-1 ; mesures Flora of China / Hill mélangées (mégasporophylles 8-12 cm, 25-35 lobes, 12-22 paires de folioles).
-  - pachypoda IT 28778 : réévaluation CR 2023-1.
-  - pschannae IT 28836, andamanica IT 28451, dharmrajii IT 28567 : la Liste rouge 2022-1 (via GBIF) range pschannae, andamanica et dharmrajii sous C. sainathii s.l., VU ; WLoC donne NE. — IT FAIT 18/10/2026 pour andamanica (pschannae et dharmrajii : lot IC5)
+  - multipinnata IT 28722 : réévaluation CR 2023-1 ; mesures Flora of China / Hill mélangées (mégasporophylles 8-12 cm, 25-35 lobes, 12-22 paires de folioles). — IT FAIT 18/10/2026
+  - pachypoda IT 28778 : réévaluation CR 2023-1. — IT FAIT 18/10/2026
+  - pschannae IT 28836, andamanica IT 28451, dharmrajii IT 28567 : la Liste rouge 2022-1 (via GBIF) range pschannae, andamanica et dharmrajii sous C. sainathii s.l., VU ; WLoC donne NE. — IT FAIT 18/10/2026 pour andamanica ; — IT FAIT 18/10/2026 pour pschannae ; — IT FAIT 18/10/2026 pour dharmrajii
 
 - Message La Londe (compte JMDUPUYOO, Fous de palmiers 2012) : Cycas sexseminifera, plants « 3 ans dehors sous canopée sans problème ». Exclu de la fiche FR 22025 selon la consigne ; à confirmer par le propriétaire comme observation du Jardin zoologique tropical.
 - IT à compléter (13/10/2026, nettoyage FR C6 ; détails dans les -fr-note.md) :
-  - dharmrajii IT 28567 : VU 2022 sous sainathii (Liste rouge via GBIF) ; Luthrodes pandava (Purti et al. 2022) ; revoir le critère « 9 m » (Srivastava & Singh 2015, Lindström & Hill 2007).
-  - segmentifida IT 28877 : Hill 2008 range aussi crassipes sous sexseminifera (p. 109) ; retour nantais (plantule sous tunnel et voile, −4 °C, hiver 2012-2013, sans dommage), alors que l'IT dit que Fous de palmiers n'a rien donné.
+  - dharmrajii IT 28567 : VU 2022 sous sainathii (Liste rouge via GBIF) ; Luthrodes pandava (Purti et al. 2022) ; revoir le critère « 9 m » (Srivastava & Singh 2015, Lindström & Hill 2007). — IT FAIT 18/10/2026
+  - segmentifida IT 28877 : Hill 2008 range aussi crassipes sous sexseminifera (p. 109) ; retour nantais (plantule sous tunnel et voile, −4 °C, hiver 2012-2013, sans dommage), alors que l'IT dit que Fous de palmiers n'a rien donné. — IT FAIT 18/10/2026
   - siamensis IT 28898 : PROSEA ; « Silver » ; confusion avec ferruginea inversée dans l'IT (plante achetée comme siamensis puis rapprochée de ferruginea).
 - FR andamanica 21956 : Taxonomie et Maladies citent encore des ravageurs génériques ; Purti et al. 2022 (Luthrodes pandava sur pschannae) à intégrer.
 
@@ -345,3 +345,4 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - FR retouches (signalées 18/10/2026 lors de IC1) : armstrongii FR 21562 — la mort de John Armstrong à Kupang le 21/01/1847 est confirmée par l'Australian National Herbarium (Orchard 1999, George 2009) ; exposer la divergence avec WLoC/Haynes (1820-1902) comme dans l'IT 28466. aculeata FR 22084 et andamanica FR 21956 — section ravageurs encore générique (cochenilles farineuses, acariens) ; andamanica : ajouter Purti et al. 2022 (Luthrodes pandava).
 - FR desolata 26649 (mineur, 18/10/2026) : ajouter le PDF Lavaud 2021 (« difficile », « sur sols sableux » — divergence avec le protologue : sols squelettiques, affleurements), comme l'IT 28564.
 - Signalé lors de IC4 (18/10/2026) : index IT 11549, entrée taiwaniana encore « Cina (Fujian, Guangdong) » (à aligner sur l'index FR en IC6) ; vérifier en IC6 si la fiche IT taiwaniana 28960 date l'évaluation Bösenberg de « 2020 » (date sans source, à remplacer par la publication 2023-1).
+- Signalé lors de IC5 (18/10/2026) : index IT 11549, debaoensis « (CR, 2010) » à vérifier (réévaluation 2023 ?) — à traiter avec l'alignement final de l'index en IC8 ; FR dharmrajii 26651 : « climat tropical sans gel » (Rusticité) et « île tropicale humide » (Culture) non sourcés.

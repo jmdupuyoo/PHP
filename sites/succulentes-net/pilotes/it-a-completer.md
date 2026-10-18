@@ -19,7 +19,7 @@ Source des points : pilotes/cycadales-a-verifier.md (sections « IT à compléte
 | IC2 | changjiangensis 28522 fait (18/10/2026), chenii 28525 fait (18/10/2026), collina 28536 fait (18/10/2026), chevalieri 28528 fait (18/10/2026), desolata 28564 fait (18/10/2026) |
 | IC3 | fairylakea 28610 fait (18/10/2026), ferruginea 28616 fait (18/10/2026), hoabinhensis 28639 fait (18/10/2026), condaoensis 28540 fait (18/10/2026), hongheensis 28642 fait (18/10/2026) |
 | IC4 | hainanensis 28636 fait (18/10/2026), glauca 28633 fait (18/10/2026), laotica 28677 fait (18/10/2026), lingshuigensis 28685 fait (18/10/2026), maconochiei 28690 fait (18/10/2026) |
-| IC5 | multipinnata 28722, pachypoda 28778, pschannae 28836, dharmrajii 28567, segmentifida 28877 |
+| IC5 | multipinnata 28722 fait (18/10/2026), pachypoda 28778 fait (18/10/2026), pschannae 28836 fait (18/10/2026), dharmrajii 28567 fait (18/10/2026), segmentifida 28877 fait (18/10/2026) |
 | IC6 | siamensis 28898, taiwaniana 28960, tanqingii 28970, zeylanica 29032, calcicola 28499 |
 | IC7 | lindstromii 28680, lane-poolei 28669, ophiolitica 28751, orientis 28762, papuana 28786 |
 | IC8 | schumanniana 28865, scratchleyana 28869 ; puis index de la page genre IT 11549 (statuts et répartitions alignés sur l'index FR 1256) |

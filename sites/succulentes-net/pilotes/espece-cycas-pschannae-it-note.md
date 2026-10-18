@@ -38,3 +38,12 @@
 
 ## Points douteux
 - Clé de Singh & Misra 2020 non lue ; présence aux Nicobar non précisée (WLoC « Andaman and Nicobar ») ; fascicule du protologue d'*andamanica* (4(9) IPNI / 4(1) WLoC).
+
+## Correzione del 18/10/2026 (lot IC5)
+- Corrections ciblées (replace_in_content sur 28836 : simulation 12/12 puis application 12/12) d'après la FR 21984 réécrite le 13/10 et la fiche IT *andamanica* 28451 corrigée en IC1 (formulation du statut et de la synonymie alignée sur les deux).
+- Sources relues ce jour : GBIF API species/9900570/iucnRedListCategory (*C. pschannae* synonyme de *C. sainathii*, VU) et 10388039 (*C. dharmrajii*, idem) ; Crossref (Singh L., *Cycas sainathii*, doi 10.2305/IUCN.UK.2022-1.RLTS.T103631608A243419871.en ; « issued » 19/03/2020) ; eFlora of India, page *Cycas pschannae* (200 avec User-Agent Chrome : *andamanica* IJISR 4(9), septembre 2015, publié après *pschannae* 2(8), août 2015 → priorité ; ancienne fiche WLoC taxon 595 : *pschannae* et *andamanica* synonymes de *sainathii*). Purti et al. 2022 (*Luthrodes pandava*) déjà présent (Stato, Malattie, Bibliografia), inchangé.
+- Erreurs corrigées : statut « NE » seul (→ NE sous ce nom pour WLoC, mais VU 2022 sous *C. sainathii* s.l. pour la Liste rouge : intro, encadré, Tassonomia, Stato, FAQ) ; « Le fonti consultate non spiegano perché sia stato preferito questo dei due nomi » (→ priorité de date, eFlora of India) ; ancienne synonymie (seul *pschannae* sous *sainathii* → les deux noms de 2015) ; « clima tropicale umido, senza stagione fredda » non sourcé (In natura, Rusticità : retiré).
+- Nuance : « Nessun ibrido è documentato » → « Nelle fonti consultate… ».
+- Ajouts : paragraphe Tassonomia sur la Liste rouge (*pschannae*, *andamanica*, *dharmrajii* sous *sainathii*), FAQ « stessa pianta » (priorité, Liste rouge), Fonti (eFlora of India, GBIF), Bibliografia (Singh 2022). Toxicité inchangée (cicasina → metilazossimetanolo, BMAA).
+- SEO inchangé. Index genre IT 11549 : statut déjà aligné en IC1 ; répartition « India (isole Andamane e Nicobare); … coltivata a Calcutta » → « India (isole Andamane); … coltivata a Howrah, presso Calcutta » (comme l'index FR 1256 et le protologue ; simulation 1 puis application 1), brouillon genre aligné.
+- Contrôles : verify.py (texte identique, 11 liens en 200, blocs 99/99, hreflang fr/it, aucun commentaire visible) ; User-Agent curl et Chrome : 200, `<title>` « Cycas pschannae: la grande cicadea delle isole Andamane », nouveau texte servi.

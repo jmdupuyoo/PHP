@@ -30,3 +30,12 @@
 ## Points douteux
 - Fiche courte faute de sources : description, habitat, altitude, menaces et section restent à reprendre d'après le protologue (Hill et al. 2004) si un accès est obtenu — en FR d'abord.
 - POWO et Liste rouge non consultés (Cloudflare).
+
+## Correzione del 18/10/2026 (lot IC5)
+- Corrections ciblées (replace_in_content sur 28778 : simulation 10/10 puis application 10/10) d'après la FR 22073 réécrite le 13/10 et sa note.
+- Sources relues ce jour : GBIF API species/2683221/iucnRedListCategory (CR, iucnTaxonID 42061) ; Crossref (Bösenberg J.D. & Nguyen T.H., doi 10.2305/IUCN.UK.2023-1.RLTS.T42061A69153836.en). Protologue (Hill, Nguyen & Lôc 2004) toujours inaccessible : repository.vnu.edu.vn (notice VNU_123/64217) → connexion réinitialisée le 18/10/2026.
+- Erreurs corrigées : statut limité à Nguyen 2010 (→ réévaluation Bösenberg & Nguyen 2023-1, CR maintenu, critères non vus : encadré, Stato, FAQ) ; « clima tropicale senza gelo » / « il suo clima d'origine non conosce il gelo » non sourcés (Rusticità, FAQ → « cicadea del sud tropicale del Vietnam », sans affirmation sur le gel).
+- Nuances : conseils de culture explicitement présentés comme généraux (« Sono consigli generali, non risultati ottenuti con questa specie ») ; « Non è documentato alcun ibrido » → « Nelle fonti consultate… ».
+- Ajouts : Fonti (GBIF), Bibliografia (Bösenberg & Nguyen 2023). Rien retiré d'autre. « Peut-être Đồng Nai » (Wikipédia seule) toujours non repris en IT. Toxicité inchangée.
+- SEO inchangé. Index genre IT 11549 : « Vietnam; in pericolo critico (CR, 2010) » → « Vietnam meridionale (Binh Thuan, Ninh Thuan); in pericolo critico (CR, 2023) » (simulation 1 puis application 1), brouillon genre aligné (verify.py identique).
+- Contrôles : verify.py (texte identique, 10 liens en 200 dont *siamensis* 28898, blocs 97/97, hreflang fr/it, aucun commentaire visible) ; User-Agent curl et Chrome : 200, `<title>` « Cycas pachypoda: la cicadea dal piede rigonfio del Vietnam », nouveau texte servi.
