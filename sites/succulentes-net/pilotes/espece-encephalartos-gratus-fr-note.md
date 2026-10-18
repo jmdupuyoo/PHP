@@ -42,3 +42,10 @@
 3. Plan UICN 2003 (100 000 plantes, défrichement au Mozambique) ; avis UE différencié selon le diamètre du caudex (≤ 7 cm favorable).
 4. Climat d'après Davy (1 250-1 750 mm ; minimum 45-50 °F ; « moyenne » 95-100 °F probablement des maxima). L’IT donne le cas floridien de PalmTalk « comme indication » alors que ce fil n’est pas vérifiable (Cloudflare) : à retirer ou à signaler comme non vérifié.
 5. DOI de l'évaluation 2022 (…A243426722) différent de l'identifiant donné par WLoC.
+
+## Retouche FR du 18/10/2026 (lot RF4)
+- Point de pilotes/fr-retouches.md : suspensions Species+ visant le Mozambique datées à tort « 2008-2018 ».
+- Vérification sur Species+ (API publique, taxon 20378, relue le 18/10 ; copie scratchpad `rf4/spp/gratus.json`) : suspensions CITES « All exports » pour la famille *Zamiaceae* du 25/09/2012 (notification 2012/059) au 06/05/2019 (levée par la notification 2019/027) ; décisions de l'UE « Suspension (b) », source W (spécimens sauvages), pour la famille *Zamiaceae*, de 2008 (règl. 811/2008) à 2017 (règl. 2017/1915), aucune en vigueur. Avis UE pour l'Afrique du Sud (favorable ≤ 7 cm depuis le 20/06/2011, négatif depuis le 07/02/2013) toujours courants : inchangés.
+- replace_in_content sur 12439 : simulation 2/2 puis application 2/2 (scratchpad `rf4/w/pairs-gratus.json`, copie avant `rf4/gratus-fr-avant.html`) : Statut (CITES 2012-2019, levée par la notification 2019/027 ; UE, décisions de 2008 à 2017 sur les spécimens sauvages ; plus en vigueur), comme l'IT 27956 ; commentaire Species+ des Sites de référence (suspensions passées, relu par l'API le 18/10).
+- Toxicité correcte (MAM non cité) : non modifiée. Index genre 14229 et SEO non concernés.
+- Contrôles : texte en ligne identique au brouillon, 11 liens internes même séquence, tous en 200 ; blocs 117/117 ; hreflang fr/it/en ; aucun commentaire de bloc visible ; User-Agent Chrome et curl : 200, `<title>` « Encephalartos gratus : cycadale du mont Mulanje (Malawi) ». Rien commité.

@@ -20,14 +20,14 @@ Liste de travail (lots de 5 d'un même genre, comme d'habitude). Détails dans p
 - macrocarpa : fiche IT 28700 sans la réserve sur le Laos (index seulement) — à ajouter en IT. — fait (18/10/2026)
 
 ## Encephalartos
-- munchii 12296, gratus 12439, umbeluziensis 12681 : suspensions Species+ visant le Mozambique = CITES 2012-2019 (notification 2019/027) et UE 2008-2017, pour toutes les Zamiaceae (pas « 2008-2018 »).
-- Brouillon local pilotes/genre-encephalartos-it.html à réaligner sur la page 11663 (8 liens d'espèces manquants dans le brouillon).
+- munchii 12296, gratus 12439, umbeluziensis 12681 : suspensions Species+ visant le Mozambique = CITES 2012-2019 (notification 2019/027) et UE 2008-2017, pour toutes les Zamiaceae (pas « 2008-2018 »). — fait (18/10/2026) ; Species+ relu par l'API publique ; **l'IT munchii 27853 contient encore « (2008-2018) »** (en ligne et dans le brouillon) : à corriger en IT.
+- Brouillon local pilotes/genre-encephalartos-it.html à réaligner sur la page 11663 (8 liens d'espèces manquants dans le brouillon). — fait (18/10/2026), brouillon seulement (73 liens, texte identique).
 
 ## Microcycas
 - Page genre FR 13865 : « déséquilibre entre mâles et femelles » (sans source, Pollinisation et FAQ) ; « jeunes plants à mi-ombre » et 800-1 000 plantes (Peña-García 1998) à attribuer à Wikipédia ES ; noms abrégés « Z. » dans le titre de Lazcano Lara 2007.
 
 ## Décision du propriétaire (18/10/2026)
-- PlantZAfrica autorisé comme source (User-Agent de navigateur) : à utiliser pour msinganus (nom afrikaans « msinga-broodboom », « frost tolerant » à attribuer) et les autres Encephalartos sud-africains.
+- PlantZAfrica autorisé comme source (User-Agent de navigateur) : à utiliser pour msinganus (nom afrikaans « msinga-broodboom », « frost tolerant » à attribuer) et les autres Encephalartos sud-africains. — msinganus fait (18/10/2026) : FR 5596 et IT 27851 (lot RF4) ; autres *Encephalartos* sud-africains non traités.
 
 ## Lots
 | Lot | Contenu |
@@ -35,7 +35,7 @@ Liste de travail (lots de 5 d'un même genre, comme d'habitude). Détails dans p
 | RF1 | Cycas : index page genre 1256 ; debaoensis 5683 ; armstrongii 21562 ; aculeata 22084 ; andamanica 21956 |
 | RF2 | Cycas : desolata 26649 ; dharmrajii 26651 ; ophiolitica 26715 ; lane-poolei 26681 ; papuana 26712 (+ IT macrocarpa 28700 : réserve Laos) |
 | RF3 | Zamia : lacandona 22356 ; magnifica 22363 ; portoricensis 21767 ; pumila 21729 |
-| RF4 | Encephalartos : msinganus 5596 (PlantZAfrica) ; munchii 12296 ; gratus 12439 ; umbeluziensis 12681 (+ brouillon genre-encephalartos-it.html) |
+| RF4 | Encephalartos : msinganus 5596 (PlantZAfrica) ; munchii 12296 ; gratus 12439 ; umbeluziensis 12681 (+ brouillon genre-encephalartos-it.html) — fait (18/10/2026) |
 | RF5 | Microcycas : page genre FR 13865 |
 
 ## Ajouts (RF1, 18/10/2026)
@@ -47,3 +47,8 @@ Liste de travail (lots de 5 d'un même genre, comme d'habitude). Détails dans p
 ## Ajouts (RF3, 18/10/2026)
 - IT pumila 28196 : la flore de Cuba cite la tige frite comme mort-aux-rats pour *Zamia integrifolia* ET *Zamia angustifolia* (texte local z5/frc/zam.txt, 2.1 et 2.3) ; l'IT ne nomme que *integrifolia* → ajouter *angustifolia*.
 - FR portoricensis 21767 (et autres fiches *Zamia* au même gabarit, dont erosa 21754 et stricta 21774) : glycosides « chez les *Zamia* » encore sans référence → même correction que lacandona/magnifica (The Gymnosperm Database, article du site sur la toxicité), si souhaité.
+
+## Ajouts (RF4, 18/10/2026)
+- IT munchii 27853 : « le sospensioni del commercio che riguardavano il Mozambico per tutte le Zamiaceae (2008-2018) » encore en ligne → aligner sur les IT 27956/27960 (CITES 2012-2019, notification 2019/027 ; UE, decisioni 2008-2017, esemplari selvatici).
+- PlantZAfrica : autres *Encephalartos* sud-africains (FR et IT) non encore relus sur PlantZAfrica.
+- Toxicité : les fiches FR *Encephalartos* gardent « glycosides propres aux cycadales, la cycasine et la macrozamine » (correct, MAM non cité) ; la formulation harmonisée « glycosides toxiques (cycasine, macrozamine), dont dérive le méthylazoxyméthanol » n'y est pas encore reportée (à faire si souhaité, en série).

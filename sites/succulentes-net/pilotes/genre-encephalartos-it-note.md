@@ -30,3 +30,8 @@
 - Aucun nom commun italien attesté.
 - Statut actuel de l'*E. woodii* de Naples inconnu (pollone volé, plante sans feuilles en 2010 selon le forum).
 - Identité de l'« *E. woodii* » de Palerme : espèce selon UNIPA, hybride selon la presse 2025 et l'exposition 2026.
+
+## Réalignement du brouillon local du 18/10/2026 (lot RF4)
+- Point de pilotes/fr-retouches.md : le brouillon `genre-encephalartos-it.html` n'avait que 65 liens contre 73 sur la page en ligne 11663 (liens d'index posés en ligne lors de la publication des fiches IT sans report dans le brouillon).
+- Ajoutés au brouillon seulement (page en ligne **non modifiée**), à l'identique de la page en ligne (`<li><a href="…"><em>Encephalartos …</em></a> Auteur`) : *villosus*, *woodii*, *umbeluziensis*, *turneri*, *gratus*, *hildebrandtii*, *tegulaneus*, *septentrionalis*. Copie avant : scratchpad `rf4/genre-it-avant.html`.
+- Contrôle (API REST, contenu rendu) : texte identique (seul écart brut : guillemets droits « "sola" » rendus en « « sola » » par WordPress), 73 liens dans la même séquence, blocs 112/112. Rien commité.

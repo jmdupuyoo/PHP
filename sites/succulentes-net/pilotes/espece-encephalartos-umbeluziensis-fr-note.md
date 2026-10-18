@@ -43,3 +43,10 @@
 2. Liste UICN 1984 : Les Cèdres (Saint-Jean-Cap-Ferrat) et Muséum de Paris ; plan UICN 2003 (VU, 1 000-1 500 plantes, réserve, banque de gènes).
 3. Écart Species+ (Afrique du Sud) et lecture des données GBIF ; nom mal appliqué « *E. striatus* » (Flora of Mozambique, 2004).
 4. Pour info : la page EN 16978 contient des affirmations non vérifiées ici (Van Wyk & Claassen 1981, graines « bosselées », cônes restant verts, Mlawula, statut eswatinien CR 2005, Africa Cycads, LLIFLE) — hors périmètre.
+
+## Retouche FR du 18/10/2026 (lot RF4)
+- Point de pilotes/fr-retouches.md : suspensions Species+ visant le Mozambique datées à tort « 2008-2018 ».
+- Vérification sur Species+ (API publique, taxon 21925, relue le 18/10 ; copie scratchpad `rf4/spp/umbeluziensis.json`) : suspensions CITES « All exports » pour la famille *Zamiaceae* du 25/09/2012 (notification 2012/059) au 06/05/2019 (levée par la notification 2019/027) ; décisions de l'UE « Suspension (b) », source W (spécimens sauvages), pour la famille *Zamiaceae*, de 2008 (règl. 811/2008) à 2017 (règl. 2017/1915), aucune en vigueur. Avis négatif UE pour l'Afrique du Sud (07/02/2013) et consultation SRG 109 (16/09/2026) toujours courants : inchangés.
+- replace_in_content sur 12681 : simulation 2/2 puis application 2/2 (scratchpad `rf4/w/pairs-umbeluziensis.json`, copie avant `rf4/umbeluziensis-fr-avant.html`) : Statut (CITES 2012-2019, levée par la notification 2019/027 ; UE, décisions de 2008 à 2017 sur les spécimens sauvages ; plus en vigueur), comme l'IT 27960 ; commentaire Species+ des Sites de référence (relu par l'API le 18/10).
+- Toxicité correcte (MAM non cité) : non modifiée. Index genre 14229 et SEO non concernés.
+- Contrôles : texte en ligne identique au brouillon, 6 liens internes même séquence, tous en 200 ; blocs 111/111 ; hreflang fr/it/en ; aucun commentaire de bloc visible ; User-Agent Chrome et curl : 200, `<title>` « Encephalartos umbeluziensis : cycadale de l'Umbeluzi ». Rien commité.

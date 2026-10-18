@@ -41,3 +41,11 @@
 2. Plan d'action UICN 2003 : 17 plantes, critères de l'époque ; évaluation Donaldson 2010 citée par Kew.
 3. Retour français d'Agen (mort à −4 °C, probablement en pot) ; Species+ « Munch's cycad », avis négatif UE 2013 ; GBIF (parts de 1973).
 4. Dates de R.C. Munch (1901-1985) et rôle de H.B. Christian ; cône de 66/58 cm (frais/sec).
+
+## Retouche FR du 18/10/2026 (lot RF4)
+- Point de pilotes/fr-retouches.md : suspensions Species+ visant le Mozambique datées à tort « 2008-2018 ».
+- Vérification sur Species+ (API publique, taxon 26400, relue le 18/10 ; copie scratchpad `rf4/spp/munchii.json`) : suspensions CITES « All exports » pour la famille *Zamiaceae* du 25/09/2012 (notification 2012/059) au 06/05/2019 (levée par la notification 2019/027), renouvelées par les notifications 2013/013, 2014/039, 2015/063, 2016/018, 2018/006 ; décisions de l'UE « Suspension (b) », source W (spécimens sauvages), pour la famille *Zamiaceae*, de 2008 (règl. 811/2008) à 2017 (règl. 2017/1915), aucune en vigueur (plus un avis négatif du SRG de 2006, non mentionné, comme en IT).
+- replace_in_content sur 12296 : simulation 2/2 puis application 2/2 (scratchpad `rf4/w/pairs-munchii.json`, copie avant `rf4/munchii-fr-avant.html`) : Statut (« CITES de 2012 à 2019, levée par la notification 2019/027 ; UE, décisions de 2008 à 2017, importations de spécimens sauvages ; plus en vigueur ») ; commentaire Species+ des Sites de référence (relu par l'API le 18/10). Formulation alignée sur les IT 27956 et 27960.
+- **Écart** : l'IT *munchii* 27853, présentée comme corrigée le 18/10, contient encore « (2008-2018) » en ligne (vérifié par l'API REST le 18/10) et dans son brouillon : non modifiée (hors consigne), signalée dans pilotes/fr-retouches.md.
+- Toxicité (« glycosides propres aux cycadales, la cycasine et la macrozamine ») correcte, MAM non cité : non modifiée. Index genre 14229 et SEO non concernés.
+- Contrôles : texte en ligne identique au brouillon, 16 liens internes même séquence, tous en 200 ; blocs 112/112 ; hreflang fr/it/en ; aucun commentaire de bloc visible ; User-Agent Chrome et curl : 200, `<title>` « Encephalartos munchii : cycadale du mont Zembe, Mozambique ». Rien commité.
