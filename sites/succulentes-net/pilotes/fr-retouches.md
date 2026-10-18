@@ -1,0 +1,30 @@
+# Retouches FR repérées pendant la passe IT (13-18/10/2026)
+
+Liste de travail (lots de 5 d'un même genre, comme d'habitude). Détails dans pilotes/cycadales-a-verifier.md et les -it-note.md.
+
+## Zamia
+- lacandona 22356 et magnifica 22363 : références pour toxines « chez les Zamia », Aulacaspis yasumatsui, règlement (UE) 2026/1383 ; magnifica : contradiction de l'article sur la taille des graines (1,9-2,4 cm / 18,6-23,5 mm).
+- portoricensis 21767 : plan UICN 2003 (deux localités, ni graines ni pollinisateur en dix ans) face aux travaux de 2008 et 2018.
+- pumila 21729 : toxicité — la Flore de Cuba ne dit « frites comme mort-aux-rats » que pour Z. integrifolia ; au niveau du genre, « l'amidon servait aussi de mort-aux-rats ».
+
+## Cycas
+- Page genre FR 1256 (index) : debaoensis, sphaerica, apoa → statuts publiés en 2023 ; nongnoochiae, nathorstii, nayagarhensis (2022), orixensis, montana, nitida (2023) → année de publication au lieu de 2020 ; sundaica « année non indiquée » → 2023 ; aligner sur l'index IT 11549 harmonisé le 18/10.
+- armstrongii 21562 : mort de John Armstrong à Kupang le 21/01/1847 confirmée par l'Australian National Herbarium (divergence avec WLoC 1820-1902).
+- aculeata 22084, andamanica 21956 : ravageurs génériques ; andamanica : Purti et al. 2022 (Luthrodes pandava).
+- desolata 26649 : PDF Lavaud 2021 (« difficile », « sols sableux », divergence avec le protologue).
+- dharmrajii 26651 : « climat tropical sans gel », « île tropicale humide » non sourcés.
+- ophiolitica 26715 : FAQ « qui tolèrent un peu mieux la fraîcheur » étendu à tort à toute la classe « moyenne ».
+- lane-poolei 26681 : « seule espèce du Kimberley qu'il cite » → Lavaud écrit « Territoire de l'Ouest ».
+- papuana 26712 : Species+ ne cite pas non plus l'Australie.
+- debaoensis FR 5683 : statut non daté (renvoie à 2010) → réévaluation publiée en 2023-1 (CR).
+- macrocarpa : fiche IT 28700 sans la réserve sur le Laos (index seulement) — à ajouter en IT.
+
+## Encephalartos
+- munchii 12296, gratus 12439, umbeluziensis 12681 : suspensions Species+ visant le Mozambique = CITES 2012-2019 (notification 2019/027) et UE 2008-2017, pour toutes les Zamiaceae (pas « 2008-2018 »).
+- Brouillon local pilotes/genre-encephalartos-it.html à réaligner sur la page 11663 (8 liens d'espèces manquants dans le brouillon).
+
+## Microcycas
+- Page genre FR 13865 : « déséquilibre entre mâles et femelles » (sans source, Pollinisation et FAQ) ; « jeunes plants à mi-ombre » et 800-1 000 plantes (Peña-García 1998) à attribuer à Wikipédia ES ; noms abrégés « Z. » dans le titre de Lazcano Lara 2007.
+
+## Question au propriétaire
+- PlantZAfrica (SANBI) répond 403 aux robots mais 200 à un navigateur : peut-on l'utiliser comme source (nom « msinga-broodboom », « frost tolerant ») ?

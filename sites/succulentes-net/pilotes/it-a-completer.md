@@ -28,4 +28,4 @@ Source des points : pilotes/cycadales-a-verifier.md (sections « IT à compléte
 | Lot | Espèces (id IT) |
 |---|---|
 | IM1 | Microcycas calocoma 27425 fait (18/10/2026) (+ page genre IT Microcycas 27379 alignée, fait (18/10/2026)) |
-| IE1 | Encephalartos msinganus 27851, munchii 27853, gratus 27956, umbeluziensis 27960 |
+| IE1 | Encephalartos msinganus 27851 fait (18/10/2026), munchii 27853 fait (18/10/2026), gratus 27956 fait (18/10/2026), umbeluziensis 27960 fait (18/10/2026) |

@@ -334,10 +334,10 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 - FR genre Microcycas 13865 (signalé 18/10/2026 lors de IM1) : encore « déséquilibre entre mâles et femelles » sans source dans « Pollinisation » et la FAQ (Wikipédia EN, cf. fiche 13877), exposition « jeunes plants à mi-ombre » non attribuée à la Wikipédia ES dans l'encadré, Peña-García 1998 (800-1 000 plantes) non attribué à la Wikipédia ES, titre de Lazcano Lara 2007 avec noms abrégés (Z. integrifolia, Z. ottonis, Z. pygmaea) ; corrigés dans l'IT 27379.
 
 - IT à compléter (17/10/2026, nettoyage FR A1b ; détails dans les -fr-note.md) :
-  - msinganus IT 27851 : avis SANBI (NDF 2015), nom « Msinga cycad », avis négatif UE 2013, date du type ; données PlantZAfrica et conseils de culture repris de l'ancienne FR non vérifiés.
-  - munchii IT 27853 : fiche Kew Mount Zembe (2026), UICN 2003 (17 plantes), retour Agen −4 °C.
-  - gratus IT 27956 : Bayliss et al. 2010, liste UICN 1984 (Les Cèdres, Naples), UICN 2003 ; cas floridien PalmTalk non vérifiable.
-  - umbeluziensis IT 27960 : Dyer 1965, liste 1984, UICN 2003, écart Species+ sur l'Afrique du Sud.
+  - msinganus IT 27851 : avis SANBI (NDF 2015), nom « Msinga cycad », avis négatif UE 2013, date du type ; données PlantZAfrica et conseils de culture repris de l'ancienne FR non vérifiés. — IT FAIT 18/10/2026
+  - munchii IT 27853 : fiche Kew Mount Zembe (2026), UICN 2003 (17 plantes), retour Agen −4 °C. — IT FAIT 18/10/2026
+  - gratus IT 27956 : Bayliss et al. 2010, liste UICN 1984 (Les Cèdres, Naples), UICN 2003 ; cas floridien PalmTalk non vérifiable. — IT FAIT 18/10/2026
+  - umbeluziensis IT 27960 : Dyer 1965, liste 1984, UICN 2003, écart Species+ sur l'Afrique du Sud. — IT FAIT 18/10/2026
 - EN à vérifier lors de la phase EN : umbeluziensis 16978 (graines « bosselées », cônes restant verts, Mlawula, statut eswatinien 2005, Van Wyk & Claassen 1981).
 
 - FR retouches mineures (signalées 17/10/2026 lors de IZ1) : lacandona 22356 et magnifica 22363 — toxines « chez les Zamia », Aulacaspis yasumatsui et règlement (UE) 2026/1383 cités sans référence dans la fiche (ajouter les références ou les liens vers les pages qui les sourcent) ; magnifica FR — exposer aussi la contradiction de l'article sur la taille des graines (1,9-2,4 cm dans la discussion, 18,6-23,5 mm dans la description), comme l'IT 28109.
