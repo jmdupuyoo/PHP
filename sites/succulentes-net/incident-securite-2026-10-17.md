@@ -79,3 +79,4 @@ Journaux, 14/10/2026 :
 Les autres POST wp-login en 302 (15-17/10, IP du monde entier) sont suivis d'un retour à `wp-login.php` : tentatives échouées.
 Conclusion : **identifiants d'un administrateur compromis** (admin-succulentes ou Nilo/OpenClaw — à déterminer via `wp user meta get admin-succulentes session_tokens`). Fausse extension supprimée (18/10), dossier `item/` supprimé, aucun autre fichier créé/modifié entre le 14 et le 17/10 hors traductions et `.htaccess` (contenu normal).
 Mesures : nouveau mot de passe WordPress unique, `wp config shuffle-salts`, double authentification (extension « Two-Factor »), recherche de la fuite (réutilisation du mot de passe, outil tiers, logiciel espion sur l'ordinateur), mot de passe et 2FA Gmail.
+- 18/10/2026 : `wp config shuffle-salts` exécuté par le propriétaire (toutes les sessions invalidées) ; site et accès Pont MCP vérifiés ensuite.
