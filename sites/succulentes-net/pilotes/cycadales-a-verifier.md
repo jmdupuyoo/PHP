@@ -262,8 +262,8 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 - IT à compléter (13/10/2026, nettoyage FR Z8) : pumila IT 28196 — protologue et planche de Commelin lus ; Flora de Cuba (description chiffrée, répartition orientale sur serpentine) ; Eckenwalder 1980 et Hortus Kewensis (origine de la confusion avec integrifolia) ; plan UICN 2003 (NT, 5 000-10 000 plantes, présumée éteinte à Porto Rico) ; Ornduff 1987 ; Pagán-Jiménez 2013 (pente ≈ 45° pour le 1er groupe ; petit groupe de jeunes plantes près d'une femelle : l'IT généralise « nessuna plantula ») ; Abbad y Lasierra (intoxications). Détails dans espece-zamia-pumila-fr-note.md. — IT FAIT 17/10/2026
 
 - IT à compléter (13/10/2026, nettoyage FR C1 ; détails dans les -fr-note.md) :
-  - andamanica IT 28451 : raison du choix de pschannae (eFlora of India : priorité de date, août contre septembre 2015) ; les deux noms étaient synonymes de sainathii dans l'ancienne WLoC.
-  - aculeata IT 28445 : réévaluation UICN 2023-1 (e.T42043A67334346), EN maintenu — l'IT dit qu'aucune évaluation postérieure à 2010 n'existe.
+  - andamanica IT 28451 : raison du choix de pschannae (eFlora of India : priorité de date, août contre septembre 2015) ; les deux noms étaient synonymes de sainathii dans l'ancienne WLoC. — IT FAIT 18/10/2026
+  - aculeata IT 28445 : réévaluation UICN 2023-1 (e.T42043A67334346), EN maintenu — l'IT dit qu'aucune évaluation postérieure à 2010 n'existe. — IT FAIT 18/10/2026
   - armstrongii IT 28466 : dates de John Armstrong (1820-1902 selon WLoC et Haynes 2022 ; à vérifier, nommé à Port Essington dès 1838).
   - balansae IT 28478 : réévaluation UICN 2023-1 (e.T42069A67336462), EN maintenu.
   - brachycantha IT 28487 : catégorie 2023 VU selon GBIF (l'IT la dit inconnue et mentionne NT).
@@ -294,7 +294,7 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - maconochiei IT 28690 : statut UICN 2023 (espèce, subsp. maconochiei, viridis : LC) ; « stagione secca marcata » et « clima senza gelo » non sourcés.
   - multipinnata IT 28722 : réévaluation CR 2023-1 ; mesures Flora of China / Hill mélangées (mégasporophylles 8-12 cm, 25-35 lobes, 12-22 paires de folioles).
   - pachypoda IT 28778 : réévaluation CR 2023-1.
-  - pschannae IT 28836, andamanica IT 28451, dharmrajii IT 28567 : la Liste rouge 2022-1 (via GBIF) range pschannae, andamanica et dharmrajii sous C. sainathii s.l., VU ; WLoC donne NE.
+  - pschannae IT 28836, andamanica IT 28451, dharmrajii IT 28567 : la Liste rouge 2022-1 (via GBIF) range pschannae, andamanica et dharmrajii sous C. sainathii s.l., VU ; WLoC donne NE. — IT FAIT 18/10/2026 pour andamanica (pschannae et dharmrajii : lot IC5)
 
 - Message La Londe (compte JMDUPUYOO, Fous de palmiers 2012) : Cycas sexseminifera, plants « 3 ans dehors sous canopée sans problème ». Exclu de la fiche FR 22025 selon la consigne ; à confirmer par le propriétaire comme observation du Jardin zoologique tropical.
 - IT à compléter (13/10/2026, nettoyage FR C6 ; détails dans les -fr-note.md) :

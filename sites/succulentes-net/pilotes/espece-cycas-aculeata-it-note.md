@@ -32,3 +32,16 @@
 
 ## Liens croisés (12/10/2026, fin du lot balansae–brunnea)
 - *Cycas balansae* (28478) liée sur sa première occurrence (Possibili confusioni, « La specie più vicina… ») par replace_in_content ciblé (chaîne unique, dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne.
+
+## Correzione del 18/10/2026 (lot IC1)
+
+- Corrections ciblées (replace_in_content, ids [28445], simulation 16/16 puis application 16/16) d'après la FR 22084 (nettoyage du 13/10).
+- Sources relues ce jour : GBIF API (clé 2683304 : EN, iucnTaxonID 42043) ; Crossref : évaluation Bösenberg & Nguyen, doi 10.2305/IUCN.UK.2023-1.RLTS.T42043A67334346.en (champ « issued » 02/09/2021, publiée dans la version 2023-1).
+- Erreur corrigée : « The World List of Cycads non segnala valutazioni più recenti » et statut daté de 2010 seul (→ réévaluation 2023-1 de Bösenberg & Nguyễn, EN maintenu) dans l'encadré, la section Stato et la FAQ.
+- Présenté comme rapporté (et non comme fait) : mesures morphologiques, sol limoneux sur granite et parenté avec *balansae* — seule source Wikipédia EN (d'après les Cycad Pages de Hill), comme dans la FR ; « Gli autori la avvicinavano a *balansae* » remplacé (texte des auteurs non vérifié).
+- Ajouté : divergence de date de récolte du type (WLoC 23/01/2000, IPNI 23/06/2000) ; Fonti : GBIF ; Bibliografia : Bösenberg & Nguyễn 2023.
+- Retiré (non sourcé, retiré aussi en FR) : *Luthrodes pandava* « nelle regioni indo-pacifiche », « altre differenze riguardano le foglioline », « la specie dovrebbe crescere lentamente » ; parassiti generici présentés « in linea di principio ».
+- Toxicité : phrase cicasina → metilazossimetanolo + BMAA conservée (exacte).
+- Index page genre IT 11549 : « (EN, 2010) » → « (EN, 2023) » (simulation 1, application 1) ; brouillon genre aligné (verify.py identique).
+- SEO inchangé (titre et meta toujours exacts).
+- Contrôles : verify.py — texte identique, 6 liens même séquence tous en 200, blocs 101/101, aucun commentaire visible, hreflang fr/it ; curl et User-Agent Chrome : 200, `<title>` « Cycas aculeata: cicadea endemica del Vietnam centrale » (aucun cloaking).

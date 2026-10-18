@@ -45,3 +45,4 @@ Suspendu par Claude le 17/10/2026 après le lot IZ4, en attendant le nettoyage.
 - 18/10/2026 : compte Nilo supprimé par le propriétaire ; snippet 10 « Nilo Translation API » désactivé par Claude (réversible). Site contrôlé en 200 ensuite.
 - 18/10/2026 : Google Search Console, « Problèmes de sécurité » : aucun problème détecté. Reste conseillé : renvoyer sitemap_index.xml, surveiller les pages indexées en /product/ (404 désormais).
 - Travail de contenu repris le 18/10/2026 (lot IC1).
+- 18/10/2026 : extensions — mises à jour automatiques réactivées par le propriétaire (ligne AUTOMATIC_UPDATER_DISABLED retirée) ; **WP BackItUp Community Edition 2.1.0 fermé sur wordpress.org depuis le 20/08/2026** (« temporary, pending a full review ») : plus de mises à jour, point d’entrée possible (non prouvé). Conseillé : vérifier JetBackup (o2switch), supprimer WP BackItUp et ses archives. Dossiers wpbackitup_backups / wpbackitup_restore non accessibles depuis le web (404).

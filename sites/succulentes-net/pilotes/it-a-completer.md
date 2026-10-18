@@ -15,7 +15,7 @@ Source des points : pilotes/cycadales-a-verifier.md (sections « IT à compléte
 ## Cycas
 | Lot | Espèces (id IT) |
 |---|---|
-| IC1 | andamanica 28451, aculeata 28445, armstrongii 28466, balansae 28478, brachycantha 28487 |
+| IC1 | andamanica 28451 fait (18/10/2026), aculeata 28445 fait (18/10/2026), armstrongii 28466, balansae 28478, brachycantha 28487 |
 | IC2 | changjiangensis 28522, chenii 28525, collina 28536, chevalieri 28528, desolata 28564 |
 | IC3 | fairylakea 28610, ferruginea 28616, hoabinhensis 28639, condaoensis 28540, hongheensis 28642 |
 | IC4 | hainanensis 28636, glauca 28633, laotica 28677, lingshuigensis 28685, maconochiei 28690 |
