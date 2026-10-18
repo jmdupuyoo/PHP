@@ -209,3 +209,7 @@ Les adresses en texte brut sont rendues cliquables par l'extrait n° 12 (externe
 ## Organisation du travail (décision du propriétaire, 12/10/2026)
 
 Lots de 5 fiches d'un même genre ; un seul lot à la fois ; chaque fiche terminée entièrement (publication, SEO, brouillon, note, liens d'index, inventaire, journal) avant la suivante.
+
+
+## Sources : PlantZAfrica (décision du propriétaire, 18/10/2026)
+PlantZAfrica (SANBI, pza.sanbi.org) refuse les requêtes de robots (403) mais s'ouvre avec un User-Agent de navigateur. Le propriétaire autorise son utilisation comme source (consultation avec un User-Agent de navigateur). Cette autorisation ne vaut que pour PlantZAfrica : POWO, la Liste rouge UICN, BHL et PalmTalk (Cloudflare) restent non contournés.

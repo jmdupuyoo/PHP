@@ -26,5 +26,14 @@ Liste de travail (lots de 5 d'un même genre, comme d'habitude). Détails dans p
 ## Microcycas
 - Page genre FR 13865 : « déséquilibre entre mâles et femelles » (sans source, Pollinisation et FAQ) ; « jeunes plants à mi-ombre » et 800-1 000 plantes (Peña-García 1998) à attribuer à Wikipédia ES ; noms abrégés « Z. » dans le titre de Lazcano Lara 2007.
 
-## Question au propriétaire
-- PlantZAfrica (SANBI) répond 403 aux robots mais 200 à un navigateur : peut-on l'utiliser comme source (nom « msinga-broodboom », « frost tolerant ») ?
+## Décision du propriétaire (18/10/2026)
+- PlantZAfrica autorisé comme source (User-Agent de navigateur) : à utiliser pour msinganus (nom afrikaans « msinga-broodboom », « frost tolerant » à attribuer) et les autres Encephalartos sud-africains.
+
+## Lots
+| Lot | Contenu |
+|---|---|
+| RF1 | Cycas : index page genre 1256 ; debaoensis 5683 ; armstrongii 21562 ; aculeata 22084 ; andamanica 21956 |
+| RF2 | Cycas : desolata 26649 ; dharmrajii 26651 ; ophiolitica 26715 ; lane-poolei 26681 ; papuana 26712 (+ IT macrocarpa 28700 : réserve Laos) |
+| RF3 | Zamia : lacandona 22356 ; magnifica 22363 ; portoricensis 21767 ; pumila 21729 |
+| RF4 | Encephalartos : msinganus 5596 (PlantZAfrica) ; munchii 12296 ; gratus 12439 ; umbeluziensis 12681 (+ brouillon genre-encephalartos-it.html) |
+| RF5 | Microcycas : page genre FR 13865 |
