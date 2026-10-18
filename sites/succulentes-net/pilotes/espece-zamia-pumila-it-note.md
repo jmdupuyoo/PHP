@@ -39,3 +39,10 @@
 - Contrôles : texte en ligne identique au brouillon et liens identiques (verify2.py), URL 200, aucun commentaire de bloc visible, 181/181 blocs appariés, hreflang fr/it/en conservés. ≈ 6 700 mots (Rank Math 6 667).
 - Points douteux : identité des plantes de Messine et de Palerme ; Haïti (Eckenwalder : absent / Pagán-Jiménez 2013 : complexe présent) ; Ornduff 1987 connu par le résumé ; Stevenson 1987 et Smith 1961 non lus ; motifs de la conservation d'*integrifolia* non lus ; pollinisateur non documenté ; la flore de Cuba décrit le concept cubain seulement.
 - Rien commité.
+
+## Correzione del 18/10/2026 (lot RF5)
+
+- Point de pilotes/fr-retouches.md (ajouts RF3) : Tossicità — l'IT ne citait que *Zamia integrifolia* pour les morceaux de tige frits employés comme mort-aux-rats.
+- Source relue ce jour : *Flora de la República de Cuba* 8(4), González Géigel 2003 (texte local `scratchpad/z5/frc/zam.txt`) : *Zamia angustifolia* (2.1) « Los trozos de rizoma fritos y partidos en pedazos se echan a los ratones para matarlos (Roig 1963) » ; *Zamia integrifolia* (2.3) « fragmentos de los mismos, fritos, sirven como raticidas (Roig 1963) » ; rien de tel sous *Zamia pumila* (2.4) ; au niveau du genre, amidon « aún como raticida ».
+- replace_in_content ids=[28196] : simulation 1/1 puis application 1/1 : « pezzi di fusto fritti di *Zamia integrifolia* e di *Zamia angustifolia* erano usati allo stesso scopo; la flora non lo riporta per *Zamia pumila* », comme la FR 21729 corrigée en RF3 (sans nouveau lien : les deux espèces sont déjà liées plus haut). Brouillon `espece-zamia-pumila-it.html` aligné (copie avant : scratchpad `rf5/pumila-it-avant.html`).
+- Contrôles : texte en ligne identique au brouillon (verify2.py, liens dans le même ordre) ; URL 200 en curl et avec un User-Agent Chrome, `<title>` « Zamia pumila: specie tipo del genere, spesso confusa » ; hreflang fr/it/en ; aucun commentaire de bloc visible ; blocs 181/181, HTML équilibré ; 14 liens internes IT en 200. SEO et index de la page genre IT 11879 non concernés. Rien commité.
