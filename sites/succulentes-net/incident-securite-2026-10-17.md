@@ -59,3 +59,13 @@ Suspendu par Claude le 17/10/2026 après le lot IZ4, en attendant le nettoyage.
 - 13/10/2026 00:40-00:46 : l'IP 62.60.130.111 parcourt un à un les fichiers internes de WordPress (wp-includes/*.php, wp-content/languages/*.l10n.php) et teste wp-login.php (reconnaissance de version). À suivre.
 - 13/10/2026 01:06 : POST wp-login.php depuis 47.76.111.197 (Alibaba Cloud), réponse 200 = échec de connexion.
 - **Clé Pont MCP transmise dans l'URL (`?cle=…`)** : elle figure en clair dans les journaux d'accès (et a été recopiée dans la conversation). Accès complet au site, y compris les extraits Code Snippets (exécution de PHP) → point d'entrée possible si la clé a fuité. Demandé au propriétaire : régénérer la clé (Réglages → Pont MCP) et mettre à jour le connecteur Claude ; vérifier les IP appelant /wp-json/pont-mcp/ (attendu : 160.79.x, Anthropic). Amélioration souhaitable du plugin : accepter la clé dans un en-tête HTTP plutôt que dans l'URL.
+
+## Point d'entrée identifié (journaux, 18/10/2026)
+14/10/2026, heure du serveur, IP **23.160.56.155** :
+- 15:38:39 `GET /wp-content/plugins/wp-duplicate-page/includes/Classes/ControllerBackup.php?<base64>` → 200 (extension **WP Duplicate Page, inactive**, appelée directement : exploitation)
+- 15:41:58 `GET /import.php?g=<code>` → 200 (fichier dropper/porte dérobée à la racine)
+- 15:44:06 `GET /item/default.php?act=ini&ms=-1` → 200 (seconde porte dérobée)
+- 16:02:47 première fausse page `/product/…` servie.
+Reconnaissance préalable : 62.60.130.111 les 11/10 (296 requêtes) et 13/10 (300 requêtes). Sondes génériques 14/10 15:01-15:05 (136.110.117.198 : php-cgi, graphql…) sans effet.
+**À vérifier/faire immédiatement** : présence de `import.php`, `item/`, `wp-content/plugins/wp-duplicate-page/` → quarantaine/suppression ; fichiers créés le 14/10 (recherche par ctime) ; requêtes POST wp-login.php en 302 du 15 au 18/10 (lostpassword ou connexions réussies ?).
+La clé Pont MCP n'est donc pas le point d'entrée (appels venant d'Anthropic 160.79.x dans l'extrait), mais doit être régénérée car exposée.
