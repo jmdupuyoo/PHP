@@ -33,3 +33,14 @@
 - Graphie des localités vietnamiennes de Hill (sans diacritiques) conservée.
 
 - 12/10/2026 (lot Cycas divyadarshanii–elongata) : lien vers *Cycas dolichophylla* (28585) posé à la première occurrence (Ibridi) par replace_in_content ciblé ; brouillon aligné.
+
+## Correzione del 18/10/2026 (lot IC2)
+
+- Corrections ciblées (replace_in_content, ids [28536], simulation 12/12 puis application 12/12) d'après la FR 22067 (nettoyage du 13/10) et sa note « À signaler pour l'IT ».
+- Sources relues ce jour : Crossref (réévaluation T.H. Nguyen & A. Lindstrom, doi 10.2305/IUCN.UK.2023-1.RLTS.T42051A67340335.en, « issued » 04/11/2020, publiée dans la version 2023-1 ; évaluation H.T. Nguyen 2010, doi 10.2305/IUCN.UK.2010-3.RLTS.T42051A10639008.en ; protologue Bot. Rev. 70(2) : 134-193, doi 10.1663/0006-8101(2004)070[0134:TGCCIV]2.0.CO;2) ; GBIF API (clé 2683279 : CR, iucnTaxonID 42051) ; WLoC 109 (CR A2ace+4ace, distribution « Vietnam (Son La) », référence Nguyen 2010 mais lien vers l'évaluation 42051/67340335) ; Trebrown (zone 9b, « None known »).
+- Erreur corrigée : la valutazione 2010 présentée comme seule (intro, encadré, Stato, FAQ) → réévaluation 2023-1 de Nguyễn & Lindström, CR maintenu ; attribution des critères A2ace+4ace présentée avec réserve (WLoC cite 2010 mais renvoie à 2023).
+- Ajouté : zone USDA 9b de Trebrown (encadré, Rusticità, Riferimenti internazionali ; classement commercial non étayé), absence de nom anglais chez Trebrown (Nomi comuni) ; Fonti : GBIF, Trebrown, WLoC « riconsultata » avec la réserve ; Bibliografia : doi du protologue et de l'évaluation 2010, Nguyễn & Lindström 2023.
+- Rien retiré. Toxicité inchangée.
+- Index page genre IT 11549 : « Vietnam; … (CR, 2010) » → « Vietnam nord-occidentale e Cina meridionale (Yunnan), probabilmente anche Laos e Myanmar; … (CR, 2023) », comme l'index FR 1256 (simulation 1, application 1) ; brouillon genre aligné (verify2 : texte et liens identiques).
+- SEO inchangé (meta sans année, toujours exacte).
+- Contrôles : verify.py — texte identique, 12 liens même séquence tous en 200, blocs 101/101, aucun commentaire visible, hreflang fr/it ; curl et User-Agent Chrome : 200, `<title>` « Cycas collina: la cicadea montana di Vietnam e Yunnan » (aucun cloaking).

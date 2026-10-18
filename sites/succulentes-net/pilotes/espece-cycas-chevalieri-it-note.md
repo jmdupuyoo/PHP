@@ -38,3 +38,14 @@
 - Description moderne (Hill et al. 2004) non lue : page volontairement limitée au protologue.
 - Nom vernaculaire : « Cây ngen » (lecture FR du scan) contre « Cay nger » (OCR) ; non confirmé par une source vietnamienne.
 - Récolte du « Tonkin occidental » citée par Leandri, absente de l'aire actuelle WLoC : signalé sans interprétation.
+
+## Correzione del 18/10/2026 (lot IC2)
+
+- Corrections ciblées (replace_in_content, ids [28528], simulation 8/8 puis application 8/8) d'après la FR 21892 (nettoyage du 13/10) et sa note « À signaler pour l'IT ».
+- Sources relues ce jour : WLoC 86 (HTML : « IUCN Red List: Vulnerable A4acd; B1ab(i,ii,iii,iv,v) », référence « Nguyen HT. 2010 … Red List Assessment », lien vers iucnredlist.org/species/42073/67339469 = évaluation 2023) ; GBIF API (clé 2683281 : VU, iucnTaxonID 42073) ; de Laubenfels & Adema 1998 (texte local `scratchpad/cyq/blumea-0006-5196-43-351-400.txt`, synonymie d'*Epicycas tonkinensis* : *C. balansae*, *C. chevalieri* (Fleury 32612, P), *C. micholitzii* var. *simplicipinna*).
+- Erreur corrigée : critères UICN A4acd; B1ab(i,ii,iii,iv,v) attribués sans réserve à l'évaluation 2023 (encadré, Stato) → WLoC les affiche en citant Nguyen 2010 comme référence tout en liant l'évaluation 2023 : attribution non vérifiable, dite dans le texte ; catégorie VU confirmée par GBIF.
+- Ajouté : *Cycas micholitzii* var. *simplicipinna* dans la synonymie de de Laubenfels & Adema 1998 (Possibili confusioni, avec lien IT *Cycas simplicipinna* en 200 ; Tassonomia ; Bibliografia) ; GBIF en Fonti ; WLoC « riconsultata » avec la précision sur les critères ; annotations bibliographiques des évaluations 2010 et 2023.
+- Rien retiré. Toxicité inchangée. « Cây ngen » déjà conforme à la lecture du scan par la FR.
+- Polylang : non touché (traductions FR 21892 et EN 18748 à la corbeille laissées telles quelles, conformément à la consigne) ; hreflang de la page IT : fr + it.
+- Statut inchangé ; index page genre IT 11549 « vulnerabile (VU, 2023) » conforme à l'index FR (non modifié) ; SEO inchangé (titre et meta toujours exacts).
+- Contrôles : verify.py — texte identique, 8 liens même séquence tous en 200, blocs 106/106, aucun commentaire visible ; curl et User-Agent Chrome : 200, `<title>` « Cycas chevalieri: la cicadea di Chevalier del Vietnam » (aucun cloaking).

@@ -269,10 +269,10 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - brachycantha IT 28487 : catégorie 2023 VU selon GBIF (l'IT la dit inconnue et mentionne NT). — IT FAIT 18/10/2026
 
 - IT à compléter (13/10/2026, nettoyage FR C2 ; détails dans les -fr-note.md) :
-  - changjiangensis IT 28522 : comparaison Flora of China avec C. siamensis (base du tronc grise renflée ; nervure très saillante dessus ; graines ≈ 1,8 cm).
-  - chenii IT 28525 : évaluation UICN Zhou & Gong, version 2023-1, e.T103632155A103632285 (l'IT dit « senza anno »).
-  - collina IT 28536 : réévaluation 2023-1 (Nguyễn & Lindström, CR) ; zone 9b de Trebrown.
-  - chevalieri IT 28528 : critères UICN attribués par WLoC à Nguyễn 2010 (l'IT les attribue à 2023 sans réserve) ; de Laubenfels & Adema 1998 incluent simplicipinna dans Epicycas tonkinensis.
+  - changjiangensis IT 28522 : comparaison Flora of China avec C. siamensis (base du tronc grise renflée ; nervure très saillante dessus ; graines ≈ 1,8 cm). — IT FAIT 18/10/2026
+  - chenii IT 28525 : évaluation UICN Zhou & Gong, version 2023-1, e.T103632155A103632285 (l'IT dit « senza anno »). — IT FAIT 18/10/2026
+  - collina IT 28536 : réévaluation 2023-1 (Nguyễn & Lindström, CR) ; zone 9b de Trebrown. — IT FAIT 18/10/2026
+  - chevalieri IT 28528 : critères UICN attribués par WLoC à Nguyễn 2010 (l'IT les attribue à 2023 sans réserve) ; de Laubenfels & Adema 1998 incluent simplicipinna dans Epicycas tonkinensis. — IT FAIT 18/10/2026
 - C. chevalieri EN 18748 toujours à la corbeille et liée à FR 21892 / IT 28528 : à restaurer et réécrire lors de la phase EN, ou délier (décision du propriétaire).
 
 - IT à compléter (13/10/2026, nettoyage FR C3 ; détails dans les -fr-note.md) :

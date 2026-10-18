@@ -49,3 +49,13 @@
 
 - 12/10/2026, fin du lot *Cycas* furfuracea–hongheensis : lien vers *hainanensis* (IT 28636) posé à la première occurrence hors intro/encadré/titres/fonti par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py).
 - 12/10/2026 : lien vers la fiche *Cycas lingshuigensis* (28685) posé sur la première occurrence de *Cycas lingshuiensis* hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.
+
+## Correzione del 18/10/2026 (lot IC2)
+
+- Corrections ciblées (replace_in_content, ids [28522], simulation 8/8 puis application 8/8) d'après la FR 21885 (nettoyage du 13/10) et sa note « À signaler pour l'IT ».
+- Sources relues ce jour : Flora of China (eFloras, taxon 210000340 : « Similar to Cycas siamensis Miquel in its gray and abruptly swollen trunk base, but quite different… strongly adaxially raised midvein and small seeds (ca. 1.8 cm in diam.) with sarcotesta not spongy or fibrous ») ; GBIF API (clé 2683231 : EN, iucnTaxonID 42045).
+- Ajouté : comparaison avec *Cycas siamensis* (Flora of China) dans « Possibili confusioni », avec lien IT (28898, 200) ; phrase d'introduction de la liste précisant que le dernier point vient de la Flora of China ; confirmation EN par GBIF (Stato) ; GBIF en Fonti ; Flora of China « riconsultata » et comparaison mentionnée ; Bibliografia Bösenberg : catégorie confirmée via GBIF.
+- Précisé (comme en FR) : phrase du résumé de Tao 2021 sur l'hybridation à construction ambiguë ; faible diversité et forte différenciation décrites pour les six espèces ensemble, non attribuables à *changjiangensis* seule ; niveau de protection chinois non vérifié.
+- Rien retiré (le reste de la fiche était déjà conforme à la FR du 13/10). Toxicité inchangée (cicasina, sans MAM ni glycosides).
+- Statut et encadré inchangés ; index genre IT 11549 conforme « (EN, 2022) » (non modifié) ; SEO inchangé (titre et meta toujours exacts).
+- Contrôles : verify.py — texte identique, 17 liens même séquence tous en 200, blocs 121/121, aucun commentaire visible, hreflang fr/it/en/es ; curl et User-Agent Chrome : 200, `<title>` « Cycas changjiangensis: la cicadea nana di Hainan, Cina » (aucun cloaking).

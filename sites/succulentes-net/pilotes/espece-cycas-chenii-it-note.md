@@ -41,3 +41,15 @@
 - Altitude : 500-1300 m (protologue via Yang 2017) contre 489-1600 m (tableau des populations échantillonnées) : les deux sont donnés.
 
 - 12/10/2026, fin du lot *Cycas* furfuracea–hongheensis : lien vers *hainanensis* (IT 28636) posé à la première occurrence hors intro/encadré/titres/fonti par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py).
+
+## Correzione del 18/10/2026 (lot IC2)
+
+- Corrections ciblées (replace_in_content, ids [28525], simulation 7/7 puis application 7/7) d'après la FR 21968 (nettoyage du 13/10) et sa note « À signaler pour l'IT ».
+- Sources relues ce jour : Crossref (doi 10.2305/IUCN.UK.2023-1.RLTS.T103632155A103632285.en : « Cycas chenii: Zhou, W. & Gong, X. », date « issued » 23/04/2020, publiée dans la version 2023-1) ; GBIF API (clé 10330730 : EN, iucnTaxonID 103632155).
+- Erreur corrigée : statut présenté comme « EN secondo The World List of Cycads, senza anno indicato » / sans auteur ni année (intro, encadré, Stato, FAQ) → évaluation UICN de W. Zhou et X. Gong, version 2023-1 de la Liste rouge, EN B1ab(iii,v), confirmée par WLoC et GBIF.
+- Précisé (comme en FR) : le « in pericolo critico » de Yang et al. 2017 est une formulation des auteurs, non une évaluation Liste rouge.
+- Ajouté : GBIF en Fonti ; Zhou & Gong 2023 en Bibliografia.
+- Rien retiré. Toxicité inchangée.
+- Index page genre IT 11549 : « in pericolo (EN) secondo The World List of Cycads, senza valutazione datata della Lista rossa; stato proposto dagli autori nel 2015 » → « in pericolo (EN, 2023) » (simulation 1, application 1), comme l'index FR 1256 ; brouillon `genre-cycas-it.html` aligné (verify.py : texte identique, 130 liens en 200, blocs 135/135).
+- SEO inchangé (titre et meta sans statut, toujours exacts).
+- Contrôles : verify.py — texte identique, 8 liens même séquence tous en 200, blocs 102/102, aucun commentaire visible, hreflang fr/it/es ; curl et User-Agent Chrome : 200, `<title>` « Cycas chenii: la cicadea acaule del Fiume Rosso, Yunnan » (page genre : « Cycas: 118 specie, rusticità e coltivazione in Italia ») — aucun cloaking.
