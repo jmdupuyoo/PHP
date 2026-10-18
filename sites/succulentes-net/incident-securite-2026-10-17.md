@@ -80,3 +80,9 @@ Les autres POST wp-login en 302 (15-17/10, IP du monde entier) sont suivis d'un 
 Conclusion : **identifiants d'un administrateur compromis** (admin-succulentes ou Nilo/OpenClaw — à déterminer via `wp user meta get admin-succulentes session_tokens`). Fausse extension supprimée (18/10), dossier `item/` supprimé, aucun autre fichier créé/modifié entre le 14 et le 17/10 hors traductions et `.htaccess` (contenu normal).
 Mesures : nouveau mot de passe WordPress unique, `wp config shuffle-salts`, double authentification (extension « Two-Factor »), recherche de la fuite (réutilisation du mot de passe, outil tiers, logiciel espion sur l'ordinateur), mot de passe et 2FA Gmail.
 - 18/10/2026 : `wp config shuffle-salts` exécuté par le propriétaire (toutes les sessions invalidées) ; site et accès Pont MCP vérifiés ensuite.
+
+## Compte utilisé : admin-succulentes (18/10/2026)
+- `session_tokens` du compte admin-succulentes : session ouverte le **13/10/2026 à 18:22:13 UTC (20:22 heure de Paris) depuis 124.41.211.13** (fournisseur d'Asie du Sud) ; session du 18/10 13:36 UTC depuis 92.150.162.102 (propriétaire, Orange).
+- Journaux, 13/10 20:22 (heure serveur) depuis 124.41.211.13 : `GET wp-login.php` → `POST wp-login.php` 302 → `GET /wp-admin/` 200 → `GET /wp-admin/plugin-install.php` 200, puis départ (14 s au total) : test automatisé des identifiants et des droits.
+- Conclusion (sauf connexion du propriétaire depuis l'étranger ce soir-là, à confirmer) : **mot de passe du compte admin-succulentes connu de l'attaquant au plus tard le 13/10**. Le 14/10, 62.210.254.213 s'est connecté (compte non identifiable, session expirée) et a téléversé la fausse extension.
+- Priorités : nouveau mot de passe WordPress unique, double authentification (Two-Factor), mot de passe et 2FA Gmail, recherche de la fuite (réutilisation, outil tiers, logiciel espion, haveibeenpwned).
