@@ -35,3 +35,11 @@
 
 ## Points douteux
 - Liste rouge non consultée directement (catégorie via WLoC, date via Crossref). « 2005 tsunami » dans Telopea (le tsunami date du 26/12/2004) : la page dit « datato 2005 nell'articolo ». Clé de Singh & Misra 2020 non lue. Novon 2002 non consulté directement.
+
+## Correzione del 18/10/2026 (lot IC6)
+- Corrections ciblées (replace_in_content sur 29032 : simulation 8/8 puis application 8/8) d'après la FR 21995 réécrite le 17/10 (lot C7) et sa note (« À signaler pour l'IT »).
+- Sources relues ce jour : GBIF API 2683266 (*C. zeylanica* CR, iucnTaxonID 42098) et 10540194 (*C. sainathii* VU, iucnTaxonID 103631608, accepté) ; Crossref : Lindstrom (zeylanica, issued 2020-03-04, version 2022-1) et Singh (sainathii, 10.2305/IUCN.UK.2022-1.RLTS.T103631608A243419871.en, issued 2020-03-19, version 2022-1). Rattachement de *pschannae*, *andamanica* et *dharmrajii* à *sainathii* dans le jeu UICN : repris des notes IC5 (*pschannae*, *dharmrajii*) et de la FR, non relu.
+- Lacune corrigée : l'IT présentait *sainathii* comme simple synonyme sans signaler que la Liste rouge l'évalue à part (VU, 2022) ; divergence WLoC / Liste rouge exposée (intro, encadré, Tassonomia, Stato, FAQ) ; Fonti : entrée GBIF (deux espèces) ; Bibliografia : Singh 2022 (*sainathii*).
+- Rien retiré. Statut de *zeylanica* inchangé (CR A2ac, Lindström 2020, publié en 2022-1). Mudannayake 2019 (plantes plus fréquentes près de la côte, plantations surtout à l'intérieur) : déjà dans l'IT. Toxicité inchangée (cicasina → metilazossimetanolo, BMAA).
+- SEO inchangé. Index genre IT 11549 aligné sur l'index FR 1256 : « Sri Lanka; sinonimo: *Cycas sainathii*; … (CR, valutazione 2020, pubblicata nel 2022) » → « Sri Lanka (costa meridionale); sinonimo: *Cycas sainathii*, che la Lista rossa valuta a parte (VU, 2022); in pericolo critico (CR, 2022) » (simulation 1 puis application 1) ; brouillon genre aligné (verify.py identique, 130 liens).
+- Contrôles : verify.py (texte identique, 19 liens internes en 200, blocs 111/111, hreflang fr/it, aucun commentaire visible) ; User-Agent curl et Chrome : 200, `<title>` « Cycas zeylanica: la cicadea costiera di Ceylon e Andamane », nouveau texte servi.

@@ -202,7 +202,7 @@ Ajouter, dans la section des liens vers les articles du blog (« À lire aussi �
 - FR : toutes les fiches de Cycas australiens (et en priorité couttsiana, cairnsiana, ophiolitica, media citées dans l'article).
 Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallèle).
 - Passe Lavaud (même moment) : poser aussi des liens dans les articles « méthode Simon Lavaud » (FR 16529, IT 16534, EN, ES) vers les fiches espèces citées (couttsiana, cairnsiana, ophiolitica, media, siamensis, revoluta) dans la langue de l'article.
-- (FR harmonisé le 17/10/2026 : VU, 2023 ; IT 11549 restant) Cycas calcicola : pages genres FR et IT indiquent « VU, 2022 » ; selon Crossref, l'évaluation (Nagalingum & Clugston) date de 2021, publiée dans la Liste rouge 2023-1. À harmoniser.
+- (FR harmonisé le 17/10/2026 : VU, 2023 ; IT 11549 harmonisé le 18/10/2026 : VU, 2023) Cycas calcicola : pages genres FR et IT indiquent « VU, 2022 » ; selon Crossref, l'évaluation (Nagalingum & Clugston) date de 2021, publiée dans la Liste rouge 2023-1. À harmoniser.
 - (ajout 12/10) Cycas chamaoensis, changjiangensis, chenii, chevalieri FR : anciennes, affirmations non sourcées ou erronées (listes dans les notes IT). Cycas chevalieri FR 21892 : traduction EN liée = 18748, à la corbeille (lien Polylang vers une page supprimée à nettoyer). Cycas changjiangensis : mesures de Hill 2008 recopiées de C. hainanensis (préférer la Flora of China).
 - Passe Lavaud : l'article (FR 16529 et traductions) situe C. couttsiana dans le « Queensland central » ; l'espèce est du nord du Queensland (Hill 1996, WLoC) — à corriger dans les 4 langues.
 - Cycas collina FR 22067 : « endémique du Vietnam » (aussi au Yunnan selon Hill 2008 ; WLoC ne cite que le Vietnam), « tronc dressé » (sans tronc aérien) ; UICN CR 2010 contre VU chez Hill 2008. Index genre IT « Vietnam » seul.
@@ -300,7 +300,7 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 - IT à compléter (13/10/2026, nettoyage FR C6 ; détails dans les -fr-note.md) :
   - dharmrajii IT 28567 : VU 2022 sous sainathii (Liste rouge via GBIF) ; Luthrodes pandava (Purti et al. 2022) ; revoir le critère « 9 m » (Srivastava & Singh 2015, Lindström & Hill 2007). — IT FAIT 18/10/2026
   - segmentifida IT 28877 : Hill 2008 range aussi crassipes sous sexseminifera (p. 109) ; retour nantais (plantule sous tunnel et voile, −4 °C, hiver 2012-2013, sans dommage), alors que l'IT dit que Fous de palmiers n'a rien donné. — IT FAIT 18/10/2026
-  - siamensis IT 28898 : PROSEA ; « Silver » ; confusion avec ferruginea inversée dans l'IT (plante achetée comme siamensis puis rapprochée de ferruginea).
+  - siamensis IT 28898 : PROSEA ; « Silver » ; confusion avec ferruginea inversée dans l'IT (plante achetée comme siamensis puis rapprochée de ferruginea). — IT FAIT 18/10/2026
 - FR andamanica 21956 : Taxonomie et Maladies citent encore des ravageurs génériques ; Purti et al. 2022 (Luthrodes pandava sur pschannae) à intégrer.
 
 ## Réponses du propriétaire (17/10/2026)
@@ -309,12 +309,12 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 - Macrozamia serpentina FR 26331 : deux phrases de rusticité hypothétique retirées (fait le 17/10).
 
 - IT à compléter (17/10/2026, nettoyage FR C7 ; détails dans les -fr-note.md) :
-  - taiwaniana IT 28960 : la Flora of China transcrit 台湾苏铁 « guang dong su tie » (l'IT écrit « tai wan su tie ») ; Wu 2022 (population cultivée du Fujian moins diverse, pollinisation manuelle recommandée) ; Tao 2021 associe aussi szechuanensis aux signaux d'hybridation ; retour Côte Bleue 2010-2011 (identité discutée).
-  - tanqingii IT 28970 : Hill 2008 (aire ≈ 100 km², réduction d'habitat < 20 %) ; Zheng 2025 / Xi et al. 2022 (bassin du Xiaoheijiang seul) ; Li 2025 (statut modélisé VU → EN avec ravageurs).
-  - zeylanica IT 29032 : la Liste rouge évalue sainathii à part (VU 2022).
+  - taiwaniana IT 28960 : la Flora of China transcrit 台湾苏铁 « guang dong su tie » (l'IT écrit « tai wan su tie ») ; Wu 2022 (population cultivée du Fujian moins diverse, pollinisation manuelle recommandée) ; Tao 2021 associe aussi szechuanensis aux signaux d'hybridation ; retour Côte Bleue 2010-2011 (identité discutée). — IT FAIT 18/10/2026
+  - tanqingii IT 28970 : Hill 2008 (aire ≈ 100 km², réduction d'habitat < 20 %) ; Zheng 2025 / Xi et al. 2022 (bassin du Xiaoheijiang seul) ; Li 2025 (statut modélisé VU → EN avec ravageurs). — IT FAIT 18/10/2026
+  - zeylanica IT 29032 : la Liste rouge évalue sainathii à part (VU 2022). — IT FAIT 18/10/2026
 
 - PRIORITAIRE (17/10/2026, nettoyage FR C8) — IT FAIT le 17/10/2026 (14337 réécrite d'après la FR, voir pilotes/espece-cycas-media-it-note.md) ; EN 16423 RESTE À FAIRE : Cycas media IT 14337 (et EN 16423) reprennent les erreurs de l'ancienne FR : aire (Nouvelle-Guinée, Territoire du Nord, Australie-Occidentale — faux, est du Queensland seulement), tronc 30-60 cm (Hill : 10-18 cm), −2/−3 °C et USDA 9b attribués à Lavaud (absents de son PDF), Investigator, Cheetup, Theclinesthes ; IT : « PACSOA frost tolerant » absent de la page PACSOA. Réécrire d'après la FR 14336 du 17/10 (Hill 1992/1996, Flora of Australia, WLoC 159-161, Bösenberg 2023-1, PDF Lavaud, retour Concarneau).
-- calcicola IT 28499 : PDF Lavaud 2021 consultable (cycadales.eu/wp-content/uploads/2021/04/Bases-de-la-culture-des-Cycas-australiens.pdf) ; mise en garde du forum = C. siamensis vendus sous les noms pruinosa et calcicola ; isotypes BRI, CANB, K, L, PERTH ; page genre IT 11549 encore « VU, 2022 » (Nagalingum & Clugston, évaluation 2021 publiée en 2023-1).
+- calcicola IT 28499 : PDF Lavaud 2021 consultable (cycadales.eu/wp-content/uploads/2021/04/Bases-de-la-culture-des-Cycas-australiens.pdf) ; mise en garde du forum = C. siamensis vendus sous les noms pruinosa et calcicola ; isotypes BRI, CANB, K, L, PERTH ; page genre IT 11549 encore « VU, 2022 » (Nagalingum & Clugston, évaluation 2021 publiée en 2023-1). — IT FAIT 18/10/2026
 
 - IT à compléter (17/10/2026, nettoyage FR C9a ; détails dans les -fr-note.md) :
   - lindstromii IT 28680 : évaluation UICN Nguyen 2010 sourcée par Wikipédia EN seule (à dire ou retirer) ; description de Laubenfels & Adema 1998.
@@ -344,5 +344,5 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - Zamia ottonis et Z. kickxii : pas de page IT ni FR (ottonis synonyme de pygmaea pour WLoC, kickxii à vérifier dans WLoC).
 - FR retouches (signalées 18/10/2026 lors de IC1) : armstrongii FR 21562 — la mort de John Armstrong à Kupang le 21/01/1847 est confirmée par l'Australian National Herbarium (Orchard 1999, George 2009) ; exposer la divergence avec WLoC/Haynes (1820-1902) comme dans l'IT 28466. aculeata FR 22084 et andamanica FR 21956 — section ravageurs encore générique (cochenilles farineuses, acariens) ; andamanica : ajouter Purti et al. 2022 (Luthrodes pandava).
 - FR desolata 26649 (mineur, 18/10/2026) : ajouter le PDF Lavaud 2021 (« difficile », « sur sols sableux » — divergence avec le protologue : sols squelettiques, affleurements), comme l'IT 28564.
-- Signalé lors de IC4 (18/10/2026) : index IT 11549, entrée taiwaniana encore « Cina (Fujian, Guangdong) » (à aligner sur l'index FR en IC6) ; vérifier en IC6 si la fiche IT taiwaniana 28960 date l'évaluation Bösenberg de « 2020 » (date sans source, à remplacer par la publication 2023-1).
+- Signalé lors de IC4 (18/10/2026) : index IT 11549, entrée taiwaniana encore « Cina (Fujian, Guangdong) » (à aligner sur l'index FR en IC6) ; vérifier en IC6 si la fiche IT taiwaniana 28960 date l'évaluation Bösenberg de « 2020 » (date sans source, à remplacer par la publication 2023-1). — IT FAIT 18/10/2026 (IC6 : index aligné ; date 2020 sourcée par Crossref, texte ramené à la publication 2023-1)
 - Signalé lors de IC5 (18/10/2026) : index IT 11549, debaoensis « (CR, 2010) » à vérifier (réévaluation 2023 ?) — à traiter avec l'alignement final de l'index en IC8 ; FR dharmrajii 26651 : « climat tropical sans gel » (Rusticité) et « île tropicale humide » (Culture) non sourcés.

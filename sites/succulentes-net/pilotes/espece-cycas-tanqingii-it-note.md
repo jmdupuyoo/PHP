@@ -37,3 +37,12 @@
 ## Points douteux
 - Auteur « D.Y.Yang » chez Hill 2008 (probable coquille) ; nom du dédicataire (« Tan-Qing » / « Tan Qing Chen ») donné tel quel.
 - Chiffres de Li et al. 2025 = projections de modèle ; leur résumé parle d'espèce « endangered », non repris (UICN : NT).
+
+## Correzione del 18/10/2026 (lot IC6)
+- Corrections ciblées (replace_in_content sur 28970 : simulation 8/8 puis application 8/8) d'après la FR 21944 réécrite le 17/10 (lot C7) et sa note (« À signaler pour l'IT »).
+- Sources relues ce jour : Hill 2008, tableau 1 (texte local lotcyc3/hill2008.txt : *C. tanqingii* — ?Vietnam, réserve « n », NT, > 100 000, stable, aire 100 km², réduction d'habitat < 20 %) ; Zheng F. et al. 2025 (Europe PMC PMC12237619, texte intégral : « C. tanqingii persists solely in the Xiaoheijiang River Basin of Lvchun County (Xi et al. 2022) » ; Xi, Wang, Pan et al. 2022, *Biodiversity Science* 30: 21495, non lu) ; résumé de Li et al. 2025 (OpenAlex : « endangered species » ; « when pest factors are included, the conservation status … changes from "vulnerable" to "endangered" » ; surface favorable 19,2784 → 8,6177 × 10⁴ km²) ; Crossref Bösenberg (issued 2020-11-13, version 2023-1) ; GBIF API 2683257 (NT).
+- Ajouts : aire ≈ 100 km² et réduction d'habitat < 20 % (Stato) ; source de la répartition « Xiaoheijiang seul » (Xi et al. 2022, cité par Zheng 2025 : In natura, Bibliografia) ; statut modélisé VU → EN avec les ravageurs et qualification « endangered » de Li 2025, présentés comme projection non UICN (Stato, FAQ, Bibliografia).
+- Date Bösenberg : « (2020, pubblicata nel 2023) » sans source → « pubblicata nella versione 2023-1 » (encadré, Stato) ; date du 13/11/2020 conservée seulement avec sa source (métadonnées Crossref) dans Stato et Bibliografia.
+- Rien retiré. Statut inchangé (NT). Toxicité inchangée (cicasina → metilazossimetanolo, BMAA).
+- SEO inchangé. Index genre IT 11549 aligné sur l'index FR 1256 : « Cina (Yunnan), Vietnam (presenza incerta) … (NT, valutazione 2020, pubblicata nel 2023) » → « Cina (sud-est dello Yunnan, contea di Lüchun), Vietnam (presenza segnalata, senza campioni d'erbario) … (NT, 2023) » (simulation 1 puis application 1) ; brouillon genre aligné (verify.py identique, 130 liens).
+- Contrôles : verify.py (texte identique, 12 liens internes en 200, blocs 119/119, hreflang fr/it/en/es, aucun commentaire visible) ; User-Agent curl et Chrome : 200, `<title>` « Cycas tanqingii: la grande cicadea di Lüchun, Yunnan », nouveau texte servi.
