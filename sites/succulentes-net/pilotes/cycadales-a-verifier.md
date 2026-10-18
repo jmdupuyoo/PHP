@@ -276,7 +276,7 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 - C. chevalieri EN 18748 toujours à la corbeille et liée à FR 21892 / IT 28528 : à restaurer et réécrire lors de la phase EN, ou délier (décision du propriétaire).
 
 - IT à compléter (13/10/2026, nettoyage FR C3 ; détails dans les -fr-note.md) :
-  - desolata IT 28564 : réévaluation Bösenberg 2023-1 (NT).
+  - desolata IT 28564 : réévaluation Bösenberg 2023-1 (NT). — IT FAIT 18/10/2026
   - fairylakea IT 28610 : résumé Feng 2021 lisible sur Crossref ; Liang 2024 (localités Meizhou, Zhaoqing, Yangchun ; reliques presque toutes femelles au Fujian et au Guangxi ; ≈ 450 plantes à Taishan, > 2 000 à Yangjiang).
   - ferruginea IT 28616 : réévaluation Bösenberg 2023-1 (NT) ; divergences de la Flora of China (limbe, sclérotesta lisse).
   - hoabinhensis IT 28639 : réévaluation 2023-1 EN (GBIF) ; plan UICN 2003 (tableaux 5.1 et 8.1) ; plante cultivée à Hanoï (Fous de palmiers 2010).
@@ -343,3 +343,4 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - FR portoricensis 21767 (mineur) : mettre en regard le plan UICN 2003 (deux localités, ni graines ni pollinisateur observés en dix ans) et les travaux de 2008 et 2018 (comme l'IT 28190 du 17/10).
 - Zamia ottonis et Z. kickxii : pas de page IT ni FR (ottonis synonyme de pygmaea pour WLoC, kickxii à vérifier dans WLoC).
 - FR retouches (signalées 18/10/2026 lors de IC1) : armstrongii FR 21562 — la mort de John Armstrong à Kupang le 21/01/1847 est confirmée par l'Australian National Herbarium (Orchard 1999, George 2009) ; exposer la divergence avec WLoC/Haynes (1820-1902) comme dans l'IT 28466. aculeata FR 22084 et andamanica FR 21956 — section ravageurs encore générique (cochenilles farineuses, acariens) ; andamanica : ajouter Purti et al. 2022 (Luthrodes pandava).
+- FR desolata 26649 (mineur, 18/10/2026) : ajouter le PDF Lavaud 2021 (« difficile », « sur sols sableux » — divergence avec le protologue : sols squelettiques, affleurements), comme l'IT 28564.
