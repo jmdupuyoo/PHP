@@ -34,3 +34,15 @@
 ## Liens croisés (lot Cycas fairylakea–fugax, 12/10/2026)
 
 - Lien posé vers *Cycas ferruginea* (fiche IT nouvelle) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py : 0 bloc manquant).
+
+## Correzione del 18/10/2026 (lot IC1)
+
+- Corrections ciblées (replace_in_content, ids [28487], simulation 9/9 puis application 9/9) d'après la FR 22089 (nettoyage du 13/10).
+- Sources relues ce jour : GBIF API (clé 2683288 : **VU**, iucnTaxonID 42071) ; Crossref : évaluation Bösenberg, doi 10.2305/IUCN.UK.2023-1.RLTS.T42071A67337542.en (champ « issued » 12/11/2020, publiée dans la version 2023-1) ; Wikipédia EN (wikitext lu ce jour : infobox VU d'après Hill 2010 ; catégorie « Near threatened plants » sans référence ; « slightly keeled to flat, very glossy dark green » ; mégasporophylles « dense brown tomentose »).
+- Erreur corrigée : catégorie 2023 dite « non verificabile » avec mention de « quasi minacciata (NT) » d'après « alcune fonti » (→ VU maintenu selon les données UICN relayées par GBIF ; origine probable du NT exposée : catégorie de Wikipédia EN sans référence) — intro, encadré, section Stato, FAQ, annotations bibliographiques.
+- Corrigé dans la note du 12/10 : Wikipédia EN contient bien « very glossy dark green » et « slightly keeled to flat » → ajoutés à la description (toujours présentée comme issue de Wikipédia EN), avec le tomentum brun des mégasporophylles.
+- Ajouté : Fonti : GBIF. Aucun retrait.
+- Toxicité : phrase cicasina → metilazossimetanolo + BMAA conservée.
+- Index page genre IT 11549 : « (VU, 2010) » → « (VU, 2023) » (simulation 1, application 1) ; brouillon genre aligné (verify.py identique, 130 liens).
+- SEO inchangé (titre et meta toujours exacts).
+- Contrôles : verify.py — texte identique, 11 liens même séquence tous en 200, blocs 104/104, aucun commentaire visible, hreflang fr/it ; curl et User-Agent Chrome : 200, `<title>` « Cycas brachycantha: la cicadea dei calcari di Bắc Kạn » (aucun cloaking).

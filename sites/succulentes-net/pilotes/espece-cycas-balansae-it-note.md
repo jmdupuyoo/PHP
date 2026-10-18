@@ -46,3 +46,14 @@
 ## Liens croisés (lot Cycas fairylakea–fugax, 12/10/2026)
 
 - Lien posé vers *Cycas ferruginea* (fiche IT nouvelle) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py : 0 bloc manquant).
+
+## Correzione del 18/10/2026 (lot IC1)
+
+- Corrections ciblées (replace_in_content, ids [28478], simulation 7/7 puis application 7/7) d'après la FR 21822 (nettoyage du 13/10).
+- Sources relues ce jour : GBIF API (clé 2683289 : EN, iucnTaxonID 42069) ; Crossref : évaluation Nguyen & Lindstrom, doi 10.2305/IUCN.UK.2023-1.RLTS.T42069A67336462.en (champ « issued » 10/11/2021, publiée dans la version 2023-1).
+- Erreur corrigée (incomplétude) : statut daté de 2010 seul → réévaluation 2023-1 de Nguyễn Tiến Hiệp et A. Lindstrom, EN maintenu (intro, encadré, section Stato, FAQ) ; critères A2acd+4acd rattachés explicitement à l'évaluation de 2010 (ceux que reprend WLoC).
+- Ajouté : Fonti : GBIF ; Bibliografia : Nguyễn & Lindstrom 2023. Aucun retrait : le reste de la fiche IT (Hill 2008, Tao et al. 2021, lectotype 2008, *collina* au Yunnan, folioles rigides) était déjà conforme aux corrections de la FR.
+- Toxicité : phrase cicasina → metilazossimetanolo + BMAA conservée.
+- Index page genre IT 11549 : « (EN, 2010) » → « (EN, 2023) » (simulation 1, application 1) ; brouillon genre aligné (verify.py identique).
+- SEO inchangé (titre et meta toujours exacts).
+- Contrôles : verify.py — texte identique, 14 liens même séquence tous en 200, blocs 119/119, aucun commentaire visible, hreflang fr/it/en ; curl et User-Agent Chrome : 200, `<title>` « Cycas balansae: la cicadea d'ombra del Guangxi e del Vietnam » (aucun cloaking).

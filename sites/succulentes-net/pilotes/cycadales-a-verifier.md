@@ -264,9 +264,9 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 - IT à compléter (13/10/2026, nettoyage FR C1 ; détails dans les -fr-note.md) :
   - andamanica IT 28451 : raison du choix de pschannae (eFlora of India : priorité de date, août contre septembre 2015) ; les deux noms étaient synonymes de sainathii dans l'ancienne WLoC. — IT FAIT 18/10/2026
   - aculeata IT 28445 : réévaluation UICN 2023-1 (e.T42043A67334346), EN maintenu — l'IT dit qu'aucune évaluation postérieure à 2010 n'existe. — IT FAIT 18/10/2026
-  - armstrongii IT 28466 : dates de John Armstrong (1820-1902 selon WLoC et Haynes 2022 ; à vérifier, nommé à Port Essington dès 1838).
-  - balansae IT 28478 : réévaluation UICN 2023-1 (e.T42069A67336462), EN maintenu.
-  - brachycantha IT 28487 : catégorie 2023 VU selon GBIF (l'IT la dit inconnue et mentionne NT).
+  - armstrongii IT 28466 : dates de John Armstrong (1820-1902 selon WLoC et Haynes 2022 ; à vérifier, nommé à Port Essington dès 1838). — IT FAIT 18/10/2026 (ANBG, d'après Orchard 1999 et George 2009 : mort à Kupang, Timor, le 21/01/1847, naissance inconnue ; divergence exposée en IT ; FR 21562 à corriger : elle dit 1847 non confirmé)
+  - balansae IT 28478 : réévaluation UICN 2023-1 (e.T42069A67336462), EN maintenu. — IT FAIT 18/10/2026
+  - brachycantha IT 28487 : catégorie 2023 VU selon GBIF (l'IT la dit inconnue et mentionne NT). — IT FAIT 18/10/2026
 
 - IT à compléter (13/10/2026, nettoyage FR C2 ; détails dans les -fr-note.md) :
   - changjiangensis IT 28522 : comparaison Flora of China avec C. siamensis (base du tronc grise renflée ; nervure très saillante dessus ; graines ≈ 1,8 cm).
@@ -342,3 +342,4 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site en FR ET en IT : Ceratozamia fuscoviridis, Zamia elegantissima, Zamia nana, Zamia obliqua, Zamia pseudomonticola. À créer (FR puis IT) après la passe IT ; elles sont déjà citées sans lien dans plusieurs fiches (imperialis, skinneri, wallisii, ulei, stevensonii, acuminata, reesii…), à lier ensuite.
 - FR portoricensis 21767 (mineur) : mettre en regard le plan UICN 2003 (deux localités, ni graines ni pollinisateur observés en dix ans) et les travaux de 2008 et 2018 (comme l'IT 28190 du 17/10).
 - Zamia ottonis et Z. kickxii : pas de page IT ni FR (ottonis synonyme de pygmaea pour WLoC, kickxii à vérifier dans WLoC).
+- FR retouches (signalées 18/10/2026 lors de IC1) : armstrongii FR 21562 — la mort de John Armstrong à Kupang le 21/01/1847 est confirmée par l'Australian National Herbarium (Orchard 1999, George 2009) ; exposer la divergence avec WLoC/Haynes (1820-1902) comme dans l'IT 28466. aculeata FR 22084 et andamanica FR 21956 — section ravageurs encore générique (cochenilles farineuses, acariens) ; andamanica : ajouter Purti et al. 2022 (Luthrodes pandava).
