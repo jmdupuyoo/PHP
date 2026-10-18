@@ -23,3 +23,14 @@
 - replace_in_content (ids [21956], dry run 4 remplacements puis application), formulation alignée sur *pschannae* 21984 : encadré « Statut UICN » et section Statut : NE selon WLoC **et** Liste rouge 2022-1 rangeant *andamanica*, *pschannae* et *dharmrajii* sous *C. sainathii* s.l., VU (GBIF API, jeu UICN du 28/07/2026, clé nub 10295162 → 199005758, VU). Sites de référence : entrée GBIF ajoutée ; Bibliographie : Singh 2022 (UICN, doi 10.2305/IUCN.UK.2022-1.RLTS.T103631608A243419871.en).
 - verify.py : texte identique au brouillon (aligné), 10 liens en 200, blocs 104/104, hreflang fr/it.
 - Non modifié (hors périmètre demandé) : section Taxonomie (ne mentionne pas la divergence UICN) et section « Maladies et ravageurs » (ravageurs génériques, alors que Purti et al. 2022 documentent *Luthrodes pandava* sur *C. pschannae*, comme dans la fiche FR *pschannae*).
+
+## Retouche FR du 18/10/2026 (lot RF1)
+- Points de pilotes/fr-retouches.md : ravageurs génériques sans source ; *Luthrodes pandava* (Purti et al. 2022) absent, alors qu'il figure dans la FR *pschannae* 21984 et l'IT 28451.
+- Source relue ce jour : Crossref, Purti, N., Singh, L.J. & Pandey, A.K. (2022), *Feddes Repertorium* 133(3) : 234-243, doi:10.1002/fedr.202100024 (doi.org 302) — résumé : premier signalement de *Luthrodes pandava* comme ravageur des cycas aux Andaman-et-Nicobar ; larves sur toutes les parties aériennes, croissance affectée ; cycas endémiques plus sensibles que les espèces introduites ; *C. dharmrajii* et *C. pschannae* nouveaux hôtes. Article du site 14141 (*Aulacaspis yasumatsui*) et 21843 (« Azuré des Sagous (*Chilades pandava*) », 200).
+- replace_in_content sur 21956 (simulation 3/3 puis application 3/3) :
+  - Maladies et ravageurs : « cochenilles farineuses et acariens » et « redoutable sous climat chaud et humide » (sans source ; l'article 14141 cite au contraire l'air sec) retirés ; *Luthrodes pandava* d'après Purti et al. 2022 ; cochenilles/*Aulacaspis* et pourriture formulées comme dans la FR *pschannae* (lien vers l'article *Aulacaspis yasumatsui*).
+  - Statut : phrase « Une menace est documentée dans la nature : *Luthrodes pandava* … (voir Maladies et ravageurs) », comme l'IT 28451 ; lien vers l'article 21843 posé sur cette première occurrence.
+  - Bibliographie : Purti et al. 2022.
+- Choix : aucun nom français donné au papillon (la FR *pschannae* écrit « azuré des cycas », l'article du site 21843 « Azuré des Sagous » : nom français non vérifié, signalé).
+- SEO inchangé ; index genre 1256 non concerné.
+- Contrôles : texte en ligne identique au brouillon, 12 liens même séquence, liens internes en 200, blocs 105/105, hreflang fr/it, aucun commentaire visible ; User-Agent curl et Chrome : 200, `<title>` « Cycas andamanica : synonyme de Cycas pschannae (Andaman) ».

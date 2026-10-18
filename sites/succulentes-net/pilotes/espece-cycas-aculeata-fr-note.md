@@ -17,3 +17,10 @@
 - Vérifications (verify.py) : URL 200 ; aucun commentaire de bloc visible ; 102 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-cycas-aculeata-fr.html`, même séquence de 7 liens ; ≈ 2 750 mots.
 - À signaler pour l'IT 28445 (non modifiée) : évaluation UICN **2023-1** de Bösenberg & Nguyen (Crossref + GBIF, EN maintenu) alors que la fiche IT dit « The World List of Cycads non segnala valutazioni più recenti » et date le statut de 2010 ; troisième auteur de la révision = Phan Kế Lộc (déjà correct en IT).
 - Points douteux : toutes les mesures morphologiques et l'affinité avec *balansae* ne reposent que sur Wikipédia EN ; critères UICN : ceux de WLoC (évaluation 2010 ou 2023 ?) ; date de récolte du type.
+
+## Retouche FR du 18/10/2026 (lot RF1)
+- Point de pilotes/fr-retouches.md : ravageurs génériques sans source (« cochenilles farineuses et acariens », présentés « a priori »).
+- replace_in_content sur 22084 (deux passes, chacune simulation 1/1 puis application 1/1), Maladies et ravageurs : cochenilles farineuses et acariens retirés (aucune source) ; *Aulacaspis yasumatsui* conservée, reformulée d'après l'article du site 14141 (lié dans « À lire aussi ») : capable de tuer un cycas adulte en quelques mois, favorisée par la chaleur, l'air sec et le confinement (serre, véranda), « aucune attaque signalée sur cette espèce ». L'ancien « redoutable sous climat chaud et humide » contredisait l'article (qui cite la sécheresse de l'air) : remplacé. Pourriture par excès d'eau inchangée.
+- Écart avec l'IT : la fiche IT 28445 garde encore « le cocciniglie farinose e gli acari » (« in linea di principio ») ; la formulation FR suit plutôt l'IT *andamanica* 28451 (« le cocciniglie delle cicadee … possono colpire tutte le specie »). À reporter en IT.
+- Rien d'autre modifié ; SEO inchangé ; index genre 1256 non concerné.
+- Contrôles : texte en ligne identique au brouillon, 7 liens même séquence, liens internes en 200, blocs 102/102, hreflang fr/it, aucun commentaire visible ; User-Agent curl et Chrome : 200, `<title>` « Cycas aculeata : cycas à pétiole épineux du Vietnam central ».
