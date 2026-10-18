@@ -52,3 +52,6 @@ Liste de travail (lots de 5 d'un même genre, comme d'habitude). Détails dans p
 - IT munchii 27853 : « le sospensioni del commercio che riguardavano il Mozambico per tutte le Zamiaceae (2008-2018) » encore en ligne → aligner sur les IT 27956/27960 (CITES 2012-2019, notification 2019/027 ; UE, decisioni 2008-2017, esemplari selvatici). — fait (18/10/2026, lot RF5).
 - PlantZAfrica : autres *Encephalartos* sud-africains (FR et IT) non encore relus sur PlantZAfrica.
 - Toxicité : les fiches FR *Encephalartos* gardent « glycosides propres aux cycadales, la cycasine et la macrozamine » (correct, MAM non cité) ; la formulation harmonisée « glycosides toxiques (cycasine, macrozamine), dont dérive le méthylazoxyméthanol » n'y est pas encore reportée (à faire si souhaité, en série).
+
+## À nettoyer (repéré lors de la création des espèces manquantes, 18/10/2026)
+- FR Zamia pseudoparasitica 14482 : ancienne fiche, tableau « Comparaison avec Zamia obliqua » non sourcé (« racine pivotante atteignant 15 m », mesures, couleurs). Corrigé le 18/10 : auteur d'obliqua A.Braun (et non A.Dietr.), statut LC 2022 (et non VU). Fiche à nettoyer entièrement (gabarit FR récent) d'après la fiche IT et la nouvelle fiche obliqua 29441.

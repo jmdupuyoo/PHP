@@ -344,6 +344,11 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 
 ## Espèces acceptées sans fiche (contrôle WLoC du 17/10/2026)
 WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site en FR ET en IT : Ceratozamia fuscoviridis, Zamia elegantissima, Zamia nana, Zamia obliqua, Zamia pseudomonticola. À créer (FR puis IT) après la passe IT ; elles sont déjà citées sans lien dans plusieurs fiches (imperialis, skinneri, wallisii, ulei, stevensonii, acuminata, reesii…), à lier ensuite.
+  - Zamia obliqua : FR créée le 18/10/2026, id 29441 (lot NZ1) ; liée dans l'index 3963 et dans 8 fiches FR (imperialis, skinneri, wallisii, ulei, manicata, paucifoliolata, urep, pseudoparasitica). IT à créer. À reprendre dans la FR pseudoparasitica 14482 : auteur « A.Dietr. » et statut « VU » donnés pour obliqua (en réalité A.Braun, LC 2022).
+  - Zamia nana : FR créée le 18/10/2026, id 29452 (lot NZ1) ; liée dans l'index 3963 et dans la FR acuminata 26470. IT à créer.
+  - Zamia elegantissima : FR créée le 18/10/2026, id 29456 (lot NZ1) ; liée dans l'index 3963 et dans les FR stevensonii 26614, fairchildiana 26484, obliqua 29441. IT à créer.
+  - Zamia pseudomonticola : FR créée le 18/10/2026, id 29463 (lot NZ1) ; liée dans l'index 3963 et dans les FR elegantissima 29456, stevensonii 26614, gomeziana 26491, fairchildiana 26484, monticola 22382. IT à créer.
+  - Lot NZ1 terminé (4 FR Zamia). Reste à créer en FR : Ceratozamia fuscoviridis ; puis les 5 en IT.
 - FR portoricensis 21767 (mineur) : mettre en regard le plan UICN 2003 (deux localités, ni graines ni pollinisateur observés en dix ans) et les travaux de 2008 et 2018 (comme l'IT 28190 du 17/10).
 - Zamia ottonis et Z. kickxii : pas de page IT ni FR (ottonis synonyme de pygmaea pour WLoC, kickxii à vérifier dans WLoC).
 - FR retouches (signalées 18/10/2026 lors de IC1) : armstrongii FR 21562 — la mort de John Armstrong à Kupang le 21/01/1847 est confirmée par l'Australian National Herbarium (Orchard 1999, George 2009) ; exposer la divergence avec WLoC/Haynes (1820-1902) comme dans l'IT 28466. aculeata FR 22084 et andamanica FR 21956 — section ravageurs encore générique (cochenilles farineuses, acariens) ; andamanica : ajouter Purti et al. 2022 (Luthrodes pandava).
