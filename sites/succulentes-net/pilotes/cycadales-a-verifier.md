@@ -330,6 +330,9 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - scratchleyana IT 28869 : UICN Bösenberg 2020 (2023-1, LC) ; tronc 12-20 cm ; tolérance à l'ombre = site commercial de grainetier ; serre et rusticité = déductions. — IT FAIT 18/10/2026
 - FR papuana 26712 (mineur) : Species+ ne cite pas non plus l'Australie ; à ajouter à « présence à confirmer ».
 
+- IT à compléter (17/10/2026, nettoyage FR A1a ; détails dans espece-microcycas-calocoma-fr-note.md) : Microcycas calocoma IT 27425 — protologue de Miquel et Caldwell & Baker / Caldwell 1907 lus ; tronc d'après C&B et la flore de Cuba (et non 10-11 m / 30-60 cm de Wikipédia) ; affirmations héritées sans source (tronc renflé, ouragans, V renversé, rejets, arrosage, sex-ratio) ; populations (Ferrer 2013, Martínez Serrano 2023, Breto Benítez 2025) ; page genre IT 27379 à aligner. — IT FAIT 18/10/2026
+- FR genre Microcycas 13865 (signalé 18/10/2026 lors de IM1) : encore « déséquilibre entre mâles et femelles » sans source dans « Pollinisation » et la FAQ (Wikipédia EN, cf. fiche 13877), exposition « jeunes plants à mi-ombre » non attribuée à la Wikipédia ES dans l'encadré, Peña-García 1998 (800-1 000 plantes) non attribué à la Wikipédia ES, titre de Lazcano Lara 2007 avec noms abrégés (Z. integrifolia, Z. ottonis, Z. pygmaea) ; corrigés dans l'IT 27379.
+
 - IT à compléter (17/10/2026, nettoyage FR A1b ; détails dans les -fr-note.md) :
   - msinganus IT 27851 : avis SANBI (NDF 2015), nom « Msinga cycad », avis négatif UE 2013, date du type ; données PlantZAfrica et conseils de culture repris de l'ancienne FR non vérifiés.
   - munchii IT 27853 : fiche Kew Mount Zembe (2026), UICN 2003 (17 plantes), retour Agen −4 °C.

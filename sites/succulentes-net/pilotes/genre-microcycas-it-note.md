@@ -26,3 +26,10 @@
 
 ## Liens externes non vérifiables
 Comme en FR : POWO, IUCN, PalmTalk, Britannica, conifers.org, certaines pages (403/409/500, Cloudflare ou anti-robots) laissées telles quelles ; les autres adresses répondent (200 ou redirection).
+
+## Correzione del 18/10/2026 (lot IM1)
+
+- Alignement sur la fiche IT 27425 réécrite le 18/10 (et sur les corrections de la page genre FR 13865 du 17/10) : replace_in_content ids=[27379], simulation 16/16 puis application 16/16, puis 1/1 (noms abrégés). Brouillon `pilotes/genre-microcycas-it.html` mis à jour avec les mêmes paires (scratchpad `mcy/genre_it_reps.json` ; copie avant : `mcy/it-27379-avant.html`).
+- Changements : taille du tronc dans l'encadré, les Caractères et la **ligne d'index** (« fusto di circa 10 m » → « fusto fino a 10 m secondo Caldwell e Baker (1907), da 10 a 20 m e oltre secondo la flora di Cuba » ; répartition et statut « (CR, IUCN 2022) » inchangés) ; 11 m attribués à la seule Wikipédia ES ; ramification rare (flore) / fréquente (C&B) ; « V rovesciata » → folioles riflesse (flore) ; protologue de Miquel décrit d'après le texte lu (au lieu de « non ha potuto essere consultato » et de la paraphrase NVBT), lien vers *Cycas revoluta* IT ; origine du nom corcho par les graines attribuée à Caldwell 1907 ; exposition : encadré aligné sur Caldwell et la flore, « Luce » attribuée à la Wikipédia ES ; Peña-García 1998 (800-1 000 plantes, 23 localités) attribué à la Wikipédia ES ; sex-ratio déséquilibré présenté comme affirmation sans source (Wikipédia EN ; La Jaiba : 13 ♀ / 4 ♂), retiré de la FAQ ; raticide rattaché au folklore rapporté par Caldwell (au lieu de « Sierra del Rosario ») ; Bibliografia : Miquel, Caldwell & Baker, Caldwell désormais « letti » (scans Internet Archive) ; titre de Lazcano Lara 2007 : noms de *Zamia* écrits en entier.
+- Contrôles : texte en ligne identique au brouillon (verify2.py) ; URL 200 (User-Agent Chrome, `<title>` normal) ; hreflang fr/it/en ; aucun commentaire de bloc visible ; 14 liens internes IT en 200. SEO inchangé (toujours exact). ≈ 5 860 mots.
+- Rien commité.
