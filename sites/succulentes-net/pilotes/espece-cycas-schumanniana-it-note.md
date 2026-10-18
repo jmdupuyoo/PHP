@@ -26,3 +26,13 @@
 ## Points douteux (repris de la FR)
 - Typification : WLoC indique un lectotype à WRSL, De Laubenfels & Adema (1998) réclamaient un néotype ; Hill 1994 non lu (série non donnée).
 - Répartition : Indonésie selon Species+, absente de WLoC.
+
+## Correzione del 18/10/2026 (lot IC8)
+- Corrections ciblées (replace_in_content sur 28865 : simulation 12/12 puis application 12/12) d'après la FR 26734 nettoyée le 17/10 (lot C9b) et sa note (« À signaler pour l'IT »).
+- Sources relues ce jour : Crossref (DOI 10.2305/IUCN.UK.2023-1.RLTS.T42082A69156461.en : « Cycas schumanniana: Bösenberg, J.D. », issued 2020-10-16, version 2023-1) ; GBIF 2683251 (`iucnRedListCategory` : NEAR_THREATENED, iucnTaxonID 42082) ; Lindström, Hill & Stanberg 2009, *Telopea* 12(3) (PDF intégral via doi.org → PlantNET, 200 : « Ten species are enumerated », extensions en PNG discutées pour *apoa*, *papuana*, *scratchleyana* ; aucune occurrence de *schumanniana*).
+- Corrigé : statut UICN Hill 2010 → Bösenberg, évaluation datée 2020, publiée dans la Liste rouge 2023-1 (encadré, Stato di conservazione ; critères B1b(iii,v) attribués à WLoC) ; Bösenberg ajouté en Bibliografia, Hill 2010 gardé comme « valutazione precedente ».
+- Ajoutés : paragraphe « Le fonti divergono » (In natura : Species+ Indonésie + PNG ; WLoC et Lindström et al. 2009 : PNG seule → présence indonésienne à confirmer) ; mention dans l'encadré (Distribuzione) et la FAQ « Dove cresce » ; Lindström et al. 2009 en Bibliografia ; GBIF dans Siti di riferimento ; date du protologue : 1900 (WLoC) / 1901 (de Laubenfels & Adema) en Tassonomia et en Bibliografia.
+- Nuancés/retirés : semences du grainetier « ha messo in catalogo », disponibilité actuelle non vérifiée ; serre en pot présentée comme déduction (« scelta prudente… non un risultato di coltivazione pubblicato ») ; Rusticità : « tolleranza alle notti fresche » supposée d'après l'altitude retirée (comme en FR).
+- Inchangés : toxicité (formulation existante), Lavaud (espèce de PNG seulement : aucun lien), In Italia, SEO (titre 54, meta 154, toujours exacts).
+- Index genre IT 11549 : « Papua Nuova Guinea; quasi minacciata (NT, 2010) » → « Papua Nuova Guinea (Madang, Morobe, Altopiani Orientali); Indonesia secondo Species+, non confermata; quasi minacciata (NT, 2023) » (simulation 1 puis application 1), aligné sur l'index FR 1256 ; brouillon genre aligné.
+- Contrôles : verify.py (texte identique, 11 liens internes en 200, blocs 96/96, hreflang fr/it, aucun commentaire visible, aucun lien FR) ; User-Agent curl et Chrome : 200, `<title>` « Cycas schumanniana: la cicadea delle praterie di Papua », nouveau texte servi.

@@ -321,12 +321,13 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - lane-poolei IT 28669 : section Cycas, sous-section Endemicae, série Armstrongianosae (Hill 1996) ; de Laubenfels & Adema lui rattachent conferta, canalis, xipholepis ; constat de l'article de greffage dans le corps et la FAQ → remplacer par le PDF Lavaud 2021. — IT FAIT 18/10/2026
   - ophiolitica IT 28751 : zones USDA 9-10 = environ −7 à +4 °C (et non −7 à −1 °C) ; classement Lavaud 2021 (difficulté moyenne). — IT FAIT 18/10/2026
   - orientis IT 28762 : Lavaud 2021. — IT FAIT 18/10/2026
-  - Index page genre IT 11549 : répartitions moins précises qu'en FR ; macrocarpa sans la réserve sur le Laos (Averyanov et al. 2014).
+  - Index page genre IT 11549 : répartitions moins précises qu'en FR ; macrocarpa sans la réserve sur le Laos (Averyanov et al. 2014). — IT FAIT 18/10/2026 (index ; la fiche IT macrocarpa 28700 ne porte toujours pas la réserve d'Averyanov et al. 2014 sur le Laos)
+  - (ajout 18/10, lot IC8) **À corriger dans l'index FR 1256** (années vérifiées sur Crossref, catégories sur GBIF) : debaoensis (CR, 2010) → (CR, 2023) (Bösenberg, Liste rouge 2023-1) ; sphaerica (EN, 2010) → (EN, 2023) (Khuraijam & Rao 2023-1) ; apoa (LC, 2010) → (LC, 2023) (Bösenberg 2023-1) ; année d'évaluation au lieu de l'année de publication : nongnoochiae 2020 → 2022, nathorstii 2020 → 2022, nayagarhensis 2020 → 2022, orixensis 2020 → 2023, montana 2020 → 2023, nitida 2020 → 2023 ; sundaica « année non indiquée » → 2023. Années absentes FR et IT : cantafolia (2023-1, VU), edentata (2023-1, EN), javana (2023-1, catégorie non vérifiée). Fiches debaoensis FR 5683 / IT 11764 (anciennes) : lien UICN vers l'évaluation 2010 de Tang.
 
 - IT à compléter (17/10/2026, nettoyage FR C9b ; détails dans les -fr-note.md) :
   - papuana IT 28786 : série Armstrongianosae d'après Hill 1996 (au lieu de « alleanza ») ; « Andrebbe coltivata in vaso, in serra calda » à présenter comme déduction. — IT FAIT 18/10/2026
-  - schumanniana IT 28865 : UICN Bösenberg 2020 (Liste rouge 2023-1, NT) ; Lindström et al. 2009 (absente d'Indonésie) ; date 1901 chez de Laubenfels & Adema.
-  - scratchleyana IT 28869 : UICN Bösenberg 2020 (2023-1, LC) ; tronc 12-20 cm ; tolérance à l'ombre = site commercial de grainetier ; serre et rusticité = déductions.
+  - schumanniana IT 28865 : UICN Bösenberg 2020 (Liste rouge 2023-1, NT) ; Lindström et al. 2009 (absente d'Indonésie) ; date 1901 chez de Laubenfels & Adema. — IT FAIT 18/10/2026
+  - scratchleyana IT 28869 : UICN Bösenberg 2020 (2023-1, LC) ; tronc 12-20 cm ; tolérance à l'ombre = site commercial de grainetier ; serre et rusticité = déductions. — IT FAIT 18/10/2026
 - FR papuana 26712 (mineur) : Species+ ne cite pas non plus l'Australie ; à ajouter à « présence à confirmer ».
 
 - IT à compléter (17/10/2026, nettoyage FR A1b ; détails dans les -fr-note.md) :
