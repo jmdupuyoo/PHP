@@ -69,3 +69,13 @@ Suspendu par Claude le 17/10/2026 après le lot IZ4, en attendant le nettoyage.
 Reconnaissance préalable : 62.60.130.111 les 11/10 (296 requêtes) et 13/10 (300 requêtes). Sondes génériques 14/10 15:01-15:05 (136.110.117.198 : php-cgi, graphql…) sans effet.
 **À vérifier/faire immédiatement** : présence de `import.php`, `item/`, `wp-content/plugins/wp-duplicate-page/` → quarantaine/suppression ; fichiers créés le 14/10 (recherche par ctime) ; requêtes POST wp-login.php en 302 du 15 au 18/10 (lostpassword ou connexions réussies ?).
 La clé Pont MCP n'est donc pas le point d'entrée (appels venant d'Anthropic 160.79.x dans l'extrait), mais doit être régénérée car exposée.
+
+## Correction : entrée par un mot de passe administrateur valide (18/10/2026)
+Journaux, 14/10/2026 :
+- 09:09:51 202.191.122.79 `POST /wp-login.php` → 302 (probable test du mot de passe).
+- 10:54:52 **62.210.254.213** `POST /wp-login.php` → 302 puis `GET /wp-admin/` → 200 : **connexion administrateur réussie**.
+- 10:54:53 `GET /wp-admin/plugin-install.php?tab=upload` ; 10:54:54 `POST /wp-admin/update.php?action=upload-plugin` → **téléversement d'une fausse extension « WP Duplicate Page »** (porte dérobée, laissée inactive) ; 10:54:57 appels à `ControllerBackup.php` et `recommended-modules/TrackerGenerator.php`.
+- 15:38-16:09 (23.160.56.155) : utilisation de la porte dérobée → `import.php`, `item/default.php` → injection dans `wp-settings.php` et fichier `XChaCha20-widget.php` → spam dès 16:02:47 → `item/default.php?act=del` (effacement des outils).
+Les autres POST wp-login en 302 (15-17/10, IP du monde entier) sont suivis d'un retour à `wp-login.php` : tentatives échouées.
+Conclusion : **identifiants d'un administrateur compromis** (admin-succulentes ou Nilo/OpenClaw — à déterminer via `wp user meta get admin-succulentes session_tokens`). Fausse extension supprimée (18/10), dossier `item/` supprimé, aucun autre fichier créé/modifié entre le 14 et le 17/10 hors traductions et `.htaccess` (contenu normal).
+Mesures : nouveau mot de passe WordPress unique, `wp config shuffle-salts`, double authentification (extension « Two-Factor »), recherche de la fuite (réutilisation du mot de passe, outil tiers, logiciel espion sur l'ordinateur), mot de passe et 2FA Gmail.
