@@ -22,3 +22,18 @@ Une restauration de la base de données (WP BackItUp) antérieure au 17/10 effac
 
 ## Travail de contenu
 Suspendu par Claude le 17/10/2026 après le lot IZ4, en attendant le nettoyage.
+
+## Diagnostic et nettoyage (18/10/2026, avec le propriétaire, Terminal cPanel)
+- Scan ImunifyAV du compte (/home/idje4654, 12 894 fichiers) : « aucun logiciel malveillant » — le code n'a pas été détecté.
+- `index.php`, `.htaccess`, début et fin de `wp-config.php` : normaux. `.user.ini` : `auto_prepend_file` vers `wordfence-waf.php`, fichier d'origine de Wordfence (extension désinstallée), sain. Pas de `wp-content/mu-plugins`. Crontab : seulement la tâche Redis d'o2switch.
+- `wp core verify-checksums` : **`wp-settings.php` modifié** et **fichier en trop `wp-includes/sodium_compat/namespaced/Core/XChaCha20-widget.php`** (19 883 octets, date antidatée au 6 févr. 2020). `wp plugin verify-checksums --all` : aucune anomalie.
+- Diff avec WordPress 7.1.3 propre : une ligne ajoutée en ligne 52 de `wp-settings.php` : `require ABSPATH . WPINC . '/sodium_compat/namespaced/Core/XChaCha20-widget.php';`
+- Nettoyage : copie du `wp-settings.php` infecté et du fichier pirate dans `~/quarantaine` (hors du site), remplacement de `wp-settings.php` par la version propre, `verify-checksums` → « Success » (seul reste `wp-admin/error_log`, sans danger).
+- Contrôle externe après nettoyage (18/10/2026) : accueil, fiche, adresse inventée, avec User-Agent Chrome et Googlebot → vraies pages (404 pour l'adresse inventée), `sitemap_index.xml` normal (post-sitemap, page-sitemap…), ancienne URL `/product/…` → 404.
+
+## Reste à faire (propriétaire)
+1. Changer les mots de passe : cPanel, FTP/SFTP, base de données (puis mettre à jour `wp-config.php`), administrateurs WordPress ; vérifier la liste des administrateurs (Utilisateurs → filtre « Administrateur ») et supprimer tout compte inconnu ; révoquer les mots de passe d'application inutiles.
+2. Point d'entrée inconnu : regarder les journaux d'accès bruts du cPanel (« Visiteurs » / « Journaux d'accès bruts ») et `wp-admin/error_log` autour de la date d'apparition ; supprimer les extensions inactives (Site Kit by Google, WP Duplicate Page) ; envisager de réactiver les mises à jour automatiques (ligne `AUTOMATIC_UPDATER_DISABLED` dans `wp-config.php`).
+3. Google Search Console : « Problèmes de sécurité » (demander un réexamen si signalé), « Sitemaps » (renvoyer `sitemap_index.xml`), « Pages » / « Suppressions » pour les URL `/product/…` déjà indexées (elles renvoient maintenant 404 et sortiront de l'index).
+4. Supprimer `~/wpclean` (copie de WordPress ayant servi à la comparaison) ; garder `~/quarantaine` quelques semaines.
+5. Contrôle périodique : relancer `wp core verify-checksums` de temps en temps.
