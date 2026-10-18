@@ -54,3 +54,9 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 - Index genre 1256 : « Inde (îles Andaman et Nicobar) ; non évaluée (NE) » → « Inde (îles Andaman) ; non évaluée sous ce nom (NE), incluse dans *Cycas sainathii* par la Liste rouge (VU, 2022) » (dry run 1 puis application).
 - Points douteux : protologue (dimensions, statut proposé) et clés de 2017/2020 non lus ; critères de l'évaluation VU 2022 non lus ; acceptation POWO connue par extrait de recherche seulement.
 - **À signaler pour l'IT 28567 (non modifiée)** : statut VU 2022 sous *sainathii* (GBIF) absent ; *Luthrodes pandava* (Purti et al. 2022) absent ; critère « fusto superiore a 9 m » (clé non lue) et zeylanica « < 9 m » à revoir d'après Srivastava & Singh 2015 et Lindström & Hill 2007.
+
+## Retouche FR du 18/10/2026 (lot RF2)
+- Point de pilotes/fr-retouches.md : « climat tropical sans gel » (Rusticité) et « île tropicale humide » (Culture), non sourcés (déjà retirés de l'IT 28567 le 18/10).
+- replace_in_content sur 26651 (simulation 2/2 puis application 2/2), formulation alignée sur l'IT 28567 : Culture, « Plante d'une île tropicale humide » → « Originaire d'un archipel tropical », serre chaude présentée comme déduction tirée de l'origine ; Rusticité, « climat tropical sans gel » → simple situation géographique (îles Andaman, zone tropicale), sans affirmation climatique.
+- Rien d'autre modifié ; FAQ « plante d'île tropicale » conservée (fait géographique) ; SEO inchangé ; index genre 1256 non concerné.
+- Contrôles : texte en ligne identique au brouillon (2 830 mots), 12 liens même séquence, liens internes en 200, blocs 105/105, aucun commentaire visible, hreflang fr/it ; User-Agent curl et Chrome : 200, `<title>` « Cycas dharmrajii : grand cycas des îles Andaman (Inde) ».

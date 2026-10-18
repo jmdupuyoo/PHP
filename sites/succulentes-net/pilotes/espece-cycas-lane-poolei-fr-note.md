@@ -68,3 +68,11 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 - Contrôles : verify.py texte identique au rendu, 19 liens, URL 200, aucun commentaire visible, blocs 103/103, hreflang FR/IT conservés, liens internes 200.
 - Index genre 1256 : « Australie (Australie-Occidentale) » → « Australie (Australie-Occidentale, nord-ouest du Kimberley) » ; (LC, 2022) conforme.
 - À signaler pour l'IT 28669 : mêmes points (section/sous-section absentes, de Laubenfels & Adema présentés comme acceptant simplement l'espèce, constat de l'article de greffage repris dans le corps et la FAQ ; PDF Lavaud 2021 disponible).
+
+## Retouche FR du 18/10/2026 (lot RF2)
+- Point de pilotes/fr-retouches.md : « seule espèce du Kimberley qu'il cite » (*furfuracea*) prêtait à Lavaud le mot « Kimberley », qu'il n'emploie pas.
+- Source relue ce jour : PDF Lavaud 2021 (cycadales.eu, 200, texte extrait) : « Cycas furfuracea est l'espèce qui pousse le plus à l'Ouest, on la retrouve uniquement sur le Territoire de l'Ouest, il est extrêmement rare en culture » ; le mot « Kimberley » n'apparaît nulle part dans le PDF.
+- replace_in_content sur 26681 (simulation 1/1 puis application 1/1), Culture : « seule espèce du Kimberley qu'il cite » → citations exactes de Lavaud (« qui pousse le plus à l'Ouest », « uniquement sur le Territoire de l'Ouest »), avec l'interprétation donnée comme telle (« sans doute l'Australie-Occidentale, où vit aussi *Cycas lane-poolei* »).
+- Rien d'autre modifié ; SEO inchangé ; index genre 1256 non concerné.
+- À signaler pour l'IT 28669 (non modifiée) : « l'unica specie dell'Australia Occidentale che nomina » est une interprétation (Lavaud écrit « Territoire de l'Ouest ») ; elle est exacte sur le fond (aucune autre espèce située à l'ouest dans le PDF) mais pourrait citer Lavaud de la même façon.
+- Contrôles : texte en ligne identique au brouillon (3 188 mots), 19 liens même séquence, liens internes en 200, blocs 103/103, aucun commentaire visible, hreflang fr/it ; User-Agent curl et Chrome : 200, `<title>` « Cycas lane-poolei : cycas du nord-ouest du Kimberley ».

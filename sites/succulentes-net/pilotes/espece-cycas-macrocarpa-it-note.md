@@ -25,3 +25,10 @@
 
 ## Points douteux (repris de la FR, plus un)
 - Hauteur maximale 9 m (de Laubenfels & Adema) / 12 m (Liew & Chacko ; aussi Averyanov et al. pour le Laos) ; « pakoo galowe » de langue inconnue ; présence au Laos jugée « douteuse » par ses propres découvreurs en 2014 (dit dans la page), retenue par WLoC.
+
+## Correzione del 18/10/2026 (lot RF2)
+- Point de pilotes/fr-retouches.md (« macrocarpa : fiche IT 28700 sans la réserve sur le Laos (index seulement) ») et de cycadales-a-verifier.md (ligne index IT 11549).
+- Source relue ce jour : Averyanov et al. 2014, *Gymnosperms of Laos* (texte local `scratchpad/gymlaos.txt`, version Early View) : « more than 1000 km to the north of the locality where the species was originally discovered. This fact makes the presence of a 'Malaysian' species in continental regions of northern Indochina doubtful. Continued exploration and study coupled with more collections within Indochina will allow verification of this observation. »
+- replace_in_content sur 28700 (simulation 5/5 puis application 5/5), alignement sur la FR 26696 et l'index IT : intro « presente anche in Laos » → « segnalata anche in Laos » ; encadré, Laos « presenza giudicata dubbia da chi ve l'ha segnalata » ; Tassonomia, « degna di verifica » → « dubbia » (terme des auteurs), avec la vérification par de nouvelles récoltes ; In natura, phrase de réserve en fin du paragraphe sur le Laos (WLoC retient le Laos) ; FAQ « Dove cresce », Laos séparé avec la réserve.
+- Rien d'autre modifié ; SEO non modifié (non relu) ; index IT 11549 déjà conforme (« presenza da confermare secondo i suoi scopritori »).
+- Contrôles : texte en ligne identique au brouillon (3 486 mots), 15 liens même séquence, liens internes en 200, blocs 118/118, aucun commentaire visible, hreflang fr/it ; User-Agent curl et Chrome : 200, `<title>` « Cycas macrocarpa: la grande cicadea di Malesia e Thailandia ».

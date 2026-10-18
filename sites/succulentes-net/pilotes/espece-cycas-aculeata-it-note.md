@@ -45,3 +45,10 @@
 - Index page genre IT 11549 : « (EN, 2010) » → « (EN, 2023) » (simulation 1, application 1) ; brouillon genre aligné (verify.py identique).
 - SEO inchangé (titre et meta toujours exacts).
 - Contrôles : verify.py — texte identique, 6 liens même séquence tous en 200, blocs 101/101, aucun commentaire visible, hreflang fr/it ; curl et User-Agent Chrome : 200, `<title>` « Cycas aculeata: cicadea endemica del Vietnam centrale » (aucun cloaking).
+
+## Correzione del 18/10/2026 (lot RF2)
+- Point de pilotes/fr-retouches.md (ajouts RF1) : « le cocciniglie farinose e gli acari » (« in linea di principio »), sans source, encore présents ; à aligner sur l'IT *andamanica* 28451.
+- Source relue ce jour : article IT du site 17555 (Aulacaspis yasumatsui, lié dans « Leggi anche ») via l'API REST : « una colonia capace di uccidere una cycas adulta in pochi mesi » ; rien sur les « climi caldi e umidi » (l'article parle d'étés chauds et d'hivers doux en climat méditerranéen) — même constat que la FR 22084 corrigée le 18/10 (lot RF1).
+- replace_in_content sur 28445 (simulation 1/1 puis application 1/1), Malattie e parassiti : cocciniglie farinose et acari retirés (aucune source) ; « particolarmente temibile nei climi caldi e umidi » retiré (non soutenu par l'article) ; formulation de l'IT *andamanica* 28451 (« le cocciniglie delle cicadee, tra cui … *Aulacaspis yasumatsui*, possono colpire tutte le specie ») avec la gravité tirée de l'article (renvoi à l'article « più in basso », sans nouveau lien) et « nessun attacco è stato segnalato su questa specie ». Marciume inchangé.
+- Rien d'autre modifié ; SEO inchangé.
+- Contrôles : texte en ligne identique au brouillon (2 678 mots), 6 liens même séquence, liens internes en 200, blocs 101/101, aucun commentaire visible, hreflang fr/it ; User-Agent curl et Chrome : 200, `<title>` « Cycas aculeata: cicadea endemica del Vietnam centrale ».

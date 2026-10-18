@@ -66,3 +66,10 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 - Contrôles : verify.py texte identique au rendu, 18 liens, URL 200, aucun commentaire visible, blocs 93/93, hreflang FR/IT conservés, liens internes 200.
 - Index genre 1256 : « Australie (Queensland, île Prince-de-Galles), Indonésie, Papouasie-Nouvelle-Guinée ; (LC, 2020) » → « sud de la Nouvelle-Guinée (Papouasie-Nouvelle-Guinée, province Occidentale ; Indonésie, Papouasie) ; Australie (Queensland, île du Prince-de-Galles) selon The World List of Cycads, présence à confirmer ; (LC, 2023) » (évaluation Bösenberg 2020, Liste rouge 2023-1).
 - À signaler pour l'IT 28786 : même formulation du rattachement (« alleanza ») à préciser d'après Hill 1996 (série, espèce type, liste des espèces) ; phrase « Andrebbe coltivata in vaso, in serra calda » présentée comme un fait (déduction).
+
+## Retouche FR du 18/10/2026 (lot RF2)
+- Point de pilotes/fr-retouches.md : la phrase « présence à confirmer » (île du Prince-de-Galles, Queensland, citée par The World List of Cycads seule) ne mentionnait pas que Species+ ne cite pas non plus l'Australie.
+- Source relue ce jour : Species+ API publique, taxon_concepts/24094 (200) : distributions = Indonesia, Papua New Guinea (références Jones 1993, Osborne 1995, Rutherford et al. 2013) ; aucune mention de l'Australie.
+- replace_in_content sur 26712 (simulation 2/2 puis application 2/2) : Dans la nature, Species+ ajouté aux sources qui ne citent pas l'Australie (avec Hill 1996 et la Flora of Australia) ; Sites de référence, commentaire Species+ complété (répartition Indonésie et PNG seulement, relue le 18/10/2026).
+- Rien d'autre modifié (encadré, intro et FAQ déjà prudents) ; SEO inchangé ; index genre 1256 non concerné (déjà « présence à confirmer »).
+- Contrôles : texte en ligne identique au brouillon (2 938 mots), 18 liens même séquence, liens internes en 200, blocs 93/93, aucun commentaire visible, hreflang fr/it ; User-Agent curl et Chrome : 200, `<title>` « Cycas papuana : cycas des savanes de Nouvelle-Guinée ».

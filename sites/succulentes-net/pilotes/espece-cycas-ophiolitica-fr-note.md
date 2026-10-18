@@ -68,3 +68,11 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 - Contrôles : verify.py texte identique au rendu, 16 liens, URL 200, aucun commentaire visible, blocs 103/103, hreflang FR/IT conservés, liens internes 200.
 - Index genre 1256 : « Australie (Queensland) » → « Australie (centre-est du Queensland, région de Marlborough et de Rockhampton) » ; (VU, 2023) conforme.
 - À signaler pour l'IT 28751 : même erreur USDA (« da −7 a −1 °C ») ; classement de Lavaud 2021 absent ; Tropicamente déjà daté en IT.
+
+## Retouche FR du 18/10/2026 (lot RF2)
+- Point de pilotes/fr-retouches.md : FAQ, « qui tolèrent un peu mieux la fraîcheur » étendait à toute la classe « moyenne » une remarque que Lavaud ne fait que pour *ophiolitica*.
+- Source relue ce jour : PDF Lavaud 2021 (cycadales.eu, 200) : classe « Moyenne » = *media*, *megacarpa*, *ophiolitica* « (tolère des conditions un peu plus fraiches) », *silvestris* — la parenthèse ne porte que sur *ophiolitica*.
+- replace_in_content sur 26715 (simulation 1/1 puis application 1/1), FAQ : « …de difficulté seulement « moyenne », qui tolèrent un peu mieux la fraîcheur » → « …en précisant que cette espèce « tolère des conditions un peu plus fraîches », sans donner de température » (comme la Culture, la Rusticité et l'IT 28751).
+- Rien d'autre modifié ; SEO inchangé ; index genre 1256 non concerné.
+- Note : la vérification rapide (verify2.py) signalait avant retouche une différence de texte brouillon / en ligne due à la normalisation typographique ; verify.py (normalisation wptexturize) donnait texte identique avant et après.
+- Contrôles : texte en ligne identique au brouillon (3 593 mots), 16 liens même séquence, liens internes en 200, blocs 103/103, aucun commentaire visible, hreflang fr/it ; User-Agent curl et Chrome : 200, `<title>` « Cycas ophiolitica : le cycas bleu 'Marlborough Blue' ».

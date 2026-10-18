@@ -11,13 +11,13 @@ Liste de travail (lots de 5 d'un même genre, comme d'habitude). Détails dans p
 - Page genre FR 1256 (index) : debaoensis, sphaerica, apoa → statuts publiés en 2023 ; nongnoochiae, nathorstii, nayagarhensis (2022), orixensis, montana, nitida (2023) → année de publication au lieu de 2020 ; sundaica « année non indiquée » → 2023 ; aligner sur l'index IT 11549 harmonisé le 18/10. — fait (18/10/2026)
 - armstrongii 21562 : mort de John Armstrong à Kupang le 21/01/1847 confirmée par l'Australian National Herbarium (divergence avec WLoC 1820-1902). — fait (18/10/2026)
 - aculeata 22084, andamanica 21956 : ravageurs génériques ; andamanica : Purti et al. 2022 (Luthrodes pandava). — fait (18/10/2026)
-- desolata 26649 : PDF Lavaud 2021 (« difficile », « sols sableux », divergence avec le protologue).
-- dharmrajii 26651 : « climat tropical sans gel », « île tropicale humide » non sourcés.
-- ophiolitica 26715 : FAQ « qui tolèrent un peu mieux la fraîcheur » étendu à tort à toute la classe « moyenne ».
-- lane-poolei 26681 : « seule espèce du Kimberley qu'il cite » → Lavaud écrit « Territoire de l'Ouest ».
-- papuana 26712 : Species+ ne cite pas non plus l'Australie.
+- desolata 26649 : PDF Lavaud 2021 (« difficile », « sols sableux », divergence avec le protologue). — fait (18/10/2026)
+- dharmrajii 26651 : « climat tropical sans gel », « île tropicale humide » non sourcés. — fait (18/10/2026)
+- ophiolitica 26715 : FAQ « qui tolèrent un peu mieux la fraîcheur » étendu à tort à toute la classe « moyenne ». — fait (18/10/2026)
+- lane-poolei 26681 : « seule espèce du Kimberley qu'il cite » → Lavaud écrit « Territoire de l'Ouest ». — fait (18/10/2026)
+- papuana 26712 : Species+ ne cite pas non plus l'Australie. — fait (18/10/2026)
 - debaoensis FR 5683 : statut non daté (renvoie à 2010) → réévaluation publiée en 2023-1 (CR). — fait (18/10/2026)
-- macrocarpa : fiche IT 28700 sans la réserve sur le Laos (index seulement) — à ajouter en IT.
+- macrocarpa : fiche IT 28700 sans la réserve sur le Laos (index seulement) — à ajouter en IT. — fait (18/10/2026)
 
 ## Encephalartos
 - munchii 12296, gratus 12439, umbeluziensis 12681 : suspensions Species+ visant le Mozambique = CITES 2012-2019 (notification 2019/027) et UE 2008-2017, pour toutes les Zamiaceae (pas « 2008-2018 »).
@@ -39,7 +39,7 @@ Liste de travail (lots de 5 d'un même genre, comme d'habitude). Détails dans p
 | RF5 | Microcycas : page genre FR 13865 |
 
 ## Ajouts (RF1, 18/10/2026)
-- IT aculeata 28445 : « cocciniglie farinose e acari » encore présents → aligner sur l'IT andamanica 28451 (à faire en RF2).
-- Index FR 1256 et IT 11549 : cantafolia (VU) et edentata (EN) publiées en 2023-1 → ajouter l'année ; javana : publiée en 2023-1 mais GBIF donne NE → laisser sans catégorie vérifiée (à faire en RF2).
-- debaoensis IT 11764 : dater le statut (CR, Bösenberg 2023-1) (à faire en RF2).
+- IT aculeata 28445 : « cocciniglie farinose e acari » encore présents → aligner sur l'IT andamanica 28451 (à faire en RF2). — fait (18/10/2026)
+- Index FR 1256 et IT 11549 : cantafolia (VU) et edentata (EN) publiées en 2023-1 → ajouter l'année ; javana : publiée en 2023-1 mais GBIF donne NE → laisser sans catégorie vérifiée (à faire en RF2). — fait (18/10/2026) : cantafolia (VU, 2023), edentata (EN, 2023) ; javana inchangé (« CR, année non vérifiée » dans les deux index : catégorie à trancher, GBIF NE).
+- debaoensis IT 11764 : dater le statut (CR, Bösenberg 2023-1) (à faire en RF2). — fait (18/10/2026)
 - Noms français non vérifiés pour Luthrodes pandava (« azuré des cycas » dans pschannae FR, « Azuré des Sagous » dans l'article 21843) : à harmoniser ou retirer ultérieurement.

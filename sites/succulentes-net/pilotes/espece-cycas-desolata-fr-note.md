@@ -57,3 +57,10 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 - Index de la page genre FR 1256 : « (NT, 2010) » → « (NT, 2023) » (dry run 1 remplacement puis application).
 - **À signaler pour l'IT 28564 (non modifiée)** : réévaluation Bösenberg 2023-1 (NT, catégorie actuelle GBIF) absente ; la fiche IT présente encore la divergence NT 2010 / VU 2022 sans cette référence.
 - Points douteux : origine du « VU 2022 » de la Flora of Australia ; nombre de populations (au moins deux selon Forster 1995, une selon la FoA).
+
+## Retouche FR du 18/10/2026 (lot RF2)
+- Point de pilotes/fr-retouches.md : PDF Simon Lavaud 2021 (« difficile », « sols sableux », divergence avec le protologue), déjà intégré dans l'IT 28564 le 18/10.
+- Source relue ce jour : PDF Simon Lavaud 2021, « Quelques données sur les bases de la culture des Cycas australiens en climat européen » (cycadales.eu, 200, texte extrait et lu) : « Cycas desolata pousse sur des sols sableux » (notes sur le sol) ; classement « Difficile » : *angulata*, *cairnsiana*, *cupida*, *desolata*, *couttsiana*. Protologue (Forster 1995) : « shallow skeletal soil or on low rocky outcrops ».
+- replace_in_content sur 26649 (simulation 3/3 puis application 3/3) : Culture, une phrase (classement « difficile », « sur des sols sableux », divergence avec le protologue, aucun résultat de culture propre à l'espèce dans la note) ; FAQ « Est-il rustique ? », mention du classement « difficile » ; PDF Lavaud ajouté aux Sites de référence (avant le forum).
+- Rien d'autre modifié (conseils généraux du PDF non repris, correction minimale) ; « Dans la nature » et l'encadré gardent le protologue ; SEO inchangé ; index genre 1256 non concerné.
+- Contrôles : texte en ligne identique au brouillon (3 244 mots), 13 liens même séquence, liens internes en 200, blocs 108/108, aucun commentaire visible, hreflang fr/it ; User-Agent curl et Chrome : 200, `<title>` « Cycas desolata : cycas bleu de Charters Towers (Queensland) ».
