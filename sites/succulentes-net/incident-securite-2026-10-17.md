@@ -37,3 +37,7 @@ Suspendu par Claude le 17/10/2026 après le lot IZ4, en attendant le nettoyage.
 3. Google Search Console : « Problèmes de sécurité » (demander un réexamen si signalé), « Sitemaps » (renvoyer `sitemap_index.xml`), « Pages » / « Suppressions » pour les URL `/product/…` déjà indexées (elles renvoient maintenant 404 et sortiront de l'index).
 4. Supprimer `~/wpclean` (copie de WordPress ayant servi à la comparaison) ; garder `~/quarantaine` quelques semaines.
 5. Contrôle périodique : relancer `wp core verify-checksums` de temps en temps.
+
+## Suivi du 18/10/2026
+- Mot de passe de la base de données changé par le propriétaire et reporté dans `wp-config.php` (une première tentative a donné « Error establishing a database connection », corrigée). Contrôle externe : site en 200 (curl, Chrome, Googlebot), API REST et accès MCP fonctionnels, 2 423 pages et 355 articles publiés (inchangés).
+- FTP : aucun compte supplémentaire (seulement les comptes spéciaux idje4654 et idje4654_logs).
