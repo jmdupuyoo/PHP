@@ -13,3 +13,17 @@
 - SEO Rank Math : titre « Zamia lacandona : cycadale de la Selva Lacandona (Chiapas) » (58 car.) ; meta 148 car. ; mot-clé `zamia lacandona`.
 - Vérifications : URL 200 ; aucun commentaire de bloc visible ; 115 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-zamia-lacandona-fr.html`, même séquence de liens (verify.py) ; environ 3 800 mots.
 - Points douteux : Palenque/Agua Azul (Wikipédia seule) ; « tige conique » (Pérez-Farrera 2012, non relu) ; IPNI (Schutzman seul) / WLoC et protologue (deux auteurs) ; Lindstrom 2024 non relu ce jour.
+
+## Retouche FR du 18/10/2026 (lot RF3)
+- Point de pilotes/fr-retouches.md : toxines « chez les *Zamia* », *Aulacaspis yasumatsui* et règlement (UE) 2026/1383 cités sans référence.
+- Sources relues ce jour : The Gymnosperm Database, page *Zamia* (archive de l'université de Hambourg, 200) : « Pharmacological studies have found glycosides of methylazoxymethanol, macrozamine and cycasine » ; OEPP, plantes hôtes d'*Aulacaspis yasumatsui* (https://gd.eppo.int/taxon/AULSYA/hosts, 200) : *Zamia* « Host », d'après Marler, Lindström & Watson 2021 (*Horticulturae* 7(6) : 147 ; Crossref relu, texte MDPI en 403, non consulté) ; règlement (UE) 2026/1383 (EUR-Lex, PDF 200, JO du 26/06/2026, entrée en vigueur le 3e jour : « ZAMIACEAE spp. (II) (Except for the species included in Annex A) #4 ») ; article du site 14141 *Aulacaspis yasumatsui* (200) ; article du site « Le cycas est-il toxique ? » (« Toutes les cycadales sont toxiques : *Zamia*… » ; glucosides azoxyques cycasine et macrozamine communs à l'ordre).
+- replace_in_content sur 22356 (simulation 7/7 puis application 7/7) :
+  - Statut : Species+ complété par la vérification de l'annexe B dans le texte du règlement (UE) 2026/1383 sur EUR-Lex (18/10).
+  - Maladies et ravageurs : « la cochenille asiatique des cycadales » (traduction de l'anglais, aucun nom français attesté par l'OEPP) remplacée par *Aulacaspis yasumatsui* (« Asian cycad scale » en anglais), mortelle pour un cycas adulte en quelques mois d'après l'article du site, *Zamia* parmi ses hôtes selon l'OEPP d'après Marler et al. 2021 ; aucune attaque signalée sur l'espèce.
+  - Toxicité : glycosides (cycasine, macrozamine), dont dérive le méthylazoxyméthanol, attribués aux « études pharmacologiques citées par The Gymnosperm Database » + renvoi à l'article du site sur la toxicité (MAM non classé parmi les glycosides).
+  - « À lire aussi » : article *Aulacaspis yasumatsui* ajouté (3 liens).
+  - Sites de référence : EUR-Lex 2026/1383, The Gymnosperm Database (*Zamia*), OEPP plantes hôtes ; Bibliographie : Marler, Lindström & Watson 2021.
+- Choix : Schultes & Raffauf 1990 non cité pour les glycosides (la Gymnosperm Database rattache cette référence à la phrase suivante, sur les morsures de serpent).
+- Écart avec l'IT 28095 : l'IT a retiré ces trois points au lieu de les sourcer ; rien à reporter obligatoirement.
+- SEO inchangé ; index genre 3963 non concerné.
+- Contrôles : texte en ligne identique au brouillon (≈ 4 100 mots), 13 liens même séquence, liens internes en 200, blocs 120/120, hreflang fr/it, aucun commentaire visible ; User-Agent curl et Chrome : 200, `<title>` « Zamia lacandona : cycadale de la Selva Lacandona (Chiapas) ».

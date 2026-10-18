@@ -3,7 +3,7 @@
 Liste de travail (lots de 5 d'un même genre, comme d'habitude). Détails dans pilotes/cycadales-a-verifier.md et les -it-note.md.
 
 ## Zamia
-- lacandona 22356 et magnifica 22363 : références pour toxines « chez les Zamia », Aulacaspis yasumatsui, règlement (UE) 2026/1383 ; magnifica : contradiction de l'article sur la taille des graines (1,9-2,4 cm / 18,6-23,5 mm).
+- lacandona 22356 et magnifica 22363 : références pour toxines « chez les Zamia », Aulacaspis yasumatsui, règlement (UE) 2026/1383 ; magnifica : contradiction de l'article sur la taille des graines (1,9-2,4 cm / 18,6-23,5 mm). — fait (18/10/2026)
 - portoricensis 21767 : plan UICN 2003 (deux localités, ni graines ni pollinisateur en dix ans) face aux travaux de 2008 et 2018.
 - pumila 21729 : toxicité — la Flore de Cuba ne dit « frites comme mort-aux-rats » que pour Z. integrifolia ; au niveau du genre, « l'amidon servait aussi de mort-aux-rats ».
 
