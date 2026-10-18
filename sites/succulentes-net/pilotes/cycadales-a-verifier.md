@@ -317,14 +317,14 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 - calcicola IT 28499 : PDF Lavaud 2021 consultable (cycadales.eu/wp-content/uploads/2021/04/Bases-de-la-culture-des-Cycas-australiens.pdf) ; mise en garde du forum = C. siamensis vendus sous les noms pruinosa et calcicola ; isotypes BRI, CANB, K, L, PERTH ; page genre IT 11549 encore « VU, 2022 » (Nagalingum & Clugston, évaluation 2021 publiée en 2023-1). — IT FAIT 18/10/2026
 
 - IT à compléter (17/10/2026, nettoyage FR C9a ; détails dans les -fr-note.md) :
-  - lindstromii IT 28680 : évaluation UICN Nguyen 2010 sourcée par Wikipédia EN seule (à dire ou retirer) ; description de Laubenfels & Adema 1998.
-  - lane-poolei IT 28669 : section Cycas, sous-section Endemicae, série Armstrongianosae (Hill 1996) ; de Laubenfels & Adema lui rattachent conferta, canalis, xipholepis ; constat de l'article de greffage dans le corps et la FAQ → remplacer par le PDF Lavaud 2021.
-  - ophiolitica IT 28751 : zones USDA 9-10 = environ −7 à +4 °C (et non −7 à −1 °C) ; classement Lavaud 2021 (difficulté moyenne).
-  - orientis IT 28762 : Lavaud 2021.
+  - lindstromii IT 28680 : évaluation UICN Nguyen 2010 sourcée par Wikipédia EN seule (à dire ou retirer) ; description de Laubenfels & Adema 1998. — IT FAIT 18/10/2026
+  - lane-poolei IT 28669 : section Cycas, sous-section Endemicae, série Armstrongianosae (Hill 1996) ; de Laubenfels & Adema lui rattachent conferta, canalis, xipholepis ; constat de l'article de greffage dans le corps et la FAQ → remplacer par le PDF Lavaud 2021. — IT FAIT 18/10/2026
+  - ophiolitica IT 28751 : zones USDA 9-10 = environ −7 à +4 °C (et non −7 à −1 °C) ; classement Lavaud 2021 (difficulté moyenne). — IT FAIT 18/10/2026
+  - orientis IT 28762 : Lavaud 2021. — IT FAIT 18/10/2026
   - Index page genre IT 11549 : répartitions moins précises qu'en FR ; macrocarpa sans la réserve sur le Laos (Averyanov et al. 2014).
 
 - IT à compléter (17/10/2026, nettoyage FR C9b ; détails dans les -fr-note.md) :
-  - papuana IT 28786 : série Armstrongianosae d'après Hill 1996 (au lieu de « alleanza ») ; « Andrebbe coltivata in vaso, in serra calda » à présenter comme déduction.
+  - papuana IT 28786 : série Armstrongianosae d'après Hill 1996 (au lieu de « alleanza ») ; « Andrebbe coltivata in vaso, in serra calda » à présenter comme déduction. — IT FAIT 18/10/2026
   - schumanniana IT 28865 : UICN Bösenberg 2020 (Liste rouge 2023-1, NT) ; Lindström et al. 2009 (absente d'Indonésie) ; date 1901 chez de Laubenfels & Adema.
   - scratchleyana IT 28869 : UICN Bösenberg 2020 (2023-1, LC) ; tronc 12-20 cm ; tolérance à l'ombre = site commercial de grainetier ; serre et rusticité = déductions.
 - FR papuana 26712 (mineur) : Species+ ne cite pas non plus l'Australie ; à ajouter à « présence à confirmer ».
@@ -346,3 +346,4 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - FR desolata 26649 (mineur, 18/10/2026) : ajouter le PDF Lavaud 2021 (« difficile », « sur sols sableux » — divergence avec le protologue : sols squelettiques, affleurements), comme l'IT 28564.
 - Signalé lors de IC4 (18/10/2026) : index IT 11549, entrée taiwaniana encore « Cina (Fujian, Guangdong) » (à aligner sur l'index FR en IC6) ; vérifier en IC6 si la fiche IT taiwaniana 28960 date l'évaluation Bösenberg de « 2020 » (date sans source, à remplacer par la publication 2023-1). — IT FAIT 18/10/2026 (IC6 : index aligné ; date 2020 sourcée par Crossref, texte ramené à la publication 2023-1)
 - Signalé lors de IC5 (18/10/2026) : index IT 11549, debaoensis « (CR, 2010) » à vérifier (réévaluation 2023 ?) — à traiter avec l'alignement final de l'index en IC8 ; FR dharmrajii 26651 : « climat tropical sans gel » (Rusticité) et « île tropicale humide » (Culture) non sourcés.
+- Signalé lors de IC7 (18/10/2026), FR à retoucher : ophiolitica 26715 FAQ — « qui tolèrent un peu mieux la fraîcheur » étend à toute la classe « moyenne » une remarque que Lavaud 2021 ne fait que sur ophiolitica ; lane-poolei 26681 — « seule espèce du Kimberley qu'il cite » (furfuracea) : Lavaud écrit « Territoire de l'Ouest », pas Kimberley.

@@ -26,3 +26,13 @@
 - Liens entrants posés (première occurrence hors intro/encadré/titres/fonti) : *elongata* 28594, *condaoensis* 28540 (recherche API REST « lindstromii » : seules pages IT citant l'espèce avec la page genre). Brouillons alignés (verify.py : 0 bloc manquant).
 
 - 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas pachypoda* (28778) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).
+
+## Correzione del 18/10/2026 (lot IC7)
+- Corrections ciblées (replace_in_content sur 28680 : simulation 5/5 puis application 5/5) d'après la FR 26158 nettoyée le 17/10 (lot C9a) et sa note.
+- Point signalé : l'évaluation UICN 2010 de H.T. Nguyen n'avait pour source que Wikipédia EN. Vérifiée ce jour sur Crossref : DOI 10.2305/IUCN.UK.2010-3.RLTS.T42056A10640470.en, « Cycas lindstromii: Nguyen, H.T. », Red List version 2010-3 (date Crossref 2009-10-31). Elle est donc gardée, avec sa source (Crossref) et la mention que la catégorie de 2010 n'a pas pu être contrôlée (Stato, Bibliografia). Wikipédia n'est plus la source.
+- Évaluation actuelle : Crossref 10.2305/IUCN.UK.2022-1.RLTS.T42056A68903491.en (Bösenberg & Nguyen, issued 2021-07-07, version 2022-1) ; un second DOI au même titre existe (…T42056A243417886.en, même date) — non cité. Formulations « valutazione del 2022 » → « valutazione pubblicata nel 2022 » (intro, encadré) ; Stato : date Crossref et version 2022-1 ; Bibliografia : DOI ajouté. GBIF injoignable ce jour (connexion coupée par le proxy) : catégorie non recontrôlée par GBIF.
+- Description de de Laubenfels & Adema 1998 : déjà présente dans l'IT depuis le 12/10 (Come riconoscere, encadré, In natura, Tassonomia) ; rien à ajouter.
+- FAQ « Si può coltivare all'aperto in Italia? » : « è una pianta tropicale da serra… » présentée comme choix prudent déduit de l'aire tropicale.
+- Rien retiré. Statut inchangé (EN). Toxicité inchangée.
+- SEO inchangé. Index genre IT 11549 : « Vietnam; in pericolo (EN, 2022) » → « Vietnam (costa meridionale, da Khanh Hoa a Ba Ria-Vung Tau); in pericolo (EN, 2022) », aligné sur l'index FR 1256 (simulation 1 puis application 1) ; brouillon genre aligné (verify.py identique, 130 liens).
+- Contrôles : verify.py (texte identique, 9 liens internes en 200, blocs 102/102, hreflang fr/it/en, aucun commentaire visible) ; User-Agent curl et Chrome : 200, `<title>` « Cycas lindstromii: cicadea a fusto sotterraneo del Vietnam », nouveau texte servi.
