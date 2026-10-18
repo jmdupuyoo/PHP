@@ -284,7 +284,7 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 - EN à vérifier lors de la phase EN : ferruginea 18686.
 
 - IT à compléter (13/10/2026, nettoyage FR C4 ; détails dans les -fr-note.md) :
-  - hongheensis IT 28642 : réévaluation UICN 2023-1 (CR) ; Wu et al. 2021 en texte intégral (proposition de 1994 non valide, rive nord du fleuve Rouge).
+  - hongheensis IT 28642 : réévaluation UICN 2023-1 (CR) ; Wu et al. 2021 en texte intégral (proposition de 1994 non valide, rive nord du fleuve Rouge). — IT FAIT 18/10/2026
   - hainanensis IT 28636 : UICN actuelle = synonyme de taiwaniana, EN 2023-1 ; retour Concarneau (défoliée à −5 °C, hiver 2011-2012, tronc sain) ; synonymie de Laubenfels & Adema 1998 ; Wu 2022.
   - glauca IT 28633 : CR daté 2023 ; index IT 11549 encore « anno non verificato ».
   - laotica IT 28677 : évaluation 2023-1 (VU) ; fiche IT et index IT 11549 disent « senza valutazione datata ».

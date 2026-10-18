@@ -53,3 +53,9 @@ Suspendu par Claude le 17/10/2026 après le lot IZ4, en attendant le nettoyage.
 - Sonde `/z9x8c7v6b5-debug-trigger-…` (1er-14/10) : scanner générique hébergé chez Google Cloud (34.x, 35.x, 136.x), sans lien établi avec l'intrusion.
 - Autres 404 : sondes de failles habituelles (phpinfo, credentials.json, cgi-bin, xmlrpc…), toutes sans effet.
 - Point d'entrée : à rechercher dans les POST et les fichiers .php appelés les 13-14/10.
+
+## Pistes d'entrée (18/10/2026)
+- Première fausse page servie : 14/10/2026 16:02:47 (heure du serveur).
+- 13/10/2026 00:40-00:46 : l'IP 62.60.130.111 parcourt un à un les fichiers internes de WordPress (wp-includes/*.php, wp-content/languages/*.l10n.php) et teste wp-login.php (reconnaissance de version). À suivre.
+- 13/10/2026 01:06 : POST wp-login.php depuis 47.76.111.197 (Alibaba Cloud), réponse 200 = échec de connexion.
+- **Clé Pont MCP transmise dans l'URL (`?cle=…`)** : elle figure en clair dans les journaux d'accès (et a été recopiée dans la conversation). Accès complet au site, y compris les extraits Code Snippets (exécution de PHP) → point d'entrée possible si la clé a fuité. Demandé au propriétaire : régénérer la clé (Réglages → Pont MCP) et mettre à jour le connecteur Claude ; vérifier les IP appelant /wp-json/pont-mcp/ (attendu : 160.79.x, Anthropic). Amélioration souhaitable du plugin : accepter la clé dans un en-tête HTTP plutôt que dans l'URL.

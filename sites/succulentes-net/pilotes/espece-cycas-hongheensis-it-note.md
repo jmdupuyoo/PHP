@@ -34,3 +34,14 @@
 - Aucune fiche ni article IT ne cite cette espèce (recherche API REST it, pages et articles), hors page genre (déjà liée).
 
 - 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas pectinata* (28793) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).
+
+## Correzione del 18/10/2026 (lot IC3)
+
+- Corrections ciblées (replace_in_content sur 28642 : simulation 12/12 puis application 12/12), d'après la FR 21975 du 13/10 et sa note ; brouillon local aligné par les mêmes paires.
+- Sources relues ce jour : Wu, Wang & Gong 2021 (texte intégral Europe PMC PMC8635533 : proposition de 1994 sans type ni description latine, invalide selon Vorster 1997 ; « only distributes in Gejiu City on the North Bank of Red River » ; génome chloroplastique d'une plante de Gejiu, voucher KIB194344, groupe frère des 7 autres *Cycas* séquencés ; Crossref : 6(12) : 3513-3514) ; Crossref (« Cycas hongheensis: Liu, J., Lindstrom, A. & Gong, X. », doi 10.2305/IUCN.UK.2023-1.RLTS.T42040A68902633.en) ; GBIF API (usageKey 7860381, CRITICALLY_ENDANGERED / CR, iucnTaxonID 42040) ; Trebrown (zone 9b, « Common Name: None known »).
+- Erreurs corrigées : statut limité à l'évaluation de 2010 (→ réévaluation Liu, Lindström & Gong 2023-1, CR maintenu : encadré, Stato, FAQ) ; « proposta come taxon distinto nel 1994 » sans préciser que cette proposition n'était pas une publication valide (→ Vorster 1997 via Wu 2021) ; « due popolazioni, con meno di 1000 individui » rendu sans ambiguïté (« che insieme contano »).
+- Ajouts : rive nord du fleuve Rouge (In natura) ; position chloroplastique (Tassonomia) ; divergence Zheng 2017 (mont Dawei) / Wu 2021 (Gejiu seulement) exposée sans arbitrage ; zone USDA 9b Trebrown (classement commercial) ; Trebrown sans nom commun ; Fonti : GBIF API, Trebrown ; Bibliografia : Wu et al. 2021, Liu et al. 2023.
+- Rien retiré. SEO inchangé (titre et meta exacts).
+- Index genre IT 11549 : « Cina (Yunnan); … (CR, 2010) » → « Cina (sud-est dello Yunnan, valle del Fiume Rosso); … (CR, 2023) » (comme l'index FR ; simulation 1, application 1) ; brouillon genre aligné ; verify.py genre : texte identique, 130 liens, 135/135 blocs ; User-Agent curl et Chrome : `<title>` correct.
+- Contrôles fiche : verify.py — texte identique au brouillon, 14 liens (tous IT, 200), URL 200, aucun commentaire visible, 108/108 blocs, hreflang fr/it/en/es ; User-Agent curl et Chrome : 200, même taille, `<title>` « Cycas hongheensis: la cicadea del Fiume Rosso nello Yunnan » ; aucune page de spam.
+- Point douteux maintenu : localisation de la population du mont Dawei (Zheng 2017) face à Wu 2021.
