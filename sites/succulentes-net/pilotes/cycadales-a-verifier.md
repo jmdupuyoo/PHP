@@ -277,10 +277,10 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 
 - IT à compléter (13/10/2026, nettoyage FR C3 ; détails dans les -fr-note.md) :
   - desolata IT 28564 : réévaluation Bösenberg 2023-1 (NT). — IT FAIT 18/10/2026
-  - fairylakea IT 28610 : résumé Feng 2021 lisible sur Crossref ; Liang 2024 (localités Meizhou, Zhaoqing, Yangchun ; reliques presque toutes femelles au Fujian et au Guangxi ; ≈ 450 plantes à Taishan, > 2 000 à Yangjiang).
-  - ferruginea IT 28616 : réévaluation Bösenberg 2023-1 (NT) ; divergences de la Flora of China (limbe, sclérotesta lisse).
-  - hoabinhensis IT 28639 : réévaluation 2023-1 EN (GBIF) ; plan UICN 2003 (tableaux 5.1 et 8.1) ; plante cultivée à Hanoï (Fous de palmiers 2010).
-  - condaoensis IT 28540 : mineur (fruits à Vienne, zone 9b Trebrown).
+  - fairylakea IT 28610 : résumé Feng 2021 lisible sur Crossref ; Liang 2024 (localités Meizhou, Zhaoqing, Yangchun ; reliques presque toutes femelles au Fujian et au Guangxi ; ≈ 450 plantes à Taishan, > 2 000 à Yangjiang). — IT FAIT 18/10/2026
+  - ferruginea IT 28616 : réévaluation Bösenberg 2023-1 (NT) ; divergences de la Flora of China (limbe, sclérotesta lisse). — IT FAIT 18/10/2026
+  - hoabinhensis IT 28639 : réévaluation 2023-1 EN (GBIF) ; plan UICN 2003 (tableaux 5.1 et 8.1) ; plante cultivée à Hanoï (Fous de palmiers 2010). — IT FAIT 18/10/2026
+  - condaoensis IT 28540 : mineur (fruits à Vienne, zone 9b Trebrown). — IT FAIT 18/10/2026
 - EN à vérifier lors de la phase EN : ferruginea 18686.
 
 - IT à compléter (13/10/2026, nettoyage FR C4 ; détails dans les -fr-note.md) :

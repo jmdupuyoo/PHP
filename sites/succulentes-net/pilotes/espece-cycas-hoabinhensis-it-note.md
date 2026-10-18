@@ -32,3 +32,13 @@
 ## Liens croisés (fin de lot, 12/10/2026)
 
 - Aucune fiche ni article IT ne cite cette espèce (recherche API REST it, pages et articles), hors page genre (déjà liée).
+
+## Correzione del 18/10/2026 (lot IC3)
+
+- Corrections ciblées (replace_in_content sur 28639 : simulation 11/11 puis application 11/11), d'après la FR 22042 du 13/10 et sa note ; brouillon local aligné par les mêmes paires.
+- Sources relues ce jour : GBIF API (usageKey 7639463, catégorie UICN actuelle ENDANGERED / EN, iucnTaxonID 42047) ; Crossref (« Cycas hoabinhensis: Nguyen, T.H. », doi 10.2305/IUCN.UK.2023-1.RLTS.T42047A68902426.en) ; plan d'action UICN 2003 (texte local `enc5/iucn2003.txt`) : en-têtes du tableau 5.1 relus (Present decline « high », Extent of occurrence 50 km², Habitat reduction 50-80 % sur 30 ans) et tableau 8.1 (« Cycas "hoabinhensis" » : General collection Y, ni banque de gènes ni collection privée) ; Fous de palmiers (page de recherche « hoabinhensis » : 3 messages de 2010 ; message #p111435 relu, `<title>` « Voyage au Vietnam, Cycas tropophylla, dolichophylla, fugax ») ; Trebrown (zone 9b).
+- Erreurs corrigées : catégorie de la réévaluation 2023-1 dite « non vérifiable » (→ EN maintenu, via GBIF : encadré, Stato, FAQ, Bibliografia avec doi) ; « presente in aree protette » pour le plan de 2003 (→ « almeno un'area protetta », la colonne Reserve ne dit que Y) ; « sul forum Fous de palmiers non è stato trovato alcun riscontro » (→ 3 messages de 2010, dont une plante cultivée à Hanoï ; aucune culture en France).
+- Ajouts : déclin fort, aire d'occurrence ≈ 50 km², perte d'habitat 50-80 % (In natura) ; présence en collection générale selon le tableau 8.1 (Coltivazione) ; zone USDA 9b Trebrown (classement commercial, Rusticità) ; Fonti : GBIF API, Trebrown, Fous de palmiers.
+- Rien retiré. SEO inchangé (titre et meta exacts).
+- Index genre IT 11549 : « Vietnam; in pericolo (EN, 2010) » → « Vietnam settentrionale; in pericolo (EN, 2023) » (comme l'index FR ; simulation 1, application 1) ; brouillon genre aligné ; verify.py genre : texte identique, 130 liens, 135/135 blocs.
+- Contrôles fiche : verify.py — texte identique au brouillon, 10 liens (tous IT, 200), URL 200, aucun commentaire visible, 104/104 blocs, hreflang fr/it ; User-Agent curl et Chrome : 200, même taille, `<title>` « Cycas hoabinhensis: la cicadea di Hòa Bình in Vietnam » ; aucune page de spam.

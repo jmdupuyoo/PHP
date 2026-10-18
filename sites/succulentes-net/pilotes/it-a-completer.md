@@ -17,7 +17,7 @@ Source des points : pilotes/cycadales-a-verifier.md (sections « IT à compléte
 |---|---|
 | IC1 | andamanica 28451 fait (18/10/2026), aculeata 28445 fait (18/10/2026), armstrongii 28466 fait (18/10/2026), balansae 28478 fait (18/10/2026), brachycantha 28487 fait (18/10/2026) |
 | IC2 | changjiangensis 28522 fait (18/10/2026), chenii 28525 fait (18/10/2026), collina 28536 fait (18/10/2026), chevalieri 28528 fait (18/10/2026), desolata 28564 fait (18/10/2026) |
-| IC3 | fairylakea 28610, ferruginea 28616, hoabinhensis 28639, condaoensis 28540, hongheensis 28642 |
+| IC3 | fairylakea 28610 fait (18/10/2026), ferruginea 28616 fait (18/10/2026), hoabinhensis 28639 fait (18/10/2026), condaoensis 28540 fait (18/10/2026), hongheensis 28642 |
 | IC4 | hainanensis 28636, glauca 28633, laotica 28677, lingshuigensis 28685, maconochiei 28690 |
 | IC5 | multipinnata 28722, pachypoda 28778, pschannae 28836, dharmrajii 28567, segmentifida 28877 |
 | IC6 | siamensis 28898, taiwaniana 28960, tanqingii 28970, zeylanica 29032, calcicola 28499 |

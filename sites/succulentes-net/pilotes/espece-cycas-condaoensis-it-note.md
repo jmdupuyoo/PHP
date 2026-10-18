@@ -32,3 +32,13 @@
 - 12/10/2026 : lien vers *Cycas lindstromii* (28680) posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.
 
 - 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas pachypoda* (28778), *Cycas pectinata* (28793) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).
+
+## Correzione del 18/10/2026 (lot IC3)
+
+- Corrections ciblées (replace_in_content sur 28540 : simulation 6/6 puis application 6/6), d'après la FR 22008 du 13/10 et sa note ; brouillon local aligné par les mêmes paires.
+- Sources relues ce jour : GBIF API (occurrences de la clé 2683271 : 4 parts W 2012-0010096/-0097 (acc. 79 B, « Fruits in the carpological collection ») et -0141/-0142 (acc. 79 V), cultivées à Nong Nooch, 2011 ; 2 séquences du voucher Nguyen/Hiep 181 (HN) ; catégorie UICN actuelle LEAST_CONCERN / LC, iucnTaxonID 42050) ; Trebrown (zone 9b, « Common Name: None known »).
+- Erreur corrigée : « Le zone USDA che alcune schede commerciali attribuiscono… non sono riprese » (la FR cite désormais la zone 9b de Trebrown comme classement commercial) → zone 9b citée et qualifiée, dernière phrase de « Riferimenti internazionali » remplacée par la seule culture documentée (Nong Nooch).
+- Ajouts : fruits de la plante 79 B dans la collection carpologique de Vienne (Coltivazione, Fonti) ; LC actuel via GBIF (Stato) ; Trebrown sans nom commun (Nomi comuni) ; Fonti : API GBIF, Trebrown.
+- Rien retiré. Statut inchangé (LC). SEO inchangé.
+- Index genre IT 11549 : « Vietnam; minor preoccupazione (LC, 2010, confermata nel 2023) » → « Vietnam (arcipelago di Côn Đảo); minor preoccupazione (LC, 2023) » (format « (LC, 2023) » de la consigne, aligné sur l'index FR ; simulation 1, application 1) ; brouillon genre aligné ; verify.py genre OK (130 liens, 135/135 blocs) ; User-Agent curl et Chrome : `<title>` correct.
+- Contrôles fiche : verify.py — texte identique au brouillon, 12 liens (tous IT, 200), URL 200, aucun commentaire visible, 92/92 blocs, hreflang fr/it/es ; User-Agent curl et Chrome : 200, même taille, `<title>` « Cycas condaoensis: la cicadea delle isole di Côn Đảo » ; aucune page de spam.
