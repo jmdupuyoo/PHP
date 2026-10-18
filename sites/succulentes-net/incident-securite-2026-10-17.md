@@ -41,3 +41,4 @@ Suspendu par Claude le 17/10/2026 après le lot IZ4, en attendant le nettoyage.
 ## Suivi du 18/10/2026
 - Mot de passe de la base de données changé par le propriétaire et reporté dans `wp-config.php` (une première tentative a donné « Error establishing a database connection », corrigée). Contrôle externe : site en 200 (curl, Chrome, Googlebot), API REST et accès MCP fonctionnels, 2 423 pages et 355 articles publiés (inchangés).
 - FTP : aucun compte supplémentaire (seulement les comptes spéciaux idje4654 et idje4654_logs).
+- Administrateurs WordPress : 2 comptes, tous deux connus du propriétaire — admin-succulentes (propriétaire) et Nilo (compte utilisé par l’outil OpenClaw du propriétaire ; snippet 10 « Nilo Translation API » associé). Conseillé : renouveler mots de passe et mots de passe d’application des deux comptes.
