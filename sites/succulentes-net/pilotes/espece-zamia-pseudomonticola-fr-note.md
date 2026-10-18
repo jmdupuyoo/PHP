@@ -35,3 +35,7 @@
 - Sortants (11, tous 200) : genre, fairchildiana, acuminata, gomeziana, elegantissima, stevensonii, monticola, furfuracea ; « À lire aussi » : semis, cônes et reproduction, cycas toxique.
 - Index de la page genre 3963 : nom lié (1/1), statut « (LC), évaluation de 2022 » conforme ; brouillon aligné ; verify.py OK.
 - Entrants posés (première occurrence hors introduction et encadré ; simulation puis application) : elegantissima 29456 (liste « Confusions »), stevensonii 26614 (description des folioles), gomeziana 26491 (liste « Confusions »), fairchildiana 26484 (Hybrides ; l'occurrence de l'encadré n'est pas liée), monticola 22382 (Étymologie) ; brouillons alignés, verify.py OK.
+
+## Retouche du 18/10/2026 (lot NI2)
+
+- La section « Maladies et ravageurs » renvoie à « l'article lié plus bas » pour *Aulacaspis yasumatsui*, absent de « À lire aussi » : ajout de « Aulacaspis yasumatsui : la cochenille tueuse de cycas » (https://succulentes.net/aulacaspis-yasumatsui/, 200, même libellé que dans les FR elegantissima, nana, obliqua) en dernière position (replace_in_content ids=[29463], simulation 1/1 puis application 1/1). La section compte désormais 4 liens (règle « 1 à 3 » dépassée ; à trancher). Brouillon aligné ; verify.py : texte identique, 12 liens même séquence, blocs 135/135, hreflang fr/it.
