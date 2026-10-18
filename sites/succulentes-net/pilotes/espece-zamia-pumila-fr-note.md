@@ -48,3 +48,11 @@
 6. Ornduff 1987 (*Biotropica*, résumé) : trois populations dominicaines (sex-ratio, fréquence des cônes) ; non mentionné en IT.
 7. Pagán-Jiménez & Lazcano-Lara 2013 : pente de 30-70° pour P-2/P-3 (P-1 ≈ 45°) et petit groupe de jeunes plantes près d'une femelle en P-2 ; la fiche IT généralise « 30-70° » et « nessuna plantula ».
 8. Nexus 2016 : Abbad y Lasierra (morts par intoxication au sud de Porto Rico) et sorullos de marunguey jusqu'au milieu du XXe siècle ; Species+ : *Encephalartos pumilus* et *Zamia humilis* cités (déjà en IT).
+
+## Retouche FR du 18/10/2026 (lot RF3)
+- Point de pilotes/fr-retouches.md : Toxicité — « des morceaux de tige de *Zamia* frits servaient de mort-aux-rats » attribué au genre, alors que la flore de Cuba ne le dit pas de *Zamia pumila*.
+- Source relue ce jour : *Flora de la República de Cuba* 8(4), González Géigel 2003 (texte local `scratchpad/z5/frc/zam.txt`) : genre, « Importancia económica » : « se extrae el almidón del rizoma para alimentar niños pequeños, y aún como raticida (Roig 1963) » ; *Zamia angustifolia* (2.1) : « Los trozos de rizoma fritos y partidos en pedazos se echan a los ratones para matarlos (Roig 1963) » ; *Zamia integrifolia* (2.3) : « fragmentos de los mismos, fritos, sirven como raticidas (Roig 1963) » ; *Zamia ottonis* (2.7) : « Se emplea principalmente como raticida (Roig 1963), pero su efecto no ha sido comprobado » (sans friture) ; rien de tel sous *Zamia pumila* (2.4).
+- replace_in_content sur 21729 (simulation 1/1 puis application 1/1), Toxicité : au niveau du genre, l'amidon de la tige « servait aussi de mort-aux-rats » ; les morceaux de tige frits ne sont mentionnés que pour *Zamia integrifolia* et *Zamia angustifolia*, et non pour *Zamia pumila* (sans lien : les deux espèces sont déjà liées plus haut).
+- Écart avec l'IT 28196 et avec le point de fr-retouches.md : ceux-ci ne citent que *Zamia integrifolia* pour la tige frite ; la flore le dit aussi de *Zamia angustifolia* → à reporter dans l'IT 28196.
+- SEO inchangé ; index genre 3963 non concerné.
+- Contrôles : texte en ligne identique au brouillon (≈ 7 030 mots), 12 liens même séquence, liens internes en 200, blocs 174/174, hreflang fr/it/en, aucun commentaire visible ; User-Agent curl et Chrome : 200, `<title>` « Zamia pumila : espèce type du genre, souvent confondue ».

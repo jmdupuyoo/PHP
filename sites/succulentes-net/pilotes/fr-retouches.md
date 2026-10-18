@@ -4,8 +4,8 @@ Liste de travail (lots de 5 d'un même genre, comme d'habitude). Détails dans p
 
 ## Zamia
 - lacandona 22356 et magnifica 22363 : références pour toxines « chez les Zamia », Aulacaspis yasumatsui, règlement (UE) 2026/1383 ; magnifica : contradiction de l'article sur la taille des graines (1,9-2,4 cm / 18,6-23,5 mm). — fait (18/10/2026)
-- portoricensis 21767 : plan UICN 2003 (deux localités, ni graines ni pollinisateur en dix ans) face aux travaux de 2008 et 2018.
-- pumila 21729 : toxicité — la Flore de Cuba ne dit « frites comme mort-aux-rats » que pour Z. integrifolia ; au niveau du genre, « l'amidon servait aussi de mort-aux-rats ».
+- portoricensis 21767 : plan UICN 2003 (deux localités, ni graines ni pollinisateur en dix ans) face aux travaux de 2008 et 2018. — fait (18/10/2026)
+- pumila 21729 : toxicité — la Flore de Cuba ne dit « frites comme mort-aux-rats » que pour Z. integrifolia ; au niveau du genre, « l'amidon servait aussi de mort-aux-rats ». — fait (18/10/2026) ; la flore cite aussi Z. angustifolia pour la tige frite.
 
 ## Cycas
 - Page genre FR 1256 (index) : debaoensis, sphaerica, apoa → statuts publiés en 2023 ; nongnoochiae, nathorstii, nayagarhensis (2022), orixensis, montana, nitida (2023) → année de publication au lieu de 2020 ; sundaica « année non indiquée » → 2023 ; aligner sur l'index IT 11549 harmonisé le 18/10. — fait (18/10/2026)
@@ -43,3 +43,7 @@ Liste de travail (lots de 5 d'un même genre, comme d'habitude). Détails dans p
 - Index FR 1256 et IT 11549 : cantafolia (VU) et edentata (EN) publiées en 2023-1 → ajouter l'année ; javana : publiée en 2023-1 mais GBIF donne NE → laisser sans catégorie vérifiée (à faire en RF2). — fait (18/10/2026) : cantafolia (VU, 2023), edentata (EN, 2023) ; javana inchangé (« CR, année non vérifiée » dans les deux index : catégorie à trancher, GBIF NE).
 - debaoensis IT 11764 : dater le statut (CR, Bösenberg 2023-1) (à faire en RF2). — fait (18/10/2026)
 - Noms français non vérifiés pour Luthrodes pandava (« azuré des cycas » dans pschannae FR, « Azuré des Sagous » dans l'article 21843) : à harmoniser ou retirer ultérieurement.
+
+## Ajouts (RF3, 18/10/2026)
+- IT pumila 28196 : la flore de Cuba cite la tige frite comme mort-aux-rats pour *Zamia integrifolia* ET *Zamia angustifolia* (texte local z5/frc/zam.txt, 2.1 et 2.3) ; l'IT ne nomme que *integrifolia* → ajouter *angustifolia*.
+- FR portoricensis 21767 (et autres fiches *Zamia* au même gabarit, dont erosa 21754 et stricta 21774) : glycosides « chez les *Zamia* » encore sans référence → même correction que lacandona/magnifica (The Gymnosperm Database, article du site sur la toxicité), si souhaité.
