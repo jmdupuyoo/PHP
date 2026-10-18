@@ -28,3 +28,15 @@
 - 12/10/2026 (lot nayagarhensis–orientis) : lien vers *Cycas nongnoochiae* 28747 posé (première occurrence, liste des espèces de la sous-section ; replace_in_content dry run puis application ; brouillon aligné).
 
 - 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas pachypoda* (28778), *Cycas petraea* (28803) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).
+
+## Correzione del 18/10/2026 (lot IC4)
+
+- Corrections ciblées (replace_in_content sur 28677 : simulation 12/12 puis application 12/12), d'après la FR 22052 réécrite le 13/10 et sa note ; brouillon local aligné par les mêmes paires.
+- Sources relues ce jour : GBIF API (usageKey 8215636 → VULNERABLE / VU, iucnTaxonID 66909904) ; Crossref (« Cycas laotica: Nguyen, T.H. & Averyanov, L. », doi 10.2305/IUCN.UK.2023-1.RLTS.T66909904A66909936.en) ; WLoC 653 (VU D2 ; galerie : Khammouan 2020-10-14 et 2024-02-26) ; Trebrown : pas de page (aucune zone USDA).
+- Erreurs corrigées : « senza valutazione datata della Lista rossa » (→ évaluation Nguyễn & Averyanov, version 2023-1, VU actuel via GBIF : encadré, Stato, FAQ ; intro complétée) ; « Il suo inserimento nella CITES… escludono qualsiasi prelievo in natura » (l'annexe II n'interdit pas le prélèvement → « sconsigliano… commercio internazionale regolato dalla CITES ») ; besoins de culture déduits de l'habitat présentés comme faits (→ « fa pensare… deduzioni dall'habitat »).
+- Ajouts : photos WLoC 2020 et 2024 (In natura) ; Fous de palmiers 0 résultat (13/10) et JZT rien (Coltivazione) ; aucune zone USDA de pépinière (Rusticità) ; Fonti : GBIF, WLoC relue ; Bibliografia : Nguyễn & Averyanov 2023.
+- Rien retiré d'autre. Toxicité inchangée. SEO inchangé (titre et meta exacts).
+- Index genre IT 11549 : « Laos; vulnerabile (VU, D2) secondo The World List of Cycads, senza valutazione datata della Lista rossa; stato VU o EN proposto dagli autori nel 2014 » → « Laos (provincia di Khammouane); vulnerabile (VU, 2023) » (comme l'index FR ; simulation 1, application 1) ; brouillon genre aligné ; verify.py genre : texte identique, 130 liens, 135/135 blocs ; User-Agent curl et Chrome : `<title>` correct.
+- Contrôles fiche : verify.py — texte identique au brouillon (2 943 mots), 17 liens (tous IT, 200), URL 200, aucun commentaire visible, 105/105 blocs, hreflang fr/it ; User-Agent curl et Chrome : 200, même taille, `<title>` « Cycas laotica: la cicadea endemica dei calcari del Laos » ; aucune page de spam.
+- Hors lot, à corriger en FR 22052 : même phrase « Son inscription à la CITES et l'étroitesse de son aire excluent… tout prélèvement » (Usages traditionnels).
+- Points douteux maintenus : incohérence du protologue sur l'épine terminale ; graines de 1-1,5 cm ; critère D2 face aux critères B proposés en 2014 (texte de l'évaluation non lu).

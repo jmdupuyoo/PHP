@@ -285,13 +285,13 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
 
 - IT à compléter (13/10/2026, nettoyage FR C4 ; détails dans les -fr-note.md) :
   - hongheensis IT 28642 : réévaluation UICN 2023-1 (CR) ; Wu et al. 2021 en texte intégral (proposition de 1994 non valide, rive nord du fleuve Rouge). — IT FAIT 18/10/2026
-  - hainanensis IT 28636 : UICN actuelle = synonyme de taiwaniana, EN 2023-1 ; retour Concarneau (défoliée à −5 °C, hiver 2011-2012, tronc sain) ; synonymie de Laubenfels & Adema 1998 ; Wu 2022.
-  - glauca IT 28633 : CR daté 2023 ; index IT 11549 encore « anno non verificato ».
-  - laotica IT 28677 : évaluation 2023-1 (VU) ; fiche IT et index IT 11549 disent « senza valutazione datata ».
-  - lingshuigensis IT 28685 : synonyme de taiwaniana dans les données UICN actuelles.
+  - hainanensis IT 28636 : UICN actuelle = synonyme de taiwaniana, EN 2023-1 ; retour Concarneau (défoliée à −5 °C, hiver 2011-2012, tronc sain) ; synonymie de Laubenfels & Adema 1998 ; Wu 2022. — IT FAIT 18/10/2026
+  - glauca IT 28633 : CR daté 2023 ; index IT 11549 encore « anno non verificato ». — IT FAIT 18/10/2026
+  - laotica IT 28677 : évaluation 2023-1 (VU) ; fiche IT et index IT 11549 disent « senza valutazione datata ». — IT FAIT 18/10/2026
+  - lingshuigensis IT 28685 : synonyme de taiwaniana dans les données UICN actuelles. — IT FAIT 18/10/2026
 
 - IT à compléter (13/10/2026, nettoyage FR C5 ; détails dans les -fr-note.md) :
-  - maconochiei IT 28690 : statut UICN 2023 (espèce, subsp. maconochiei, viridis : LC) ; « stagione secca marcata » et « clima senza gelo » non sourcés.
+  - maconochiei IT 28690 : statut UICN 2023 (espèce, subsp. maconochiei, viridis : LC) ; « stagione secca marcata » et « clima senza gelo » non sourcés. — IT FAIT 18/10/2026
   - multipinnata IT 28722 : réévaluation CR 2023-1 ; mesures Flora of China / Hill mélangées (mégasporophylles 8-12 cm, 25-35 lobes, 12-22 paires de folioles).
   - pachypoda IT 28778 : réévaluation CR 2023-1.
   - pschannae IT 28836, andamanica IT 28451, dharmrajii IT 28567 : la Liste rouge 2022-1 (via GBIF) range pschannae, andamanica et dharmrajii sous C. sainathii s.l., VU ; WLoC donne NE. — IT FAIT 18/10/2026 pour andamanica (pschannae et dharmrajii : lot IC5)
@@ -344,3 +344,4 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - Zamia ottonis et Z. kickxii : pas de page IT ni FR (ottonis synonyme de pygmaea pour WLoC, kickxii à vérifier dans WLoC).
 - FR retouches (signalées 18/10/2026 lors de IC1) : armstrongii FR 21562 — la mort de John Armstrong à Kupang le 21/01/1847 est confirmée par l'Australian National Herbarium (Orchard 1999, George 2009) ; exposer la divergence avec WLoC/Haynes (1820-1902) comme dans l'IT 28466. aculeata FR 22084 et andamanica FR 21956 — section ravageurs encore générique (cochenilles farineuses, acariens) ; andamanica : ajouter Purti et al. 2022 (Luthrodes pandava).
 - FR desolata 26649 (mineur, 18/10/2026) : ajouter le PDF Lavaud 2021 (« difficile », « sur sols sableux » — divergence avec le protologue : sols squelettiques, affleurements), comme l'IT 28564.
+- Signalé lors de IC4 (18/10/2026) : index IT 11549, entrée taiwaniana encore « Cina (Fujian, Guangdong) » (à aligner sur l'index FR en IC6) ; vérifier en IC6 si la fiche IT taiwaniana 28960 date l'évaluation Bösenberg de « 2020 » (date sans source, à remplacer par la publication 2023-1).

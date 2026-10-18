@@ -27,3 +27,14 @@
 ## Liens croisés (fin de lot, 12/10/2026)
 
 - Lien posé vers cette fiche dans *edentata* 28588 (première occurrence hors intro/encadré/titres/fonti), replace_in_content ciblé, dry run puis application ; brouillon aligné (verify.py : 0 bloc manquant).
+
+## Correzione del 18/10/2026 (lot IC4)
+
+- Corrections ciblées (replace_in_content sur 28633 : simulation 11/11 puis application 11/11), d'après la FR 26684 nettoyée le 13/10 et sa note ; brouillon local aligné par les mêmes paires.
+- Sources relues ce jour : GBIF API (usageKey 3594903 → CRITICALLY_ENDANGERED / CR, iucnTaxonID 178874) ; Crossref (« Cycas glauca: Lindstrom, A. », doi 10.2305/IUCN.UK.2023-1.RLTS.T178874A68901750.en) ; WLoC 128 (CR A2ac+4ace ; de Laubenfels & Adema 1998 p. 369 « as synonym of Cycas rumphii » ; galerie : Covalima 2023 et Lautém 2003-04-08) ; Trebrown : pas de page pour l'espèce.
+- Erreurs corrigées : catégorie CR présentée comme non datable (→ réévaluation Lindström 2023-1, CR actuel via GBIF : intro, encadré, Stato, FAQ, Bibliografia avec DOI) ; « clima tropicale senza gelo » non sourcé (→ îles tropicales, récoltes jusque vers 415 m, Lindström et al. 2009) ; « foresta tropicale con una stagione secca marcata… substrato drenante » présenté comme fait (→ déduction signalée, substrat drainant retiré : la plante pousse sur argile).
+- Ajouts : observation de Lautém (2003) d'après WLoC ; p. 369 et mise en synonymie de *rumphii* (Bibliografia de Laubenfels & Adema) ; Fonti : GBIF ; WLoC relue.
+- Retiré : « stagione secca marcata », « clima tropicale senza gelo », « substrato drenante ». Toxicité inchangée. SEO inchangé (titre et meta exacts).
+- Index genre IT 11549 : « Timor Est, Indonesia; in pericolo critico (CR, anno non verificato) » → « Timor Est, Indonesia (Timor occidentale, Sumba); in pericolo critico (CR, 2023) » (comme l'index FR ; simulation 1, application 1) ; brouillon genre aligné ; verify.py genre : texte identique, 130 liens, 135/135 blocs ; User-Agent curl et Chrome : `<title>` correct.
+- Contrôles fiche : verify.py — texte identique au brouillon (2 818 mots), 13 liens (tous IT, 200), URL 200, aucun commentaire visible, 107/107 blocs, hreflang fr/it ; User-Agent curl et Chrome : 200, même taille, `<title>` « Cycas glauca: la cicadea bluastra di Timor e Sumba » ; aucune page de spam.
+- Points douteux maintenus : catégorie de l'évaluation de 2010 ; recommandation VU de 2009 face au CR actuel (critères non lus).
