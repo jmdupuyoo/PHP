@@ -117,6 +117,7 @@ Bilan : un seul retour chiffré (Floride 2026, B. spectabilis, 23 °F, aucun dé
 | Acta Plantarum | IT | **Bloqué** | **Sans résultat** (étymologie seulement) |
 | Club de Palmeras / foro de cícadas | ES | **Bloqué** | **Sans résultat** |
 | Cycad Society / cycad forums (cycad.org) | EN | Accessible (vérifié le 19/10/2026 ; cycadsociety.org aussi, autorisé par le propriétaire) | Sans résultat à cette date |
+| Cycadelic (cycadelic.phpbb.net) | EN | **Bloqué** (Cloudflare, vérifié le 19/10/2026 ; autorisé par le propriétaire, non contourné) | Repérage seulement via moteur de recherche |
 | UBC Botany Photo of the Day (forums.botanicalgarden.ubc.ca) | EN | non testé (recherche seule) | **Sans résultat** pour ces 4 genres |
 | GardenWeb / Houzz | EN | **Bloqué** | **Sans résultat** |
 
