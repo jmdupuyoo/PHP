@@ -382,3 +382,9 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - Page genre Dioon FR 3794 : « forêt de *Dioon* » attribuée à Chamberlain, introuvable dans *The Living Cycads* ; encadré « 10 à 15 m » pour *D. spinulosum* (sources : 10,7 m mesurés par Chamberlain, > 15 m, 16-18 m selon la révision 2020).
 - *D. edule* FR 5273 : bloc image 29695 (cône femelle) — corrigé le 19/10 sur demande du propriétaire : alt « Dioon edule », légende « Cône femelle de <em>Dioon edule</em>. ».
 - EN : *mejiae* VU au lieu d'EN ; prétendu critère du pétiole mejiae/spinulosum ; rusticités non sourcées ; sarcotesta « crème » pour *merolae* (jaune). Détails dans les notes FR (phase EN).
+
+## Signalé lors de AD2 (19/10/2026)
+- Pages genre Dioon FR 3794 / IT 11673 : phrase « étude du rétablissement non vérifiée » remplacée (González-Astorga et al. 2003, confirmé 2005) — FAIT 19/10.
+- Médias 24468 et 24470 : alt médiathèque passé à « Dioon edule » — FAIT 19/10 (les blocs déjà insérés avaient déjà alt « Dioon edule »).
+- EN 17837 (holmgrenii), 17917 (sonorense), 17796 (angustifolium : « northernmost », USDA 8a, UICN NT au lieu de VU 2022, tronc 1,5 m…) : erreurs dans les notes FR (phase EN).
+- EN *D. vovidesii* : aligner sur la limite nord vers le 28e parallèle (Gutiérrez-Ortega 2021).
