@@ -213,3 +213,10 @@ Lots de 5 fiches d'un même genre ; un seul lot à la fois ; chaque fiche termin
 
 ## Sources : PlantZAfrica (décision du propriétaire, 18/10/2026)
 PlantZAfrica (SANBI, pza.sanbi.org) refuse les requêtes de robots (403) mais s'ouvre avec un User-Agent de navigateur. Le propriétaire autorise son utilisation comme source (consultation avec un User-Agent de navigateur). Cette autorisation ne vaut que pour PlantZAfrica : POWO, la Liste rouge UICN, BHL et PalmTalk (Cloudflare) restent non contournés.
+
+## Version anglaise (décisions du propriétaire, 19/10/2026)
+- Public visé : Royaume-Uni, États-Unis, Australie. Rechercher, comme pour l'Italie, la présence des espèces dans les jardins botaniques de ces pays (inventaire : pilotes/cycadales-jardins-botaniques-en.md) et les retours de culture crédibles sur les forums et sites anglophones lisibles (PalmTalk reste bloqué par Cloudflare : ne pas contourner). Forums cités de façon anonyme : « A grower in (city, region, country) reports on the X forum that… ».
+- Le Jardin zoologique tropical et les expériences du sud-est de la France peuvent être cités (observations validées), présentés comme une expérience méditerranéenne utile aux lecteurs de climats comparables (Californie, sud de l'Australie, sud de l'Angleterre pour les espèces les plus rustiques), sans correspondance chiffrée inventée.
+- Températures : °C d'abord, °F entre parenthèses (conversion exacte). Zones USDA seulement si une source les donne (et l'attribuer ; un classement de pépinière est un classement commercial).
+- Liens internes uniquement vers des pages EN publiées ; jamais vers une page FR, IT ou ES.
+- Source des faits : les fiches FR et IT vérifiées (octobre 2026) et leurs notes ; ne rien reprendre de ce qu'elles ont écarté.
