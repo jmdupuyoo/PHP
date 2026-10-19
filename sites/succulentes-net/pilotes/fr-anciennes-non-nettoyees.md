@@ -12,3 +12,21 @@ Fiches espèces FR sans brouillon ni note dans pilotes/ : elles n'ont pas été 
 
 Déjà relevé lors de CYC01 (EN) : beddomei FR 14377 / IT 14390 et bifida FR 14394 / IT 14404 — erreurs listées dans pilotes/espece-cycas-{beddomei,bifida}-en-note.md.
 Nom anglais « fire fern » : attesté pour armstrongii et calcicola (Butt 1990, Palms & Cycads 27, wiki PACSOA ; étiquette RBG Sydney) → corriger FR/IT armstrongii 21562/28466 et calcicola 21857/28499 qui le disent non attesté.
+
+## Décision du propriétaire (19/10/2026) : nettoyer FR et IT d'abord, puis reprendre la phase anglaise.
+Lots de 5 d'un même genre, un seul lot à la fois ; pour chaque espèce : FR d'abord (sources primaires), puis IT alignée, chaque fiche terminée avant la suivante.
+
+| Lot | Espèces (FR / IT à trouver) |
+|---|---|
+| AC1 | Cycas beddomei 14377, bifida 14394, micholitzii 14413, multifrondis 14304, megacarpa 14323 |
+| AC2 | Cycas revoluta 13945, circinalis 13700, rumphii 10608, thouarsii 10600, seemannii 6162 |
+| AC3 | Cycas diannanensis 6175, guizhouensis 1741, taitungensis 1726, panzhihuaensis 1670 |
+| AZ1 | Zamia grijalvensis 22333, brasiliensis 22303, fischeri 21704, furfuracea 14461 |
+| AD1 | Dioon edule 5273, spinulosum 5286, mejiae 11158, merolae 11130, califanoi 11161 |
+| AD2 | Dioon holmgrenii 11248, sonorense 13251, angustifolium 7876 |
+| AM1 | Macrozamia moorei 1833, miquelii 1822, communis 1471 |
+| AE1 | Encephalartos altensteinii 2436, ferox 1847, friderici-guilielmi 1857, horridus 2470, lebomboensis 2451 |
+| AE2 | Encephalartos lehmannii 1362, longifolius 1373, natalensis 1866, princeps 2461, senticosus 2480 |
+| AE3 | Encephalartos transvenosus 2502, trispinosus 2492, woodii 10803, villosus 12642, hildebrandtii 12423 |
+| AE4 | Encephalartos whitelockii 12023, paucidentatus 12001, middelburgensis 11822, inopinus 7258, sclavoi 5560 |
+| AE5 | Encephalartos ituriensis 12619, laurentianus 12515, kisambo 12464 |
