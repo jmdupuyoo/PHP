@@ -35,3 +35,8 @@ Source des points : pilotes/cycadales-a-verifier.md (sections « IT à compléte
 | Lot | Espèces (id IT) |
 |---|---|
 | AC1 | beddomei 14390 fait (19/10/2026), bifida 14404 fait (19/10/2026), micholitzii 14423 fait (19/10/2026), multifrondis 14312 fait (19/10/2026), megacarpa 14330 fait (19/10/2026) |
+
+## Fiches anciennes (FR et IT de première génération, lot AC2, 19/10/2026)
+| Lot | Espèces (id IT) |
+|---|---|
+| AC2 | revoluta 11558 fait (19/10/2026), circinalis 13750 fait (19/10/2026), rumphii 11721 fait (19/10/2026), thouarsii 12901 fait (19/10/2026), seemannii 11708 fait (19/10/2026) |

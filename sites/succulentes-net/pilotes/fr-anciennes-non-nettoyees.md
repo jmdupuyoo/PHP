@@ -19,7 +19,7 @@ Lots de 5 d'un même genre, un seul lot à la fois ; pour chaque espèce : FR d'
 | Lot | Espèces (FR / IT à trouver) |
 |---|---|
 | AC1 | Cycas beddomei 14377 fait (19/10/2026), bifida 14394 fait (19/10/2026), micholitzii 14413 fait (19/10/2026), multifrondis 14304 fait (19/10/2026), megacarpa 14323 fait (19/10/2026) |
-| AC2 | Cycas revoluta 13945, circinalis 13700, rumphii 10608, thouarsii 10600, seemannii 6162 |
+| AC2 | Cycas revoluta 13945 fait (19/10/2026), circinalis 13700 fait (19/10/2026), rumphii 10608 fait (19/10/2026), thouarsii 10600 fait (19/10/2026), seemannii 6162 fait (19/10/2026) |
 | AC3 | Cycas diannanensis 6175, guizhouensis 1741, taitungensis 1726, panzhihuaensis 1670 |
 | AZ1 | Zamia grijalvensis 22333, brasiliensis 22303, fischeri 21704, furfuracea 14461 |
 | AD1 | Dioon edule 5273, spinulosum 5286, mejiae 11158, merolae 11130, califanoi 11161 |
