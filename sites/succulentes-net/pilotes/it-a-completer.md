@@ -11,6 +11,7 @@ Source des points : pilotes/cycadales-a-verifier.md (sections « IT à compléte
 | IZ2 | skinneri 28263 fait (17/10/2026), purpurea 28186 fait (17/10/2026), vazquezii 28383 fait (17/10/2026), wallisii 28386 fait (17/10/2026), tuerckheimii 28389 fait (17/10/2026) |
 | IZ3 | variegata 28395 fait (17/10/2026), ulei 28392 fait (17/10/2026), stricta 28370 fait (17/10/2026), poeppigiana 28188 fait (17/10/2026), portoricensis 28190 fait (17/10/2026) |
 | IZ4 | prasina 28184 fait (17/10/2026), pumila 28196 fait (17/10/2026) |
+| IZ5 | pseudoparasitica 14493 fait (19/10/2026) (hors lot initial : réécriture après le nettoyage FR 14482) |
 
 ## Cycas
 | Lot | Espèces (id IT) |

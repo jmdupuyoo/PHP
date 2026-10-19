@@ -35,6 +35,7 @@ Source : pilotes/cycadales-a-verifier.md (sections « FR à nettoyer » et ajout
 | A1b | Encephalartos msinganus 5596 (fait 17/10/2026), munchii 12296 (fait 17/10/2026), gratus 12439 (fait 17/10/2026), umbeluziensis 12681 (fait 17/10/2026) |
 
 Hors liste : Macrozamia serpentina 26331 — fait 17/10/2026 (accord du propriétaire : deux phrases de rusticité hypothétique retirées).
+Hors liste : Zamia pseudoparasitica 14482 — fait (19/10/2026) (réécriture complète ; point repéré dans pilotes/fr-retouches.md).
 
 
 ## Après les lots Cycas
