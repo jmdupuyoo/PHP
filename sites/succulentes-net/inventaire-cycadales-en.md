@@ -43,3 +43,19 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 - Affichage : sur les pages EN, WordPress transforme les guillemets droits " en « » (texturisation selon la locale française du site). Contourné dans les nouvelles pages en écrivant “ ” directement ; à corriger globalement (extrait de code ou réglage Polylang) — vérifier aussi les pages IT/ES.
 - Fiche EN Encephalartos afer toujours à l'URL /en/cycads/encephalartos/caffer/ : renommer le slug en afer + redirection 301 lors de la reprise de la fiche.
 - Bowenia : 3 fiches EN pour 2 espèces acceptées ; /en/cycads/bowenia/tinaroo/ (17984) correspond à la forme horticole *Bowenia* sp. 'Tinaroo' (groupe de *B. spectabilis*, absente de WLoC) : non liée depuis le genre ; à fusionner dans *B. spectabilis* (301) ou à requalifier ; titre avec guillemets « » à corriger (relevé du lot G2, 19/10/2026).
+
+## Fiches espèces EN — phase 2 (lots de 5, depuis le 19/10/2026)
+
+| Lot | Espèce | ID EN | R/C | État | Mots | Jardins UK/US/AU cités | Brouillon et note |
+|---|---|---|---|---|---|---|---|
+| CYC01 | *Cycas armstrongii* | 16432 | R | réécrite le 19/10/2026 ; SEO 58/155 | ≈ 4 370 | US : Montgomery (1996), BGCI Berkeley + 3 Hawaï ; AU : RBG Sydney (2015), BGCI Mount Annan ; UK : aucun | pilotes/espece-cycas-armstrongii-en.html, -en-note.md |
+| CYC01 | *Cycas balansae* | 18635 | R | réécrite le 19/10/2026 ; SEO 54/145 | ≈ 4 100 | US : Montgomery (année illisible), BGCI Denver ; AU : RBG Sydney (massif 51k, 1999) ; UK : aucun (pépinière Trebrown) | pilotes/espece-cycas-balansae-en.html, -en-note.md |
+| CYC01 | *Cycas beddomei* | 16474 | R | réécrite le 19/10/2026 ; SEO 56/144 | ≈ 3 820 | US : Montgomery (2024), BGCI Huntington ; AU, UK : aucun | pilotes/espece-cycas-beddomei-en.html, -en-note.md |
+| CYC01 | *Cycas bifida* | 16481 | R | réécrite le 19/10/2026 ; SEO 58/147 | ≈ 3 560 | US : Montgomery (1994), Fairchild (2021), BGCI Huntington, Berkeley, Sonoma, Hilo ; AU : BGCI JCU ; UK : aucun | pilotes/espece-cycas-bifida-en.html, -en-note.md |
+| CYC01 | *Cycas calcicola* | 16487 | R | réécrite le 19/10/2026 ; SEO 56/146 | ≈ 4 080 | US : Montgomery (1997 ×5), BGCI Honolulu ; AU, UK : aucun | pilotes/espece-cycas-calcicola-en.html, -en-note.md |
+
+Relevé du lot CYC01 (à traiter plus tard) :
+- FR 14377 / IT 14390 (*beddomei*) et FR 14394 / IT 14404 (*bifida*) sont de l'ancienne génération, jamais nettoyées : les fiches EN ont été rédigées sur sources primaires ; erreurs FR/IT listées dans les notes EN → retouche FR/IT à prévoir.
+- Nom anglais « fire fern » attesté par PACSOA (Butt 1990) pour *armstrongii* et *calcicola* (et étiquette de RBG Sydney pour *armstrongii*) : la FR/IT disent qu'aucun nom n'est attesté (*calcicola*) ou l'avaient écarté faute de source (*armstrongii*) → à valider par le propriétaire et à reporter éventuellement en FR/IT.
+- Liens EN posés vers les fiches du lot dans d'anciennes fiches EN : *dolichophylla* 16497, *elephantipes* 18710, *ferruginea* 18686 (×2 : *balansae*, *bifida*), *multipinnata* 18655, *seemannii* 16512, *pectinata* 16415 (phrase fausse sur *calcicola* à corriger en CYC06).
+- Index de la page genre EN 16282 : les 5 entrées étaient déjà liées ; aucun remplacement.

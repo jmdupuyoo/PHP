@@ -2,7 +2,7 @@
 Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante à reprendre (id) ; « C » = fiche EN à créer (translation_of = id FR).
 
 ## Cycas — 37 à reprendre, 85 à créer
-- CYC01 : armstrongii R16432/FR21562, balansae R18635/FR21822, beddomei R16474/FR14377, bifida R16481/FR14394, calcicola R16487/FR21857
+- CYC01 : armstrongii R16432/FR21562 fait (19/10/2026, 16432), balansae R18635/FR21822 fait (19/10/2026, 18635), beddomei R16474/FR14377 fait (19/10/2026, 16474), bifida R16481/FR14394 fait (19/10/2026, 16481), calcicola R16487/FR21857 fait (19/10/2026, 16487)
 - CYC02 : chamaoensis R18723/FR21828, changjiangensis R18627/FR21885, circinalis R16365/FR13700, debaoensis R16403/FR5683, diannanensis R18578/FR6175
 - CYC03 : dolichophylla R16497/FR26146, elephantipes R18710/FR26150, elongata R18705/FR26154, ferruginea R18686/FR22030, guizhouensis R16451/FR1741
 - CYC04 : hainanensis R18613/FR21912, hongheensis R18581/FR21975, lindstromii R18737/FR26158, media R16423/FR14336, megacarpa R16520/FR14323
