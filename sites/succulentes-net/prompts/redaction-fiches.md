@@ -223,6 +223,9 @@ Le forum https://cycadelic.phpbb.net/ (forum anglophone sur les cycadales) est u
 ## Décisions taxonomiques du propriétaire
 - *Dioon angustifolium* (19/10/2026) : espèce à part entière (nom accepté par WLoC). Le rang de variété de *D. edule* n'est mentionné que comme historique de la classification.
 
+## Images : légendes (décision du propriétaire, 19/10/2026)
+Le texte alternatif reste le seul nom scientifique. La légende (figcaption) peut décrire l'image, en phrase courte, nom en italique : « Cône femelle de <em>Dioon edule</em>. » (exemple validé par le propriétaire).
+
 ## Version anglaise (décisions du propriétaire, 19/10/2026)
 - Public visé : Royaume-Uni, États-Unis, Australie. Rechercher, comme pour l'Italie, la présence des espèces dans les jardins botaniques de ces pays (inventaire : pilotes/cycadales-jardins-botaniques-en.md) et les retours de culture crédibles sur les forums et sites anglophones lisibles (PalmTalk reste bloqué par Cloudflare : ne pas contourner). Forums cités de façon anonyme : « A grower in (city, region, country) reports on the X forum that… ».
 - Le Jardin zoologique tropical et les expériences du sud-est de la France peuvent être cités (observations validées), présentés comme une expérience méditerranéenne utile aux lecteurs de climats comparables (Californie, sud de l'Australie, sud de l'Angleterre pour les espèces les plus rustiques), sans correspondance chiffrée inventée.
