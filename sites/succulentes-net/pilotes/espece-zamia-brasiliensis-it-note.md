@@ -24,3 +24,11 @@
 ## Points douteux
 - Aucun.
 - POWO, UICN et BHL non consultés (Cloudflare) ; statuts UICN repris de WLoC.
+
+## Correzione del 19/10/2026 (lot AZ1, 2/4, fiche ancienne)
+- **Corrections ciblées** (replace_in_content sur 28017 : simulation 13/13 puis application 13/13), alignées sur la FR 22303 réécrite le même jour (voir `espece-zamia-brasiliensis-fr-note.md`).
+- Corrigé : « l'unica cicadea endemica del Brasile » (intro, FAQ) → « secondo i suoi autori (2019), l'unica *Zamia* endemica del Brasile », affirmation datée ; « a est dell'areale di *Z. boliviana* » (non dit par le protologue) → aires voisines sans recouvrement ; auteurs : article Segalla & Calonje / nom Calonje & Segalla, date 16/05/2019, aucun homonyme (IPNI).
+- Ajouté : incohérences internes du protologue (1-6/1-4 feuilles, 9-10/8-14 rangées, 0,8-2/1,1-2 cm chez *boliviana*) ; classement Cycadales.eu (groupe des Zamia de basse altitude, « difficile ») à la place du renvoi à la page genre ; phrase toxicité harmonisée (glicosidi tossici (cicasina, macrozamina), da cui deriva il metilazossimetanolo) avec The Gymnosperm Database ; IPNI, GBIF, Cycadales.eu, Gymnosperm Database en « Fonti » ; Tropicos retiré (non consulté) ; lien Phytotaxa remplacé par le DOI (site hors délai le 19/10) ; dates de consultation.
+- SEO : titre devenu inexact (« l'unica cicadea endemica ») → « Zamia brasiliensis: cicadea brasiliana dal picciolo liscio » (58) ; meta 155.
+- JZT : aucune observation. Tropicamente / Fous de palmiers : rien (19/10/2026). Jardins italiens : aucune présence documentée.
+- Contrôles : URL 200 (UA Chrome et curl), hreflang fr/it/en, blocs 102/102, aucun commentaire visible, liens IT en 200 ; brouillon aligné. Index 11879 conforme (NE). Rien commité.

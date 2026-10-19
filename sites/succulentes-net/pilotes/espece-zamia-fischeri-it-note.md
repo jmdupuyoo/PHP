@@ -23,3 +23,11 @@
 - Brouillon `pilotes/espece-zamia-fischeri-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé, hors sommaire Easy TOC ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés ; aucun lien vers une page FR.
 - Vérifié avant création : aucune page IT ni redirection pour l'espèce.
 - Rien commité.
+
+## Correzione del 19/10/2026 (lot AZ1, 3/4, fiche ancienne)
+- **Corrections ciblées** (replace_in_content sur 28049 : simulation 11/11 puis application 11/11), alignées sur la FR 21704 réécrite le même jour (voir `espece-zamia-fischeri-fr-note.md`).
+- Retiré : paragraphe de mesures « schede descrittive correnti » (The Cycad Pages, disparue, et Wikipédia ; non vérifiables) ; habitat et climat « IUCN da fonti secondarie » (intro de « In natura » et encadré) ; radici coralloidi (généralité) ; Wikipédia en « Fonti » ; « Species+ non ha una scheda propria » (faux : taxon 28285).
+- Ajouté : 140-900 m, régions GM/SME et NOM-059-SEMARNAT-2010 « P » (Nicolalde-Morejón et al. 2014, texte lu ; encadré, In natura, Stato) ; variantes d'auteur (IPNI : Miq. ex Lem. / Miq.), *Z. tenuifolia* et *Z. forsteri* (IPNI) avec rattachement non vérifié ; prudence sur l'identité de la plante séquencée (Lei 2018) ; Gymnosperm Database pour la phrase toxicité harmonisée ; IPNI, Species+ 28285, Gymnosperm Database en « Fonti » ; Nicolalde-Morejón 2014 en bibliographie ; dates de consultation.
+- Inchangé (vérifié) : Delpinoa, Naples (Index Seminum 2012-13, Sibilio 2019), Tropicamente 2009, FdP (confusion commerciale), CLNV, Cycadales.eu.
+- JZT : aucune observation. SEO inchangé (toujours exact). Index 11879 conforme (EN, 2022).
+- Contrôles : URL 200 (UA Chrome et curl), hreflang fr/it, blocs 117/117, aucun commentaire visible, liens IT en 200 ; brouillon aligné. Rien commité.

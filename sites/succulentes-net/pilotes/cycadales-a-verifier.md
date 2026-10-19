@@ -369,3 +369,11 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - Article JZT 306 (zootropical.com) : « environ 350 espèces » de Cycas (118 selon WLoC) ; date l'introduction à la fois de la fin des années 1990 et du début des années 2000.
 - EN 16350 (*panzhihuaensis*) : « allié à *C. pectinata* », « 6 m », 799 km² attribués à la mauvaise étude, identifiant UICN 42089 au lieu de 42078 (à corriger en phase EN).
 - *C. guizhouensis* : identité de la plante du JZT mise en doute en 2014 (message JMDUPUYOO, exclu des pages) — à confirmer par le propriétaire.
+
+## Signalé lors de AZ1 (19/10/2026), hors lot — à revoir
+- EN 20366 (*Z. furfuracea*) : affirmation JZT non validée + erreurs listées dans espece-zamia-furfuracea-fr-note.md (phase EN).
+- EN 20416 (*Z. brasiliensis*) : erreurs listées dans espece-zamia-brasiliensis-fr-note.md (phase EN).
+- Blog FR 14218 : tableau de seuils de rusticité non sourcé (déjà signalé en AC3).
+- Blog FR 15681 : affirmations à revoir.
+- « Clade Purpurea » (non vérifiable) encore présent sur d'autres fiches, ex. *Z. cremnophila* FR et IT.
+- *Z. grijalvensis* : statut NOM-059 (« No evaluada », Nicolalde 2014) éventuellement à ajouter.

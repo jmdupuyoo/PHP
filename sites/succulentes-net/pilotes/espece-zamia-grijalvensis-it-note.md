@@ -23,3 +23,11 @@
 - Brouillon `pilotes/espece-zamia-grijalvensis-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé, hors sommaire Easy TOC ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés ; aucun lien vers une page FR.
 - Vérifié avant création : aucune page IT ni redirection pour l'espèce.
 - Rien commité.
+
+## Correzione del 19/10/2026 (lot AZ1, 1/4, fiche ancienne)
+- **Corrections ciblées** (replace_in_content sur 28074 : simulation 13/13 puis application 13/13), alignées sur la FR 22333 réécrite le même jour (voir `espece-zamia-grijalvensis-fr-note.md`).
+- Retiré : « clado Purpurea » (Calonje 2019) dans « Possibili confusioni » et « Tassonomia », et la référence Calonje 2019 en bibliographie (appartenance non vérifiable) ; « Species+ non ha una scheda propria » (faux : taxon 65542).
+- Ajouté : contradiction du protologue sur la couleur des jeunes feuilles ; clé des *Zamia* du Chiapas (liens soconuscensis, herrerae, katzeriana, variegata, loddigesii) ; groupe *Z. splendens* / *Z. katzeriana* du protologue (liens splendens, cremnophila, standleyi, purpurea) et nombres chromosomiques du groupe ; Gaceta Unicach 2021 (espèce prioritaire au Chiapas) ; UNICACH comme second lieu de culture ; The Gymnosperm Database comme source de la phrase toxicité (formulation harmonisée conservée) ; Species+ 65542 et GBIF en « Fonti » ; Schutzman & Vovides 1998 et Cruz Campuzano & Pérez Farrera 2021 en bibliographie ; dates de consultation (19/10/2026).
+- Lien *loddigesii* déplacé à la première occurrence (Confusioni).
+- JZT : aucune observation (ni FR, ni IT, ni zootropical.com). Tropicamente et Fous de palmiers : 0 résultat (19/10/2026). Jardins italiens : aucune présence documentée (inchangé).
+- Contrôles : URL 200 (UA Chrome et curl), `<title>` SEO inchangé, hreflang fr/it, blocs 102/102, aucun commentaire visible, liens internes IT en 200, aucun lien vers une page FR ; brouillon `espece-zamia-grijalvensis-it.html` aligné (texte rendu identique hors sommaire). SEO inchangé (toujours exact). Index 11879 conforme (CR, 2022). Rien commité.
