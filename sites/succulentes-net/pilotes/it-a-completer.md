@@ -40,3 +40,8 @@ Source des points : pilotes/cycadales-a-verifier.md (sections « IT à compléte
 | Lot | Espèces (id IT) |
 |---|---|
 | AC2 | revoluta 11558 fait (19/10/2026), circinalis 13750 fait (19/10/2026), rumphii 11721 fait (19/10/2026), thouarsii 12901 fait (19/10/2026), seemannii 11708 fait (19/10/2026) |
+
+## Fiches anciennes (FR et IT de première génération, lot AC3, 19/10/2026)
+| Lot | Espèces (id IT) |
+|---|---|
+| AC3 | diannanensis 12758 fait (19/10/2026), guizhouensis 11650 fait (19/10/2026), taitungensis 11622 fait (19/10/2026), panzhihuaensis 11741 fait (19/10/2026) |

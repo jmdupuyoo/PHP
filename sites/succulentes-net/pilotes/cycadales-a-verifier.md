@@ -361,3 +361,11 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - Signalé lors de IC5 (18/10/2026) : index IT 11549, debaoensis « (CR, 2010) » à vérifier (réévaluation 2023 ?) — à traiter avec l'alignement final de l'index en IC8 ; FR dharmrajii 26651 : « climat tropical sans gel » (Rusticité) et « île tropicale humide » (Culture) non sourcés.
 - Signalé lors de IC7 (18/10/2026), FR à retoucher : ophiolitica 26715 FAQ — « qui tolèrent un peu mieux la fraîcheur » étend à toute la classe « moyenne » une remarque que Lavaud 2021 ne fait que sur ophiolitica ; lane-poolei 26681 — « seule espèce du Kimberley qu'il cite » (furfuracea) : Lavaud écrit « Territoire de l'Ouest », pas Kimberley.
 - Observation JZT transmise par le propriétaire le 19/10/2026 : Zamia pseudoparasitica cultivée en pot au Jardin zoologique tropical, maintenue à 10 °C minimum l'hiver ; culture plus délicate que d'autres cycadales ; plus sensible à la déshydratation. (À intégrer FR 14482 et IT 14493, transmis à l'agent en cours.)
+
+## Signalé lors de AC3 (19/10/2026), hors lot — à revoir
+- Blog EN 17566 : *C. taitungensis* dit « Critically Endangered » et infecté à 90 % (UICN : EN, 2022).
+- Blog IT 11907 : *C. diannanensis* classé parmi les plus rustiques, sans source.
+- Blog FR 14218 : tableau de seuils de froid non sourcé (*taitungensis* −5/−7 °C).
+- Article JZT 306 (zootropical.com) : « environ 350 espèces » de Cycas (118 selon WLoC) ; date l'introduction à la fois de la fin des années 1990 et du début des années 2000.
+- EN 16350 (*panzhihuaensis*) : « allié à *C. pectinata* », « 6 m », 799 km² attribués à la mauvaise étude, identifiant UICN 42089 au lieu de 42078 (à corriger en phase EN).
+- *C. guizhouensis* : identité de la plante du JZT mise en doute en 2014 (message JMDUPUYOO, exclu des pages) — à confirmer par le propriétaire.
