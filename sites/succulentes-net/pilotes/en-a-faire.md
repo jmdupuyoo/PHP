@@ -111,5 +111,5 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - Cycas chevalieri : la fiche EN 18748 est à la corbeille, liée à FR 21892 / IT 28528 → la RESTAURER (pas de création) puis la réécrire (décision du propriétaire, 17/10/2026).
 - Cycas miqueli (16505) et longipetiolula (18667) : fiches EN sans équivalent FR → vérifier leur statut WLoC (synonymes ?) et proposer redirection 301 vers la fiche du nom accepté.
 - Encephalartos caffer (16786) = fiche EN d'E. afer : changer le slug en afer + redirection 301 /en/cycads/encephalartos/caffer/ → /afer/, lier à FR afer.
-- Bowenia tinaroo (17984) : forme horticole, pas un nom WLoC → décision du propriétaire attendue (garder comme fiche de forme ou fusionner dans B. spectabilis avec redirection).
+- Bowenia tinaroo (17984) : forme horticole (Bowenia sp. 'Tinaroo', groupe de B. spectabilis), pas un nom WLoC. DÉCISION DU PROPRIÉTAIRE (19/10/2026) : garder une fiche de forme horticole, réécrite (EN 17984) avec l'expérience du Jardin zoologique tropical (cultivée en pot), et la créer aussi en FR et en IT (parent = pages genre Bowenia ; slug tinaroo ; titre « Bowenia 'Tinaroo' »). Lot dédié BOW-T après le lot en cours.
 - Erreurs EN déjà connues à corriger lors de la reprise : media 16423, skinneri 20387, roezlii 20467, ferruginea 18686, umbeluziensis 16978, pseudoparasitica 20068.
