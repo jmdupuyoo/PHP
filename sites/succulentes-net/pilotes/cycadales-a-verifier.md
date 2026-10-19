@@ -377,3 +377,8 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - Blog FR 15681 : affirmations à revoir.
 - « Clade Purpurea » (non vérifiable) encore présent sur d'autres fiches, ex. *Z. cremnophila* FR et IT.
 - *Z. grijalvensis* : statut NOM-059 (« No evaluada », Nicolalde 2014) éventuellement à ajouter.
+
+## Signalé lors de AD1 (19/10/2026), hors lot — à revoir
+- Page genre Dioon FR 3794 : « forêt de *Dioon* » attribuée à Chamberlain, introuvable dans *The Living Cycads* ; encadré « 10 à 15 m » pour *D. spinulosum* (sources : 10,7 m mesurés par Chamberlain, > 15 m, 16-18 m selon la révision 2020).
+- *D. edule* FR 5273 : bloc image ajouté en ligne à 19 h 39 (média 29695, cône femelle), alt descriptif au lieu du seul nom scientifique — ajout du propriétaire ? À confirmer avant de toucher.
+- EN : *mejiae* VU au lieu d'EN ; prétendu critère du pétiole mejiae/spinulosum ; rusticités non sourcées ; sarcotesta « crème » pour *merolae* (jaune). Détails dans les notes FR (phase EN).
