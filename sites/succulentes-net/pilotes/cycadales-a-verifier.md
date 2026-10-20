@@ -399,6 +399,6 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 
 ## Signalé lors de AM1 (20/10/2026)
 - Galerie JZT 6595/6594 (*M. communis*, cônes mâles juin 2022), FR 1471 / IT 13082 : alt ramenés à « Macrozamia communis » (règle propriétaire du 19/10, légendes inchangées) — FAIT 20/10.
-- Média 7403 (*M. miquelii*, image mise en avant FR/IT) : origine et identité de la plante à confirmer.
+- Média 7403 (*M. miquelii*) : plante du JZT, présumée *M. miquelii*, identification fondée sur les cônes (propriétaire, 20/10) — fiches et pages genre mises à jour.
 - Page genre Macrozamia FR 1453, section Toxicité : cas de brebis de 1931 (Healy) attribué à « M. spiralis » = probablement *M. communis* (déduction) : aligner sur la fiche communis.
 - EN 18025 (*communis*) : Johnson « directeur » en 1959, Chilades pandava « établi en Australie », « tubercule de 1,8 m », cônes « déclenchés par le feu », UICN Hill 2010 au lieu de 2022, aire Armidale-Mudgee ; autres erreurs EN dans les notes FR (phase EN).

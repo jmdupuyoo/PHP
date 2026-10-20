@@ -46,3 +46,4 @@ Source des points : pilotes/cycadales-a-verifier.md (sections « IT à compléte
 |---|---|
 | AC3 | diannanensis 12758 fait (19/10/2026), guizhouensis 11650 fait (19/10/2026), taitungensis 11622 fait (19/10/2026), panzhihuaensis 11741 fait (19/10/2026) |
 | AZ1 | Zamia grijalvensis 28074 fait (19/10/2026), brasiliensis 28017 fait (19/10/2026), fischeri 28049 fait (19/10/2026), furfuracea 14474 fait (19/10/2026) |
+| AE1 | Encephalartos altensteinii 11965 fait (20/10/2026) |

@@ -9,3 +9,6 @@
 - SEO Rank Math: titolo «Macrozamia miquelii: cicadea del Queensland e specie affini» (59), meta (138), parola chiave «macrozamia miquelii».
 - Indice pagina genere IT 12116: riga allineata (Port Curtis, «(LC, 2022)»), simulazione 1 sostituzione, poi applicazione; bozza genere allineata.
 - Tossicità armonizzata («glicosidi tossici (cicasina, macrozamina), da cui deriva il metilazossimetanolo»).
+
+## Précision du propriétaire (20/10/2026)
+La photo 7403 (image mise en avant) est une plante du Jardin zoologique tropical, présumée *M. miquelii* ; identification très difficile, fondée sur l observation des cônes. Fiche FR/IT et pages genre 1453/12116 mises à jour.

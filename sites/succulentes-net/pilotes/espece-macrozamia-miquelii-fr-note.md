@@ -46,3 +46,6 @@ POWO, Liste rouge UICN (Cloudflare) ; PlantNET (connexion refusée le 20/10/2026
 8. Cônes mâles « 12-35 cm, mature January to March » : Jones 2001 = 12-28 cm, pollen octobre-novembre.
 9. « Hill (2010) LC » cité comme statut actuel : évaluation 2022 (Bösenberg).
 10. Mueller 1862 « Fragmenta 3 : 39 » → 3 : 38 ; liens sans target="_blank" ; LLIFLE non vérifié.
+
+## Précision du propriétaire (20/10/2026)
+La photo 7403 (image mise en avant) est une plante du Jardin zoologique tropical, présumée *M. miquelii* ; identification très difficile, fondée sur l observation des cônes. Fiche FR/IT et pages genre 1453/12116 mises à jour.
