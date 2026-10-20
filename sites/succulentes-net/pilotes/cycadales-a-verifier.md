@@ -396,3 +396,9 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - Cactus de Pâques : *Rhipsalidopsis gaertneri* dans le nouvel article, *Hatiora* / *Schlumbergera gaertneri* ailleurs sur le site : harmoniser.
 - Palmier qui jaunit (29740…) recoupe « Quel engrais pour un palmier qui jaunit ? » (9377 ; IT 11920 ; ES 23105) : liens croisés présents, surveiller la cannibalisation.
 - Slug FR /quel-yucca-choisir-pour-lexterieur-2/ → /quel-yucca-choisir-pour-lexterieur/ (article 93), 301 créée, 3 liens internes mis à jour (234, 15690, 29760) — FAIT 20/10.
+
+## Signalé lors de AM1 (20/10/2026)
+- Galerie JZT 6595/6594 (*M. communis*, cônes mâles juin 2022), FR 1471 / IT 13082 : alt ramenés à « Macrozamia communis » (règle propriétaire du 19/10, légendes inchangées) — FAIT 20/10.
+- Média 7403 (*M. miquelii*, image mise en avant FR/IT) : origine et identité de la plante à confirmer.
+- Page genre Macrozamia FR 1453, section Toxicité : cas de brebis de 1931 (Healy) attribué à « M. spiralis » = probablement *M. communis* (déduction) : aligner sur la fiche communis.
+- EN 18025 (*communis*) : Johnson « directeur » en 1959, Chilades pandava « établi en Australie », « tubercule de 1,8 m », cônes « déclenchés par le feu », UICN Hill 2010 au lieu de 2022, aire Armidale-Mudgee ; autres erreurs EN dans les notes FR (phase EN).
