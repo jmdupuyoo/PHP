@@ -423,3 +423,45 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - Documents NDF de la SANBI (2023, maj 2025) téléchargés aussi pour *altensteinii*, *ferox*, *friderici-guilielmi* et *senticosus* (scratchpad ae1/dl) mais non exploités dans ces fiches : enrichissement possible (effectifs, menaces, saisies).
 - Articles du blog 14218 (« Cycas gelé ») et 14127 (« Cycas malade ») : tableaux de rusticité d'*Encephalartos* non sourcés ; article 5523 : affirmation trop générale sur *friderici-guilielmi*.
 - Pages EN 16587, 16572, 16606, 16548, 16678 : erreurs listées dans les notes FR respectives (non modifiées).
+
+## Signalé lors de AE2 (20/10/2026) — *Encephalartos lehmannii*, *longifolius*, *natalensis*, *princeps*, *senticosus*
+
+### *Encephalartos lehmannii* (FR 1362 / IT 11796) — FR FAIT 20/10/2026 — IT FAIT 20/10/2026
+- Messages du compte JMDUPUYOO exclus (Fous de palmiers) : #p194941 (23/06/2012), #p196038 (29/06/2012, « j'ai déjà planté un E. lehmannii », rocailles), #p206825 (25/08/2012, « les E. lehmannii semblent plus costauds », gardés en pot), #p284338/#p284509/#p284693 (26-27/08/2013, deux plantes importées à racines nues, en pot et en serre), #p187537 (20/05/2012). Aucun résultat de culture daté. Une observation validée (pleine terre depuis 2012 ? minimums ?) permettrait une phrase « au Jardin zoologique tropical ».
+- Image 4387 : légende IT et EN « coltivato a La Londe-les-Maures » (bloc IT modifié le 14/03/2026), légende FR « jardin du Var ». S'agit-il du JZT ? Conservées telles quelles.
+- Aucun document NDF de la SANBI pour *lehmannii*, *longifolius*, *natalensis*, *princeps* ni *senticosus* (liste officielle du 09/03/2026 : 18 *Encephalartos*). Le fichier `ae1/dl/ndf_senticosus.pdf` du lot AE1 est en réalité une page 404 HTML : la note AE1 (« téléchargés aussi pour … *senticosus* ») est à corriger.
+- Villa Thuret : ouï-dire (FdP 2012) d'un *lehmannii* ayant connu −10/−11 °C ; et ancienne FR « janvier 1985, glace 20 jours » : aucune source ; non repris.
+
+### *Encephalartos longifolius* (FR 1373 / IT 12060) — FR FAIT 20/10/2026 — IT FAIT 20/10/2026
+- Aucune observation JZT, aucun message JMDUPUYOO (recherche FdP « longifolius », 30 résultats).
+- L'ancienne FR liait *natalensis* vers la page IT (/it/piante/…/natalensis/) : supprimé par la réécriture. Vérifier ailleurs dans le site les liens FR → IT de ce type.
+- Fiche INRA Villa Thuret / Hanbury : folioles « 4 à 10 cm » (contredit Dyer), nom italien « sfera d'oro » (unique).
+- Villa Taranto : l'ancienne FR/IT citait une « liste UICN 1984 » (archive.org) ; non vérifiable, et la monographie régionale ne cite aucune cycadale : retiré.
+
+
+### *Encephalartos natalensis* (FR 1866 / IT 11940) — FR FAIT 20/10/2026 — IT FAIT 20/10/2026
+- Observation JZT conservée (ancienne FR, 3 passages) : −6 °C, feuilles endommagées, « janvier 2012 ». **Date à confirmer** : le froid du Var est de février 2012 (observation JZT *Zamia integrifolia* : février 2012).
+- Messages du compte JMDUPUYOO exclus (Fous de palmiers) : t=5225 #p187487 (19/05/2012, jeune plante « dont le caudex se trouve sous terre », −6 °C, feuilles « totalement grillées », deux feuilles nouvelles), #p187551 et #p187639 (20/05/2012) ; t=11025 #p164998 (plante « partie de pas grand chose il y a deux ans ») ; t=10130 #p144498. Si c'est la même plante que l'observation JZT, préciser dans la page « caudex enterré » (non écrit faute de validation).
+- Image à la une 17105 (`encephalartos-natalensis-la-londe.jpeg`) sur FR, IT et EN : non touchée ; pas de légende possible.
+- Index FR 14229 / IT 11663 : « KwaZulu-Natal » seul (conforme à WLoC) ; PlantZAfrica étend l'aire au nord-est du Cap-Oriental (Tabankulu). Laissé tel quel.
+- Palerme : *Index Seminum* 2024 de l'Orto (lu le 20/10/2026) liste *E. altensteinii*, *E. chimanimaniensis*, *E. gratus*, *E. natalensis* (n. 878-881) et *Macrozamia communis* ; à reporter dans `cycadales-jardins-botaniques-italie.md` (qui dit « aucun Index Seminum récent de Palerme trouvé »).
+- Messine : la page « Cicadee » renvoie un contenu vide le 20/10/2026 (lue le 11/10/2026).
+- Hors lot : les pages *altensteinii* (AE1) et *lebomboensis* (AE1) n'utilisent pas le message d'Agen (serge, 08/01/2011 : *altensteinii* défolié à −4 °C puis reparti ; *lebomboensis*, *munchii*, *natalensis* morts) ni l'échec de Concarneau (2008, *natalensis* et *lehmannii* pourris) ; à ajouter éventuellement. Page *lehmannii* : Concarneau ajouté par correction ciblée (voir ci-dessous).
+- Agaveville (403) et PalmTalk (Cloudflare) cités par l'ancienne FR : non consultés, retirés.
+- *lehmannii* FR 1362 / IT 11796 : correction du 20/10/2026, échec de Concarneau (2008) ajouté (message « lehmanii » manqué lors de la première recherche).
+
+### *Encephalartos princeps* (FR 2461 / IT 13152) — FR FAIT 20/10/2026 — IT FAIT 20/10/2026
+- Aucune observation JZT. Message JMDUPUYOO exclu : FdP t=4176 #p45015 (18/12/2008, identification d'un *Encephalartos* du jardin botanique de Heidelberg, « S'agirait-il d'E. princeps ? »).
+- L'ancienne FR/IT attribuait à *princeps* un retour Tropicamente « −3 °C sans brûlure » qui ne le concernait pas (Ravenne, 12/12/2008 : *friderici-guilielmi*, *trispinosus*, *lehmannii*) : corrigé.
+- Hybride *princeps* × *horridus* (Fairview Nursery) : site injoignable, retiré ; à revérifier si besoin.
+- PlantZAfrica (Sepheka 2011) : feuilles « 120-200 mm » (erreur probable pour 1,2-2 m) et « meets all five IUCN criteria » : non repris.
+- Species+ (tous les *Encephalartos* du lot AE2, et sans doute tout le genre pour l'Afrique du Sud) : avis défavorable de l'UE du 03/12/2010 (sources A et D), levé le 11/03/2011, puis avis favorable du 20/06/2011. Les pages AE2 ne citent que l'avis favorable ; à harmoniser éventuellement sur l'ensemble du genre.
+- Hors lot : *The Cycad Newsletter* 37(1) (2014, numéro consacré à *princeps* : Haynes, Sparkman, van Deventer) absent du site public de The Cycad Society ; WLoC date l'article de Haynes « 2004 » dans sa liste (sans doute 2014).
+
+### *Encephalartos senticosus* (FR 2480 / IT 13159) — FR FAIT 20/10/2026 — IT FAIT 20/10/2026
+- Aucune observation JZT (ancienne FR, ancienne IT, EN 16673, zootropical.com) ; aucun message JMDUPUYOO (recherche FdP « senticosus », 14 résultats).
+- **Photos à confirmer** : 17092, 17094, 17096 (FR), 17099 (EN), 17101 (IT), « encephalartos-senticosus-feuille », mises en ligne le 15/03/2026 entre 20:03 et 20:08, juste avant `encephalartos-natalensis-la-londe.jpeg`. Si elles viennent du Jardin zoologique tropical, ajouter une légende « cultivé au Jardin zoologique tropical de La Londe-les-Maures » et, si possible, des données (plantation, minimums). Alts médiathèque de 17096 et 17101 renseignés ; 17092, 17094 et 17099 encore vides (non utilisés sur FR/IT).
+- PlantZAfrica incohérent : fiche *senticosus* « quelques km » au nord de Siteki contre fiche *lebomboensis* « 50 km » ; cônes femelles « rough » (Histoire) contre écailles « smooth » (Description). Signalé dans les pages sans trancher.
+- Hybride *senticosus* × *latifrons* (Rare Palm Seeds, boucle de redirection 302) : non vérifiable, retiré.
+- Mozambique : suspensions UE (2008-2017) et CITES (2012-2018) passées, citées comme telles.
+- Hors lot : `ae1/dl/ndf_senticosus.pdf` est une page 404 (voir *lehmannii* ci-dessus) ; Agen (serge, 08/01/2011) : un « *lebomboensis* » mort à −4 °C pourrait être un *senticosus*.

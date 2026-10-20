@@ -26,7 +26,7 @@ Lots de 5 d'un même genre, un seul lot à la fois ; pour chaque espèce : FR d'
 | AD2 | Dioon holmgrenii 11248 fait (19/10/2026), sonorense 13251 fait (19/10/2026), angustifolium 7876 fait (19/10/2026) |
 | AM1 | Macrozamia moorei 1833 fait (20/10/2026), miquelii 1822 fait (20/10/2026), communis 1471 fait (20/10/2026) |
 | AE1 | Encephalartos altensteinii 2436 fait (20/10/2026), ferox 1847 fait (20/10/2026), friderici-guilielmi 1857 fait (20/10/2026), horridus 2470 fait (20/10/2026), lebomboensis 2451 fait (20/10/2026) |
-| AE2 | Encephalartos lehmannii 1362, longifolius 1373, natalensis 1866, princeps 2461, senticosus 2480 |
+| AE2 | Encephalartos lehmannii 1362 fait (20/10/2026), longifolius 1373 fait (20/10/2026), natalensis 1866 fait (20/10/2026), princeps 2461 fait (20/10/2026), senticosus 2480 fait (20/10/2026) |
 | AE3 | Encephalartos transvenosus 2502, trispinosus 2492, woodii 10803, villosus 12642, hildebrandtii 12423 |
 | AE4 | Encephalartos whitelockii 12023, paucidentatus 12001, middelburgensis 11822, inopinus 7258, sclavoi 5560 |
 | AE5 | Encephalartos ituriensis 12619, laurentianus 12515, kisambo 12464 |
