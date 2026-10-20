@@ -402,3 +402,24 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - Média 7403 (*M. miquelii*) : plante du JZT, présumée *M. miquelii*, identification fondée sur les cônes (propriétaire, 20/10) — fiches et pages genre mises à jour.
 - Page genre Macrozamia FR 1453, section Toxicité : cas de brebis de 1931 (Healy) attribué à « M. spiralis » = probablement *M. communis* (déduction) : aligner sur la fiche communis.
 - EN 18025 (*communis*) : Johnson « directeur » en 1959, Chilades pandava « établi en Australie », « tubercule de 1,8 m », cônes « déclenchés par le feu », UICN Hill 2010 au lieu de 2022, aire Armidale-Mudgee ; autres erreurs EN dans les notes FR (phase EN).
+
+## Signalé lors de AE1 (20/10/2026) — *Encephalartos altensteinii*, *ferox*, *friderici-guilielmi*, *horridus*, *lebomboensis*
+
+### Messages du compte JMDUPUYOO (Fous de palmiers), exclus des pages
+- #p390333 (11/12/2015) : quatre *E. friderici-guilielmi* plantés sur rocaille à La Londe vers 2013, un mort après un coup de chaud, caudex de 6-7 cm sous pouzzolane. Donnée JZT potentielle, à valider par le propriétaire avant toute reprise (seule source : ce message).
+- #p187537 (20/05/2012) : réception de « deux friderici ».
+- #p383897, #p386807 : messages sur l'article du Juniper Level Botanic Garden (le résultat brut est repris d'après le site du jardin, pas d'après ces messages).
+- Fil t=17603 (« Encephalartos altenstenii à la Villa Thuret ? ») : #p324904 (photos de la villa Thuret, *horridus* et *lehmannii*).
+- *E. horridus* : #p254295 (29/03/2013, « je vais aussi tester cette espèce cette année, mais sous abri en hiver »), #p147473 et #p147492 (08/10/2011, fournisseur), #p194962 (23/06/2012), #p44028 (JB de Heidelberg et de Lyon). Aucun résultat du test de 2013 n'a été trouvé.
+- *E. lebomboensis* : aucun message JMDUPUYOO.
+
+### Observation tierce du JZT conservée
+- FdP #p41861 (Ezekiel, 10/11/2008) : *E. horridus* « en pleine terre » au Jardin d'oiseaux tropicaux de La Londe (ancien nom du JZT). Reprise dans les fiches FR/IT *horridus* comme mention datée, sans donnée de froid. Le propriétaire peut préciser (plantation, date, état actuel).
+
+### Points ouverts
+- *E. ferox* : la consigne du lot citait une sous-espèce « *emarginatus* (2007/2012) » ; WLoC n'accepte que subsp. *emersus* P.Rousseau, Vorster & A.E.van Wyk (2015) et l'autonyme. « *emarginatus* » n'a été trouvé dans aucune source : non utilisé.
+- *E. friderici-guilielmi* FR 1857 : retour « Rome, 17/12/2010, −8 °C sous véranda » attribué par erreur (il concernait *E. ferox*, Tropicamente #5251) ; retiré le 20/10/2026 (replace_in_content, 2 remplacements), Ravenne précisé.
+- *E. lebomboensis* : l'index FR 14229 et IT 11663 suit WLoC (KwaZulu-Natal, Eswatini, Mozambique) et ne cite pas le Mpumalanga, pourtant cité par Vorster 1996, PlantZAfrica et la SANBI ; à décider.
+- Documents NDF de la SANBI (2023, maj 2025) téléchargés aussi pour *altensteinii*, *ferox*, *friderici-guilielmi* et *senticosus* (scratchpad ae1/dl) mais non exploités dans ces fiches : enrichissement possible (effectifs, menaces, saisies).
+- Articles du blog 14218 (« Cycas gelé ») et 14127 (« Cycas malade ») : tableaux de rusticité d'*Encephalartos* non sourcés ; article 5523 : affirmation trop générale sur *friderici-guilielmi*.
+- Pages EN 16587, 16572, 16606, 16548, 16678 : erreurs listées dans les notes FR respectives (non modifiées).
