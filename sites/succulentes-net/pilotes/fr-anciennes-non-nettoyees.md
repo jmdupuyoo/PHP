@@ -24,7 +24,7 @@ Lots de 5 d'un même genre, un seul lot à la fois ; pour chaque espèce : FR d'
 | AZ1 | Zamia grijalvensis 22333 fait (19/10/2026), brasiliensis 22303 fait (19/10/2026), fischeri 21704 fait (19/10/2026), furfuracea 14461 fait (19/10/2026) |
 | AD1 | Dioon edule 5273 fait (19/10/2026), spinulosum 5286 fait (19/10/2026), mejiae 11158 fait (19/10/2026), merolae 11130 fait (19/10/2026), califanoi 11161 fait (19/10/2026) |
 | AD2 | Dioon holmgrenii 11248 fait (19/10/2026), sonorense 13251 fait (19/10/2026), angustifolium 7876 fait (19/10/2026) |
-| AM1 | Macrozamia moorei 1833, miquelii 1822, communis 1471 |
+| AM1 | Macrozamia moorei 1833 fait (20/10/2026), miquelii 1822 fait (20/10/2026), communis 1471 |
 | AE1 | Encephalartos altensteinii 2436, ferox 1847, friderici-guilielmi 1857, horridus 2470, lebomboensis 2451 |
 | AE2 | Encephalartos lehmannii 1362, longifolius 1373, natalensis 1866, princeps 2461, senticosus 2480 |
 | AE3 | Encephalartos transvenosus 2502, trispinosus 2492, woodii 10803, villosus 12642, hildebrandtii 12423 |

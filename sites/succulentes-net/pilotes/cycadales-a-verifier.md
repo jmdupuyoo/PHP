@@ -395,4 +395,4 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - Hivernage (29752 et traductions) : classements RHS par espèce (Euphorbia milii H1b, Aloe vera H1c, Agave americana H2…) non vérifiés un par un.
 - Cactus de Pâques : *Rhipsalidopsis gaertneri* dans le nouvel article, *Hatiora* / *Schlumbergera gaertneri* ailleurs sur le site : harmoniser.
 - Palmier qui jaunit (29740…) recoupe « Quel engrais pour un palmier qui jaunit ? » (9377 ; IT 11920 ; ES 23105) : liens croisés présents, surveiller la cannibalisation.
-- Slug FR /quel-yucca-choisir-pour-lexterieur-2/ : à corriger (avec 301).
+- Slug FR /quel-yucca-choisir-pour-lexterieur-2/ → /quel-yucca-choisir-pour-lexterieur/ (article 93), 301 créée, 3 liens internes mis à jour (234, 15690, 29760) — FAIT 20/10.
