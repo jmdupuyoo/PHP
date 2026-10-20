@@ -388,3 +388,11 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - Médias 24468 et 24470 : alt médiathèque passé à « Dioon edule » — FAIT 19/10 (les blocs déjà insérés avaient déjà alt « Dioon edule »).
 - EN 17837 (holmgrenii), 17917 (sonorense), 17796 (angustifolium : « northernmost », USDA 8a, UICN NT au lieu de VU 2022, tronc 1,5 m…) : erreurs dans les notes FR (phase EN).
 - EN *D. vovidesii* : aligner sur la limite nord vers le 28e parallèle (Gutiérrez-Ortega 2021).
+
+## Articles de blog publiés le 20/10/2026 (créés le 19/10 au soir hors de cette session) — points à suivre
+- FR 29751 (Cactus de Noël) : alt de l'image 5044 ramené à « Schlumbergera truncata » — FAIT 20/10.
+- Yucca rostrata : EN 29777 donne −18 °C (0 °F) comme minimum observé en climat continental, FR/IT/ES −20 °C : vérifier la source et aligner. Classements RHS de Yucca glauca (H5) et Y. linearifolia (H4) non vérifiés.
+- Hivernage (29752 et traductions) : classements RHS par espèce (Euphorbia milii H1b, Aloe vera H1c, Agave americana H2…) non vérifiés un par un.
+- Cactus de Pâques : *Rhipsalidopsis gaertneri* dans le nouvel article, *Hatiora* / *Schlumbergera gaertneri* ailleurs sur le site : harmoniser.
+- Palmier qui jaunit (29740…) recoupe « Quel engrais pour un palmier qui jaunit ? » (9377 ; IT 11920 ; ES 23105) : liens croisés présents, surveiller la cannibalisation.
+- Slug FR /quel-yucca-choisir-pour-lexterieur-2/ : à corriger (avec 301).
