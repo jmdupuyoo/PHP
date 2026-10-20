@@ -48,3 +48,4 @@ Source des points : pilotes/cycadales-a-verifier.md (sections « IT à compléte
 | AZ1 | Zamia grijalvensis 28074 fait (19/10/2026), brasiliensis 28017 fait (19/10/2026), fischeri 28049 fait (19/10/2026), furfuracea 14474 fait (19/10/2026) |
 | AE1 | Encephalartos altensteinii 11965 fait (20/10/2026), ferox 11972 fait (20/10/2026), friderici-guilielmi 12042 fait (20/10/2026), horridus 11809 fait (20/10/2026), lebomboensis 12597 fait (20/10/2026) |
 | AE2 | Encephalartos lehmannii 11796 fait (20/10/2026), longifolius 12060 fait (20/10/2026), natalensis 11940 fait (20/10/2026), princeps 13152 fait (20/10/2026), senticosus 13159 fait (20/10/2026) |
+| AE3 | Encephalartos transvenosus 11991 fait (20/10/2026), trispinosus 12049 fait (20/10/2026), woodii 27964 fait (20/10/2026), villosus 27962 fait (20/10/2026), hildebrandtii 27958 fait (20/10/2026) |

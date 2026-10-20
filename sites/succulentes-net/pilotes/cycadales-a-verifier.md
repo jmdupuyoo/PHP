@@ -465,3 +465,34 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - Hybride *senticosus* × *latifrons* (Rare Palm Seeds, boucle de redirection 302) : non vérifiable, retiré.
 - Mozambique : suspensions UE (2008-2017) et CITES (2012-2018) passées, citées comme telles.
 - Hors lot : `ae1/dl/ndf_senticosus.pdf` est une page 404 (voir *lehmannii* ci-dessus) ; Agen (serge, 08/01/2011) : un « *lebomboensis* » mort à −4 °C pourrait être un *senticosus*.
+
+## Signalé lors de AE3 (20/10/2026) — *Encephalartos transvenosus*, *trispinosus*, *woodii*, *villosus*, *hildebrandtii*
+
+### *Encephalartos transvenosus* (FR 2502 / IT 11991) — FR FAIT 20/10/2026 — IT FAIT 20/10/2026
+- Message du compte JMDUPUYOO exclu (Fous de palmiers) : #p319911 (24/02/2014, La Londe) : *E. transvenosus* reçu d'une pépinière française pour le zoo, démarches CITES auprès de la DREAL PACA. À confirmer par le propriétaire : plante toujours au JZT ? pleine terre ? minimums subis ? Une observation validée serait la seule donnée méditerranéenne de la fiche.
+- Ancienne FR : lien du genre vers la page IT (corrigé). Page EN 16666 : statut VU faux (NT), protologue faux, lien UICN faux (voir note FR).
+- PlantZAfrica situe Letaba dans le Mpumalanga (erreur probable de la fiche).
+
+### *Encephalartos trispinosus* (FR 2492 / IT 12049) — FR FAIT 20/10/2026 — IT FAIT 20/10/2026
+- Messages du compte JMDUPUYOO exclus (Fous de palmiers) : #p254295 (29/03/2013, « je vais aussi tester cette espèce [E. horridus] cette année, sous abri en hiver ») ; #p325054 (2014, plante de la villa Thuret étiquetée *altensteinii*, hybride *altensteinii* × *trispinosus* évoqué sur Cycadfriends).
+- Ancien bloc image `wp-image-7418` : identifiant de média inexistant (le fichier est le média 7336). D'autres pages anciennes peuvent avoir le même défaut (images de 2022/07 réinsérées) : à contrôler.
+- Orthographe du basionyme : WLoC *E. horridus* var. *trispinosus* ; Hooker et le protologue de Dyer (J. S. Afr. Bot.) *trispinosa*.
+
+### *Encephalartos woodii* (FR 10803 / IT 27964) — FR FAIT 20/10/2026 — IT FAIT 20/10/2026
+- Aucun JZT, aucun message JMDUPUYOO.
+- GBIF affiche la catégorie NE (correspondance « Sander ex J.M.Wood ») alors que WLoC, Crossref et Species+ donnent EW.
+- WLoC cite le néotype dans « Gard. Chron. 44 » : le supplément du 2 mai 1908 appartient au vol. 43 (index du volume).
+- Billet de blog 12265 (origine de l'espèce), lié depuis « À lire aussi » : non vérifié, non sourcé, à relire.
+- Page EN 16632 : rejets envoyés à Kew en 1899 non sourcés, nom zoulou « uMqobampunzi » introuvable, « espèce distincte confirmée par les données moléculaires » contraire à Viljoen & van Staden 2006, cônes « salmon-pink » et habitat chiffré non sourcés.
+- Palerme : page Cycadetum de l'Université (espèce pure) contradictoire avec la presse 2025 et « Celibi » 2026 (hybride *woodii* × *natalensis*).
+
+### *Encephalartos villosus* (FR 12642 / IT 27962) — FR FAIT 20/10/2026 — IT FAIT 20/10/2026
+- Message du compte JMDUPUYOO exclu (Fous de palmiers) : #p319216 (21/02/2014, La Londe) : *E. villosus* cultivé en tourbe, question de rempotage. À confirmer par le propriétaire : plante au JZT ? pot ou pleine terre ? minimales ? (serait le seul retour varois).
+- Page EN 16646 : « widest distribution of any Encephalartos », noms zoulou et afrikaans non trouvés, cônes mâles 25-50 cm (Dyer : jusqu'à 65), « USDA 9b, −7 °C » non sourcés, Mozambique et 800 km non sourcés.
+- Mozambique : présence citée par Species+, pas par WLoC (Goode 1989 la limite à la frontière).
+
+### *Encephalartos hildebrandtii* (FR 12423 / IT 27958) — FR FAIT 20/10/2026 — IT FAIT 20/10/2026
+- Aucun JZT, aucun message JMDUPUYOO.
+- Flora of Tropical East Africa (Zamiaceae) introuvable en accès libre ; remplacée par Prain 1917 (Flora of Tropical Africa, Internet Archive) et Melville 1957.
+- Page EN 16653 : protologue mal cité (Sitzungsberichte 1874 : 53 au lieu de Index Seminum 1874 : 18), statut NT périmé (LC 2010), nom swahili « mkwanga » non trouvé, kisambo placé en Tanzanie, Somalie et climat chiffré non sourcés, « USDA 10b » non sourcé.
+- Species+ : les décisions « genre » de 2010-2011 et la consultation du 16/09/2026 n'apparaissent pas sur la fiche de l'espèce (avis propre de 2011/2013) ; à vérifier si la consultation la concerne.

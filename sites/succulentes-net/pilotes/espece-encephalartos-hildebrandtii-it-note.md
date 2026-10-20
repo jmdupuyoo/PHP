@@ -22,3 +22,27 @@
 - `pilotes/espece-encephalartos-hildebrandtii-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, seul écart l'insertion « Toggle » du sommaire Easy TOC ; liste des liens identique) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés ; liens internes IT tous en 200.
 - Images : aucune (la FR n'en a pas). Constructeur : scratchpad enc9/b/b_hildebrandtii.py.
 - Rien commité.
+
+## Correzione del 20/10/2026 (scheda vecchia, lotto AE3, 5/5)
+
+- Pagina: https://succulentes.net/it/piante/cycadales/encephalartos/hildebrandtii/ (id 27958), riscritta e allineata sulla FR 12423 dello stesso giorno (update_content, solo contenuto); slug `hildebrandtii`, genitore 11663, traduzioni FR 12423 / EN 16653 conservate (hreflang fr/it/en verificati). Bozza `pilotes/espece-encephalartos-hildebrandtii-it.html` identica al contenuto online (cmp.py: 0 differenze); stato 200, nessun commento di blocco visibile; 16 link interni in 200.
+- Immagini: nessuna.
+- SEO conservato: «Encephalartos hildebrandtii, cicadea della costa del Kenya» (58), meta (151).
+- Indice 11663: riga «Kenya (Costa), Tanzania (Tanga, Lushoto, isola di Zanzibar); dedicato all'esploratore Johann Maria Hildebrandt; minor preoccupazione (LC, 2010)» verificata (simulazione: 1 corrispondenza), conforme, non modificata.
+
+### Aggiunto (dalla FR del 20/10/2026)
+- Fonte est-africana: Prain 1917, *Flora of Tropical Africa* 6(2): 351-352 (Internet Archive): misure, raccolte (Mombasa, Rabai, Tanga, Bagamoyo, Dar es Salaam, Usambara, Zanzibar su coralli recenti), raccolta di Engler a 2.700 piedi, nome «mtsapu» (Rabai), «palma da sago dell'Africa orientale» (Engler), semi mangiati in carestia vicino a Mombasa (Hildebrandt), farina del tronco (Engler), affinità con *laurentianus*, *gratus* e *villosus*. La Flora of Tropical East Africa non è accessibile liberamente.
+- Valutazione IUCN datata 31/10/2009 (Crossref; autori: progetto CEPF Eastern Arc & Coastal Forests e Bösenberg); parere UE sul genere 03/12/2010, revocato 11/03/2011.
+- Germogli aranciati (Fous de palmiers, Var 2009, 2012); esperienze francesi in vaso (Var 2009-2012, serra riscaldata; Néoules 2019, in casa, cocciniglie); Polonia 2010-2015; serre di Poznań 2009; Dublino 2010; semina (2010: aprile → ottobre; 2011: 2 germinazioni su 30).
+- Tossicità armonizzata (sostituito il passaggio «horridus 1944»); sottosezione «In Francia» sotto Coltivazione (titolo diverso da «Esperienze in Francia, utili per l'Italia» sotto Rusticità, per evitare due ancore uguali).
+
+### Conservato (dati italiani)
+Napoli (due esemplari 1993-94), Messina (2009), Catania (BGCI), Salento/Nardò (12/2008: perdita delle foglie dopo gelata con buona ripresa; 12/2009: −1 °C senza danni), Ravenna (07/2009), semi raccolti a Zanzibar (03/2011), germinazione in 12-18 mesi (Salento, 2011).
+
+### Osservazioni JZT e messaggi JMDUPUYOO
+- Nessuna menzione del JZT nelle vecchie FR/IT/EN; nessuna pagina su zootropical.com; nessun messaggio del conto JMDUPUYOO su questa specie.
+
+### Punti dubbi
+- Altitudine: 0-450 m (Melville) ma una raccolta a circa 820 m (Engler, citato da Prain).
+- Mozambico: Species+ sì, WLoC no, Flora of Mozambique dubbia.
+- Salento 2009: vaso o piena terra non precisato.
