@@ -63,6 +63,11 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 | CYC03 | *Cycas elongata* | 18705 | R | réécrite le 21/10/2026 ; SEO 55/145 ; statut EN 2023 (Bösenberg & Nguyen 2023-1) | ≈ 2 850 | AU : RBG Sydney (S2006-0905, 5 plantes sauvages) ; US, UK : aucun | pilotes/espece-cycas-elongata-en.html, -en-note.md |
 | CYC03 | *Cycas ferruginea* | 18686 | R | réécrite le 21/10/2026 (page erronée) ; SEO 59/145 | ≈ 3 520 | US : Montgomery (1998), BGCI Missouri, Naples, NYBG, Univ. Minnesota, Atlanta ; AU : BGCI Cairns ; UK : aucun (pépinière Trebrown) | pilotes/espece-cycas-ferruginea-en.html, -en-note.md |
 | CYC03 | *Cycas guizhouensis* | 16451 | R | réécrite le 21/10/2026 ; SEO 53/145 ; images 7950, 8145 (+ mise en avant 8198) ; observations JZT | ≈ 4 300 | US : Montgomery (1994-1999, 7), BGCI ≈ 13 (Fairchild, Naples, Huntington, Lotusland, SDBG, SDZ…) ; AU : RBG Sydney (1990-1999, 15 plantes sauvages), BGCI Brisbane ; UK : aucun | pilotes/espece-cycas-guizhouensis-en.html, -en-note.md |
+| CYC04 | *Cycas hainanensis* | 18613 | R | réécrite le 21/10/2026 (ancienne page de renvoi) ; SEO 55/131 ; nom d'usage, nom accepté WLoC *taiwaniana* | ≈ 4 310 | US : Montgomery (1993, 1995, 2000), BGCI Brooklyn, Huntington, Fairchild, NTBG, SDBG ; AU : RBG Sydney (sous *taiwaniana* : 1 plante sauvage 1993 + 4 de 2021), BGCI Cairns ; UK : aucun sous ce nom | pilotes/espece-cycas-hainanensis-en.html, -en-note.md |
+| CYC04 | *Cycas hongheensis* | 18581 | R | réécrite le 21/10/2026 ; SEO 55/138 | ≈ 3 990 | US : Montgomery (1994 ×4, 2026) ; AU, UK : aucun | pilotes/espece-cycas-hongheensis-en.html, -en-note.md |
+| CYC04 | *Cycas lindstromii* | 18737 | R | réécrite le 21/10/2026 ; SEO 56/143 | ≈ 3 120 | US : Missouri BG (Climatron, 2022 ; Deloso et al. 2025), Montgomery (2016 ×2), BGCI Univ. Minnesota ; AU, UK : aucun | pilotes/espece-cycas-lindstromii-en.html, -en-note.md |
+| CYC04 | *Cycas media* | 16423 | R | réécrite le 21/10/2026 (page erronée) ; SEO 58/135 ; lien Lavaud en Further reading | ≈ 5 100 | AU : RBG Sydney (S2022-0156 ×17 ; subsp. *media* 1990/1994 ; *ensata* 1994), Cranbourne (3, 2012), ANBG (2004), BGCI ≈ 12 ; US : Montgomery (dont *banksii* 2024, *ensata*), BGCI ≈ 18 ; UK : BGCI Kew, Oxford, Hull | pilotes/espece-cycas-media-en.html, -en-note.md |
+| CYC04 | *Cycas megacarpa* | 16520 | R | réécrite le 21/10/2026 ; SEO 53/137 ; lien Lavaud en Further reading ; index EN (aire) 1/1 | ≈ 4 030 | AU : RBG Sydney (1990, 1991, 2021 ×5, sauvages), Mount Annan, BGCI Adelaide, JCU ; US : BGCI SDBG, UC Berkeley, Moore Farms ; UK : BGCI Wisley | pilotes/espece-cycas-megacarpa-en.html, -en-note.md |
 
 Relevé du lot CYC01 (à traiter plus tard) :
 - FR 14377 / IT 14390 (*beddomei*) et FR 14394 / IT 14404 (*bifida*) sont de l'ancienne génération, jamais nettoyées : les fiches EN ont été rédigées sur sources primaires ; erreurs FR/IT listées dans les notes EN → retouche FR/IT à prévoir.
@@ -85,3 +90,13 @@ Relevé du lot CYC03 (21/10/2026) :
 - Liens EN posés dans d'anciennes fiches (première occurrence liable, 1 remplacement chacune) : *longipetiolula* 18667 (→ *dolichophylla*), *pectinata* 16415 (→ *elephantipes*, phrase fausse « from northern Vietnam » à corriger lors de sa reprise), *revoluta* 16343 et *taitungensis* 16354 (→ *guizhouensis*), *segmentifida* 18691 (→ *ferruginea*), *tanqingii* 18728 (→ *elongata* : « 30–60 leaves » non vérifié ; → *guizhouensis*).
 - Lien *guizhouensis* → *debaoensis* (posé en CYC02) disparu avec la réécriture (espèce non citée).
 
+
+
+Relevé du lot CYC04 (21/10/2026) :
+- Fiches FR sources toutes nettoyées : *hainanensis* 21912 et *hongheensis* 21975 (C4, 13/10), *lindstromii* 26158 (C9a, 17/10), *media* 14336 (C8, 17/10), *megacarpa* 14323 (AC1, 19/10) ; IT alignées (IC3, IC4, IC7, 17/10, 19/10). AC5 vérifié : *hainanensis* / *taiwaniana* FR/IT traitent déjà *changjiangensis* comme accepté (aucune modification).
+- Aucun retour de culture anglophone lisible (PalmTalk, Dave's Garden : Cloudflare) ; retours repris des FR/IT (Concarneau, Côte Bleue, Tropicamente), formulés anonymement. Aucune observation JZT pour ces 5 espèces.
+- Nouvelle source pour *lindstromii* : Deloso et al. 2025 (Missouri BG, « excellent for pot culture ») — à signaler en FR/IT (facultatif).
+- Index genre EN 16282 : *megacarpa* (aire) corrigé (simulation 1, application 1) ; *hainanensis* (entrée *taiwaniana*), *hongheensis*, *lindstromii*, *media* déjà conformes.
+- Liens EN posés vers les fiches du lot dans d'anciennes fiches EN (simulation puis application) : *taiwaniana* 18603 (→ *hainanensis*, *hongheensis*), *dolichophylla* 16497 (→ *hainanensis* ; brouillon aligné), *tanqingii* 18728 (→ *hongheensis*), *Macrozamia pauli-guilielmi* 18175 (→ *megacarpa*).
+- *pectinata* 16415 : « *elephantipes* from northern Vietnam » → « from Thailand » (1/1). Reste à corriger lors de sa reprise (CYC06) : *calcicola* « segregated from *pectinata* », « from Australia ».
+- Page genre EN : phrase de décompte des années d'évaluation toujours inexacte (non modifiée) ; Taxonomie : « the study behind it has not been checked » pour le transfert des plantes de Hainan (= Feng et al. 2021).

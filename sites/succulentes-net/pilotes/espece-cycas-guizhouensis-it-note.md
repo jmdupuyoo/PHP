@@ -22,3 +22,6 @@
 
 ## Complemento del 19/10/2026
 - Stesse aggiunte della FR (de Laubenfels & Adema 1998 → *szechuanensis* ; Juniper Level Botanic Garden 2014 : *guizhouensis* morta all'aperto, ibridi sopravvissuti), replace_in_content 4/4, bozza allineata.
+
+## Ritocco del 21/10/2026
+- Ibridi: messaggio FdP p=147210 riletto; non dice che l’autore avesse acquistato l’ibrido *guizhouensis* × *taitungensis* via Internet (la frase su Ebay riguarda gli ibridi di *revoluta*); frase riformulata (dubbio sull’interesse, ibridi nati per mancanza di polline) e rinvio al Juniper Level Botanic Garden al posto di «nessun dato affidabile sulla resistenza al freddo»; replace_in_content 1/1; bozza allineata.

@@ -313,7 +313,7 @@ Passe à faire quand les lots Cycas IT seront terminés (pas de lots en parallè
   - tanqingii IT 28970 : Hill 2008 (aire ≈ 100 km², réduction d'habitat < 20 %) ; Zheng 2025 / Xi et al. 2022 (bassin du Xiaoheijiang seul) ; Li 2025 (statut modélisé VU → EN avec ravageurs). — IT FAIT 18/10/2026
   - zeylanica IT 29032 : la Liste rouge évalue sainathii à part (VU 2022). — IT FAIT 18/10/2026
 
-- PRIORITAIRE (17/10/2026, nettoyage FR C8) — IT FAIT le 17/10/2026 (14337 réécrite d'après la FR, voir pilotes/espece-cycas-media-it-note.md) ; EN 16423 RESTE À FAIRE : Cycas media IT 14337 (et EN 16423) reprennent les erreurs de l'ancienne FR : aire (Nouvelle-Guinée, Territoire du Nord, Australie-Occidentale — faux, est du Queensland seulement), tronc 30-60 cm (Hill : 10-18 cm), −2/−3 °C et USDA 9b attribués à Lavaud (absents de son PDF), Investigator, Cheetup, Theclinesthes ; IT : « PACSOA frost tolerant » absent de la page PACSOA. Réécrire d'après la FR 14336 du 17/10 (Hill 1992/1996, Flora of Australia, WLoC 159-161, Bösenberg 2023-1, PDF Lavaud, retour Concarneau).
+- PRIORITAIRE (17/10/2026, nettoyage FR C8) — IT FAIT le 17/10/2026 (14337 réécrite d'après la FR, voir pilotes/espece-cycas-media-it-note.md) ; EN 16423 FAIT le 21/10/2026 (lot CYC04, réécriture complète, voir pilotes/espece-cycas-media-en-note.md) : Cycas media IT 14337 (et EN 16423) reprennent les erreurs de l'ancienne FR : aire (Nouvelle-Guinée, Territoire du Nord, Australie-Occidentale — faux, est du Queensland seulement), tronc 30-60 cm (Hill : 10-18 cm), −2/−3 °C et USDA 9b attribués à Lavaud (absents de son PDF), Investigator, Cheetup, Theclinesthes ; IT : « PACSOA frost tolerant » absent de la page PACSOA. Réécrire d'après la FR 14336 du 17/10 (Hill 1992/1996, Flora of Australia, WLoC 159-161, Bösenberg 2023-1, PDF Lavaud, retour Concarneau).
 - calcicola IT 28499 : PDF Lavaud 2021 consultable (cycadales.eu/wp-content/uploads/2021/04/Bases-de-la-culture-des-Cycas-australiens.pdf) ; mise en garde du forum = C. siamensis vendus sous les noms pruinosa et calcicola ; isotypes BRI, CANB, K, L, PERTH ; page genre IT 11549 encore « VU, 2022 » (Nagalingum & Clugston, évaluation 2021 publiée en 2023-1). — IT FAIT 18/10/2026
 
 - IT à compléter (17/10/2026, nettoyage FR C9a ; détails dans les -fr-note.md) :
@@ -562,8 +562,16 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 
 ## Signalé lors de AC4 / CYC03 (21/10/2026)
 - *C. debaoensis* : ~30 messages JMDUPUYOO (FdP 2008-2017 ; gros sujet en pleine terre 2012-2013, remis sous serre en avril 2014) exclus des pages — à faire valider par le propriétaire.
-- FR 26146 / IT 28585 *dolichophylla* : statut 2010 → NT (Bösenberg, 2023-1) ; index FR/IT aussi.
-- FR 26154 / IT *elongata* : statut 2010 → EN (2023-1) ; lectotype Hill, Nguyen & Loc 2004 (résumé sur WLoC) ; index FR/IT aussi.
-- FR *guizhouensis* 1741 : hybride avec *taitungensis* « obtenu par Internet » — le message FdP p=147210 n'exprime qu'un doute ; reformuler (et IT si présent).
+- FR 26146 / IT 28585 *dolichophylla* : statut 2010 → NT (Bösenberg, 2023-1) ; index FR/IT aussi. — FAIT 21/10/2026 (replace_in_content 6/6 FR et 6/6 IT : encadré, Statut, FAQ, WLoC, GBIF et Bösenberg 2023 ajoutés aux sources ; index FR 1256 et IT 11549 « (NT, 2023) »)
+- FR 26154 / IT *elongata* : statut 2010 → EN (2023-1) ; lectotype Hill, Nguyen & Loc 2004 (résumé sur WLoC) ; index FR/IT aussi. — FAIT 21/10/2026 (FR 26154 9/9, IT 28594 9/9 : intro, encadré, Taxonomie (lectotype), Statut, FAQ, sources WLoC/GBIF/page de référence WLoC, Bösenberg & Nguyen 2023 ; index FR 1256 et IT 11549 « (EN, 2023) »)
+- FR *guizhouensis* 1741 : hybride avec *taitungensis* « obtenu par Internet » — le message FdP p=147210 n'exprime qu'un doute ; reformuler (et IT si présent). — FAIT 21/10/2026 (FR 1741 et IT 11650, 1/1 chacune : message relu ; « Je les avais eu par Ebay » visait les hybrides de *revoluta* du fil ; reformulé en doute sur l'intérêt + explication des hybrides faute de pollen ; « aucune donnée fiable sur sa tenue au froid » remplacé par le renvoi au Juniper Level Botanic Garden déjà cité en Rusticité)
 - Page genre EN 16282 : décompte « 23 date from 2010, 40 from 2022, 45 from 2023 » faux (≈ 19 / 43 / 49 en ligne).
-- EN *pectinata* 16415 : *elephantipes* « au nord du Vietnam » → Thaïlande. EN *tanqingii* 18728 : *elongata* « 30–60 feuilles » non vérifié.
+- EN *pectinata* 16415 : *elephantipes* « au nord du Vietnam » → Thaïlande. — FAIT 21/10/2026 (lot CYC04) EN *tanqingii* 18728 : *elongata* « 30–60 feuilles » non vérifié.
+
+## Signalé lors de CYC04 (21/10/2026), hors lot
+- EN *pectinata* 16415 (à reprendre en CYC06) : « *Cycas calcicola* from Australia » présenté comme ségrégé de *Cycas pectinata* : non sourcé, probablement faux.
+- EN *taiwaniana* 18603 (CYC07) : présente toujours *changjiangensis* comme synonyme (WLoC : accepté), POWO cité comme autorité, liste de synonymes avec auteurs/années non vérifiés.
+- Page genre EN 16282 : Taxonomie, « the study behind it has not been checked » (transfert des *Cycas* de Hainan à *taiwaniana*) → Feng et al. 2021 (*Taxon* 70(3) : 477-491) ; phrase de décompte des années d'évaluation toujours inexacte.
+- FR/IT *lindstromii* 26158 / 28680 (facultatif) : Deloso et al. 2025 (*Plant Species Biology*, Missouri BG, Climatron, « excellent for pot culture ») pourrait compléter Culture.
+- FR/IT *guizhouensis* 1741 / 11650 (mineur) : formules d'hybrides « *Cycas revoluta* × *guizhouensis* » (épithète seule) en Rusticité.
+- FR *hainanensis* 21912 / *taiwaniana* 21905 et IT (facultatif) : la liste chinoise des plantes sauvages protégées de 2021 (Li et al. 2024), citée par la page EN *changjiangensis*, n'y est pas mentionnée.

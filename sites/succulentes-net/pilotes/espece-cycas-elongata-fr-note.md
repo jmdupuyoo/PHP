@@ -44,3 +44,8 @@
 2. Raisons de l'élévation au rang d'espèce (1996) et du rejet d'*Epicycas* : non trouvées.
 3. Encadré : exposition, substrat, dimensions, rusticité, noms communs non documentés.
 4. Aucune donnée nationale française.
+
+## Retouche du 21/10/2026 (signalée lors de CYC03)
+- Statut : réévaluation J.D. Bösenberg & T.H. Nguyen, Liste rouge 2023-1 (Crossref 10.2305/IUCN.UK.2023-1.RLTS.T42054A68900715.en, réalisée 2021 ; GBIF 7963976 : EN, consulté le 21/10) au lieu de Nguyen 2010 (intro, encadré, Statut, FAQ, ligne WLoC ; GBIF ajouté aux Sites, Bösenberg & Nguyen 2023 à la Bibliographie).
+- Point 3 ci-dessus résolu : le résumé de Hill, Nguyen & Loc 2004 reproduit par WLoC (https://cycadlist.org/reference/21dd730e-dbf4-4152-a9c4-db3070080e5e, relu le 21/10) indique que la révision désigne les lectotypes de *balansae*, *chevalieri* et *elongata* → Taxonomie et annotation de Hill et al. 2004 corrigées ; page de référence ajoutée aux Sites.
+- replace_in_content simulation 9 puis application 9 ; index FR 1256 « (EN, 2023) » (2/2 avec dolichophylla) ; brouillon aligné. Non fait : RBG Sydney (5 plantes sauvages, S2006-0905) non ajouté (hors demande).

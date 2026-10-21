@@ -52,3 +52,7 @@
 
 ## Complément du 19/10/2026 (pendant le travail sur *taitungensis*)
 - replace_in_content (FR 1741 et IT 11650, simulation 4/4 puis 4/4 chacune ; brouillons alignés) : de Laubenfels & Adema (1998) mettaient déjà *C. guizhouensis* en synonymie de *C. szechuanensis* (texte local Blumea) ; ajout du Juniper Level Botanic Garden (Raleigh, 7/08/2014) : *C. guizhouensis* (accession MBC 20050491) parmi les cycas morts en plein air, alors que les hybrides *revoluta* × *guizhouensis* et *taitungensis* × *guizhouensis* ont survécu à 4-9 °F (−16/−13 °C) ; références ajoutées (Sites, Bibliographie).
+
+## Retouche du 21/10/2026 (signalée lors de CYC03)
+- Hybrides : message FdP p=147210 (06/10/2011, fil « Cycas revoluta x micholitzii et C. revoluta x debaoensis ») relu en entier : « Je les avais eu par Ebay ou par le forum de Palmtalk » vise les hybrides de *revoluta* du fil, pas *guizhouensis* × *taitungensis* ; l’auteur doute seulement de l’intérêt de cet hybride (ornemental et rusticité) et explique que beaucoup d’hybrides naissent d’une femelle sans pollen de sa propre espèce. Phrase reformulée ; « Aucune donnée fiable n’a été trouvée sur sa tenue au froid » remplacé par le renvoi au Juniper Level Botanic Garden (hybride survivant, espèce pure morte), déjà cité en Rusticité. replace_in_content 1/1 (simulation puis application) ; brouillon aligné.
+- Relevé au passage, non corrigé : en Rusticité, formules d’hybrides « *Cycas revoluta* × *guizhouensis* » (épithète seule après ×).

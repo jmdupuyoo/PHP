@@ -34,3 +34,5 @@
 - 12/10/2026 : lien vers *Cycas lindstromii* (28680) posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.
 
 - 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas pachypoda* (28778), *Cycas pectinata* (28793) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).
+
+- 21/10/2026 (ritocco segnalato in CYC03): stato IUCN — rivalutazione Bösenberg & Nguyen, Lista rossa 2023-1 (GBIF: EN) al posto di Nguyen 2010; lectotipo designato da Hill, Nguyen & Loc 2004 (riassunto riprodotto da WLoC); fonti WLoC/GBIF/pagina di riferimento WLoC e bibliografia aggiornate; replace_in_content 9/9 su IT 28594; indice IT 11549 «(EN, 2023)»; bozza allineata.
