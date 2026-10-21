@@ -6,7 +6,7 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 |---|---|---|---|
 | Bowenia | 2 | 3 | 0 |
 | Ceratozamia | 45 | 0 | 0 |
-| Cycas | 122 | 54 (39 au 19/10 + 15 créées le 21/10, lots CYC09 à CYC11) | 19 |
+| Cycas | 122 | 59 (39 au 19/10 + 19 créées le 21/10, lots CYC09 à CYC12, + chevalieri 18748 restaurée le 21/10) | 19 |
 | Dioon | 19 | 19 | 0 |
 | Encephalartos | 65 | 60 | 0 |
 | Lepidozamia | 2 | 2 | 0 |
@@ -14,11 +14,11 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 | Microcycas | 1 | 1 | 0 |
 | Stangeria | 1 | 0 | 0 |
 | Zamia | 88 | 19 | 0 |
-| **Total** | **386** | **180** (165 au 19/10 + 15 créées le 21/10) | **19** |
+| **Total** | **386** | **185** (165 au 19/10 + 19 créées et 1 restaurée le 21/10) | **19** |
 
 - EN : 156 des 165 fiches n'ont pas été modifiées depuis septembre 2026 (ancienne génération, mêmes défauts que les anciennes FR : à reprendre au gabarit récent d'après les FR/IT vérifiées). Environ 221 fiches EN à créer. Page ordre EN 15147 et 10 pages genre EN (16282-16335), datées du 29/09/2026.
 - ES : page ordre 23482 et page genre Cycas 23432 seulement ; 19 fiches Cycas ; les 9 autres genres et environ 367 fiches à créer.
-- Corrections EN déjà connues : chevalieri 18748 (corbeille : restaurer et réécrire), media 16423, skinneri 20387, roezlii 20467, ferruginea 18686, umbeluziensis 16978, pseudoparasitica 20068 ; « XX » dans 8 références Zamia EN ; « for SEO reasons » dans 2 pages EN ; article Lavaud ES 23244 (non lié dans Polylang, affirmation fausse sur ophiolitica et cairnsiana).
+- Corrections EN déjà connues : chevalieri 18748 (corbeille : restaurer et réécrire ; FAIT le 21/10/2026, lot CYC12), media 16423, skinneri 20387, roezlii 20467, ferruginea 18686, umbeluziensis 16978, pseudoparasitica 20068 ; « XX » dans 8 références Zamia EN ; « for SEO reasons » dans 2 pages EN ; article Lavaud ES 23244 (non lié dans Polylang, affirmation fausse sur ophiolitica et cairnsiana).
 
 ## Silo EN : réécriture (lots G1 et G2, 19/10/2026)
 
@@ -28,7 +28,7 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 | Page | ID | État |
 |---|---|---|
 | Ordre *Cycadales* (/en/cycads/) | 15147 | réécrite le 19/10/2026 (brouillon pilotes/ordre-cycadales-en.html) |
-| Genre *Cycas* (/en/cycads/cycas/) | 16282 | réécrite le 19/10/2026 (brouillon pilotes/genre-cycas-en.html) ; index : 118 espèces, 36 fiches EN liées (+ miqueli, hainanensis sous ancien nom) ; +5 fiches liées le 21/10/2026 (CYC09 : aculeata, aenigma, andamanica dans la ligne pschannae, angulata, annaikalensis) ; +5 le 21/10/2026 (CYC10 : apoa, arenicola, arnhemica, badensis, basaltica) ; +5 le 21/10/2026 (CYC11 : bougainvilleana, brachycantha, brunnea, cairnsiana, campestris) ; phrase de décompte des évaluations par année supprimée le 21/10 (retouche 0c) |
+| Genre *Cycas* (/en/cycads/cycas/) | 16282 | réécrite le 19/10/2026 (brouillon pilotes/genre-cycas-en.html) ; index : 118 espèces, 36 fiches EN liées (+ miqueli, hainanensis sous ancien nom) ; +5 fiches liées le 21/10/2026 (CYC09 : aculeata, aenigma, andamanica dans la ligne pschannae, angulata, annaikalensis) ; +5 le 21/10/2026 (CYC10 : apoa, arenicola, arnhemica, badensis, basaltica) ; +5 le 21/10/2026 (CYC11 : bougainvilleana, brachycantha, brunnea, cairnsiana, campestris) ; +5 le 21/10/2026 (CYC12 : canalis, candida, cantafolia, chenii, chevalieri) ; phrase de décompte des évaluations par année supprimée le 21/10 (retouche 0c) |
 | Genre *Zamia* (/en/cycads/zamia/) | 16295 | réécrite le 19/10/2026 (brouillon pilotes/genre-zamia-en.html) ; index : 88 espèces, 19 fiches EN liées |
 | Genre *Ceratozamia* (/en/cycads/ceratozamia/) | 16307 | réécrite le 19/10/2026 (brouillon pilotes/genre-ceratozamia-en.html) ; index : 45 espèces, aucune fiche EN |
 | Genre *Encephalartos* (/en/cycads/encephalartos/) | 16289 | réécrite le 19/10/2026 (brouillon pilotes/genre-encephalartos-en.html) ; index : 65 espèces, 59 fiches EN liées + fiche « caffer » dans la ligne *afer* ; image mise en avant 5556 ajoutée |
@@ -100,6 +100,11 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 | CYC11 | *Cycas brunnea* | 30172 | C | créée le 21/10/2026 (translation_of FR 26624 ; fr/it/en) ; FR sur sources primaires ; GBIF NT ; étiquettes GBIF (6-8 m) ; PACSOA ; Dixon 2004 (non lu) ; Lavaud (règle 0d) ; SEO 54/147 | ≈ 3 250 | US : BGCI Naples ; UK, AU : aucun | pilotes/espece-cycas-brunnea-en.html, -en-note.md |
 | CYC11 | *Cycas cairnsiana* | 30181 | C | créée le 21/10/2026 (translation_of FR 26626 ; fr/it/en) ; FR sur sources primaires, IT (Ravenne) ; GBIF NT (2023-1) ; PDF Lavaud ; lettre Montgomery 2025 ; Arizona (Anderson 2012, via FdP) ; index « (NT, 2023) » ; SEO 50/145 | ≈ 4 280 | UK : BGCI Kew ; US : Montgomery (19 acc., 1994-2024) + 8 jardins BGCI ; AU : RBG Sydney (6 acc. sauvages, « Mt Surprise Sago »), Mount Annan (2), + 6 jardins BGCI | pilotes/espece-cycas-cairnsiana-en.html, -en-note.md |
 | CYC11 | *Cycas campestris* | 30201 | C | créée le 21/10/2026 (translation_of FR 26628 ; fr/it/en) ; FR/IT sur Wikipédia → EN sur étiquettes GBIF (type Jacobs & Conn 1990, Port Moresby 1918-1977 ; noms « Atolo », « Wakoro » ; usage noté en 1962) ; GBIF NT ; SEO 51/146 | ≈ 2 770 | US : Montgomery (2016) ; AU : BGCI Cairns ; UK : aucun | pilotes/espece-cycas-campestris-en.html, -en-note.md |
+| CYC12 | *Cycas canalis* | 30212 | C | créée le 21/10/2026 (translation_of FR 26630 ; fr/it/en) ; FR sur sources primaires (Hill 1994, 1996) ; Flora of Australia 2025 ; GBIF LC (Bösenberg 2022, Crossref) ; étiquettes GBIF (holotype NSW, graines 2002 pour Darwin) ; Lavaud (article général) ; SEO 53/149 | ≈ 3 600 | US : Montgomery (1 acc.) ; AU : étiquette 2002 (Darwin Botanic Gardens) seulement ; UK : aucun | pilotes/espece-cycas-canalis-en.html, -en-note.md |
+| CYC12 | *Cycas candida* | 30218 | C | créée le 21/10/2026 (translation_of FR 26632 ; fr/it/en) ; protologue Hill 2004 relu ; GBIF EN (Bösenberg 2022, Crossref) ; étiquettes GBIF 1981-2023 ; divergence de date du type exposée ; Lavaud (article général) ; SEO 53/150 | ≈ 3 150 | AU : BGCI JCU Townsville ; US : BGCI San Diego BG ; UK : aucun | pilotes/espece-cycas-candida-en.html, -en-note.md |
+| CYC12 | *Cycas cantafolia* | 30222 | C | créée le 21/10/2026 (translation_of FR 26634 ; fr/it/en) ; protologue Jutta et al. 2010 ; GBIF VU (Jutta & Lindström 2023-1, Crossref) ; spécimens Bukit Belading 2009 ; *litoralis* = syn. d'*edentata* ; SEO 51/154 | ≈ 2 880 | aucun | pilotes/espece-cycas-cantafolia-en.html, -en-note.md |
+| CYC12 | *Cycas chenii* | 30226 | C | créée le 21/10/2026 (translation_of FR 21968 ; fr/it/en/es, ES 24596 conservée) ; FR nettoyée le 13/10 (sources primaires) ; GBIF EN ; BGCI XTBG ; SEO 58/153 | ≈ 3 170 | aucun (hors : XTBG, Chine) | pilotes/espece-cycas-chenii-en.html, -en-note.md |
+| CYC12 | *Cycas chevalieri* | 18748 | R (cas particulier) | restaurée de la corbeille le 21/10/2026 (publish, slug chevalieri, parent 16282) puis réécrite ; redirection /en/cycads/cycas/chevalieri/ → /en/cycads/cycas/ supprimée, URL en 200 ; fr/it/en ; protologue Leandri 1931 (scan), de Laubenfels & Adema 1998, FoC, WLoC ; GBIF VU (Bösenberg & Nguyễn 2023-1, Crossref) ; étiquettes GBIF 1998-2007 (habitats, 225 à ≈ 1 000 m) ; SEO 55/142 | ≈ 3 270 | aucun (hors : Fairy Lake, Chine ; Marimurtra, Espagne) | pilotes/espece-cycas-chevalieri-en.html, -en-note.md |
 
 Relevé du lot CYC01 (à traiter plus tard) :
 - FR 14377 / IT 14390 (*beddomei*) et FR 14394 / IT 14404 (*bifida*) sont de l'ancienne génération, jamais nettoyées : les fiches EN ont été rédigées sur sources primaires ; erreurs FR/IT listées dans les notes EN → retouche FR/IT à prévoir.
@@ -175,3 +180,12 @@ Relevé du lot CYC11 (21/10/2026) :
 - Lavaud : article EN 16530 en Further reading pour *brunnea* (présenté comme article général, espèce non citée) et *cairnsiana* (citée comme candidate) ; PDF 2021 cité pour *brunnea* (conseils généraux) et *cairnsiana* (« difficile », climat de Mount Surprise, coléoptères).
 - Retours anglophones : seulement l'Arizona (*cairnsiana*, Anderson 2012, connu par un résumé FdP) ; aucune observation JZT pour les 5 espèces. WLoC injoignable le 21/10 (connexion réinitialisée, 503 via WebFetch) ; cycad.org 503 ; Wayback 429/connexion coupée ; BHL (Dixon 2004) et CSIRO (Hill 1994) non contournés.
 
+Relevé du lot CYC12 (21/10/2026) :
+- Retouches préalables (signalées lors de CYC11) : *bougainvilleana* FR 26622 / IT 28484 et *campestris* FR 26628 / IT 28502 réécrites sur les étiquettes d'herbier GBIF (mêmes sources que les EN 30163 / 30201) ; *bougainvilleana* et *cairnsiana* NT 2023 en FR/IT, index FR 1256 / IT 11549 « (NT, 2023) » ; toxicité *cairnsiana* FR 26626 / IT 28496 (cycasine → méthylazoxyméthanol, BMAA).
+- Fiches FR sources : *canalis*, *candida*, *cantafolia* (03/10) sur protologues ou révisions en texte intégral ; *chenii* et *chevalieri* nettoyées le 13/10 sur sources primaires. Toutes utilisables ; FR *cantafolia* présente encore *litoralis* comme espèce (hors lot).
+- Fiches C : aucune page EN préexistante (corbeille comprise) ni redirection ; groupes Polylang vérifiés (ES conservée pour *chenii*) ; la FR garde l'IT.
+- Cas *chevalieri* : EN 18748 restaurée (pas de nouvelle page), réécrite entièrement, redirection supprimée ; 200 sans redirection (curl et UA Chrome) ; hreflang fr 21892 / it 28528 / en 18748.
+- Index genre EN 16282 : 5 lignes liées (simulation 1 et application 1 chacune) ; statuts inchangés ; brouillon genre aligné.
+- Liens EN posés vers les fiches du lot : *armstrongii* 16432, *arnhemica* 30137, *calcicola* 16487 (→ *canalis*) ; *megacarpa* 16520 (→ *candida*) ; *chamaoensis* 18723 (→ *cantafolia*) ; *tanqingii* 18728 (→ *chenii*, *chevalieri*). *elongata* 18705 ne cite *chevalieri* qu'en Sources (non lié).
+- Lavaud : article EN 16530 en Further reading pour *canalis* et *candida* (article général, espèces non citées) ; sans objet pour *cantafolia*, *chenii*, *chevalieri*.
+- Retours anglophones : aucun lisible ; aucune observation JZT pour les 5 espèces. POWO, Liste rouge UICN, PalmTalk, Dave's Garden non contournés ; protologue *chenii* (Wiley) et Hill et al. 2004 (Vietnam) payants ; PACSOA wiki vide pour *canalis* et *candida* ; jse.ac.cn en 403 depuis le proxy.

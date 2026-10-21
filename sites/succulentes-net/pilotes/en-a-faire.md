@@ -13,7 +13,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - CYC09 : aculeata C/FR22084 fait (21/10/2026, 30102), aenigma C/FR26570 fait (21/10/2026, 30105), andamanica C/FR21956 fait (21/10/2026, 30108), angulata C/FR26591 fait (21/10/2026, 30111), annaikalensis C/FR26601 fait (21/10/2026, 30118) — lot CYC09 terminé le 21/10/2026
 - CYC10 : apoa C/FR26605 fait (21/10/2026, 30128), arenicola C/FR26609 fait (21/10/2026, 30133), arnhemica C/FR26613 fait (21/10/2026, 30137), badensis C/FR26618 fait (21/10/2026, 30144), basaltica C/FR26620 fait (21/10/2026, 30148) — lot CYC10 terminé le 21/10/2026
 - CYC11 : bougainvilleana C/FR26622 fait (21/10/2026, 30163), brachycantha C/FR22089 fait (21/10/2026, 30169), brunnea C/FR26624 fait (21/10/2026, 30172), cairnsiana C/FR26626 fait (21/10/2026, 30181), campestris C/FR26628 fait (21/10/2026, 30201) — lot CYC11 terminé le 21/10/2026
-- CYC12 : canalis C/FR26630, candida C/FR26632, cantafolia C/FR26634, chenii C/FR21968, chevalieri C/FR21892
+- CYC12 : canalis C/FR26630 fait (21/10/2026, 30212), candida C/FR26632 fait (21/10/2026, 30218), cantafolia C/FR26634 fait (21/10/2026, 30222), chenii C/FR21968 fait (21/10/2026, 30226), chevalieri C/FR21892 fait (21/10/2026, 18748 restaurée et réécrite) — lot CYC12 terminé le 21/10/2026
 - CYC13 : clivicola C/FR26636, collina C/FR22067, condaoensis C/FR22008, conferta C/FR26638, couttsiana C/FR26640
 - CYC14 : cupida C/FR26642, curranii C/FR26644, desolata C/FR26649, dharmrajii C/FR26651, distans C/FR26653
 - CYC15 : divyadarshanii C/FR26655, edentata C/FR26657, fairylakea C/FR21932, falcata C/FR26659, flabellata C/FR26661
@@ -109,6 +109,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 
 ## Cas particuliers
 - Cycas chevalieri : la fiche EN 18748 est à la corbeille, liée à FR 21892 / IT 28528 → la RESTAURER (pas de création) puis la réécrire (décision du propriétaire, 17/10/2026).
+  - **FAIT 21/10/2026 (CYC12)** : 18748 restaurée (publish, slug `chevalieri`, parent 16282) puis réécrite entièrement ; redirection `/en/cycads/cycas/chevalieri/` → `/en/cycads/cycas/` supprimée ; URL en 200 sans redirection ; hreflang fr 21892 / it 28528 / en 18748 ; index 16282 lié ; lien entrant depuis *tanqingii* 18728.
 - Cycas miqueli (16505) et longipetiolula (18667) : fiches EN sans équivalent FR → vérifier leur statut WLoC (synonymes ?) et proposer redirection 301 vers la fiche du nom accepté.
   - Examiné le 21/10/2026 (CYC07), rien exécuté. *miquelii* : synonyme de *revoluta* (WLoC, Hill 2008) mais nom appliqué à tort à *sexseminifera* (Flora of China) et à *clivicola* (néotype de de Laubenfels & Adema 1998), et la fiche 16505 décrit une plante à folioles plates → ambigu ; proposition (a) 301 vers *revoluta* après une phrase sur ces applications erronées dans la fiche *revoluta* EN, remplacement du lien de l'index 16282 puis corbeille, ou (b) attendre *sexseminifera* EN (CYC23) — décision du propriétaire. *longipetiolula* : synonyme d'un hybride (*bifida* × *multipinnata*), aucune fiche cible → rien à rediriger ; fiche à reprendre telle quelle (hybride). Détail : cycadales-a-verifier.md, « Signalé lors de CYC07 ».
 - Encephalartos caffer (16786) = fiche EN d'E. afer : changer le slug en afer + redirection 301 /en/cycads/encephalartos/caffer/ → /afer/, lier à FR afer.

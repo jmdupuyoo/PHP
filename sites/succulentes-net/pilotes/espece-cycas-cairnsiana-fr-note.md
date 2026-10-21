@@ -60,3 +60,7 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26626, https://succulentes.net/cycadales/cycas/cairnsiana/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
+
+## Corrections du 21/10/2026 (signalé lors de CYC11)
+- replace_in_content 6/6 (simulation 6, application 6) : intro (« quasi menacé (NT), catégorie maintenue par la réévaluation de 2023 »), encadré et Statut (Bösenberg 2023-1, Crossref ; NT d'après GBIF, clé 2683218), Toxicité (chaîne cycasine → méthylazoxyméthanol, BMAA, formulation *Cycas* standard), GBIF ajouté aux Sites de référence, Bösenberg 2023 (doi 10.2305/IUCN.UK.2023-1.RLTS.T41972A67337917.en) en bibliographie.
+- Index FR 1256 : « (NT, 2010) » → « (NT, 2023) » (1/1). Brouillon aligné ; contrôle en ligne : 100 blocs présents.

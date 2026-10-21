@@ -25,3 +25,8 @@
 - UICN : NT B1b(iii,v) (Bösenberg 2022), version corrigée 2023 non lue.
 
 - 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas papuana* (28786) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).
+
+## Correzione del 21/10/2026 (segnalato durante CYC11)
+- Riscrittura completa (update_content, solo contenuto), allineata alla FR ripresa lo stesso giorno (vedi nota FR): cifre di Wikipedia tolte, descrizione, habitat, nomi locali «Atolo» e «Wakoro», uso del 1962 (con avvertenza), NT secondo GBIF, Hill 2010 e Bösenberg 2022 con DOI, Montgomery e Cairns, FAQ «Quanto cresce?».
+- Correzioni: «sottosezione <em>Endemicae</em>» → «sezione» (Hill 1994, come nella FR); tossicità al formato <em>Cycas</em> (cicasina → metilazossimetanolo, BMAA), prima assente.
+- Indice IT 11549: «(NT, 2022)» invariato.

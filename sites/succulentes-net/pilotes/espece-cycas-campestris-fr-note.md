@@ -44,3 +44,10 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26628, https://succulentes.net/cycadales/cycas/campestris/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
+
+## Reprise FR du 21/10/2026 (signalé lors de CYC11)
+- Réécriture complète (update_content, contenu seul ; slug, parent, traductions it 28502 / en 30201 conservés, vérifiés par hreflang) sur les sources primaires de la page EN 30201.
+- Retiré (Wikipédia EN, non vérifiable, contredit par la récolte type) : feuilles 80-170 cm, 120-230 folioles de 8,5-16 cm, pétiole 15-90 cm, mégasporophylles 13-25 cm à 2-6 ovules, enveloppe orange, cônes mâles 13-17 cm, « souvent parcouru par les feux de brousse » (gardé seulement comme mention non confirmée), Wikipédia en Sites de référence.
+- Ajouté (étiquettes GBIF, clé 2683233) : type Jacobs & Conn 5950 (18/09/1990, versant ; poils roux ; cône mâle ≈ 30 cm), White 1918, Brass 1925 (8 ft, feuilles 3-4 ft, « common on any savanna »), Carr 1935 (« Atolo »), Batten Pooll 1940 (Rouna, 400 m), Hoogland 1955 (≤ 1,5 m en savane ouverte, ≈ 5 m × 30 cm en savane dense, mégasporophylles parfois au-dessus des feuilles), Womersley & Simmonds 1955 (Yule, feuilles 4 ft 6 in), Darbyshire 1962 (2,5 m ; « Wakoro », langue matapaili ; mésocarpe mangé après ébullition, avec mise en garde), Schodde 1962, Streimann 1969, Wiakabu 1977 ; GBIF NT ; Hill 2010 et Bösenberg 2022 (DOI, version corrigée 2023) ; Montgomery (1 accession 2016) et Cairns (BGCI) ; toxicité au format *Cycas* (cycasine → méthylazoxyméthanol, BMAA) ; FAQ « Quelle taille atteint-il ? ».
+- Index FR 1256 : « (NT, 2022) » inchangé (exact).
+- Contrôles : 200 (UA Chrome et curl), 90 blocs présents, aucun commentaire visible, liens internes FR 200. ≈ 2 860 mots.

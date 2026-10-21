@@ -19,3 +19,8 @@
 ## Points douteux (repris de la FR)
 - Description et habitat fondés sur des sources secondaires (protologue Hill 1994 payant, Cycad Pages hors ligne) : signalé dans la page.
 - Catégorie UICN 2023 relevée par une source secondaire ; Liste rouge non consultée.
+
+## Correzione del 21/10/2026 (segnalato durante CYC11)
+- Riscrittura completa (update_content, solo contenuto; slug, parent 11549, traduzioni conservate, hreflang verificati), allineata alla FR ripresa lo stesso giorno: descrizione, habitat, nomi locali, usi e stato dalle etichette d'erbario GBIF (vedi nota FR), Wikipedia tolta dalle fonti.
+- Aggiunti: nome locale «Diduna», nota d'uso del 1954, dimensioni dalle etichette, isotipo BISH, piante del RBG Sydney (2016) e di Nong Nooch (2011), NT secondo GBIF (Bösenberg 2023-1), DOI Hill 2010, FAQ «Quanto cresce?». Parte italiana (orti botanici, Tropicamente, JZT) invariata.
+- Indice IT 11549: «(NT, 2010)» → «(NT, 2023)» (1/1).

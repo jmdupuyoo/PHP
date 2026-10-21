@@ -38,3 +38,7 @@
 ## Liens croisés (fin du lot Cycas cupida–distans, 12/10/2026)
 - Liens posés vers *Cycas cupida* (IT 28558) et *Cycas desolata* (IT 28564) à la première occurrence hors intro/encadré/titres/fonti, par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié.
 - 12/10/2026 (lot nayagarhensis–orientis) : lien vers *Cycas ophiolitica* 28751 posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content dry run puis application ; brouillon aligné).
+
+## Correzione del 21/10/2026 (segnalato durante CYC11)
+- replace_in_content 6/6 (simulazione 6, applicazione 6): introduzione, «In sintesi» e Stato (Bösenberg 2023-1, Crossref; NT secondo GBIF), tossicità (stesso difetto della FR: catena cicasina → metilazossimetanolo, BMAA), GBIF tra le fonti, Bösenberg 2023 in bibliografia.
+- Indice IT 11549: «(NT, 2010)» → «(NT, 2023)» (1/1). Bozza allineata; controllo in linea: 113 blocchi presenti.
