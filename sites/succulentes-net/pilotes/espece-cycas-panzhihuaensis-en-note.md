@@ -35,3 +35,7 @@
 
 ## Articles EN corrigés le 21/10/2026 (signalé lors de CYC05/CYC06)
 - 16465 : « hardy to −12 to −15 °C in optimal conditions » → survie à environ −16/−13 °C sans protection au Juniper Level BG. 15574 : « from Yunnan… vigorous and at least as hardy as C. revoluta » → Sichuan méridional et Yunnan septentrional + donnée JLBG. 17566 : altitude 1 100-1 700 m → 1 100-2 000 m (Flora of China) ; rusticité « −10 à −12 °C… zone 8a, 7b » → JZT −7 °C et neige, jardins français −8/−9 °C, défoliation −10/−12 °C, JLBG −16/−13 °C, aucune zone USDA fondée sur des essais ; description (feuilles plus longues, folioles plus larges) → feuilles plates dressées, folioles étroites bleutées (Hill 2008) ; « safest bet » zone 8a → « best documented record » ; partie *taitungensis* : altitude 300-900 m, rusticité (JZT −7 °C, JLBG, « hardier plant ») et statut « Critically Endangered, 90 % infected » → EN (2022), deux populations, *Aulacaspis yasumatsui* et *Chilades pandava* (fiche FR *taitungensis*). replace_in_content : simulation 9, application 9.
+
+
+## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
+- Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 10 remplacement(s) sur la page 16350, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).

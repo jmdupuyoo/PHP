@@ -27,3 +27,7 @@
 ## Points douteux
 - Présence au Guangxi (Hill seul) ; critères de la réévaluation 2023 non vus ; *longipetiolula* (synonyme FoC / hybride Hill).
 - Hors lot : la FR 16437 décrit *bifida* à folioles « divisées une seule fois », alors que les FR *multifrondis*/*micholitzii* (Hill 2008) disent « jusqu'à trois fois » → formulé en EN sans le nombre ; signalé dans cycadales-a-verifier.md.
+
+
+## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
+- Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 8 remplacement(s) sur la page 18655, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).

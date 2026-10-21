@@ -35,3 +35,7 @@
 - 21/10/2026 (CYC15) : ligne d'index *Cycas falcata* liée vers EN 30520 (simulation puis application, 1/1) ; brouillon aligné.
 
 - 21/10/2026 (CYC15) : ligne d'index *Cycas flabellata* liée vers EN 30524 (simulation puis application, 1/1) ; mention de la section Taxonomy (« Recent descriptions… ») laissée sans lien, comme pour *divyadarshanii* ; brouillon aligné.
+
+
+## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
+- Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 3 remplacement(s) sur la page 16282, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).

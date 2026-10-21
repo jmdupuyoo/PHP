@@ -22,3 +22,11 @@
 
 ## FR/IT à reprendre (hors lot)
 - FR 26661 / IT 28619 : le statut « jugé menacé » et la liste des espèces comparées reposent sur un extrait de moteur de recherche du résumé (signalé comme tel dans les pages) ; à confirmer sur le protologue si le propriétaire y a accès. Facultatif : ajouter le DOI Crossref et les 2 accessions « cf. » de Montgomery.
+
+## Retouche du 21/10/2026 (signalé lors de CYC15, appliqué avant CYC16)
+- Recherche d'une source lisible pour le statut « menacé » et les espèces comparées : Crossref (doi 10.21135/893275389.034, aucun résumé), OpenAlex et Semantic Scholar (aucun résumé), page NYBG Press (connexion coupée, puis 503), WLoC (503 / tunnel coupé). Seul un extrait de moteur de recherche reprend le résumé : non retenu comme source. IPNI (API) confirme que *C. mindanaensis* est publié dans le même article (p. 531 ; *flabellata* p. 533). GBIF : NE.
+- Corrigé en ligne (replace_in_content simulé puis appliqué, 6 remplacements) : statut « jugé menacé par ses auteurs » retiré de l'introduction et de l'encadré ; section Statut et FAQ présentent l'affirmation comme non vérifiée ; comparaison avec *edentata*, *lacrimans*, *sancti-lasallei* présentée comme non vérifiée ; référence du protologue (DOI, non consulté).
+
+
+## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
+- Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 2 remplacement(s) sur la page 30524, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).

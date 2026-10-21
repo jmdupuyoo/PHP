@@ -30,3 +30,7 @@
 - Hill & Yang 1999 et Hill et al. 2004 non lus (description de de Laubenfels & Adema, concept parfois large) ; origine de « Silver » ; présence en Chine et en Malaisie (Species+) ; identité des plantes de Sydney et du statut « synonym » à Montgomery.
 
 - 21/10/2026 (CYC13) : lien vers *Cycas collina* EN 30316 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content ciblé, simulation 1, application 1) ; brouillon aligné.
+
+
+## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
+- Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 11 remplacement(s) sur la page 16409, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).

@@ -27,3 +27,7 @@
 ## FR/IT à reprendre (hors lot, facultatif)
 - FR 26642 / IT 28558 : statut « réévaluation 2023 non vérifiée » → NT confirmé par GBIF (Bösenberg 2023-1, DOI) ; index FR 1256 / IT 11549 « (NT, 2010) » → « (NT, 2023) ». Facultatif : étiquettes GBIF 2024 (population > 800 plantes), Montgomery 2025, jardins (RBG Sydney, Mount Annan, Montgomery), PDF Lavaud 2021 (« difficile »).
 - 21/10/2026 (CYC14) : lien vers *Cycas desolata* (EN 30362) posé à la première occurrence du corps (replace_in_content, simulation puis application, 1) ; brouillon aligné.
+
+
+## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
+- Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 3 remplacement(s) sur la page 30351, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).

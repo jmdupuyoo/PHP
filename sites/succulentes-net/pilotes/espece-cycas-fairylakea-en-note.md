@@ -23,3 +23,7 @@
 
 ## FR/IT à reprendre (hors lot)
 - Aucune correction nécessaire ; rappel FR (13/10) : l'IT 28610 n'a pas les compléments de Liang 2024 (localités, effectifs) ni Trebrown.
+
+
+## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
+- Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 2 remplacement(s) sur la page 30513, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).

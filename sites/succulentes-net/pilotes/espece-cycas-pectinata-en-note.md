@@ -42,3 +42,7 @@
 - 21/10/2026 (CYC13) : lien vers *Cycas clivicola* EN 30309 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content ciblé, simulation 1, application 1) ; brouillon aligné.
 
 - 21/10/2026 (CYC15) : lien vers *Cycas divyadarshanii* EN 30500 posé dans « Possible confusion » (« The main risk of confusion today is with… ») ; replace_in_content simulé puis appliqué (1/1) ; brouillon aligné. Rappel hors lot : la phrase « The previous version of this page stated that… » (Taxonomy) reste à revoir.
+
+
+## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
+- Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 6 remplacement(s) sur la page 16415, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).

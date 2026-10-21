@@ -42,3 +42,7 @@ Aucune observation publiée sur ce genre (l'article 234 ne cite aucun cactus col
 3. Sources inaccessibles : POWO (page genre Cephalocereus), IUCN, Species+, protologue de Backeberg, texte intégral de Tapia et al. 2017.
 4. France : aucune donnée par zone ni épisode de froid documenté ; seule la fiche du site.
 5. Encadré : « Statut (POWO) » remplace « Nom accepté » ; UICN donné par espèce (pas de statut au niveau du genre).
+
+
+## Retouche du 21/10/2026 (signalé lors de CYC14/CYC15)
+- Liste des espèces : « comme le signale déjà la version précédente de cette page » retiré (note de rédaction visible) ; la présence de *N. euphorbioides* dans le commerce est désormais appuyée par une source lisible : fiche de la pépinière Planet Desert (https://planetdesert.com/products/neobuxbaumia-euphorbioides, consultée le 21/10/2026, plante en vente). replace_in_content simulé puis appliqué (1).

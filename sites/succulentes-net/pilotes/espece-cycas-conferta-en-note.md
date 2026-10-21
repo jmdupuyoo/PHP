@@ -24,3 +24,7 @@
 
 ## FR/IT à reprendre (hors lot)
 - FR 26638 / IT 28543 : statut à mettre à jour (VU confirmé par GBIF, Nagalingum 2023-1 avec DOI ; divergence FoA « NT, 2022 ») à la place de « NT selon des sources secondaires » (encadré, Statut, FAQ, intro) ; index FR 1256 / IT 11549 « (VU, 2010) » → « (VU, 2023) ». Facultatif : étiquettes GBIF (effectifs, Gunlom 2024), FoA, photo Nong Nooch du PDF Lavaud, Montgomery.
+
+
+## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
+- Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 2 remplacement(s) sur la page 30327, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).

@@ -41,3 +41,7 @@
 
 ## Liens entrants posés le 21/10/2026 (signalé lors de CYC06)
 - Lien vers https://succulentes.net/en/cycads/cycas/revoluta/ posé à la première mention utile, texte inchangé, dans les 12 articles EN qui citaient *Cycas revoluta* sans lien : 29754, 29756, 29749, 18542, 18532, 18526, 17771, 16460, 16465, 15683, 15581 (simulation 12, application 12) ; dans 15574, le lien existant pointait vers la fiche FR 13945 : href remplacé par la fiche EN (data-id 16343). Articles en 200, aucun lien interne non EN restant dans leur contenu.
+
+
+## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
+- Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 9 remplacement(s) sur la page 16343, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).

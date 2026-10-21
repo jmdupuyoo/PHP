@@ -12,3 +12,7 @@
 - Liens (10 internes, tous 200, aucun FR/IT/ES) : intro → /en/cycads/ ; genres EN *Macrozamia*, *Encephalartos*, *Bowenia* ; fiche EN *Macrozamia communis* ; **2 fiches EN *Lepidozamia*** liées dans l'index (hopei 17997, peroffskyana 18004) ; Further reading 18526, 17561, 15581.
 - Corrigés par rapport à l'ancienne page EN (cf. note FR) : *Chilades pandava* « menace croissante », « Daintree region », « Wet Tropics World Heritage Area », rusticités « −4 à −5 °C / −2 °C » et germination non sourcées, référence « Hill… various publications in Telopea ». Ni « XX » ni « for SEO reasons ».
 - Points douteux (repris de la FR) : hauteur de *L. hopei* (17 ou 20 m selon les sources), taille des cônes de *L. peroffskyana* (90 cm/45 kg ou 50–75 cm), étymologie (lepis ou lepidus), auteur de *L. hopei* (POWO/IPNI vs WLoC), sources souvent connues par extraits (POWO, Britannica, Gymnosperm Database, ANBG, ANPSA, PalmTalk) ; présence actuelle des espèces listées seulement dans BGCI non garantie.
+
+
+## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
+- Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 1 remplacement(s) sur la page 16319, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).

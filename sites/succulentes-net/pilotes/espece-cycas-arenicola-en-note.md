@@ -27,3 +27,5 @@
 ## Points douteux
 - Statut : GBIF/UICN 2023 LC contre Flora of Australia « NT, 2022 ».
 - Feuilles : 180-200 folioles (protologue) contre 180-270 (Hill 1996, Flora of Australia) — exposé.
+
+- 21/10/2026 (CYC16) : lien posé vers *Cycas furfuracea* EN 30589 à la première occurrence utile (replace_in_content simulé puis appliqué, 1) ; brouillon aligné.

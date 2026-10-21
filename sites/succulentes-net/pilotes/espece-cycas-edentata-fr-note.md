@@ -50,3 +50,7 @@ Aucune page dans aucune langue : pas de fiche EN à corriger. Vérifié : aucune
 ## Points à valider par le propriétaire
 1. **Statut UICN** : WLoC affiche EN en le datant de 2010 ; le rapport thaïlandais (2019) et l'inventaire de Setiu (2020) citent NT. L'identifiant (A216470643) suggère une réévaluation récente ; la fiche expose la divergence. À vérifier sur la Liste rouge.
 2. Erreur relevée sur le forum (non reprise) : « *C. edentata*, ancien nom de *C. litoralis* » — c'est l'inverse (edentata a la priorité).
+
+## Retouche du 21/10/2026 (signalé lors de CYC15, appliqué avant CYC16)
+- Point 1 tranché : Crossref (doi 10.2305/IUCN.UK.2023-1.RLTS.T216470314A68900236.en, « Cycas edentata: Lindstrom, A. ») et GBIF (clé 2683238, catégorie EN, iucnTaxonID 216470314) : **EN = évaluation d'A. Lindström publiée dans la Liste rouge 2023-1** ; l'évaluation Osborne, Hill, Nguyen & Phan 2010-3 (doi 10.2305/IUCN.UK.2010-3.RLTS.T42091A10628022.en) est la précédente, citée NT par le DOA (2019) et Salim et al. (2020). WLoC associe EN à 2010 (confusion des deux évaluations, exposée dans le texte).
+- Corrigés en ligne (replace_in_content simulé puis appliqué, 4 remplacements) : encadré, section Statut, commentaire WLoC des Sites de référence, bibliographie (référence Osborne corrigée — elle mêlait l'identifiant T216470314 de 2023 à l'année 2010 — et référence Lindström 2023 ajoutée). Page Liste rouge toujours non consultée (Cloudflare). Index FR 1256 déjà « (EN, 2023) ».

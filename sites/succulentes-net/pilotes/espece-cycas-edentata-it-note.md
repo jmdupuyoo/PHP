@@ -37,3 +37,7 @@
 
 - 12/10/2026, fin du lot *Cycas* furfuracea–hongheensis : lien vers *glauca* (IT 28633) posé à la première occurrence hors intro/encadré/titres/fonti par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py).
 - 12/10/2026 : lien vers *Cycas macrocarpa* (28700) posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.
+
+## Ritocco del 21/10/2026 (segnalato durante CYC15, applicato prima di CYC16)
+- Crossref (doi 10.2305/IUCN.UK.2023-1.RLTS.T216470314A68900236.en, A. Lindström) e GBIF (EN) : la categoria EN è quella della valutazione Lindström pubblicata nella Lista rossa 2023-1 ; la valutazione Osborne et al. 2010-3 (T42091A10628022) è la precedente (NT secondo DOA 2019 e Salim et al. 2020).
+- Corretti online (replace_in_content simulato poi applicato, 4 sostituzioni) : riquadro, sezione Stato, commento WLoC nei Siti di riferimento, bibliografia (riferimento Osborne corretto, riferimento Lindström 2023 aggiunto). Indice IT 11549 già « (EN, 2023) ».

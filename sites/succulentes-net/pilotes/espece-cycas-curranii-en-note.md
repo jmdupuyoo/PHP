@@ -25,3 +25,7 @@
 - FR 26644 / IT 28561 : statut « réévaluation 2023 non lue » → CR confirmé (GBIF, Bösenberg 2023-1, DOI) ; index FR 1256 / IT 11549 « (CR, 2014) » → « (CR, 2023) » ; Wikipédia (Mindoro, « Curran's pitogo ») à remplacer par les sources primaires / l'étiquette du RBG Sydney comme en EN ; facultatif : jardins (Montgomery, RBG Sydney), GBIF 1984.
 
 - 21/10/2026 (CYC15) : lien vers *Cycas edentata* EN 30504 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1/1) ; brouillon aligné.
+
+
+## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
+- Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 4 remplacement(s) sur la page 30358, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).

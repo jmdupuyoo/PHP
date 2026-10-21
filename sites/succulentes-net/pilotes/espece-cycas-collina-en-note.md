@@ -24,3 +24,7 @@
 
 ## FR/IT à reprendre (hors lot, facultatif)
 - FR 22067 / IT 28536 : étiquettes GBIF 2006 (1 250 m et 950 m) et plante de Nong Nooch pourraient compléter « Dans la nature » / « Culture » ; PACSOA (ombre) non cité.
+
+
+## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
+- Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 3 remplacement(s) sur la page 30316, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).

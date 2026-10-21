@@ -22,3 +22,5 @@
 
 ## Points douteux
 - Protologue et article de 2007 non lus ; statut taxonomique discuté (Lindström & Hill 2007) ; critères de la réévaluation 2023 inconnus.
+
+- 21/10/2026 (CYC16) : lien posé vers *Cycas indica* EN 30603 dans Possible confusion (replace_in_content simulé puis appliqué, 1) ; brouillon aligné.

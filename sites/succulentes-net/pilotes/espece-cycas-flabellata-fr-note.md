@@ -40,3 +40,7 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Points à valider par le propriétaire
 1. Protologue (NYBG, payant) non lu : aucune description chiffrée dans la fiche, qui reste courte (≈ 1 440 mots hors références).
 2. Incohérence de WLoC : type de Bukidnon, mais répartition « Davao Oriental, Misamis Oriental » ; signalée dans la fiche.
+
+## Retouche du 21/10/2026 (signalé lors de CYC15, appliqué avant CYC16)
+- Recherche d'une source lisible pour le statut « menacé » et les espèces comparées : Crossref (doi 10.21135/893275389.034, aucun résumé), OpenAlex et Semantic Scholar (aucun résumé), page NYBG Press (connexion coupée, puis 503), WLoC (503 / tunnel coupé). Seul un extrait de moteur de recherche reprend le résumé : non retenu comme source. IPNI (API) confirme que *C. mindanaensis* est publié dans le même article (p. 531 ; *flabellata* p. 533). GBIF : NE.
+- Corrigé en ligne (replace_in_content simulé puis appliqué, 6 remplacements) : statut « jugé menacé par ses auteurs » retiré de l'introduction et de l'encadré ; section Statut et FAQ présentent l'affirmation comme non vérifiée ; comparaison avec *edentata*, *lacrimans*, *sancti-lasallei* présentée comme non vérifiée ; référence du protologue (DOI, non consulté).

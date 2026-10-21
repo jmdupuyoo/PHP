@@ -47,3 +47,7 @@
 - Présence au Yunnan (Yang & Ferguson 2022, d'après Xi et al. 2022 non lu) non retenue par WLoC.
 - Écarts de mesures Hill / FoC (exposés).
 - Cycad Newsletter 2006 (Floride, Hawaï) réservé aux membres ; Canarius (blog, délai dépassé) non lu ; PalmTalk, Dave's Garden (Cloudflare) non consultés ; POWO, Liste rouge non consultés.
+
+
+## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
+- Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 4 remplacement(s) sur la page 16403, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).

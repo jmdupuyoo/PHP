@@ -28,3 +28,5 @@
 - Nombre exact de plantes de l'accession S2015-1275 non clair dans le Garden Explorer (trois lignes, dont une « (5) »).
 
 - 21/10/2026 (lot CYC11) : lien vers la nouvelle fiche EN *Cycas cairnsiana* (30181) posé à la première occurrence utile (replace_in_content, simulation puis application, 1/1) ; brouillon aligné.
+
+- 21/10/2026 (CYC16) : lien posé vers *Cycas furfuracea* EN 30589 à la première occurrence utile (replace_in_content simulé puis appliqué, 1) ; brouillon aligné.

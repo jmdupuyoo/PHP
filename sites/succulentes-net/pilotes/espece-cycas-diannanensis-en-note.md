@@ -40,3 +40,7 @@
 
 ## Points douteux
 - Lieu de l'holotype (Chengdu / IBSC) ; lecture « sud du Yunnan » du nom chinois (signalée comme lecture) ; année du −7 °C de Sabaudia (non écrite) ; identité et âge de la plante de Menton ; années Montgomery déduites (9599 illisible).
+
+
+## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
+- Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 7 remplacement(s) sur la page 18578, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).
