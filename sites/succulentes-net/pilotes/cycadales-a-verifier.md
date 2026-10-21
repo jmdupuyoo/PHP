@@ -496,3 +496,40 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - Flora of Tropical East Africa (Zamiaceae) introuvable en accès libre ; remplacée par Prain 1917 (Flora of Tropical Africa, Internet Archive) et Melville 1957.
 - Page EN 16653 : protologue mal cité (Sitzungsberichte 1874 : 53 au lieu de Index Seminum 1874 : 18), statut NT périmé (LC 2010), nom swahili « mkwanga » non trouvé, kisambo placé en Tanzanie, Somalie et climat chiffré non sourcés, « USDA 10b » non sourcé.
 - Species+ : les décisions « genre » de 2010-2011 et la consultation du 16/09/2026 n'apparaissent pas sur la fiche de l'espèce (avis propre de 2011/2013) ; à vérifier si la consultation la concerne.
+
+## Signalé lors de AE4 (20-21/10/2026) — *Encephalartos whitelockii*, *paucidentatus*, *middelburgensis*, *inopinus*, *sclavoi*
+
+### *Encephalartos whitelockii* (FR 12023 / IT 12037) — FR FAIT 20/10/2026 — IT FAIT 20/10/2026
+- Aucun JZT, aucun message JMDUPUYOO.
+- Barrage : la consigne mentionnait Muzizi ; les sources lues ne parlent que de la petite centrale de la Mpanga (18 MW, construite en 2011). Aucun lien avec Muzizi trouvé.
+- WLoC cite encore l'évaluation UICN de 2010 (Kalema) ; GBIF/Crossref : Bösenberg, évaluée 06/03/2020, publiée 2024 (CR).
+- Page EN 16823 : date de description 1996 (1995), Whitelock 1930-2012 (2014), 8 000-12 000 adultes, cônes « bluish-green », « granite gneiss », climat et USDA non sourcés, statut cité d'après 2010.
+
+### *Encephalartos paucidentatus* (FR 12001 / IT 12014) — FR FAIT 21/10/2026 — IT FAIT 21/10/2026
+- Aucun JZT ; aucun message JMDUPUYOO sur le forum. À vérifier par le propriétaire : commentaire signé « Jean-Michel Dupuyoo » du 05/10/2015 sur la page « Winter Hardy Cycads » du Juniper Level Botanic Garden (question sur la défoliation d'*altensteinii* et *paucidentatus*) ; la réponse du jardin n'a pas été reprise.
+- Type : WLoC « Zoutpansberg district » ; Dyer 1965 juge cette provenance non confirmée (ferme Breslau).
+- PDF cycad.org « Encephalartos-paucidentatus.pdf » : page 545 de Dyer 1972 (Bothalia 10), non titrée.
+- Page EN 16922 : Juniper Level mal lu (eugene-maraisii et friderici-guilielmi n'ont pas survécu), lien UICN faux, population 3 000-5 000 non vérifiée.
+
+### *Encephalartos middelburgensis* (FR 11822 / IT 11840) — FR FAIT 21/10/2026 — IT FAIT 21/10/2026
+- Aucun JZT, aucun message JMDUPUYOO.
+- Divergences : couleur et taille des cônes (protologue / PlantZAfrica), effectifs (420 en 1983 ; ≤ 350 en 2015 ; ~120 adultes selon Donaldson 2009 ; « 184 en 2014 » sur la page EN, non vérifié).
+- Le document NDF de SANBI (2012/2015) existe aussi pour *inopinus* ; pas pour *paucidentatus* (404 à l'URL attendue).
+- Page EN 16690 : chiffres de population, climat, USDA, comportement au feu non sourcés.
+
+### *Encephalartos inopinus* (FR 7258 / IT 12087) — FR FAIT 21/10/2026 — IT FAIT 21/10/2026
+- Aucun JZT, aucun message JMDUPUYOO.
+- Province : Limpopo (WLoC, NDF, BMP-S 2017) / Mpumalanga (PlantZAfrica, page EN) ; les deux citées, l'index garde « Limpopo ».
+- Effectifs : 677 (NDF) ou « plus de 670 » (BMP-S) en 1992 ; 250-300 selon Donaldson 2003, alors que le NDF compte 113 plantes en 2001.
+- La source « cer.org.za/…/Cycad-species.pdf » citée par l'ancienne page est le Journal officiel sud-africain n° 40793 (21/04/2017, BMP-S des 15 *Encephalartos* CR et EN) : utile aussi pour *cupidus*, *dolomiticus*, *dyerianus*, *heenanii*, *hirsutus*, *laevifolius*, *middelburgensis*, etc.
+- Jungle Music (enracinement lent des rejets d'*inopinus*) : page non datée, non reprise.
+- Page EN 16760 : altitude 600-800 m, températures de gorge, USDA 9a/9b, « 20+ ans avant le premier cône », « Lydenburgbroodboom », citation LLIFLE contredite par le NDF : non sourcés.
+
+### *Encephalartos sclavoi* (FR 5560 / IT 13180) — FR FAIT 21/10/2026 — IT FAIT 21/10/2026
+- Aucun JZT dans les pages ni sur zootropical.com. À valider par le propriétaire : messages JMDUPUYOO (La Londe : 12/12/2008 #p44503 ; janvier 2009 #p46520 ; 20/01/2012 #p161065, deux plantes défoliées par −4/−5 °C puis relancées en serre ; #p161084) et mention du feuillage plus bleu de la plante du « jardin des oiseaux » par un collectionneur du Var (12/12/2008, #p44512). Si validé, ajouter en « En France ».
+- Auteurs : WLoC « A.Moretti, D.W.Stev. & De Luca (1990) » ; protologue Delpinoa imprimé en 1989 sous « De Luca, D. Stevenson & Moretti » (repris par Naples et Melbourne) ; Claassen 1994 (Encephalartos 37 : 9) non consulté.
+- Effectifs contradictoires : 5 000-6 000 (2003), < 50 adultes (2009), 19 + 474 plantes (2017).
+- Rapport Andrew (MBZ) : « découverte en 1998 » erronée ; rapport non daté.
+- Ancienne page : lien de genre avec `data-id="1074"` ; « jardin botanique de Paris » faux (PDF Encephalartos 139 parle de *Ceratozamia mexicana*).
+- Média 7302 : alt vide dans la médiathèque, corrigé.
+- Page EN 16794 : « une des quatre seules espèces hors d'Afrique australe », tronc souterrain, altitude/climat/USDA, statuts *hildebrandtii* NT et *kisambo* VU, régénération « prolifique » : non sourcés ou faux.
