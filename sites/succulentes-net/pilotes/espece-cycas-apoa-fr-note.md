@@ -38,3 +38,6 @@ Aucune fiche EN (ni IT, ni ES) : rien à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26605, https://succulentes.net/cycadales/cycas/apoa/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
+
+## Retouche du 21/10/2026 (signalée lors de CYC10, faite avant CYC11)
+- Statut UICN 2023 (Bösenberg, Liste rouge 2023-1) appuyé sur GBIF (API iucnRedListCategory, clé 2683219 : LC, consultée le 21/10/2026) et Crossref au lieu d'« une encyclopédie en ligne ». replace_in_content sur 26605, simulation puis application, 4/4 : encadré, Statut, source GBIF ajoutée (Sites de référence), annotation de la bibliographie. Index inchangé (déjà « (LC, 2023) »). Brouillon aligné.

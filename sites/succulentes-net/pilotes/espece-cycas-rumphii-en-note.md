@@ -31,3 +31,5 @@
 - Aucune erreur trouvée ; RBG Sydney (3 plantes sauvages, dont une des Philippines) pourrait compléter « Repères internationaux ».
 
 - 21/10/2026 (lot CYC10) : lien vers *apoa* 30128 (Taxonomie) posé(s) par replace_in_content ciblé (simulation puis application, 1 par lien) ; brouillon aligné, vérifié identique au rendu.
+
+- 21/10/2026 (lot CYC11) : lien vers la nouvelle fiche EN *Cycas bougainvilleana* (30163) posé à la première occurrence utile (replace_in_content, simulation puis application, 1/1) ; brouillon aligné.

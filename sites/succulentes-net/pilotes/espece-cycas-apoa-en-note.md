@@ -25,3 +25,5 @@
 ## Points douteux
 - Aire WLoC (Moluques du Nord, Nusa Tenggara oriental) non expliquée par les sources (divergence exposée, comme en FR/IT).
 - Présence dans les jardins = déclarations BGCI non datées ; serre ou plein air inconnus.
+
+- 21/10/2026 (lot CYC11) : lien vers la nouvelle fiche EN *Cycas bougainvilleana* (30163) posé à la première occurrence utile (replace_in_content, simulation puis application, 1/1) ; brouillon aligné.

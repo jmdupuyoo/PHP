@@ -28,3 +28,6 @@
 
 - 12/10/2026, fin du lot *Cycas* furfuracea–hongheensis : lien vers *furfuracea* (IT 28630) posé à la première occurrence hors intro/encadré/titres/fonti par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py).
 - 12/10/2026 : lien vers *Cycas maconochiei* (28690) posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.
+
+## Retouche du 21/10/2026 (signalée lors de CYC10, faite avant CYC11)
+- Statut UICN : réévaluation Ottley&Liddle, Liste rouge 2023-1 (doi revérifié sur Crossref le 21/10/2026) = **LC** d'après GBIF (API iucnRedListCategory, clé 2683227, consultée le 21/10/2026), au lieu d'« une encyclopédie en ligne » ; divergence avec la Flora of Australia (« NT, 2022 ») gardée, comme sur la page EN. replace_in_content sur 28463, simulation puis application, 5/5 : encadré, Statut, FAQ, source GBIF ajoutée (Sites de référence), annotation de la bibliographie. Index FR 1256 / IT 11549 : « (LC, 2010) » → « (LC, 2023) ». Brouillon aligné.

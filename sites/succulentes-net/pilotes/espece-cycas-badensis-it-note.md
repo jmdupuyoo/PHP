@@ -19,3 +19,6 @@
 ## Points douteux (repris de la FR)
 - Statut UICN contradictoire (WLoC LC 2010 ; Flora of Australia NT 2022 ; LC 2023 selon une encyclopédie en ligne) : divergence exposée, Liste rouge bloquée.
 - Référence UICN 2023 relevée par extrait de recherche (non vérifiée sur Crossref par la FR).
+
+## Retouche du 21/10/2026 (signalée lors de CYC10, faite avant CYC11)
+- Statut UICN : réévaluation Bösenberg, Liste rouge 2023-1 (doi revérifié sur Crossref le 21/10/2026) = **LC** d'après GBIF (API iucnRedListCategory, clé 2683294, consultée le 21/10/2026), au lieu d'« une encyclopédie en ligne » ; divergence avec la Flora of Australia (« NT, 2022 ») gardée, comme sur la page EN. replace_in_content sur 28472, simulation puis application, 5/5 : encadré, Statut, FAQ, source GBIF ajoutée (Sites de référence), annotation de la bibliographie. Index FR 1256 / IT 11549 : « (LC, 2010) » → « (LC, 2023) ». Brouillon aligné.

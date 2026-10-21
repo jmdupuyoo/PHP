@@ -28,3 +28,6 @@
 ## Liens croisés (12/10/2026)
 
 - Lien posé vers *Cycas javana* (28660) à sa seule occurrence (Tassonomia), replace_in_content ciblé, dry run puis application ; brouillon aligné (verify.py : 0 bloc manquant).
+
+## Retouche du 21/10/2026 (signalée lors de CYC10, faite avant CYC11)
+- Statut UICN 2023 (Bösenberg, Liste rouge 2023-1) appuyé sur GBIF (API iucnRedListCategory, clé 2683219 : LC, consultée le 21/10/2026) et Crossref au lieu d'« une encyclopédie en ligne ». replace_in_content sur 28460, simulation puis application, 4/4 : encadré, Statut, source GBIF ajoutée (Sites de référence), annotation de la bibliographie. Index inchangé (déjà « (LC, 2023) »). Brouillon aligné.

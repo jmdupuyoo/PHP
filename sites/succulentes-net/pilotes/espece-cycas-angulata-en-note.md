@@ -28,3 +28,5 @@
 - Hauteur PACSOA (10 m en moyenne) contre Hill (5 m, rarement 12 m) ; année des accessions Montgomery déduite des numéros.
 
 - 21/10/2026 (lot CYC10) : liens vers *arnhemica* 30137 et *badensis* 30144 (Taxonomie, liste de Laubenfels & Adema) posé(s) par replace_in_content ciblé (simulation puis application, 1 par lien) ; brouillon aligné, vérifié identique au rendu.
+
+- 21/10/2026 (lot CYC11) : lien vers la nouvelle fiche EN *Cycas brunnea* (30172) posé à la première occurrence (Possible confusion ; replace_in_content, simulation puis application, 1/1) ; brouillon aligné.

@@ -51,3 +51,6 @@
 - Point « nom commun » réglé : FR 21562 et IT 28466 (ainsi que FR/IT calcicola) mentionnent désormais « fire fern » comme nom anglais attesté (PACSOA/Butt 1990, étiquette RBG Sydney).
 
 - 21/10/2026 (lot CYC10) : lien vers *arnhemica* 30137 (Possible confusion) posé(s) par replace_in_content ciblé (simulation puis application, 1 par lien) ; brouillon aligné, vérifié identique au rendu.
+
+## Retouche du 21/10/2026 (signalée lors de CYC10, faite avant CYC11)
+- « Further reading » : lien vers l'article Lavaud EN 16530 conservé, mais présentation réécrite pour dire qu'il s'agit d'un article général sur la culture des *Cycas* australiens en Europe, qui ne traite pas de *Cycas armstrongii* et ne le cite pas (exemples de l'article : *couttsiana*, *siamensis* « Silver »). replace_in_content, simulation puis application, 1/1. Brouillon aligné.

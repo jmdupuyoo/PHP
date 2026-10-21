@@ -33,3 +33,5 @@
 
 ## Points douteux
 - Lecture de la phrase de Pedara ; identité des « circinalis » de Fuveau et Carcassonne ; dates Montgomery déduites des numéros ; remarque « Cycas glauca » de la base Montgomery ; datePlanted du recensement de Melbourne (2025-2026 pour trois plantes : date d'enregistrement probable).
+
+- 21/10/2026 (lot CYC11) : lien vers la nouvelle fiche EN *Cycas cairnsiana* (30181) posé à la première occurrence utile (replace_in_content, simulation puis application, 1/1) ; brouillon aligné.

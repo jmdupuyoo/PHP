@@ -31,3 +31,5 @@
 - Species+ (PNG) ; Hill 1994 non consulté ; Concarneau : plante probablement dehors, non précisé ; plein air des massifs de Sydney probable, non dit par la source ; mentions Montgomery « Accepted name: Cycas cairnsiana » ; BGCI non daté.
 
 - 21/10/2026 (lot CYC10) : lien vers *basaltica* 30148 (Taxonomie) posé(s) par replace_in_content ciblé (simulation puis application, 1 par lien) ; brouillon aligné, vérifié identique au rendu.
+
+- 21/10/2026 (lot CYC11) : lien vers la nouvelle fiche EN *Cycas cairnsiana* (30181) posé à la première occurrence utile (replace_in_content, simulation puis application, 1/1) ; brouillon aligné.

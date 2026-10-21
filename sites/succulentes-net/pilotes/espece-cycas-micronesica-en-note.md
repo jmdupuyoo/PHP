@@ -30,3 +30,5 @@
 - Hors lot : FR 26163 et IT 28709 disent « federico nut » non attesté et datent l'EPPO du 27/09 ; RBG Sydney l'emploie (étiquette) → signalé dans cycadales-a-verifier.md.
 
 - 21/10/2026 (lot CYC10) : lien vers *apoa* 30128 (Taxonomie) posé(s) par replace_in_content ciblé (simulation puis application, 1 par lien) ; brouillon aligné, vérifié identique au rendu.
+
+- 21/10/2026 (lot CYC11) : lien vers la nouvelle fiche EN *Cycas bougainvilleana* (30163) posé à la première occurrence utile (replace_in_content, simulation puis application, 1/1) ; brouillon aligné.

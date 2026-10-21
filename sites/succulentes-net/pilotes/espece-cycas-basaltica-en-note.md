@@ -26,3 +26,5 @@
 ## Points douteux
 - Écarts Gardner 1923 / Hill 1996 (diamètre du tronc, limbe du mégasporophylle entier ou denté) exposés sans arbitrage ; la note de Butt (1990) va dans le sens de Gardner pour le diamètre.
 - Nombre exact de plantes de l'accession S2015-1275 non clair dans le Garden Explorer (trois lignes, dont une « (5) »).
+
+- 21/10/2026 (lot CYC11) : lien vers la nouvelle fiche EN *Cycas cairnsiana* (30181) posé à la première occurrence utile (replace_in_content, simulation puis application, 1/1) ; brouillon aligné.

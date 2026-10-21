@@ -26,3 +26,5 @@
 
 ## Points douteux
 - Données du plan de rétablissement 2007 non vérifiables (non reprises) ; position (pot ou pleine terre) de la plante de la Côte Bleue ; localité du cultivateur italien ; BGCI non daté.
+
+- 21/10/2026 (lot CYC11) : lien vers la nouvelle fiche EN *Cycas cairnsiana* (30181) posé à la première occurrence utile (replace_in_content, simulation puis application, 1/1) ; brouillon aligné.

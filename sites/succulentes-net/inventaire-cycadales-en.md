@@ -6,7 +6,7 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 |---|---|---|---|
 | Bowenia | 2 | 3 | 0 |
 | Ceratozamia | 45 | 0 | 0 |
-| Cycas | 122 | 49 (39 au 19/10 + 10 créées le 21/10, lots CYC09 et CYC10) | 19 |
+| Cycas | 122 | 54 (39 au 19/10 + 15 créées le 21/10, lots CYC09 à CYC11) | 19 |
 | Dioon | 19 | 19 | 0 |
 | Encephalartos | 65 | 60 | 0 |
 | Lepidozamia | 2 | 2 | 0 |
@@ -14,7 +14,7 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 | Microcycas | 1 | 1 | 0 |
 | Stangeria | 1 | 0 | 0 |
 | Zamia | 88 | 19 | 0 |
-| **Total** | **386** | **175** (165 au 19/10 + 10 créées le 21/10) | **19** |
+| **Total** | **386** | **180** (165 au 19/10 + 15 créées le 21/10) | **19** |
 
 - EN : 156 des 165 fiches n'ont pas été modifiées depuis septembre 2026 (ancienne génération, mêmes défauts que les anciennes FR : à reprendre au gabarit récent d'après les FR/IT vérifiées). Environ 221 fiches EN à créer. Page ordre EN 15147 et 10 pages genre EN (16282-16335), datées du 29/09/2026.
 - ES : page ordre 23482 et page genre Cycas 23432 seulement ; 19 fiches Cycas ; les 9 autres genres et environ 367 fiches à créer.
@@ -28,7 +28,7 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 | Page | ID | État |
 |---|---|---|
 | Ordre *Cycadales* (/en/cycads/) | 15147 | réécrite le 19/10/2026 (brouillon pilotes/ordre-cycadales-en.html) |
-| Genre *Cycas* (/en/cycads/cycas/) | 16282 | réécrite le 19/10/2026 (brouillon pilotes/genre-cycas-en.html) ; index : 118 espèces, 36 fiches EN liées (+ miqueli, hainanensis sous ancien nom) ; +5 fiches liées le 21/10/2026 (CYC09 : aculeata, aenigma, andamanica dans la ligne pschannae, angulata, annaikalensis) ; +5 le 21/10/2026 (CYC10 : apoa, arenicola, arnhemica, badensis, basaltica) |
+| Genre *Cycas* (/en/cycads/cycas/) | 16282 | réécrite le 19/10/2026 (brouillon pilotes/genre-cycas-en.html) ; index : 118 espèces, 36 fiches EN liées (+ miqueli, hainanensis sous ancien nom) ; +5 fiches liées le 21/10/2026 (CYC09 : aculeata, aenigma, andamanica dans la ligne pschannae, angulata, annaikalensis) ; +5 le 21/10/2026 (CYC10 : apoa, arenicola, arnhemica, badensis, basaltica) ; +5 le 21/10/2026 (CYC11 : bougainvilleana, brachycantha, brunnea, cairnsiana, campestris) ; phrase de décompte des évaluations par année supprimée le 21/10 (retouche 0c) |
 | Genre *Zamia* (/en/cycads/zamia/) | 16295 | réécrite le 19/10/2026 (brouillon pilotes/genre-zamia-en.html) ; index : 88 espèces, 19 fiches EN liées |
 | Genre *Ceratozamia* (/en/cycads/ceratozamia/) | 16307 | réécrite le 19/10/2026 (brouillon pilotes/genre-ceratozamia-en.html) ; index : 45 espèces, aucune fiche EN |
 | Genre *Encephalartos* (/en/cycads/encephalartos/) | 16289 | réécrite le 19/10/2026 (brouillon pilotes/genre-encephalartos-en.html) ; index : 65 espèces, 59 fiches EN liées + fiche « caffer » dans la ligne *afer* ; image mise en avant 5556 ajoutée |
@@ -95,6 +95,11 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 | CYC10 | *Cycas arnhemica* | 30137 | C | créée le 21/10/2026 (translation_of FR 26613 ; fr/it/en) ; GBIF LC (2022) ; PDF Lavaud (Territoire du Nord) ; SEO 58/142 | ≈ 3 390 | AU : Darwin (photos 2016), BGCI ANBG Canberra ; US, UK : aucun | pilotes/espece-cycas-arnhemica-en.html, -en-note.md |
 | CYC10 | *Cycas badensis* | 30144 | C | créée le 21/10/2026 (translation_of FR 26618 ; fr/it/en) ; GBIF LC (Bösenberg 2023-1) contre FoA « NT, 2022 » ; PACSOA ; index « (LC, 2023) » ; SEO 55/137 | ≈ 2 430 | aucun | pilotes/espece-cycas-badensis-en.html, -en-note.md |
 | CYC10 | *Cycas basaltica* | 30148 | C | créée le 21/10/2026 (translation_of FR 26620 ; fr/it/en) ; protologue Gardner cité ; RBG Sydney, PACSOA (Butt 1990) ; SEO 50/151 | ≈ 3 170 | AU : RBG Sydney (S1990-2910, S2015-1275, sauvages) ; US, UK : aucun | pilotes/espece-cycas-basaltica-en.html, -en-note.md |
+| CYC11 | *Cycas bougainvilleana* | 30163 | C | créée le 21/10/2026 (translation_of FR 26622 ; fr/it/en) ; FR/IT sur Wikipédia → EN sur étiquettes d'herbier GBIF (type Sayers 1964, Bougainville, Nouvelle-Bretagne, Makira ; nom local « Diduna » ; usage noté en 1954) ; GBIF NT (Bösenberg 2023-1) ; index « (NT, 2023) » ; SEO 58/148 | ≈ 3 200 | UK : BGCI Kew ; US : Montgomery (3 acc.) ; AU : BGCI Cairns, RBG Sydney (bons d'herbier 2016, absente du Garden Explorer) | pilotes/espece-cycas-bougainvilleana-en.html, -en-note.md |
+| CYC11 | *Cycas brachycantha* | 30169 | C | créée le 21/10/2026 (translation_of FR 22089 ; fr/it/en) ; FR nettoyée le 13/10 (morphologie : Wikipédia, réserve gardée) ; GBIF VU ; spécimen Ba Bể 2001 (700 m) ; SEO 57/142 | ≈ 2 700 | US : BGCI San Diego BG ; UK, AU : aucun | pilotes/espece-cycas-brachycantha-en.html, -en-note.md |
+| CYC11 | *Cycas brunnea* | 30172 | C | créée le 21/10/2026 (translation_of FR 26624 ; fr/it/en) ; FR sur sources primaires ; GBIF NT ; étiquettes GBIF (6-8 m) ; PACSOA ; Dixon 2004 (non lu) ; Lavaud (règle 0d) ; SEO 54/147 | ≈ 3 250 | US : BGCI Naples ; UK, AU : aucun | pilotes/espece-cycas-brunnea-en.html, -en-note.md |
+| CYC11 | *Cycas cairnsiana* | 30181 | C | créée le 21/10/2026 (translation_of FR 26626 ; fr/it/en) ; FR sur sources primaires, IT (Ravenne) ; GBIF NT (2023-1) ; PDF Lavaud ; lettre Montgomery 2025 ; Arizona (Anderson 2012, via FdP) ; index « (NT, 2023) » ; SEO 50/145 | ≈ 4 280 | UK : BGCI Kew ; US : Montgomery (19 acc., 1994-2024) + 8 jardins BGCI ; AU : RBG Sydney (6 acc. sauvages, « Mt Surprise Sago »), Mount Annan (2), + 6 jardins BGCI | pilotes/espece-cycas-cairnsiana-en.html, -en-note.md |
+| CYC11 | *Cycas campestris* | 30201 | C | créée le 21/10/2026 (translation_of FR 26628 ; fr/it/en) ; FR/IT sur Wikipédia → EN sur étiquettes GBIF (type Jacobs & Conn 1990, Port Moresby 1918-1977 ; noms « Atolo », « Wakoro » ; usage noté en 1962) ; GBIF NT ; SEO 51/146 | ≈ 2 770 | US : Montgomery (2016) ; AU : BGCI Cairns ; UK : aucun | pilotes/espece-cycas-campestris-en.html, -en-note.md |
 
 Relevé du lot CYC01 (à traiter plus tard) :
 - FR 14377 / IT 14390 (*beddomei*) et FR 14394 / IT 14404 (*bifida*) sont de l'ancienne génération, jamais nettoyées : les fiches EN ont été rédigées sur sources primaires ; erreurs FR/IT listées dans les notes EN → retouche FR/IT à prévoir.
@@ -160,4 +165,13 @@ Relevé du lot CYC10 (21/10/2026) :
 - Liens EN posés vers les fiches du lot : *micronesica* 16385 et *rumphii* 16371 (→ *apoa*) ; *calcicola* 16487 (→ *arenicola*, *arnhemica*) ; *armstrongii* 16432, *arenicola* 30133, *angulata* 30111 (→ *arnhemica*) ; *angulata* 30111 (→ *badensis*) ; *media* 16423 (→ *basaltica*).
 - Lavaud : l'article EN 16530 ne cite aucune des 5 espèces (aucun lien en Further reading) ; le PDF 2021 ne les nomme pas, mais son classement collectif des espèces du Territoire du Nord vise *arenicola* et *arnhemica* (cité avec cette réserve) ; non cité pour *apoa*, *badensis*, *basaltica*.
 - Aucun retour de culture anglophone lisible ; aucune observation JZT pour les 5 espèces. WLoC (cycadlist.org) injoignable le 21/10 (connexion réinitialisée par le proxy) : faits WLoC repris des FR.
+
+Relevé du lot CYC11 (21/10/2026) :
+- Retouches préalables (signalées lors de CYC10) : *arenicola* FR 26609 / IT 28463 et *badensis* FR 26618 / IT 28472 (LC 2023-1 via GBIF + Crossref, divergence FoA « NT, 2022 » exposée ; index FR 1256 / IT 11549 « (LC, 2023) ») ; *apoa* FR 26605 / IT 28460 (statut 2023 appuyé sur GBIF/Crossref) ; page genre EN 16282 (phrase de décompte par année supprimée ; résumé par catégorie recompté : 20 CR, 26 EN, 27 VU, 15 NT, 23 LC, 7 NE) ; *calcicola* 16487 et *armstrongii* 16432 (lien Lavaud présenté comme article général ne traitant pas de l'espèce).
+- Fiches FR sources : *brunnea* et *cairnsiana* sur sources primaires ; *brachycantha* nettoyée le 13/10 (morphologie Wikipédia, réserve gardée) ; *bougainvilleana* et *campestris* reposant sur Wikipédia pour la description → EN rédigées sur les étiquettes d'herbier publiées par GBIF (FR/IT à reprendre).
+- Fiches C : aucune page EN préexistante (corbeille comprise) ni redirection ; groupes Polylang fr/it/en vérifiés (aucune ES) ; la FR garde l'IT.
+- Index genre EN 16282 : 5 lignes liées ; *bougainvilleana* et *cairnsiana* « (NT, 2010) » → « (NT, 2023) » (catégorie inchangée) ; brouillon genre aligné.
+- Liens EN posés vers les fiches du lot : *apoa* 30128, *micronesica* 16385, *rumphii* 16371 (→ *bougainvilleana*) ; *angulata* 30111 (→ *brunnea*) ; *thouarsii* 16378, *basaltica* 30148, *megacarpa* 16520, *media* 16423 (→ *cairnsiana*) ; aucune fiche EN ne cite *brachycantha* ni *campestris*.
+- Lavaud : article EN 16530 en Further reading pour *brunnea* (présenté comme article général, espèce non citée) et *cairnsiana* (citée comme candidate) ; PDF 2021 cité pour *brunnea* (conseils généraux) et *cairnsiana* (« difficile », climat de Mount Surprise, coléoptères).
+- Retours anglophones : seulement l'Arizona (*cairnsiana*, Anderson 2012, connu par un résumé FdP) ; aucune observation JZT pour les 5 espèces. WLoC injoignable le 21/10 (connexion réinitialisée, 503 via WebFetch) ; cycad.org 503 ; Wayback 429/connexion coupée ; BHL (Dixon 2004) et CSIRO (Hill 1994) non contournés.
 

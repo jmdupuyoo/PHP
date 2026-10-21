@@ -39,3 +39,6 @@ Aucune fiche EN (ni IT, ni ES) : rien à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26609, https://succulentes.net/cycadales/cycas/arenicola/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
+
+## Retouche du 21/10/2026 (signalée lors de CYC10, faite avant CYC11)
+- Statut UICN : réévaluation Ottley&Liddle, Liste rouge 2023-1 (doi revérifié sur Crossref le 21/10/2026) = **LC** d'après GBIF (API iucnRedListCategory, clé 2683227, consultée le 21/10/2026), au lieu d'« une encyclopédie en ligne » ; divergence avec la Flora of Australia (« NT, 2022 ») gardée, comme sur la page EN. replace_in_content sur 26609, simulation puis application, 5/5 : encadré, Statut, FAQ, source GBIF ajoutée (Sites de référence), annotation de la bibliographie. Index FR 1256 / IT 11549 : « (LC, 2010) » → « (LC, 2023) ». Brouillon aligné.
