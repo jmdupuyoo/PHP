@@ -18,7 +18,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - CYC14 : cupida C/FR26642 fait (21/10/2026, 30351), curranii C/FR26644 fait (21/10/2026, 30358), desolata C/FR26649 fait (21/10/2026, 30362), dharmrajii C/FR26651 fait (21/10/2026, 30369), distans C/FR26653 fait (21/10/2026, 30373) — lot CYC14 terminé le 21/10/2026
 - CYC15 : divyadarshanii C/FR26655 fait (21/10/2026, 30500), edentata C/FR26657 fait (21/10/2026, 30504), fairylakea C/FR21932 fait (21/10/2026, 30513), falcata C/FR26659 fait (21/10/2026, 30520), flabellata C/FR26661 fait (21/10/2026, 30524) — lot CYC15 terminé le 21/10/2026
 - CYC16 : fugax C/FR26663 fait (21/10/2026, 30586), furfuracea C/FR26680 fait (21/10/2026, 30589), glauca C/FR26684 fait (21/10/2026, 30596), hoabinhensis C/FR22042 fait (21/10/2026, 30600), indica C/FR26683 fait (21/10/2026, 30603) — lot CYC16 terminé le 21/10/2026
-- CYC17 : inermis C/FR26699, javana C/FR26687, lacrimans C/FR26690, lane-poolei C/FR26681, laotica C/FR22052
+- CYC17 : inermis C/FR26699 fait (21/10/2026, 30618), javana C/FR26687 fait (21/10/2026, 30623), lacrimans C/FR26690 fait (21/10/2026, 30628), lane-poolei C/FR26681 fait (21/10/2026, 30633), laotica C/FR22052 fait (21/10/2026, 30642) — lot CYC17 terminé le 21/10/2026
 - CYC18 : lingshuigensis C/FR21921, maconochiei C/FR26682, macrocarpa C/FR26696, mindanaensis C/FR26692, montana C/FR26685
 - CYC19 : nathorstii C/FR26688, nayagarhensis C/FR26697, nitida C/FR26691, nongnoochiae C/FR26717, ophiolitica C/FR26715
 - CYC20 : orientis C/FR26700, orixensis C/FR26694, pachypoda C/FR22073, papuana C/FR26712, petraea C/FR26719

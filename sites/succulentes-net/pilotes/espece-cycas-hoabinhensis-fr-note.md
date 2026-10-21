@@ -23,3 +23,8 @@
 - 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 8 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du 21/10/2026 (0c avant CYC17, signalé lors de CYC16)
+- Faits tirés de Wikipédia seule retirés (aucune source primaire accessible : Liste rouge bloquée, protologue payant) : nom vietnamien « tuế Hòa Bình » (encadré, Noms communs), aires protégées nommées (Cúc Phương, Hương Tích, Thượng Tiến), prélèvements pour l'ornement à Hanoï (Statut, Usages). Reste sourcé : « au moins une aire protégée » (plan d'action UICN 2003, encadré et FAQ) ; exploitation parmi les causes du déclin d'après les critères A2acd+4acd (WLoC). Références Wikipédia EN et VI supprimées ; mention « résumée par Wikipédia » retirée de la référence Nguyễn 2010.
+- Jardins BGCI ajoutés (Culture et Sites de référence) : Royal Botanic Garden Sydney, San Diego Botanic Garden (Encinitas), recherche BGCI du 21/10/2026 (EN 30600), présentés comme déclarations.
+- replace_in_content simulé (10 attendus, 10) puis appliqué, plus 1 remplacement complémentaire (phrase Wikipédia restante du Statut, simulé 1, appliqué 1) ; brouillon aligné ; plus aucune mention de Wikipédia.

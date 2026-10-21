@@ -47,3 +47,8 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Points à valider par le propriétaire
 1. Protologue non lu : aucune mesure botanique ; fiche bâtie sur WLoC, statuts et forum. Le PDF de Hill et al. 2004 permettrait de compléter « Comment reconnaître ».
 2. Section *Stangerioides* : extrait + forum seulement, présenté comme non vérifié.
+
+## Retouche du 21/10/2026 (0a avant CYC17, signalé lors de CYC16)
+- Réévaluation UICN ajoutée : T.H. Nguyen, Liste rouge 2023-1, e.T42039A68901336, doi:10.2305/IUCN.UK.2023-1.RLTS.T42039A68901336.en (Crossref : titre « Cycas fugax: Nguyen, T.H. » ; GBIF clé 2683263 : CR, iucnTaxonID 42039). L'évaluation Osborne et al. 2010-3 (A165418490) devient l'évaluation précédente (critères A2cd ; B1ab(i,ii,iii,v), « peut-être éteint »). Encadré, Statut, FAQ et Bibliographie corrigés.
+- Wikipédia retirée (seule source de la mention de Hanoï et d'une culture courante dans la capitale ; aucune source primaire trouvée) : phrase de « Dans la nature » et référence supprimées, comme sur l'EN 30586.
+- replace_in_content simulé (6 attendus, 6) puis appliqué (6) ; brouillon aligné. Index FR 1256 : « (CR, 2010) » → « (CR, 2023) » (simulé 1, appliqué 1 ; brouillon genre-cycas-fr.html aligné).

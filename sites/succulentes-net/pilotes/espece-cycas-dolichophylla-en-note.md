@@ -39,3 +39,6 @@
 
 ## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
 - Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 7 remplacement(s) sur la page 16497, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).
+
+## Retouche du 21/10/2026 (0e avant CYC17)
+- Lien *pectinata* (perdu en 0c) reposé dans la Taxonomie par une phrase sourcée (Hill 2008, texte intégral relu : section *Indosinenses* = cônes mâles rigides ou ligneux, couche fibreuse dans la sarcotesta ; *pectinata* n° 21 de cette section). Simulé 1, appliqué 1 ; brouillon aligné.

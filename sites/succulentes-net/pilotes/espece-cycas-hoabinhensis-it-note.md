@@ -44,3 +44,8 @@
 - Contrôles fiche : verify.py — texte identique au brouillon, 10 liens (tous IT, 200), URL 200, aucun commentaire visible, 104/104 blocs, hreflang fr/it ; User-Agent curl et Chrome : 200, même taille, `<title>` « Cycas hoabinhensis: la cicadea di Hòa Bình in Vietnam » ; aucune page de spam.
 
 - 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.
+
+## Ritocco del 21/10/2026 (0c prima di CYC17, segnalato in CYC16)
+- Rimossi i fatti tratti dalla sola Wikipedia : nome vietnamita, aree protette nominate, raccolta per l'ornamento ad Hanoi (intro, encadré, Nomi comuni, In natura, Stato, Coltivazione, Usi, FAQ ×2). Restano : almeno un'area protetta (piano d'azione IUCN 2003) ; sfruttamento tra le cause del declino secondo i criteri (WLoC). Riferimenti Wikipedia EN e VI eliminati.
+- Aggiunti i giardini BGCI (Royal Botanic Garden Sydney, San Diego Botanic Garden), come dichiarazioni (ricerca del 21/10/2026).
+- replace_in_content simulato (14 attesi, 14) poi applicato (14) ; bozza allineata.

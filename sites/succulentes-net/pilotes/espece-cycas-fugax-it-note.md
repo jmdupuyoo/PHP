@@ -25,3 +25,8 @@
 ## Liens croisés (fin de lot, 12/10/2026)
 
 - Aucune fiche ni article IT ne cite cette espèce (hors page genre, déjà liée).
+
+## Ritocco del 21/10/2026 (0a prima di CYC17, segnalato in CYC16)
+- Aggiunta la rivalutazione IUCN di T.H. Nguyen (Lista rossa 2023-1, e.T42039A68901336, DOI verificato su Crossref ; GBIF : CR). Valutazione Osborne et al. 2010-3 presentata come precedente. Encadré, Stato, FAQ e Bibliografia corretti.
+- Wikipedia rimossa (unica fonte su Hanoi e sulla coltivazione nella capitale) : frase di « In natura » e riferimento eliminati.
+- replace_in_content simulato (6 attesi, 6) poi applicato (6) ; bozza allineata. Indice IT 11549 : « (CR, 2010) » → « (CR, 2023) » (1/1 ; bozza genre-cycas-it.html allineata).

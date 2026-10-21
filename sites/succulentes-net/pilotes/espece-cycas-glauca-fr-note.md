@@ -60,3 +60,6 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 - Index de la page genre FR 1256 : « Timor oriental, Indonésie ; en danger critique (CR, année non vérifiée) » → « Timor oriental, Indonésie (Timor occidental, Sumba) ; en danger critique (CR, 2023) » (dry run 1 remplacement puis application).
 - **À signaler pour l'IT 28633 (non modifiée)** : catégorie CR désormais datée (réévaluation 2023-1 via GBIF/Crossref) ; page « anno non verificato » de l'index IT 11549 à mettre à jour ; observation de Lautém (2003) sur WLoC.
 - Points douteux : catégorie de l'évaluation de 2010 ; recommandation « VU » de 2009 face au CR actuel (critères non lus).
+
+## Retouche du 21/10/2026 (0b avant CYC17, signalé lors de CYC16)
+- Culture : « Son milieu, une forêt tropicale à saison sèche marquée, indique une plante de serre chaude en France, sur un substrat drainant » (non sourcé ; retiré de l'IT le 18/10) remplacé par une déduction explicite : îles tropicales, récoltes jusque vers 415 m (Lindström et al. 2009) → serre chaude « déduction qu'aucune source n'énonce » ; aucun substrat recommandé (argile dans la nature). Simulé 1, appliqué 1 ; brouillon aligné.
