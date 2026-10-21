@@ -60,3 +60,6 @@
 - Statut inchangé (VU 2022, correction 2023) : index page genre IT 11549 conforme (« vulnerabile (VU, 2022) »), non modifié. SEO inchangé.
 - Contrôles : verify.py — texte identique, 16 liens même séquence tous en 200, blocs 114/114, aucun commentaire visible, hreflang fr/it/en ; curl et User-Agent Chrome : 200, `<title>` « Cycas armstrongii: la cicadea decidua dei dintorni di Darwin » (aucun cloaking).
 - **À signaler pour la FR 21562** : elle écrit que la date de décès de 1847 « n'est confirmée par aucune source consultée » ; l'ANBG (Orchard 1999, George 2009) la confirme (21/01/1847, Kupang) — divergence avec WLoC/Haynes à exposer en FR aussi.
+
+## Retouche du 21/10/2026 (nom anglais « fire fern »)
+- Nom anglais « fire fern » désormais mentionné comme attesté (encadré, Noms communs, Sites de référence) : L. P. Butt, Palms & Cycads n° 27 (1990), repris sur le wiki PACSOA (page Cycas armstrongii, citation relue le 21/10/2026 : « The rejuvenating new fronds of both Cycas armstrongii and Cycas calcicola are referred to locally as "fire-fern" ») ; étiquette du Royal Botanic Garden Sydney, Garden Explorer taxon-858 (« Zamia Palm, fire fern », relue le 21/10/2026). Présenté comme nom anglais, sans équivalent italien attesté. replace_in_content ciblé (simulation puis application) ; brouillon aligné.

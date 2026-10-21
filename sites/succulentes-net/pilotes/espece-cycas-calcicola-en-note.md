@@ -36,3 +36,6 @@
 
 ## Points douteux
 - Repris de la FR : substrat basaltique (Lavaud) contre Hill/FoA ; protection NT non vérifiée ; Liste rouge et POWO non consultés ; protologue non consulté.
+
+## Suivi (21/10/2026)
+- Retouche FR 21857 / IT 28499 faite : « fire fern » y figure désormais comme nom anglais attesté (PACSOA/Butt 1990).

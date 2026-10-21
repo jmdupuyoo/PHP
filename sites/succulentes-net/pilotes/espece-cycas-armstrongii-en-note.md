@@ -46,3 +46,6 @@
 ## Points douteux
 - Holotype K ou U ; présence à Cobourg (Dixon 2004 non lu) ; dates de John Armstrong (divergence exposée) ; Liste rouge non consultée (Cloudflare) ; POWO non consulté.
 - Année Montgomery déduite du numéro 96290 (format court, présumé AA + n°).
+
+## Suivi (21/10/2026)
+- Point « nom commun » réglé : FR 21562 et IT 28466 (ainsi que FR/IT calcicola) mentionnent désormais « fire fern » comme nom anglais attesté (PACSOA/Butt 1990, étiquette RBG Sydney).

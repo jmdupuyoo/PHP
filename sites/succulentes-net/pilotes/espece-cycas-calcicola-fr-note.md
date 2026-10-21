@@ -20,3 +20,6 @@ Fiche ancienne (25/05/2026, modifiée le 10/10 pour l'article Lavaud), sans brou
 - Mise en garde FDP 2010 : il s'agissait de *Cycas siamensis* vendus sous les noms de *pruinosa* et *calcicola* (l'IT dit seulement « la même plante »).
 - Isotypes (BRI, CANB, K, L, PERTH) d'après Hill 1996.
 - Page genre IT 11549 : « VU, 2022 » à harmoniser (évaluation 2021, Liste rouge 2023-1).
+
+## Retouche du 21/10/2026 (nom anglais « fire fern »)
+- Nom anglais « fire fern » désormais mentionné comme attesté (encadré, Noms communs, FAQ, Sites de référence) : L. P. Butt, Palms & Cycads n° 27 (1990), repris sur le wiki PACSOA (page Cycas armstrongii, citation relue le 21/10/2026 : « The rejuvenating new fronds of both Cycas armstrongii and Cycas calcicola are referred to locally as "fire-fern" »). Présenté comme nom anglais, sans équivalent français attesté. replace_in_content ciblé (simulation puis application) ; brouillon aligné.

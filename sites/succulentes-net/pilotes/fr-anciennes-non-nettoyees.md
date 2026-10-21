@@ -30,3 +30,9 @@ Lots de 5 d'un même genre, un seul lot à la fois ; pour chaque espèce : FR d'
 | AE3 | Encephalartos transvenosus 2502 fait (20/10/2026), trispinosus 2492 fait (20/10/2026), woodii 10803 fait (20/10/2026), villosus 12642 fait (20/10/2026), hildebrandtii 12423 fait (20/10/2026) |
 | AE4 | Encephalartos whitelockii 12023 fait (20/10/2026), paucidentatus 12001 fait (21/10/2026), middelburgensis 11822 fait (21/10/2026), inopinus 7258 fait (21/10/2026), sclavoi 5560 fait (21/10/2026) |
 | AE5 | Encephalartos ituriensis 12619 fait (21/10/2026), laurentianus 12515 fait (21/10/2026), kisambo 12464 fait (21/10/2026) |
+
+## Complément découvert en phase EN (21/10/2026)
+| Lot | Fiches |
+|---|---|
+| AC4 | Cycas debaoensis FR 5683 / IT 11764 (ancienne génération, jamais vérifiée ; erreurs listées dans pilotes/espece-cycas-debaoensis-en-note.md ; EN 16403 réécrite le 21/10 depuis les sources primaires) |
+| AC5 | *hainanensis* et *taiwaniana* : traitent encore *C. changjiangensis* comme synonyme (contraire à WLoC) — à vérifier en FR/IT avant CYC04/CYC07 |
