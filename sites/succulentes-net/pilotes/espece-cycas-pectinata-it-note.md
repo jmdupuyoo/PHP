@@ -25,3 +25,6 @@
 
 ## Points douteux (repris de la FR)
 - Choix taxonomique (WLoC, séparation de 2020) ; aire POWO de *C. pectinata* non vue ; issue de la proposition de conservation (Taxon 2018) non vérifiée ; divergence d'altitude exposée.
+
+## Ritocco del 21/10/2026 (segnalato durante CYC06)
+- replace_in_content (simulazione 5, applicazione 5): stato IUCN attuale **Bösenberg, Lista rossa 2023-1** (VU; Crossref 10.2305/IUCN.UK.2023-1.RLTS.T42062A69154502.en; GBIF VULNERABLE, riletto il 21/10) nel riquadro, nello Stato e nella FAQ, con Nguyen 2010 come valutazione precedente; riferimento Bösenberg (2023) aggiunto alla bibliografia; OEPP «aggiornamento del 16 ottobre 2026». Nessun rinvio alla versione inglese da togliere. Indice IT 11549 «(VU, 2023)» (1/1). Bozza allineata, pagina identica online (200).

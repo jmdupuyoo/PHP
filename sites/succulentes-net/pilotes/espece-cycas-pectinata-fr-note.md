@@ -56,3 +56,6 @@
 4. La fiche FR *Cycas chamaoensis* (21828) donne à *C. pectinata* une aire de l'Inde au Vietnam (sens large) ; *C. elephantipes* y est situé « province de Loei » (faux : Chaiyaphum).
 5. Encadré : rusticité, exposition en culture et noms français non documentés.
 6. Aucune donnée nationale française.
+
+## Retouche du 21/10/2026 (signalée lors de CYC06)
+- replace_in_content (simulation 7, application 7) : statut UICN actuel **Bösenberg, Liste rouge 2023-1** (VU ; Crossref 10.2305/IUCN.UK.2023-1.RLTS.T42062A69154502.en, évaluation du 20/11/2020 ; GBIF : VULNERABLE, iucnTaxonID 42062, relu le 21/10) dans l'encadré, le Statut et la FAQ, Nguyen 2010 gardé comme évaluation précédente ; référence Bösenberg (2023) ajoutée à la bibliographie ; renvois devenus obsolètes à « la version anglaise de cette fiche » retirés (Noms communs, Rusticité) ; OEPP « mise à jour du 16 octobre 2026 » (page relue le 21/10). La phrase sur la version espagnole (aire POWO) est conservée. Index FR 1256 « (VU, 2023) » (1/1). Brouillon aligné, page identique en ligne (200, `<title>` correct).
