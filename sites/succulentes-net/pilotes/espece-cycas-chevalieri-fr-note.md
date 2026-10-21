@@ -20,3 +20,10 @@
 - Vérifications (verify.py) : URL 200 ; aucun commentaire de bloc visible ; 103 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-cycas-chevalieri-fr.html`, même séquence de 8 liens.
 - À signaler pour l'IT 28528 (non modifiée) : nom « Cây ngen » confirmé visuellement sur le scan ; WLoC cite Nguyen 2010 pour les critères A4acd; B1ab(...) tout en liant l'évaluation 2023 (la fiche IT les attribue à 2023 sans réserve) ; de Laubenfels & Adema 1998 incluent aussi *C. micholitzii* var. *simplicipinna* dans *Epicycas tonkinensis*.
 - Points douteux : description moderne (Hill et al. 2004) non lue ; récolte du « Tonkin occidental » hors aire actuelle ; Laos (Wikipédia seule) ; attribution des critères UICN.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol, BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
+
+## Compléments du 21/10/2026 (retouche 0c, signalée lors de CYC12, comme l'EN 18748)
+- Ajouts (replace_in_content ciblé, simulation 8, application 8) : habitats des étiquettes d'herbier publiées par GBIF (clé 2683281, relues le 21/10 : Hương Sơn et Rao An, Hà Tĩnh 1998, 448 et 1 025 m ; Tương Dương, Nghệ An 2007, 250-450 m ; Phong Nha–Kẻ Bàng, Quảng Bình 2005, calcaire, 560 et 225 m) dans « Dans la nature », l'encadré (Exposition et substrat) et la FAQ « Où pousse-t-il ? » ; fiche du lectotype P02088576 (« donné par M. Auguste Chevalier en 1943 ») en Taxonomie ; déduction de culture présentée comme telle ; BGCI PlantSearch (API relue le 21/10 : 2 jardins, Fairy Lake Shenzhen et Marimurtra Blanes, aucun jardin français) en Culture ; GBIF occurrences et BGCI en Sites de référence.
+- Incohérence de date WLoC (20/05/1841, Chevalier né en 1873) : déjà signalée dans la Taxonomie (inchangée).
+- Toxicité : chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée le même jour (retouche 0b).

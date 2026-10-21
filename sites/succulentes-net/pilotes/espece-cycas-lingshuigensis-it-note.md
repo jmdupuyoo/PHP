@@ -38,3 +38,5 @@
 - Index genre IT 11549 : pas d'entrée propre ; l'entrée *taiwaniana* qui porte le lien de cette fiche a été alignée lors de la correction de *hainanensis* le même jour (« (EN, 2023) ») ; aucune autre modification.
 - Contrôles fiche : verify.py — texte identique au brouillon (3 083 mots), 14 liens (tous IT, 200), URL 200, aucun commentaire visible, 106/106 blocs, hreflang fr/it ; User-Agent curl et Chrome : 200, même taille, `<title>` « Cycas lingshuigensis: il nome, la storia e la sinonimia » ; aucune page de spam.
 - Points douteux maintenus : protologue de Fu non lu ; aucune donnée morphologique propre aux plantes de Lingshui ; présence de populations de Lingshui dans l'échantillon de Wu 2022 inconnue.
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

@@ -53,3 +53,5 @@
 - SEO : titre inchangé (55) ; meta modifiée (143, « description, habitat »).
 - Contrôles : verify.py texte identique au rendu, 12 liens, URL 200, aucun commentaire visible, blocs 88/88, hreflang FR/EN/IT conservés, liens internes 200.
 - Index genre 1256 : « Vietnam » → « Vietnam (côte sud, de Khanh Hoa à Ba Ria-Vung Tau) » ; (EN, 2022) conforme.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol, BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

@@ -45,3 +45,5 @@
 - Index genre IT 11549 : « Cina (Yunnan); … (CR, 2010) » → « Cina (sud-est dello Yunnan, valle del Fiume Rosso); … (CR, 2023) » (comme l'index FR ; simulation 1, application 1) ; brouillon genre aligné ; verify.py genre : texte identique, 130 liens, 135/135 blocs ; User-Agent curl et Chrome : `<title>` correct.
 - Contrôles fiche : verify.py — texte identique au brouillon, 14 liens (tous IT, 200), URL 200, aucun commentaire visible, 108/108 blocs, hreflang fr/it/en/es ; User-Agent curl et Chrome : 200, même taille, `<title>` « Cycas hongheensis: la cicadea del Fiume Rosso nello Yunnan » ; aucune page de spam.
 - Point douteux maintenu : localisation de la population du mont Dawei (Zheng 2017) face à Wu 2021.
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

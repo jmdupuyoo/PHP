@@ -38,3 +38,5 @@
 
 ## FR/IT à reprendre (hors lot)
 - FR 26165 / IT 28793 : UICN « (Nguyen, 2010) » → évaluation actuelle Bösenberg 2023 (VU) ; index FR 1256 / IT 11549 « (VU, 2010) » → 2023 ; les phrases sur « la version anglaise de cette fiche » (« Himalayan cycad », classes de rusticité, « le plus rustique des Cycas tropicaux d'Asie ») et la note sur l'aire ES deviennent obsolètes après la réécriture EN ; MSU (« pectinate sago palm », 26 °F, sens large) peut être cité. FR : OEPP daté du 27/09.
+
+- 21/10/2026 (CYC13) : lien vers *Cycas clivicola* EN 30309 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content ciblé, simulation 1, application 1) ; brouillon aligné.

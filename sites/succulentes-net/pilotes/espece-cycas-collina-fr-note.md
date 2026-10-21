@@ -18,3 +18,5 @@
 - **À signaler pour l'IT 28536 (non modifiée)** : réévaluation UICN 2023-1 (T.H. Nguyen & A. Lindström, CR) absente de la fiche IT, qui présente la valutazione 2010 comme seule ; zone USDA 9b de Trebrown (fiche existante) non citée en IT.
 - À signaler pour la page genre FR 1256 (non modifiée, hors lot) : l'index donne pour *collina* « Vietnam ; … CR, 2010 » (il faudrait Chine (Yunnan) et Vietnam ; réévaluation 2023) et pour *chenii* « sans évaluation datée » (évaluation Zhou & Gong 2023-1).
 - Points douteux : attribution des critères A2ace+4ace (2010 ou 2023) ; noms chinois rattachés par déduction de la taxonomie de Hill ; protologue non lu.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol, BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

@@ -42,3 +42,5 @@
 - Rien retiré. Statut inchangé (LC). SEO inchangé.
 - Index genre IT 11549 : « Vietnam; minor preoccupazione (LC, 2010, confermata nel 2023) » → « Vietnam (arcipelago di Côn Đảo); minor preoccupazione (LC, 2023) » (format « (LC, 2023) » de la consigne, aligné sur l'index FR ; simulation 1, application 1) ; brouillon genre aligné ; verify.py genre OK (130 liens, 135/135 blocs) ; User-Agent curl et Chrome : `<title>` correct.
 - Contrôles fiche : verify.py — texte identique au brouillon, 12 liens (tous IT, 200), URL 200, aucun commentaire visible, 92/92 blocs, hreflang fr/it/es ; User-Agent curl et Chrome : 200, même taille, `<title>` « Cycas condaoensis: la cicadea delle isole di Côn Đảo » ; aucune page de spam.
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

@@ -38,3 +38,5 @@
 
 ## Page EN 16350 (non modifiée) : erreurs relevées
 - « Closely allied to *C. pectinata* » (Hill 2008 : section distincte, *Panzhihuaenses*) ; « to 6 m or more in the wild » (Hill : 1-2(-3) m) ; « 799 km² » attribué à l'étude MaxEnt 2025 (c'est l'habitat très favorable de Yang et al. 2026) ; lien UICN « species/42089 » (taxon 42078) ; citations Plant Delights et LLIFLE non vérifiées ; usage comme aliment de famine pendant les « trois années difficiles » non sourcé ; « defoliates below −8 °C » présenté comme règle.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

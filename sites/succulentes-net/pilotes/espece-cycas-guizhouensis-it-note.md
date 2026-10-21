@@ -28,3 +28,5 @@
 
 ## Ritocco del 21/10/2026 (segnalato durante CYC04)
 - Rusticità : « × *guizhouensis* » → « × *Cycas guizhouensis* » (2 occorrenze). replace_in_content sur 11650 : simulation 2, application 2 ; brouillon aligné.
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

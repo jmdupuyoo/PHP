@@ -25,3 +25,5 @@
 
 ## Punti dubbi
 - Lettura della frase di Pedara; identità delle piante dei forum.
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

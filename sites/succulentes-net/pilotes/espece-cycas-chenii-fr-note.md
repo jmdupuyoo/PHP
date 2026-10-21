@@ -19,3 +19,5 @@
 - Vérifications (verify.py) : URL 200 ; aucun commentaire de bloc visible ; 99 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-cycas-chenii-fr.html`, même séquence de 10 liens.
 - **À signaler pour l'IT 28525 (non modifiée)** : l'évaluation UICN existe et est datée — W. Zhou & X. Gong, Liste rouge version 2023-1 (évaluation enregistrée le 23/04/2020 selon Crossref), e.T103632155A103632285, EN ; la fiche IT dit « senza anno indicato » / sans auteur.
 - Points douteux : protologue non lu (pas de description chiffrée) ; altitude 500-1300 m (protologue via Yang 2017) contre 489-1600 m (populations échantillonnées).
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol, BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

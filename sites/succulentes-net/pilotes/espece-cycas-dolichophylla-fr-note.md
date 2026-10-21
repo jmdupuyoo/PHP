@@ -55,3 +55,5 @@
 5. Aucune donnée nationale : aucune zone française, aucun épisode hivernal.
 
 - 21/10/2026 (retouche signalée lors de CYC03) : statut UICN mis à jour — réévaluation J.D. Bösenberg publiée dans la Liste rouge 2023-1 (Crossref 10.2305/IUCN.UK.2023-1.RLTS.T42053A68900008.en, réalisée 2020 ; GBIF 2683212 : NT, consulté le 21/10) au lieu de Nguyen 2010 ; encadré, Statut, FAQ, ligne WLoC, ajout GBIF (Sites) et Bösenberg 2023 (Bibliographie) ; replace_in_content simulation 6 puis application 6 ; index FR 1256 « (NT, 2023) » (avec elongata, 2/2) ; brouillon aligné (texte identique au contenu en ligne). Critères 2023 inconnus (Liste rouge bloquée).
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol, BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

@@ -29,3 +29,5 @@
 - Lien reçu de *Cycas aenigma* 28448 (Malattie e parassiti). Mention dans le corps de la page genre (section *Wadeae*) laissée sans lien, comme pour les lots précédents (seul l'index est lié).
 
 - 12/10/2026 (lot Cycas divyadarshanii–elongata) : lien vers *Cycas edentata* (28588) posé à la première occurrence (Possibili confusioni) par replace_in_content ciblé ; brouillon aligné.
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

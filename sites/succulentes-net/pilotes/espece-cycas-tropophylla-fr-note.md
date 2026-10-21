@@ -16,3 +16,5 @@
 - Index genre 1256 : « Vietnam ; vulnérable (VU, année non indiquée ; quasi menacée en 2010) » → « Vietnam (baie d'Ha Long et île de Cát Bà) ; vulnérable (VU, 2023) » (dry run 1 remplacement, appliqué).
 - **À signaler pour l'IT 28986 (non modifiée)** : rien de nouveau tiré d'une source primaire ; l'IT dit « pliées à V » (« piegate a V ») d'après l'étymologie, formule que la FR *sexseminifera* tient pour non confirmée.
 - Points douteux : mesures et description du protologue inconnues ; section ; catégorie UICN 2010 ; identité des plantes et de l'hybride du commerce.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

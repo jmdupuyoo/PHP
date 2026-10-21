@@ -20,3 +20,5 @@
 
 ## Points douteux
 - Année exacte du −7 °C de Sabaudia (décembre précédant novembre 2011 ; non écrite). Présence actuelle à Palerme non vérifiée.
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

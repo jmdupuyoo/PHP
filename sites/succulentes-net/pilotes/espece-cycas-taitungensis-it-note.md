@@ -22,3 +22,5 @@
 - Rusticité du feuillage vs stipe : retours contradictoires (Var −7 °C sans dégâts ; Béarn dégâts à −5/−6 °C) ; conditions différentes, signalé.
 - Fujian (dL&A 1998) non repris par Hill 2008 ni WLoC, mentionné comme tel.
 - Protologue (Bot. Bull. Acad. Sin. 35) non consulté ; Liste rouge UICN non consultée (Cloudflare), catégorie via GBIF/WLoC.
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

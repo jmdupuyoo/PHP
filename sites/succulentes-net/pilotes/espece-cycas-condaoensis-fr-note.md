@@ -21,3 +21,5 @@
 - Index de la page genre FR 1256 : ligne modifiée (replace_in_content, dry run 1 remplacement puis application) : « Vietnam (archipel de Côn Đảo) ; préoccupation mineure (LC, 2023) » (au lieu de « Vietnam ; … (LC, 2010) »). Brouillon local genre-cycas-fr.html (03/10) non aligné.
 - IT 28540 : rien à signaler de nouveau (Bösenberg 2023-1 déjà cité) ; seule la mention des fruits en collection carpologique (W) et la zone 9b de Trebrown n'y figurent pas.
 - Points douteux : habitat, dimensions, effectifs inconnus (protologue et fiche UICN non lus) ; place dans *Indosinenses* et proximité de *siamensis* reposant sur Hill 2004 non consulté ; identité du collecteur « Pierre, L ».
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol, BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

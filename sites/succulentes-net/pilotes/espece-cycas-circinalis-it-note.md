@@ -36,3 +36,5 @@
 - Nessuna delle piante italiane chiamate *Cycas circinalis* è stata verificata; i riscontri di rusticità riguardano piante di identità incerta (probabilmente *C. thouarsii* o complesso *rumphii*).
 - Divergenza Raju & Rao 2011 / L&H 2007 e dL&A 1998 sul galleggiamento dei semi non risolta.
 - Le citazioni del vivaista francese (FdP 2019) sono rese in parafrasi italiana, non tra virgolette.
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

@@ -45,3 +45,10 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26634, https://succulentes.net/cycadales/cycas/cantafolia/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
+
+## Retouche du 21/10/2026 (signalée lors de CYC12, faite avant CYC13)
+- *Cycas litoralis* n'est plus présenté comme une espèce : « Confusions possibles » dit qu'il s'agit du nom de la clé de Jutta et al. (2010), aujourd'hui synonyme de *Cycas edentata* selon The World List of Cycads ; le lien vers la fiche FR *edentata* est déplacé sur cette première occurrence (retiré de « Noms communs »).
+- Statut UICN : VU d'après GBIF (API iucnRedListCategory, clé 7511589, consultée le 21/10/2026), évaluation Jutta & Lindström, Liste rouge 2023-1 (e.T66901446A66901459, vérifiée sur Crossref) au lieu de « n'a pas pu être lue » : intro, encadré, Statut, FAQ, GBIF en Sites de référence, Jutta & Lindström 2023 en Bibliographie. Point 1 ci-dessus caduc.
+- replace_in_content ciblé (simulation 8, application 8). Index FR 1256 déjà à « vulnérable (VU, 2023) » (vérifié par simulation, 1 occurrence, rien modifié).
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol, BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

@@ -40,3 +40,5 @@
 
 ## Points douteux
 - Identité réelle des « Cycas circinalis » de Palerme, Naples, Rome, Pise, Padoue, RBGE : non vérifiée. Divergence sur les graines flottantes (Raju & Rao vs L&H/dL&A) non tranchée. Date du message Au jardin (Carcassonne) non trouvée.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

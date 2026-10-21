@@ -18,3 +18,5 @@
 - Index de la page genre FR 1256 : pas d'entrée propre ; l'entrée *Cycas taiwaniana*, qui porte le lien de cette fiche, a été mise à jour lors du nettoyage de *hainanensis* (« (EN, 2010) » → « (EN, 2023) ») ; aucune autre divergence, pas de nouvelle modification.
 - **À signaler pour l'IT 28685 (non modifiée)** : *C. lingshuigensis* figure en synonyme de *C. taiwaniana* dans les données UICN actuelles (GBIF) ; *shanyaensis* hors de l'étude de Feng 2021 (l'IT ne dit pas le contraire) ; Wu 2022 lisible en texte intégral (monts Wuzhi et Yingge).
 - Points douteux : protologue de Fu non lu ; aucune donnée morphologique propre aux plantes de Lingshui ; présence des populations de Lingshui dans l'échantillon de Wu 2022 inconnue.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

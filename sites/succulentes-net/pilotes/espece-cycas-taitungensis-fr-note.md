@@ -48,3 +48,5 @@
 
 ## Points douteux
 - Date de l'épisode à −7 °C au JZT (non indiquée). Présence au Fujian selon de Laubenfels & Adema (non retenue ailleurs). Identité des plantes vendues sous « taiwaniana ». Le tanka (contenu non factuel) laissé en place.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

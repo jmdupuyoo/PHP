@@ -31,3 +31,5 @@
 - Lien reçu : *C. chamaoensis* 28519 (Possibili confusioni, liste) par replace_in_content ciblé (dry run puis application) ; brouillon local aligné. *C. dolichophylla* 28585 ne cite que le titre du fil FDP « Cycas Elephantipes ? » (pas de lien). Articles IT : seuls des articles sur *Yucca elephantipes*.
 
 - 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas pachypoda* (28778), *Cycas petraea* (28803) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

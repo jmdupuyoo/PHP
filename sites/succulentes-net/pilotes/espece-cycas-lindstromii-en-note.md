@@ -25,3 +25,5 @@
 
 ## Points douteux
 - Protologue et Hill et al. 2004 non lus (dimensions de de Laubenfels & Adema seules) ; catégorie de l'évaluation 2010 ; années Montgomery déduites des numéros ; BGCI ne prouve pas une plante vivante.
+
+- 21/10/2026 (CYC13) : lien vers *Cycas condaoensis* EN 30323 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content ciblé, simulation 1, application 1) ; brouillon aligné.

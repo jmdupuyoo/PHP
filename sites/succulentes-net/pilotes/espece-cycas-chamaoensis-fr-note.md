@@ -21,3 +21,5 @@
 - Vérifications (verify.py) : URL 200 ; aucun commentaire de bloc visible ; 116 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-cycas-chamaoensis-fr.html`, même séquence de 13 liens.
 - Pour l'IT 28519 (non modifiée) : rien de nouveau à reporter ; la définition du cône « chiuso » (« le foglie fertili restano serrate sopra la gemma ») n'est pas donnée par Jutta 2010. Le rapport DOA cite une étude de 2011 consacrée à l'impact du commerce sur l'espèce (Yodying Sonsuphap, registre DOA 03-11-54-01-00-00-02-54), non lue.
 - Points douteux : morphologie fine reposant sur Wikipédia EN ; province (Rayong / Chanthaburi) ; Liste rouge non consultée directement ; transcription « prong khao chamao » faite par la rédaction.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol, BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

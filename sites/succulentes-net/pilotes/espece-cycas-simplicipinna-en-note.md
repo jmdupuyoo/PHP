@@ -28,3 +28,5 @@
 
 ## Points douteux
 - Hill & Yang 1999 et Hill et al. 2004 non lus ; présence en Chine (Hill 2008 contre WLoC/Kunming) ; conseils de culture de LLIFLE seuls.
+
+- 21/10/2026 (CYC13) : lien vers *Cycas collina* EN 30316 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content ciblé, simulation 1, application 1) ; brouillon aligné.

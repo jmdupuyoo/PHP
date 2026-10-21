@@ -39,3 +39,5 @@
 
 ## Points douteux
 - Lieu de dépôt de l'holotype (Chengdu selon le protologue, IBSC selon Hill et WLoC). Étymologie : « municipalité de Diannan » (Haynes, Hill) vs lecture « sud du Yunnan » du nom chinois (signalée comme lecture, non sourcée). Année du −7 °C de Sabaudia (décembre précédant novembre 2011, donc probablement 2010 : non écrit dans la fiche). Identité de la plante de Menton non vérifiable. Catégorie de l'évaluation Hill 2010 non vérifiée (non indiquée).
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

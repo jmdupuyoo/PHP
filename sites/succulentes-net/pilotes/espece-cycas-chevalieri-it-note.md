@@ -49,3 +49,9 @@
 - Polylang : non touché (traductions FR 21892 et EN 18748 à la corbeille laissées telles quelles, conformément à la consigne) ; hreflang de la page IT : fr + it.
 - Statut inchangé ; index page genre IT 11549 « vulnerabile (VU, 2023) » conforme à l'index FR (non modifié) ; SEO inchangé (titre et meta toujours exacts).
 - Contrôles : verify.py — texte identique, 8 liens même séquence tous en 200, blocs 106/106, aucun commentaire visible ; curl et User-Agent Chrome : 200, `<title>` « Cycas chevalieri: la cicadea di Chevalier del Vietnam » (aucun cloaking).
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.
+
+## Integrazioni del 21/10/2026 (ritocco 0c, segnalato durante CYC12, come l'EN 18748)
+- Aggiunte (replace_in_content mirato, simulazione 7, applicazione 7): ambienti delle etichette d'erbario pubblicate da GBIF (chiave 2683281, rilette il 21/10: Huong Son e Rao An, Ha Tinh 1998; Tuong Duong, Nghe An 2007; Phong Nha-Ke Bang, Quang Binh 2005, calcare, 225-560 m; fino a circa 1000 m) in « In natura », riquadro (Esposizione e substrato) e FAQ « Dove cresce? »; scheda del lectotipo P02088576 (« donné par M. Auguste Chevalier en 1943 ») in Tassonomia; deduzione di coltivazione presentata come tale; BGCI PlantSearch (2 orti: Fairy Lake, Shenzhen; Marimurtra, Blanes; nessun orto italiano) in « In Italia »; GBIF occorrenze e BGCI nelle Fonti.
+- Data WLoC 20/05/1841 (impossibile): già segnalata in Tassonomia (invariata).

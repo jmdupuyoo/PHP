@@ -54,3 +54,5 @@
 
 ## Retouche du 21/10/2026 (signalé lors de CYC05)
 - « Federico Nut » : nom désormais mentionné comme étiquette du Jardin botanique royal de Sydney (Garden Explorer taxon-8042, accession S1992-0530, relu le 21/10/2026), présenté comme nom de jardin ou d’usage local (Noms communs + encadré) ; source ajoutée. Statut OEPP : mise à jour du 16/10/2026 (relue le 21/10 : France « absent, intercepted only », Royaume-Uni « present, few occurrences »). replace_in_content sur 26163 : simulation 4, application 4 ; brouillon aligné.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : cycasine, méthylazoxyméthanol, BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

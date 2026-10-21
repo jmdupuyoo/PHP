@@ -15,3 +15,5 @@
 - Index genre 1256 : « Sri Lanka ; synonyme : *Cycas sainathii* ; (CR, 2022) » → « Sri Lanka (côte sud) ; synonyme : *Cycas sainathii*, que la Liste rouge évalue à part (VU, 2022) ; (CR, 2022) » (dry run 1 remplacement, appliqué ; rendu vérifié).
 - **À signaler pour l'IT 29032 (non modifiée)** : la Liste rouge (GBIF, 17/10) évalue *C. sainathii* à part (VU, 2022 ; avec *pschannae*, *andamanica*, *dharmrajii*), alors que l'IT présente *sainathii* comme simple synonyme sans cette divergence ; Mudannayake 2019 : plantes plus fréquentes près de la côte (déjà dans l'IT), plantations surtout à l'intérieur (déjà dans l'IT).
 - Points douteux : Liste rouge non consultée directement ; périmètre exact de l'évaluation CR (Sri Lanka seul ou aussi Andaman) inconnu ; « 2005 tsunami » dans Telopea ; clé de Singh & Misra 2020 non lue ; Novon 2002 non consulté ; WLoC montre des photos 2025 de la Province centrale du Sri Lanka (lieu non repris).
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

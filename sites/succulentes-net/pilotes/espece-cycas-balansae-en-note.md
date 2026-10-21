@@ -37,3 +37,5 @@
 
 ## Points douteux
 - « Tue da voi » (Species+ seul) ; critères A2acd+4acd rattachés à l'évaluation 2010 ; points chinois de Zhang 2025 probablement *C. collina* (déduction) ; Liste rouge et POWO non consultés ; année d'entrée Montgomery inconnue.
+
+- 21/10/2026 (CYC13) : lien vers *Cycas collina* EN 30316 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content ciblé, simulation 1, application 1) ; brouillon aligné.

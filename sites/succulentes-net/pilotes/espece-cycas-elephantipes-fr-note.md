@@ -44,3 +44,5 @@
 2. Section de l'espèce non trouvée dans les sources consultées.
 3. Encadré : altitude, rusticité, exposition en culture et noms communs non documentés.
 4. Aucune donnée nationale française.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol, BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

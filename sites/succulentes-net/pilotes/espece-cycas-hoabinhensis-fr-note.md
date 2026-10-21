@@ -19,3 +19,5 @@
 - Index de la page genre FR 1256 : « Vietnam ; en danger (EN, 2010) » → « Vietnam (nord) ; en danger (EN, 2023) » (dry run 1 remplacement puis application).
 - **À signaler pour l'IT 28639 (non modifiée)** : catégorie de la réévaluation 2023-1 désormais vérifiable via GBIF (EN, jeu de données UICN du 28/07/2026) ; colonnes du tableau 5.1 du plan d'action 2003 élucidées (déclin « high », aire d'occurrence 50 km², perte d'habitat 50-80 %) et tableau 8.1 (présence en collection générale) ; 3 messages Fous de palmiers de 2010 (dont plante cultivée à Hanoï) ; Trebrown 9b.
 - Points douteux : morphologie, habitat et section inconnus faute du protologue ; aires protégées et prélèvements connus par Wikipédia seulement ; nom vietnamien.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

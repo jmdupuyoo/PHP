@@ -45,3 +45,5 @@
 - Index genre IT 11549 : pas d'entrée propre ; dans l'entrée *taiwaniana* qui porte le lien, « (EN, valutazione 2020, pubblicata nel 2023) » → « (EN, 2023) » (format de l'index ; « valutazione 2020 » non vérifié) (simulation 1, application 1) ; répartition de l'entrée laissée au lot IC6 (*taiwaniana*) ; brouillon genre aligné ; verify.py genre : texte identique, 130 liens, 135/135 blocs ; User-Agent curl et Chrome : `<title>` correct.
 - Contrôles fiche : verify.py — texte identique au brouillon (3 982 mots), 16 liens (tous IT, 200), URL 200, aucun commentaire visible, 120/120 blocs, hreflang fr/it/en ; User-Agent curl et Chrome : 200, même taille, `<title>` « Cycas hainanensis: la cicadea di Hainan e il suo nome » ; aucune page de spam.
 - Points douteux : catégorie de l'évaluation Lindström 2022 ; âge, protection, suite et identité du sujet de Concarneau.
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

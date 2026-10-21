@@ -62,3 +62,5 @@ Pas de brouillon FR local. Faits repris seulement s'ils sont vérifiés ailleurs
 
 ## Retouche du 21/10/2026 (nom anglais « fire fern »)
 - Nom anglais « fire fern » désormais mentionné comme attesté (encadré, Noms communs, FAQ, Sites de référence) : L. P. Butt, Palms & Cycads n° 27 (1990), repris sur le wiki PACSOA (page Cycas armstrongii, citation relue le 21/10/2026 : « The rejuvenating new fronds of both Cycas armstrongii and Cycas calcicola are referred to locally as "fire-fern" »). Présenté comme nom anglais, sans équivalent italien attesté. replace_in_content ciblé (simulation puis application) ; brouillon aligné.
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

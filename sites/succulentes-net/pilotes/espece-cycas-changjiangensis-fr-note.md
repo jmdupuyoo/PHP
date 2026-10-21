@@ -19,3 +19,5 @@
 - Vérifications (verify.py) : URL 200 ; aucun commentaire de bloc visible ; 116 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-cycas-changjiangensis-fr.html`, même séquence de 17 liens.
 - **À signaler pour l'IT 28522 (non modifiée)** : la Flora of China (source primaire lue) compare l'espèce à *Cycas siamensis* (base du tronc grise et brusquement renflée ; s'en distingue par la nervure médiane très saillante dessus et les petites graines ≈ 1,8 cm à sarcotesta ni spongieuse ni fibreuse) ; comparaison absente de « Possibili confusioni ».
 - Points douteux : statut taxonomique (WLoC espèce / Feng 2021 et liste chinoise sous *taiwaniana*) ; protologue non lu ; Liste rouge non consultée directement ; sens de 葫芦 non expliqué par les sources.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol, BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

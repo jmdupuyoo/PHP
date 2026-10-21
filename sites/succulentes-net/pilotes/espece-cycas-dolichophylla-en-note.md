@@ -33,3 +33,5 @@
 
 ## Points douteux
 - Critères de l'évaluation 2023 inconnus (Liste rouge bloquée). Auteurs : formes WLoC / Hill-Species+ divergentes (exposé). Protologue non consulté.
+
+- 21/10/2026 (CYC13) : lien vers *Cycas collina* EN 30316 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content ciblé, simulation 1, application 1) ; brouillon aligné.

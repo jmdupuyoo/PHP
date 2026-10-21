@@ -44,3 +44,5 @@
 - Index page genre IT 11549 : « Vietnam; … (CR, 2010) » → « Vietnam nord-occidentale e Cina meridionale (Yunnan), probabilmente anche Laos e Myanmar; … (CR, 2023) », comme l'index FR 1256 (simulation 1, application 1) ; brouillon genre aligné (verify2 : texte et liens identiques).
 - SEO inchangé (meta sans année, toujours exacte).
 - Contrôles : verify.py — texte identique, 12 liens même séquence tous en 200, blocs 101/101, aucun commentaire visible, hreflang fr/it ; curl et User-Agent Chrome : 200, `<title>` « Cycas collina: la cicadea montana di Vietnam e Yunnan » (aucun cloaking).
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

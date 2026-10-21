@@ -31,3 +31,5 @@
 
 ## Points douteux
 - Description complète non consultée ; plein air des plantes de Sydney probable mais non affirmé par la source ; critères de l'évaluation 2023 inconnus.
+
+- 21/10/2026 (CYC13) : lien vers *Cycas clivicola* EN 30309 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content ciblé, simulation 1, application 1) ; brouillon aligné.

@@ -50,3 +50,5 @@
 - Identité de toutes les plantes cultivées citées (Barcelone, Ischia, Naples) non vérifiée.
 - Hill 1994 non lu en texte intégral : la distinction *seemannii* / *rumphii* selon Hill n'est connue que par le résumé et par LHS 2009.
 - GBIF renvoie un nouvel identifiant UICN (216470283) : l'évaluation 2023 a peut-être été faite sur un concept élargi (avec *celebica*) ; non vérifiable sans la Liste rouge.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

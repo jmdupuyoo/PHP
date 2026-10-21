@@ -29,3 +29,5 @@
 ## Punti dubbi
 - Identità delle piante di Napoli, Messina, Ischia e Sicilia non verificata.
 - Testo integrale di Hill 1994 inaccessibile (CSIRO, Cloudflare).
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

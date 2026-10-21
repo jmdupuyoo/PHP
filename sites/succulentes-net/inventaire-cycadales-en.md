@@ -6,7 +6,7 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 |---|---|---|---|
 | Bowenia | 2 | 3 | 0 |
 | Ceratozamia | 45 | 0 | 0 |
-| Cycas | 122 | 59 (39 au 19/10 + 19 créées le 21/10, lots CYC09 à CYC12, + chevalieri 18748 restaurée le 21/10) | 19 |
+| Cycas | 122 | 64 (39 au 19/10 + 24 créées le 21/10, lots CYC09 à CYC13, + chevalieri 18748 restaurée le 21/10) | 19 |
 | Dioon | 19 | 19 | 0 |
 | Encephalartos | 65 | 60 | 0 |
 | Lepidozamia | 2 | 2 | 0 |
@@ -14,7 +14,7 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 | Microcycas | 1 | 1 | 0 |
 | Stangeria | 1 | 0 | 0 |
 | Zamia | 88 | 19 | 0 |
-| **Total** | **386** | **185** (165 au 19/10 + 19 créées et 1 restaurée le 21/10) | **19** |
+| **Total** | **386** | **190** (165 au 19/10 + 24 créées et 1 restaurée le 21/10) | **19** |
 
 - EN : 156 des 165 fiches n'ont pas été modifiées depuis septembre 2026 (ancienne génération, mêmes défauts que les anciennes FR : à reprendre au gabarit récent d'après les FR/IT vérifiées). Environ 221 fiches EN à créer. Page ordre EN 15147 et 10 pages genre EN (16282-16335), datées du 29/09/2026.
 - ES : page ordre 23482 et page genre Cycas 23432 seulement ; 19 fiches Cycas ; les 9 autres genres et environ 367 fiches à créer.
@@ -28,7 +28,7 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 | Page | ID | État |
 |---|---|---|
 | Ordre *Cycadales* (/en/cycads/) | 15147 | réécrite le 19/10/2026 (brouillon pilotes/ordre-cycadales-en.html) |
-| Genre *Cycas* (/en/cycads/cycas/) | 16282 | réécrite le 19/10/2026 (brouillon pilotes/genre-cycas-en.html) ; index : 118 espèces, 36 fiches EN liées (+ miqueli, hainanensis sous ancien nom) ; +5 fiches liées le 21/10/2026 (CYC09 : aculeata, aenigma, andamanica dans la ligne pschannae, angulata, annaikalensis) ; +5 le 21/10/2026 (CYC10 : apoa, arenicola, arnhemica, badensis, basaltica) ; +5 le 21/10/2026 (CYC11 : bougainvilleana, brachycantha, brunnea, cairnsiana, campestris) ; +5 le 21/10/2026 (CYC12 : canalis, candida, cantafolia, chenii, chevalieri) ; phrase de décompte des évaluations par année supprimée le 21/10 (retouche 0c) |
+| Genre *Cycas* (/en/cycads/cycas/) | 16282 | réécrite le 19/10/2026 (brouillon pilotes/genre-cycas-en.html) ; index : 118 espèces, 36 fiches EN liées (+ miqueli, hainanensis sous ancien nom) ; +5 fiches liées le 21/10/2026 (CYC09 : aculeata, aenigma, andamanica dans la ligne pschannae, angulata, annaikalensis) ; +5 le 21/10/2026 (CYC10 : apoa, arenicola, arnhemica, badensis, basaltica) ; +5 le 21/10/2026 (CYC11 : bougainvilleana, brachycantha, brunnea, cairnsiana, campestris) ; +5 le 21/10/2026 (CYC12 : canalis, candida, cantafolia, chenii, chevalieri) ; +5 le 21/10/2026 (CYC13 : clivicola, collina, condaoensis, conferta, couttsiana ; clivicola « (LC, 2023) », conferta « (VU, 2023) », couttsiana « (NT, 2023) ») ; phrase de décompte des évaluations par année supprimée le 21/10 (retouche 0c) |
 | Genre *Zamia* (/en/cycads/zamia/) | 16295 | réécrite le 19/10/2026 (brouillon pilotes/genre-zamia-en.html) ; index : 88 espèces, 19 fiches EN liées |
 | Genre *Ceratozamia* (/en/cycads/ceratozamia/) | 16307 | réécrite le 19/10/2026 (brouillon pilotes/genre-ceratozamia-en.html) ; index : 45 espèces, aucune fiche EN |
 | Genre *Encephalartos* (/en/cycads/encephalartos/) | 16289 | réécrite le 19/10/2026 (brouillon pilotes/genre-encephalartos-en.html) ; index : 65 espèces, 59 fiches EN liées + fiche « caffer » dans la ligne *afer* ; image mise en avant 5556 ajoutée |
@@ -105,6 +105,11 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 | CYC12 | *Cycas cantafolia* | 30222 | C | créée le 21/10/2026 (translation_of FR 26634 ; fr/it/en) ; protologue Jutta et al. 2010 ; GBIF VU (Jutta & Lindström 2023-1, Crossref) ; spécimens Bukit Belading 2009 ; *litoralis* = syn. d'*edentata* ; SEO 51/154 | ≈ 2 880 | aucun | pilotes/espece-cycas-cantafolia-en.html, -en-note.md |
 | CYC12 | *Cycas chenii* | 30226 | C | créée le 21/10/2026 (translation_of FR 21968 ; fr/it/en/es, ES 24596 conservée) ; FR nettoyée le 13/10 (sources primaires) ; GBIF EN ; BGCI XTBG ; SEO 58/153 | ≈ 3 170 | aucun (hors : XTBG, Chine) | pilotes/espece-cycas-chenii-en.html, -en-note.md |
 | CYC12 | *Cycas chevalieri* | 18748 | R (cas particulier) | restaurée de la corbeille le 21/10/2026 (publish, slug chevalieri, parent 16282) puis réécrite ; redirection /en/cycads/cycas/chevalieri/ → /en/cycads/cycas/ supprimée, URL en 200 ; fr/it/en ; protologue Leandri 1931 (scan), de Laubenfels & Adema 1998, FoC, WLoC ; GBIF VU (Bösenberg & Nguyễn 2023-1, Crossref) ; étiquettes GBIF 1998-2007 (habitats, 225 à ≈ 1 000 m) ; SEO 55/142 | ≈ 3 270 | aucun (hors : Fairy Lake, Chine ; Marimurtra, Espagne) | pilotes/espece-cycas-chevalieri-en.html, -en-note.md |
+| CYC13 | *Cycas clivicola* | 30309 | C | créée le 21/10/2026 (translation_of FR 26636 ; fr/it/en) ; GBIF LC (Bösenberg & Nguyễn 2023-1) ; étiquettes GBIF (Temenggor, Ko Tao, Ko Ngai) ; néotype de *Cycas miquelii* (de Laubenfels & Adema 1998, Kerr 11873) rattaché à *clivicola* par Hill 2008 ; Araflora (−4 °C, allégation commerciale) ; index « (LC, 2023) » ; SEO 57/151 | ≈ 4 040 | UK : BGCI Paignton Zoo ; US : Montgomery (16 + 1 acc., 1994-1998), BGCI Huntington, Brooklyn, Mercer ; AU : RBG Sydney (S1994-0062/1, « Mountain Sago ») | pilotes/espece-cycas-clivicola-en.html, -en-note.md |
+| CYC13 | *Cycas collina* | 30316 | C | créée le 21/10/2026 (translation_of FR 22067 ; fr/it/en) ; FR nettoyée le 13/10 (Hill 2008) ; GBIF CR ; étiquettes 2006 (950 et 1 250 m) ; PACSOA (ombre) ; Trebrown 9b (commercial) ; SEO 52/151 | ≈ 3 540 | aucun (hors : Nong Nooch) | pilotes/espece-cycas-collina-en.html, -en-note.md |
+| CYC13 | *Cycas condaoensis* | 30323 | C | créée le 21/10/2026 (translation_of FR 22008 ; fr/it/en/es, ES 24591 conservée) ; page prudente (protologue, UICN, Cycad Pages inaccessibles) ; GBIF LC ; Nong Nooch (W 2011) ; SEO 51/150 | ≈ 2 940 | US : Montgomery (1 acc., 2016) ; UK, AU : aucun (hors : Francfort, Prague) | pilotes/espece-cycas-condaoensis-en.html, -en-note.md |
+| CYC13 | *Cycas conferta* | 30327 | C | créée le 21/10/2026 (translation_of FR 26638 ; fr/it/en) ; GBIF VU (Nagalingum 2023-1) contre Flora of Australia « NT, 2022 » ; étiquettes GBIF 1972-2024 ; PDF Lavaud (photo Nong Nooch 2019) ; index « (VU, 2023) » ; SEO 58/146 | ≈ 3 760 | US : Montgomery (2 acc., 1997), BGCI UC Berkeley ; AU : Darwin (photos FdP 2016) ; UK : aucun | pilotes/espece-cycas-conferta-en.html, -en-note.md |
+| CYC13 | *Cycas couttsiana* | 30333 | C | créée le 21/10/2026 (translation_of FR 26640 ; fr/it/en) ; GBIF NT (Bösenberg 2023-1) ; Flora of Australia (Vulnerable au Queensland) ; étiquettes GBIF 1990-2021 ; greffe (article 16530) ; PDF Lavaud (« difficile ») ; Montgomery News 2025 ; index « (NT, 2023) » ; SEO 53/151 | ≈ 3 910 | AU : RBG Sydney (S1990-2190, S2021-0671), BGCI ANBG ; US : Montgomery (9 acc., 1985-2022), Selby (BGCI, GBIF 1994/1997), BGCI Naples ; UK : aucun | pilotes/espece-cycas-couttsiana-en.html, -en-note.md |
 
 Relevé du lot CYC01 (à traiter plus tard) :
 - FR 14377 / IT 14390 (*beddomei*) et FR 14394 / IT 14404 (*bifida*) sont de l'ancienne génération, jamais nettoyées : les fiches EN ont été rédigées sur sources primaires ; erreurs FR/IT listées dans les notes EN → retouche FR/IT à prévoir.
@@ -189,3 +194,13 @@ Relevé du lot CYC12 (21/10/2026) :
 - Liens EN posés vers les fiches du lot : *armstrongii* 16432, *arnhemica* 30137, *calcicola* 16487 (→ *canalis*) ; *megacarpa* 16520 (→ *candida*) ; *chamaoensis* 18723 (→ *cantafolia*) ; *tanqingii* 18728 (→ *chenii*, *chevalieri*). *elongata* 18705 ne cite *chevalieri* qu'en Sources (non lié).
 - Lavaud : article EN 16530 en Further reading pour *canalis* et *candida* (article général, espèces non citées) ; sans objet pour *cantafolia*, *chenii*, *chevalieri*.
 - Retours anglophones : aucun lisible ; aucune observation JZT pour les 5 espèces. POWO, Liste rouge UICN, PalmTalk, Dave's Garden non contournés ; protologue *chenii* (Wiley) et Hill et al. 2004 (Vietnam) payants ; PACSOA wiki vide pour *canalis* et *candida* ; jse.ac.cn en 403 depuis le proxy.
+
+Relevé du lot CYC13 (21/10/2026) :
+- Retouches préalables (signalées lors de CYC12) : *cantafolia* FR 26634 (*litoralis* = synonyme d'*edentata* ; VU 2023-1 via GBIF/Crossref) et IT 28516 (statut) ; toxicité de toutes les fiches *Cycas* FR (37) et IT (34) harmonisée (cycasine → méthylazoxyméthanol, BMAA ; contrôle REST : 0 non conforme sur 122 + 122) ; *chevalieri* FR 21892 / IT 28528 complétées (étiquettes GBIF, lectotype P02088576, BGCI) ; *tanqingii* EN 18728 (« possibly neighbouring Laos »).
+- Fiches FR sources : *collina* et *condaoensis* nettoyées le 13/10 ; *clivicola*, *conferta*, *couttsiana* (03/10) rédigées sur sources primaires (protologues ou révisions en texte intégral pour *conferta* et *couttsiana* ; *clivicola* sur WLoC, DOA Thaïlande, MyBIS, Llifle, protologue non lu). Aucune fiche FR de l'ancienne génération.
+- Fiches C : aucune page EN préexistante (corbeille comprise) ni redirection ; groupes Polylang vérifiés (ES conservée pour *condaoensis*) ; la FR garde l'IT.
+- Index genre EN 16282 : 5 lignes liées (1/1 chacune) ; *clivicola* LC, *conferta* VU, *couttsiana* NT passés de 2010 à 2023 (GBIF + Crossref) ; catégories inchangées (résumé par catégorie toujours exact) ; brouillon genre aligné.
+- Liens EN posés vers les fiches du lot (simulation puis application, 1 par page) : *cantafolia* 30222, *chamaoensis* 18723, *elongata* 18705, *pectinata* 16415 (→ *clivicola*) ; *simplicipinna* 18642, *balansae* 18635, *dolichophylla* 16497, *siamensis* 16409 (→ *collina*) ; *lindstromii* 18737 (→ *condaoensis*) ; *canalis* 30212, *calcicola* 16487, *armstrongii* 16432 (→ *conferta*) ; *cairnsiana* 30181, *brunnea* 30172, *angulata* 30111, *thouarsii* 16378 et article Lavaud 16530 (→ *couttsiana*).
+- Lavaud : article EN 16530 en Further reading pour *conferta* (article général, espèce non citée) et *couttsiana* (espèce citée) ; PDF 2021 cité pour *conferta* (photo à Nong Nooch ; Territoire du Nord « très difficile ») et *couttsiana* (« difficile ») ; sans objet pour les trois espèces asiatiques.
+- Retours anglophones : aucun lisible (PalmTalk, Dave's Garden non contournés) ; Tropicamente (Ravenne 2012-2013) pour *conferta* et *couttsiana*, sans culture ; aucune observation JZT pour les 5 espèces. WLoC injoignable le 21/10 (faits WLoC repris des FR).
+

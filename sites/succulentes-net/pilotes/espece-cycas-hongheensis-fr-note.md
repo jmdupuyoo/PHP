@@ -21,3 +21,5 @@
 - Index de la page genre FR 1256 : « Chine (Yunnan) ; … (CR, 2010) » → « Chine (sud-est du Yunnan, vallée du fleuve Rouge) ; … (CR, 2023) » (dry run 1 remplacement puis application).
 - **À signaler pour l'IT 28642 (non modifiée)** : réévaluation UICN 2023-1 (Liu, Lindström & Gong, CR maintenu, via Crossref et GBIF) ; Wu et al. 2021 (texte intégral lisible : proposition de 1994 invalide, rive nord, génome chloroplastique) ; Trebrown 9b.
 - Points douteux : écart FoC / Hill sur la taille du tronc ; texte intégral de Liu et al. 2016 non lu ; localisation de la population du mont Dawei (Zheng 2017) alors que Wu 2021 limite l'espèce à Gejiu.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

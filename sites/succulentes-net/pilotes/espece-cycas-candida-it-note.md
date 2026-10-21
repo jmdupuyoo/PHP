@@ -22,3 +22,5 @@
 - UICN : EN B1ab(iii,v)+2ab(iii,v) (Bösenberg 2022) via WLoC ; ancienne catégorie LR/cd (1994) citée pour mémoire.
 - Retour de Ravenne : bref, sans conditions d'hivernage.
 - 12/10/2026 (lot nayagarhensis–orientis) : lien vers *Cycas ophiolitica* 28751 posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content dry run puis application ; brouillon aligné).
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

@@ -53,3 +53,5 @@
 - Index page genre IT 11549 : « in pericolo (EN) secondo The World List of Cycads, senza valutazione datata della Lista rossa; stato proposto dagli autori nel 2015 » → « in pericolo (EN, 2023) » (simulation 1, application 1), comme l'index FR 1256 ; brouillon `genre-cycas-it.html` aligné (verify.py : texte identique, 130 liens en 200, blocs 135/135).
 - SEO inchangé (titre et meta sans statut, toujours exacts).
 - Contrôles : verify.py — texte identique, 8 liens même séquence tous en 200, blocs 102/102, aucun commentaire visible, hreflang fr/it/es ; curl et User-Agent Chrome : 200, `<title>` « Cycas chenii: la cicadea acaule del Fiume Rosso, Yunnan » (page genre : « Cycas: 118 specie, rusticità e coltivazione in Italia ») — aucun cloaking.
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

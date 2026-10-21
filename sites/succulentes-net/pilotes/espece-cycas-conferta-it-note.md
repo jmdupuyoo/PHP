@@ -31,3 +31,5 @@
 - 12/10/2026 (lot nayagarhensis–orientis) : lien vers *Cycas orientis* 28762 posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content dry run puis application ; brouillon aligné).
 
 - 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas papuana* (28786) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

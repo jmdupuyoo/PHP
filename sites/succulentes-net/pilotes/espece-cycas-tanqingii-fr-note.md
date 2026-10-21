@@ -15,3 +15,5 @@
 - Index genre 1256 : « Chine (Yunnan), Vietnam (présence incertaine) ; … (NT, 2010) » → « Chine (sud-est du Yunnan, district de Lüchun), Vietnam (présence signalée, sans spécimen) ; … (NT, 2023) » (dry run 1 remplacement, appliqué).
 - **À signaler pour l'IT 28970 (non modifiée)** : tableau de Hill 2008 (aire ~100 km², réduction d'habitat < 20 %) ; Zheng 2025 tient la répartition « Xiaoheijiang seul » de Xi et al. 2022 ; le résumé de Li 2025 fait passer le statut modélisé de « vulnerable » à « endangered » avec les ravageurs (l'IT dit seulement « exposée »).
 - Points douteux : auteur « D.Y.Yang » chez Hill ; nom du dédicataire ; Hill, Nguyen & Loc 2004 non lu ; identité de la réserve (Hill vs Zheng) ; chiffres de Li 2025 = projections.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

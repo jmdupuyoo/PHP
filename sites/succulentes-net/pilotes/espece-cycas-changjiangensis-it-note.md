@@ -59,3 +59,5 @@
 - Rien retiré (le reste de la fiche était déjà conforme à la FR du 13/10). Toxicité inchangée (cicasina, sans MAM ni glycosides).
 - Statut et encadré inchangés ; index genre IT 11549 conforme « (EN, 2022) » (non modifié) ; SEO inchangé (titre et meta toujours exacts).
 - Contrôles : verify.py — texte identique, 17 liens même séquence tous en 200, blocs 121/121, aucun commentaire visible, hreflang fr/it/en/es ; curl et User-Agent Chrome : 200, `<title>` « Cycas changjiangensis: la cicadea nana di Hainan, Cina » (aucun cloaking).
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

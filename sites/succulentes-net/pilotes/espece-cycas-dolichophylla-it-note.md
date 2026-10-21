@@ -38,3 +38,5 @@
 - 12/10/2026, fin du lot *Cycas* furfuracea–hongheensis : lien vers *hainanensis* (IT 28636) posé à la première occurrence hors intro/encadré/titres/fonti par replace_in_content ciblé (dry run puis application) ; brouillon aligné et revérifié identique au contenu en ligne (verify.py).
 
 - 21/10/2026 (ritocco segnalato in CYC03) : stato IUCN aggiornato — rivalutazione J.D. Bösenberg, Lista rossa 2023-1 (Crossref ; GBIF: NT) al posto di Nguyen 2010; scheda sintetica, Stato di conservazione, FAQ, riga WLoC, GBIF e Bösenberg 2023 aggiunti alle fonti; replace_in_content 6/6 (simulazione e applicazione); indice IT 11549 «(NT, 2023)» (con elongata, 2/2); bozza allineata.
+
+- 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.

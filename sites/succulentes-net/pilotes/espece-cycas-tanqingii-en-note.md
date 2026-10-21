@@ -27,3 +27,6 @@
 
 ## Points douteux
 - Hill, Nguyen & Loc 2004 non lu ; auteur « D.Y.Yang » chez Hill ; nom du dédicataire ; identité de la réserve (Hill vs Zheng) ; chiffres de Li 2025 = projections.
+
+## Retouche du 21/10/2026 (0d, signalée lors de CYC12)
+- « Possible confusion » : *chevalieri* « from Laos and Vietnam » (d'après Hill 2008) → « from north-central Vietnam (The World List of Cycads) and possibly neighbouring Laos, where its presence is unconfirmed according to the 2023 IUCN assessment as quoted by the English-language Wikipedia » (même source et même formulation que la page EN *chevalieri* 18748). replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

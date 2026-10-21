@@ -21,3 +21,5 @@
 ## Points douteux
 - Situation actuelle du projet de carrière (2010) non documentée.
 - Critère D2 (WLoC) non confronté à la Liste rouge (bloquée).
+
+- 21/10/2026 (CYC13) : lien vers *Cycas clivicola* EN 30309 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content ciblé, simulation 1, application 1) ; brouillon aligné.

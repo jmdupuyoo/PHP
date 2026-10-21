@@ -57,3 +57,5 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26636, https://succulentes.net/cycadales/cycas/clivicola/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol, BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
