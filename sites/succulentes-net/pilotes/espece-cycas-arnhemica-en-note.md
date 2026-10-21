@@ -26,3 +26,5 @@
 ## Points douteux
 - Étude à l'origine de la synonymie des sous-espèces non identifiée (repris de la FR).
 - « Bureia » (Hill 1996) conservé tel quel.
+
+- 21/10/2026 (CYC18) : lien vers *Cycas maconochiei* EN (maconochiei) posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.

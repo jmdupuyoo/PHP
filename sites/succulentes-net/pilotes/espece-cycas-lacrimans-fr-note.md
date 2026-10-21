@@ -48,3 +48,8 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26690, https://succulentes.net/cycadales/cycas/lacrimans/ (200 sans redirection, curl et fetch_site_url), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256 (replace_in_content, dry run puis application) ; contenu publié comparé au fichier local (texte et liens identiques).
+
+## Retouche du 21/10/2026 (0b avant CYC18, signalée lors de CYC17)
+- Retiré : « Le mont Hamiguitan est protégé par un sanctuaire de faune inscrit au patrimoine mondial de l'UNESCO » (extrait de recherche seul ; page UNESCO derrière Cloudflare, non contournée ; le protologue nomme seulement la « Maeudlong Forest Reserve »).
+- Confusions : la comparaison « par leurs auteurs » avec *mindanaensis*, *flabellata* et *sancti-lasallei* est désormais présentée comme non vérifiable (descriptions originales non lues).
+- replace_in_content sur 26690 : simulation 2, application 2 ; brouillon aligné (REST : 0 différence).

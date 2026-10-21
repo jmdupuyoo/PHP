@@ -19,3 +19,5 @@
 
 ## FR/IT à reprendre (hors lot)
 - FR 26690 / IT 28664 : la mention UNESCO du mont Hamiguitan vient d'un extrait (à sourcer ou retirer ; le protologue nomme la « Maeudlong Forest Reserve ») ; « auxquels leurs auteurs l'ont comparé » (*mindanaensis*, *flabellata*, *sancti-lasallei*) non vérifié (protologue 2019 illisible) ; ajouter Montgomery (accession 2025) et le DOI Lindström & Agoo 2022-1.
+
+- 21/10/2026 (CYC18) : lien vers *Cycas mindanaensis* EN (mindanaensis) posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.

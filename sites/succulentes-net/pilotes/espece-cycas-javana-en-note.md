@@ -20,3 +20,5 @@
 
 ## FR/IT à reprendre (hors lot, facultatif)
 - FR 26687 / IT 28660 : DOI des deux évaluations (Hill 2010-3, Lindström 2023-1) ; divergence de de Laubenfels & Adema (Sumatra du Sud, Krakatoa ; graines orange 45-60 mm) ; Cibodas.
+
+- 21/10/2026 (CYC18) : lien vers *Cycas montana* EN (montana) posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.

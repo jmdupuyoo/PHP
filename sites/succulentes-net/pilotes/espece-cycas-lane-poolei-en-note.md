@@ -20,3 +20,5 @@
 
 ## FR/IT
 - Rien à reprendre sur le fond. Facultatif : DOI des évaluations, accession Montgomery (nom non vérifié).
+
+- 21/10/2026 (CYC18) : lien vers *Cycas maconochiei* EN (maconochiei) posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.

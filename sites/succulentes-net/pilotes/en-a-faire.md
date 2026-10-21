@@ -19,7 +19,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - CYC15 : divyadarshanii C/FR26655 fait (21/10/2026, 30500), edentata C/FR26657 fait (21/10/2026, 30504), fairylakea C/FR21932 fait (21/10/2026, 30513), falcata C/FR26659 fait (21/10/2026, 30520), flabellata C/FR26661 fait (21/10/2026, 30524) — lot CYC15 terminé le 21/10/2026
 - CYC16 : fugax C/FR26663 fait (21/10/2026, 30586), furfuracea C/FR26680 fait (21/10/2026, 30589), glauca C/FR26684 fait (21/10/2026, 30596), hoabinhensis C/FR22042 fait (21/10/2026, 30600), indica C/FR26683 fait (21/10/2026, 30603) — lot CYC16 terminé le 21/10/2026
 - CYC17 : inermis C/FR26699 fait (21/10/2026, 30618), javana C/FR26687 fait (21/10/2026, 30623), lacrimans C/FR26690 fait (21/10/2026, 30628), lane-poolei C/FR26681 fait (21/10/2026, 30633), laotica C/FR22052 fait (21/10/2026, 30642) — lot CYC17 terminé le 21/10/2026
-- CYC18 : lingshuigensis C/FR21921, maconochiei C/FR26682, macrocarpa C/FR26696, mindanaensis C/FR26692, montana C/FR26685
+- CYC18 : lingshuigensis C/FR21921 fait (21/10/2026, 30649), maconochiei C/FR26682 fait (21/10/2026, 30656), macrocarpa C/FR26696 fait (21/10/2026, 30667), mindanaensis C/FR26692 fait (21/10/2026, 30676), montana C/FR26685 fait (21/10/2026, 30681) — lot CYC18 terminé le 21/10/2026
 - CYC19 : nathorstii C/FR26688, nayagarhensis C/FR26697, nitida C/FR26691, nongnoochiae C/FR26717, ophiolitica C/FR26715
 - CYC20 : orientis C/FR26700, orixensis C/FR26694, pachypoda C/FR22073, papuana C/FR26712, petraea C/FR26719
 - CYC21 : platyphylla C/FR26721, pranburiensis C/FR26724, pruinosa C/FR26726, pschannae C/FR21984, riuminiana C/FR26728

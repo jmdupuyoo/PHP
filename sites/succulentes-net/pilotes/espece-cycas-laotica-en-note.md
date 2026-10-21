@@ -19,3 +19,5 @@
 
 ## FR/IT
 - Rien à reprendre sur le fond. Facultatif : Montgomery (2019) et Marimurtra (BGCI).
+
+- 21/10/2026 (CYC18) : lien vers *Cycas macrocarpa* EN (macrocarpa) posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.

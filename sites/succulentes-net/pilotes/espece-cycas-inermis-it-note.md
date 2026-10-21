@@ -23,3 +23,8 @@
 ## Points douteux (repris de la FR)
 - Description et dimensions non vérifiées à la source (Hill, Nguyen & Phan 2004 payant ; chiffres de Wikipédia signalés comme indicatifs) ; noms vietnamiens non vérifiés ; Liste rouge non consultée ; protologue non lu (BHL bloqué).
 - 12/10/2026 : lien vers *Cycas macrocarpa* (28700) posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.
+
+## Ritocco del 21/10/2026 (0a prima di CYC18, segnalato durante CYC17)
+- Rimossi (solo Wikipedia): dimensioni, ambiente (foreste stagionali, suoli granitici/vulcanici/basaltici, Cat Tien), nomi vietnamiti, «foreste tropicali» in introduzione e FAQ, voce Wikipedia nei Siti di riferimento; coltivazione in serra presentata come deduzione dall'areale tropicale.
+- Rimossa la frase non documentata sulle piccole spine del picciolo (e la FAQ); sostituita da fatti riletti: Loureiro non precisa gli organi inermi (Hill & Stanberg 2009); foglioline di 15 cm secondo Loureiro contro 32 cm sull'esemplare BM (de Laubenfels & Adema 1998); piccioli spesso inermi in *C. sexseminifera*, carattere «not at all consistent» (Hill 2008).
+- replace_in_content su 28656: simulazione 14, applicazione 14; bozza allineata (confronto REST: 0 differenze).

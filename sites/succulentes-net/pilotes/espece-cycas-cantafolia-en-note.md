@@ -25,3 +25,5 @@
 - 21/10/2026 (CYC13) : lien vers *Cycas clivicola* EN 30309 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content ciblé, simulation 1, application 1) ; brouillon aligné.
 
 - 21/10/2026 (CYC15) : lien vers *Cycas edentata* EN 30504 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1/1) ; brouillon aligné.
+
+- 21/10/2026 (CYC18) : lien vers *Cycas macrocarpa* EN (macrocarpa) posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.

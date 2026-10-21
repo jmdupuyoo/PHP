@@ -56,3 +56,5 @@
 - « Further reading » : lien vers l'article Lavaud EN 16530 conservé, mais présentation réécrite pour dire qu'il s'agit d'un article général sur la culture des *Cycas* australiens en Europe, qui ne traite pas de *Cycas armstrongii* et ne le cite pas (exemples de l'article : *couttsiana*, *siamensis* « Silver »). replace_in_content, simulation puis application, 1/1. Brouillon aligné.
 
 - 21/10/2026 (CYC13) : lien vers *Cycas conferta* EN 30327 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content ciblé, simulation 1, application 1) ; brouillon aligné.
+
+- 21/10/2026 (CYC18) : lien vers *Cycas maconochiei* EN (maconochiei) posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.

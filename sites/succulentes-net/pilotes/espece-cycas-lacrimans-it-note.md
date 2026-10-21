@@ -23,3 +23,8 @@
 ## Points douteux (repris de la FR)
 - Prénoms des collecteurs de 1927 (Ramos et Edaño) non vérifiés ; caractères séparant l'espèce de *C. mindanaensis*, *C. flabellata* et *C. sancti-lasallei* non lus (protologue de 2019) ; Liste rouge non consultée.
 - 12/10/2026 (lot nayagarhensis–orientis) : lien vers *Cycas nitida* 28743 posé dans « Tassonomia » (première occurrence ; replace_in_content dry run puis application ; brouillon aligné).
+
+## Ritocco del 21/10/2026 (0b prima di CYC18, segnalato durante CYC17)
+- Rimossa la frase sul santuario del monte Hamiguitan «patrimonio mondiale dell'UNESCO» (solo estratto di ricerca; pagina UNESCO dietro Cloudflare, non aggirata).
+- Confusioni: il confronto «dei loro autori» con *mindanaensis*, *flabellata* e *sancti-lasallei* è ora presentato come non verificabile (descrizioni originali non lette).
+- replace_in_content su 28664: simulazione 2, applicazione 2; bozza allineata (REST: 0 differenze).

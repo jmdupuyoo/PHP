@@ -49,3 +49,8 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26699, https://succulentes.net/cycadales/cycas/inermis/ (200 sans redirection, curl et fetch_site_url), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256 (replace_in_content, dry run puis application) ; contenu publié comparé au fichier local (texte et liens identiques).
+
+## Retouche du 21/10/2026 (0a avant CYC18, signalée lors de CYC17)
+- Retiré (Wikipédia seule) : dimensions (tronc 1,5-4 m, feuilles 2,2-3 m, etc.), milieu (forêts saisonnières, sols granitiques/volcaniques/basaltiques, Cat Tien), noms vietnamiens « thiên tuế » / « tuế lá quyết », « forêts tropicales » de l'introduction et de la FAQ, et la référence Wikipédia des Sites de référence. Culture : la serre chaude est présentée comme une déduction tirée de l'aire tropicale.
+- Retiré (non sourcé) : « les botanistes modernes notent que le pétiole porte de petites épines » (et la FAQ correspondante). Remplacé par des faits relus : Loureiro ne précise pas les organes inermes (Hill & Stanberg 2009, PDF relu le 21/10) ; folioles de 15 cm chez Loureiro contre 32 cm sur le spécimen BM (de Laubenfels & Adema 1998, texte local) ; pétioles souvent inermes chez *C. sexseminifera*, caractère « not at all consistent » (Hill 2008, texte local).
+- replace_in_content sur 26699 : simulation 14, application 14 ; brouillon aligné (comparaison REST : 0 différence). Étymologie (« pétiole », Haynes 2022 via WLoC) laissée telle quelle : WLoC injoignable le 21/10.
