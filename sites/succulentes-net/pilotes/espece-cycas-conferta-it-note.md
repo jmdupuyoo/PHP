@@ -33,3 +33,5 @@
 - 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas papuana* (28786) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).
 
 - 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.
+
+- 21/10/2026 (ritocchi segnalati durante CYC13, prima di CYC14; 5/5): stato VU basato sulla rivalutazione Nagalingum 2023-1 (Crossref, e.T41958A67340743; VU riportato da GBIF, chiave 2683242); tolta la menzione «NT secondo fonti secondarie»; divergenza con la Flora of Australia («Listed as Near Threatened, 2022», scheda dell'08/12/2025) esposta come nella pagina EN 30327 (riquadro, Stato, FAQ); GBIF e Flora of Australia nelle fonti, Ottley 2010 e Nagalingum 2023 in bibliografia; indice IT 11549 «(VU, 2023)».

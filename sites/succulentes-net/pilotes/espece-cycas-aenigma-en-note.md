@@ -22,3 +22,4 @@
 
 ## Points douteux
 - Populations sauvages : seule une mention non sourcée (trois populations sur ultramafiques à Palawan), présentée comme non vérifiée ; fiche UICN non lue.
+- 21/10/2026 (CYC14) : lien vers *Cycas curranii* (EN 30358) posé à la première occurrence du corps (Pests and diseases ; replace_in_content, simulation puis application, 1) ; brouillon aligné.

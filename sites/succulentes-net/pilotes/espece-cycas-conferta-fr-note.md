@@ -49,3 +49,5 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 - Publiée le 03/10/2026 : id 26638, https://succulentes.net/cycadales/cycas/conferta/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
 
 - 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol, BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
+
+- 21/10/2026 (retouches signalées lors de CYC13, avant CYC14 ; 5/5) : statut VU appuyé sur la réévaluation Nagalingum 2023-1 (Crossref, e.T41958A67340743 ; VU relayé par GBIF, clé 2683242) ; mention « NT selon des sources secondaires » retirée ; divergence avec la Flora of Australia (« Listed as Near Threatened, 2022 », fiche du 08/12/2025, revérifiée le 21/10) exposée comme sur la page EN 30327 (encadré, Statut, FAQ) ; GBIF et Flora of Australia en Sites de référence, Ottley 2010 et Nagalingum 2023 en bibliographie ; index FR 1256 « (VU, 2023) ».

@@ -25,3 +25,5 @@
 
 ## FR/IT à reprendre (hors lot, facultatif)
 - FR 26640 / IT 28546 : statut « réévaluation non lue » → NT confirmé par GBIF (Bösenberg 2023-1, DOI) ; statut Vulnerable du Queensland (FoA) ; index FR 1256 / IT 11549 « (NT, 2010) » → « (NT, 2023) ». Facultatif : étiquettes GBIF (altitudes, effectifs), jardins (RBG Sydney, Montgomery, Selby), Montgomery News 2025.
+- 21/10/2026 (CYC14) : lien vers *Cycas cupida* (EN 30351) posé à la première occurrence du corps (replace_in_content, simulation puis application, 1) ; brouillon aligné.
+- 21/10/2026 (CYC14) : lien vers *Cycas desolata* (EN 30362) posé à la première occurrence du corps (replace_in_content, simulation puis application, 1) ; brouillon aligné.

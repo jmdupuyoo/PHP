@@ -37,3 +37,4 @@
 - 21/10/2026 (lot CYC11) : lien vers la nouvelle fiche EN *Cycas cairnsiana* (30181) posé à la première occurrence utile (replace_in_content, simulation puis application, 1/1) ; brouillon aligné.
 
 - 21/10/2026 (CYC13) : lien vers *Cycas couttsiana* EN 30333 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content ciblé, simulation 1, application 1) ; brouillon aligné.
+- 21/10/2026 (CYC14) : lien vers *Cycas cupida* (EN 30351) posé à la première occurrence du corps (replace_in_content, simulation puis application, 1) ; brouillon aligné.

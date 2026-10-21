@@ -15,7 +15,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - CYC11 : bougainvilleana C/FR26622 fait (21/10/2026, 30163), brachycantha C/FR22089 fait (21/10/2026, 30169), brunnea C/FR26624 fait (21/10/2026, 30172), cairnsiana C/FR26626 fait (21/10/2026, 30181), campestris C/FR26628 fait (21/10/2026, 30201) — lot CYC11 terminé le 21/10/2026
 - CYC12 : canalis C/FR26630 fait (21/10/2026, 30212), candida C/FR26632 fait (21/10/2026, 30218), cantafolia C/FR26634 fait (21/10/2026, 30222), chenii C/FR21968 fait (21/10/2026, 30226), chevalieri C/FR21892 fait (21/10/2026, 18748 restaurée et réécrite) — lot CYC12 terminé le 21/10/2026
 - CYC13 : clivicola C/FR26636 fait (21/10/2026, 30309), collina C/FR22067 fait (21/10/2026, 30316), condaoensis C/FR22008 fait (21/10/2026, 30323), conferta C/FR26638 fait (21/10/2026, 30327), couttsiana C/FR26640 fait (21/10/2026, 30333) — lot CYC13 terminé le 21/10/2026
-- CYC14 : cupida C/FR26642, curranii C/FR26644, desolata C/FR26649, dharmrajii C/FR26651, distans C/FR26653
+- CYC14 : cupida C/FR26642 fait (21/10/2026, 30351), curranii C/FR26644 fait (21/10/2026, 30358), desolata C/FR26649 fait (21/10/2026, 30362), dharmrajii C/FR26651 fait (21/10/2026, 30369), distans C/FR26653 fait (21/10/2026, 30373) — lot CYC14 terminé le 21/10/2026
 - CYC15 : divyadarshanii C/FR26655, edentata C/FR26657, fairylakea C/FR21932, falcata C/FR26659, flabellata C/FR26661
 - CYC16 : fugax C/FR26663, furfuracea C/FR26680, glauca C/FR26684, hoabinhensis C/FR22042, indica C/FR26683
 - CYC17 : inermis C/FR26699, javana C/FR26687, lacrimans C/FR26690, lane-poolei C/FR26681, laotica C/FR22052

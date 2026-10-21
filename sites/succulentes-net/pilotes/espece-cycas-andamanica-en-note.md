@@ -24,3 +24,4 @@
 
 ## Points douteux
 - Protologue d'*andamanica* non lu ; clé de Singh & Misra 2020 non lue ; présence aux Nicobar ; numéro du fascicule (9 selon IPNI, 1 selon WLoC).
+- 21/10/2026 (CYC14) : lien vers *Cycas dharmrajii* (EN 30369) posé à la première occurrence du corps (Taxonomy ; replace_in_content, simulation puis application, 1) ; brouillon aligné.
