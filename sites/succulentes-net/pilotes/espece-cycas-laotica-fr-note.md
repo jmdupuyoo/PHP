@@ -18,3 +18,5 @@
 - Index de la page genre FR 1256 : « Laos ; vulnérable (VU, D2) selon The World List of Cycads, sans évaluation datée… » → « Laos (province de Khammouane) ; vulnérable (VU, 2023) » (dry run 1 remplacement puis application).
 - **À signaler pour l'IT 28677 (non modifiée)** : évaluation UICN désormais datée (Nguyen & Averyanov, version 2023-1, VU via GBIF) ; l'IT et l'index IT 11549 disent encore « senza valutazione datata » ; photos WLoC de 2020 et 2024.
 - Points douteux : incohérence du protologue sur l'épine terminale ; graines de 1-1,5 cm ; critère D2 (WLoC) différent des critères B proposés en 2014, texte de l'évaluation non lu.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 7 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

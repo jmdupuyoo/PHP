@@ -18,3 +18,5 @@
 - Points douteux : concepts incompatibles (Hill : continent ; Feng/Wu : Hainan) ; WLoC incohérent (Fujian-Guangdong + synonymes de Hainan) ; Species+ cite Taïwan ; catégorie et critères de l'évaluation Bösenberg non lus ; lecture du résumé de Tao 2021 ambiguë ; identité des plantes FDP inconnue.
 
 - 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 6 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

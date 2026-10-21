@@ -17,3 +17,5 @@
 - Points douteux : Liste rouge non consultée directement ; périmètre exact de l'évaluation CR (Sri Lanka seul ou aussi Andaman) inconnu ; « 2005 tsunami » dans Telopea ; clé de Singh & Misra 2020 non lue ; Novon 2002 non consulté ; WLoC montre des photos 2025 de la Province centrale du Sri Lanka (lieu non repris).
 
 - 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 7 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

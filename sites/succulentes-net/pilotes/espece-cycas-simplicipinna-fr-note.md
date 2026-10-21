@@ -16,3 +16,5 @@
 
 ## Retouche du 21/10/2026 (signalé lors de CYC07)
 - Ajout de Feng, Wang & Gong 2014 (*BMC Plant Biology* 14 : 187, doi 10.1186/1471-2229-14-187 ; résumé relu sur Europe PMC le 21/10, PMC4114127) : paragraphe en fin de « Dans la nature » (7 populations chinoises, 118 individus, forte diversité au niveau de l'espèce, faible dans chaque population, forte différenciation, structure nette, contraction pendant le dernier glaciaire sans refuge commun ; espèce dite menacée en Chine par les auteurs) et entrée de bibliographie. replace_in_content (simulation 2, application 2). Aligné sur la page EN 18642.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 8 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

@@ -50,3 +50,5 @@
 2. Formes commerciales « robust » : mentionnées comme noms sans valeur botanique ; à retirer si jugé inutile.
 3. Nom anglais « cloud mountain cycad » : cité comme non attesté par une source primaire.
 4. Asie (Nong Nooch, ameblo, Kunming) : rien de spécifique trouvé.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 2 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

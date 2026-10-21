@@ -24,3 +24,5 @@
 - `pilotes/espece-encephalartos-manikensis-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot : ndiff 0 ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées ; aucun lien vers une page FR ; liens internes IT tous en 200.
 - Images : aucune (la FR n'en a pas).
 - Rien commité.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

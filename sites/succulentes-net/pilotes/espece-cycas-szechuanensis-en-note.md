@@ -27,3 +27,5 @@
 
 ## Points douteux
 - Identité des plantes cultivées (confusion possible avec *guizhouensis*) ; statut de la forme type dans la nature (Hill 2008 contre Zheng 2017) ; Feng et al. 2021 lu en résumé seulement.
+
+- 21/10/2026 (CYC15) : lien vers *Cycas fairylakea* EN 30513 (page de synonyme) posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1/1) ; brouillon aligné.

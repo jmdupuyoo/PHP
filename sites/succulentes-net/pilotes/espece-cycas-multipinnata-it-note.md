@@ -57,3 +57,5 @@ La FR 16437 n'a ni encadré ni sources détaillées. N'ont été repris que les 
 
 ## Ritocco del 21/10/2026 (segnalato durante CYC05)
 - Confusioni : *Cycas bifida* « fino a tre volte » (Hill 2008) au lieu de « una sola volta ». replace_in_content sur 28722 : simulation 1, application 1 ; brouillon aligné.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

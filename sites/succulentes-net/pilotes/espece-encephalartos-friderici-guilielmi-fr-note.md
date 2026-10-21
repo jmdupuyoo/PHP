@@ -52,3 +52,5 @@ POWO, Liste rouge UICN (Cloudflare) ; redlist.sanbi.org (403) ; PalmTalk, Dave's
 - Précisé : Ravenne (pot un peu abrité ; −3 °C sans brûlure jusqu'en 2008 ; neige, givre et −7 °C en décembre 2009 sous terrasse près d'un mur ; feuilles perdues, tronc intact en avril 2010 ; mort confirmée en 2013, #post-40982), au lieu de « morte au printemps 2010 ».
 - Source Tropicamente des Sites de référence : « Ravenne 2008 et 2013 » au lieu de « Ravenne 2008, Rome 2010 ».
 - replace_in_content sur 1857 (simulation : 2 remplacements, puis appliqué) ; cmp.py : 0 écart avec le brouillon mis à jour.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

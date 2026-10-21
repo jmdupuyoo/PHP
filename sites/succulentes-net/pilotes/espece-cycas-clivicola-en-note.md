@@ -28,3 +28,5 @@
 ## FR/IT à reprendre (hors lot)
 - FR 26636 : « Confusions possibles » présente encore *Cycas litoralis* comme une espèce à côté d'*edentata* (l'IT est corrigée) ; statut « réévaluation de 2023 non lue » → LC confirmé par GBIF (Bösenberg & Nguyễn 2023-1, Crossref) ; index FR 1256 / IT 11549 à « (LC, 2010) » probablement à passer en 2023 ; jardins (Montgomery, RBG Sydney) et étiquettes GBIF à ajouter (facultatif).
 - IT 28533 : même statut « non letta ».
+
+- 21/10/2026 (CYC15) : lien vers *Cycas edentata* EN 30504 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1/1) ; brouillon aligné.

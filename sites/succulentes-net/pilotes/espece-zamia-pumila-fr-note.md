@@ -56,3 +56,5 @@
 - Écart avec l'IT 28196 et avec le point de fr-retouches.md : ceux-ci ne citent que *Zamia integrifolia* pour la tige frite ; la flore le dit aussi de *Zamia angustifolia* → à reporter dans l'IT 28196.
 - SEO inchangé ; index genre 3963 non concerné.
 - Contrôles : texte en ligne identique au brouillon (≈ 7 030 mots), 12 liens même séquence, liens internes en 200, blocs 174/174, hreflang fr/it/en, aucun commentaire visible ; User-Agent curl et Chrome : 200, `<title>` « Zamia pumila : espèce type du genre, souvent confondue ».
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 11 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

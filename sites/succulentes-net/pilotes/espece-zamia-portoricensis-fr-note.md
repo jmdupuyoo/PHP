@@ -28,3 +28,5 @@
 - Encadré inchangé (statut EN 2022 seul, comme avant). SEO inchangé ; index genre 3963 non concerné.
 - Reste à signaler (hors point demandé) : la Toxicité cite encore sans référence les glycosides « chez les *Zamia* » (même formule que *lacandona*/*magnifica*, sourcées en RF3).
 - Contrôles : texte en ligne identique au brouillon (≈ 4 870 mots), 8 liens même séquence, liens internes en 200, blocs 127/127, hreflang fr/it, aucun commentaire visible ; User-Agent curl et Chrome : 200, `<title>` « Zamia portoricensis : cycadale endémique de Porto Rico ».
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 14 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

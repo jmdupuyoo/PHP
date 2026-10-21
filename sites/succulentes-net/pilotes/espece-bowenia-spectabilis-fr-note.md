@@ -64,3 +64,5 @@ Aucun retour A (date + lieu + valeur + culture + résultat) n'existe pour cette 
 5. Longueur ≈ 3 130 mots (Tinaroo inclus) : accepter ou alléger la FAQ.
 6. Germination : 89-243 jours (CSIRO) contre 1-3 mois (article 15578 du site) ; la fiche expose l'écart. L'article du site pourrait être nuancé.
 7. Photo botanic.jp : le site présente la plante comme une fougère ; cité seulement pour la présence au jardin de Toyama.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 2 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

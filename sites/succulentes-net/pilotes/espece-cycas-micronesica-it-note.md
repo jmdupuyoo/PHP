@@ -31,3 +31,5 @@
 - « Federico Nut » : mentionné comme étiquette du RBG Sydney (Garden Explorer taxon-8042, relu le 21/10/2026), nom de jardin ou d’usage local (Nomi comuni + encadré) ; source ajoutée. EPPO : mise à jour du 16/10/2026 (Italie toujours absente de la liste, relue le 21/10). replace_in_content sur 28709 : simulation 4, application 4 ; brouillon aligné.
 
 - 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: cicasina, metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

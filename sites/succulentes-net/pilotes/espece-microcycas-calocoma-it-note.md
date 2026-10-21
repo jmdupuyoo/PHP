@@ -35,3 +35,5 @@
 - Contrôles : texte en ligne identique au brouillon et liens identiques (verify2.py) ; URL 200 avec User-Agent Chrome, `<title>` « Microcycas calocoma: scheda della palma corcho di Cuba » (pas de page de spam) ; hreflang fr/it/en ; aucun commentaire de bloc visible ; blocs appariés et HTML équilibré (gutbl.check) ; ≈ 5 200 mots avant « Leggi anche ».
 - Points douteux : hauteur maximale (10 m selon C&B / 10-20 m et plus selon la flore, non tranché) ; Peña et al. 1998 (volume à vérifier) ; date du 5 juin 1989 (EcuRed par extrait) ; Ferrer 2013 et Breto Benítez 2025 connus par leurs résumés ; Tropicamente non relu ce jour (lecture du 10/10).
 - Rien commité.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 3 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

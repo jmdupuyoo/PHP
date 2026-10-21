@@ -26,3 +26,5 @@
 - Liens externes (WLoC, minambiente, Caldasia, DOI Brittonia, PMC, Tropicamente) en 200 le 12/10/2026.
 - Inventaire et journal mis à jour. Rien commité.
 - Liens croisés de fin de lot (12/10) : voir journal `restructuration-fr.md` (10 fiches IT liées vers standleyi, stenophyllidia, stricta, tolimensis ; aucune mention non liée de stevensonii trouvée).
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 3 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

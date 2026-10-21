@@ -28,3 +28,5 @@
 - Liens internes tous IT et en 200 (curl) ; aucun lien vers une page FR. Sources : URL en texte brut (rendues cliquables par l'extrait du site).
 - POWO, Liste rouge UICN, PalmTalk, BHL non consultés (Cloudflare) : statuts repris de la FR (WLoC).
 - Rien commité.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

@@ -31,3 +31,5 @@
 
 ## Points douteux
 - Catégorie de l'évaluation Lindström 2022 ; identité, âge et suite du sujet de Concarneau ; années Montgomery déduites des numéros d'accession ; les mentions BGCI ne prouvent pas une plante vivante.
+
+- 21/10/2026 (CYC15) : lien vers *Cycas fairylakea* EN 30513 (page de synonyme) posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1/1) ; brouillon aligné.

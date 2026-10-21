@@ -27,3 +27,5 @@
 - Index de la page genre IT 11879 : entrée liée (replace_in_content ciblé, dry run puis application) ; brouillon `genre-zamia-it.html` aligné.
 - Contenu en ligne revérifié le 12/10 : identique au brouillon (liens ajoutés entre-temps par le lot pygmaea → splendens déjà reportés dans le brouillon par cet autre lot). Inventaire et journal mis à jour. Lot réduit à 5 fiches par le coordinateur : pas de passe globale de liens croisés.
 - Liens croisés de fin de lot (12/10) : voir journal `restructuration-fr.md` (10 fiches IT liées vers standleyi, stenophyllidia, stricta, tolimensis ; aucune mention non liée de stevensonii trouvée).
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

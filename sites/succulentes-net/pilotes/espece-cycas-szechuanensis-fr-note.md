@@ -19,3 +19,5 @@
 - Index de la page genre FR 1256 : ligne *szechuanensis* « Chine (Fujian, Guangdong) … (CR, 2024) » déjà conforme (alignée au lot C3) : non modifiée.
 - **À signaler pour l'IT 28950 (non modifiée)** : retours de semis Fous de palmiers 2010 (boîte fermée, racines contractiles, plantules fin août) ; l'IT ne cite FDP que comme « listes ».
 - Points douteux : redécouverte de la forme type (Hill 2008 : Fujian 1999) contre aucune population sauvage (Zheng 2017, Tao 2021) ; date 1999/2000 pour Shenzhen ; identité des graines du commerce ; POWO non lu.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 11 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

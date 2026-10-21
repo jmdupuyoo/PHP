@@ -49,3 +49,5 @@
 - **Écart** : l'IT *munchii* 27853, présentée comme corrigée le 18/10, contient encore « (2008-2018) » en ligne (vérifié par l'API REST le 18/10) et dans son brouillon : non modifiée (hors consigne), signalée dans pilotes/fr-retouches.md.
 - Toxicité (« glycosides propres aux cycadales, la cycasine et la macrozamine ») correcte, MAM non cité : non modifiée. Index genre 14229 et SEO non concernés.
 - Contrôles : texte en ligne identique au brouillon, 16 liens internes même séquence, tous en 200 ; blocs 112/112 ; hreflang fr/it/en ; aucun commentaire de bloc visible ; User-Agent Chrome et curl : 200, `<title>` « Encephalartos munchii : cycadale du mont Zembe, Mozambique ». Rien commité.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 4 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

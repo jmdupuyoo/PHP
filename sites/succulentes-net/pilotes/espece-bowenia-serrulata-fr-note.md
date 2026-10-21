@@ -54,3 +54,5 @@ Retenus :
 4. Hsiao & Oberprieler 2022, section « Natural History » de *M. subopacus* : le texte écrit « pollinator of *Bowenia spectabilis* », en contradiction avec l'introduction et la localité type (Byfield) — probable coquille de l'article ; la fiche suit l'introduction (*M. subopacus* ↔ *B. serrulata*).
 5. Hybride « *B. serrulata* x *spectabilis* » (pépinière Bamboo Land) : mentionné comme offre commerciale non documentée.
 6. Jardin zoologique tropical : préciser l'espèce de *Bowenia* cultivée en pot si possible.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 3 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

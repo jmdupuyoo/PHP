@@ -68,3 +68,5 @@ Présentée comme forme horticole sans statut botanique, avec seulement : habita
 8. Une pépinière australienne (Bamboo Land) liste un « Bowenia serrulata x spectabilis » : non mentionné faute de source botanique.
 9. Champs de l'encadré non renseignés précisément : rusticité (aucune valeur mesurée), statut IUCN de *B. spectabilis* (année).
 10. Écart de format : la page d'ordre publiée met des `<a target="_blank">` dans « Sites de référence » ; le prompt et le modèle *Butia* demandent du texte brut. Choix : texte brut.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

@@ -37,3 +37,5 @@
 - Mesures de Hill 2008 recopiées de *hainanensis* (FoC préférée).
 - Année Montgomery déduite du numéro ; RBGS : année d'accession lue dans le numéro S2021.
 - Liste rouge et POWO non consultés (Cloudflare) ; sens de 葫芦 non expliqué par les sources.
+
+- 21/10/2026 (CYC15) : lien vers *Cycas fairylakea* EN 30513 (page de synonyme) posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1/1) ; brouillon aligné.

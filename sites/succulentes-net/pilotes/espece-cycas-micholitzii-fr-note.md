@@ -39,3 +39,5 @@
 ## Points douteux
 - Aucune description de l'espèce au sens strict n'a pu être lue (Hill et al. 2004 inaccessible) : la fiche le dit et donne celle de dL&A comme indicative.
 - Nom chinois de Species+ probablement hérité de la conception large (exposé comme tel).
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 2 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

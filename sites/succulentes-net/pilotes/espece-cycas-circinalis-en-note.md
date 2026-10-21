@@ -48,3 +48,5 @@
 - Divergence Raju & Rao 2011 / L&H 2007 et dL&A 1998 sur la flottaison des graines.
 - Année Montgomery déduite du numéro ; date du message Au jardin non trouvée.
 - Les anciennes fiches EN *thouarsii* 16378 et *rumphii* 16371 (non reprises, CYC08/CYC06) contiennent probablement des affirmations à vérifier sur *circinalis* (graines, tableaux).
+
+- 21/10/2026 (CYC15) : lien vers *Cycas edentata* EN 30504 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1/1) ; brouillon aligné.

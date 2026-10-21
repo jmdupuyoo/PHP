@@ -48,3 +48,5 @@ Italie : Naples 1993-94 (4 exemplaires, Gaudio et al. 1997), Hanbury 1897/1912 e
 6. « Altenstein's cycad » : nom non attesté ; « Minister of Culture » non sourcé.
 7. « Protected under South African national legislation » : non vérifié (liste TOPS non lue).
 8. Germination « 3–12 months at 25–30 °C » : protocole générique non sourcé.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 2 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

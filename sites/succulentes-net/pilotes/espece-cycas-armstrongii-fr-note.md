@@ -30,3 +30,5 @@
 
 ## Retouche du 21/10/2026 (nom anglais « fire fern »)
 - Nom anglais « fire fern » désormais mentionné comme attesté (encadré, Noms communs, Sites de référence) : L. P. Butt, Palms & Cycads n° 27 (1990), repris sur le wiki PACSOA (page Cycas armstrongii, citation relue le 21/10/2026 : « The rejuvenating new fronds of both Cycas armstrongii and Cycas calcicola are referred to locally as "fire-fern" ») ; étiquette du Royal Botanic Garden Sydney, Garden Explorer taxon-858 (« Zamia Palm, fire fern », relue le 21/10/2026). Présenté comme nom anglais, sans équivalent français attesté. replace_in_content ciblé (simulation puis application) ; brouillon aligné.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 6 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

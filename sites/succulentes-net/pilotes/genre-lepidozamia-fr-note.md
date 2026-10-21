@@ -98,3 +98,5 @@ POWO, IUCN, Species+ non consultés directement.
 ## 5. Champs de l'encadré
 - Tous renseignés ; Statut UICN et CITES marqués comme relevés indirects ; Rusticité limitée à une valeur de pépinière.
 - Aucune image dans la page actuelle (featured_media vide) : pas de bloc image, pas d'alt à renseigner.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

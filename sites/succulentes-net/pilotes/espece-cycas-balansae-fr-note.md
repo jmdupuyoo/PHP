@@ -15,3 +15,5 @@
 - Vérifications (verify.py) : URL 200 ; aucun commentaire de bloc visible ; 118 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-cycas-balansae-fr.html`, même séquence de 14 liens ; ≈ 4 100 mots.
 - À signaler pour l'IT 28478 (non modifiée) : réévaluation UICN **2023-1** (Nguyen & Lindstrom, e.T42069A67336462 ; EN maintenu selon GBIF) ; la fiche IT ne cite que l'évaluation de 2010.
 - Points douteux : nom vietnamien « Tue da voi » (Species+ seul) ; critères A2acd+4acd (évaluation de 2010 ou de 2023 ?) ; lien entre les points chinois de Zhang 2025 et *C. collina* (déduction) ; Liste rouge non consultée.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 11 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

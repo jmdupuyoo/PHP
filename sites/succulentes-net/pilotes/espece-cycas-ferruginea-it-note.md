@@ -46,3 +46,5 @@
 - Rien retiré. SEO inchangé (meta « IUCN NT » toujours exacte).
 - Index genre IT 11549 : « quasi minacciata (NT, 2010) » → « (NT, 2023) » (simulation 1, application 1) ; brouillon `genre-cycas-it.html` aligné ; verify.py genre : texte identique, 130 liens, 135/135 blocs ; User-Agent curl et Chrome : `<title>` « Cycas: 118 specie, rusticità e coltivazione in Italia ».
 - Contrôles fiche : verify.py — texte identique au brouillon, 14 liens (tous IT, 200), URL 200, aucun commentaire visible, 110/110 blocs, hreflang fr/it/en ; User-Agent curl et Chrome : 200, même taille, `<title>` « Cycas ferruginea: la cicadea dal tomento color ruggine » ; aucune page de spam.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

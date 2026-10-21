@@ -17,3 +17,5 @@
 - Vérifications (verify.py) : URL 200 ; aucun commentaire de bloc visible ; 102 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-cycas-brachycantha-fr.html`, même séquence de 11 liens ; ≈ 2 650 mots.
 - À signaler pour l'IT 28487 (non modifiée) : catégorie de la réévaluation 2023 = **VU** selon les données UICN relayées par GBIF (la fiche IT la dit non vérifiable et évoque NT) ; Wikipédia EN contient bien « very glossy dark green » et « slightly keeled to flat » (la note IT les disait absents).
 - Points douteux : toute la morphologie et l'habitat ne reposent que sur Wikipédia EN ; critères UICN de 2023 inconnus.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 4 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

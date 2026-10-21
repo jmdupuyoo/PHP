@@ -39,3 +39,5 @@
 - Index de la page genre 11549 : nom *szechuanensis* lié dans l'entrée qui contenait déjà le lien *fairylakea* (dry run puis application ; brouillon aligné).
 - Liens entrants (dry run puis application ; brouillons alignés, verify.py 0 bloc manquant) : **fairylakea 28610** (page de synonyme), *segmentifida*, *lingshuigensis*, *hainanensis*, *ferruginea*, *dolichophylla*, *changjiangensis*.
 - 13/10/2026 (même lot) : lien vers *Cycas taiwaniana* 28960 posé dans cette fiche à la première occurrence (Come riconoscere), replace_in_content ciblé ; brouillon aligné (verify.py 0 bloc manquant).
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

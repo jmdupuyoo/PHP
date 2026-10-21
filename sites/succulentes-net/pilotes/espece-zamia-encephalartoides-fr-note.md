@@ -11,3 +11,5 @@
 - SEO Rank Math : titre « Zamia encephalartoides : le Zamia à tronc du Chicamocha » (55 car.) ; meta 146 car. ; mot-clé `zamia encephalartoides` (champs vides auparavant).
 - Vérifications : URL 200 ; aucun commentaire de bloc visible ; 101 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-zamia-encephalartoides-fr.html`, même séquence de liens (verify.py) ; environ 3 500 mots.
 - Points douteux : groupe du río Magdalena (Stevenson ?) ; effectifs LLIFLE sans source (probablement l'évaluation UICN, non consultable) ; −3,5 °C invérifiable ; POWO et Liste rouge non consultés (Cloudflare).
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 4 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

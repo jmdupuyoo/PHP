@@ -44,3 +44,5 @@
 - Divergences exposées : collections privées (PlantZAfrica, comme Vorster 1996, « comune ») contre le dossier NDF du SANBI (« poco comune ») ; croissance rapide (PlantZAfrica) contre adultes à croissance lente (NDF).
 - Inchangé : Moltiplicazione (« protocollo … attribuito a torto a PlantZAfrica » reste exact : l'ancien protocole ne correspond pas à la fiche) ; toxicité déjà harmonisée ; index IT 11663 non concerné.
 - Contrôles : texte en ligne identique au brouillon, 14 liens internes IT même séquence, tous en 200 ; blocs 75/75 ; hreflang fr/it/en ; aucun commentaire de bloc visible ; User-Agent Chrome et curl : 200, `<title>` « Encephalartos msinganus: cicadea di Msinga, KwaZulu-Natal ». Rien commité.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 3 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

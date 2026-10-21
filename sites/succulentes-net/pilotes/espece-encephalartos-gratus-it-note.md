@@ -36,3 +36,5 @@
 - Contrôles : texte en ligne identique au brouillon, liens identiques ; URL 200 sans redirection (User-Agent Chrome), `<title>` normal (pas de spam) ; hreflang en/fr/it ; aucun commentaire de bloc visible ; blocs appariés ; 11 liens internes IT en 200, aucun lien FR.
 - À signaler pour la FR 12439 (non modifiée) : « suspensions visant le Mozambique pour l'ensemble des Zamiaceae (2008-2018) » — d'après Species+, CITES 2012-2019 (dernière levée : notification 2019/027) et UE 2008-2017 (dates de décision).
 - Rien commité.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 3 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

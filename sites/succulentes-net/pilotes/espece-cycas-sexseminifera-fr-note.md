@@ -17,3 +17,5 @@
 
 ## Correction du 17/10/2026
 - Paragraphe sur C. tropophylla : la remarque « carénées en V » / « cycas de la baie d'Ha Long » non confirmés est remplacée par le caractère confirmé (feuilles nettement carénées, Haynes 2022 repris par WLoC) ; Ha Long et Cát Bà sont bien l'aire de tropophylla (fiche FR 22019 du 17/10).
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 6 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

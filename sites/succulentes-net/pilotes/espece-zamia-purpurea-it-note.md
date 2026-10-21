@@ -38,3 +38,5 @@
 - Encadré : statut inchangé (CR, 2022). Index de la page genre IT 11879 : ligne conforme (non modifiée). SEO inchangé (titre et meta toujours exacts).
 - Contrôles (verify.py) : texte en ligne identique au brouillon, liens identiques, liens internes IT en 200, URL 200, aucun commentaire de bloc visible, 124/124 blocs, hreflang fr/it, aucun `<em>` imbriqué. ≈ 3 640 mots.
 - Points douteux : Liste rouge UICN et POWO toujours non consultés (Cloudflare) ; protologue latin et espagnol divergents (exposé).
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

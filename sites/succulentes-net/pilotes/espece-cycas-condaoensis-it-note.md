@@ -44,3 +44,5 @@
 - Contrôles fiche : verify.py — texte identique au brouillon, 12 liens (tous IT, 200), URL 200, aucun commentaire visible, 92/92 blocs, hreflang fr/it/es ; User-Agent curl et Chrome : 200, même taille, `<title>` « Cycas condaoensis: la cicadea delle isole di Côn Đảo » ; aucune page de spam.
 
 - 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

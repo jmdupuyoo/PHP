@@ -31,3 +31,5 @@
 - Inchangé (vérifié) : Delpinoa, Naples (Index Seminum 2012-13, Sibilio 2019), Tropicamente 2009, FdP (confusion commerciale), CLNV, Cycadales.eu.
 - JZT : aucune observation. SEO inchangé (toujours exact). Index 11879 conforme (EN, 2022).
 - Contrôles : URL 200 (UA Chrome et curl), hreflang fr/it, blocs 117/117, aucun commentaire visible, liens IT en 200 ; brouillon aligné. Rien commité.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

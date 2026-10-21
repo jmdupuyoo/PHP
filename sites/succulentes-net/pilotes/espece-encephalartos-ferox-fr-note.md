@@ -46,3 +46,5 @@ Bertoloni (Bologne) et Fornasini : contexte italien de la description ; Naples (
 6. Lien UICN « 41892/10578783 » faux (T41943A51054622) ; subsp. *emersus* (2015, CR) absente.
 7. Bertoloni « Illustratio rerum naturalium Mozambici, Decades 5–7… 4: 243–266 » : erreur ; *Mem. Reale Accad. Sci. Ist. Bologna* 3 : 264-265 (« Illustrazione di piante mozambicesi »).
 8. Rusticité « Zone 10a+ » et tableau comparatif (horridus « stemless multi-suckering », lehmannii « trunk to 2 m ») : non sourcés.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 2 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

@@ -23,3 +23,15 @@
 - 21/10/2026 (lot CYC10) : lignes *apoa*, *arenicola*, *arnhemica*, *badensis*, *basaltica* liées (1 remplacement chacune, simulation puis application) ; *arenicola* et *badensis* « (LC, 2010) » → « (LC, 2023) » (GBIF + Crossref) ; décompte « 13 … 54 » → « 11 … 56 » ; écart antérieur signalé : 42 lignes datées de 2022 (texte : 40), 112 au total (texte : 111). Brouillon aligné.
 
 - 21/10/2026 (retouche avant CYC11, signalée lors de CYC10) : la phrase de décompte des évaluations UICN par année (« Of the 111 assessments … 11 date from 2010, 40 from 2022 and 56 from 2023 … ») remplacée par une formulation sans décompte (« The year of each assessment is given in the list of species below: most come from the reassessments published in 2022 and 2023, the others mainly from 2010 … ») ; simulation puis application, 1/1. Résumé par catégorie recompté sur l'index en ligne (118 lignes) : 20 CR (dont *javana*, année non vérifiée), 26 EN, 27 VU, 15 NT, 23 LC, 7 NE — exact, conservé tel quel (encadré et section Conservation). Brouillon aligné.
+
+- Retouche du 21/10/2026 (signalé lors de CYC11 et CYC14) : lien vers *Cycas cairnsiana* EN 30181 posé à la première mention non liée du corps (Culture, « such as *Cycas cairnsiana* or… ») ; même lien posé dans l'article EN 17561 (arrosage, première mention). replace_in_content simulé puis appliqué (1 + 1) ; brouillon aligné.
+
+- 21/10/2026 (CYC15) : ligne d'index *Cycas divyadarshanii* liée vers EN 30500 (simulation puis application, 1/1) ; brouillon aligné.
+
+- 21/10/2026 (CYC15) : ligne d'index *Cycas edentata* liée vers EN 30504 (simulation puis application, 1/1) ; brouillon aligné.
+
+- 21/10/2026 (CYC15) : synonyme *Cycas fairylakea* de la ligne d'index *Cycas szechuanensis* lié vers EN 30513 (simulation puis application, 1/1) ; mention de la section Taxonomy laissée sans lien ; brouillon aligné.
+
+- 21/10/2026 (CYC15) : ligne d'index *Cycas falcata* liée vers EN 30520 (simulation puis application, 1/1) ; brouillon aligné.
+
+- 21/10/2026 (CYC15) : ligne d'index *Cycas flabellata* liée vers EN 30524 (simulation puis application, 1/1) ; mention de la section Taxonomy (« Recent descriptions… ») laissée sans lien, comme pour *divyadarshanii* ; brouillon aligné.

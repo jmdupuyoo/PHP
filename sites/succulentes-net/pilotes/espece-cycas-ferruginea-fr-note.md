@@ -19,3 +19,5 @@
 - Index de la page genre FR 1256 : « (NT, 2010) » → « (NT, 2023) » (dry run 1 remplacement puis application) ; répartition inchangée (exacte).
 - **À signaler pour l'IT 28616 (non modifiée)** : réévaluation Bösenberg 2023-1 (NT) absente ; Flora of China : limbe des mégasporophylles 3,5-5,5 × 3-5 cm et sclérotesta lisse (divergences non citées en IT) ; Trebrown 9b. La version EN 18686 n'a pas été vérifiée (numéro du type, signalé le 10/10).
 - Points douteux : divergences Hill / Flora of China (tronc, nombre de feuilles, limbe, sclérotesta) non tranchées ; numéro de collecte du type (2220 selon Wei et Hill, 1986 selon WLoC) ; protologue non relu aujourd'hui.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 5 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

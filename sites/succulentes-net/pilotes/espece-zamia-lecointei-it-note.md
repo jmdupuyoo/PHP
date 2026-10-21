@@ -29,3 +29,5 @@
 ## Points douteux
 - Identification Caputo 1996 = source du 2n = 16 : déduction.
 - À signaler pour la FR : la Flora de Colombia en ligne est désormais accessible (description 620).
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 2 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

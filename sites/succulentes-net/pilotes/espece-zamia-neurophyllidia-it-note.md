@@ -34,3 +34,5 @@
 - Vérifié avant création : aucune page IT de l'espèce ni de ses synonymes (API REST, recherche par épithète et synonymes, enfants de 11879) ; aucune redirection visant l'URL (list_redirects).
 - Liens externes contrôlés le 11/10/2026 (200), sauf EUR-Lex (202, page de contrôle anti-robot) et, selon la fiche, Authorea (403) ou data.gouv (délai dépassé).
 - Rien commité.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 2 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

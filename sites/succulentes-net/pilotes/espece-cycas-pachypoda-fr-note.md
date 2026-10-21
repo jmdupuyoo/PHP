@@ -14,3 +14,5 @@
 - Index de la page genre FR 1256 : « Vietnam ; en danger critique (CR, 2010) » → « sud du Vietnam (Bình Thuận, Ninh Thuận) ; en danger critique (CR, 2023) » (dry run 1 remplacement puis application).
 - **À signaler pour l'IT 28778 (non modifiée)** : réévaluation Bösenberg & Nguyen 2023-1 (CR) absente ; l'IT écrit « clima tropicale senza gelo » sans source.
 - Points douteux : tout ce qui dépend du protologue ; présence à Đồng Nai.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 4 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

@@ -60,3 +60,5 @@ Retenus (tous B : aucun retour A n'existe pour cette espèce) :
 3. Will Kraa : lieu de la pépinière non précisé dans l'article ; le site ne lui attribue pas de pays.
 4. Hauteur 20 m : WTMA (« recorded at up to 20 m ») et Gymnosperm Database ; Britannica « plus de 17 m » (extrait).
 5. Wilson & Rowles 1997 (*Encephalartos* 52) non consulté : à fournir si disponible pour préciser la biologie.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 3 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
