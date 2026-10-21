@@ -24,3 +24,13 @@
 - `pilotes/espece-encephalartos-kisambo-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot : ndiff 0 ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées ; aucun lien vers une page FR ; liens internes IT tous en 200.
 - Images : aucune (la FR n'en a pas).
 - Rien commité.
+
+## Correzione del 21/10/2026 (fiche ancienne, lot AE5, 3/3)
+
+- Page 27839 réécrite entièrement (update_content, contenu seul ; slug `kisambo`, parent 11663, traductions FR 12464 / EN 16797 conservées, hreflang fr/it/en vérifiés), alignée sur la FR réécrite le même jour. Brouillon `pilotes/espece-encephalartos-kisambo-it.html` identique au contenu en ligne (cmp.py : 0 écart) ; 200, aucun commentaire visible, liens internes IT en 200 (genre, hildebrandtii, tegulaneus, bubalinus, sclavoi, 3 articles « Leggi anche ») ; aucun lien vers une page FR.
+- Image wp-image-22811 conservée (alt « Encephalartos kisambo »), légende : « Pianta di <em>Encephalartos kisambo</em> al Jardín de Aclimatación de La Orotava (Tenerife, Canarie). » (la note du 11/10 disait « aucune image » : l'image avait été ajoutée depuis).
+- SEO : titre et meta existants toujours exacts, non modifiés.
+- Index 11663 : « (EN, 2010) » → « (EN, 2024) » (simulation puis application : 1 remplacement) ; brouillon `genre-encephalartos-it.html` aligné.
+- Retraits (hérités de l'ancienne FR) : mont Kanga 1 000-1 300 m (billet commercial japonais), climat de Voi, pollinisation et dispersion supposées, valeurs PalmTalk et de pépinière, protocoles génériques, jardins non vérifiés. Le retour de 2015 n'est plus présenté comme sicilien ni « en pot » (déductions) : « località non precisata ».
+- Ajouts : protologue détaillé (mesures, type, récoltes, habitat, épiphytes, ~160 ha, Kasigau/Sagala à confirmer), synonymie *voiensis*/*kanga* (Haynes 2009, CoP17, date 2007/2008), statut 2024-1 (EN), Donaldson 2003, BGCI 2020, Species+ (avis UE formé pour *E. kanga*), culture à Athi River (Cameron 2009) et à Hawaï (Holzman 2009), Var 2009-2014 (FdP).
+- Italie : Naples 1993-94 (Delpinoa 1997), Messine 2009, Tropicamente (Salento 2008 et 2009 [#44032, #44041], 2015 [#41670]). JZT : aucune observation ; aucun message JMDUPUYOO.

@@ -29,4 +29,4 @@ Lots de 5 d'un même genre, un seul lot à la fois ; pour chaque espèce : FR d'
 | AE2 | Encephalartos lehmannii 1362 fait (20/10/2026), longifolius 1373 fait (20/10/2026), natalensis 1866 fait (20/10/2026), princeps 2461 fait (20/10/2026), senticosus 2480 fait (20/10/2026) |
 | AE3 | Encephalartos transvenosus 2502 fait (20/10/2026), trispinosus 2492 fait (20/10/2026), woodii 10803 fait (20/10/2026), villosus 12642 fait (20/10/2026), hildebrandtii 12423 fait (20/10/2026) |
 | AE4 | Encephalartos whitelockii 12023 fait (20/10/2026), paucidentatus 12001 fait (21/10/2026), middelburgensis 11822 fait (21/10/2026), inopinus 7258 fait (21/10/2026), sclavoi 5560 fait (21/10/2026) |
-| AE5 | Encephalartos ituriensis 12619, laurentianus 12515, kisambo 12464 |
+| AE5 | Encephalartos ituriensis 12619 fait (21/10/2026), laurentianus 12515 fait (21/10/2026), kisambo 12464 fait (21/10/2026) |

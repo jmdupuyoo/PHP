@@ -24,3 +24,13 @@
 - `pilotes/espece-encephalartos-laurentianus-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot : ndiff 0 ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées ; aucun lien vers une page FR ; liens internes IT tous en 200.
 - Images : aucune (la FR n'en a pas).
 - Rien commité.
+
+## Correzione del 21/10/2026 (fiche ancienne, lot AE5, 2/3)
+
+- Page 27841 réécrite entièrement (update_content, contenu seul ; slug `laurentianus`, parent 11663, traductions FR 12515 / EN 16836 conservées, hreflang fr/it/en vérifiés), alignée sur la FR réécrite le même jour. Brouillon `pilotes/espece-encephalartos-laurentianus-it.html` identique au contenu en ligne (cmp.py : 0 écart) ; 200, aucun commentaire visible, liens internes IT en 200 (genre, whitelockii, ituriensis, poggei, arenarius, 3 articles « Leggi anche », dont cicadee-orti-botanici-italiani déplacé du corps du texte vers « Leggi anche ») ; aucun lien vers une page FR.
+- Image wp-image-22859 conservée (alt « Encephalartos laurentianus »), légende : « Pianta maschile di <em>Encephalartos laurentianus</em> al Palmetum di Santa Cruz de Tenerife. »
+- SEO : titre et meta existants toujours exacts, non modifiés.
+- Index 11663 : « Angola; dedicato al botanico belga Émile Laurent » → « Angola (valle del Kwango); dedicato a Émile Laurent, professore a Gembloux » (simulation puis application : 1 remplacement) ; brouillon `genre-encephalartos-it.html` aligné.
+- Retraits (hérités de l'ancienne FR) : climat, pollinisation et dispersion supposées, rejets, protocoles génériques, valeurs non sourcées ; mention d'un coltivatore de Ravenne sur la côte de Malaga (grands pieds) non reprise faute de l'avoir relue.
+- Ajouts : protologue (De Wildeman 1903, feuilles 6-7 m, cône mâle rouge carminé, « Malele », non utilisé), Melville 1957, Crosiers & Malaisse 1995 (histoire belge, Laeken, Meise, pollinisation 1991-1992, germination), confusions Ouganda/Ituri, divergences (date du type, dédicace), statut daté (NT B1a, 03/04/2020 publié 2022 ; DD 2003 ; R 1997), Species+ (avis UE, suspensions Angola/RDC), Côte Bleue 2014 (FdP).
+- Italie : Naples 1993-94 (Delpinoa 1997, 1 spécimen), Messine 2009, Tropicamente (Salento 2008, Naples 2010), Canaries (2008, hors Italie, présenté comme tel). JZT : aucune observation ; aucun message JMDUPUYOO.

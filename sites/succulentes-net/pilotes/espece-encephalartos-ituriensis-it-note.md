@@ -24,3 +24,13 @@
 - `pilotes/espece-encephalartos-ituriensis-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot : ndiff 0 ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées ; aucun lien vers une page FR ; liens internes IT tous en 200.
 - Images : aucune (la FR n'en a pas).
 - Rien commité.
+
+## Correzione del 21/10/2026 (fiche ancienne, lot AE5, 1/3)
+
+- Page 27843 réécrite entièrement (update_content, contenu seul ; slug `ituriensis`, parent 11663, traductions FR 12619 / EN 16827 conservées, hreflang fr/it/en vérifiés), alignée sur la FR réécrite le même jour. Brouillon `pilotes/espece-encephalartos-ituriensis-it.html` identique au contenu en ligne (cmp.py : 0 écart) ; 200 (UA Chrome et curl), aucun commentaire visible, liens internes IT en 200 (genre, hildebrandtii, laurentianus, whitelockii, 3 articles « Leggi anche ») ; aucun lien vers une page FR. Images : aucune.
+- SEO : titre et meta existants toujours exacts, non modifiés.
+- Index 11663 : ligne « (VU, 2022) » vérifiée (simulation : 1 correspondance), conforme.
+- Erreurs retirées (héritées de l'ancienne FR) : climat de Bunia, pollinisation et dispersion supposées, valeurs de froid PalmTalk non lues, hybrides et comparaisons de forum, protocoles génériques, présence non vérifiée à Naples (« contenu social »), description limitée au protologue (cônes femelles 20 cm) ; présence en Ouganda présentée désormais comme une hypothèse de 1990 non retenue par WLoC.
+- Ajouts : description amendée de Vorster & Gereau 1998 (cônes ~55 × 20 cm, cinq localités, habitat, phénologie, comparaisons), protologue détaillé (type, autres récoltes), statut daté (Bösenberg 05/03/2020, publié 2022 ; NT → VU, changement non réel, tableau 7 UICN 2022-1 ; NT en 2003), Species+ (avis UE 2011/2013, suspensions RDC 2014-2015), NVBT (Blijdorp), retours FdP anonymisés (Agen, Belley/Montpellier, Deux-Sèvres, Pologne), fibres (Diambu & Çevik 2025).
+- Italie : aucun jardin botanique italien, aucun message Tropicamente. JZT : aucune observation ; aucun message JMDUPUYOO.
+- Points douteux : voir la note FR (Réserve à okapis d'après la NVBT seulement ; prénom « Stanislas »).

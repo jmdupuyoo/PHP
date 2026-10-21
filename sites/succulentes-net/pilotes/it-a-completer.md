@@ -50,3 +50,4 @@ Source des points : pilotes/cycadales-a-verifier.md (sections « IT à compléte
 | AE2 | Encephalartos lehmannii 11796 fait (20/10/2026), longifolius 12060 fait (20/10/2026), natalensis 11940 fait (20/10/2026), princeps 13152 fait (20/10/2026), senticosus 13159 fait (20/10/2026) |
 | AE3 | Encephalartos transvenosus 11991 fait (20/10/2026), trispinosus 12049 fait (20/10/2026), woodii 27964 fait (20/10/2026), villosus 27962 fait (20/10/2026), hildebrandtii 27958 fait (20/10/2026) |
 | AE4 | Encephalartos whitelockii 12037 fait (20/10/2026), paucidentatus 12014 fait (21/10/2026), middelburgensis 11840 fait (21/10/2026), inopinus 12087 fait (21/10/2026), sclavoi 13180 fait (21/10/2026) |
+| AE5 | Encephalartos ituriensis 27843 fait (21/10/2026), laurentianus 27841 fait (21/10/2026), kisambo 27839 fait (21/10/2026) |

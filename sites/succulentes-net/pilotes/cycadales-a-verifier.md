@@ -533,3 +533,29 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - Ancienne page : lien de genre avec `data-id="1074"` ; « jardin botanique de Paris » faux (PDF Encephalartos 139 parle de *Ceratozamia mexicana*).
 - Média 7302 : alt vide dans la médiathèque, corrigé.
 - Page EN 16794 : « une des quatre seules espèces hors d'Afrique australe », tronc souterrain, altitude/climat/USDA, statuts *hildebrandtii* NT et *kisambo* VU, régénération « prolifique » : non sourcés ou faux.
+
+## Signalé lors de AE5 (21/10/2026) — *Encephalartos ituriensis*, *laurentianus*, *kisambo*
+
+### *Encephalartos ituriensis* (FR 12619 / IT 27843) — FR FAIT 21/10/2026 — IT FAIT 21/10/2026
+- Aucun JZT (pages, zootropical.com), aucun message JMDUPUYOO (FdP « ituriensis » : 32 résultats).
+- Ouganda : Species+ (et Donaldson 2003) citent encore l'Ouganda ; WLoC non (plantes de la Mpanga = *whitelockii*).
+- Réserve de faune à okapis : seulement d'après la NVBT.
+- Statut : NT → VU en 2022 (tableau 7 UICN 2022-1, changement non réel) ; deux identifiants 2022 (A51057666, A243427735).
+- Page EN 16827 : pointe des folioles « bifurcate/trifurcate » (faux), feuilles 3,6-4,3 m, cônes femelles 18-20 cm, tronc « erect », climat sans saison sèche, Adansonia 211-214, identifiants POWO/UICN faux, tableau comparatif non sourcé.
+
+### *Encephalartos laurentianus* (FR 12515 / IT 27841) — FR FAIT 21/10/2026 — IT FAIT 21/10/2026
+- Aucun JZT (pages, légendes, zootropical.com), aucun message JMDUPUYOO (FdP « laurentianus » : 14 résultats).
+- Type Gentil 98 : septembre 1902 (protologue, WLoC) / août 1902 (Melville, Crosiers & Malaisse).
+- Dédicace : WLoC/Haynes « introduced this species into cultivation » contredit De Wildeman 1903 et Crosiers & Malaisse 1995 (Laurent a introduit les premiers *Encephalartos* du Congo, *E. poggei*).
+- « Feuilles parmi les plus longues du genre » : non sourcé explicitement (feuilles 4-7 m documentées).
+- Médias 22815/22816 : alt vide dans la médiathèque, renseigné.
+- Page EN 16836 : superlatifs non sourcés (plus grand cycas, feuilles les plus longues, 5 poussées par an, 8 m), pointe « bifurcate/trifurcate » diagnostique, cônes « yellowish green », « Malele (Kikongo) », Uíge, 450-550 m, climat, valeurs de pépiniéristes, « large numbers » contredit par Crosiers & Malaisse (populations non retrouvées en 1988).
+
+### *Encephalartos kisambo* (FR 12464 / IT 27839) — FR FAIT 21/10/2026 — IT FAIT 21/10/2026
+- Aucun JZT (pages, légendes, zootropical.com), aucun message JMDUPUYOO (FdP « kisambo » : 23 résultats).
+- Statut : réévaluation publiée en 2024-1 (EN, datée du 31/08/2023) ; WLoC cite encore 2010. Index FR/IT passés à (EN, 2024).
+- Tanzanie (Kilimandjaro) : WLoC/Species+ sans détail dans les sources lues ; page EN : « Kisima Hill, Mkomazi » non vérifié.
+- *E. kanga* : 2007 (Haynes, Species+) / 2008 (WLoC).
+- Jardin botanique de Lyon (inventaire .xls) : inaccessible (TLS), copie archive.org du 19/04/2024 non téléchargeable ; mention retirée, à vérifier par le propriétaire.
+- Pages *hildebrandtii* FR 12423 / IT 27958 (hors lot) : la phrase « *Encephalartos kisambo* a souvent des folioles plus falciformes, une denture moins exubérante et des feuilles plus dressées » reprend en partie l'ancienne fiche kisambo ; « falciformes, moins de dents » est sourcé (Faden & Beentje 1989), « feuilles plus dressées » ne l'est pas (Holzman : dressées à la sortie puis étalées).
+- Page EN 16797 : altitude 800-1 800 m, mesures du tronc et des cônes, couleur du feuillage, superlatifs, localités supplémentaires, « ~5000 mature individuals », statut sans 2024 : non sourcés ou contraires au protologue.
