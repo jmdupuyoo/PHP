@@ -6,7 +6,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - CYC02 : chamaoensis R18723/FR21828 fait (21/10/2026, 18723), changjiangensis R18627/FR21885 fait (21/10/2026, 18627), circinalis R16365/FR13700 fait (21/10/2026, 16365), debaoensis R16403/FR5683 fait (21/10/2026, 16403), diannanensis R18578/FR6175 fait (21/10/2026, 18578)
 - CYC03 : dolichophylla R16497/FR26146 fait (21/10/2026, 16497), elephantipes R18710/FR26150 fait (21/10/2026, 18710), elongata R18705/FR26154 fait (21/10/2026, 18705), ferruginea R18686/FR22030 fait (21/10/2026, 18686), guizhouensis R16451/FR1741 fait (21/10/2026, 16451)
 - CYC04 : hainanensis R18613/FR21912 fait (21/10/2026, 18613), hongheensis R18581/FR21975 fait (21/10/2026, 18581), lindstromii R18737/FR26158 fait (21/10/2026, 18737), media R16423/FR14336 fait (21/10/2026, 16423), megacarpa R16520/FR14323 fait (21/10/2026, 16520) — lot CYC04 terminé le 21/10/2026
-- CYC05 : micholitzii R16443/FR14413, micronesica R16385/FR26163, multifrondis R18676/FR14304, multipinnata R18655/FR16437, panzhihuaensis R16350/FR1670
+- CYC05 : micholitzii R16443/FR14413 fait (21/10/2026, 16443), micronesica R16385/FR26163 fait (21/10/2026, 16385), multifrondis R18676/FR14304 fait (21/10/2026, 18676), multipinnata R18655/FR16437 fait (21/10/2026, 18655), panzhihuaensis R16350/FR1670 fait (21/10/2026, 16350) — lot CYC05 terminé le 21/10/2026
 - CYC06 : pectinata R16415/FR26165, revoluta R16343/FR13945, rumphii R16371/FR10608, seemannii R16512/FR6162, segmentifida R18691/FR22059
 - CYC07 : siamensis R16409/FR22080, simplicipinna R18642/FR21897, szechuanensis R18596/FR21937, taitungensis R16354/FR1726, taiwaniana R18603/FR21905
 - CYC08 : tanqingii R18728/FR21944, thouarsii R16378/FR10600
