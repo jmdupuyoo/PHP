@@ -34,5 +34,5 @@ Lots de 5 d'un même genre, un seul lot à la fois ; pour chaque espèce : FR d'
 ## Complément découvert en phase EN (21/10/2026)
 | Lot | Fiches |
 |---|---|
-| AC4 | Cycas debaoensis FR 5683 / IT 11764 (ancienne génération, jamais vérifiée ; erreurs listées dans pilotes/espece-cycas-debaoensis-en-note.md ; EN 16403 réécrite le 21/10 depuis les sources primaires) |
+| AC4 | Cycas debaoensis FR 5683 / IT 11764 (ancienne génération, jamais vérifiée ; erreurs listées dans pilotes/espece-cycas-debaoensis-en-note.md ; EN 16403 réécrite le 21/10 depuis les sources primaires) — fait (21/10/2026) : FR et IT réécrites, aucune observation JZT, index FR/IT conformes |
 | AC5 | *hainanensis* et *taiwaniana* : traitent encore *C. changjiangensis* comme synonyme (contraire à WLoC) — à vérifier en FR/IT avant CYC04/CYC07 |

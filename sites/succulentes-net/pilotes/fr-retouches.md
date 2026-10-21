@@ -55,3 +55,8 @@ Liste de travail (lots de 5 d'un même genre, comme d'habitude). Détails dans p
 
 ## À nettoyer (repéré lors de la création des espèces manquantes, 18/10/2026)
 - FR Zamia pseudoparasitica 14482 : ancienne fiche, tableau « Comparaison avec Zamia obliqua » non sourcé (« racine pivotante atteignant 15 m », mesures, couleurs). Corrigé le 18/10 : auteur d'obliqua A.Braun (et non A.Dietr.), statut LC 2022 (et non VU). Fiche à nettoyer entièrement (gabarit FR récent) d'après la fiche IT et la nouvelle fiche obliqua 29441. — fait (19/10/2026) : réécriture complète (voir espece-zamia-pseudoparasitica-fr-note.md).
+
+## Ajouts (phase EN, lot CYC03, 21/10/2026)
+- FR dolichophylla 26146 / IT 28585 + index FR 1256 / IT 11549 : statut daté de 2010 (Nguyen) → réévaluation Bösenberg, Liste rouge 2023-1, NT (doi 10.2305/iucn.uk.2023-1.rlts.t42053a68900008.en ; GBIF NT) ; « (NT, 2010) » → « (NT, 2023) ».
+- FR elongata 26154 / IT + index FR 1256 / IT 11549 : statut 2010 → réévaluation Bösenberg & Nguyen, Liste rouge 2023-1, EN (doi 10.2305/iucn.uk.2023-1.rlts.t42054a68900715.en ; GBIF EN) ; lectotype désigné par Hill, Nguyen & Loc 2004 (résumé, page de référence WLoC 21dd730e…) ; RBG Sydney : 5 plantes sauvages (S2006-0905).
+- FR guizhouensis 1741 / IT 11650 : l'hybride *guizhouensis* × *taitungensis* « obtenu par Internet » (FdP p=147210) : le message ne dit pas que l'auteur possédait cet hybride → reformuler (doute sur son intérêt seulement).

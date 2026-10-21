@@ -559,3 +559,11 @@ WLoC (export scratchpad/wloc.xlsx) : 382 espèces acceptées. Absentes du site e
 - Jardin botanique de Lyon (inventaire .xls) : inaccessible (TLS), copie archive.org du 19/04/2024 non téléchargeable ; mention retirée, à vérifier par le propriétaire.
 - Pages *hildebrandtii* FR 12423 / IT 27958 (hors lot) : la phrase « *Encephalartos kisambo* a souvent des folioles plus falciformes, une denture moins exubérante et des feuilles plus dressées » reprend en partie l'ancienne fiche kisambo ; « falciformes, moins de dents » est sourcé (Faden & Beentje 1989), « feuilles plus dressées » ne l'est pas (Holzman : dressées à la sortie puis étalées).
 - Page EN 16797 : altitude 800-1 800 m, mesures du tronc et des cônes, couleur du feuillage, superlatifs, localités supplémentaires, « ~5000 mature individuals », statut sans 2024 : non sourcés ou contraires au protologue.
+
+## Signalé lors de AC4 / CYC03 (21/10/2026)
+- *C. debaoensis* : ~30 messages JMDUPUYOO (FdP 2008-2017 ; gros sujet en pleine terre 2012-2013, remis sous serre en avril 2014) exclus des pages — à faire valider par le propriétaire.
+- FR 26146 / IT 28585 *dolichophylla* : statut 2010 → NT (Bösenberg, 2023-1) ; index FR/IT aussi.
+- FR 26154 / IT *elongata* : statut 2010 → EN (2023-1) ; lectotype Hill, Nguyen & Loc 2004 (résumé sur WLoC) ; index FR/IT aussi.
+- FR *guizhouensis* 1741 : hybride avec *taitungensis* « obtenu par Internet » — le message FdP p=147210 n'exprime qu'un doute ; reformuler (et IT si présent).
+- Page genre EN 16282 : décompte « 23 date from 2010, 40 from 2022, 45 from 2023 » faux (≈ 19 / 43 / 49 en ligne).
+- EN *pectinata* 16415 : *elephantipes* « au nord du Vietnam » → Thaïlande. EN *tanqingii* 18728 : *elongata* « 30–60 feuilles » non vérifié.
