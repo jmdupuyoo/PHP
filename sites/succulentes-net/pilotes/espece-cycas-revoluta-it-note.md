@@ -30,3 +30,6 @@
 
 ## Aggiunta del 19/10/2026 (dopo la scheda circinalis)
 - Nome italiano « sagù » aggiunto in « In sintesi » e « Nomi comuni » (replace_in_content, simulazione 2/2 poi 2/2): l'Orto Botanico di Palermo, pagina « Storia delle collezioni », scrive « vivono bene da lungo tempo all'aperto il sagù e il falso sagù, Cycas revoluta e C. circinalis » (testo riletto il 19/10/2026). Pagina « Storia delle collezioni » aggiunta ai Siti di riferimento (replace_in_content 1/1). Bozza aggiornata e identica al contenuto online (verify: 0 blocchi mancanti, bilanciamento 166/166).
+
+## Ritocco del 21/10/2026 (segnalato durante CYC06)
+- replace_in_content (simulazione 4, applicazione 4): Tassonomia — Chang e colleghi 2022 (*Front. Plant Sci.* 13: 824158) come studio all'origine della sinonimia *taitungensis* seguita da WCVP/POWO; Riferimenti internazionali — Juniper Level Botanic Garden (pagina del 07/08/2014 riletta il 21/10: *revoluta* non sopravvissuta a 4-9 °F, −15,6/−12,8 °C, senza protezione; *taitungensis* e ibridi sopravvissuti; «C. taitungensis is a hardier plant»); fonti aggiunte (JLBG, Chang 2022). Bozza allineata, pagina identica online (200).

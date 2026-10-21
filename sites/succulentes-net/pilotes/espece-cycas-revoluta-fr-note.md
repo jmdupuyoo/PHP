@@ -47,3 +47,6 @@
 
 ## Points douteux
 - Date de Palerme (1793 / 1799) non tranchée. Présence sauvage au Fujian incertaine (FoC / Hill). Taille des graines divergente (Hill ≈ 25 mm ; dL&A et FoC 35-50 mm). Seuils de −3 / −10 °C (Val Rahmeh) donnés sans détail.
+
+## Retouche du 21/10/2026 (signalée lors de CYC06)
+- replace_in_content (simulation 5, application 5) : Taxonomie — Chang et al. 2022 (*Front. Plant Sci.* 13 : 824158, Crossref vérifié) présenté comme l'étude à l'origine de la synonymie *taitungensis* suivie par la WCVP/POWO (flux de gènes par le pollen et des bulbilles portées par le Kuroshio, caractères qui se recouvrent) ; FAQ « à la suite de Chang et ses collègues (2022) » ; Repères internationaux — Juniper Level Botanic Garden (page du 07/08/2014 relue le 21/10 : *revoluta* parmi les cycadales non survivantes à 4-9 °F, soit −15,6 à −12,8 °C, sans protection ; *taitungensis* et des hybrides survivants ; réponse « C. taitungensis is a hardier plant ») ; sources : JLBG (Sites de référence) et Chang et al. 2022 (Bibliographie). Messages du compte du propriétaire dans les commentaires JLBG exclus. Brouillon aligné, page identique en ligne, 200 (UA Chrome et curl), `<title>` correct.

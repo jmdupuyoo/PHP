@@ -38,3 +38,6 @@
 
 ## FR/IT à reprendre (hors lot)
 - FR 13945 / IT 11558 : citer Chang et al. 2022 (raison de la synonymie WCVP/POWO de *taitungensis*) ; JLBG (*revoluta* non survivant à 4-9 °F, *taitungensis* plus rustique au final) pourrait compléter les repères internationaux ; FR : OEPP sans date de mise à jour (16/10/2026).
+
+## Liens entrants posés le 21/10/2026 (signalé lors de CYC06)
+- Lien vers https://succulentes.net/en/cycads/cycas/revoluta/ posé à la première mention utile, texte inchangé, dans les 12 articles EN qui citaient *Cycas revoluta* sans lien : 29754, 29756, 29749, 18542, 18532, 18526, 17771, 16460, 16465, 15683, 15581 (simulation 12, application 12) ; dans 15574, le lien existant pointait vers la fiche FR 13945 : href remplacé par la fiche EN (data-id 16343). Articles en 200, aucun lien interne non EN restant dans leur contenu.
