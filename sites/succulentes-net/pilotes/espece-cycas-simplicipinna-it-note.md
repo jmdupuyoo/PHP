@@ -46,3 +46,6 @@
 - Présence en Chine : divergence Hill 2008 (plantes chinoises = *C. collina*) / WLoC et Zheng et al. 2017-2025 (Yunnan) / Species+ (Chine absente) — exposée.
 - Description détaillée (LLIFLE) non contrôlée sur Hill & Yang 1999 (JSTOR payant) ; seules les valeurs du protologue sont recoupées.
 - Nom chinois 單羽蘇鐵 attesté seulement par LLIFLE.
+
+## Ritocco del 21/10/2026 (segnalato durante CYC07)
+- Aggiunto Feng, Wang & Gong 2014 (*BMC Plant Biology* 14: 187, doi 10.1186/1471-2229-14-187, PMC4114127 ; riassunto riletto su Europe PMC il 21/10): paragrafo alla fine di « In natura » e voce di bibliografia. replace_in_content (simulazione 2, applicazione 2). Allineato alla pagina EN 18642 e alla FR 21897.

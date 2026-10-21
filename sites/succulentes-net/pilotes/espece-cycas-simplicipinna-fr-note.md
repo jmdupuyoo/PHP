@@ -13,3 +13,6 @@
 - Index genre 1256 : « Chine (Yunnan), Laos, … » → « Chine (Yunnan, présence discutée), Laos, … » (dry run 1 puis application) ; statut (NT, 2023) inchangé.
 - Points douteux : Hill & Yang 1999 non lu (chiffres LLIFLE) ; nom chinois 單羽蘇鐵 (LLIFLE seul) ; présence en Chine et en Birmanie ; identité des plantes cultivées.
 - **À signaler pour l'IT 28926 (non modifiée)** : rien de nouveau de fond ; précision possible : le collectionneur FDP cultive dans l'Ain et l'Hérault (l'IT dit « un coltivatore francese »), et l'été 2011 décrit comme peu favorable aux poussées pour toute sa collection.
+
+## Retouche du 21/10/2026 (signalé lors de CYC07)
+- Ajout de Feng, Wang & Gong 2014 (*BMC Plant Biology* 14 : 187, doi 10.1186/1471-2229-14-187 ; résumé relu sur Europe PMC le 21/10, PMC4114127) : paragraphe en fin de « Dans la nature » (7 populations chinoises, 118 individus, forte diversité au niveau de l'espèce, faible dans chaque population, forte différenciation, structure nette, contraction pendant le dernier glaciaire sans refuge commun ; espèce dite menacée en Chine par les auteurs) et entrée de bibliographie. replace_in_content (simulation 2, application 2). Aligné sur la page EN 18642.

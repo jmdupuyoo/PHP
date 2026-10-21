@@ -6,7 +6,7 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 |---|---|---|---|
 | Bowenia | 2 | 3 | 0 |
 | Ceratozamia | 45 | 0 | 0 |
-| Cycas | 122 | 39 | 19 |
+| Cycas | 122 | 44 (39 au 19/10 + 5 créées le 21/10, lot CYC09) | 19 |
 | Dioon | 19 | 19 | 0 |
 | Encephalartos | 65 | 60 | 0 |
 | Lepidozamia | 2 | 2 | 0 |
@@ -28,7 +28,7 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 | Page | ID | État |
 |---|---|---|
 | Ordre *Cycadales* (/en/cycads/) | 15147 | réécrite le 19/10/2026 (brouillon pilotes/ordre-cycadales-en.html) |
-| Genre *Cycas* (/en/cycads/cycas/) | 16282 | réécrite le 19/10/2026 (brouillon pilotes/genre-cycas-en.html) ; index : 118 espèces, 36 fiches EN liées (+ miqueli, hainanensis sous ancien nom) |
+| Genre *Cycas* (/en/cycads/cycas/) | 16282 | réécrite le 19/10/2026 (brouillon pilotes/genre-cycas-en.html) ; index : 118 espèces, 36 fiches EN liées (+ miqueli, hainanensis sous ancien nom) ; +5 fiches liées le 21/10/2026 (CYC09 : aculeata, aenigma, andamanica dans la ligne pschannae, angulata, annaikalensis) |
 | Genre *Zamia* (/en/cycads/zamia/) | 16295 | réécrite le 19/10/2026 (brouillon pilotes/genre-zamia-en.html) ; index : 88 espèces, 19 fiches EN liées |
 | Genre *Ceratozamia* (/en/cycads/ceratozamia/) | 16307 | réécrite le 19/10/2026 (brouillon pilotes/genre-ceratozamia-en.html) ; index : 45 espèces, aucune fiche EN |
 | Genre *Encephalartos* (/en/cycads/encephalartos/) | 16289 | réécrite le 19/10/2026 (brouillon pilotes/genre-encephalartos-en.html) ; index : 65 espèces, 59 fiches EN liées + fiche « caffer » dans la ligne *afer* ; image mise en avant 5556 ajoutée |
@@ -83,6 +83,13 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 | CYC07 | *Cycas szechuanensis* | 18596 | R | réécrite le 21/10/2026 ; section *Stangerioides* ; *fairylakea* synonyme (WLoC) ; SEO 56/143 | ≈ 4 960 | AU : RBG Victoria Melbourne (2 plantes sauvages en pleine terre, 2019, 2022), RBG Sydney (S2024-0402 ×4) ; US : Montgomery (3, 1994), BGCI Houston, Norfolk, SDBG, SDZ ; UK : aucun | pilotes/espece-cycas-szechuanensis-en.html, -en-note.md |
 | CYC07 | *Cycas taitungensis* | 16354 | R | réécrite le 21/10/2026 ; images 3192, 3193 (+ mise en avant 4300) ; JZT ; USDA 7b non attribué retiré ; SEO 60/141 | ≈ 5 000 | US : Montgomery (4, 1977-2024), Fairchild, Juniper Level (pleine terre), BGCI ≈ 29 ; AU : RBG Sydney (6 plantes), BGCI Adelaide, JCU, Melbourne ; UK : BGCI Kew, Wisley (hybride) | pilotes/espece-cycas-taitungensis-en.html, -en-note.md |
 | CYC07 | *Cycas taiwaniana* | 18603 | R | réécrite le 21/10/2026 ; aligné sur WLoC (*changjiangensis* accepté, POWO non cité comme autorité) ; SEO 54/150 | ≈ 5 150 | US : Montgomery (3 sous *hainanensis*, 1993-2000), BGCI ≈ 10 ; AU : RBG Sydney (1 sauvage 1993 + 4 de 2021), BGCI Brisbane, Noosa, Cairns, Melbourne ; UK : BGCI Oxford, Birmingham | pilotes/espece-cycas-taiwaniana-en.html, -en-note.md |
+| CYC08 | *Cycas tanqingii* | 18728 | R | réécrite le 21/10/2026 ; « earliest-diverging member », noms anglais inventés, climat, USDA 9b-10a et comparaison des couronnes (*elongata* « 30–60 », invérifiable) écartés ; SEO 54/151 | ≈ 3 975 | US : BGCI Hilo ; UK, AU : aucun | pilotes/espece-cycas-tanqingii-en.html, -en-note.md |
+| CYC08 | *Cycas thouarsii* | 16378 | R | réécrite le 21/10/2026 d'après FR/IT AC2 (LC 2024, Hill/LHS vs dL&A, « circinalis » de jardinerie) ; index « (LC, 2024) » ; SEO 57/148 | ≈ 4 550 | UK : BGCI Kew, Glasgow, MSB ; US : Montgomery (9), Fairchild (1), BGCI ≈ 20 ; AU : RBG Sydney (7, 1990-2015), RBG Victoria (4 en massifs extérieurs, Melbourne), BGCI Brisbane, Adélaïde, Cairns, JCU | pilotes/espece-cycas-thouarsii-en.html, -en-note.md |
+| CYC09 | *Cycas aculeata* | 30102 | C | créée le 21/10/2026 (translation_of FR 22084 ; fr/it/en) ; SEO 54/149 | ≈ 2 800 | aucun | pilotes/espece-cycas-aculeata-en.html, -en-note.md |
+| CYC09 | *Cycas aenigma* | 30105 | C | créée le 21/10/2026 (translation_of FR 26570 ; fr/it/en) ; SEO 55/149 | ≈ 2 500 | aucun | pilotes/espece-cycas-aenigma-en.html, -en-note.md |
+| CYC09 | *Cycas andamanica* | 30108 | C | créée le 21/10/2026, page de synonyme de *pschannae* (translation_of FR 21956 ; fr/it/en) ; index : « synonym: *Cycas andamanica* » lié dans la ligne *pschannae* ; SEO 57/147 | ≈ 3 470 | aucun (sous les deux noms) | pilotes/espece-cycas-andamanica-en.html, -en-note.md |
+| CYC09 | *Cycas angulata* | 30111 | C | créée le 21/10/2026 (translation_of FR 26591 ; fr/it/en) ; PACSOA, PDF Lavaud 2021, Hill 2010 ajoutés ; lien article Lavaud EN non posé (l'article ne cite pas l'espèce) ; SEO 59/150 | ≈ 3 900 | US : Montgomery (2), BGCI Fairchild, SDBG, NTBG ; AU : Darwin (photos 2016), Katherine (PACSOA), Sunshine Coast (Lavaud), BGCI Adélaïde, Hunter Region, Noosa ; UK : aucun | pilotes/espece-cycas-angulata-en.html, -en-note.md |
+| CYC09 | *Cycas annaikalensis* | 30118 | C | créée le 21/10/2026 (translation_of FR 26601 ; fr/it/en) ; réévaluation 2023-1 toujours CR (GBIF) ; index « (CR, 2023) » ; SEO 57/148 | ≈ 2 770 | aucun | pilotes/espece-cycas-annaikalensis-en.html, -en-note.md |
 
 Relevé du lot CYC01 (à traiter plus tard) :
 - FR 14377 / IT 14390 (*beddomei*) et FR 14394 / IT 14404 (*bifida*) sont de l'ancienne génération, jamais nettoyées : les fiches EN ont été rédigées sur sources primaires ; erreurs FR/IT listées dans les notes EN → retouche FR/IT à prévoir.
@@ -130,4 +137,13 @@ Relevé du lot CYC06 (21/10/2026) :
 - Retours anglophones : aucun retour de forum lisible et crédible (PalmTalk, Dave's Garden, Hardy Tropicals bloqués ; Pushing the Borders t=1540 vide au téléchargement). Observations JZT : aucune pour les 5 espèces (dit dans chaque page ; article FR *taitungensis* cité sans lien dans *revoluta*).
 - Index genre EN 16282 : *pectinata* (VU 2023), *revoluta* (LC 2023), *rumphii* (NT 2023) corrigés (1/1 chacun) ; *seemannii*, *segmentifida* conformes ; phrase de décompte recalculée (2010 : 15, 2022 : 40, 2023 : 53, 2014 et 2024 : 1, *javana* non vérifié).
 - Liens EN posés dans d'anciennes fiches : *siamensis* 16409 (→ *pectinata*), *thouarsii* 16378 et *Dioon spinulosum* 17822 (→ *rumphii*). 12 articles de blog EN citent *Cycas revoluta* sans lien vers la fiche (dont les deux du 20/10) : non modifiés (hors lot).
+
+Relevé des lots CYC08-CYC09 (21/10/2026) :
+- Retouche préalable : FR 21897 / IT 28926 *simplicipinna* — Feng, Wang & Gong 2014 (*BMC Plant Biology*) ajouté (« Dans la nature » / « In natura » + bibliographie, 2/2 chacune).
+- Fiches FR sources : *tanqingii* 21944 (C7, 17/10), *thouarsii* 10600 (AC2, 19/10), *aculeata* 22084 (13/10, RF1 18/10), *andamanica* 21956 (C1/C6 13/10, RF1 18/10) nettoyées ; *aenigma* 26570, *angulata* 26591, *annaikalensis* 26601 : génération du 03/10 sur sources primaires (non « nettoyées » à proprement parler, mais sans ancienne génération à corriger). Textes FR en ligne identiques aux brouillons (cmp du 21/10).
+- Fiches C : aucune page EN préexistante (y compris corbeille) ni redirection ; groupes Polylang fr/it/en vérifiés (aucune ES pour ces 5 espèces) ; la FR garde l'IT.
+- Index genre EN 16282 : *thouarsii* (LC, 2024), *annaikalensis* (lien + CR, 2023), liens *aculeata*, *aenigma*, *angulata*, *andamanica* (dans la ligne *pschannae*) ; décompte des années d'évaluation : 2010 : 13, 2022 : 40, 2023 : 54, 2014 : 1, 2024 : 2 (*javana* non vérifié) ; brouillon genre aligné (identique).
+- Liens EN posés vers les fiches du lot : *calcicola* 16487, *armstrongii* 16432, *media* 16423 (→ *angulata*) ; *circinalis* 16365 (→ *annaikalensis*) ; *tanqingii* et *thouarsii* déjà liés partout ; aucune autre page EN ne cite *aculeata*, *aenigma*, *andamanica*.
+- Aucun retour de culture anglophone lisible (PalmTalk, Dave's Garden bloqués ; résumés de moteur de recherche non cités). Expérience méditerranéenne (FdP, Au jardin, Tropicamente) reprise pour *thouarsii* ; aucune observation JZT pour les 7 espèces.
+- Lien vers l'article Lavaud EN 16530 non posé dans *angulata* : l'article ne cite pas l'espèce (le PDF Lavaud 2021, distinct, est cité en Sources).
 

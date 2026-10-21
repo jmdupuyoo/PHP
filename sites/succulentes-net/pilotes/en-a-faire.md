@@ -9,8 +9,8 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - CYC05 : micholitzii R16443/FR14413 fait (21/10/2026, 16443), micronesica R16385/FR26163 fait (21/10/2026, 16385), multifrondis R18676/FR14304 fait (21/10/2026, 18676), multipinnata R18655/FR16437 fait (21/10/2026, 18655), panzhihuaensis R16350/FR1670 fait (21/10/2026, 16350) — lot CYC05 terminé le 21/10/2026
 - CYC06 : pectinata R16415/FR26165 fait (21/10/2026, 16415), revoluta R16343/FR13945 fait (21/10/2026, 16343), rumphii R16371/FR10608 fait (21/10/2026, 16371), seemannii R16512/FR6162 fait (21/10/2026, 16512), segmentifida R18691/FR22059 fait (21/10/2026, 18691) — lot CYC06 terminé le 21/10/2026
 - CYC07 : siamensis R16409/FR22080 fait (21/10/2026, 16409), simplicipinna R18642/FR21897 fait (21/10/2026, 18642), szechuanensis R18596/FR21937 fait (21/10/2026, 18596), taitungensis R16354/FR1726 fait (21/10/2026, 16354), taiwaniana R18603/FR21905 fait (21/10/2026, 18603) — lot CYC07 terminé le 21/10/2026
-- CYC08 : tanqingii R18728/FR21944, thouarsii R16378/FR10600
-- CYC09 : aculeata C/FR22084, aenigma C/FR26570, andamanica C/FR21956, angulata C/FR26591, annaikalensis C/FR26601
+- CYC08 : tanqingii R18728/FR21944 fait (21/10/2026, 18728), thouarsii R16378/FR10600 fait (21/10/2026, 16378) — lot CYC08 terminé le 21/10/2026
+- CYC09 : aculeata C/FR22084 fait (21/10/2026, 30102), aenigma C/FR26570 fait (21/10/2026, 30105), andamanica C/FR21956 fait (21/10/2026, 30108), angulata C/FR26591 fait (21/10/2026, 30111), annaikalensis C/FR26601 fait (21/10/2026, 30118) — lot CYC09 terminé le 21/10/2026
 - CYC10 : apoa C/FR26605, arenicola C/FR26609, arnhemica C/FR26613, badensis C/FR26618, basaltica C/FR26620
 - CYC11 : bougainvilleana C/FR26622, brachycantha C/FR22089, brunnea C/FR26624, cairnsiana C/FR26626, campestris C/FR26628
 - CYC12 : canalis C/FR26630, candida C/FR26632, cantafolia C/FR26634, chenii C/FR21968, chevalieri C/FR21892
