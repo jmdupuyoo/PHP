@@ -165,3 +165,5 @@ aenigma, angulata, annaikalensis, apoa, arenicola, arnhemica, badensis, basaltic
 - *javana* non modifié (« (CR, année non vérifiée) ») : Crossref donne une évaluation Lindstrom publiée en 2023-1 (10.2305/iucn.uk.2023-1.rlts.t42093a68903080.en, issued 2020-08-10 ; précédente : Hill, 2010-3), mais GBIF renvoie NOT_EVALUATED pour *Cycas javana* (Miq.) de Laub. (clé 2683247, sans iucnTaxonID) : catégorie actuelle non vérifiable, à trancher par le propriétaire (Liste rouge bloquée).
 - Brouillon `genre-cycas-fr.html` aligné (2/2). Contrôles : verify.py texte et liens identiques (144 liens, internes en 200), blocs 359/359, hreflang fr/it/en/es, aucun commentaire visible ; User-Agent curl et Chrome : 200, `<title>` « Cycas : 118 espèces, rusticité en France et culture ».
 - 21/10/2026 (retouche signalée lors de CYC06) : index *pectinata* « (VU, 2010) » → « (VU, 2023) » (Bösenberg, Liste rouge 2023-1 ; replace_in_content, simulation 1, application 1) ; brouillon aligné, page identique en ligne.
+
+- 21/10/2026 : index « (CR, 2010) » → « (CR, 2023) » pour *annaikalensis* (réévaluation 2023-1, GBIF) ; brouillon aligné.

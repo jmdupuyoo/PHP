@@ -6,7 +6,7 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 |---|---|---|---|
 | Bowenia | 2 | 3 | 0 |
 | Ceratozamia | 45 | 0 | 0 |
-| Cycas | 122 | 44 (39 au 19/10 + 5 créées le 21/10, lot CYC09) | 19 |
+| Cycas | 122 | 49 (39 au 19/10 + 10 créées le 21/10, lots CYC09 et CYC10) | 19 |
 | Dioon | 19 | 19 | 0 |
 | Encephalartos | 65 | 60 | 0 |
 | Lepidozamia | 2 | 2 | 0 |
@@ -14,7 +14,7 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 | Microcycas | 1 | 1 | 0 |
 | Stangeria | 1 | 0 | 0 |
 | Zamia | 88 | 19 | 0 |
-| **Total** | **386** | **165** | **19** |
+| **Total** | **386** | **175** (165 au 19/10 + 10 créées le 21/10) | **19** |
 
 - EN : 156 des 165 fiches n'ont pas été modifiées depuis septembre 2026 (ancienne génération, mêmes défauts que les anciennes FR : à reprendre au gabarit récent d'après les FR/IT vérifiées). Environ 221 fiches EN à créer. Page ordre EN 15147 et 10 pages genre EN (16282-16335), datées du 29/09/2026.
 - ES : page ordre 23482 et page genre Cycas 23432 seulement ; 19 fiches Cycas ; les 9 autres genres et environ 367 fiches à créer.
@@ -28,7 +28,7 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 | Page | ID | État |
 |---|---|---|
 | Ordre *Cycadales* (/en/cycads/) | 15147 | réécrite le 19/10/2026 (brouillon pilotes/ordre-cycadales-en.html) |
-| Genre *Cycas* (/en/cycads/cycas/) | 16282 | réécrite le 19/10/2026 (brouillon pilotes/genre-cycas-en.html) ; index : 118 espèces, 36 fiches EN liées (+ miqueli, hainanensis sous ancien nom) ; +5 fiches liées le 21/10/2026 (CYC09 : aculeata, aenigma, andamanica dans la ligne pschannae, angulata, annaikalensis) |
+| Genre *Cycas* (/en/cycads/cycas/) | 16282 | réécrite le 19/10/2026 (brouillon pilotes/genre-cycas-en.html) ; index : 118 espèces, 36 fiches EN liées (+ miqueli, hainanensis sous ancien nom) ; +5 fiches liées le 21/10/2026 (CYC09 : aculeata, aenigma, andamanica dans la ligne pschannae, angulata, annaikalensis) ; +5 le 21/10/2026 (CYC10 : apoa, arenicola, arnhemica, badensis, basaltica) |
 | Genre *Zamia* (/en/cycads/zamia/) | 16295 | réécrite le 19/10/2026 (brouillon pilotes/genre-zamia-en.html) ; index : 88 espèces, 19 fiches EN liées |
 | Genre *Ceratozamia* (/en/cycads/ceratozamia/) | 16307 | réécrite le 19/10/2026 (brouillon pilotes/genre-ceratozamia-en.html) ; index : 45 espèces, aucune fiche EN |
 | Genre *Encephalartos* (/en/cycads/encephalartos/) | 16289 | réécrite le 19/10/2026 (brouillon pilotes/genre-encephalartos-en.html) ; index : 65 espèces, 59 fiches EN liées + fiche « caffer » dans la ligne *afer* ; image mise en avant 5556 ajoutée |
@@ -90,6 +90,11 @@ Comptage par l'API REST (pages publiées sous /en/cycads/<genre>/<espèce>/ et /
 | CYC09 | *Cycas andamanica* | 30108 | C | créée le 21/10/2026, page de synonyme de *pschannae* (translation_of FR 21956 ; fr/it/en) ; index : « synonym: *Cycas andamanica* » lié dans la ligne *pschannae* ; SEO 57/147 | ≈ 3 470 | aucun (sous les deux noms) | pilotes/espece-cycas-andamanica-en.html, -en-note.md |
 | CYC09 | *Cycas angulata* | 30111 | C | créée le 21/10/2026 (translation_of FR 26591 ; fr/it/en) ; PACSOA, PDF Lavaud 2021, Hill 2010 ajoutés ; lien article Lavaud EN non posé (l'article ne cite pas l'espèce) ; SEO 59/150 | ≈ 3 900 | US : Montgomery (2), BGCI Fairchild, SDBG, NTBG ; AU : Darwin (photos 2016), Katherine (PACSOA), Sunshine Coast (Lavaud), BGCI Adélaïde, Hunter Region, Noosa ; UK : aucun | pilotes/espece-cycas-angulata-en.html, -en-note.md |
 | CYC09 | *Cycas annaikalensis* | 30118 | C | créée le 21/10/2026 (translation_of FR 26601 ; fr/it/en) ; réévaluation 2023-1 toujours CR (GBIF) ; index « (CR, 2023) » ; SEO 57/148 | ≈ 2 770 | aucun | pilotes/espece-cycas-annaikalensis-en.html, -en-note.md |
+| CYC10 | *Cycas apoa* | 30128 | C | créée le 21/10/2026 (translation_of FR 26605 ; fr/it/en) ; GBIF LC (2023-1), PACSOA ; SEO 54/144 | ≈ 2 780 | UK : BGCI Glasgow ; US : BGCI SDBG, Atlanta ; AU : BGCI Cairns | pilotes/espece-cycas-apoa-en.html, -en-note.md |
+| CYC10 | *Cycas arenicola* | 30133 | C | créée le 21/10/2026 (translation_of FR 26609 ; fr/it/en) ; GBIF LC (Ottley & Liddle 2023-1) contre FoA « NT, 2022 » ; PDF Lavaud (Territoire du Nord) ; index « (LC, 2023) » ; SEO 51/142 | ≈ 2 960 | AU : Darwin (photos 2016) ; US : BGCI Montgomery, Honolulu, NTBG ; UK : aucun | pilotes/espece-cycas-arenicola-en.html, -en-note.md |
+| CYC10 | *Cycas arnhemica* | 30137 | C | créée le 21/10/2026 (translation_of FR 26613 ; fr/it/en) ; GBIF LC (2022) ; PDF Lavaud (Territoire du Nord) ; SEO 58/142 | ≈ 3 390 | AU : Darwin (photos 2016), BGCI ANBG Canberra ; US, UK : aucun | pilotes/espece-cycas-arnhemica-en.html, -en-note.md |
+| CYC10 | *Cycas badensis* | 30144 | C | créée le 21/10/2026 (translation_of FR 26618 ; fr/it/en) ; GBIF LC (Bösenberg 2023-1) contre FoA « NT, 2022 » ; PACSOA ; index « (LC, 2023) » ; SEO 55/137 | ≈ 2 430 | aucun | pilotes/espece-cycas-badensis-en.html, -en-note.md |
+| CYC10 | *Cycas basaltica* | 30148 | C | créée le 21/10/2026 (translation_of FR 26620 ; fr/it/en) ; protologue Gardner cité ; RBG Sydney, PACSOA (Butt 1990) ; SEO 50/151 | ≈ 3 170 | AU : RBG Sydney (S1990-2910, S2015-1275, sauvages) ; US, UK : aucun | pilotes/espece-cycas-basaltica-en.html, -en-note.md |
 
 Relevé du lot CYC01 (à traiter plus tard) :
 - FR 14377 / IT 14390 (*beddomei*) et FR 14394 / IT 14404 (*bifida*) sont de l'ancienne génération, jamais nettoyées : les fiches EN ont été rédigées sur sources primaires ; erreurs FR/IT listées dans les notes EN → retouche FR/IT à prévoir.
@@ -146,4 +151,13 @@ Relevé des lots CYC08-CYC09 (21/10/2026) :
 - Liens EN posés vers les fiches du lot : *calcicola* 16487, *armstrongii* 16432, *media* 16423 (→ *angulata*) ; *circinalis* 16365 (→ *annaikalensis*) ; *tanqingii* et *thouarsii* déjà liés partout ; aucune autre page EN ne cite *aculeata*, *aenigma*, *andamanica*.
 - Aucun retour de culture anglophone lisible (PalmTalk, Dave's Garden bloqués ; résumés de moteur de recherche non cités). Expérience méditerranéenne (FdP, Au jardin, Tropicamente) reprise pour *thouarsii* ; aucune observation JZT pour les 7 espèces.
 - Lien vers l'article Lavaud EN 16530 non posé dans *angulata* : l'article ne cite pas l'espèce (le PDF Lavaud 2021, distinct, est cité en Sources).
+
+Relevé du lot CYC10 (21/10/2026) :
+- Retouches préalables (signalées lors de CYC08-09) : *angulata* FR 26591 / IT 28454 (« le plus grand *Cycas* d'Australie », Toxicité FR reformulée, titre SEO IT) ; *annaikalensis* FR 26601 / IT 28457 (CR 2023-1 via GBIF ; index FR 1256 / IT 11549 « (CR, 2023) »).
+- Fiches FR sources : les 5 (03/10/2026) rédigées sur sources primaires (protologues ou révisions en texte intégral : Lindström et al. 2009, Hill 1993, 1994, 1996, Gardner 1923) ; aucune n'est de l'ancienne génération. IT (12/10) sans fait supplémentaire hors Italie.
+- Fiches C : aucune page EN préexistante (y compris corbeille) ni redirection ; groupes Polylang fr/it/en vérifiés (aucune ES pour ces 5 espèces) ; la FR garde l'IT.
+- Index genre EN 16282 : 5 lignes liées ; *arenicola* et *badensis* « (LC, 2010) » → « (LC, 2023) » (GBIF + Crossref) ; décompte des années : 2010 : 11, 2022 : 40, 2023 : 56 (mais 42 lignes datées de 2022 en ligne, total 112 : écart antérieur signalé hors lot) ; brouillon genre aligné.
+- Liens EN posés vers les fiches du lot : *micronesica* 16385 et *rumphii* 16371 (→ *apoa*) ; *calcicola* 16487 (→ *arenicola*, *arnhemica*) ; *armstrongii* 16432, *arenicola* 30133, *angulata* 30111 (→ *arnhemica*) ; *angulata* 30111 (→ *badensis*) ; *media* 16423 (→ *basaltica*).
+- Lavaud : l'article EN 16530 ne cite aucune des 5 espèces (aucun lien en Further reading) ; le PDF 2021 ne les nomme pas, mais son classement collectif des espèces du Territoire du Nord vise *arenicola* et *arnhemica* (cité avec cette réserve) ; non cité pour *apoa*, *badensis*, *basaltica*.
+- Aucun retour de culture anglophone lisible ; aucune observation JZT pour les 5 espèces. WLoC (cycadlist.org) injoignable le 21/10 (connexion réinitialisée par le proxy) : faits WLoC repris des FR.
 

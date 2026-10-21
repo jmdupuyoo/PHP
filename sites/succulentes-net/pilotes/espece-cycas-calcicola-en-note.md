@@ -39,3 +39,5 @@
 
 ## Suivi (21/10/2026)
 - Retouche FR 21857 / IT 28499 faite : « fire fern » y figure désormais comme nom anglais attesté (PACSOA/Butt 1990).
+
+- 21/10/2026 (lot CYC10) : liens vers *arenicola* 30133 et *arnhemica* 30137 (Possible confusion) posé(s) par replace_in_content ciblé (simulation puis application, 1 par lien) ; brouillon aligné, vérifié identique au rendu.

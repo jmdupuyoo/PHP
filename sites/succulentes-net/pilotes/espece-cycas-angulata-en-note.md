@@ -26,3 +26,5 @@
 ## Points douteux / FR à reprendre
 - FR 26591 (et IT 28454 ?) : l'intro dit « la plus grande cycadale d'Australie » ; c'est le plus robuste des *Cycas* (Hill), *Lepidozamia hopei* dépassant 17 m → corriger « cycadale » en « *Cycas* ». Phrase maladroite en Toxicité FR (« Ces résultats confirment… Le risque est en revanche bien documenté… »). Le PDF Lavaud 2021 (classement « difficile », Sunshine Coast) et Hill 2010 pourraient compléter la FR/IT.
 - Hauteur PACSOA (10 m en moyenne) contre Hill (5 m, rarement 12 m) ; année des accessions Montgomery déduite des numéros.
+
+- 21/10/2026 (lot CYC10) : liens vers *arnhemica* 30137 et *badensis* 30144 (Taxonomie, liste de Laubenfels & Adema) posé(s) par replace_in_content ciblé (simulation puis application, 1 par lien) ; brouillon aligné, vérifié identique au rendu.

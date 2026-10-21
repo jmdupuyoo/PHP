@@ -29,3 +29,5 @@
 
 ## FR/IT à reprendre (hors lot)
 - Aucune erreur trouvée ; RBG Sydney (3 plantes sauvages, dont une des Philippines) pourrait compléter « Repères internationaux ».
+
+- 21/10/2026 (lot CYC10) : lien vers *apoa* 30128 (Taxonomie) posé(s) par replace_in_content ciblé (simulation puis application, 1 par lien) ; brouillon aligné, vérifié identique au rendu.

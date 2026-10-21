@@ -50,3 +50,5 @@
 - *javana* non modifié (« (CR, anno non verificato) ») : évaluation Lindstrom publiée en 2023-1 (Crossref T42093A68903080) mais GBIF renvoie NOT_EVALUATED (clé 2683247) ; signalé au propriétaire.
 - Brouillon `genre-cycas-it.html` aligné (2/2). Contrôles : verify.py texte et liens identiques (130 liens, internes en 200), blocs 135/135, hreflang fr/it/en/es, aucun commentaire visible ; User-Agent curl et Chrome : 200, `<title>` « Cycas: 118 specie, rusticità e coltivazione in Italia ».
 - 21/10/2026 (retouche signalée lors de CYC06) : index *pectinata* « (VU, 2010) » → « (VU, 2023) » (Bösenberg, Liste rouge 2023-1 ; replace_in_content, simulation 1, application 1) ; brouillon aligné, page identique en ligne.
+
+- 21/10/2026 : index « (CR, 2010) » → « (CR, 2023) » pour *annaikalensis* (réévaluation 2023-1, GBIF) ; brouillon aligné.

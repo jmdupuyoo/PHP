@@ -12,7 +12,7 @@
 - JZT : aucune observation dans la FR.
 
 ## SEO, liens, contrôles
-- SEO : titre « Cycas angulata: la più grande cicadea dell'Australia » (52 car.) ; meta 146 car. ; mot-clé `Cycas angulata`. Rank Math : 3 107 mots, 8 liens internes, aucun problème.
+- SEO : titre « Cycas angulata: la più grande Cycas dell'Australia » (50 car. ; corrigé le 21/10/2026, voir plus bas ; à l'origine « la più grande cicadea dell'Australia ») ; meta 146 car. ; mot-clé `Cycas angulata`. Rank Math : 3 107 mots, 8 liens internes, aucun problème.
 - Liens internes (IT, 200) : genre (intro), *Cycas megacarpa* 14330, *Cycas media* 14337, *Cycas beddomei* 14390, *Cycas revoluta* 11558 ; « Leggi anche » : semina, marciume, tossicità. Sans page IT (non liés) : *brunnea*, *ophiolitica*, *platyphylla*, *couttsiana*, *arnhemica*, *orientis*, *desolata*, *badensis*, *maconochiei*, *semota*, *tuckeri*, *yorkiana*.
 - Index de la page genre 11549 : entrée liée (dry run puis application) ; brouillon `genre-cycas-it.html` aligné et revérifié.
 - Brouillon identique au contenu en ligne (109 blocs, 8 liens) ; URL 200 ; aucun commentaire visible ; blocs 115/115 ; aucun lien FR.
@@ -35,3 +35,6 @@
 - 12/10/2026 : lien vers *Cycas maconochiei* (28690) posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné.
 - 12/10/2026 (lot nayagarhensis–orientis) : lien vers *Cycas ophiolitica* 28751 posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content dry run puis application ; brouillon aligné).
 - 12/10/2026 (lot nayagarhensis–orientis) : lien vers *Cycas orientis* 28762 posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content dry run puis application ; brouillon aligné).
+
+## Retouche du 21/10/2026 (signalé lors de CYC08-09)
+- Intro « la più grande cicadea dell'Australia » → « la più grande *Cycas* dell'Australia » (et titre SEO Rank Math) : *Lepidozamia hopei* dépasse 17 m ; Hill (1992, 1996) fait d'*angulata* le plus robuste des *Cycas* australiens seulement (cohérent avec la FAQ). replace_in_content simulation 1 / application 1 ; update_seo (50 car.) ; brouillon aligné.

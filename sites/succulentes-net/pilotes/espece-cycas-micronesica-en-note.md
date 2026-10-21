@@ -28,3 +28,5 @@
 ## Points douteux
 - Tinian (registre fédéral, Marler et al. 2020) absent de la répartition WLoC ; Pagan incertain ; protologue non lu (dimensions) ; usages alimentaires non détaillés ; « Federico nut » : origine du nom non documentée.
 - Hors lot : FR 26163 et IT 28709 disent « federico nut » non attesté et datent l'EPPO du 27/09 ; RBG Sydney l'emploie (étiquette) → signalé dans cycadales-a-verifier.md.
+
+- 21/10/2026 (lot CYC10) : lien vers *apoa* 30128 (Taxonomie) posé(s) par replace_in_content ciblé (simulation puis application, 1 par lien) ; brouillon aligné, vérifié identique au rendu.

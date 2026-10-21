@@ -37,3 +37,7 @@ Aucun point bloquant. Nom accepté (WLoC), aucune page existante sous ce nom ou 
 
 ## Publication
 - Publiée le 03/10/2026 : id 26601, https://succulentes.net/cycadales/cycas/annaikalensis/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
+
+## Retouche du 21/10/2026 (signalé lors de CYC08-09)
+- Statut UICN : réévaluation Bösenberg, Liste rouge 2023-1 (doi 10.2305/IUCN.UK.2023-1.RLTS.T178883A67334745.en, Crossref) = **CR** d'après GBIF (API iucnRedListCategory, clé 176752708, revérifiée le 21/10/2026 : CRITICALLY_ENDANGERED). Mis à jour : encadré, Statut (critères de 2023 non consultés), FAQ « menaces », Sites de référence (GBIF ajouté), Bibliographie (annotation Bösenberg). replace_in_content simulation 5 / application 5 ; brouillon aligné.
+- Index de la page genre (FR 1256 / IT 11549) : « (CR, 2010) » → « (CR, 2023) » (1/1 chacun) ; brouillons genre alignés.

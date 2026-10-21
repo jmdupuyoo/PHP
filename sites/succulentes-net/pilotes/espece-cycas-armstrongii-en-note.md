@@ -49,3 +49,5 @@
 
 ## Suivi (21/10/2026)
 - Point « nom commun » réglé : FR 21562 et IT 28466 (ainsi que FR/IT calcicola) mentionnent désormais « fire fern » comme nom anglais attesté (PACSOA/Butt 1990, étiquette RBG Sydney).
+
+- 21/10/2026 (lot CYC10) : lien vers *arnhemica* 30137 (Possible confusion) posé(s) par replace_in_content ciblé (simulation puis application, 1 par lien) ; brouillon aligné, vérifié identique au rendu.

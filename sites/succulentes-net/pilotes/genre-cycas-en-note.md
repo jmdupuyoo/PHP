@@ -19,3 +19,5 @@
 
 ## Lot CYC06 (21/10/2026)
 - Index : *pectinata* « (VU, 2010) » → « (VU, 2023) », *revoluta* « (LC, 2010) » → « (LC, 2023) », *rumphii* « (NT, 2010) » → « (NT, 2023) » (1/1 chacun ; pour *revoluta*, simulation faite sur la sous-chaîne finale puis application avec la ligne complète). Phrase de décompte mise à jour en conséquence : « 15 date from 2010, 40 from 2022 and 53 from 2023 » (simulation 1, application 1). Brouillon aligné (post.py : texte et 44 liens identiques).
+
+- 21/10/2026 (lot CYC10) : lignes *apoa*, *arenicola*, *arnhemica*, *badensis*, *basaltica* liées (1 remplacement chacune, simulation puis application) ; *arenicola* et *badensis* « (LC, 2010) » → « (LC, 2023) » (GBIF + Crossref) ; décompte « 13 … 54 » → « 11 … 56 » ; écart antérieur signalé : 42 lignes datées de 2022 (texte : 40), 112 au total (texte : 111). Brouillon aligné.

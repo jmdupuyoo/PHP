@@ -41,3 +41,8 @@ Aucun point bloquant. Nom accepté (WLoC), aucune page existante sous ce nom ou 
 
 ## Publication
 - Publiée le 03/10/2026 : id 26591, https://succulentes.net/cycadales/cycas/angulata/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
+
+## Retouche du 21/10/2026 (signalé lors de CYC08-09)
+- Intro « la plus grande cycadale d'Australie » → « le plus grand *Cycas* d'Australie » : *Lepidozamia hopei* dépasse 17 m ; Hill (1992, 1996) fait d'*angulata* le plus robuste des *Cycas* australiens seulement (titre SEO FR déjà correct).
+- Toxicité, 2e paragraphe : « Ces résultats confirment, pour l'espèce, un risque bien établi chez les cycas. Le risque est en revanche bien documenté dans le genre : » → « Ces résultats confirment, pour cette espèce, un risque bien documenté dans tout le genre : » (fond inchangé).
+- replace_in_content simulation 2 / application 2 ; brouillon aligné.

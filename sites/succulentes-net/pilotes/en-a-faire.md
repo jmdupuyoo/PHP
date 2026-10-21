@@ -11,7 +11,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - CYC07 : siamensis R16409/FR22080 fait (21/10/2026, 16409), simplicipinna R18642/FR21897 fait (21/10/2026, 18642), szechuanensis R18596/FR21937 fait (21/10/2026, 18596), taitungensis R16354/FR1726 fait (21/10/2026, 16354), taiwaniana R18603/FR21905 fait (21/10/2026, 18603) — lot CYC07 terminé le 21/10/2026
 - CYC08 : tanqingii R18728/FR21944 fait (21/10/2026, 18728), thouarsii R16378/FR10600 fait (21/10/2026, 16378) — lot CYC08 terminé le 21/10/2026
 - CYC09 : aculeata C/FR22084 fait (21/10/2026, 30102), aenigma C/FR26570 fait (21/10/2026, 30105), andamanica C/FR21956 fait (21/10/2026, 30108), angulata C/FR26591 fait (21/10/2026, 30111), annaikalensis C/FR26601 fait (21/10/2026, 30118) — lot CYC09 terminé le 21/10/2026
-- CYC10 : apoa C/FR26605, arenicola C/FR26609, arnhemica C/FR26613, badensis C/FR26618, basaltica C/FR26620
+- CYC10 : apoa C/FR26605 fait (21/10/2026, 30128), arenicola C/FR26609 fait (21/10/2026, 30133), arnhemica C/FR26613 fait (21/10/2026, 30137), badensis C/FR26618 fait (21/10/2026, 30144), basaltica C/FR26620 fait (21/10/2026, 30148) — lot CYC10 terminé le 21/10/2026
 - CYC11 : bougainvilleana C/FR26622, brachycantha C/FR22089, brunnea C/FR26624, cairnsiana C/FR26626, campestris C/FR26628
 - CYC12 : canalis C/FR26630, candida C/FR26632, cantafolia C/FR26634, chenii C/FR21968, chevalieri C/FR21892
 - CYC13 : clivicola C/FR26636, collina C/FR22067, condaoensis C/FR22008, conferta C/FR26638, couttsiana C/FR26640
