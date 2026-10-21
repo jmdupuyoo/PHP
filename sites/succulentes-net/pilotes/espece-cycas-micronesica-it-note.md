@@ -26,3 +26,6 @@
 
 ## Points douteux (repris de la FR)
 - Tinian (registre fédéral, Marler et al. 2020) absent de la répartition WLoC ; Pagan incertain ; POWO et Liste rouge non consultés (Cloudflare) ; usages alimentaires non détaillés faute de source primaire.
+
+## Ritocco del 21/10/2026 (segnalato durante CYC05)
+- « Federico Nut » : mentionné comme étiquette du RBG Sydney (Garden Explorer taxon-8042, relu le 21/10/2026), nom de jardin ou d’usage local (Nomi comuni + encadré) ; source ajoutée. EPPO : mise à jour du 16/10/2026 (Italie toujours absente de la liste, relue le 21/10). replace_in_content sur 28709 : simulation 4, application 4 ; brouillon aligné.

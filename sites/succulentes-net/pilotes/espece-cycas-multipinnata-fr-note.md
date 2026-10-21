@@ -12,3 +12,6 @@
 - Index de la page genre FR 1256 : « (CR, 2010) » → « (CR, 2023) » (dry run 1 remplacement puis application).
 - **À signaler pour l'IT 28722 (non modifiée)** : réévaluation Nguyen & Gong 2023-1 (CR) absente ; la FoC donne mégasporophylles 8-12 cm (et non 8-13), 25-35 lobes, graines verdâtres à jaunâtres, 12-22 paires de folioles primaires (Hill : 14-36 folioles) — l'IT mélange en partie les deux sources.
 - Points douteux : présence au Guangxi (Hill seul) ; critères de la réévaluation 2023 non vus ; *Cycas longipetiolula* (synonyme FoC / hybride Hill).
+
+## Retouche du 21/10/2026 (signalé lors de CYC05)
+- Confusions : *Cycas bifida* a des folioles divisées par dichotomie près de la base « jusqu'à trois fois » (Hill 2008, comme les fiches FR *bifida*, *multifrondis*, *micholitzii*), et non « une seule fois ». replace_in_content sur 16437 : simulation 1, application 1 ; brouillon aligné.

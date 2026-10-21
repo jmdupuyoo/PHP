@@ -54,3 +54,6 @@ La FR 16437 n'a ni encadré ni sources détaillées. N'ont été repris que les 
 - SEO inchangé (titre et meta toujours exacts). Index genre IT 11549 : « (CR, 2010) » → « (CR, 2023) » (simulation 1 puis application 1), brouillon genre aligné (verify.py identique, 130 liens).
 - Contrôles : verify.py (texte identique, 12 liens en 200, blocs 118/118, hreflang fr/it/en, aucun commentaire visible) ; User-Agent curl et Chrome : 200, `<title>` « Cycas multipinnata: la cicadea dalle foglie giganti », nouveau texte servi.
 - Hors lot : l'index genre IT 11549 donne encore *debaoensis* « (CR, 2010) » (non vérifié ici).
+
+## Ritocco del 21/10/2026 (segnalato durante CYC05)
+- Confusioni : *Cycas bifida* « fino a tre volte » (Hill 2008) au lieu de « una sola volta ». replace_in_content sur 28722 : simulation 1, application 1 ; brouillon aligné.
