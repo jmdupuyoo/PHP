@@ -50,3 +50,5 @@
 - Les anciennes fiches EN *thouarsii* 16378 et *rumphii* 16371 (non reprises, CYC08/CYC06) contiennent probablement des affirmations à vérifier sur *circinalis* (graines, tableaux).
 
 - 21/10/2026 (CYC15) : lien vers *Cycas edentata* EN 30504 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1/1) ; brouillon aligné.
+
+- 24/10/2026 (CYC20) : lien vers *Cycas papuana* EN 30768 posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.

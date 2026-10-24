@@ -24,3 +24,5 @@
 ## Points douteux
 - FR 26700 : co-récolteur du type écrit « Lyn Stanberg » ; WLoC donne « Stanberg, L » et la fiche EN *arnhemica* écrit « Leonie Stanberg » → EN écrit « L. Stanberg » ; prénom à vérifier dans la FR/IT.
 - Aucun nom aborigène trouvé (repris de la FR).
+
+- 24/10/2026 (CYC20) : lien vers *Cycas papuana* EN 30768 posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.

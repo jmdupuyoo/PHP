@@ -34,3 +34,7 @@
 
 ## Examen du 21/10/2026 (0e avant CYC17)
 - Lien *chamaoensis* (perdu en 0c) non reposé : aucune source lue ne compare les deux espèces (la page *chamaoensis* 18723 cite *elephantipes* parmi les confusions sans en donner la raison ; Hill 1999 et le rapport du DOA thaïlandais ne sont pas disponibles en texte comparatif). Rien inventé.
+
+- 24/10/2026 (CYC20) : lien vers *Cycas pachypoda* EN 30759 posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
+
+- 24/10/2026 (CYC20) : lien vers *Cycas petraea* EN 30777 posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.

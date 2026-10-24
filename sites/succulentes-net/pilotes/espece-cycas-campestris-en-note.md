@@ -25,3 +25,5 @@
 ## Points douteux
 - Concept de l'espèce (Hill 1994 vs de Laubenfels & Adema 1998) ; déterminations des spécimens anciens non revérifiées (classés sous ce nom).
 - Description de Hill 1994 non lue.
+
+- 24/10/2026 (CYC20) : lien vers *Cycas papuana* EN 30768 posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
