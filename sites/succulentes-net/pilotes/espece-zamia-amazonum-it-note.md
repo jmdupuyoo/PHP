@@ -24,3 +24,6 @@
 ## Points douteux
 - Étymologie : WLoC/Haynes « haut bassin amazonien » vs Flora de Colombia « département d'Amazonas » — les deux données. À signaler pour la FR : sable blanc, noms portugais, liste rouge colombienne, seuil 12-15 °C non sourcés.
 - POWO, UICN et BHL non consultés (Cloudflare) ; statuts UICN repris de WLoC.
+
+## Retouche du 24/10/2026 (0c avant ZAM02)
+- Noms communs (encadré, section, ligne GBIF des sources) : les deux noms portugais de Flora e Funga do Brasil pour l'Acre (« batata-de-paca », « palmeirinha-espinhosa », lus via l'API GBIF le 24/10, liste officielle non ouverte : protection Anubis) sont désormais présentés avec la même réserve que l'EN 20459 (application incertaine : WLoC ne cite pas l'Acre ; « batata de paca » aussi pour *Zamia ulei* sur une étiquette d'herbier), au lieu de « aucune source fiable ». 3 remplacements (simulation puis application) ; brouillon aligné.

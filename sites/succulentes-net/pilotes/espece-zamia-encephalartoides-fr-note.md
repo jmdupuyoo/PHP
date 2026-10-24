@@ -13,3 +13,6 @@
 - Points douteux : groupe du río Magdalena (Stevenson ?) ; effectifs LLIFLE sans source (probablement l'évaluation UICN, non consultable) ; −3,5 °C invérifiable ; POWO et Liste rouge non consultés (Cloudflare).
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 4 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du 24/10/2026 (0b avant ZAM02)
+- Noms communs : note de rédaction visible retirée (« La forme « cacao d'Indien », donnée jusqu'ici sur cette page… ») ; remplacée par « « Cacao d'Indien » n'en est qu'une traduction littérale, sans usage attesté en français, et aucune source n'explique l'origine du nom espagnol. » (replace_in_content, simulation puis 1 remplacement ; brouillon aligné).

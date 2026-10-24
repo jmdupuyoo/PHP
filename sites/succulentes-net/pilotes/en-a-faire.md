@@ -32,7 +32,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 
 ## Zamia — 19 à reprendre, 69 à créer
 - ZAM01 : amazonum R20459/FR22275 fait (24/10/2026, 20459), boliviana R20410/FR22283 fait (24/10/2026, 20410), brasiliensis R20416/FR22303 fait (24/10/2026, 20416), encephalartoides R20399/FR22294 fait (24/10/2026, 20399), furfuracea R20366/FR14461 fait (24/10/2026, 20366) — lot ZAM01 terminé le 24/10/2026
-- ZAM02 : imperialis R20434/FR21802, integrifolia R20351/FR3971, loddigesii R20373/FR21664, lucayana R20479/FR21788, montana R20442/FR22316
+- ZAM02 : imperialis R20434/FR21802 fait (24/10/2026, 20434), integrifolia R20351/FR3971 fait (24/10/2026, 20351), loddigesii R20373/FR21664 fait (24/10/2026, 20373), lucayana R20479/FR21788 fait (24/10/2026, 20479), montana R20442/FR22316 fait (24/10/2026, 20442) — lot ZAM02 terminé le 24/10/2026
 - ZAM03 : neurophyllidia R20393/FR22328, oligodonta R20447/FR22321, pseudoparasitica R20068/FR14482, pumila R20359/FR21729, roezlii R20467/FR21660
 - ZAM04 : skinneri R20387/FR21691, ulei R20427/FR22288, vazquezii R20381/FR21709, wallisii R20474/FR21734
 - ZAM05 : acuminata C/FR26470, amplifolia C/FR21680, angustifolia C/FR21722, chigua C/FR21673, cremnophila C/FR22338

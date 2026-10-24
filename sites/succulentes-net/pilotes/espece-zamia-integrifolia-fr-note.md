@@ -12,3 +12,6 @@
 - SEO Rank Math : titre « Zamia integrifolia (coontie) : rusticité et culture » (51 car.) ; meta 148 car. (ancienne meta remplacée) ; mot-clé `zamia integrifolia`.
 - Vérifications : URL 200 sans redirection ; aucun commentaire de bloc visible ; 125 blocs ouvrants/fermants appariés, balises équilibrées ; texte rendu (API REST) identique au brouillon `pilotes/espece-zamia-integrifolia-fr.html` et même séquence de liens (comparaison par script, sommaire Easy TOC exclu) ; environ 3 700 mots.
 - Points douteux : seuil « feuillage abîmé sous −5 °C » d'un seul cultivateur (attribué) ; POWO, Liste rouge UICN et PalmTalk non consultés (Cloudflare) ; Meerow 2018 connu par un extrait ; Whitelock non consulté (étymologie via Haynes/WLoC) ; questions ouvertes de cycadales-a-verifier.md sur les messages de La Londe (2009) non traitées.
+
+## Retouche du 24/10/2026 (0d, lot ZAM02)
+- Mention d'extrait de recherche retirée : Meerow et al. 2018 (« connu(e) par un extrait », chapitre non accessible) remplacé par Salas-Leiva et al. 2017 (*Am. J. Bot.* 104 : 757-771, résumé lu sur OpenAlex : complexe *Zamia pumila* monophylétique) dans Hybrides, Taxonomie et Bibliographie ; « 2n = 16 » et « une à quatorze espèces selon les auteurs » (venus de l'extrait) retirés. 3 remplacements (simulation puis application) ; brouillon aligné.

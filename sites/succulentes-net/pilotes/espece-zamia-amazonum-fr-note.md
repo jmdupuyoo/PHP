@@ -11,3 +11,6 @@
 - SEO Rank Math : titre « Zamia amazonum : la cycadale du sous-bois amazonien » (51 car.) ; meta 144 car. ; mot-clé `zamia amazonum`.
 - Vérifications : URL 200 sans redirection ; aucun commentaire de bloc visible ; 94 blocs ouvrants/fermants appariés, balises équilibrées ; texte rendu identique au brouillon `pilotes/espece-zamia-amazonum-fr.html` (comparaison par script, sommaire Easy TOC exclu) ; 2364 mots.
 - Points douteux : étymologie (WLoC/Haynes « haut bassin amazonien » vs protologue « département d'Amazonas », les deux données) ; POWO, Liste rouge UICN non consultés (Cloudflare) ; usage chayahuita connu par un résumé seulement.
+
+## Retouche du 24/10/2026 (0c avant ZAM02)
+- Noms communs (encadré, section, ligne GBIF des sources) : les deux noms portugais de Flora e Funga do Brasil pour l'Acre (« batata-de-paca », « palmeirinha-espinhosa », lus via l'API GBIF le 24/10, liste officielle non ouverte : protection Anubis) sont désormais présentés avec la même réserve que l'EN 20459 (application incertaine : WLoC ne cite pas l'Acre ; « batata de paca » aussi pour *Zamia ulei* sur une étiquette d'herbier), au lieu de « aucune source fiable ». 3 remplacements (simulation puis application) ; brouillon aligné.

@@ -22,3 +22,6 @@
 - Brouillon `pilotes/espece-zamia-integrifolia-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, hors sommaire Easy TOC ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées (script) ; aucun `<em>` imbriqué ni nom abrégé dans le texte ; aucun lien vers une page FR.
 - Vérifié avant création : aucune page IT de l'espèce (enfants de 11879 via l'API REST, recherche par épithète, list_content it « Zamia ») ; aucune redirection visant l'URL (list_redirects).
 - Rien commité.
+
+## Retouche du 24/10/2026 (0d, lot ZAM02)
+- Mention d'extrait de recherche retirée : Meerow et al. 2018 (« connu(e) par un extrait », chapitre non accessible) remplacé par Salas-Leiva et al. 2017 (*Am. J. Bot.* 104 : 757-771, résumé lu sur OpenAlex : complexe *Zamia pumila* monophylétique) dans Hybrides, Taxonomie et Bibliographie ; « 2n = 16 » et « une à quatorze espèces selon les auteurs » (venus de l'extrait) retirés. 3 remplacements (simulation puis application) ; brouillon aligné.
