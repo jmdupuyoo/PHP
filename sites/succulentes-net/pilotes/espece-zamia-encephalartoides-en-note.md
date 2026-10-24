@@ -31,3 +31,6 @@
 ## Points douteux
 - −3,5 °C de Dave's Garden invérifiable ; effectifs LLIFLE (≈ 5 000, ≈ 1 000, 266 km²) sans source ; « about fifteen years ago » de Jungle Music non daté.
 - **FR 22294 à reprendre (hors lot)** : la section Noms communs contient une note de rédaction visible (« La forme « cacao d'Indien », donnée jusqu'ici sur cette page, n'est qu'une traduction littérale… »). FR/IT : ajout possible de Jungle Music (rareté, tolérance au froid inconnue) et du nom « cacao de indio » (Liste rouge via GBIF).
+
+## Retouche du 24/10/2026 (0c avant ZAM03)
+- 6 remplacements (simulation puis application, replace_in_content sur 20399 ; brouillon aligné) : chiffre de Dave's Garden (−3,5 °C / 25,7 °F, page non lue) retiré de l'encadré, de la section Cold hardiness (dont « At best, take −3.5 °C as an order of magnitude… ») et de la FAQ, remplacé par l'avis lu de Jungle Music (tolérance au froid « not known ») ; ligne Dave's Garden retirée des Sources ; phrase « PalmTalk and Dave's Garden could not be consulted » retirée (règle 3). Meta description et titre SEO ne citaient pas le chiffre (vérifié).
