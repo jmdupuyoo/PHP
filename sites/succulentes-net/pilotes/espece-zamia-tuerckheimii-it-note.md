@@ -48,3 +48,5 @@
 - Encadré : statut inchangé (NT, 2022). SEO inchangé. Index de la page genre IT 11879 : ligne conforme (non modifiée).
 - Contrôles (verify.py) : texte en ligne identique au brouillon, 15 liens identiques, liens internes IT en 200, URL 200, aucun commentaire de bloc visible, 121/121 blocs, hreflang fr/it. ≈ 3 650 mots.
 - Points douteux inchangés : position dans le sous-clade III-B (figure non lue) ; « 2 dm » lu à l'image ; Liste rouge et POWO non consultés.
+
+- Retouche 24/10/2026 (0c avant ZAM05) : note de travail visible retirée du texte en ligne (renvoi à la fiche d’une autre langue ou d’une autre espèce comme origine de la consultation : « for the French page », « lors de la rédaction de la fiche italienne », « repris de la fiche … », etc.) ; replace_in_content, simulation puis application ; brouillon aligné.

@@ -11,3 +11,5 @@
 - SEO Rank Math : titre « Zamia chigua : cycadale du Chocó colombien à port de fougère » (60 car. ; « zamia fougère » évité comme nom français, non attesté) ; meta 147 car. ; mot-clé `zamia chigua`.
 - Vérifications : URL 200 sans redirection ; aucun commentaire de bloc visible ; 99 blocs appariés, balises équilibrées ; texte rendu identique au brouillon `pilotes/espece-zamia-chigua-fr.html` ; 2465 mots.
 - Points douteux : présence ancienne en collections européennes (déduite des noms de 1876, dite comme telle) ; protologue (BHL), POWO et Liste rouge non consultés.
+
+- Retouche 24/10/2026 (lot ZAM05) : « le forum italien Tropicamente ne la cite pas » retiré (Rusticité, 1 remplacement, simulation puis application) ; brouillon aligné.

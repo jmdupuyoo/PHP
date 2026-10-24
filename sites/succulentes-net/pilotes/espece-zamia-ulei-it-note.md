@@ -50,3 +50,5 @@
 - Encadré : statut inchangé (LC, 2022). SEO inchangé (titre et meta toujours exacts). Index de la page genre IT 11879 : ligne conforme (non modifiée).
 - Contrôles (verify.py) : texte en ligne identique au brouillon, 15 liens identiques, liens internes IT en 200, URL 200, aucun commentaire de bloc visible, 133/133 blocs, hreflang fr/it/en. ≈ 3 950 mots.
 - Points douteux : noms de lieux lus en OCR ; statut HT/LT du type ; Liste rouge et POWO non consultés.
+
+- Retouche 24/10/2026 (0a avant ZAM05, signalée lors de ZAM04) : recherches de forum sans résultat retirées du texte en ligne (« In Italia » : phrase Tropicamente / Fous de palmiers ; encadré « In Italia » reformulé sans « forum consultati » ; Fonti : ligne « ricerca nel forum » Tropicamente) — 3 remplacements (replace_in_content, simulation puis application) ; brouillon aligné.

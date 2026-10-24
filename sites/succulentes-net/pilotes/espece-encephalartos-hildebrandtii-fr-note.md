@@ -50,3 +50,5 @@ POWO ; Liste rouge UICN ; Flora of Tropical East Africa ; Osborne 1990 (*Encepha
 5. « From southern Somalia », « 0-500 m », climat chiffré (24-32 °C, 900-1 500 mm) : non sourcés.
 6. Cônes mâles « yellowish » et femelles « ovoid » : Melville donne mâles verdâtres à rouge terne, femelles cylindriques jaune terne.
 7. « USDA 10b+ (above 2 °C) only » : non sourcé ; contredit par le retour du Salento (−1 °C, 2009).
+
+- Retouche 24/10/2026 (0c avant ZAM05) : note de travail visible retirée du texte en ligne (renvoi à la fiche d’une autre langue ou d’une autre espèce comme origine de la consultation : « for the French page », « lors de la rédaction de la fiche italienne », « repris de la fiche … », etc.) ; replace_in_content, simulation puis application ; brouillon aligné.

@@ -52,3 +52,5 @@
 - Encadré, statut (CR, 2022), SEO : inchangés. Index de la page genre IT 11879 : ligne conforme (non modifiée).
 - Contrôles (verify.py) : texte en ligne identique au brouillon, 13 liens identiques, liens internes IT en 200, URL 200, aucun commentaire de bloc visible, 122/122 blocs, hreflang fr/it/en. ≈ 3 720 mots.
 - Points douteux inchangés : priorité Braun / Veitch ; supersession du néotype (Lindström 2009 non lu) ; altitude et effectifs inconnus ; Liste rouge et POWO non consultés.
+
+- Retouche 24/10/2026 (0c avant ZAM05) : note de travail visible retirée du texte en ligne (renvoi à la fiche d’une autre langue ou d’une autre espèce comme origine de la consultation : « for the French page », « lors de la rédaction de la fiche italienne », « repris de la fiche … », etc.) ; replace_in_content, simulation puis application ; brouillon aligné.

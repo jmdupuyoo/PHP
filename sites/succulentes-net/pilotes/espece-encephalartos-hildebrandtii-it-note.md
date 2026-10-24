@@ -46,3 +46,5 @@ Napoli (due esemplari 1993-94), Messina (2009), Catania (BGCI), Salento/Nardò (
 - Altitudine: 0-450 m (Melville) ma una raccolta a circa 820 m (Engler, citato da Prain).
 - Mozambico: Species+ sì, WLoC no, Flora of Mozambique dubbia.
 - Salento 2009: vaso o piena terra non precisato.
+
+- Retouche 24/10/2026 (0c avant ZAM05) : note de travail visible retirée du texte en ligne (renvoi à la fiche d’une autre langue ou d’une autre espèce comme origine de la consultation : « for the French page », « lors de la rédaction de la fiche italienne », « repris de la fiche … », etc.) ; replace_in_content, simulation puis application ; brouillon aligné.

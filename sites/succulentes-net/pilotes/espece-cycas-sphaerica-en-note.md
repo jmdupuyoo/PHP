@@ -33,3 +33,5 @@
 
 ## FR/IT (à reprendre, facultatif)
 - FR 26747 : ajouter la réévaluation Khuraijam & Rao 2023-1 (présente dans l'IT, absente de la FR). FR 26747 / IT 28934 : ajouter la comparaison avec *seshachalamensis* (protologue 2016) et Montgomery 96316 (avec la même prudence).
+
+- Retouche 24/10/2026 (0c avant ZAM05) : note de travail visible retirée du texte en ligne (renvoi à la fiche d’une autre langue ou d’une autre espèce comme origine de la consultation : « for the French page », « lors de la rédaction de la fiche italienne », « repris de la fiche … », etc.) ; replace_in_content, simulation puis application ; brouillon aligné.

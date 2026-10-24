@@ -50,3 +50,5 @@
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu, phrase par phrase).
 - Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).
 - Liens croisés posés après publication vers les fiches du lot : fairchildiana (première occurrence hors introduction et encadré).
+
+- Retouche 24/10/2026 (lot ZAM05, décision éditoriale du 24/10) : « Repères internationaux » : mention de recherche sans résultat (Tropicamente, recherche web) remplacée par « Aucun retour de culture n’est documenté hors de France. » (1 remplacement, simulation puis application) ; brouillon aligné.

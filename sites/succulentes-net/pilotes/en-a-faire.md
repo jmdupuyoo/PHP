@@ -35,7 +35,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - ZAM02 : imperialis R20434/FR21802 fait (24/10/2026, 20434), integrifolia R20351/FR3971 fait (24/10/2026, 20351), loddigesii R20373/FR21664 fait (24/10/2026, 20373), lucayana R20479/FR21788 fait (24/10/2026, 20479), montana R20442/FR22316 fait (24/10/2026, 20442) — lot ZAM02 terminé le 24/10/2026
 - ZAM03 : neurophyllidia R20393/FR22328 fait (24/10/2026, 20393), oligodonta R20447/FR22321 fait (24/10/2026, 20447), pseudoparasitica R20068/FR14482 fait (24/10/2026, 20068), pumila R20359/FR21729 fait (24/10/2026, 20359), roezlii R20467/FR21660 fait (24/10/2026, 20467) — lot ZAM03 terminé le 24/10/2026
 - ZAM04 : skinneri R20387/FR21691 fait (24/10/2026, 20387), ulei R20427/FR22288 fait (24/10/2026, 20427), vazquezii R20381/FR21709 fait (24/10/2026, 20381), wallisii R20474/FR21734 fait (24/10/2026, 20474) — lot ZAM04 terminé le 24/10/2026 (dernier lot R des *Zamia* : les 19 fiches R sont faites)
-- ZAM05 : acuminata C/FR26470, amplifolia C/FR21680, angustifolia C/FR21722, chigua C/FR21673, cremnophila C/FR22338
+- ZAM05 : acuminata C/FR26470 fait (24/10/2026, 31210), amplifolia C/FR21680 fait (24/10/2026, 31215), angustifolia C/FR21722 fait (24/10/2026, 31224), chigua C/FR21673 fait (24/10/2026, 31231), cremnophila C/FR22338 fait (24/10/2026, 31239) — lot ZAM05 terminé le 24/10/2026
 - ZAM06 : cunaria C/FR26474, decumbens C/FR22376, disodon C/FR26477, dressleri C/FR26480, elegantissima C/FR29456
 - ZAM07 : erosa C/FR21754, fairchildiana C/FR26484, fischeri C/FR21704, gentryi C/FR26487, gomeziana C/FR26491
 - ZAM08 : grijalvensis C/FR22333, hamannii C/FR26495, herrerae C/FR26499, huilensis C/FR26503, hymenophyllidia C/FR26507

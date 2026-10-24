@@ -24,3 +24,5 @@
 ## Points douteux
 - Protologue non consulté (BHL) ; aire Puntarenas (Acuña-Castillo) vs San José seul (WLoC), divergence exposée.
 - POWO, UICN et BHL non consultés (Cloudflare) ; statuts UICN repris de WLoC.
+
+- Retouche 24/10/2026 (lot ZAM05, décision éditoriale du 24/10) : recherche Tropicamente sans résultat retirée (« In Italia » et Fonti) ; « Nessun riscontro è stato trovato con le ricerche sul web » → « Non è documentato alcun riscontro di coltivazione » (3 remplacements, simulation puis application) ; brouillon aligné.

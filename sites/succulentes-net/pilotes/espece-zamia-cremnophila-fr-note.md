@@ -11,3 +11,5 @@
 - SEO Rank Math : titre « Zamia cremnophila : la cycadale des falaises du Tabasco » (55 car.) ; meta 146 car. ; mot-clé `zamia cremnophila`.
 - Vérifications : URL 200 sans redirection ; aucun commentaire de bloc visible ; 94 blocs ouvrants/fermants appariés, balises équilibrées ; texte rendu (API REST) identique au brouillon `pilotes/espece-zamia-cremnophila-fr.html` et même séquence de liens (comparaison par script, sommaire Easy TOC exclu) ; environ 2200 mots.
 - Points douteux : POWO et Liste rouge UICN non consultés (Cloudflare) ; statut et critères repris de WLoC ; présence au Chiapas selon WLoC seulement (le protologue ne cite que le Tabasco).
+
+- Retouche 24/10/2026 (lot ZAM05) : recherche Fous de palmiers datée et « le forum italien Tropicamente ne contient aucun message » retirés (Rusticité) ; « ni sur les forums consultés » remplacé par « Aucun retour de culture n'est documenté » (2 remplacements, simulation puis application) ; brouillon aligné.

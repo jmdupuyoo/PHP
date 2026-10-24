@@ -20,3 +20,5 @@
 ## Retouche du 24/10/2026 (0d avant CYC25)
 - Mentions de l’article Lavaud recalées sur l’article (FR 16529 / IT 16534 / EN 16530, relus le 24/10/2026) : plantes greffées proposées = *couttsiana*, *siamensis* « Silver », *cairnsiana*, *arnhemica*, *candida* ; « cinq fois plus vite » attribué à Lavaud (fiches de vente, comparaison non publiée) ; « le plus éprouvé », « candidats à de futurs essais », « greffes réussies », « caudex en deux ou trois ans au lieu d’une décennie » retirés (absents de l’article) ; protocole de greffe non publié.
 - replace_in_content : simulation puis application, 1 remplacement(s) ; brouillon aligné.
+
+- Retouche 24/10/2026 (0c avant ZAM05) : note de travail visible retirée du texte en ligne (renvoi à la fiche d’une autre langue ou d’une autre espèce comme origine de la consultation : « for the French page », « lors de la rédaction de la fiche italienne », « repris de la fiche … », etc.) ; replace_in_content, simulation puis application ; brouillon aligné.

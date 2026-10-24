@@ -11,3 +11,5 @@
 - SEO Rank Math : titre « Zamia angustifolia (angustissima) : cycadale de Cuba » (52 car.) ; meta 152 car. ; mot-clé `zamia angustifolia`.
 - Vérifications : URL 200 sans redirection ; aucun commentaire de bloc visible ; 108 blocs appariés, balises équilibrées ; texte rendu identique au brouillon `pilotes/espece-zamia-angustifolia-fr.html` ; 2870 mots.
 - Points douteux : noms cubains (LLIFLE seulement) ; unité de longueur de la tige (Leon Levy) ; présence actuelle à Naples non vérifiée ; POWO, Liste rouge et protologue non consultés.
+
+- Retouche 24/10/2026 (lot ZAM05) : recherche Fous de palmiers sans résultat retirée de la Rusticité (1) ; brouillon aligné. À reprendre : données Wikipédia remplaçables par Calonje et al. 2013 (*Oryx*) et Gardiner & Brace 1889 — voir espece-zamia-angustifolia-en-note.md.

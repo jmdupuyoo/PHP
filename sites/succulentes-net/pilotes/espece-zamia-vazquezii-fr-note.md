@@ -15,3 +15,5 @@
 - Points douteux : Liste rouge et POWO non consultés (Cloudflare) ; Nazor 2005 (Texas) non lu ; pot ou pleine terre non précisé pour le Roussillon en 2012.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 8 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+- Retouche 24/10/2026 (0b avant ZAM05, signalée lors de ZAM04) : « lu(e) pour la fiche italienne » → « lu(e) » (Sibilio 2019, Sites de référence et Bibliographie) — 2 remplacements (replace_in_content, simulation puis application) ; brouillon aligné.

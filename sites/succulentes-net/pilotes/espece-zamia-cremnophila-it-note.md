@@ -24,3 +24,5 @@
 ## Points douteux
 - Deux jeux de mesures dans la FR (protologue / source inconnue) : à harmoniser côté FR.
 - POWO, UICN et BHL non consultés (Cloudflare) ; statuts UICN repris de WLoC.
+
+- Retouche 24/10/2026 (lot ZAM05) : recherche Tropicamente sans résultat retirée (« In Italia » et Fonti) ; « né sui forum consultati » neutralisé (3 remplacements, simulation puis application) ; brouillon aligné.

@@ -52,3 +52,5 @@ POWO, Liste rouge UICN (Cloudflare) ; PalmTalk, Agaveville (403), Dave's Garden 
 
 ### À signaler pour l'IT
 - Mêmes erreurs dans l'IT 13105 (copie de l'ancienne FR) ; Italie : Palerme (UNIPA, forum 2009 couple, 2010), Naples (serre 1984, IS 2012-13, Serre Califano 2019) d'après l'inventaire ; Focene (Tropicamente 2012) = plante probablement M. communis (identification contestée dans le fil), à ne pas attribuer à M. moorei.
+
+- Retouche 24/10/2026 (0c avant ZAM05) : note de travail visible retirée du texte en ligne (renvoi à la fiche d’une autre langue ou d’une autre espèce comme origine de la consultation : « for the French page », « lors de la rédaction de la fiche italienne », « repris de la fiche … », etc.) ; replace_in_content, simulation puis application ; brouillon aligné.

@@ -24,3 +24,5 @@
 ## Points douteux
 - Présence ancienne dans les collections européennes : déduction des noms publiés dans *Gartenflora* et *The Garden* (1876), présentée comme telle.
 - POWO, UICN et BHL non consultés (Cloudflare) ; statuts UICN repris de WLoC.
+
+- Retouche 24/10/2026 (lot ZAM05) : recherche Tropicamente sans résultat utile retirée (« In Italia » et Fonti, 2 remplacements, simulation puis application) ; brouillon aligné.

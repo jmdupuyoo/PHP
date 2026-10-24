@@ -11,3 +11,5 @@
 - SEO Rank Math : titre « Zamia amplifolia : cycadale colombienne à folioles géantes » (58 car.) ; meta 147 car. ; mot-clé `zamia amplifolia`.
 - Vérifications : URL 200 sans redirection ; aucun commentaire de bloc visible ; 100 blocs appariés, balises équilibrées ; texte rendu identique au brouillon `pilotes/espece-zamia-amplifolia-fr.html` ; 2449 mots.
 - Points douteux : hauteur du tronc (2,5 cm dans la Flora en ligne vs 2,5 m chez Stevenson 2004, lu via Wikipédia) ; plus proche parent (skinneri selon Stevenson 2004, dressleri/wallisii selon Norstog & Nicholls 1997) ; protologue (BHL) et Liste rouge non consultés.
+
+- Retouche 24/10/2026 (lot ZAM05) : « le forum italien Tropicamente ne la cite pas » retiré (1) ; brouillon aligné. À reprendre : données Wikipédia (Stevenson 2004) — voir espece-zamia-amplifolia-en-note.md.

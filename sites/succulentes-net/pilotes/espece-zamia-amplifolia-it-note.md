@@ -24,3 +24,5 @@
 ## Points douteux
 - Flora de Colombia en ligne : « tallo hasta de 2,5 cm » (coquille probable ; 2,5 m chez Stevenson 2004 via Wikipedia) — présenté comme déduction (« con ogni probabilità »). Plus proche parent : skinneri (Stevenson 2004) vs wallisii/dressleri (Norstog & Nicholls 1997 cités par la Flora) — divergence exposée.
 - POWO, UICN et BHL non consultés (Cloudflare) ; statuts UICN repris de WLoC.
+
+- Retouche 24/10/2026 (lot ZAM05) : recherche Tropicamente sans résultat retirée (« In Italia » et Fonti, 2) ; brouillon aligné. À reprendre : données Wikipédia (Stevenson 2004).
