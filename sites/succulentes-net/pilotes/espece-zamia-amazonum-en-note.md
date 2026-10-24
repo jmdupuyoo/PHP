@@ -32,3 +32,6 @@
 - Noms portugais : Flora e Funga do Brasil les donne pour l'Acre, où WLoC ne cite pas l'espèce ; un spécimen INPA donne « batata de paca » pour *Zamia ulei*. Présentés avec réserve. **FR/IT à reprendre** : elles disent qu'aucune source fiable ne confirme ces noms ; la liste officielle brésilienne les donne (avec la même réserve) ; FR/IT ne citent pas non plus Segalla et al. 2023 (facultatif).
 - Étymologie : WLoC/Haynes « haut bassin amazonien » vs protologue « département d'Amazonas » (les deux données).
 - POWO et Liste rouge UICN non consultés (Cloudflare) ; usage chayahuita connu par un résumé.
+
+## Retouche du 24/10/2026 (0a avant ZAM04)
+- Phrase visible sur PalmTalk / Dave’s Garden « could not be consulted » (ou variante) retirée du texte (le site ne commente pas ses limites de recherche) : replace_in_content, simulation puis application, 1 remplacement(s) ; brouillon aligné.

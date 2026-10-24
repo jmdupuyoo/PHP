@@ -23,3 +23,6 @@
 - Abaco (WLoC 2026, source inconnue ; non retrouvé par Calonje 2013).
 - Protologue Britton 1907 et Stevenson 1987 non lus ; POWO et Liste rouge non consultés (Cloudflare).
 - FR/IT : rien à reprendre sur le fond.
+
+## Retouche du 24/10/2026 (0a avant ZAM04)
+- Phrase visible sur PalmTalk / Dave’s Garden « could not be consulted » (ou variante) retirée du texte (le site ne commente pas ses limites de recherche) : replace_in_content, simulation puis application, 1 remplacement(s) ; brouillon aligné.

@@ -24,3 +24,6 @@
 - Températures « basses » de 18,9-20,6 °C : variable CHELSA non précisée (probablement minimale moyenne).
 - FR/IT : rien à reprendre (FR/IT AZ1 conformes) ; ajout facultatif de Segalla et al. 2023.
 - POWO, Liste rouge non consultés (Cloudflare).
+
+## Retouche du 24/10/2026 (0a avant ZAM04)
+- Phrase visible sur PalmTalk / Dave’s Garden « could not be consulted » (ou variante) retirée du texte (le site ne commente pas ses limites de recherche) : replace_in_content, simulation puis application, 1 remplacement(s) ; brouillon aligné.

@@ -22,3 +22,6 @@
 ## Points douteux
 - Identité des plantes cultivées sous ce nom (jardins, Trebrown) ; Haïti (Eckenwalder / Pagán-Jiménez) ; Ornduff 1987 connu par le résumé ; Stevenson 1987, Smith 1961, Broome 2009 non lus ; motifs de la conservation d'*integrifolia* non lus ; pollinisateur non documenté.
 - FR/IT : rien à reprendre sur le fond (ajouts possibles : Montgomery 49 accessions 2008-2013, déclarations BGCI avec réserve).
+
+## Complément du 24/10/2026 (retouche 0b avant ZAM04)
+- Lien entrant posé depuis *Microcycas calocoma* EN 18015 (tableau comparatif, « *Z. pumila* » → *Zamia pumila*, 1 remplacement).

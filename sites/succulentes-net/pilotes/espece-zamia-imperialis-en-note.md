@@ -27,3 +27,9 @@
 ## Points douteux
 - Position phylogénétique non vérifiée (Calonje 2019, Lindstrom 2024 non lus) : la phrase FR « les analyses moléculaires confirment la proximité… » n'est pas reprise ; **FR/IT à reprendre (facultatif)** : cette phrase cite des études non consultées.
 - POWO et Liste rouge non consultés (Cloudflare) ; catégorie confirmée par GBIF et WLoC.
+
+## Retouche du 24/10/2026 (0a avant ZAM04)
+- Phrase visible sur PalmTalk / Dave’s Garden « could not be consulted » (ou variante) retirée du texte (le site ne commente pas ses limites de recherche) : replace_in_content, simulation puis application, 1 remplacement(s) ; brouillon aligné.
+
+## Complément du 24/10/2026 (ZAM04)
+- Liens entrants : depuis *skinneri* 20387 (Hybrides, hybridation locale évoquée sur Fous de palmiers) et depuis *wallisii* 20474 (mesures des folioles d'après Taylor et al. 2008), tous deux sur des phrases sourcées.

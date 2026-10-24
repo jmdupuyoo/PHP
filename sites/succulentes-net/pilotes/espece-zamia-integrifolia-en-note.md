@@ -26,3 +26,6 @@
 - Seuil « feuillage abîmé sous −5 °C » d'un seul cultivateur (attribué) recoupé par Cycadales.eu.
 - POWO, Liste rouge non consultés (Cloudflare) ; Whitelock non consulté (étymologie via Haynes/WLoC) ; ENH117 lu en octobre (FR), non relu.
 - **FR/IT à reprendre (facultatif)** : ajouter Griffith et al. 2022 (deux variétés, dispersion humaine), Simon et al. 2023 (pollinisateurs ; la FR avait retiré *Pharaxonotha* faute de source), NC State (cinq variétés, symptômes, boutures de tige), Cycadales.eu (−5 °C).
+
+## Retouche du 24/10/2026 (0a avant ZAM04)
+- Phrase visible sur PalmTalk / Dave’s Garden « could not be consulted » (ou variante) retirée du texte (le site ne commente pas ses limites de recherche) : replace_in_content, simulation puis application, 2 remplacement(s) ; brouillon aligné.

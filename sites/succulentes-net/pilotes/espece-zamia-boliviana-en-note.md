@@ -30,3 +30,6 @@
 - Largeur des folioles 1,1-2 cm (tableau) vs 0,8-2 cm (texte) ; La Paz et altitude via Wikipédia (Segalla et al. 2022, résumé seulement).
 - *Zamia brongniartii* : synonyme pour Flora e Funga do Brasil, absent de WLoC. **FR/IT à reprendre (facultatif)** : la FR l'a retiré comme « absent de WLoC » ; on peut le mentionner comme synonyme selon la liste officielle brésilienne. FR/IT : *Eumaeus* retiré faute de source ; la référence Segalla & Morellato 2019 existe (non lue).
 - POWO, Liste rouge non consultés (Cloudflare).
+
+## Retouche du 24/10/2026 (0a avant ZAM04)
+- Phrase visible sur PalmTalk / Dave’s Garden « could not be consulted » (ou variante) retirée du texte (le site ne commente pas ses limites de recherche) : replace_in_content, simulation puis application, 1 remplacement(s) ; brouillon aligné.

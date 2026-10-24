@@ -30,3 +30,6 @@
 - Photo 7318 (Hyères) : folioles assez étroites et allongées pour l'espèce ; identification non vérifiable (forme à folioles étroites ou plante hybride ?) ; légende neutre, sans lieu.
 - NOM-059 Pr / P ; échauffement des cônes 2,5 °C / 46 °F ; *Z. vestita*, *Z. crassifolia* ; livres cités par un forum (−3 / −9 °C) : exposés comme tels.
 - FR/IT : rien à reprendre sur le fond ; ajouts possibles : RHS (Jamaica sago tree), Jungle Music (≈ 27 °F, estimation), Belfast (Tropical Ravine), recensement de Melbourne (massifs extérieurs), NC State « 1-2 seeds can be fatal », résistance aux cerfs.
+
+## Retouche du 24/10/2026 (0a avant ZAM04)
+- Phrase visible sur PalmTalk / Dave’s Garden « could not be consulted » (ou variante) retirée du texte (le site ne commente pas ses limites de recherche) : replace_in_content, simulation puis application, 1 remplacement(s) ; brouillon aligné.

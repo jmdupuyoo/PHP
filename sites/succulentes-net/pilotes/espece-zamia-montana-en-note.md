@@ -21,3 +21,9 @@
 ## Points douteux
 - Répartition : Risaralda (WLoC) sans source expliquée ; protologue de Braun non consulté (BHL) ; POWO et Liste rouge non consultés (Cloudflare).
 - FR/IT : rien à reprendre sur le fond (ajout possible : déclarations BGCI de Bogotá et Medellín).
+
+## Retouche du 24/10/2026 (0a avant ZAM04)
+- Phrase visible sur PalmTalk / Dave’s Garden « could not be consulted » (ou variante) retirée du texte (le site ne commente pas ses limites de recherche) : replace_in_content, simulation puis application, 1 remplacement(s) ; brouillon aligné.
+
+## Complément du 24/10/2026 (ZAM04)
+- Liens entrants reposés sur des phrases sourcées : depuis *wallisii* 20474 (clé de la Flora de Colombia : *montana* d'Antioquia, 1 750-2 080 m).
