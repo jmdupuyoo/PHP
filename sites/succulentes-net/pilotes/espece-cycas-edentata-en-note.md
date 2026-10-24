@@ -33,3 +33,5 @@
 - 21/10/2026 (CYC16) : lien posé vers *Cycas glauca* EN 30596 dans Taxonomy (replace_in_content simulé puis appliqué, 1) ; brouillon aligné.
 
 - 21/10/2026 (CYC18) : lien vers *Cycas macrocarpa* EN (macrocarpa) posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
+
+- Lien entrant vers *zeylanica* EN 31096 posé le 24/10/2026 (lot CYC25, replace_in_content : simulation puis application, 1 remplacement) ; brouillon aligné.

@@ -64,3 +64,7 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Corrections du 21/10/2026 (signalé lors de CYC11)
 - replace_in_content 6/6 (simulation 6, application 6) : intro (« quasi menacé (NT), catégorie maintenue par la réévaluation de 2023 »), encadré et Statut (Bösenberg 2023-1, Crossref ; NT d'après GBIF, clé 2683218), Toxicité (chaîne cycasine → méthylazoxyméthanol, BMAA, formulation *Cycas* standard), GBIF ajouté aux Sites de référence, Bösenberg 2023 (doi 10.2305/IUCN.UK.2023-1.RLTS.T41972A67337917.en) en bibliographie.
 - Index FR 1256 : « (NT, 2010) » → « (NT, 2023) » (1/1). Brouillon aligné ; contrôle en ligne : 100 blocs présents.
+
+## Retouche du 24/10/2026 (0d avant CYC25)
+- Mentions de l’article Lavaud recalées sur l’article (FR 16529 / IT 16534 / EN 16530, relus le 24/10/2026) : plantes greffées proposées = *couttsiana*, *siamensis* « Silver », *cairnsiana*, *arnhemica*, *candida* ; « cinq fois plus vite » attribué à Lavaud (fiches de vente, comparaison non publiée) ; « le plus éprouvé », « candidats à de futurs essais », « greffes réussies », « caudex en deux ou trois ans au lieu d’une décennie » retirés (absents de l’article) ; protocole de greffe non publié.
+- replace_in_content : simulation puis application, 3 remplacement(s) ; brouillon aligné.

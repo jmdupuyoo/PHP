@@ -40,3 +40,5 @@
 - Liste « Megasporophylls » : « apical spine 19 to 40 mm » (mêlait la description de Hill, 19-30 mm, et la FoA, 25-40 mm) → « 25 to 40 mm according to the Flora of Australia » ; 1 remplacement simulé puis appliqué ; brouillon aligné.
 
 - 24/10/2026 (CYC24) : lien vers *Cycas tuckeri* EN 31036 posé (1 remplacement simulé puis appliqué).
+
+- Lien entrant vers *yorkiana* EN 31084 posé le 24/10/2026 (lot CYC25, replace_in_content : simulation puis application, 1 remplacement) ; brouillon aligné.

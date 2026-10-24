@@ -25,3 +25,9 @@
 - La page IT *media* 14337 (ancienne) présente *terryana* comme « possibile ibrido stabilizzato tra *Cycas media* e *Cycas ophiolitica* », sans citer Forster 2011 ; non modifié (hors périmètre), signalé ici.
 - Seule donnée de froid : mention commerciale non chiffrée.
 - 24/10/2026 (retouche 0d avant CYC24) : « À lire aussi » / « Leggi anche », article Lavaud : formule « comment Lavaud les greffe » (protocole non publié) remplacée par une présentation fidèle de l'article recalé (article général sur les Cycas australiens et la greffe sur porte-greffe de Cycas revoluta ; plantes greffées proposées ; protocole non publié) ; « candidats à de futurs essais de greffe » (retiré de l'article) → classement « moyenne » de la note 2021 ; 3 remplacement(s) simulé(s) puis appliqué(s).
+
+## Ritocco del 24/10/2026 (0b prima di CYC25)
+- Rare Palm Seeds ritirato (riquadro, Coltivazione, Rusticità, FAQ, Siti di riferimento): era stato letto solo un estratto di motore di ricerca; pagina ancora inaccessibile (302 in loop, 24/10/2026).
+- WildNet (taxon 34314, API letta il 24/10/2026) aggiunto: vulnerabile nel Queensland dal 10/04/2025, pianta soggetta a restrizioni, taxon riservato, presenza in area protetta (divergenza con Forster 2011), nessuna iscrizione EPBC.
+- FAQ «Si può innestare?»: «l’innesto … è stato sperimentato in Francia» → «un vivaio francese propone altre Cycas australiane innestate … senza pubblicare il protocollo» (articolo Lavaud ricalibrato 16534).
+- replace_in_content: simulazione poi applicazione, 8 + 1 sostituzioni (FAQ minacciata: riserva secondo Forster 2011 / area protetta secondo WildNet); bozza allineata.

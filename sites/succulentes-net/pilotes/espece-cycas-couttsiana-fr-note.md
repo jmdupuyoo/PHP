@@ -59,3 +59,7 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 - 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol, BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
 
 - 21/10/2026 (retouches signalées lors de CYC13, avant CYC14 ; 4/4) : statut NT appuyé sur la réévaluation Bösenberg 2023-1 (Crossref, e.T41973A67340954 ; NT relayé par GBIF, clé 2683270) ; statut Vulnerable au Queensland (Nature Conservation (Plants) Regulation 2020, liste de novembre 2022, d'après la Flora of Australia, fiche du 08/12/2025 revérifiée le 21/10) ajouté dans l'encadré et la section Statut ; GBIF et Flora of Australia en Sites de référence, Bösenberg 2010 et 2023 en bibliographie ; index FR 1256 « (NT, 2023) ».
+
+## Retouche du 24/10/2026 (0d avant CYC25)
+- Mentions de l’article Lavaud recalées sur l’article (FR 16529 / IT 16534 / EN 16530, relus le 24/10/2026) : plantes greffées proposées = *couttsiana*, *siamensis* « Silver », *cairnsiana*, *arnhemica*, *candida* ; « cinq fois plus vite » attribué à Lavaud (fiches de vente, comparaison non publiée) ; « le plus éprouvé », « candidats à de futurs essais », « greffes réussies », « caudex en deux ou trois ans au lieu d’une décennie » retirés (absents de l’article) ; protocole de greffe non publié.
+- replace_in_content : simulation puis application, 5 remplacement(s) ; brouillon aligné.

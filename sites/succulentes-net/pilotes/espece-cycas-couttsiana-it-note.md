@@ -32,3 +32,7 @@
 - 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.
 
 - 21/10/2026 (ritocchi segnalati durante CYC13, prima di CYC14; 4/4): stato NT basato sulla rivalutazione Bösenberg 2023-1 (Crossref, e.T41973A67340954; NT riportato da GBIF, chiave 2683270); aggiunto lo statuto Vulnerable nel Queensland (Nature Conservation (Plants) Regulation 2020, elenco del novembre 2022, secondo la Flora of Australia) nel riquadro e nella sezione Stato; GBIF e Flora of Australia nelle fonti, Bösenberg 2010 e 2023 in bibliografia; indice IT 11549 «(NT, 2023)».
+
+## Ritocco del 24/10/2026 (0d prima di CYC25)
+- Menzioni dell’articolo Lavaud ricalibrate sull’articolo (IT 16534 / FR 16529 / EN 16530, riletti il 24/10/2026): piante innestate proposte = *couttsiana*, *siamensis* «Silver», *cairnsiana*, *arnhemica*, *candida*; «cinque volte più veloce» attribuito a Lavaud (schede di vendita, confronto non pubblicato); «sperimentato più a lungo», «candidati a futuri innesti», «innesto riuscito», «caudice in due o tre anni invece di un decennio» ritirati (assenti dall’articolo); protocollo di innesto non pubblicato.
+- replace_in_content: simulazione poi applicazione, 6 sostituzione/i; bozza allineata.

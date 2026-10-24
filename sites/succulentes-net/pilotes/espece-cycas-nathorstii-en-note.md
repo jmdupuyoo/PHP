@@ -23,3 +23,5 @@
 - Aucune correction de fond. Facultatif : GBIF, Montgomery (2016) et BGCI (Adelaide) ; la Culture FR (« saison sèche marquée », substrat) pourrait être présentée explicitement comme déduction.
 
 - 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sphaerica* 30927 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- Lien entrant vers *zeylanica* EN 31096 posé le 24/10/2026 (lot CYC25, replace_in_content : simulation puis application, 1 remplacement) ; brouillon aligné.

@@ -31,3 +31,5 @@
 
 ## FR/IT (à reprendre)
 - FR 26732 / IT 28858 : ajouter la réévaluation A. Lindström (Liste rouge 2023-1, VU via GBIF) ; index FR 1256, IT 11549 et EN 16282 « (VU, 2010) » → « (VU, 2023) » (non modifié en EN : consigne « 1 remplacement » limitée au lien) ; facultatif : contradiction de la diagnose latine, écart 10-14 / 9-12 mm.
+
+- Lien entrant vers *wadei* EN 31069 posé le 24/10/2026 (lot CYC25, replace_in_content : simulation puis application, 1 remplacement) ; brouillon aligné.

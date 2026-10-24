@@ -39,3 +39,9 @@
 - 24/10/2026 (CYC21) : lien EN *Cycas platyphylla* 30789 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
 
 - 24/10/2026 (CYC21) : lien EN *Cycas pruinosa* 30806 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+## Retouche du 24/10/2026 (0d avant CYC25)
+- Mentions de l’article Lavaud (EN 16530, relu le 24/10/2026) recalées : plantes greffées proposées = *couttsiana*, *siamensis* “Silver”, *cairnsiana*, *arnhemica*, *candida* ; *cupida* cité seulement parmi les cycas bleus ; « five times faster » attribué à Lavaud (fiches de vente, comparaison non publiée) ; « tested most extensively », « candidate for future trials », « grafting has succeeded », « responds with strong growth », « two to three years instead of about ten » retirés ; protocole de greffe non publié.
+- replace_in_content : simulation puis application, 4 remplacement(s) ; brouillon aligné.
+
+- Lien entrant vers *wadei* EN 31069 posé le 24/10/2026 (lot CYC25, replace_in_content : simulation puis application, 1 remplacement) ; brouillon aligné.

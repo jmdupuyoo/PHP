@@ -52,3 +52,7 @@
 - Rien retiré. Statut inchangé (VU ; Nguyen 2010, Bösenberg 2020 publiée en 2023-1). Espèce type de la section *Indosinenses* = *siamensis* : déjà correct dans l'IT. Toxicité inchangée (cicasina → metilazossimetanolo, BMAA).
 - SEO inchangé (titre et meta toujours exacts). Index genre IT 11549 : « (VU, valutazione 2020, pubblicata nel 2023) » → « (VU, 2023) » (format du lot, comme l'index FR 1256 ; simulation 1 puis application 1), brouillon genre aligné (verify.py identique, 130 liens).
 - Contrôles : verify.py (texte identique, 21 liens internes en 200, blocs 106/106, hreflang fr/it/en, aucun commentaire visible) ; User-Agent curl et Chrome : 200, `<title>` « Cycas siamensis: la cicadea a bulbo del Siam e dell'Indocina », nouveau texte servi.
+
+## Ritocco del 24/10/2026 (0d prima di CYC25)
+- Menzioni dell’articolo Lavaud ricalibrate sull’articolo (IT 16534 / FR 16529 / EN 16530, riletti il 24/10/2026): piante innestate proposte = *couttsiana*, *siamensis* «Silver», *cairnsiana*, *arnhemica*, *candida*; «cinque volte più veloce» attribuito a Lavaud (schede di vendita, confronto non pubblicato); «sperimentato più a lungo», «candidati a futuri innesti», «innesto riuscito», «caudice in due o tre anni invece di un decennio» ritirati (assenti dall’articolo); protocollo di innesto non pubblicato.
+- replace_in_content: simulazione poi applicazione, 1 sostituzione/i; bozza allineata.

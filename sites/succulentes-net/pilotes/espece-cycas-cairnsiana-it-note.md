@@ -42,3 +42,7 @@
 ## Correzione del 21/10/2026 (segnalato durante CYC11)
 - replace_in_content 6/6 (simulazione 6, applicazione 6): introduzione, «In sintesi» e Stato (Bösenberg 2023-1, Crossref; NT secondo GBIF), tossicità (stesso difetto della FR: catena cicasina → metilazossimetanolo, BMAA), GBIF tra le fonti, Bösenberg 2023 in bibliografia.
 - Indice IT 11549: «(NT, 2010)» → «(NT, 2023)» (1/1). Bozza allineata; controllo in linea: 113 blocchi presenti.
+
+## Ritocco del 24/10/2026 (0d prima di CYC25)
+- Menzioni dell’articolo Lavaud ricalibrate sull’articolo (IT 16534 / FR 16529 / EN 16530, riletti il 24/10/2026): piante innestate proposte = *couttsiana*, *siamensis* «Silver», *cairnsiana*, *arnhemica*, *candida*; «cinque volte più veloce» attribuito a Lavaud (schede di vendita, confronto non pubblicato); «sperimentato più a lungo», «candidati a futuri innesti», «innesto riuscito», «caudice in due o tre anni invece di un decennio» ritirati (assenti dall’articolo); protocollo di innesto non pubblicato.
+- replace_in_content: simulazione poi applicazione, 4 sostituzione/i; bozza allineata.

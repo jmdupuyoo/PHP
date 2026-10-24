@@ -29,3 +29,5 @@
 
 ## FR/IT (à reprendre)
 - Ajouter la réévaluation Bösenberg 2023-1 ; typification (WLoC : HT LE) ; jardins BGCI/Montgomery ; synonyme *C. circinalis* var. *curranii* selon WLoC (déjà signalé dans la note FR, non repris).
+
+- Lien entrant vers *zambalensis* EN 31092 posé le 24/10/2026 (lot CYC25, replace_in_content : simulation puis application, 1 remplacement) ; brouillon aligné.

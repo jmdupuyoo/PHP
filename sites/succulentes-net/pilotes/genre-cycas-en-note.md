@@ -48,3 +48,6 @@
 - Retouche du 24/10/2026 (avant CYC22, 0a) : index, *pranburiensis* (CR, 2010) → (CR, 2023) et *riuminiana* (EN, 2010) → (EN, 2023), réévaluations Bösenberg 2023-1 (2 remplacements).
 - 24/10/2026 (retouche 0b avant CYC23) : ligne d'index *Cycas saxatilis* « (VU, 2010) » → « (VU, 2023) » (réévaluation A. Lindström, Liste rouge 2023-1 ; 1 remplacement simulé puis appliqué).
 - 24/10/2026 (retouche 0e avant CYC24) : section *Wadeae* — « d'après un extrait de recherche » retiré ; Telopea 12(1) (Lindström, Hill & Stanberg 2008) relu en texte intégral (résumé : *wadei*, *curranii*, *saxatilis* placés dans la nouvelle section *Wadeae*, « endemic relictual section ») ; annotation bibliographique corrigée (2 remplacements).
+
+## Retouche du 24/10/2026 (0e avant CYC25)
+- Mentions « search snippet » traitées (8 remplacements, simulation puis application) : POWO / *taitungensis* → WCVP de Kew lu sur GBIF (synonyme de *revoluta*, version du 04/06/2026), « on the basis of genetic work » retiré ; Missouri Botanical Garden retiré (inaccessible) ; étude chinoise 2024 → Ling et al. 2024 (résumé Europe PMC) en Bibliographie ; Fric et al. 2014 → « according to the title; full text not consulted ». Brouillon aligné.

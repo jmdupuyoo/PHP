@@ -33,3 +33,7 @@
 - Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 2 remplacement(s) sur la page 30333, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).
 
 - 24/10/2026 (CYC21) : lien EN *Cycas platyphylla* 30789 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+## Retouche du 24/10/2026 (0d avant CYC25)
+- Mentions de l’article Lavaud (EN 16530, relu le 24/10/2026) recalées : plantes greffées proposées = *couttsiana*, *siamensis* “Silver”, *cairnsiana*, *arnhemica*, *candida* ; *cupida* cité seulement parmi les cycas bleus ; « five times faster » attribué à Lavaud (fiches de vente, comparaison non publiée) ; « tested most extensively », « candidate for future trials », « grafting has succeeded », « responds with strong growth », « two to three years instead of about ten » retirés ; protocole de greffe non publié.
+- replace_in_content : simulation puis application, 7 remplacement(s) ; brouillon aligné.

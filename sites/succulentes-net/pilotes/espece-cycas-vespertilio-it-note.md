@@ -22,3 +22,6 @@
 
 ## Points douteux
 - Incohérence du protologue (limbe 160-180 mm pour un macrosporophylle de 17-19 cm), signalée dans la page comme en FR.
+
+## Ritocco del 24/10/2026 (0c prima di CYC25)
+- Titolo SEO «Cycas vespertilio: la cicadea «pipistrello» delle Filippine» (presentava «pipistrello» come nome comune: nessun nome comune attestato, «pipistrello» è solo il senso dell’epiteto latino) → «Cycas vespertilio: cicadea delle Filippine centrali» (51 car.; update_seo). Meta invariata.

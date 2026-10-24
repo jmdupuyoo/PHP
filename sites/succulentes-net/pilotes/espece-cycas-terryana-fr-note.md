@@ -57,3 +57,8 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 - Contrôles : verify.py texte identique au brouillon, 8 liens internes en 200, page 200, aucun commentaire de bloc visible, blocs 95/95, hreflang fr + it.
 - Index de la page genre 1256 : « Australie (Queensland) ; vulnérable (VU, année non indiquée) » → « Australie (centre-est du Queensland : chaînons de Broadsound et de Connors) ; vulnérable (VU, 2023) ».
 - 24/10/2026 (retouche 0d avant CYC24) : « À lire aussi » / « Leggi anche », article Lavaud : formule « comment Lavaud les greffe » (protocole non publié) remplacée par une présentation fidèle de l'article recalé (article général sur les Cycas australiens et la greffe sur porte-greffe de Cycas revoluta ; plantes greffées proposées ; protocole non publié) ; 2 remplacement(s) simulé(s) puis appliqué(s).
+
+## Retouche du 24/10/2026 (0b avant CYC25)
+- Rare Palm Seeds retiré (encadré, Culture, Rusticité, FAQ, Sites de référence) : seule une page de moteur de recherche avait été lue ; page toujours inaccessible (302 en boucle, 24/10/2026).
+- WildNet (taxon 34314, API lue le 24/10/2026) ajouté : vulnérable au Queensland depuis le 10/04/2025, plante à régime restreint, taxon confidentiel, présence en aire protégée (divergence avec Forster 2011 signalée), aucune inscription EPBC ; ligne WildNet aux Sites de référence (à la place de Rare Palm Seeds).
+- replace_in_content : simulation puis application, 7 + 1 remplacements (FAQ « menacé » : réserve selon Forster 2011 / aire protégée selon WildNet) ; brouillon aligné.

@@ -35,3 +35,5 @@
 - Lien sortant vers *Cycas saxatilis* EN 30847 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).
 
 - 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas silvestris* 30917 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- Lien entrant vers *wadei* EN 31069 posé le 24/10/2026 (lot CYC25, replace_in_content : simulation puis application, 1 remplacement) ; brouillon aligné.

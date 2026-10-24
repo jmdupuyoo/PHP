@@ -29,3 +29,7 @@
 
 ## FR/IT (à reprendre)
 - FR 26755 / IT 28992 : statut au Queensland « vulnérable (liste de novembre 2022) » → **en danger critique (Critically Endangered) depuis le 24/05/2026** selon WildNet (taxon 5937) ; FR Confusions : « *yorkiana* et *badensis* : mégasporophylles bien plus longs » non conforme à la clé de Hill 1996 (*badensis* apex 50-55 mm) → s'en tenir à l'indument orangé de la couronne et des cataphylles. Ajouts possibles : Montgomery (2004, 2019), JCU.
+
+- Lien entrant vers *xipholepis* EN 31075 posé le 24/10/2026 (lot CYC25, replace_in_content : simulation puis application, 1 remplacement) ; brouillon aligné.
+
+- Lien entrant vers *yorkiana* EN 31084 posé le 24/10/2026 (lot CYC25, replace_in_content : simulation puis application, 1 remplacement) ; brouillon aligné.

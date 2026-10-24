@@ -27,3 +27,5 @@
 - Lien sortant vers *Cycas semota* EN 30868 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).
 
 - 24/10/2026 (CYC24) : lien vers *Cycas tuckeri* EN 31036 posé (1 remplacement simulé puis appliqué).
+
+- Lien entrant vers *yorkiana* EN 31084 posé le 24/10/2026 (lot CYC25, replace_in_content : simulation puis application, 1 remplacement) ; brouillon aligné.

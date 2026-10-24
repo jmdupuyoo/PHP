@@ -26,3 +26,7 @@
 
 ## Retouche du 24/10/2026 (0e avant CYC23)
 - Further reading, article Lavaud EN 16530 : « how the French nurseryman grafts them onto *Cycas revoluta* » (protocole non publié) → « presents the grafted plants that the French nurseryman offers on a *Cycas revoluta* rootstock » ; simulé puis appliqué ; brouillon aligné.
+
+## Retouche du 24/10/2026 (0d avant CYC25)
+- Mentions de l’article Lavaud (EN 16530, relu le 24/10/2026) recalées : plantes greffées proposées = *couttsiana*, *siamensis* “Silver”, *cairnsiana*, *arnhemica*, *candida* ; *cupida* cité seulement parmi les cycas bleus ; « five times faster » attribué à Lavaud (fiches de vente, comparaison non publiée) ; « tested most extensively », « candidate for future trials », « grafting has succeeded », « responds with strong growth », « two to three years instead of about ten » retirés ; protocole de greffe non publié.
+- replace_in_content : simulation puis application, 1 remplacement(s) ; brouillon aligné.

@@ -25,3 +25,5 @@
 - Clé de Singh & Misra 2020 non lue (résumé seul) ; critères de l'évaluation VU 2022 (*C. sainathii* s.l.) non lus ; présence aux Nicobar non précisée ; protologue d'*andamanica* non lu (fascicule 9 ou 1).
 
 - 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sphaerica* 30927 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- Lien entrant vers *zeylanica* EN 31096 posé le 24/10/2026 (lot CYC25, replace_in_content : simulation puis application, 1 remplacement) ; brouillon aligné.
