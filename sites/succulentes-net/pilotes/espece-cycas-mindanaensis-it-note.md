@@ -25,3 +25,6 @@
 
 ## Points douteux (repris de la FR)
 - Protologue non lu : aucune description, caractères distinctifs vis-à-vis de *lacrimans*, *flabellata*, *sancti-lasallei* et *edentata* inconnus ; catégorie de menace proposée par les auteurs non lue ; POWO et Liste rouge non consultés.
+
+## Ritocco del 21/10/2026 (0a prima di CYC19)
+- Confronti con *edentata*, *lacrimans*, *sancti-lasallei* e *flabellata* (Come riconoscerla, Possibili confusioni, FAQ) e « considerata minacciata dai suoi autori » (intro, riquadro, Stato, FAQ) poggiavano su un estratto di motore di ricerca del riassunto del protologo: presentati come non verificati, come nella pagina EN 30676 e nelle schede *flabellata*. DOI del protologo (10.21135/893275389.034) aggiunto in Bibliografia. 9 sostituzioni (replace_in_content, simulazione poi applicazione), bozza allineata.

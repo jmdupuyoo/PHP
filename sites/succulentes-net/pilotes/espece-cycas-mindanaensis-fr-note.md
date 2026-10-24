@@ -46,3 +46,6 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26692, https://succulentes.net/cycadales/cycas/mindanaensis/ (200 sans redirection, curl et fetch_site_url), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256 (replace_in_content, dry run puis application) ; contenu publié comparé au fichier local (texte et liens identiques).
+
+## Retouche du 21/10/2026 (0a avant CYC19)
+- Comparaisons avec *edentata*, *lacrimans*, *sancti-lasallei* et *flabellata* (Comment reconnaître, Confusions, FAQ) et « jugé menacé par ses auteurs » (intro, encadré, Statut, FAQ) reposaient sur un extrait de moteur de recherche du résumé du protologue : présentés comme non vérifiés, comme sur la page EN 30676 et les fiches *flabellata*. DOI du protologue (10.21135/893275389.034, Crossref, sans résumé) ajouté en Bibliographie. 9 remplacements (replace_in_content, simulation puis application), brouillon aligné.
