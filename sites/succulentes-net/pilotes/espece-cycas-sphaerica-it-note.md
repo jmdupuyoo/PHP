@@ -23,3 +23,4 @@
 ## Points douteux (repris de la FR)
 - Statut DD encore cité par les publications indiennes de 2019-2020 (Donaldson 2003) face à EN (2010, confirmé 2020).
 - Observations de Solomon Raju (revue *Species*, fiabilité moyenne) limitées à Srikakulam.
+- 24/10/2026 (retouche 0a avant CYC24) : IT déjà conforme (Khuraijam & Rao 2023-1 présent) ; index IT 11549 « (EN, 2023) » : rien à modifier.

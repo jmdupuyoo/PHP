@@ -40,3 +40,4 @@
 - Index page genre IT 11549 : « (NT, 2010) » → « (NT, 2023) » comme l'index FR (simulation 1, application 1) ; brouillon genre aligné (verify2 : texte et liens identiques).
 - SEO inchangé (meta sans statut daté, toujours exacte).
 - Contrôles : verify.py — texte identique, 13 liens même séquence tous en 200, blocs 113/113, aucun commentaire visible, hreflang fr/it ; curl et User-Agent Chrome : 200, `<title>` « Cycas desolata: cicadea blu del Queensland nord-orientale » (page genre : « Cycas: 118 specie, rusticità e coltivazione in Italia ») — aucun cloaking.
+- 24/10/2026 (retouche 0d avant CYC24) : « À lire aussi » / « Leggi anche », article Lavaud : formule « comment Lavaud les greffe » (protocole non publié) remplacée par une présentation fidèle de l'article recalé (article général sur les Cycas australiens et la greffe sur porte-greffe de Cycas revoluta ; plantes greffées proposées ; protocole non publié) ; 2 remplacement(s) simulé(s) puis appliqué(s).

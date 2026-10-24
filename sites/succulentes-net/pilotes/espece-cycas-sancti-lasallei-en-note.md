@@ -31,3 +31,5 @@
 
 ## FR/IT (à reprendre)
 - FR 26730 / IT 28851 : Suminig et al. 2026 désormais lisible en texte intégral (pages 75-91) → corriger « 125,6 par hectare pour les plus jeunes plantules » (= premier stade juvénile), ajouter altitudes 259-465 m, 50 plantes à cônes (21 ♂, 29 ♀), réserve sur le sex-ratio ; *flabellata* « comparé à cette espèce par ses auteurs » à retirer ou à sourcer ; ajouts possibles : Ng et al. 2015 (Toxicité), Montgomery (2023), plante de Burpengary, GBIF (CR), Agoo & Lindström 2022 = Liste rouge 2022-1.
+
+- 24/10/2026 (CYC24) : lien vers *Cycas vespertilio* EN 31043 posé (1 remplacement simulé puis appliqué).

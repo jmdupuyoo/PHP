@@ -24,3 +24,4 @@
 - 12/10/2026 (lot nayagarhensis–orientis) : lien vers *Cycas ophiolitica* 28751 posé à la première occurrence hors intro/encadré/titres/fonti (replace_in_content dry run puis application ; brouillon aligné).
 
 - 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.
+- 24/10/2026 (retouche 0d avant CYC24) : « À lire aussi » / « Leggi anche », article Lavaud : formule « comment Lavaud les greffe » (protocole non publié) remplacée par une présentation fidèle de l'article recalé (article général sur les Cycas australiens et la greffe sur porte-greffe de Cycas revoluta ; plantes greffées proposées ; protocole non publié) ; « ne cite pas » corrigé : l'article (recalé le 24/10) range *candida* parmi les plantes greffées proposées ; 1 remplacement(s) simulé(s) puis appliqué(s).

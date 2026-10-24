@@ -49,3 +49,5 @@
 ## Préparation du 24/10/2026 (tâche 2, lot CYC23) — nom *Cycas miquelii*
 - Taxonomie : phrase sourcée ajoutée après la mention de *Cycas miquelii* : synonyme de *revoluta* (Hill 2008 ; WLoC 191 relue le 24/10 : « = Cycas miquelii Warb. », « ≡ Epicycas miquelii ») mais nom appliqué par la Flore de Chine (Chen & Stevenson 1999) à *Cycas sexseminifera* (lien EN 30907) et néotype de de Laubenfels & Adema 1998 = *Cycas clivicola* (lien EN 30309), choix rejeté par Hill 2008. Toutes les références figuraient déjà en Bibliographie. replace_in_content simulé (1) puis appliqué (1) ; brouillon aligné (identique au contenu en ligne).
 - Page EN *Cycas miqueli* 16505 et redirections : **non touchées** (décision du propriétaire).
+
+- 24/10/2026 (CYC24) : lien vers *Cycas tropophylla* EN 31028 posé (1 remplacement simulé puis appliqué).

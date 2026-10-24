@@ -28,3 +28,4 @@
 
 ## Liens croisés (fin du lot Cycas cupida–distans, 12/10/2026)
 - Aucune fiche IT ne cite l'espèce (recherche REST pages et articles IT) : aucun lien croisé à poser.
+- 24/10/2026 (retouche 0d avant CYC24) : « À lire aussi » / « Leggi anche », article Lavaud : formule « comment Lavaud les greffe » (protocole non publié) remplacée par une présentation fidèle de l'article recalé (article général sur les Cycas australiens et la greffe sur porte-greffe de Cycas revoluta ; plantes greffées proposées ; protocole non publié) ; 2 remplacement(s) simulé(s) puis appliqué(s).

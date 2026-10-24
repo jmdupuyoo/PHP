@@ -25,3 +25,5 @@
 - Cône mâle jamais décrit ; espèce connue de peu de récoltes.
 
 - Lien sortant vers *Cycas semota* EN 30868 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).
+
+- 24/10/2026 (CYC24) : lien vers *Cycas tuckeri* EN 31036 posé (1 remplacement simulé puis appliqué).

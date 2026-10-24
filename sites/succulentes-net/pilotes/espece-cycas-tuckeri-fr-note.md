@@ -59,3 +59,4 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 - Contrôles : verify.py texte identique au brouillon, 11 liens internes en 200, page 200, aucun commentaire de bloc visible, blocs 98/98, hreflang fr + it.
 - Index de la page genre 1256 : « Australie (Queensland) ; vulnérable (VU, 2010) » → « Australie (Queensland : une population dans le district de Coen, péninsule du cap York) ; vulnérable (VU, 2023) ».
 - Point douteux maintenu : Flora of Australia « 2022 » (sans doute l'inscription au Queensland) à côté de Bösenberg 2020/2023-1.
+- 24/10/2026 (retouche 0d avant CYC24) : « À lire aussi » / « Leggi anche », article Lavaud : formule « comment Lavaud les greffe » (protocole non publié) remplacée par une présentation fidèle de l'article recalé (article général sur les Cycas australiens et la greffe sur porte-greffe de Cycas revoluta ; plantes greffées proposées ; protocole non publié) ; 2 remplacement(s) simulé(s) puis appliqué(s).

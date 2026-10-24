@@ -20,3 +20,4 @@
 
 ## Points douteux (repris de la FR)
 - Erreurs d'unité du protologue (« 30-50 cm », « 35-45 cm ») ; « Nusa Tenggara Timur only » contredit par Sumbawa (NTB).
+- 24/10/2026 (retouche 0b avant CYC24) : FAQ Giava « le citazioni di Giava che circolano sono errate » (non sourcé) → aire d'après WLoC et la description originale (da Sumbawa ad Alor) ; 1 remplacement simulé puis appliqué. Index IT 11549 déjà « (LC, 2023) ».

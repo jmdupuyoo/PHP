@@ -172,3 +172,4 @@ aenigma, angulata, annaikalensis, apoa, arenicola, arnhemica, badensis, basaltic
 
 - Retouche du 24/10/2026 (avant CYC22, 0a) : index, *pranburiensis* (CR, 2010) → (CR, 2023) et *riuminiana* (EN, 2010) → (EN, 2023), réévaluations Bösenberg 2023-1 (2 remplacements).
 - 24/10/2026 (retouche 0b avant CYC23) : ligne d'index *Cycas saxatilis* « (VU, 2010) » → « (VU, 2023) » (réévaluation A. Lindström, Liste rouge 2023-1 ; 1 remplacement simulé puis appliqué).
+- 24/10/2026 (retouche 0e avant CYC24) : section *Wadeae* — « d'après un extrait de recherche » retiré ; Telopea 12(1) (Lindström, Hill & Stanberg 2008) relu en texte intégral (résumé : *wadei*, *curranii*, *saxatilis* placés dans la nouvelle section *Wadeae*, « endemic relictual section ») ; annotation bibliographique corrigée (2 remplacements).

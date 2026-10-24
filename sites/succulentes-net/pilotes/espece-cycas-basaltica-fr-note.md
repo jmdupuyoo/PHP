@@ -44,3 +44,4 @@ Aucun point bloquant. Nom accepté (WLoC), aucune page existante sous ce nom ou 
 - Écarts Gardner / Hill 1996 exposés : tronc ~45 cm (60 cm à la base) contre 15-23 cm ; limbe du mégasporophylle entier contre denté ; graines globuleuses.
 - Corrigé : formulation « lane-poolei publié l'année précédente » (même bulletin de 1923 ; article de presse de 1922).
 - Publication : replace_in_content (dry run puis application, 6 remplacements), brouillon mis à jour, comparaison identique, URL 200.
+- 24/10/2026 (retouche 0d avant CYC24) : « À lire aussi » / « Leggi anche », article Lavaud : formule « comment Lavaud les greffe » (protocole non publié) remplacée par une présentation fidèle de l'article recalé (article général sur les Cycas australiens et la greffe sur porte-greffe de Cycas revoluta ; plantes greffées proposées ; protocole non publié) ; 2 remplacement(s) simulé(s) puis appliqué(s).

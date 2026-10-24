@@ -40,3 +40,4 @@
 
 ## Retouche du 24/10/2026 (0c avant CYC23)
 - « White 1923 » → « White 1922 » (d'après la bibliographie de la Flora of Australia : White, Proc. R. Soc. Queensland 34, 1922 ; comme l'EN 30858) ; 1 remplacement simulé puis appliqué ; brouillon aligné.
+- 24/10/2026 (retouche 0d avant CYC24) : « À lire aussi » / « Leggi anche », article Lavaud : formule « comment Lavaud les greffe » (protocole non publié) remplacée par une présentation fidèle de l'article recalé (article général sur les Cycas australiens et la greffe sur porte-greffe de Cycas revoluta ; plantes greffées proposées ; protocole non publié) ; 2 remplacement(s) simulé(s) puis appliqué(s).

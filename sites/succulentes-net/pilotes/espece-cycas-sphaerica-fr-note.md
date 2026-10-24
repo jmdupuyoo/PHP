@@ -52,3 +52,4 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26747, https://succulentes.net/cycadales/cycas/sphaerica/ (200 sans redirection, curl), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256 (replace_in_content, dry run puis application) ; contenu publié comparé au fichier local (texte et liens identiques, hors sommaire automatique).
+- 24/10/2026 (retouche 0a avant CYC24) : réévaluation Khuraijam & Rao 2023-1 (Crossref doi 10.2305/IUCN.UK.2023-1.RLTS.T42096A69158193.en, évaluation datée du 18/02/2020 ; EN via GBIF le 24/10) ajoutée dans l'encadré, le Statut, les Sites de référence (GBIF) et la Bibliographie (4 remplacements simulés puis appliqués), comme dans l'IT 28934. Index FR 1256 et IT 11549 déjà à « (EN, 2023) » : aucun changement.

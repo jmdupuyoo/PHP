@@ -38,3 +38,5 @@
 - 21/10/2026 (CYC18) : lien vers *Cycas macrocarpa* EN (macrocarpa) posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
 
 - 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sexseminifera* 30907 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- 24/10/2026 (CYC24) : lien vers *Cycas tansachana* EN 31017 posé (1 remplacement simulé puis appliqué).

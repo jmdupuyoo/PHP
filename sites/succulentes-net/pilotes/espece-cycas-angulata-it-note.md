@@ -38,3 +38,4 @@
 
 ## Retouche du 21/10/2026 (signalé lors de CYC08-09)
 - Intro « la più grande cicadea dell'Australia » → « la più grande *Cycas* dell'Australia » (et titre SEO Rank Math) : *Lepidozamia hopei* dépasse 17 m ; Hill (1992, 1996) fait d'*angulata* le plus robuste des *Cycas* australiens seulement (cohérent avec la FAQ). replace_in_content simulation 1 / application 1 ; update_seo (50 car.) ; brouillon aligné.
+- 24/10/2026 (retouche 0d avant CYC24) : « À lire aussi » / « Leggi anche », article Lavaud : formule « comment Lavaud les greffe » (protocole non publié) remplacée par une présentation fidèle de l'article recalé (article général sur les Cycas australiens et la greffe sur porte-greffe de Cycas revoluta ; plantes greffées proposées ; protocole non publié) ; 2 remplacement(s) simulé(s) puis appliqué(s).

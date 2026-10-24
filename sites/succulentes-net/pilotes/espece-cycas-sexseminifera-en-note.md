@@ -34,3 +34,5 @@
 
 ## FR/IT (à reprendre, facultatif)
 - FR 22025 / IT 28889 : ajouts possibles — fiche RHS (*sexseminifera* classé comme synonyme de *revoluta*, H3 de *revoluta*), recherche *miquelii* à Montgomery, pépinière Cycadales (taille, croissance, zone 9b), BGCI (17 jardins dont Lyon et Château Pérouse en France, Marimurtra en Espagne), Montgomery (12 accessions).
+
+- 24/10/2026 (CYC24) : lien vers *Cycas tropophylla* EN 31028 posé (1 remplacement simulé puis appliqué).

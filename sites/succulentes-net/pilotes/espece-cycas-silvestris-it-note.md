@@ -28,3 +28,5 @@
 ## Points douteux (repris de la FR)
 - Statut UICN (NT selon WLoC et GBIF, VU 2022 selon la Flora of Australia ; catégorie de l'évaluation 2020 non lue).
 - Titre exact de la note de Forster (Palms & Cycads 52-53, 1996) non relevé.
+- 24/10/2026 (retouche 0d avant CYC24) : « À lire aussi » / « Leggi anche », article Lavaud : formule « comment Lavaud les greffe » (protocole non publié) remplacée par une présentation fidèle de l'article recalé (article général sur les Cycas australiens et la greffe sur porte-greffe de Cycas revoluta ; plantes greffées proposées ; protocole non publié) ; 2 remplacement(s) simulé(s) puis appliqué(s).
+- 24/10/2026 (retouche 0f avant CYC24) : BGCI PlantSearch (API datatools.bgci.org, 24/10) : 4 jardins, dont en France le seul SCCV Château Pérouse (Saint-Gilles, Gard) ; Lyon ne déclare pas cette espèce ; déclaration mentionnée comme telle (non datée, non vérifiée sur place) dans la culture en France, ligne BGCI ajoutée aux Sites de référence ; 2 remplacements simulés puis appliqués.

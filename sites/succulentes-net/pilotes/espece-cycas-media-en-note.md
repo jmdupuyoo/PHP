@@ -48,3 +48,5 @@
 - Further reading, article Lavaud EN 16530 : « how the French nurseryman grafts them onto *Cycas revoluta* » (protocole non publié) → « presents the grafted plants that the French nurseryman offers on a *Cycas revoluta* rootstock » ; « candidate for future grafting trials, “for accelerated growth” » (absent de l’article recalé) → espèce classée de difficulté « moderate » par la note Lavaud 2021, absente des plantes greffées proposées ; simulé puis appliqué ; brouillon aligné.
 
 - 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas silvestris* 30917 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- 24/10/2026 (CYC24) : lien vers *Cycas terryana* EN 31024 posé (1 remplacement simulé puis appliqué).

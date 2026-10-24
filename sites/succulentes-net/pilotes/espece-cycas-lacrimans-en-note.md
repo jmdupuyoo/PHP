@@ -32,3 +32,5 @@
 - Confusions possibles : la phrase disant que les descriptions originales de *flabellata*, *mindanaensis* et *sancti-lasallei* n'avaient pas pu être lues est corrigée pour *sancti-lasallei* : protologue (Agoo & Madulid 2012, Blumea 57 : 131-133, PDF cycadlist.org) relu le 24/10 ; sa clé des *Cycas* philippins sépare *sancti-lasallei* (folioles ondulées, épines latérales sur la pointe triangulaire du limbe) et place *lacrimans* parmi les espèces à folioles non ondulées et épines marginales (feuilles retombantes, graines sans couche spongieuse). Agoo & Madulid 2012 ajouté à la Bibliographie. 2 remplacements simulés puis appliqués ; brouillon aligné. La phrase reste valable pour *flabellata* et *mindanaensis* (2019, non lus).
 
 - 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas silvestris* 30917 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- 24/10/2026 (CYC24) : lien vers *Cycas vespertilio* EN 31043 posé (1 remplacement simulé puis appliqué).

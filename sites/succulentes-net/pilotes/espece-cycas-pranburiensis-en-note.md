@@ -30,3 +30,5 @@
 ## FR/IT (à reprendre)
 - Statut UICN : ajouter la réévaluation Bösenberg 2023-1 (CR) ; l'index EN 16282 porte encore « (CR, 2010) », de même probablement les index FR/IT.
 - Ajouts possibles : type Kerr 10972 (1926) et sa citation sous *C. circinalis* par Smitinand 1971 ; BGCI.
+
+- 24/10/2026 (CYC24) : lien vers *Cycas tansachana* EN 31017 posé (1 remplacement simulé puis appliqué).

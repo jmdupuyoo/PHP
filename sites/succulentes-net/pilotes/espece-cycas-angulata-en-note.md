@@ -41,3 +41,5 @@
 - 24/10/2026 (CYC21) : lien EN *Cycas platyphylla* 30789 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
 
 - Lien sortant vers *Cycas semota* EN 30868 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).
+
+- 24/10/2026 (CYC24) : lien vers *Cycas tuckeri* EN 31036 posé (1 remplacement simulé puis appliqué).

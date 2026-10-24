@@ -46,3 +46,4 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Points à valider par le propriétaire
 1. Aucune valeur de froid publiée : la section Rusticité reste qualitative.
 2. De Laubenfels & Adema 1998 : synonymie avec C. angulata signalée d'après WLoC (non lu à la page).
+- 24/10/2026 (retouche 0d avant CYC24) : « À lire aussi » / « Leggi anche », article Lavaud : formule « comment Lavaud les greffe » (protocole non publié) remplacée par une présentation fidèle de l'article recalé (article général sur les Cycas australiens et la greffe sur porte-greffe de Cycas revoluta ; plantes greffées proposées ; protocole non publié) ; 2 remplacement(s) simulé(s) puis appliqué(s).

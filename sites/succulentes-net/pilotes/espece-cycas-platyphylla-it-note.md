@@ -26,3 +26,4 @@
 
 ## Points douteux (repris de la FR)
 - POWO et Liste rouge non consultés (Cloudflare) ; aucune valeur de froid publiée ; de Laubenfels & Adema 1998 non lu (cité d'après WLoC et la Flora of Australia).
+- 24/10/2026 (retouche 0d avant CYC24) : « À lire aussi » / « Leggi anche », article Lavaud : formule « comment Lavaud les greffe » (protocole non publié) remplacée par une présentation fidèle de l'article recalé (article général sur les Cycas australiens et la greffe sur porte-greffe de Cycas revoluta ; plantes greffées proposées ; protocole non publié) ; 2 remplacement(s) simulé(s) puis appliqué(s).

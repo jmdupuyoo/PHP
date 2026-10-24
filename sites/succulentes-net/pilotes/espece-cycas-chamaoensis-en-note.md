@@ -47,3 +47,5 @@
 
 ## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
 - Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 8 remplacement(s) sur la page 18723, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).
+
+- 24/10/2026 (CYC24) : lien vers *Cycas tansachana* EN 31017 posé (1 remplacement simulé puis appliqué).

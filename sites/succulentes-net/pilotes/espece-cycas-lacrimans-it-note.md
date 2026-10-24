@@ -28,3 +28,4 @@
 - Rimossa la frase sul santuario del monte Hamiguitan «patrimonio mondiale dell'UNESCO» (solo estratto di ricerca; pagina UNESCO dietro Cloudflare, non aggirata).
 - Confusioni: il confronto «dei loro autori» con *mindanaensis*, *flabellata* e *sancti-lasallei* è ora presentato come non verificabile (descrizioni originali non lette).
 - replace_in_content su 28664: simulazione 2, applicazione 2; bozza allineata (REST: 0 differenze).
+- 24/10/2026 (retouche 0c avant CYC24) : phrase « descriptions originales (de *mindanaensis*, *flabellata* et *sancti-lasallei*) non lues » limitée à *mindanaensis* et *flabellata* ; *sancti-lasallei* séparé d'après la clé du protologue relu (Agoo & Madulid 2012, Blumea 57(2) : 131-133 : folioles ondulées, épines latérales le long de la pointe triangulaire / *lacrimans* : feuilles retombantes, graines sans endotesta spongieux), comme l'EN 30628 ; Agoo & Madulid 2012 ajouté en Bibliographie ; 2 remplacements simulés puis appliqués.

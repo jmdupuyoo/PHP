@@ -43,3 +43,4 @@
 
 ## Points douteux
 - Protologue (Wei 1996) et Hill et al. 2004 non lus ; Xi et al. 2025 lu en résumé seulement ; critères de l'évaluation UICN 2020 inconnus ; rattachement de *acuminatissima* et *crassipes* divergent selon les sources.
+- 24/10/2026 (retouche 0f avant CYC24) : BGCI PlantSearch (API datatools.bgci.org, 24/10) : 17 jardins, dont en France le Jardin botanique de la Mairie de Lyon et le SCCV Château Pérouse (Saint-Gilles, Gard) ; déclaration mentionnée comme telle (non datée, non vérifiée sur place) dans la culture en France, ligne BGCI ajoutée aux Sites de référence ; 2 remplacements simulés puis appliqués.

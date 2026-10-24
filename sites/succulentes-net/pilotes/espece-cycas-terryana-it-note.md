@@ -24,3 +24,4 @@
 ## Points douteux
 - La page IT *media* 14337 (ancienne) présente *terryana* comme « possibile ibrido stabilizzato tra *Cycas media* e *Cycas ophiolitica* », sans citer Forster 2011 ; non modifié (hors périmètre), signalé ici.
 - Seule donnée de froid : mention commerciale non chiffrée.
+- 24/10/2026 (retouche 0d avant CYC24) : « À lire aussi » / « Leggi anche », article Lavaud : formule « comment Lavaud les greffe » (protocole non publié) remplacée par une présentation fidèle de l'article recalé (article général sur les Cycas australiens et la greffe sur porte-greffe de Cycas revoluta ; plantes greffées proposées ; protocole non publié) ; « candidats à de futurs essais de greffe » (retiré de l'article) → classement « moyenne » de la note 2021 ; 3 remplacement(s) simulé(s) puis appliqué(s).

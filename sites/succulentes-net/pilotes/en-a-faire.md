@@ -25,7 +25,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - CYC21 : platyphylla C/FR26721 fait (24/10/2026, 30789), pranburiensis C/FR26724 fait (24/10/2026, 30800), pruinosa C/FR26726 fait (24/10/2026, 30806), pschannae C/FR21984 fait (24/10/2026, 30815), riuminiana C/FR26728 fait (24/10/2026, 30820) — lot CYC21 terminé le 24/10/2026
 - CYC22 : sancti-lasallei C/FR26730 fait (24/10/2026, 30840), saxatilis C/FR26732 fait (24/10/2026, 30847), schumanniana C/FR26734 fait (24/10/2026, 30854), scratchleyana C/FR26736 fait (24/10/2026, 30858), semota C/FR26738 fait (24/10/2026, 30868) — lot CYC22 terminé le 24/10/2026
 - CYC23 : seshachalamensis C/FR26740 fait (24/10/2026, 30904), sexseminifera C/FR22025 fait (24/10/2026, 30907), silvestris C/FR26745 fait (24/10/2026, 30917), sphaerica C/FR26747 fait (24/10/2026, 30927), sundaica C/FR26749 fait (24/10/2026, 30940) — lot CYC23 terminé le 24/10/2026
-- CYC24 : tansachana C/FR26751, terryana C/FR26753, tropophylla C/FR22019, tuckeri C/FR26755, vespertilio C/FR26757
+- CYC24 : tansachana C/FR26751 fait (24/10/2026, 31017), terryana C/FR26753 fait (24/10/2026, 31024), tropophylla C/FR22019 fait (24/10/2026, 31028), tuckeri C/FR26755 fait (24/10/2026, 31036), vespertilio C/FR26757 fait (24/10/2026, 31043) — lot CYC24 terminé le 24/10/2026
 - CYC25 : wadei C/FR26759, xipholepis C/FR26761, yorkiana C/FR26763, zambalensis C/FR26765, zeylanica C/FR21995
 - Fiches EN sans équivalent FR (slug différent ou forme) : longipetiolula (18667), miqueli (16505)
 
