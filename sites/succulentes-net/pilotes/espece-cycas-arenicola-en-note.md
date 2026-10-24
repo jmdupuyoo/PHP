@@ -31,3 +31,5 @@
 - 21/10/2026 (CYC16) : lien posé vers *Cycas furfuracea* EN 30589 à la première occurrence utile (replace_in_content simulé puis appliqué, 1) ; brouillon aligné.
 
 - 21/10/2026 (CYC18) : lien vers *Cycas maconochiei* EN (maconochiei) posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
+
+- 24/10/2026 (CYC21) : lien EN *Cycas pruinosa* 30806 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.

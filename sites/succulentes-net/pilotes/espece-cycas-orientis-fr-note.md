@@ -57,3 +57,7 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 - Contrôles : verify.py texte identique au rendu, 11 liens, URL 200, aucun commentaire visible, blocs 95/95, hreflang FR/IT conservés, liens internes 200.
 - Index genre 1256 : « Australie (Territoire du Nord) ; … (LC, 2020) » → « Australie (Territoire du Nord, est de la terre d’Arnhem) ; … (LC, 2022) » (année de publication dans la Liste rouge 2022-1, convention des lots précédents ; évaluation de Bösenberg datée de 2020).
 - À signaler pour l'IT 28762 : Lavaud 2021 absent ; page genre IT 11549 à vérifier pour l'année UICN (2020/2022).
+
+## Retouche du 24/10/2026 (0c avant CYC21)
+- Co-récolteur du type : « Lyn Stanberg » (prénom non sourcé) → « L. Stanberg », comme la source (WLoC 177 : « Stanberg, L » ; liste des spécimens de la même fiche : « K.D. Hill & L.C. Stanberg 3936 (NSW) ») et l'EN 30745. 1 remplacement simulé puis appliqué sur 26700 ; brouillon aligné.
+- Non traité (hors consigne) : la FR situe *arnhemica* « à l'ouest de la terre d'Arnhem » alors que l'EN *arnhemica* 30137 (Hill 1994, 1996) dit « centre de la terre d'Arnhem ».

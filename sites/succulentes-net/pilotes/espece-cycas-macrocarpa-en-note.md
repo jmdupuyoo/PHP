@@ -20,3 +20,5 @@
 
 ## FR/IT à reprendre (facultatif)
 - FR 26696 / IT 28700 : « pakoo galowe, langue non précisée » peut être complété (étiquette du type, PACSOA) ; jardins américains et australiens (Montgomery 1995-1998, BGCI) et plante de Durban absents.
+
+- 24/10/2026 (CYC21) : lien EN *Cycas pranburiensis* 30800 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.

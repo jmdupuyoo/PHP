@@ -26,3 +26,6 @@
 
 ## Points douteux (repris de la FR)
 - POWO non consulté (son traitement, espèce ou synonyme de *C. sphaerica*, n'est pas connu). Statut proposé EN en 2015, CR A4ad retenu par l'UICN (2020).
+
+## Ritocco del 24/10/2026 (0b prima di CYC21)
+- « Semi … 30-34 mm » corretto secondo il protologo (riletto il 24/10 per l'EN 30755): si tratta di **ovuli** lunghi 30-34 mm e di 28-32 mm di diametro. 1 sostituzione simulata poi applicata su 28774; bozza allineata.

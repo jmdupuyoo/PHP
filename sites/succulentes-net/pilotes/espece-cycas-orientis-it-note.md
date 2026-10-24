@@ -40,3 +40,6 @@
 - Statut : « valutazione … del 2020 (Lista rossa 2022-1) » → « pubblicata nel 2022 (versione 2022-1) » (encadré, Stato, Siti) ; date Crossref 15/10/2020 gardée en Bibliografia avec sa source. Bibliografia Blumea : « non consultato » → consulté (p. 363). Statut inchangé (LC). Toxicité inchangée.
 - SEO inchangé (titre 58, meta 145). Index genre IT 11549 : « Australia (Territorio del Nord); minor preoccupazione (LC, valutazione 2020, pubblicata nel 2022) » → « Australia (Territorio del Nord, Terra di Arnhem orientale); minor preoccupazione (LC, 2022) » (simulation 1 puis application 1) ; brouillon genre aligné (verify.py identique, 130 liens).
 - Contrôles : verify.py (texte identique, 14 liens internes en 200, blocs 110/110, hreflang fr/it, aucun commentaire visible, aucun lien FR) ; User-Agent curl et Chrome : 200, `<title>` « Cycas orientis: la cicadea della Terra di Arnhem orientale », nouveau texte servi.
+
+## Ritocco del 24/10/2026 (0c prima di CYC21)
+- Coraccoglitore del tipo: « Lyn Stanberg » (nome di battesimo non documentato) → « L. Stanberg », come la fonte (WLoC 177: « Stanberg, L »; elenco degli esemplari della stessa scheda: « K.D. Hill & L.C. Stanberg 3936 (NSW) ») e l'EN 30745. 1 sostituzione simulata poi applicata su 28762; bozza allineata.

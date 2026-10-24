@@ -22,7 +22,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - CYC18 : lingshuigensis C/FR21921 fait (21/10/2026, 30649), maconochiei C/FR26682 fait (21/10/2026, 30656), macrocarpa C/FR26696 fait (21/10/2026, 30667), mindanaensis C/FR26692 fait (21/10/2026, 30676), montana C/FR26685 fait (21/10/2026, 30681) — lot CYC18 terminé le 21/10/2026
 - CYC19 : nathorstii C/FR26688 fait (21/10/2026, 30688), nayagarhensis C/FR26697 fait (21/10/2026, 30693), nitida C/FR26691 fait (21/10/2026, 30696), nongnoochiae C/FR26717 fait (21/10/2026, 30700), ophiolitica C/FR26715 fait (24/10/2026, 30704) — lot CYC19 terminé le 24/10/2026
 - CYC20 : orientis C/FR26700 fait (24/10/2026, 30745), orixensis C/FR26694 fait (24/10/2026, 30755), pachypoda C/FR22073 fait (24/10/2026, 30759), papuana C/FR26712 fait (24/10/2026, 30768), petraea C/FR26719 fait (24/10/2026, 30777) — lot CYC20 terminé le 24/10/2026
-- CYC21 : platyphylla C/FR26721, pranburiensis C/FR26724, pruinosa C/FR26726, pschannae C/FR21984, riuminiana C/FR26728
+- CYC21 : platyphylla C/FR26721 fait (24/10/2026, 30789), pranburiensis C/FR26724 fait (24/10/2026, 30800), pruinosa C/FR26726 fait (24/10/2026, 30806), pschannae C/FR21984 fait (24/10/2026, 30815), riuminiana C/FR26728 fait (24/10/2026, 30820) — lot CYC21 terminé le 24/10/2026
 - CYC22 : sancti-lasallei C/FR26730, saxatilis C/FR26732, schumanniana C/FR26734, scratchleyana C/FR26736, semota C/FR26738
 - CYC23 : seshachalamensis C/FR26740, sexseminifera C/FR22025, silvestris C/FR26745, sphaerica C/FR26747, sundaica C/FR26749
 - CYC24 : tansachana C/FR26751, terryana C/FR26753, tropophylla C/FR22019, tuckeri C/FR26755, vespertilio C/FR26757

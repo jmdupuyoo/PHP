@@ -37,3 +37,5 @@
 - 21/10/2026 (CYC18) : lien vers *Cycas maconochiei* EN (maconochiei) posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
 
 - 24/10/2026 (CYC20) : lien vers *Cycas orientis* EN 30745 posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
+
+- 24/10/2026 (CYC21) : lien EN *Cycas platyphylla* 30789 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.

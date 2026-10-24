@@ -16,3 +16,6 @@
 - Points douteux : tout ce qui dépend du protologue ; présence à Đồng Nai.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 4 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du 24/10/2026 (0a avant CYC21)
+- « peut-être la province de Đồng Nai » (Wikipédia anglaise seule, sans référence) **retiré** de « Dans la nature », ainsi que la ligne Wikipédia des Sites de référence (2 remplacements simulés puis appliqués sur 22073). Répartition désormais limitée à WLoC (Bình Thuận, Ninh Thuận) et Species+ (Vietnam). L'IT 28778 et l'EN 30759 ne contenaient pas la mention (simulation : 0 occurrence).

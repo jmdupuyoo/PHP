@@ -39,3 +39,4 @@
 - Ajouts : Fonti (GBIF), Bibliografia (Bösenberg & Nguyen 2023). Rien retiré d'autre. « Peut-être Đồng Nai » (Wikipédia seule) toujours non repris en IT. Toxicité inchangée.
 - SEO inchangé. Index genre IT 11549 : « Vietnam; in pericolo critico (CR, 2010) » → « Vietnam meridionale (Binh Thuan, Ninh Thuan); in pericolo critico (CR, 2023) » (simulation 1 puis application 1), brouillon genre aligné (verify.py identique).
 - Contrôles : verify.py (texte identique, 10 liens en 200 dont *siamensis* 28898, blocs 97/97, hreflang fr/it, aucun commentaire visible) ; User-Agent curl et Chrome : 200, `<title>` « Cycas pachypoda: la cicadea dal piede rigonfio del Vietnam », nouveau texte servi.
+- Retouche 24/10/2026 (0a avant CYC21) : la FR 22073 ne cite plus Wikipédia (« peut-être Đồng Nai » retiré) ; l'IT n'a jamais repris la mention, rien à changer ici.

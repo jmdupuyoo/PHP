@@ -35,3 +35,7 @@
 
 ## 24/10/2026
 - Lien entrant ajouté depuis l'article EN 16530 (méthode Lavaud), à la première mention hors introduction (liste des « logical candidates for future grafting trials ») ; simulation 1, application 1.
+
+- 24/10/2026 (CYC21) : lien EN *Cycas platyphylla* 30789 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- 24/10/2026 (CYC21) : lien EN *Cycas pruinosa* 30806 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.

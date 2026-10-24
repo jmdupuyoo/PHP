@@ -42,3 +42,6 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Points à valider par le propriétaire
 1. Statut : les auteurs proposaient EN en 2015 ; l'UICN retient CR A4ad (2020). La page genre (1256) indique « CR, année non indiquée » : l'évaluation date de 2020.
 2. POWO non consulté : son traitement (espèce, ou synonyme de *C. sphaerica*) n'est pas connu.
+
+## Retouche du 24/10/2026 (0b avant CYC21)
+- « Les graines … 30 à 34 mm » corrigé d'après le protologue (relu le 24/10 pour l'EN 30755) : ce sont des **ovules** de 30-34 mm de long sur 28-32 mm de diamètre, enveloppe jaune à jaune « mangue » à la chute. 1 remplacement simulé puis appliqué sur 26694 ; brouillon aligné.

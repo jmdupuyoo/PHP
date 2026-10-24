@@ -20,3 +20,5 @@
 
 ## FR/IT à reprendre (hors lot)
 - Facultatif : FR 26680 / IT 28630 pourraient ajouter le classement « très difficile » et la mention du Nong Nooch de Lavaud 2021, ainsi que les jardins BGCI (Bundaberg, Kings Park).
+
+- 24/10/2026 (CYC21) : lien EN *Cycas pruinosa* 30806 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
