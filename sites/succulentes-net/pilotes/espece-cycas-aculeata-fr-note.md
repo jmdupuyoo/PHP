@@ -1,0 +1,28 @@
+# Note — *Cycas aculeata* (FR), id 22084
+
+## Nettoyage FR du 13/10/2026
+
+- Page : https://succulentes.net/cycadales/cycas/aculeata/ — id **22084**, slug `aculeata`, parent 1256, titre « Cycas aculeata » inchangés. Polylang : IT 28445 toujours liée (hreflang fr/it vérifiés ; pas d'EN ni d'ES, comme avant). Aucune image. Rien commité.
+- Choix : **réécriture complète** (fiche de mai 2026 sans brouillon local, sans encadré, avec section et signal moléculaire non vérifiés, USDA, menaces routières, comparaison *Zamia*, lien vers elle-même et lien /cycadales/ dans l'intro), d'après la fiche IT 28445 et des sources relues ce jour :
+  - WLoC 52 (copie locale du 12/10) : auteurs, Bot. Rev. 70(2) : 149-150, type Nguyen & Hill 4156 (23/01/2000, HT HN, IT NSW), « Vietnam (Da Nang) », EN A2acde; B1ab(i,ii,iii,v), Nguyen 2010, étymologie Haynes 2022.
+  - Crossref : Hill, Nguyen & Loc 2004 (auteurs « Ken D. Hill, Hiêp T. Nguyen, Phan K. Loc ») ; évaluations UICN 2010 (Nguyen) **et 2023-1 (Bösenberg & Nguyen, e.T42043A67334346)** ; GBIF API (iucnRedListCategory) : EN, iucnTaxonID 42043.
+  - Wikipédia EN (wikitext lu le 13/10) : seule source des mesures (tige 15-18 cm, 6-23 feuilles de 1,8-2,5 m, 100-150 folioles 35-52 × 1,3-1,9 cm, cônes mâles 15-20 × 4-6 cm), du sol limoneux sur granite et de la parenté avec *balansae* ; sa référence est la page Cycad Pages (RBG Sydney, archivée 2011). **Dit dans le texte** à chaque usage. Affirmation Wikipédia sur la guerre du Vietnam (herbicides, bombardements) non reprise (spéculative).
+  - Fous de palmiers t=17628 (relu le 13/10) : avril 2014, *C. aculeata* parmi quatre hypothèses pour des plantules vietnamiennes sans nom, à Montpellier — repris sans nom ni ville.
+  - Non accessibles : protologue (Springer/JSTOR, payant) ; dépôt VNU (503, connexion coupée) ; Cycad Pages archivées (web.archive.org refusé) ; Liste rouge UICN (bloquée).
+- Corrigé : statut UICN complété (évaluation 2023-1 en vigueur, EN), auteurs de la révision (Lôc), divergence de date du type (WLoC 23/01/2000, IPNI 23/06/2000).
+- Retiré (non vérifié) : section *Stangerioides* et signal moléculaire vers *C. siamensis* (chapitre de Hill 2004, CAB, non lu ; le retrait est signalé dans la Taxonomie), USDA 10b-11, menaces liées à l'axe routier du col, « croissance lente », comparaison avec *Zamia*, *Luthrodes pandava*, lien vers la page elle-même, lien /cycadales/ et *Zamia*, Osborne 2012 et POWO (non consultés).
+- Ajouté : encadré, réserve explicite sur l'origine Wikipédia des mesures, mention anonyme Fous de palmiers 2014, rusticité en deux parties (France : aucune donnée), statut UICN détaillé, CITES/UE datés, Toxicité, FAQ (8 questions), « À lire aussi » (semis, *Aulacaspis*, toxicité).
+- Liens internes (200, 13/10/2026) : genre (intro), *balansae*, *siamensis*, *revoluta* ; « À lire aussi » : 3 articles.
+- SEO Rank Math : titre « Cycas aculeata : cycas à pétiole épineux du Vietnam central » (59 car.) ; meta 145 car. ; mot-clé `cycas aculeata` (aucun SEO auparavant). Rank Math : aucun problème.
+- Vérifications (verify.py) : URL 200 ; aucun commentaire de bloc visible ; 102 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-cycas-aculeata-fr.html`, même séquence de 7 liens ; ≈ 2 750 mots.
+- À signaler pour l'IT 28445 (non modifiée) : évaluation UICN **2023-1** de Bösenberg & Nguyen (Crossref + GBIF, EN maintenu) alors que la fiche IT dit « The World List of Cycads non segnala valutazioni più recenti » et date le statut de 2010 ; troisième auteur de la révision = Phan Kế Lộc (déjà correct en IT).
+- Points douteux : toutes les mesures morphologiques et l'affinité avec *balansae* ne reposent que sur Wikipédia EN ; critères UICN : ceux de WLoC (évaluation 2010 ou 2023 ?) ; date de récolte du type.
+
+## Retouche FR du 18/10/2026 (lot RF1)
+- Point de pilotes/fr-retouches.md : ravageurs génériques sans source (« cochenilles farineuses et acariens », présentés « a priori »).
+- replace_in_content sur 22084 (deux passes, chacune simulation 1/1 puis application 1/1), Maladies et ravageurs : cochenilles farineuses et acariens retirés (aucune source) ; *Aulacaspis yasumatsui* conservée, reformulée d'après l'article du site 14141 (lié dans « À lire aussi ») : capable de tuer un cycas adulte en quelques mois, favorisée par la chaleur, l'air sec et le confinement (serre, véranda), « aucune attaque signalée sur cette espèce ». L'ancien « redoutable sous climat chaud et humide » contredisait l'article (qui cite la sécheresse de l'air) : remplacé. Pourriture par excès d'eau inchangée.
+- Écart avec l'IT : la fiche IT 28445 garde encore « le cocciniglie farinose e gli acari » (« in linea di principio ») ; la formulation FR suit plutôt l'IT *andamanica* 28451 (« le cocciniglie delle cicadee … possono colpire tutte le specie »). À reporter en IT.
+- Rien d'autre modifié ; SEO inchangé ; index genre 1256 non concerné.
+- Contrôles : texte en ligne identique au brouillon, 7 liens même séquence, liens internes en 200, blocs 102/102, hreflang fr/it, aucun commentaire visible ; User-Agent curl et Chrome : 200, `<title>` « Cycas aculeata : cycas à pétiole épineux du Vietnam central ».
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 2 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
