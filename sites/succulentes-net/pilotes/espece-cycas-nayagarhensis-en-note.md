@@ -21,3 +21,5 @@
 
 ## FR/IT à reprendre
 - Aucune correction de fond. Facultatif : dimensions des graines (33-38 × 35-39 mm) et GBIF.
+
+- 24/10/2026 (CYC20) : lien vers *Cycas orixensis* EN 30755 posé sur la première occurrence dans le corps du texte (« As in *Cycas orixensis* », Comment reconnaître ; replace_in_content, simulation 1, application 1) ; brouillon aligné. Point signalé lors de CYC19 (« aucun lien entrant possible ») réglé dans l'autre sens.

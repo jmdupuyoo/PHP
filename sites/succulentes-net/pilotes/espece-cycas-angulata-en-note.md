@@ -35,3 +35,5 @@
 - 21/10/2026 (CYC14) : lien vers *Cycas desolata* (EN 30362) posé à la première occurrence du corps (replace_in_content, simulation puis application, 1) ; brouillon aligné.
 
 - 21/10/2026 (CYC18) : lien vers *Cycas maconochiei* EN (maconochiei) posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
+
+- 24/10/2026 (CYC20) : lien vers *Cycas orientis* EN 30745 posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
