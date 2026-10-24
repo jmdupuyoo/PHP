@@ -24,3 +24,7 @@
 
 ## FR/IT à reprendre (facultatif)
 - Attribution des critères UICN (voir ci-dessus) ; altitude du plan 2007 présentée comme extrait ; ajouts possibles : jardins (Sydney, Mount Annan dont la série 2026, Montgomery 2003, BGCI), Trebrown.
+
+## Retouches du 24/10/2026 (avant CYC20)
+- Lien entrant depuis *Macrozamia miquelii* EN 18050 retiré avec la phrase qui le portait (« co-occurs with *Bowenia serrulata* and *Cycas ophiolitica* » à Mount Archer : non vérifié, point 0d). Liens entrants : 10 (au lieu de 11).
+- FR 26715 / IT 28751 corrigées (point 0a) : critères UICN attribués à WLoC (Forster 2010) ; altitude 80-620 m sourcée par WildNet (gouvernement du Queensland, d'après Halford 1995). Rien à changer dans cette page EN (critères déjà attribués à WLoC ; altitude non reprise). Ajout possible lors d'une reprise : habitat WildNet (sommets et pentes raides, 80-620 m).
