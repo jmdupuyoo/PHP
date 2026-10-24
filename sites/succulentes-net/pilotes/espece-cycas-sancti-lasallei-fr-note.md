@@ -41,3 +41,8 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Points à valider par le propriétaire
 1. Données démographiques de 2026 lues dans le seul résumé.
 2. Section et sous-section non publiées.
+
+## Retouche du 24/10/2026 (0a avant CYC23)
+- Suminig et al. 2026 lu en texte intégral (PDF THNHMJ 20(1) : 75-91) : « 125,6 par hectare pour les plus jeunes plantules » corrigé en « premier stade juvénile » (J1 ; les plantules S1 sont à 98,4/ha) ; ajouts : parcelles entre 259 et 465 m (aussi dans l'encadré), 50 plantes à cônes (21 mâles, 29 femelles), réserve des auteurs sur le sex-ratio (relevé unique, détectabilité) ; mention « lu dans le seul résumé » retirée (texte, Sites de référence, Bibliographie, pages 75-91 ajoutées).
+- « *Cycas flabellata* … a été comparé à cette espèce par ses auteurs » (extrait de moteur de recherche, description de 2019 non lue) remplacé par « n'a pas pu être comparé ici, sa description originale n'ayant pas été lue ».
+- 6 remplacements simulés puis appliqués (FR 26730) ; brouillon aligné. Le point 1 des « Points à valider » (données lues dans le seul résumé) est levé.

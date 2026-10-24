@@ -29,3 +29,5 @@
 - 21/10/2026 (CYC15) : lien vers *Cycas edentata* EN 30504 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1/1) ; brouillon aligné.
 
 - 24/10/2026 (CYC21) : lien EN *Cycas pschannae* 30815 (nom accepté) posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sphaerica* 30927 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.

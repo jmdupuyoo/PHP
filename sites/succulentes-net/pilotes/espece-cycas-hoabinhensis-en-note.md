@@ -19,3 +19,5 @@
 
 ## FR/IT à reprendre (hors lot)
 - FR 22042 / IT 28639 : informations tirées de Wikipédia seule (aires protégées, prélèvements à Hanoï, nom vietnamien) à retirer ou à remplacer par une source primaire, comme pour *curranii* (CYC14) ; ajouter les jardins BGCI (Sydney, Encinitas).
+
+- 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sexseminifera* 30907 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.

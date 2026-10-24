@@ -23,3 +23,6 @@
 ## Points douteux
 - Date et substrat du type (voir ci-dessus). Altitudes des étiquettes (26 à 743 m) non reprises : 743 m à « 200 m from Bruce Highway » paraît incohérent.
 - Localités exactes masquées par GBIF (espèce sensible) : la position des récoltes de 2011-2023 par rapport à l'aire de Hill 2004 n'est pas vérifiable.
+
+## Retouche du 24/10/2026 (0e avant CYC23)
+- Further reading, article Lavaud EN 16530 : « how the French nurseryman grafts them onto *Cycas revoluta* » (protocole non publié) → « presents the grafted plants that the French nurseryman offers on a *Cycas revoluta* rootstock » ; simulé puis appliqué ; brouillon aligné.

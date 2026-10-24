@@ -54,3 +54,4 @@
 - 21/10/2026 : index « (CR, 2010) » → « (CR, 2023) » pour *annaikalensis* (réévaluation 2023-1, GBIF) ; brouillon aligné.
 
 - Retouche du 24/10/2026 (avant CYC22, 0a) : indice, *pranburiensis* (CR, 2023) e *riuminiana* (EN, 2023), rivalutazioni Bösenberg 2023-1 (2 sostituzioni).
+- 24/10/2026 (retouche 0b avant CYC23) : ligne d'index *Cycas saxatilis* « (VU, 2010) » → « (VU, 2023) » (réévaluation A. Lindström, Liste rouge 2023-1 ; 1 remplacement simulé puis appliqué).

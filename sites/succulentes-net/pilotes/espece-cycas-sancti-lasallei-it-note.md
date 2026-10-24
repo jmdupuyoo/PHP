@@ -23,3 +23,6 @@
 
 ## Points douteux (repris de la FR)
 - Données démographiques 2026 lues dans le seul résumé ; section et sous-section non publiées ; page UICN non consultée (accès bloqué).
+
+## Retouche du 24/10/2026 (0a avant CYC23)
+- Comme la FR 26730 : Suminig et al. 2026 lu en texte intégral (pp. 75-91) ; « plantule più giovani » → « primo stadio giovanile » (J1, 125,6/ha ; S1 = 98,4/ha) ; ajouts 259-465 m (testo e riquadro), 50 piante con coni (21 maschi, 29 femmine), riserva degli autori sul rapporto tra i sessi ; mention « letto solo il riassunto » retirée ; phrase *flabellata* (« anche gli autori … l'hanno messa a confronto », non sourcée) remplacée par une mention de description non lue. 6 remplacements simulés puis appliqués (IT 28851) ; brouillon aligné.

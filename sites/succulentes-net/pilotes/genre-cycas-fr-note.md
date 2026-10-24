@@ -171,3 +171,4 @@ aenigma, angulata, annaikalensis, apoa, arenicola, arnhemica, badensis, basaltic
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 3 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
 
 - Retouche du 24/10/2026 (avant CYC22, 0a) : index, *pranburiensis* (CR, 2010) → (CR, 2023) et *riuminiana* (EN, 2010) → (EN, 2023), réévaluations Bösenberg 2023-1 (2 remplacements).
+- 24/10/2026 (retouche 0b avant CYC23) : ligne d'index *Cycas saxatilis* « (VU, 2010) » → « (VU, 2023) » (réévaluation A. Lindström, Liste rouge 2023-1 ; 1 remplacement simulé puis appliqué).

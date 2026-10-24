@@ -30,3 +30,8 @@
 - FR 26715 / IT 28751 corrigées (point 0a) : critères UICN attribués à WLoC (Forster 2010) ; altitude 80-620 m sourcée par WildNet (gouvernement du Queensland, d'après Halford 1995). Rien à changer dans cette page EN (critères déjà attribués à WLoC ; altitude non reprise). Ajout possible lors d'une reprise : habitat WildNet (sommets et pentes raides, 80-620 m).
 
 - 24/10/2026 (CYC21) : lien EN *Cycas platyphylla* 30789 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+## Retouche du 24/10/2026 (0e avant CYC23)
+- Further reading, article Lavaud EN 16530 : « how the French nurseryman grafts them onto *Cycas revoluta* » (protocole non publié) → « presents the grafted plants that the French nurseryman offers on a *Cycas revoluta* rootstock » ; « among the logical candidates for future grafting trials » (absent de l’article recalé) → espèce classée « moderate » par la note 2021, supportant des conditions un peu plus fraîches, absente des plantes greffées proposées ; simulé puis appliqué ; brouillon aligné.
+
+- 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas silvestris* 30917 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.

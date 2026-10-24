@@ -26,3 +26,6 @@
 - 24/10/2026 (CYC20) : lien vers *Cycas orientis* EN 30745 posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
 
 - 24/10/2026 (CYC20) : lien vers *Cycas papuana* EN 30768 posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
+
+## Retouche du 24/10/2026 (0e avant CYC23)
+- Further reading, article Lavaud EN 16530 : « how the French nurseryman grafts them onto *Cycas revoluta* » (protocole non publié) → « presents the grafted plants that the French nurseryman offers on a *Cycas revoluta* rootstock » ; simulé puis appliqué ; brouillon aligné.

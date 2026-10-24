@@ -37,3 +37,6 @@
 - Inchangés : toxicité (formulation existante), lien Lavaud uniquement dans « Leggi anche » (l'article ne cite pas l'espèce), In Italia, SEO (titre 57, meta 141, toujours exacts).
 - Index genre IT 11549 : « Australia (Queensland, isola Murray), Indonesia, Papua Nuova Guinea; minor preoccupazione (LC, 2010) » → « Papua Nuova Guinea, Indonesia (Papua, Molucche); Australia (una pianta sull'isola Mer, stretto di Torres, che Species+ non riporta); minor preoccupazione (LC, 2023) » (simulation 1 puis application 1), aligné sur l'index FR 1256 ; brouillon genre aligné.
 - Contrôles : verify.py (texte identique, 18 liens internes IT en 200, blocs 98/98, hreflang fr/it, aucun commentaire visible, aucun lien FR) ; User-Agent curl et Chrome : 200, `<title>` « Cycas scratchleyana: la cicadea delle foreste della Papua », nouveau texte servi.
+
+## Retouche du 24/10/2026 (0c avant CYC23)
+- « White 1923 » → « White 1922 » (d'après la bibliographie de la Flora of Australia : White, Proc. R. Soc. Queensland 34, 1922 ; comme l'EN 30858) ; 1 remplacement simulé puis appliqué ; brouillon aligné.

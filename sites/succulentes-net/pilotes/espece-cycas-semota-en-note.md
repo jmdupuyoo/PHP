@@ -35,3 +35,6 @@
 
 ## FR/IT (à reprendre)
 - FR 26738 / IT 28881 : remplacer la mention « résumé de recherche … à confirmer » par WildNet (taxon 5936) ; « huit » → « sept » isotypes ; exposer la divergence des mégasporophylles au lieu de mélanger les deux jeux de mesures ; ajouts possibles : statut Back on Track, aucune aire protégée, code 2V- (Hill 1996), jardins (Montgomery 1994, JCU, Prague), Trebrown 9b (commercial).
+
+## Retouche du 24/10/2026 (0d avant CYC23)
+- Liste « Megasporophylls » : « apical spine 19 to 40 mm » (mêlait la description de Hill, 19-30 mm, et la FoA, 25-40 mm) → « 25 to 40 mm according to the Flora of Australia » ; 1 remplacement simulé puis appliqué ; brouillon aligné.

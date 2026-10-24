@@ -20,3 +20,7 @@
 
 ## FR/IT à reprendre (hors lot)
 - FR 26684 : la section Culture garde « forêt tropicale à saison sèche marquée… sur un substrat drainant », retiré de l'IT le 18/10 comme déduction non sourcée (la plante pousse sur argile) : à aligner.
+
+- 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas silvestris* 30917 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sundaica* 30940 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.

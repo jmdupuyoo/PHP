@@ -19,3 +19,5 @@
 
 ## FR/IT à reprendre (hors lot)
 - Aucune erreur relevée. Facultatif : DOI de l'évaluation 2023-1 et confirmation GBIF dans la bibliographie FR/IT.
+
+- 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sphaerica* 30927 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.

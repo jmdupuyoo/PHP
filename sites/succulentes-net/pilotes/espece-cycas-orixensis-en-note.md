@@ -26,3 +26,5 @@
 ## Points douteux
 - POWO non consulté (traitement inconnu : espèce ou synonyme de *C. sphaerica*).
 - Accession Montgomery 96316 (voir plus haut).
+
+- 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sphaerica* 30927 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.

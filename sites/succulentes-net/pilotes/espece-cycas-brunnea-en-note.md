@@ -32,3 +32,6 @@
 - Catégorie de l'évaluation Hill 2010 non vérifiée.
 
 - 21/10/2026 (CYC13) : lien vers *Cycas couttsiana* EN 30333 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content ciblé, simulation 1, application 1) ; brouillon aligné.
+
+## Retouche du 24/10/2026 (0e avant CYC23)
+- Further reading, article Lavaud EN 16530 : « how the French nurseryman grafts them onto *Cycas revoluta* » (protocole non publié) → « presents the grafted plants that the French nurseryman offers on a *Cycas revoluta* rootstock » ; simulé puis appliqué ; brouillon aligné.

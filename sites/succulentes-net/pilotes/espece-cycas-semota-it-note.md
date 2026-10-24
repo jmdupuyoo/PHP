@@ -28,3 +28,9 @@
 ## Points douteux (repris de la FR)
 - Pollinisation par coléoptères en novembre-décembre : source (fiche WildNet du Queensland) non lue.
 - Couleur des feuilles divergente (Hill 1996 : vert foncé brillant ; FoA : vert moyen semi-brillant), données toutes deux.
+
+## Retouche du 24/10/2026 (0d avant CYC23)
+- Isotypes : « huit » → sept herbiers, nommés (BRI, CANB, DNA, K, L, MEL, NY), d'après Hill 1996 (texte relu).
+- Mégasporophylles : les deux jeux de mesures de Hill 1996 n'étaient plus mélangés ; la fiche suit désormais la clé de Hill et la Flora of Australia (13-20 cm, limbe lancéolé 60-75 × 20-28 mm, 28-46 épines latérales 0-7 mm, épine apicale 25-40 mm, 2-8 ovules) et expose les chiffres de la description de 1996 (10-14 cm, limbe triangulaire 50-65 × 38-50 mm, 22-36 dents, épine 19-30 mm, 2-6 ovules) comme probable lapsus (proches de *tuckeri* dans la clé), comme l'EN 30868. « 10 à 20 cm » (Comment reconnaître) → 13 à 20 cm.
+- Pollinisation : le « résumé de recherche … à confirmer » remplacé par WildNet (taxon 5936, reprod_notes : pollen et réceptivité en novembre-décembre, petits coléoptères, mutualisme obligatoire) ; ligne WildNet ajoutée aux Sites de référence.
+- 5 remplacements simulés puis appliqués ; brouillon aligné. EN 30868 : « apical spine 19 to 40 mm » (mélange) → « 25 to 40 mm according to the Flora of Australia » (1 remplacement simulé puis appliqué).

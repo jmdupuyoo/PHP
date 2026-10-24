@@ -39,3 +39,7 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Points à valider par le propriétaire
 1. Graines « côtelées ≤ 40 mm » : donnée de la clé d'Agoo & Madulid 2012, alors que les graines n'ont pas été décrites par Lindström et al. 2008 ; signalé dans la fiche.
 2. Statut : VU (UICN 2010) contre LC recommandé par les descripteurs.
+
+## Retouche du 24/10/2026 (0b avant CYC23)
+- Réévaluation A. Lindström, Liste rouge 2023-1 (e.T178864A69156279, doi:10.2305/IUCN.UK.2023-1.RLTS.T178864A69156279.en ; Crossref : évaluation du 12/11/2020) ajoutée : encadré (critère D2 attribué à WLoC), section Statut (VU via GBIF, critères non vérifiés), FAQ, Sites de référence (ligne GBIF API) et Bibliographie, alignée sur l'EN 30847. 5 remplacements simulés puis appliqués ; brouillon aligné (identique au contenu en ligne).
+- Index du genre FR 1256 / IT 11549 / EN 16282 : « (VU, 2010) » → « (VU, 2023) » (1 + 1 + 1, simulés puis appliqués ; brouillons genre alignés).

@@ -42,3 +42,5 @@
 - Période de reproduction : avril-août (description de Rao 2015) contre septembre-novembre (évaluation, même article) (exposé).
 - Interdiction de culture en Inde : Lindström & Hill seulement (attribuée).
 - Exigence de double permis CITES pour l'annexe I : règle générale de la Convention (article III), sans page source lisible (cites.org en 403).
+
+- 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sphaerica* 30927 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.

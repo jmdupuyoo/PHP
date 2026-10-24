@@ -59,3 +59,6 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 - Contrôles : verify.py texte identique au rendu, 16 liens, URL 200, aucun commentaire visible, blocs 91/91, hreflang FR/IT conservés, liens internes 200.
 - Index genre 1256 : « Australie (Queensland, île Murray), Indonésie, Papouasie-Nouvelle-Guinée ; (LC, 2010) » → « Papouasie-Nouvelle-Guinée, Indonésie (Papouasie, Moluques) ; Australie (une plante sur l'île Mer, détroit de Torrès, que Species+ ne retient pas) ; (LC, 2023) ».
 - À signaler pour l'IT 28869 : statut UICN (Bösenberg 2020/2023-1 au lieu de Hill 2010) ; diamètre du tronc (12-20 cm selon Lindström et al.) ; origine de l'affirmation « tolleranza all'ombra » (site commercial, pas Wikipédia) ; serre et rusticité à présenter comme déductions.
+
+## Retouche du 24/10/2026 (0c avant CYC23)
+- « White 1923 » → « White 1922 » (d'après la bibliographie de la Flora of Australia : White, Proc. R. Soc. Queensland 34, 1922 ; comme l'EN 30858) ; 1 remplacement simulé puis appliqué ; brouillon aligné.

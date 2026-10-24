@@ -46,3 +46,4 @@
 - 21/10/2026 (CYC18) : ligne *Cycas montana* de l'index liée vers la fiche EN 30681 (simulation 1, application 1) ; brouillon aligné.
 
 - Retouche du 24/10/2026 (avant CYC22, 0a) : index, *pranburiensis* (CR, 2010) → (CR, 2023) et *riuminiana* (EN, 2010) → (EN, 2023), réévaluations Bösenberg 2023-1 (2 remplacements).
+- 24/10/2026 (retouche 0b avant CYC23) : ligne d'index *Cycas saxatilis* « (VU, 2010) » → « (VU, 2023) » (réévaluation A. Lindström, Liste rouge 2023-1 ; 1 remplacement simulé puis appliqué).

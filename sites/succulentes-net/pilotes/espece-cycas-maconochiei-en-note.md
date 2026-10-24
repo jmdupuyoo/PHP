@@ -21,3 +21,6 @@
 
 ## FR/IT à reprendre (facultatif)
 - FR 26682 : n'a pas les ajouts de l'IT (PDF Lavaud 2021, Trebrown) ni le rapport PACSOA 1987 ; FR et IT : jardins américains (Montgomery 1997, BGCI) absents.
+
+## Retouche du 24/10/2026 (0e avant CYC23)
+- Further reading, article Lavaud EN 16530 : « how the French nurseryman grafts them onto *Cycas revoluta* » (protocole non publié) → « presents the grafted plants that the French nurseryman offers on a *Cycas revoluta* rootstock » ; simulé puis appliqué ; brouillon aligné.

@@ -21,3 +21,5 @@
 - Aucune (FR rédigée sur source primaire).
 
 - Lien sortant vers *Cycas scratchleyana* EN 30858 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).
+
+- 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sundaica* 30940 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
