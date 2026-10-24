@@ -23,3 +23,5 @@
 ## Points douteux
 - Statut : GBIF/UICN 2023 LC contre Flora of Australia « NT, 2022 ».
 - Cône mâle jamais décrit ; espèce connue de peu de récoltes.
+
+- Lien sortant vers *Cycas semota* EN 30868 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).

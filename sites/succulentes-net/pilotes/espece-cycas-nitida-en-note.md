@@ -21,3 +21,5 @@
 
 ## FR/IT à reprendre
 - Nuance facultative : la FR (Maladies) dit que les typhons « arrachent régulièrement » le feuillage ; le résumé de Marler & Ferreras ne parle que du typhon Haiyan (2013). Ajouts possibles : GBIF, BGCI (Selby).
+
+- Lien sortant vers *Cycas saxatilis* EN 30847 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).

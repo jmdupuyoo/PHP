@@ -45,3 +45,5 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 1. Le retour FDP de Bicol est mentionné avec réserve : le retirer si le propriétaire préfère ne rien citer d'une identification douteuse.
 2. Usages (Makiling) non sourcés par le jardin ; présentés avec prudence.
 3. WLoC liste aussi « Cycas circinalis var. curranii » parmi les synonymes de C. riuminiana : non repris (Lindström 2008 le rattache à C. curranii).
+
+- Retouche du 24/10/2026 (avant CYC22, 0a) : réévaluation J.D. Bösenberg (Liste rouge 2023-1, doi 10.2305/IUCN.UK.2023-1.RLTS.T239047689A69155789.en, Crossref ; date d'évaluation 19/11/2020 selon Crossref ; EN via GBIF, critères non lus) ajoutée à l'encadré, au Statut et à la Bibliographie ; typification alignée sur l'EN 30820 (lectotype K de De Laubenfels & Adema 1998, néotype selon Lindström et al. 2008, holotype LE selon WLoC 196) ; annotation De Laubenfels & Adema 1998 : texte lu (p. 382-383) le 24/10 pour l'EN (5 remplacements). Index FR 1256 : « (EN, 2023) ».

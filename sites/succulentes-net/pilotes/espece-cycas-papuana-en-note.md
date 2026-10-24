@@ -27,3 +27,5 @@
 - Présence australienne (île du Prince-de-Galles) : WLoC seule (non confirmée par Hill 1996, Flora of Australia, Species+).
 - Usage des graines sur les plaies : PACSOA seule, non confirmé.
 - Hill (1996) « microsporophylles prolongées et recourbées » vs Lindström et al. (2009) « microsporophylles petites, épine rudimentaire » : repris tels quels de la FR (sources différentes), non résolu.
+
+- Lien sortant vers *Cycas scratchleyana* EN 30858 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).

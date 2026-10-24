@@ -31,3 +31,5 @@
 - Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 4 remplacement(s) sur la page 30358, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).
 
 - 24/10/2026 (CYC21) : lien EN *Cycas riuminiana* 30820 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- Lien sortant vers *Cycas saxatilis* EN 30847 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).

@@ -27,3 +27,7 @@
 - 24/10/2026 (CYC21) : lien EN *Cycas pranburiensis* 30800 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
 
 - 24/10/2026 (CYC21) : lien EN *Cycas riuminiana* 30820 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- Lien sortant vers *Cycas sancti-lasallei* EN 30840 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).
+
+- Lien sortant vers *Cycas saxatilis* EN 30847 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).

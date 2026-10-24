@@ -52,3 +52,5 @@
 - 21/10/2026 (retouche signalée lors de CYC06) : index *pectinata* « (VU, 2010) » → « (VU, 2023) » (Bösenberg, Liste rouge 2023-1 ; replace_in_content, simulation 1, application 1) ; brouillon aligné, page identique en ligne.
 
 - 21/10/2026 : index « (CR, 2010) » → « (CR, 2023) » pour *annaikalensis* (réévaluation 2023-1, GBIF) ; brouillon aligné.
+
+- Retouche du 24/10/2026 (avant CYC22, 0a) : indice, *pranburiensis* (CR, 2023) e *riuminiana* (EN, 2023), rivalutazioni Bösenberg 2023-1 (2 sostituzioni).

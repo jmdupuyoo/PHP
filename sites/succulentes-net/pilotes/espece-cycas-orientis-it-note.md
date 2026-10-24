@@ -43,3 +43,5 @@
 
 ## Ritocco del 24/10/2026 (0c prima di CYC21)
 - Coraccoglitore del tipo: « Lyn Stanberg » (nome di battesimo non documentato) → « L. Stanberg », come la fonte (WLoC 177: « Stanberg, L »; elenco degli esemplari della stessa scheda: « K.D. Hill & L.C. Stanberg 3936 (NSW) ») e l'EN 30745. 1 sostituzione simulata poi applicata su 28762; bozza allineata.
+
+- Ritocco del 24/10/2026 (prima di CYC22, 0c) : « Terra di Arnhem occidentale » (errato) sostituito secondo Hill 1996 (testo letto : Goyder superiore, basso Blyth ed Elcho, Groote Eylandt ; intergradazione con *orientis* a nord-est, Badalngarrmirri Creek) (1 sostituzione, simulata poi applicata).

@@ -27,3 +27,5 @@
 - Présence dans les jardins = déclarations BGCI non datées ; serre ou plein air inconnus.
 
 - 21/10/2026 (lot CYC11) : lien vers la nouvelle fiche EN *Cycas bougainvilleana* (30163) posé à la première occurrence utile (replace_in_content, simulation puis application, 1/1) ; brouillon aligné.
+
+- Lien sortant vers *Cycas scratchleyana* EN 30858 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).

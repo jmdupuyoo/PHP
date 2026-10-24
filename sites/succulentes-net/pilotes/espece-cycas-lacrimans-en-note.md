@@ -23,3 +23,7 @@
 - 21/10/2026 (CYC18) : lien vers *Cycas mindanaensis* EN (mindanaensis) posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
 
 - 24/10/2026 (CYC21) : lien EN *Cycas riuminiana* 30820 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- Lien sortant vers *Cycas sancti-lasallei* EN 30840 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).
+
+- Lien sortant vers *Cycas saxatilis* EN 30847 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).

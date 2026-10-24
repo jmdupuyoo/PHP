@@ -19,3 +19,5 @@
 
 ## FR/IT à reprendre
 - Aucune (FR rédigée sur source primaire).
+
+- Lien sortant vers *Cycas scratchleyana* EN 30858 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).

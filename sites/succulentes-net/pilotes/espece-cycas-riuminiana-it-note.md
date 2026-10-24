@@ -22,3 +22,5 @@
 
 ## Points douteux (repris de la FR)
 - Protologue (Regel 1863) et description de *C. chamberlainii* non lus ; usages de Makiling non sourcés ; divergence EN (UICN 2010) / LC recommandé (Lindström et al. 2008) exposée ; WLoC cite aussi « *Cycas circinalis* var. *curranii* » parmi les synonymes (non repris, rattaché à *C. curranii* par Lindström 2008).
+
+- Retouche du 24/10/2026 (avant CYC22, 0a) : rivalutazione J.D. Bösenberg (Lista rossa 2023-1, Crossref ; EN via GBIF), tipificazione allineata sull'EN 30820 (lectotipo K, neotipo secondo Lindström et al. 2008, olotipo LE secondo WLoC), annotazione de Laubenfels & Adema 1998 (5 sostituzioni). Indice IT 11549 : « (EN, 2023) ».

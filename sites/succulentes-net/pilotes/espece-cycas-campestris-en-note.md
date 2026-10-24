@@ -27,3 +27,5 @@
 - Description de Hill 1994 non lue.
 
 - 24/10/2026 (CYC20) : lien vers *Cycas papuana* EN 30768 posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
+
+- Lien sortant vers *Cycas schumanniana* EN 30854 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).

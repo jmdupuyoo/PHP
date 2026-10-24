@@ -61,3 +61,5 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Retouche du 24/10/2026 (0c avant CYC21)
 - Co-récolteur du type : « Lyn Stanberg » (prénom non sourcé) → « L. Stanberg », comme la source (WLoC 177 : « Stanberg, L » ; liste des spécimens de la même fiche : « K.D. Hill & L.C. Stanberg 3936 (NSW) ») et l'EN 30745. 1 remplacement simulé puis appliqué sur 26700 ; brouillon aligné.
 - Non traité (hors consigne) : la FR situe *arnhemica* « à l'ouest de la terre d'Arnhem » alors que l'EN *arnhemica* 30137 (Hill 1994, 1996) dit « centre de la terre d'Arnhem ».
+
+- Retouche du 24/10/2026 (avant CYC22, 0c) : « cycas de l'ouest de la terre d'Arnhem » (faux) remplacé d'après Hill 1996 (texte lu : sous-espèce type sur la haute Goyder, centre de la terre d'Arnhem ; subsp. natja basse Blyth et île d'Elcho ; subsp. muninga Groote Eylandt ; plantes intermédiaires avec *orientis* au nord-est, vers Badalngarrmirri Creek) ; *orientis* : « widespread in eastern Arnhem Land ». « Voisin occidental » (Confusions) conservé, exact en position relative (1 remplacement, simulé puis appliqué).

@@ -169,3 +169,5 @@ aenigma, angulata, annaikalensis, apoa, arenicola, arnhemica, badensis, basaltic
 - 21/10/2026 : index « (CR, 2010) » → « (CR, 2023) » pour *annaikalensis* (réévaluation 2023-1, GBIF) ; brouillon aligné.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 3 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+- Retouche du 24/10/2026 (avant CYC22, 0a) : index, *pranburiensis* (CR, 2010) → (CR, 2023) et *riuminiana* (EN, 2010) → (EN, 2023), réévaluations Bösenberg 2023-1 (2 remplacements).

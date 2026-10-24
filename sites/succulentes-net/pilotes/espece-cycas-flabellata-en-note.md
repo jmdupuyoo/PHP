@@ -32,3 +32,5 @@
 - Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 2 remplacement(s) sur la page 30524, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).
 
 - 21/10/2026 (CYC18) : lien vers *Cycas mindanaensis* EN (mindanaensis) posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
+
+- Lien sortant vers *Cycas sancti-lasallei* EN 30840 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).

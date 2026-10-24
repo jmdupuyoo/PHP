@@ -20,3 +20,5 @@
 
 ## FR/IT à reprendre (hors lot, signalé dans cycadales-a-verifier.md, « Signalé lors de CYC18 »)
 - FR 26692 / IT 28714 : présenter comme non vérifiés (extrait de moteur de recherche) la comparaison avec *edentata*, *lacrimans*, *sancti-lasallei*, *flabellata* et le « jugé menacé par ses auteurs » (intro, encadré, Statut, Confusions, FAQ) ; ajouter le DOI, GBIF et Montgomery (2023, 2025).
+
+- Lien sortant vers *Cycas sancti-lasallei* EN 30840 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).

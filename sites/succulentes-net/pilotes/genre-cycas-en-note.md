@@ -44,3 +44,5 @@
 - 21/10/2026 (CYC18) : ligne *Cycas macrocarpa* de l'index liée vers la fiche EN 30667 (simulation 1, application 1) ; brouillon aligné.
 - 21/10/2026 (CYC18) : ligne *Cycas mindanaensis* de l'index liée vers la fiche EN 30676 (simulation 1, application 1) ; brouillon aligné.
 - 21/10/2026 (CYC18) : ligne *Cycas montana* de l'index liée vers la fiche EN 30681 (simulation 1, application 1) ; brouillon aligné.
+
+- Retouche du 24/10/2026 (avant CYC22, 0a) : index, *pranburiensis* (CR, 2010) → (CR, 2023) et *riuminiana* (EN, 2010) → (EN, 2023), réévaluations Bösenberg 2023-1 (2 remplacements).
