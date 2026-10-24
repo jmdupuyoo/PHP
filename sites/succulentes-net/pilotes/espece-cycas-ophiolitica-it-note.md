@@ -43,3 +43,8 @@
 - Formulations du statut : « valutazione … del 2023 » → « pubblicata nel 2023 » (encadré, Stato avec version 2023-1, Siti). Bibliografia Blumea : « non consultato » → consulté (p. 363). Statut inchangé (VU). Toxicité inchangée.
 - SEO inchangé (titre 52, meta 145). Index genre IT 11549 : « Australia (Queensland) » → « Australia (Queensland centro-orientale, regione di Marlborough e di Rockhampton) », (VU, 2023) conforme (simulation 1 puis application 1) ; brouillon genre aligné (verify.py identique, 130 liens).
 - Contrôles : verify.py (texte identique, 16 liens internes en 200, blocs 117/117, hreflang fr/it, aucun commentaire visible, aucun lien FR) ; User-Agent curl et Chrome : 200, `<title>` « Cycas ophiolitica: la cicadea blu 'Marlborough Blue' », nouveau texte servi.
+
+## Ritocco del 24/10/2026 (prima di CYC20, punto 0a)
+- Stato IUCN : critères attribués à The World List of Cycads (fiche 176 relue le 24/10/2026, référence Forster 2010) ; Bösenberg 2023 vérifiée sur Crossref, catégorie VU relayée par GBIF, critères non lus ; phrase finale redondante (« La Lista rossa non ha potuto essere consultata direttamente ») retirée.
+- Altitude 80-620 m : sourcée par la fiche WildNet du gouvernement du Queensland (taxon 8437, d'après Halford 1995), au lieu du plan 2007 « noto da un estratto ».
+- 5 remplacements (simulation 5, application 5) ; brouillon aligné.
