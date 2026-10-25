@@ -24,3 +24,6 @@
 ## Points douteux
 - Longueur du cône femelle : 15-20 cm (description) vs 20-30 cm (clé) — les deux données, comme en FR.
 - POWO, UICN et BHL non consultés (Cloudflare) ; statuts UICN repris de WLoC.
+
+## Ritocco del 25/10/2026 (0b prima di ZAM07)
+- Nota di ricerca «Nessun riscontro è stato trovato con le ricerche sul web» tolta; «Riferimenti internazionali» riempito (Montgomery 11 numeri, Selby, Cairns secondo BGCI 25/10/2026; coltivazione in vaso di Vannini 2019); paragrafo Coltivazione e FAQ «Si può coltivare?» corretti (coltivazione documentata da Vannini 2019); Vannini 2019, BGCI e Montgomery aggiunti alle fonti, Vannini alla bibliografia. 5 sostituzioni (simulazione poi applicazione); bozza allineata; fatti ripresi dall'EN 31979.

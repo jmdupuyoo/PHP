@@ -23,3 +23,6 @@
 - Brouillon `pilotes/espece-zamia-disodon-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé, hors sommaire Easy TOC ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés ; aucun lien vers une page FR.
 - Vérifié avant création : aucune page IT ni redirection pour l'espèce.
 - Rien commité.
+
+## Ritocco del 25/10/2026 (0d prima di ZAM07)
+- 2 note di lavoro tolte: «Nessun riscontro di coltivazione è stato trovato con le ricerche sul web» → «Non è documentata alcuna coltivazione fuori dalla Colombia: nessun orto botanico dichiara la specie alla banca dati BGCI» (BGCI interrogata il 25/10/2026); «elenco completo degli autori non ricopiato» tolto e autori di Calonje et al. 2021 completati secondo Crossref. 3 sostituzioni (simulazione poi applicazione); bozza allineata.

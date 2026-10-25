@@ -50,3 +50,6 @@
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu, phrase par phrase).
 - Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).
 - Liens croisés posés après publication vers les fiches du lot : dressleri (première occurrence hors introduction et encadré).
+
+## Retouche du 25/10/2026 (0b avant ZAM07)
+- Intertitre « Repères internationaux » vide rempli (Montgomery 11 numéros, Selby, Cairns d'après BGCI 25/10/2026 ; culture en pot de Vannini 2019) ; paragraphe Culture et réponse FAQ « Peut-on le cultiver ? » corrigés (culture documentée par Vannini 2019 : réussite en pot, graines sauvages sur le marché) ; Vannini 2019, BGCI et Montgomery ajoutés aux Sites de référence, Vannini à la Bibliographie. 5 remplacements (simulation puis application) ; brouillon aligné ; faits repris de l'EN 31979.

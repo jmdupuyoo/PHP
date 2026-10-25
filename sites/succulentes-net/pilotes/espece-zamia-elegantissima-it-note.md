@@ -24,3 +24,6 @@
 - Entrants (simulation 3/3 puis application 3/3, première occurrence hors intro/encadré/titres/fonti) : stevensonii 28247 (« somiglia soprattutto a », la première occurrence étant dans l'intro), fairchildiana 28035 (liste « Possibili confusioni »), obliqua 29481 (liste « Possibili confusioni ») ; brouillons alignés, verify.py OK.
 
 - 18/10/2026 (fiche 4 du lot) : lien vers *Zamia pseudomonticola* IT 29503 posé dans la liste « Possibili confusioni » (replace_in_content 1/1) ; brouillon aligné, verify.py OK (17 liens).
+
+## Ritocco del 25/10/2026 (0f prima di ZAM07)
+- Rusticità: frase negativa sul Jardin zoologique tropical («non è stata pubblicata alcuna osservazione») tolta (stesso difetto della FR). 1 sostituzione (simulazione poi applicazione); bozza allineata.

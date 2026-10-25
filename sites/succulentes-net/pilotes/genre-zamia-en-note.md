@@ -20,3 +20,6 @@
 
 ## Retouches pendant ZAM03 (24/10/2026)
 - Ligne d'index *oligodonta* : « leaflets with only a few teeth, at the tip » → « named for the few teeth near the tip of its leaflets, a character the 2015 revision found inconsistent » (Calonje et al. 2015) ; simulation puis application, 1 remplacement ; brouillon aligné.
+
+## Retouche du 25/10/2026 (0a avant ZAM07)
+- Paragraphe Usages : « Toxic glycosides (methylazoxymethanol, macrozamin, cycasin) » → « toxic glycosides (cycasin, macrozamin), from which methylazoxymethanol is derived » ; note de travail « this use has not been checked in the original source » retirée (Schultes & Raffauf 1990 attribué comme cité par la Gymnosperm Database). Simulation puis application, 1 remplacement ; brouillon aligné.

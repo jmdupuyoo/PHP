@@ -24,3 +24,7 @@
 ## Points douteux
 - Clade « Tuerckheimii » : attribué à Calonje et al. 2019 (non consulté directement). FR : « feuilles coriaces » contredit par le protologue (folioles cartacées) — à corriger côté FR.
 - POWO, UICN et BHL non consultés (Cloudflare) ; statuts UICN repris de WLoC.
+
+## Ritocco del 25/10/2026 (0c prima di ZAM07)
+- «sinkhole cycad» con fonte Griffith et al. 2017 (riassunto Europe PMC) e Vannini 2019; riga Wikipedia tolta (Europe PMC ed Exotica Esoterica aggiunte); clade «Tuerckheimii» (Calonje et al. 2019, non consultato) tolto dal testo e dalla bibliografia, sostituito dal parere di Vannini 2019 (possibile sottospecie di *tuerckheimii*, parere isolato); nota di lavoro su Curtis 2022 tolta; Griffith 2017 e Vannini 2019 aggiunti alla bibliografia. 5 sostituzioni (simulazione poi applicazione); bozza allineata; fatti ripresi dall'EN 31983.
+- Stesso giorno: «Nessun riscontro di coltivazione datato è stato trovato, né nella letteratura orticola né sui forum consultati» (Riferimenti internazionali) → «Non è stato pubblicato alcun risultato datato di resistenza al freddo o al caldo, nemmeno per le piante delle collezioni di conservazione della Florida» (1 sostituzione, simulazione poi applicazione; bozza allineata).

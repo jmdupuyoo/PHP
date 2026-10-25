@@ -51,3 +51,6 @@
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu, phrase par phrase).
 - Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).
 - Liens croisés posés après publication vers les fiches du lot : hamannii, cunaria (première occurrence hors introduction et encadré).
+
+## Retouche du 25/10/2026 (0e avant ZAM07)
+- Intertitre « Repères internationaux » vide rempli : culture difficile, chaleur constante jour et nuit, drainage (Vannini 2019) ; Montgomery 2 numéros (dont 2014), 7 jardins BGCI (Montgomery, Selby, Huntington, San Diego, Atlanta, New York ; interrogé le 25/10/2026), aucun au Royaume-Uni ni en Australie ; réserve sur les déclarations BGCI. Vannini, BGCI et Montgomery ajoutés aux Sites de référence, Vannini à la Bibliographie. 3 remplacements (simulation puis application) ; brouillon aligné ; faits repris de l'EN 31990.

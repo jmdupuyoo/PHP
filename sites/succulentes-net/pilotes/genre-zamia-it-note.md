@@ -33,3 +33,6 @@
 
 ## Ritocco del 24/10/2026 (0a prima di ZAM03)
 - 15 sostituzioni (simulazione poi applicazione, replace_in_content su 11879; bozza allineata), come per l'EN 16295 e la FR 3963: menzioni «estratto di ricerca» / «rilevato da un estratto» tolte (POWO «circa 90 specie», *Chigua*, Plinio / *azaniae*, Stevenson 1990); complesso *Zamia pumila* → monofiletico (Salas-Leiva e collaboratori 2017, riassunto OpenAlex) e Meerow 2018 tolto dalla bibliografia; Dave's Garden (testo e fonte) e PalmTalk tolti; Norstog 1992 riscritto dal riassunto (OpenAlex); Salzman 2020: «il mircene» → «l'1,3-ottadiene» (il β-mircene è quello di *Macrozamia lucida*); riga *boliviana* fondata su WLoC (*boliviana* e *ulei* sole in Bolivia); didascalia dell'immagine 7318 neutra «*Zamia furfuracea* in coltivazione.» e frase su Hyères / Olbius Riquier tolta (luogo non verificato).
+
+## Ritocco del 25/10/2026 (0a prima di ZAM07)
+- Paragrafo Usi: «glicosidi tossici (cicasina, macrozamina), da cui deriva il metilazossimetanolo» (il metilazossimetanolo non è più elencato tra i glicosidi); nota di lavoro «questo uso non è stato verificato nella fonte originale» tolta (Schultes e Raffauf 1990 attribuito come citato dalla Gymnosperm Database). Simulazione poi applicazione, 1 sostituzione; bozza allineata.

@@ -33,3 +33,6 @@
 - Index de la page genre 3963 : nom lié (1/1), statut « (EN), évaluation de 2022 » conforme ; brouillon aligné ; verify.py OK.
 - Entrants posés (simulation 3/3 puis application 3/3, première occurrence hors introduction) : stevensonii 26614 (corps, « il ressemble surtout à »), fairchildiana 26484 (liste « Confusions »), obliqua 29441 (liste « Confusions ») ; brouillons alignés, verify.py OK.
 - 18/10/2026 (fiche 4 du lot) : lien vers *Zamia pseudomonticola* 29463 posé (liste « Confusions », 1/1). Correction (simulation non faite séparément ; application 3/3 sur l'id 29456 seul) : « pseudo-pseudoparasitica » n'est pas « jamais publié » — Gómez 1982 le cite comme nomen nudum de Dressler (Marie Selby Bot. Gdn. Bull. 2(3) : 22) et le place dans la synonymie de *Z. fairchildiana* ; Gómez 1982 ajouté aux Sites de référence et à la Bibliographie. Brouillon aligné ; verify.py OK (16 liens internes).
+
+## Retouche du 25/10/2026 (0f avant ZAM07)
+- Rusticité, En France : mentions sans donnée retirées (message Fous de palmiers d'octobre 2012 annonçant une visite au Panama ; « aucune observation n'a été publiée » au Jardin zoologique tropical). 1 remplacement (simulation puis application) ; brouillon aligné.
