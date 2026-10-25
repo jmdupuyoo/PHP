@@ -61,3 +61,6 @@ Aucune : le genre est monotypique et *Stangeria eriopus* a sa fiche (4090). Rema
 ## Proposition SEO
 - Titre (59 car.) : `Stangeria : la cycadale sud-africaine qui imite une fougère`
 - Meta description (154 car.) : `Stangeria eriopus, unique espèce du genre : cycadale d'Afrique du Sud prise pour une fougère. Histoire, deux formes, CITES I, usages, culture et toxicité.`
+
+## Retouche du 25/10/2026 (avant ENC01)
+- Encadré, ligne Pollinisation : note de travail « aucune étude détaillée sur les pollinisateurs n'a été consultée » remplacée par le résultat de Procheş & Johnson 2009 (American Journal of Botany 96 : 1722-1730, doi:10.3732/ajb.0800377 ; résumé lu via Crossref et Europe PMC : odeur de fruit fermenté des cônes, visiteurs nitidules/staphylins/drosophiles, seuls les nitidules pollinisent en conditions expérimentales) ; référence ajoutée en bibliographie. Même correction en FR 4081, EN 16329 et IT 27377 (simulation puis application, 2 remplacements chacune ; brouillons alignés). Les autres mentions « par extraits » de la page restent à traiter (balayage dédié).

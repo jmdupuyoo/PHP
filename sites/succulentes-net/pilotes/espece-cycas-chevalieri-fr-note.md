@@ -31,3 +31,6 @@
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 8 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
 
 - Retouche 25/10/2026 (0 avant ZAM18) : mentions du scan et de la reconnaissance automatique du texte retirées (« relue sur le scan de la », « lu sur le scan de la flore (la reconnaissance automatique du texte donne « Cay nger ») », « lu sur le scan » en bibliographie) ; « Les sources accessibles » → « Les données publiées » ; 3 remplacements, simulation puis application ; brouillon aligné.
+
+## Retouche du 25/10/2026 (avant ENC01)
+- Présence au Laos : Wikipédia retirée comme source (texte et Sites de référence) ; présence donnée comme évoquée mais non confirmée (WLoC et Species+ : Vietnam seul ; occurrences GBIF indiquant un pays : toutes au Vietnam, 25/10/2026). Simulation puis application (4 remplacements), brouillon aligné.

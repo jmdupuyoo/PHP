@@ -52,7 +52,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - ZAM18 : tuerckheimii C/FR22391 fait (25/10/2026, 34407), urarinorum C/FR26590 fait (25/10/2026, 34424), urep C/FR26568 fait (25/10/2026, 34430), variegata C/FR21795 fait (25/10/2026, 34441) — lot ZAM18 terminé le 25/10/2026 (dernier lot des *Zamia*)
 
 ## Encephalartos — 59 à reprendre, 6 à créer
-- ENC01 : aemulans R17076/FR26207, altensteinii R16587/FR2436, aplanatus R17050/FR26211, arenarius R16779/FR26215, barteri R16895/FR26219
+- ENC01 : aemulans R17076/FR26207 fait (25/10/2026, 17076), altensteinii R16587/FR2436 fait (25/10/2026, 16587), aplanatus R17050/FR26211 fait (25/10/2026, 17050), arenarius R16779/FR26215 fait (25/10/2026, 16779), barteri R16895/FR26219 fait (25/10/2026, 16895) — lot ENC01 terminé le 25/10/2026
 - ENC02 : brevifoliolatus R16948/FR26223, bubalinus R16877/FR26227, cerinus R16971/FR26181, chimanimaniensis R17017/FR26190, concinnus R17056/FR26197
 - ENC03 : cupidus R16744/FR26230, cycadifolius R16721/FR26205, dolomiticus R17002/FR26209, dyerianus R17009/FR26170, equatorialis R16844/FR26176
 - ENC04 : eugene-maraisii R16899/FR26184, ferox R16572/FR1847, friderici-guilielmi R16606/FR1857, ghellinckii R16711/FR26192, gratus R16658/FR12439

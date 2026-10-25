@@ -57,3 +57,6 @@
 - Data WLoC 20/05/1841 (impossibile): già segnalata in Tassonomia (invariata).
 
 - Ritocco 25/10/2026 (0 prima di ZAM18): menzioni della scansione rimosse («trascritto qui dalla scansione della flora» → «nella descrizione originale»; bibliografia «consultato sulla scansione» → «letto»); 2 sostituzioni, simulazione poi applicazione; bozza allineata.
+
+## Retouche du 25/10/2026 (avant ENC01)
+- Présence au Laos : Wikipédia retirée comme source (texte et Sites de référence) ; présence donnée comme évoquée mais non confirmée (WLoC et Species+ : Vietnam seul ; occurrences GBIF indiquant un pays : toutes au Vietnam, 25/10/2026). Simulation puis application (4 remplacements), brouillon aligné.

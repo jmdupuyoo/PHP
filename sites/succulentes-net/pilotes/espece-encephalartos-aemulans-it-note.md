@@ -22,3 +22,6 @@
 - `pilotes/espece-encephalartos-aemulans-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot : ndiff 0) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées ; aucun lien vers une page FR ; liens internes IT tous en 200 (vérifié après publication des 10 fiches).
 - Aucune page IT ni redirection préexistante. Images : aucune (la FR n'en a pas).
 - Rien commité.
+
+## Retouche du 25/10/2026 (lot ENC01)
+- Mentions d'extraits de recherche retirées (7 remplacements, simulation puis application, brouillon aligné) : POWO « par extrait » → « n'a pas pu être consulté directement » ; retour PalmTalk (Noël 2020, ~−2 °C, connu par extrait seulement, lieu inconnu) retiré du texte, de l'encadré, de la FAQ et des sources ; « chiffres qui circulent en ligne (100-250) non retrouvés » → estimation de 150 à 250 plantes citée par la fiche PlantZAfrica du SANBI (L. Zondi, 2019, lue le 25/10/2026 avec un User-Agent de navigateur), ajoutée aux sources ; « un seul retour chiffré a été trouvé » → aucune valeur de froid mesurée en culture n'est documentée.

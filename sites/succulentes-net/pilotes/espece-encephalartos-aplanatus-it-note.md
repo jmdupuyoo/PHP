@@ -22,3 +22,7 @@
 - `pilotes/espece-encephalartos-aplanatus-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot : ndiff 0) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées ; aucun lien vers une page FR ; liens internes IT tous en 200 (vérifié après publication des 10 fiches).
 - Aucune page IT ni redirection préexistante. Images : aucune (la FR n'en a pas).
 - Rien commité.
+
+## Retouche du 25/10/2026 (lot ENC01)
+- Mentions d'extraits de recherche retirées (6 remplacements, simulation puis application, brouillon aligné) : POWO « par extrait » → « n'a pas pu être consulté directement » ; fiche PlantZAfrica (P. M'Afrika Xaba, Kirstenbosch, 2009) désormais lue (UA de navigateur) : facilité de culture et rareté confirmées, ajout « relativement rapide et facile à transplanter », source mise à jour (URL https://pza.sanbi.org/encephalartos-aplanatus) ; « ni sur Tropicamente ni dans les extraits de PalmTalk » retiré.
+- Correction de fond : l'affirmation « aucun nom commun attesté dans aucune langue » était fausse : PlantZAfrica donne « Swazi north-east forest cycad » (anglais) et « umphanga wehlathi » (zoulou) ; encadré et section Noms communs corrigés ; phrase de travail sur les noms « qui circulent » retirée.

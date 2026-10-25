@@ -66,3 +66,7 @@
 ## Publication (02/10/2026)
 - Page 26211 publiée : https://succulentes.net/cycadales/encephalartos/aplanatus/ (200, sans redirection), parent 14229, traduction liée à 17050, SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 14229.
 - Liens internes ajoutés avant publication (pages FR publiées, 200) : Encephalartos horridus.
+
+## Retouche du 25/10/2026 (lot ENC01)
+- Mentions d'extraits de recherche retirées (6 remplacements, simulation puis application, brouillon aligné) : POWO « par extrait » → « n'a pas pu être consulté directement » ; fiche PlantZAfrica (P. M'Afrika Xaba, Kirstenbosch, 2009) désormais lue (UA de navigateur) : facilité de culture et rareté confirmées, ajout « relativement rapide et facile à transplanter », source mise à jour (URL https://pza.sanbi.org/encephalartos-aplanatus) ; « ni sur Tropicamente ni dans les extraits de PalmTalk » retiré.
+- Correction de fond : l'affirmation « aucun nom commun attesté dans aucune langue » était fausse : PlantZAfrica donne « Swazi north-east forest cycad » (anglais) et « umphanga wehlathi » (zoulou) ; encadré et section Noms communs corrigés ; phrase de travail sur les noms « qui circulent » retirée.

@@ -78,3 +78,6 @@
 
 ## Publication (02/10/2026)
 - Page 26215 publiée : https://succulentes.net/cycadales/encephalartos/arenarius/ (200, sans redirection), parent 14229, traduction liée à 16779, SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 14229.
+
+## Retouche du 25/10/2026 (lot ENC01)
+- Mentions d'extraits de recherche retirées (10 remplacements, simulation puis application, brouillon aligné). La fiche PlantZAfrica actuelle (P. M'Afrika Xaba, Kirstenbosch, septembre 2008), désormais lue avec un User-Agent de navigateur, **ne contient pas** l'altitude (100-200 m), la pluviométrie (725-875 mm), l'absence de gel, ni les noms afrikaans (duinebroodboom, Alexandriabroodboom, sandbroodboom) et xhosa (umNgqungqu, iSundu) relevés par extrait : ces données, non vérifiables (le document NDF du SANBI 2023/2025, relu, n'en parle pas), sont retirées du texte, de l'encadré et de la FAQ. Confirmés et désormais attribués à la fiche lue : dimensions des cônes (femelles 50-60 × 25-30 cm, mâles 1-3, 30-50 × 8-15 cm), noms « Alexandria cycad », « Kwa Qaba cycad » (anglais) et « uMphanga wakwa Qaba » (nguni). POWO « par extrait » → « n'a pas pu être consulté directement ». Source PlantZAfrica mise à jour (https://pza.sanbi.org/encephalartos-arenarius).
