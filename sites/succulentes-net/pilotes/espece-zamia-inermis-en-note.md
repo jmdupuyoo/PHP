@@ -23,3 +23,6 @@
 ## FR/IT corrigées au passage (25/10/2026, simulation puis application)
 - FR 21714 (14) et IT 28027 (11) : passages tirés de Wikipédia seule ou non vérifiés remplacés par les sources primaires (histoire, effectifs, pollinisateur, menaces, multiplication), notes de travail retirées (« recherche du 13 octobre 2026 », « Aucun retour de froid n'a été trouvé… », « non abbiamo potuto verificarlo », « dati non ricontrollati », « edizioni successive consultate »), Repères internationaux réécrits (Jungle Music / Trebrown / Lavaud / BGCI), numéro IPEN de Naples ajouté, 5 sources et la référence *Cuadernos* 2017 ajoutées, annotations « texte non consulté » → « résumé lu ».
 - **Reste à reprendre (signalé)** : mesures et 2n = 16 de la FR (Wikipédia), altitude et sols volcaniques, « Actopan » ; IT : morphologie non sourcée (« grigio cenere », taille ~30 cm), suoli basaltici, parassiti generici.
+
+## Retouche 25/10/2026 (avant ZAM11)
+- Altitude 150-300 m ajoutée d'après Nicolalde-Morejón et al. 2014 (*Rev. Mex. Biodiv.* suppl. 85, tableau, texte intégral relu : « Z. inermis … Veracruz … 150-300 … P … GM ») : encadré, In the wild (avec la province biogéographique du golfe du Mexique), FAQ, Sites de référence et Bibliographie (5 remplacements, simulation puis application ; brouillon aligné, texte en ligne identique).

@@ -21,3 +21,6 @@
 ## FR/IT à reprendre (signalé)
 - IT 28052 : « Non è stato trovato alcun altro riscontro con le ricerche sul web » (Riferimenti internazionali, note de recherche visible).
 - FR 26487 : rien de bloquant ; compléments possibles : Lindstrom 2024, Jungle Music, BGCI (San Diego), Lavaud 2023.
+
+## Retouche 25/10/2026 (avant ZAM11)
+- Cônes parfumés de *lindenii* : sourcés sur le protologue (Dodson 1998, *Novon* 8 : 12-14, texte relu sur archive.org, biostor-63944) : « Beetles are common at that site visiting the powerfully fragrant cones of Z. lindenii Regel produced by plants natural to the locality » (Río Palenque Science Center). Phrase précisée et attribuée « (Dodson, 1998) » (1 remplacement, simulation puis application ; brouillon aligné). Fait non repris dans la fiche EN *lindenii* 32164 (signalé).

@@ -51,3 +51,6 @@ Brouillon : `pilotes/espece-zamia-lindosensis-fr.html` (blocs Gutenberg contrôl
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26519, https://succulentes.net/cycadales/zamia/lindosensis/ (200, sans redirection ; aucune redirection ancienne trouvée). Sans translation_of (aucune traduction). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 3963 ; liens croisés posés vers les fiches Zamia FR publiées (vérifiées 200).
+
+## Correction du 25/10/2026 (lot ZAM11, création EN 32192)
+- Fiche jusque-là appuyée sur Wikipédia pour la description et l'habitat : mensurations, sols sableux, 120 km², bassins Amazone/Orénoque, menaces et actions du SINCHI retirés ; habitat et altitudes (290-490 m, affleurements rocheux, savane de sable blanc) resourcés sur les spécimens COAH/SINCHI (GBIF) ; guide Field Museum 1607 (2023) ; Lavaud 2023 (groupe des forêts de basse altitude) ; Lindstrom 2024 (non échantillonnée) ; notes de travail retirées. Simulation puis application (FR 16 / IT 18 remplacements), brouillon aligné, texte en ligne identique.

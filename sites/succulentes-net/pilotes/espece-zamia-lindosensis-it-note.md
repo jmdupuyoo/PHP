@@ -29,3 +29,6 @@
 - Protologue (Stevenson, Cárdenas López & Castaño Arboleda 2018) non consulté : mesures reprises via Wikipedia, signalé dans le texte. Espèce non évaluée par l'UICN.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 2 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Correction du 25/10/2026 (lot ZAM11, création EN 32192)
+- Fiche jusque-là appuyée sur Wikipédia pour la description et l'habitat : mensurations, sols sableux, 120 km², bassins Amazone/Orénoque, menaces et actions du SINCHI retirés ; habitat et altitudes (290-490 m, affleurements rocheux, savane de sable blanc) resourcés sur les spécimens COAH/SINCHI (GBIF) ; guide Field Museum 1607 (2023) ; Lavaud 2023 (groupe des forêts de basse altitude) ; Lindstrom 2024 (non échantillonnée) ; notes de travail retirées. Simulation puis application (FR 16 / IT 18 remplacements), brouillon aligné, texte en ligne identique.

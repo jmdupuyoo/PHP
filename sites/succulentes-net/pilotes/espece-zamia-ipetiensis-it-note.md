@@ -29,3 +29,6 @@
 
 ## Retouche du 25/10/2026 (avant ZAM10)
 - 2 remplacements (simulation puis application) : phrase Wikipédia (« Kuna de Madugandí, deux sous-populations », information de l'UICN non vérifiable) remplacée par Vannini 2019 (relique de forêt tropicale humide de la côte caraïbe de l'est du Panama et végétation secondaire voisine, texte relu) ; ligne Wikipédia des sources retirée.
+
+## Retouche 25/10/2026 (avant ZAM11)
+- Divergence sur la tige exposée comme dans l'EN 32125 : Calonje et al. 2018 (tige non ramifiée) contre Vannini 2019 (« subterranean, branched caudex with a solitary leaf to 3'/95 cm carrying few leaflets », texte relu) : liste des caractères de 2018 et paragraphe Vannini de la Taxonomie (2 remplacements, simulation puis application ; brouillon aligné, texte en ligne identique).
