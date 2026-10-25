@@ -42,3 +42,6 @@ Fiche : `pilotes/espece-zamia-meermanii-fr.html` (blocs Gutenberg contrôlés pa
 - Pagination : WLoC « 23-29 » (en-tête de l'article) ; la liste de références de WLoC dit « 23-39 ».
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches FR publiées et vérifiées (200, sans redirection), à la première occurrence hors introduction.
+
+## Correction du 25/10/2026 (lot ZAM11, création EN 32221)
+- Intro mise à jour (trois rupicoles connus en 2009, quatre depuis *Zamia magnifica*, 2023) ; nom accepté complété (GBIF, WCVP) ; comparaison avec *magnifica* (Pérez-Farrera et al. 2023) et paragraphe Parenté (Lindstrom et al. 2024) ajoutés ; Vannini 2019 (habitat, culture) et Lavaud 2023 ajoutés ; présence en collection documentée (Montgomery BG-BASE 9 accessions, BGCI 9 jardins dont Lyon) ; notes de travail retirées. Simulation puis application (FR 12 / IT 13), brouillon aligné, texte en ligne identique.

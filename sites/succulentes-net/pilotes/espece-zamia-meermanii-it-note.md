@@ -24,3 +24,6 @@
 - Vérifié avant création : aucune page IT de l'espèce ni de ses synonymes (API REST, recherche par épithète et synonymes, enfants de 11879) ; aucune redirection visant l'URL (list_redirects).
 - Liens externes contrôlés le 11/10/2026 (200), sauf EUR-Lex (202, page de contrôle anti-robot) et, selon la fiche, Authorea (403) ou data.gouv (délai dépassé).
 - Rien commité.
+
+## Correction du 25/10/2026 (lot ZAM11, création EN 32221)
+- Intro mise à jour (trois rupicoles connus en 2009, quatre depuis *Zamia magnifica*, 2023) ; nom accepté complété (GBIF, WCVP) ; comparaison avec *magnifica* (Pérez-Farrera et al. 2023) et paragraphe Parenté (Lindstrom et al. 2024) ajoutés ; Vannini 2019 (habitat, culture) et Lavaud 2023 ajoutés ; présence en collection documentée (Montgomery BG-BASE 9 accessions, BGCI 9 jardins dont Lyon) ; notes de travail retirées. Simulation puis application (FR 12 / IT 13), brouillon aligné, texte en ligne identique.

@@ -48,3 +48,6 @@ Brouillon : `pilotes/espece-zamia-macrochiera-fr.html` (blocs Gutenberg contrôl
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26521, https://succulentes.net/cycadales/zamia/macrochiera/ (200, sans redirection ; aucune redirection ancienne trouvée). Sans translation_of (aucune traduction). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 3963 ; liens croisés posés vers les fiches Zamia FR publiées (vérifiées 200).
+
+## Correction du 25/10/2026 (lot ZAM11, création EN 32198)
+- Éléments tirés de Wikipédia retirés ou resourcés : localités (étiquettes d'herbier GBIF : type au nord de Pucaurquillo, Plowman et al. 1977, Quebrada Sucusarí 1991, récoltes colombiennes COAH 1999 et 2019), catégorie CR de 2010 (non vérifiable, retirée), auteur « D.W.Stev. & Sabato » (WCVP ajoutée) ; WCVP, GBIF et Lavaud 2023 ajoutés aux sources ; notes de travail retirées. Simulation puis application (FR 9 / IT 12), brouillon aligné, texte en ligne identique.

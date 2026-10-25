@@ -31,3 +31,6 @@
 - Redalyc en 503 au moment de la vérification (lien conservé).
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 4 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Correction du 25/10/2026 (lot ZAM11, création EN 32198)
+- Éléments tirés de Wikipédia retirés ou resourcés : localités (étiquettes d'herbier GBIF : type au nord de Pucaurquillo, Plowman et al. 1977, Quebrada Sucusarí 1991, récoltes colombiennes COAH 1999 et 2019), catégorie CR de 2010 (non vérifiable, retirée), auteur « D.W.Stev. & Sabato » (WCVP ajoutée) ; WCVP, GBIF et Lavaud 2023 ajoutés aux sources ; notes de travail retirées. Simulation puis application (FR 9 / IT 12), brouillon aligné, texte en ligne identique.

@@ -44,3 +44,6 @@ FR ancienne : non repris faute de source vérifiable (protologue MDPI inaccessib
 - Contrôles (verify.py) : URL 200, aucun commentaire de bloc visible, 103 blocs appariés, texte rendu identique au brouillon `espece-zamia-magnifica-it.html`, même séquence de liens, hreflang fr/it conservés ; ≈ 2 940 mots (1 790 avant).
 - SEO Rank Math inchangé (titre et meta toujours exacts). Index de la page genre IT 11879 : ligne conforme (NE, Oaxaca, 2023), non modifiée.
 - Points douteux : pédoncule du cône femelle et longueur des feuilles (contradictions internes de l'article, exposées) ; clade Furfuracea (hypothèse).
+
+## Correction du 25/10/2026 (lot ZAM11, création EN 32207)
+- Présence en collection corrigée : Montgomery Botanical Center (catalogue BG-BASE, 3 numéros d'accession de 2023), expédition de description financée par son Plant Exploration Fund (protologue) ; source ajoutée ; notes de travail retirées (« n'a été trouvé », « consultée(s) », « trovat* », « fonti consultate »). Simulation puis application (FR 6 / IT 8), brouillon aligné, texte en ligne identique.

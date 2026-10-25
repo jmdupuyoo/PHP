@@ -24,3 +24,6 @@
 - Vérifié avant création : aucune page IT de l'espèce ni de ses synonymes (API REST, recherche par épithète et synonymes, enfants de 11879) ; aucune redirection visant l'URL (list_redirects).
 - Liens externes contrôlés le 11/10/2026 (200), sauf EUR-Lex (202, page de contrôle anti-robot) et, selon la fiche, Authorea (403) ou data.gouv (délai dépassé).
 - Rien commité.
+
+## Correction du 25/10/2026 (lot ZAM11, création EN 32212)
+- Données tirées de Wikipédia (dimensions, altitude, milieux, confusion avec *Zamia obliqua*) resourcées sur la Flora de Colombia (Stevenson 2001, fiche 621, lue) ; protologue Regel 1876 lu (copie cycad.org) ; type : néotype (Flora, Calonje 2021) / lectotype (WLoC) exposé ; Vannini daté 2019 ; Lavaud 2023 ajouté ; Taborda-López et al. 2025 (publié) et López-Gallego 2025 ajoutés ; notes de travail retirées. Simulation puis application (FR 17 / IT 18), brouillon aligné, texte en ligne identique.

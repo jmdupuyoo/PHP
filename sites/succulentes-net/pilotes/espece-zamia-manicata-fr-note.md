@@ -48,3 +48,6 @@ Brouillon : `pilotes/espece-zamia-manicata-fr.html` (blocs Gutenberg contrôlés
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26523, https://succulentes.net/cycadales/zamia/manicata/ (200, sans redirection ; aucune redirection ancienne trouvée). Sans translation_of (aucune traduction). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 3963 ; liens croisés posés vers les fiches Zamia FR publiées (vérifiées 200).
+
+## Correction du 25/10/2026 (lot ZAM11, création EN 32212)
+- Données tirées de Wikipédia (dimensions, altitude, milieux, confusion avec *Zamia obliqua*) resourcées sur la Flora de Colombia (Stevenson 2001, fiche 621, lue) ; protologue Regel 1876 lu (copie cycad.org) ; type : néotype (Flora, Calonje 2021) / lectotype (WLoC) exposé ; Vannini daté 2019 ; Lavaud 2023 ajouté ; Taborda-López et al. 2025 (publié) et López-Gallego 2025 ajoutés ; notes de travail retirées. Simulation puis application (FR 17 / IT 18), brouillon aligné, texte en ligne identique.
