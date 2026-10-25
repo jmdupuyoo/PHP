@@ -22,3 +22,5 @@
 ## Points douteux
 - Altitude et milieu (50-1 000 m ; ~1 100 m ; 700-1 200 m) ; arbres hôtes (Jones vs Lavaud) ; seconde épiphyte d'Équateur jamais confirmée ; catégorie UICN 2010 non revérifiée ; POWO et Liste rouge non consultés.
 - FR/IT : rien à reprendre (ajouts possibles : Montgomery 2000-2005, déclarations BGCI américaines).
+- Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia dressleri* EN 31990, sur la première mention sourcée ; simulation puis application (1) ; brouillon aligné.
+- Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia elegantissima* EN 32001, sur la liste des espèces du sous-clade (Lindstrom 2024) ; simulation puis application (1) ; brouillon aligné.

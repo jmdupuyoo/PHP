@@ -21,3 +21,4 @@
 ## Points douteux
 - Écarts de mesures entre Jones, la Flora de Colombia et Dodson ; type (néotype de la Flora / holotype K de WLoC) ; Amazonie (Flora) et Panama (Species+) absents de WLoC ; phénologie (Dodson / Jones) ; Lindström 2009 non lu ; POWO et Liste rouge non consultés.
 - FR/IT : rien à reprendre (ajouts possibles : Montgomery 1994/2003, déclarations BGCI).
+- Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia dressleri* EN 31990, sur la première mention sourcée ; simulation puis application (1) ; brouillon aligné.

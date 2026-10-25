@@ -25,3 +25,4 @@
 ## FR/IT
 - Retouches du 24/10/2026 : FR « le forum italien Tropicamente ne la cite pas » retiré (1) ; IT recherche Tropicamente sans résultat retirée (« In Italia » et Fonti, 2). Aucune mention d'extrait de recherche.
 - **À reprendre (hors lot)** : FR 21680 / IT 28008 s'appuient sur Wikipédia seule pour Stevenson 2004 (tronc 2,5 m, folioles dentées de *skinneri*, bassin du Calima, ligne « Wikipédia » des sources) ; commentaire Norstog & Nicholls 1997 mal lu (la Flora parle de *wallisii*/*dressleri*).
+- Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia dressleri* EN 31990, sur la première mention sourcée ; simulation puis application (1) ; brouillon aligné.

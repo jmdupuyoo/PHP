@@ -21,3 +21,4 @@
 ## Points douteux
 - Dimensions (protologue / Flora / Segalla & Calonje) ; HT (WLoC) / LT (Flora) ; Pará (Flora) absent de WLoC ; noms de lieux d'Ule lus en OCR ; Stevenson & Sabato 1986, Caputo 1996, Ducke 1922 non consultés ; POWO et Liste rouge non consultés.
 - FR/IT à reprendre (hors lot) : FR 22288 cite dans « Sites de référence » deux recherches de forum sans résultat (Fous de palmiers, Tropicamente) et le dit dans la Rusticité (« recherche … aucun résultat ») ; l'IT 28392 fait de même pour Tropicamente → contraire à la règle 3 (ne pas citer un site où rien n'a été trouvé) ; à retirer. Ajout possible : Vannini 2019, déclarations BGCI (Selby, Hilo).
+- Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia dressleri* EN 31990, sur la première mention sourcée ; simulation puis application (1) ; brouillon aligné.

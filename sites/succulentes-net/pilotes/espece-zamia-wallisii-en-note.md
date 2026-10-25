@@ -22,3 +22,4 @@
 ## Points douteux
 - Priorité Braun / Veitch ; néotype (1986) supplanté par un lectotype (Lindström 2009 non lu) ; altitude, habitat et effectifs inconnus ; contradiction de la Flora sur la récolte Kalbreyer ; Calonje 2019, Stevenson 1993, Veitch 1875 non consultés ; POWO et Liste rouge non consultés.
 - FR/IT à reprendre (hors lot) : la FR 21734 cite dans « Sites de référence » la recherche Fous de palmiers « wallisii » (un message sans donnée de culture) et le dit dans la Rusticité (« recherche … 13 octobre 2026 ») → règle 3 et note de travail visible ; mentions « lue pour la fiche italienne » dans les Sites de référence et la Bibliographie (notes de travail visibles), à neutraliser. Même formule « lue pour la fiche italienne » dans la FR *vazquezii* 21709 (Sibilio 2019).
+- Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia dressleri* EN 31990, sur la première mention sourcée ; simulation puis application (1) ; brouillon aligné.
