@@ -22,3 +22,7 @@
 
 ## Points douteux
 - Mesures et sol uniquement d'après Wikipédia EN (Cycad Pages) ; protologue non lu ; date de récolte du type (WLoC 23/01/2000, IPNI 23/06/2000) ; critères UICN de WLoC (2010 ou 2023 ?).
+
+## Retouche 0 avant ZAM18 (25/10/2026)
+- Wikipédia n'est plus citée comme source de fait : mesures, sol sur granite et parenté avec *C. balansae* présentés comme « secondary sources, not checked against the original description » (encadré, description, confusions, habitat, FAQ) ; l'entrée Sources reformulée (« Tertiary source, not a source of verified fact »). Resourçage impossible : PDF cycad.org `Cycas-aculeata.pdf` en 404, Cycad Pages (Wayback) inaccessibles, protologue (Hill, Nguyen & Loc 2004, *Bot. Rev.*) payant. Simulation puis application (balayage EN ZAM18), brouillon aligné.
+- Même traitement le 25/10/2026 pour la FR 22084 (7) et l'IT 28445 (9) ; brouillons alignés, texte en ligne identique.

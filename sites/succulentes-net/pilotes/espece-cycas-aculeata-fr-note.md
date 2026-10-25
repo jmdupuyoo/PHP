@@ -26,3 +26,5 @@
 - Contrôles : texte en ligne identique au brouillon, 7 liens même séquence, liens internes en 200, blocs 102/102, hreflang fr/it, aucun commentaire visible ; User-Agent curl et Chrome : 200, `<title>` « Cycas aculeata : cycas à pétiole épineux du Vietnam central ».
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 2 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+- Retouche 25/10/2026 (0 avant ZAM18) : Wikipédia n'est plus présentée comme source des faits ; mesures, sol et parenté avec *C. balansae* attribués à « des sources secondaires non vérifiées sur la description originale » (7 remplacements : encadré ×2, description, confusions, habitat, FAQ, entrée Sources) ; simulation 7 puis application 7 ; brouillon aligné (texte en ligne identique).

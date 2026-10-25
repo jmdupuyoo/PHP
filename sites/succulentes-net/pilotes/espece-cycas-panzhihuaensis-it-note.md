@@ -23,3 +23,5 @@
 - Mêmes que la FR (historique UICN, Bösenberg 2022/2023, *C. immersa* chez dL&A 1998). « Coral Coast Landscape » (source des photos d'hybrides, Tropicamente 2010) non identifié.
 
 - 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.
+
+- Ritocco 25/10/2026 (0 prima di ZAM18): bozza locale verificata identica al testo online (get_content; unica differenza, il rendering dell'incorporamento YouTube); riformulazione «fonti consultate» / «non è stato trovato» applicata (5 sostituzioni, simulazione poi applicazione); bozza allineata.

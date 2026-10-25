@@ -51,3 +51,5 @@
 - Encadré : statut inchangé (EN, 2022). SEO inchangé. Index de la page genre IT 11879 : ligne conforme (non modifiée).
 - Contrôles (verify.py) : texte en ligne identique au brouillon, 13 liens identiques, liens internes IT en 200, URL 200, aucun commentaire de bloc visible, 125/125 blocs, hreflang fr/it. ≈ 3 480 mots.
 - Points douteux inchangés : aucune description chiffrée (Nicolalde-Morejón 2009 payant, protologue non lu) ; Liste rouge et POWO non consultés.
+
+- Ritocco 25/10/2026 (lotto ZAM18, creazione EN 34441): 5 note di lavoro visibili corrette (dettaglio delle minacce non letto, «nessuna fonte consultata», «che abbiamo potuto consultare», «è stato trovato», «Le misure che circolano in rete non sono quindi riprese qui»); simulazione poi applicazione; bozza allineata. Da riprendere: protologo del 1845 letto per l'EN (lettera di Warszewicz da Santo Tomás, marzo 1845, pubblicata il 9 agosto 1845).

@@ -43,3 +43,5 @@ Fichier : `pilotes/espece-zamia-urarinorum-fr.html` (blocs Gutenberg contrôlés
 - Articles de presse (earth.com, greekreporter, 2026) non utilisés (sources secondaires).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : 1re occurrence des *Zamia* ayant une fiche FR publiée (200 sans redirection), y compris les fiches de ce lot.
+
+- 25/10/2026 (lot ZAM18) : fiche EN créée (34424) et liée (hreflang fr/it/en) ; aucune note de recherche visible à corriger dans la FR.

@@ -24,3 +24,5 @@
 ## Liens de fin de lot (12/10/2026)
 - Lien sortant vers *Zamia urep* (28430) posé après sa publication (replace_in_content ciblé, brouillon aligné).
 - Liens entrants : hymenophyllidia 28016, multidentata 28107, poeppigiana 28188.
+
+- Ritocco 25/10/2026 (lotto ZAM18, creazione EN 34424): «che abbiamo potuto consultare» rimosso (1 sostituzione, simulazione poi applicazione); bozza allineata. Scheda EN collegata (hreflang fr/it/en).

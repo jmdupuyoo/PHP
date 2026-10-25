@@ -55,3 +55,5 @@
 ## Integrazioni del 21/10/2026 (ritocco 0c, segnalato durante CYC12, come l'EN 18748)
 - Aggiunte (replace_in_content mirato, simulazione 7, applicazione 7): ambienti delle etichette d'erbario pubblicate da GBIF (chiave 2683281, rilette il 21/10: Huong Son e Rao An, Ha Tinh 1998; Tuong Duong, Nghe An 2007; Phong Nha-Ke Bang, Quang Binh 2005, calcare, 225-560 m; fino a circa 1000 m) in « In natura », riquadro (Esposizione e substrato) e FAQ « Dove cresce? »; scheda del lectotipo P02088576 (« donné par M. Auguste Chevalier en 1943 ») in Tassonomia; deduzione di coltivazione presentata come tale; BGCI PlantSearch (2 orti: Fairy Lake, Shenzhen; Marimurtra, Blanes; nessun orto italiano) in « In Italia »; GBIF occorrenze e BGCI nelle Fonti.
 - Data WLoC 20/05/1841 (impossibile): già segnalata in Tassonomia (invariata).
+
+- Ritocco 25/10/2026 (0 prima di ZAM18): menzioni della scansione rimosse («trascritto qui dalla scansione della flora» → «nella descrizione originale»; bibliografia «consultato sulla scansione» → «letto»); 2 sostituzioni, simulazione poi applicazione; bozza allineata.

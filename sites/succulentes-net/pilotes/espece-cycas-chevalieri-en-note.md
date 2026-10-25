@@ -28,3 +28,8 @@
 - Critères UICN A4acd; B1ab(i-v) : WLoC les affiche avec le lien de l'évaluation 2023 mais cite celle de 2010 ; attribution non vérifiable.
 - Nom vernaculaire « Cây ngen » : lecture du scan (OCR « Cay nger »), non confirmé par une source vietnamienne récente.
 - *tanqingii* EN (18728) dit *chevalieri* « from Laos and Vietnam » (d'après Hill 2008) alors que la présence au Laos n'est pas confirmée : hors lot, signalé.
+
+## Retouche 0 avant ZAM18 (25/10/2026)
+- Mention visible du scan et de la reconnaissance automatique du texte retirée : « read on the scan of » supprimé ; nom « Cây ngen » attribué au protologue (« in the protologue ») ; Bibliographie « full text read ». Fait conservé (nom donné par Leandri 1931). Simulation puis application, brouillon aligné.
+- FR 21892 (3 : « relue sur le scan », « lu sur le scan… reconnaissance automatique », « lu sur le scan » en bibliographie ; « Les sources accessibles » → « Les données publiées ») et IT 28528 (2 : « trascritto qui dalla scansione », « consultato sulla scansione ») corrigées de même le 25/10/2026 ; brouillons alignés.
+- Reste (hors lot) : présence possible au Laos donnée « as quoted by the English-language Wikipedia (the only source read on this point) » (EN, et FR/IT) ; WLoC 86 (relue le 25/10) ne cite que le Vietnam ; à resourcer sur l'évaluation UICN 2023 quand la Liste rouge sera lisible.

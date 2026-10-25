@@ -22,3 +22,5 @@
 
 ## Liens de fin de lot (12/10/2026)
 - Liens entrants : hymenophyllidia 28016, lecointei 28117, lindosensis 28150, multidentata 28107, restrepoi 28235, urarinorum 28427.
+
+- Ritocco 25/10/2026 (lotto ZAM18, creazione EN 34430): note di lavoro visibili rimosse (3 sostituzioni: «non è stata consultata qui alcuna analisi genetica», «il dettaglio delle minacce non è stato letto», «che abbiamo potuto consultare»); simulazione poi applicazione; bozza allineata.

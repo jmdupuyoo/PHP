@@ -50,3 +50,5 @@
 - Points douteux inchangés : position dans le sous-clade III-B (figure non lue) ; « 2 dm » lu à l'image ; Liste rouge et POWO non consultés.
 
 - Retouche 24/10/2026 (0c avant ZAM05) : note de travail visible retirée du texte en ligne (renvoi à la fiche d’une autre langue ou d’une autre espèce comme origine de la consultation : « for the French page », « lors de la rédaction de la fiche italienne », « repris de la fiche … », etc.) ; replace_in_content, simulation puis application ; brouillon aligné.
+
+- Retouche 25/10/2026 (lot ZAM18, création EN 34407) : notes de recherche visibles reformulées (3 remplacements : indication « trouvée/trovata » → « publiée/pubblicata », phrase sur le détail des menaces non lu retirée, « consultée / che abbiamo potuto consultare » retiré) ; simulation puis application ; brouillon aligné. Fiche EN liée (hreflang fr/it/en).

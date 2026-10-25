@@ -44,3 +44,5 @@ Fichier : `pilotes/espece-zamia-urep-fr.html` (blocs Gutenberg contrôlés par s
 - Menaces UICN non lues (Liste rouge bloquée).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : 1re occurrence des *Zamia* ayant une fiche FR publiée (200 sans redirection), y compris les fiches de ce lot.
+
+- Retouche 25/10/2026 (lot ZAM18, création EN 34430) : notes de travail visibles retirées (3 remplacements : analyse génétique « consultée ici », détail des menaces « pas été lu », mention de « l'ancienne liste de la page du genre sur ce site ») ; simulation puis application ; brouillon aligné. Fiche EN liée (hreflang fr/it/en).
