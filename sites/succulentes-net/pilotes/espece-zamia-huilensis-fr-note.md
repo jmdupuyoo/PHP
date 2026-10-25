@@ -47,3 +47,5 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu, phrase par phrase).
 - Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).
+
+- **Retouche 25/10/2026 (ZAM08)** : notes de recherche retirées (« sources consultées », « aucune offre commerciale », forums consultés, « riscontro non trovato ») ; Repères internationaux / Riferimenti internazionali rempli : culture documentée seulement en Colombie (BGCI : Bogotá, Medellín ; Montgomery : aucune accession) ; 2 sources ajoutées. Simulation puis application ; brouillon aligné. Page EN 32077 créée et liée.

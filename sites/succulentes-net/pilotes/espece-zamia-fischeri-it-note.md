@@ -33,3 +33,5 @@
 - Contrôles : URL 200 (UA Chrome et curl), hreflang fr/it, blocs 117/117, aucun commentaire visible, liens IT en 200 ; brouillon aligné. Rien commité.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+- **Retouche 25/10/2026 (0c avant ZAM08)** : 5 remplacements — « (testo non consultato) », paragraphe « misure … non sono riprese qui », nomi huastechi « non sono stati ripresi », « (ricerca dell'11 ottobre 2026) » retirés ; fonte Fous de palmiers : ricerca → fil t=8460. Brouillon aligné.

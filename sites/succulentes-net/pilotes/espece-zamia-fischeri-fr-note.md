@@ -36,3 +36,5 @@
 
 ## Page EN
 - Aucune page EN liée à la FR 21704 : rien à relever.
+
+- **Retouche 25/10/2026 (0c avant ZAM08)** : 8 remplacements — notes de travail retirées (paragraphe « mesures … ne sont pas reprises ici / révision 2009 non consultée », « rattachement n'a pas pu être vérifié », « (texte non consulté) », noms huastèques « non repris ici », paragraphe milieu « n'a pu être lue … ne sont pas reprises ici », JZT sans observation, « Aucun retour daté de gel n'a été trouvé ») ; source Fous de palmiers : recherche → fil t=8460 (2010-2017). Brouillon aligné.

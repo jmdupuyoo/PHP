@@ -50,3 +50,5 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu, phrase par phrase).
 - Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).
+
+- **Retouche 25/10/2026 (ZAM08)** : note de recherche (nom vernaculaire « non trouvé ») reformulée ; Repères internationaux / Riferimenti internazionali : note « témoignage écarté » remplacée par Vannini 2019 (croissance, besoin de chaleur, plantes multipliées), Montgomery (5 numéros de 2004) et BGCI (San Diego, Hawaï, Sydney) ; 3 sources ajoutées. Simulation puis application ; brouillon aligné. Page EN 32060 créée et liée.

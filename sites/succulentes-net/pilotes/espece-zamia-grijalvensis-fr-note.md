@@ -37,3 +37,5 @@
 
 ## À signaler pour l'IT 28074
 - « Clado Purpurea » à retirer (non vérifié) ; Species+ a une fiche propre (taxon 65542), contrairement à ce que dit l'IT ; date de consultation des bases à mettre à jour ; ajouter la clé des Zamia du Chiapas, le groupe *Z. splendens*/*katzeriana* du protologue, la contradiction sur les jeunes feuilles, la Gaceta Unicach 2021, The Gymnosperm Database comme source de la phrase toxicité.
+
+- **Retouche 25/10/2026 (ZAM08)** : notes de travail visibles retirées (« sources consultées », phylogénie « consultée », retour « non trouvé » / « ricerche sul web ») ; Repères internationaux / Riferimenti internazionali remplis avec BGCI (Xalapa seulement) et Montgomery (aucune accession), sources ajoutées. Simulation puis application ; brouillon aligné. Page EN 32054 créée et liée.

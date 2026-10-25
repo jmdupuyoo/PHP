@@ -49,3 +49,5 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu, phrase par phrase).
 - Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).
+
+- **Retouche 25/10/2026 (ZAM08)** : notes de travail visibles retirées (révision 2009 « non consultée », critères « non vérifiés », « sources consultées », recherches de forum, « aucune offre commerciale ») ; intertitre Repères internationaux / Riferimenti internazionali rempli (Montgomery 2 numéros, BGCI, Trebrown 10a commerciale) ; ajouts Vannini 2019 (camotillo, répartition jusqu au Nicaragua, port en culture, ancienne identification comme Z. loddigesii, culture en pot) et Lindstrom 2024 (saison sèche, défeuillaison) ; sources ajoutées. Simulation puis application (12 FR / 14 IT) ; brouillon aligné. Page EN 32071 créée et liée.

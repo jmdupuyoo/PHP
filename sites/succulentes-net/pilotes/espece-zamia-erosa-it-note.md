@@ -23,3 +23,5 @@
 - Brouillon `pilotes/espece-zamia-erosa-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé, hors sommaire Easy TOC ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés ; aucun lien vers une page FR.
 - Vérifié avant création : aucune page IT ni redirection pour l'espèce.
 - Rien commité.
+
+- **Retouche 25/10/2026 (0a avant ZAM08)** : 11 remplacements (simulation puis application) — détails tirés de Wikipédia seule retirés (spécimen d'Eckenwalder « centro-sud … foglioline strette », photographies « 1899 e 1901 », étiquette « Zamia integrifolia ») et remplacés par le résumé de Calonje et al. 2010 (Crossref) et WLoC (photographie de Vega Baja, 1899) ; ligne Wikipédia retirée des sources ; notes de travail retirées (mesures « non verificate », Broome « non consultato » → « citato da The World List of Cycads », « Nessun riscontro datato di gelo ») ; Riferimenti internazionali : climat sans gel + Montgomery (23 numéros, BG-BASE, lu le 25/10) ; source Fous de palmiers : recherche → fil daté (avril 2009). Brouillon aligné (texte en ligne identique).

@@ -49,3 +49,5 @@
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu, phrase par phrase).
 - Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).
 - Liens croisés posés après publication vers les fiches du lot : gomeziana, acuminata (première occurrence hors introduction et encadré).
+
+- **Retouche 25/10/2026 (0b avant ZAM08)** : 2 remplacements — intertitre « Repères internationaux » rempli (Vannini 2019 : embruns sur Osa, plantes largement cultivées ; BGCI 25 jardins dont 13 US, NBG Wales, Sydney, Cairns, Lyon ; Montgomery 7 numéros « cf. elegantissima ») ; 3 sources ajoutées. Brouillon aligné.

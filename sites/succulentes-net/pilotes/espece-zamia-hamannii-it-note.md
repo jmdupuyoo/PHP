@@ -25,3 +25,5 @@
 - Rien commité.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+- **Retouche 25/10/2026 (ZAM08)** : note de recherche (nom vernaculaire « non trouvé ») reformulée ; Repères internationaux / Riferimenti internazionali : note « témoignage écarté » remplacée par Vannini 2019 (croissance, besoin de chaleur, plantes multipliées), Montgomery (5 numéros de 2004) et BGCI (San Diego, Hawaï, Sydney) ; 3 sources ajoutées. Simulation puis application ; brouillon aligné. Page EN 32060 créée et liée.

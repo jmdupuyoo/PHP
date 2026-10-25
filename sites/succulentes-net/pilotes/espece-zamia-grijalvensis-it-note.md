@@ -31,3 +31,5 @@
 - Lien *loddigesii* déplacé à la première occurrence (Confusioni).
 - JZT : aucune observation (ni FR, ni IT, ni zootropical.com). Tropicamente et Fous de palmiers : 0 résultat (19/10/2026). Jardins italiens : aucune présence documentée (inchangé).
 - Contrôles : URL 200 (UA Chrome et curl), `<title>` SEO inchangé, hreflang fr/it, blocs 102/102, aucun commentaire visible, liens internes IT en 200, aucun lien vers une page FR ; brouillon `espece-zamia-grijalvensis-it.html` aligné (texte rendu identique hors sommaire). SEO inchangé (toujours exact). Index 11879 conforme (CR, 2022). Rien commité.
+
+- **Retouche 25/10/2026 (ZAM08)** : notes de travail visibles retirées (« sources consultées », phylogénie « consultée », retour « non trouvé » / « ricerche sul web ») ; Repères internationaux / Riferimenti internazionali remplis avec BGCI (Xalapa seulement) et Montgomery (aucune accession), sources ajoutées. Simulation puis application ; brouillon aligné. Page EN 32054 créée et liée.
