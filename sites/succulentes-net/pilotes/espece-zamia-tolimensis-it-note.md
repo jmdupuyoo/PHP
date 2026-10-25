@@ -28,3 +28,6 @@
 - Liens croisés de fin de lot (12/10) : voir journal `restructuration-fr.md` (10 fiches IT liées vers standleyi, stenophyllidia, stricta, tolimensis ; aucune mention non liée de stevensonii trouvée).
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 3 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du 25/10/2026 (lot ZAM17, création EN 32842)
+- Simulation puis application (FR 5 / IT 7) : notes de travail retirées (« n'a été trouvé(e) / trovato / trovata », IT « forum italiani consultati », « che abbiamo potuto consultare ») ; ajouts : Lavaud 2023 (groupe des Zamia sud-américains d'écosystèmes à saison sèche, sans problème en serre hors gel dans le sud de la France, divergence avec l'habitat humide du protologue exposée), BGCI (Longwood Gardens, université d'Hawaï à Hilo ; Bogotá, Medellín) ; deux sources et une entrée bibliographique. Brouillon aligné, live = brouillon.

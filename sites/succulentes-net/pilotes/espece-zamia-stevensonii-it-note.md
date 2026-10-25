@@ -31,3 +31,6 @@
 - Liens croisés de fin de lot (12/10) : voir journal `restructuration-fr.md` (10 fiches IT liées vers standleyi, stenophyllidia, stricta, tolimensis ; aucune mention non liée de stevensonii trouvée).
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 2 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du 25/10/2026 (lot ZAM17, création EN 32822)
+- Simulation puis application (6 + 1 remplacements) : notes de travail retirées (« détail des menaces non lu », « messages trouvés », « n'a été trouvé(e) / trovata / trovato », IT « che abbiamo potuto consultare ») ; « aucune recommandation de culture publiée » (corps et encadré) remplacé par les conditions données par la fiche produit Cycadales.eu (20-32 °C, humidité 70-90 %, espèce purement tropicale) et par Lavaud 2023 (groupe « difficile », sensibilité des nouvelles feuilles aux pics de chaleur) ; deux sources et une entrée bibliographique ajoutées. Brouillon aligné, live = brouillon.

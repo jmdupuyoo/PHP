@@ -31,3 +31,6 @@
 - Liens croisés de fin de lot (12/10) : voir journal `restructuration-fr.md` (10 fiches IT liées vers standleyi, stenophyllidia, stricta, tolimensis ; aucune mention non liée de stevensonii trouvée).
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 2 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du 25/10/2026 (lot ZAM17, création EN 32800)
+- 7 remplacements (simulation puis application) : « forum italiani consultati » → « forum italiani » ; nome indigeno « non è stato ripreso » → « privo di fonte verificabile » ; « non è stato trovato alcun riscontro » → « non è documentato » ; « che abbiamo potuto consultare » retiré ; « Non è stata trovata alcuna misura di freddo » → « pubblicata » ; « te voy a dar camotillo » attribué à Rivera García 2016 ; « Non è stato trovato alcuno studio » → « pubblicato ». Brouillon aligné, live = brouillon.

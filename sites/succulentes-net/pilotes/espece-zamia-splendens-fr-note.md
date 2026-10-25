@@ -44,7 +44,7 @@
 
 ## Points à valider par le propriétaire
 - POWO (non consulté) range l'espèce sous Z. verschaffeltii selon Wikipédia : le site suit WLoC.
-- Aiguillons « 0.4mm » dans le texte OCR du protologue (Wikipédia écrit 0,4 cm) : valeur à confirmer sur le PDF original.
+- Aiguillons « 0.4mm » dans le texte OCR du protologue (Wikipédia écrit 0,4 cm) : **vérifié le 25/10/2026 (retouche 0 avant ZAM17)** sur le fac-similé du protologue (cycad.org, Zamia-splendens.pdf, p. 1 : « prickles when present to 0.4mm in length ») ; mention « d'après le texte numérisé » retirée (« jusqu'à 0,4 mm de long »).
 - Altitude : 500 m (type), « environ 1 500 m » près de Tuxtla (rapporté en 1984), 100-800 m (2023 via Wikipédia) : divergence exposée.
 - Aucune donnée de rusticité : France (toutes zones) sans résultat.
 

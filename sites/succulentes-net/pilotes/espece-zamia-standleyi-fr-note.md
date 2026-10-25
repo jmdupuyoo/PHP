@@ -46,3 +46,6 @@ Fichier : `pilotes/espece-zamia-standleyi-fr.html` (blocs Gutenberg contrôlés 
 - Mesures de sites d'amateurs (llifle) et nom indigène cité par Wikipédia non repris (non sourcés).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : 1re occurrence des *Zamia* ayant une fiche FR publiée (200 sans redirection), y compris les fiches de ce lot.
+
+## Retouche du 25/10/2026 (lot ZAM17, création EN 32800)
+- 5 remplacements (simulation puis application) : nom indigène « il n'a pas été retenu » → « n'a pas de source vérifiable » ; « aucun retour de culture… n'a été trouvé » → « n'est documenté » ; Repères internationaux : « n'a été trouvé » → « n'a été publié », + culture en plein air au Fairchild Tropical Garden dès les années 1980 (Schutzman 1989) ; « te voy a dar camotillo » attribué à Rivera García 2016 (absent du protologue, relu) ; toxicité « n'a été trouvée » → « n'a été publiée ». Brouillon aligné, live = brouillon.

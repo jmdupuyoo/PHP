@@ -43,3 +43,6 @@ Fichier : `pilotes/espece-zamia-stenophyllidia-fr.html` (blocs Gutenberg contrô
 - Fiche courte (≈ 1 950 mots avant les références) faute de sources.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : 1re occurrence des *Zamia* ayant une fiche FR publiée (200 sans redirection), y compris les fiches de ce lot.
+
+## Retouche du 25/10/2026 (lot ZAM17, création EN 32813)
+- Mentions d'extrait de recherche (corps, sources, bibliographie) remplacées par la lecture du résumé du protologue dans les métadonnées Crossref ; ajouts tirés de ce résumé : quatre espèces de la plaine côtière pacifique et clé des *Zamia* du Mexique (Taxonomie), sympatrie avec *Dioon stevensonii* (lien vers la fiche de même langue) ; tournures « n'a été trouvé(e) / è stato trovato », « forum consultati », « che abbiamo potuto consultare » reformulées ; BGCI et Montgomery (aucune entrée) ajoutés en Culture. Simulation puis application (FR 7, IT 9) ; brouillon aligné, live = brouillon.

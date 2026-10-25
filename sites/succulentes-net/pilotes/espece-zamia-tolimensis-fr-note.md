@@ -48,3 +48,6 @@ Fichier : `pilotes/espece-zamia-tolimensis-fr.html` (blocs Gutenberg contrôlés
 - Fragments : < 1 ha (protologue) / < 100 ha (plan) : les deux figurent.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : 1re occurrence des *Zamia* ayant une fiche FR publiée (200 sans redirection), y compris les fiches de ce lot.
+
+## Retouche du 25/10/2026 (lot ZAM17, création EN 32842)
+- Simulation puis application (FR 5 / IT 7) : notes de travail retirées (« n'a été trouvé(e) / trovato / trovata », IT « forum italiani consultati », « che abbiamo potuto consultare ») ; ajouts : Lavaud 2023 (groupe des Zamia sud-américains d'écosystèmes à saison sèche, sans problème en serre hors gel dans le sud de la France, divergence avec l'habitat humide du protologue exposée), BGCI (Longwood Gardens, université d'Hawaï à Hilo ; Bogotá, Medellín) ; deux sources et une entrée bibliographique. Brouillon aligné, live = brouillon.

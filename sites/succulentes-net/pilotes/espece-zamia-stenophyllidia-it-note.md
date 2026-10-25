@@ -29,3 +29,6 @@
 - Liens croisés de fin de lot (12/10) : voir journal `restructuration-fr.md` (10 fiches IT liées vers standleyi, stenophyllidia, stricta, tolimensis ; aucune mention non liée de stevensonii trouvée).
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du 25/10/2026 (lot ZAM17, création EN 32813)
+- Mentions d'extrait de recherche (corps, sources, bibliographie) remplacées par la lecture du résumé du protologue dans les métadonnées Crossref ; ajouts tirés de ce résumé : quatre espèces de la plaine côtière pacifique et clé des *Zamia* du Mexique (Taxonomie), sympatrie avec *Dioon stevensonii* (lien vers la fiche de même langue) ; tournures « n'a été trouvé(e) / è stato trovato », « forum consultati », « che abbiamo potuto consultare » reformulées ; BGCI et Montgomery (aucune entrée) ajoutés en Culture. Simulation puis application (FR 7, IT 9) ; brouillon aligné, live = brouillon.

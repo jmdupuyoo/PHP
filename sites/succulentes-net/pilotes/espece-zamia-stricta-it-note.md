@@ -52,3 +52,6 @@
 - Encadré : statut inchangé (VU, 2022). SEO inchangé (titre et meta toujours exacts). Index de la page genre IT 11879 : ligne « Cuba (Songo-La Maya) ; VU 2022 » conforme et identique à l'index FR (non modifiée).
 - Contrôles (verify.py) : texte en ligne identique au brouillon, 13 liens identiques, liens internes IT en 200, URL 200, aucun commentaire de bloc visible, 127/127 blocs, hreflang fr/it (aucune page EN/ES n'existe pour l'espèce : la mention « en, es » de la note du 12/10 était inexacte). ≈ 3 800 mots.
 - Points douteux : écart de taille protologue / flore non expliqué ; conversions pouces/lignes approximatives ; Liste rouge et POWO non consultés.
+
+## Retouche du 25/10/2026 (lot ZAM17, création EN 32833)
+- Notes de travail retirées ou reformulées (simulation puis application, FR 6 / IT 8) : conversions « faites par nous / nostra », « détail des menaces non lu », « n'a été trouvé(e) / trovata / trovato », listes « consultées », IT « che abbiamo potuto consultare » et phrase de recherche Fous de palmiers (Agave/Cordyline stricta). Brouillon aligné, live = brouillon.

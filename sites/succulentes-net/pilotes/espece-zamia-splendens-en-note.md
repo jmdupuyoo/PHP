@@ -18,3 +18,5 @@
 - Aiguillons « 0.4 mm » selon l'OCR du protologue : valeur à confirmer sur le PDF original (signalé dans la note FR).
 - Récolte « vers 1 500 m » près de Tuxtla Gutiérrez, rapportée en 1984 : citée comme telle.
 - Divergence WCVP (*Z. verschaffeltii*) / Montgomery et CITES (*Z. katzeriana*) / WLoC (accepté) : exposée, WLoC suivie.
+
+- **Retouche 0 avant ZAM17 (25/10/2026)** : aiguillons « 0.4 mm » vérifiés sur le fac-similé du protologue (cycad.org, Zamia-splendens.pdf, p. 1 : « prickles when present to 0.4mm in length ») ; « according to the digitised text » retiré (« up to 0.4 mm long »).

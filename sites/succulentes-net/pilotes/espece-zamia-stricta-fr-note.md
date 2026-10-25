@@ -17,3 +17,6 @@
 - Points douteux : écart de taille entre protologue et flore de Cuba non expliqué ; conversions pouces/lignes approximatives ; Liste rouge et POWO non consultés (Cloudflare).
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 12 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du 25/10/2026 (lot ZAM17, création EN 32833)
+- Notes de travail retirées ou reformulées (simulation puis application, FR 6 / IT 8) : conversions « faites par nous / nostra », « détail des menaces non lu », « n'a été trouvé(e) / trovata / trovato », listes « consultées », IT « che abbiamo potuto consultare » et phrase de recherche Fous de palmiers (Agave/Cordyline stricta). Brouillon aligné, live = brouillon.
