@@ -38,3 +38,9 @@
 - Encadré : statut en vigueur inchangé (EN, 2022) ; mention du CR de 2003 ajoutée. SEO inchangé (titre et meta toujours exacts). Index de la page genre IT 11879 : ligne conforme (non modifiée).
 - Contrôles (verify.py) : texte en ligne identique au brouillon, 10 liens identiques, liens internes IT en 200, URL 200, aucun commentaire de bloc visible, 118/118 blocs, hreflang fr/it. ≈ 3 880 mots.
 - Points douteux : aucune description moderne chiffrée (flore d'Acevedo-Rodríguez & Strong 2005 non consultée) ; Franz & Skelley 2008 non lu ; Liste rouge et POWO non consultés.
+
+## Retouche du 25/10/2026 (avant ZAM14)
+- Titre de Lavaud 2023 corrigé en bibliographie : « Comment cultiver les *Zamia* en climat tempéré. Cycadales.eu. » (1 remplacement).
+
+## Retouche du 25/10/2026 (lot ZAM14)
+- 7 remplacements (simulation puis application) : notes de travail retirées (« seule description chiffrée consultée », « sources consultées », « non consulté ici », « présence actuelle non vérifiée », « n'a été trouvée / non è stato trovato ») ; Index Seminum de Naples : n° 1495 confirmé (2012-13), absence dans les éditions 2014-15 à 2022-23 ajoutée ; collections ajoutées (BGCI 21 jardins, Montgomery 5 numéros + 12 aff., Jungle Music, Trebrown 9b commercial) avec leurs sources. Brouillon aligné, texte en ligne identique. Page EN créée : 32386.

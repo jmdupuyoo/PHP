@@ -47,3 +47,6 @@ Fiche : `pilotes/espece-zamia-paucijuga-fr.html` (blocs Gutenberg contrôlés pa
 - Aucun nom commun trouvé.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches FR publiées et vérifiées (200, sans redirection), à la première occurrence hors introduction.
+
+## Retouche du 25/10/2026 (lot ZAM14)
+- 19 remplacements (simulation puis application) : notes de travail retirées (« sources consultées » ×3, « n'a pu être consultée », « n'a pas pu être vérifié », « aucun retour… trouvé », « n'a été trouvé… ni sur les forums ni dans les jardins », « n'a été trouvée ») ; ajouts sourcés : protologue (Wieland 1916, copie cycad.org), WCVP, Lindstrom 2024, altitude (Nicolalde-Morejón 2014 ; Martínez-Domínguez 2026), NOM-059 « Pr » (2014), Jungle Music, Lavaud 2023, BGCI (14 jardins), Montgomery (10 numéros 1993-2004), Bonta 2019 (usages « peyote », noms), Napolitano 2006 ; « jeune plante » type corrigé (WLoC : « apparently »). Brouillon aligné.

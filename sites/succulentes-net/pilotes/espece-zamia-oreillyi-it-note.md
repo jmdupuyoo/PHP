@@ -29,3 +29,6 @@
 
 ## Retouche du 25/10/2026 (lot ZAM13)
 - 13 remplacements (replace_in_content, simulation puis application) : notes de travail retirées (« sources consultées », « n'est pas connu ici », « che abbiamo potuto consultare », « consultati ») ; culture hors du Honduras corrigée (Montgomery 4 accessions 2018-2024 ; BGCI : Montgomery, UH Hilo, Amsterdam, Lyon) ; Vannini 2019 (distinction d'avec *standleyi*, 1-3 feuilles, culture en pot) ; version cycad.org du protologue (« Ceiba, 2006, 46(1) : 41-44 ») ; titre de Lavaud 2023 corrigé ; sources et références ajoutées ; brouillon identique au contenu en ligne.
+
+## Ajout du 25/10/2026 (avant ZAM14)
+- Citation WCVP « Ceiba 46: 56 (2005 publ. 2007) » (via GBIF 207874604) et évaluation UICN antérieure de Nelson (2010, e.T178884A7634732, Crossref) reprises de l’EN 32327, avec ligne de source et entrée bibliographique (4 remplacements).

@@ -40,3 +40,6 @@
 - Points douteux : Liste rouge UICN et POWO toujours non consultés (Cloudflare) ; protologue latin et espagnol divergents (exposé).
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du 25/10/2026 (avant ZAM14)
+- Titre de Lavaud 2023 corrigé en bibliographie : « Comment cultiver les *Zamia* en climat tempéré. Cycadales.eu. » (1 remplacement).

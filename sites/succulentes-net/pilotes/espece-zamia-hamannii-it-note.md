@@ -30,3 +30,6 @@
 
 ## Retouche du 25/10/2026 (avant ZAM09)
 - Distribuzione secondo Vannini 2019 (penisola di Valiente e isolotti vicini) accanto a MiAmbiente (isola Escudo de Veraguas), divergenza esposta : introduzione, riquadro, In natura, Possibili confusioni, Coltivazione, Rusticità, FAQ (3), fonte Vannini. 10 sostituzioni (simulazione poi applicazione). SEO : « Zamia hamannii: cicadea costiera di Bocas del Toro (Panama) » (59) ; meta 141.
+
+## Retouche du 25/10/2026 (avant ZAM14)
+- Plantation en pleine terre sur la Côte Bleue ajoutée (encadré, culture, rusticité, FAQ, sources) : le cultivateur liste ses quatre espèces le 3 mars 2013 (*hamannii*, *nesophila*, *lindenii*, *encephalartoides* ; fil t=14274, p. 75), les plante en terre à l'été 2014, à l'ombre sauf *encephalartoides* (24 janvier 2015, #p355516), hiver 2014-2015 « sans encombre » (28 septembre 2015, t=19109, #p383064). Marignane −3,0 °C le 10/02/2015 (station non côtière ; valeur subie inconnue). Aucun message ultérieur sur leur devenir. Témoignage indirect de Grèce (10 février 2015, t=19109 p. 15) : *nesophila* et *hamannii* en terre, minimales −2 à −2,5 °C, défoliées l'hiver, repousse au printemps sous canopée. Pages lues en cache local (Fous de palmiers en 503 le 25/10). Messages du compte JMDUPUYOO : aucun.

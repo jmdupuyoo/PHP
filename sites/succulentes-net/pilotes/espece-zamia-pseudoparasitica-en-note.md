@@ -24,3 +24,6 @@
 - FR/IT : rien à reprendre (ajouts possibles : Montgomery 2000-2005, déclarations BGCI américaines).
 - Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia dressleri* EN 31990, sur la première mention sourcée ; simulation puis application (1) ; brouillon aligné.
 - Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia elegantissima* EN 32001, sur la liste des espèces du sous-clade (Lindstrom 2024) ; simulation puis application (1) ; brouillon aligné.
+
+## Retouche du 25/10/2026 (avant ZAM14)
+- Dix tournures « in the sources consulted » / « source consulted » (note de travail) reformulées ou supprimées (encadré, Hybrids, Etymology, Common names, In the wild ×2, pollinisateurs, Traditional uses, FAQ ×2) ; 10 remplacements, brouillon aligné.

@@ -26,3 +26,9 @@
 - Vérifié avant création : aucune page IT de l'espèce (enfants de 11879), aucune redirection visant l'URL (list_redirects).
 - Sources sous Cloudflare (POWO, UICN, BHL, PalmTalk) non contournées.
 - Rien commité.
+
+## Retouche du 25/10/2026 (avant ZAM14)
+- Titre de Lavaud 2023 corrigé en bibliographie : « Comment cultiver les *Zamia* en climat tempéré. Cycadales.eu. » (1 remplacement).
+
+## Retouche del 25/10/2026 (lot ZAM14)
+- 18 remplacements (simulation puis application) : « fonti consultate » ×3, « non è stato possibile consultare », « non ha potuto essere verificato » (NOM-059), « consultate » ×2, « non è stata trovata / non è stato trovato » reformulés ; ajouts : protologue (copie cycad.org), WCVP, Lindstrom 2024, altitudine (2014, 2026), NOM-059 « Pr », Jungle Music, BGCI, Montgomery ; « pianta giovane » corrigé. Brouillon aligné.

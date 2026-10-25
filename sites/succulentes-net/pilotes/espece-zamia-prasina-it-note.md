@@ -38,3 +38,9 @@
 - Contrôles : texte en ligne identique au brouillon et liens identiques (verify2.py), URL 200, aucun commentaire de bloc visible, 135/135 blocs appariés, hreflang fr/it (fetch_site_url). ≈ 4 600 mots.
 - Points douteux : identité des plantes du forum Fous de palmiers ; « rara » (Fedick) vs « la più comune del Belize » (Calonje & Meerman) ; habitat « subdeciduo » (2024, attribué à Calonje & Meerman) vs « savane e foreste sempreverdi stagionali » (Calonje & Meerman 2009) ; Limón et al. 2016 non lu ; Liste rouge et POWO non consultés (Cloudflare) ; présence actuelle à Naples non vérifiée.
 - Rien commité.
+
+## Retouche du 25/10/2026 (avant ZAM14)
+- Titre de Lavaud 2023 corrigé en bibliographie : « Comment cultiver les *Zamia* en climat tempéré. Cycadales.eu. » (1 remplacement).
+
+## Retouche du 25/10/2026 (lot ZAM14)
+- Remplacements simulés puis appliqués (FR 7, IT 9) : notes de travail retirées (« non consultée », « sources consultées », « n'a été trouvée », « lu lors de la fiche de cette espèce », IT « presenza attuale non verificata », « liste consultate ») ; source forum « recherche » remplacée par les fils t=5743 (10/09/2009) et t=9702 (11/07/2011) ; collections ajoutées (BGCI 21 jardins dont 8 sous *Z. polymorpha*, Montgomery 13 numéros 1993-2009, Trebrown 9b commercial) avec leurs sources ; IT : absence dans 10 éditions de l'Index Seminum de Naples (2007-2023). Brouillon aligné, texte en ligne identique. Page EN créée : 32396.

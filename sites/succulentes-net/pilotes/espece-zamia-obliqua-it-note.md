@@ -35,3 +35,6 @@
 
 ## Pulizia del 25/10/2026 (lotto ZAM13, simulazione poi applicazione, 11 sostituzioni)
 - Note di lavoro tolte (« fonti consultate », « riletto per questa scheda », frase JZT senza osservazione, « non è stato trovato » → « pubblicato »); annotazione Gymnosperm Database corretta. Bozza allineata.
+
+## Ajout du 25/10/2026 (avant ZAM14)
+- Paragraphe Tang et al. 2024 (*Insecta Mundi* 1043 ; *Pharaxonotha panamensis* partagé avec *dressleri*, *elegantissima*, *nana*, *stevensonii* ; *Notorhopalotria panamensis* ; *Pharaxonotha* distinct au Chocó ; expériences de choix de cônes, Terry et al. 2012) repris de l’EN 32301, avec ligne de source et entrée bibliographique (3 remplacements).

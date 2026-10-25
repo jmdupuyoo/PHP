@@ -42,3 +42,6 @@
 
 ## Nettoyage du 25/10/2026 (lot ZAM13, simulation puis application, 11 remplacements)
 - Notes de travail retirées : « sources consultées » (hybrides, différence avec 2001, introduction, usages, épiphytisme), « relu pour cette fiche », « signalée sans pouvoir être expliquée », phrase JZT sans observation, « n'a été trouvé(e) » (froid, toxicité) → « publié(e) » ; annotation Gymnosperm Database corrigée (glycosides toxiques dont dérive le méthylazoxyméthanol). Brouillon aligné. Fiche EN : voir espece-zamia-obliqua-en-note.md.
+
+## Ajout du 25/10/2026 (avant ZAM14)
+- Paragraphe Tang et al. 2024 (*Insecta Mundi* 1043 ; *Pharaxonotha panamensis* partagé avec *dressleri*, *elegantissima*, *nana*, *stevensonii* ; *Notorhopalotria panamensis* ; *Pharaxonotha* distinct au Chocó ; expériences de choix de cônes, Terry et al. 2012) repris de l’EN 32301, avec ligne de source et entrée bibliographique (3 remplacements).

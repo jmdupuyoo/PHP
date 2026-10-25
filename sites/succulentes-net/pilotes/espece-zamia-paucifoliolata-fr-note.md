@@ -43,3 +43,6 @@ Fiche : `pilotes/espece-zamia-paucifoliolata-fr.html` (blocs Gutenberg contrôl�
 - Species+ ne nomme pas l'espèce (couverte par l'inscription du genre).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches FR publiées et vérifiées (200, sans redirection), à la première occurrence hors introduction.
+
+## Retouche du 25/10/2026 (lot ZAM14)
+- 6 remplacements (simulation puis application) : notes de travail retirées (« n'a été trouvé… ni sur les forums ni dans les jardins botaniques », « n'a été trouvée ») ; BGCI et Montgomery (aucune plante, 25/10) ; paragraphe WCVP (« Phytotaxa 385: 88 (2018) ») et Lindstrom 2024 (clade VI, sous-groupe Cunaria) ; paragraphe Lavaud 2023 (groupe 4) ; lignes WCVP, PMC et Cycadales.eu aux sources, Lindstrom 2024 et Lavaud 2023 en bibliographie. Brouillon aligné.

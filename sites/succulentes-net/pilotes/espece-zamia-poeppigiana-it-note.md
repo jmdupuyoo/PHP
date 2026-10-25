@@ -38,3 +38,6 @@
 - Encadré : statut inchangé (LC, 2022). SEO inchangé (titre et meta toujours exacts). Index de la page genre IT 11879 : ligne conforme (non modifiée).
 - Contrôles (verify.py) : seule différence texte en ligne / brouillon = apostrophe de 4° 54' rendue en prime typographique par WordPress (contenu brut identique) ; 16 liens identiques, liens internes IT en 200, URL 200, aucun commentaire de bloc visible, 127/127 blocs, hreflang fr/it. ≈ 4 000 mots.
 - Points douteux : pétiole inerme du protologue ; présence en Équateur (WLoC) non documentée par 2011 ; identité de la plante d'Aarhus ; Liste rouge et POWO non consultés.
+
+## Retouche del 25/10/2026 (lot ZAM14)
+- 13 remplacements (simulation puis application) : « consultati » (encadré), « conversione approssimativa nostra », « nessuna fonte consultata » ×3, « le fonti consultate » ×2, « minacce… non sono note », « che abbiamo potuto consultare », « ricerche dell'11 e del 17 ottobre », « non è stata trovata / non è stato trovato » reformulés ; source FdP sostituita dal filo t=12464 ; BGCI, Montgomery, Trebrown aggiunti. Brouillon aligné.
