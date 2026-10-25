@@ -34,3 +34,6 @@
 ## Nettoyage du 25/10/2026 (lot ZAM12, simulation puis application, 11 remplacements)
 - Notes de travail retirées : « dans les sources consultées » ×2, « aucune étude consultée », « aucune source consultée », « n'a été trouvé(e) » ×3, hypothèse non sourcée (« il tient peut-être à des échantillons différents »), mention du Jardin zoologique tropical sans observation. Position phylogénétique : Lindstrom et al. 2024 (échantillon de Coclé cultivé à Nong Nooch, position non commentée) ajouté, avec l'entrée bibliographique. Annotation Gymnosperm Database reformulée (« glycosides toxiques (cycasine, macrozamine), dont dérive le méthylazoxyméthanol »). Brouillon aligné. Fiche EN : 32271.
 - Non repris en FR (facultatif) : homonyme invalide *Zamia nana* hort. ex Miq. (1844, IPNI, nom. inval.), donné en EN.
+
+## Retouche 0 avant ZAM13 (25/10/2026, simulation puis application, 4 remplacements)
+- Homonyme invalide *Zamia nana* hort. ex Miq. (1844 ; IPNI, nom. inval. art. 36.1(c) ; WCVP sous *Encephalartos horridus*) ; citation de Calonje (Bramblett 2013) ; lignes IPNI et Bramblett 2013 ajoutées. Repris de l'EN 32271. Brouillon aligné.

@@ -43,7 +43,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - ZAM10 : lacandona C/FR22356 fait (25/10/2026, 32143), lawsoniana C/FR26501 fait (25/10/2026, 32150), lecointei C/FR26505 fait (25/10/2026, 32157), lindenii C/FR26510 fait (25/10/2026, 32164), lindleyi C/FR26517 fait (25/10/2026, 32174) — lot ZAM10 terminé le 25/10/2026
 - ZAM11 : lindosensis C/FR26519 fait (25/10/2026, 32192), macrochiera C/FR26521 fait (25/10/2026, 32198), magnifica C/FR22363 fait (25/10/2026, 32207), manicata C/FR26523 fait (25/10/2026, 32212), meermanii C/FR26542 fait (25/10/2026, 32221) — lot ZAM11 terminé le 25/10/2026
 - ZAM12 : melanorrhachis C/FR26556 fait (25/10/2026, 32233), monticola C/FR22382 fait (25/10/2026, 32244), multidentata C/FR26550 fait (25/10/2026, 32251), muricata C/FR26548 fait (25/10/2026, 32258), nana C/FR29452 fait (25/10/2026, 32271) — lot ZAM12 terminé le 25/10/2026
-- ZAM13 : nesophila C/FR26544, obliqua C/FR29441, onan-reyesii C/FR26558, oreillyi C/FR26562, orinoquiensis C/FR26546
+- ZAM13 : nesophila C/FR26544 fait (25/10/2026, 32291), obliqua C/FR29441 fait (25/10/2026, 32301), onan-reyesii C/FR26558 fait (25/10/2026, 32318), oreillyi C/FR26562 fait (25/10/2026, 32327), orinoquiensis C/FR26546 fait (25/10/2026, 32333) — lot ZAM13 terminé le 25/10/2026
 - ZAM14 : paucifoliolata C/FR26552, paucijuga C/FR26566, poeppigiana C/FR18304, portoricensis C/FR21767, prasina C/FR22369
 - ZAM15 : pseudomonticola C/FR29463, purpurea C/FR22349, pygmaea C/FR21780, pyrophylla C/FR26554, restrepoi C/FR26560
 - ZAM16 : sandovalii C/FR26603, sinuensis C/FR26564, soconuscensis C/FR22308, spartea C/FR26596, splendens C/FR22343

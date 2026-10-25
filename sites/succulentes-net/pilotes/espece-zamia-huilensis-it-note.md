@@ -27,3 +27,6 @@
 
 ## Retouche del 25/10/2026 (prima di ZAM09)
 - Lavaud 2023 (gruppo delle Zamia sudamericane a stagione secca, difficoltà media, serra senza gelo nel sud della Francia, asciutto d'inverno) aggiunto : Coltivazione, Malattie e parassiti, Rusticità (sud-est della Francia, al posto di « Non esiste nemmeno un riscontro »), FAQ, Fonti. 5 sostituzioni.
+
+## Ritocco 0 prima di ZAM13 (25/10/2026, simulazione poi applicazione, 3 sostituzioni)
+- « delle pianure orientali della Colombia (popolazioni attribuite dal 2022 a *orinoquiensis*) » sostituito dalla formulazione del protologo (Venezuela e Colombia nord-orientale, peduncoli 16-28 cm), circoscrizione di Stevenson (2001, 2004), separazione di *orinoquiensis* nel 2022 (link IT conservato) e areale attuale (WLoC); « due specie colombiane » → « due specie »; Calonje et al. 2022 in bibliografia. Bozza allineata.

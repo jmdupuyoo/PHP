@@ -26,3 +26,6 @@
 - Vérifié avant création : aucune page IT de l'espèce (enfants de 11879), aucune redirection visant l'URL (list_redirects).
 - Sources sous Cloudflare (POWO, UICN, BHL, PalmTalk) non contournées.
 - Rien commité.
+
+## Retouche du 25/10/2026 (lot ZAM13)
+- 13 remplacements (replace_in_content, simulation puis application) : notes de travail retirées (« sources consultées », « n'est pas connu ici », « che abbiamo potuto consultare », « consultati ») ; culture hors du Honduras corrigée (Montgomery 4 accessions 2018-2024 ; BGCI : Montgomery, UH Hilo, Amsterdam, Lyon) ; Vannini 2019 (distinction d'avec *standleyi*, 1-3 feuilles, culture en pot) ; version cycad.org du protologue (« Ceiba, 2006, 46(1) : 41-44 ») ; titre de Lavaud 2023 corrigé ; sources et références ajoutées ; brouillon identique au contenu en ligne.

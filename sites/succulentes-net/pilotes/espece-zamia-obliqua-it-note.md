@@ -32,3 +32,6 @@
 - Dans pseudoparasitica 14493, comme dans la FR 14482 corrigée le 18/10 : auteur d'obliqua « A.Dietr. » → « A.Braun », statut du tableau « VU (Vulnerabile) » → « LC (Minor preoccupazione, 2022) ». La fiche IT 14493 reste une ancienne fiche peu sourcée (tableau de comparaison, culture), à reprendre comme la FR.
 
 - 18/10/2026 (fiche 3 du lot) : lien vers *Zamia elegantissima* IT 29497 posé dans la liste « Possibili confusioni » (replace_in_content 1/1) ; brouillon aligné, verify.py OK (19 liens).
+
+## Pulizia del 25/10/2026 (lotto ZAM13, simulazione poi applicazione, 11 sostituzioni)
+- Note di lavoro tolte (« fonti consultate », « riletto per questa scheda », frase JZT senza osservazione, « non è stato trovato » → « pubblicato »); annotazione Gymnosperm Database corretta. Bozza allineata.

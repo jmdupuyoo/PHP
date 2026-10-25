@@ -42,3 +42,6 @@ Fiche : `pilotes/espece-zamia-orinoquiensis-fr.html` (blocs Gutenberg contrôlé
 - Species+ ne nomme pas l'espèce (couverte par l'inscription du genre).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches FR publiées et vérifiées (200, sans redirection), à la première occurrence hors introduction.
+
+## Retouche du 25/10/2026 (lot ZAM13)
+- 5 remplacements (replace_in_content, simulation puis application) : phrase « aucun relevé… trouvé » remplacée (rien de publié hors de Colombie ; BGCI et Montgomery : aucune plante, interrogations du 25/10) ; toxicité « trouvée » → « publiée » ; paragraphe Lindstrom 2024 (sœur de *muricata* + *lecointei*) ; sources PMC, Montgomery, BGCI et référence Lindstrom ajoutées ; brouillon identique au contenu en ligne.

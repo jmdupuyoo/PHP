@@ -39,3 +39,6 @@
 
 - 18/10/2026 (fiche 3 du lot) : lien vers *Zamia elegantissima* 29456 posé dans la liste « Confusions possibles » (replace_in_content 1/1) ; brouillon aligné, verify.py OK (18 liens internes).
 - 18/10/2026 (pendant la fiche 4 du lot) : complément d'après Acuña-Castillo 2010 (mémoire UCR, copie locale `scratchpad/zsp/acuna2010.txt`, relu) — holotype de Braun (B) perdu pendant la Seconde Guerre mondiale (d'où le néotype) ; récolte costaricienne Aguilar et al. 2970 (bahía Chal, Mogos de Osa) **retenue** comme *Z. obliqua* par Acuña-Castillo, à l'inverse de Lindström et al. 2013 ; populations de la comarque Ngäbe-Buglé. replace_in_content (simulation 6/6, application 6/6) ; référence ajoutée aux Sites de référence et à la Bibliographie ; brouillon aligné ; verify.py OK.
+
+## Nettoyage du 25/10/2026 (lot ZAM13, simulation puis application, 11 remplacements)
+- Notes de travail retirées : « sources consultées » (hybrides, différence avec 2001, introduction, usages, épiphytisme), « relu pour cette fiche », « signalée sans pouvoir être expliquée », phrase JZT sans observation, « n'a été trouvé(e) » (froid, toxicité) → « publié(e) » ; annotation Gymnosperm Database corrigée (glycosides toxiques dont dérive le méthylazoxyméthanol). Brouillon aligné. Fiche EN : voir espece-zamia-obliqua-en-note.md.

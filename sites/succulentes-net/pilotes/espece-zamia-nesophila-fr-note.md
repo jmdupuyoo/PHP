@@ -57,3 +57,6 @@ Fiche : `pilotes/espece-zamia-nesophila-fr.html` (blocs Gutenberg contrôlés pa
 - Lien vers Z. skinneri déplacé à sa nouvelle première occurrence (Comment reconnaître) ; italiques de la FAQ corrigés.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches FR publiées et vérifiées (200, sans redirection), à la première occurrence hors introduction.
+
+## Nettoyage du 25/10/2026 (lot ZAM13, simulation puis application, 5 remplacements)
+- Pollinisateur : phrase « d'après Wikipédia » (mutualisme obligatoire, Tang et al. 2024) remplacée par les sources primaires lues (Tang et al. 2024, *Insecta Mundi* 1043 : *Pharaxonotha clarkorum* dans des cônes mâles de *Z. nesophila*, octobre 2012, seul pollinisateur connu, comme pour *neurophyllidia* et *hamannii* ; Skelley et al. 2026, *Insecta Mundi* 1184) ; « mutualisme obligatoire » absent des deux articles, retiré ; ligne Wikipédia remplacée par Insecta Mundi ; « n'a été trouvé(e) » (froid, toxicité) → « publié(e) » ; deux références ajoutées. Brouillon aligné. Fiche EN : voir espece-zamia-nesophila-en-note.md.

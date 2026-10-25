@@ -26,3 +26,8 @@
 - Vérifié avant création : aucune page IT de l'espèce (enfants de 11879), aucune redirection visant l'URL (list_redirects).
 - Sources sous Cloudflare (POWO, UICN, BHL, PalmTalk) non contournées.
 - Rien commité.
+
+## Pulizia e correzione del 25/10/2026 (lotto ZAM13, simulazione poi applicazione, 6 sostituzioni)
+- *Pharaxonotha thomasi* (Skelley e Tang 2020; Skelley et al. 2026) al posto di « fonti consultate »; collezioni fuori dall'Honduras (Montgomery 2003 e 2019; BGCI 7 giardini, tra cui Lione) e Vannini 2019 al posto di « non è stato trovato »; tossicità « pubblicato »; « forum italiani consultati » → « forum italiani »; 3 fonti e 3 riferimenti aggiunti. Bozza allineata.
+
+- 25/10/2026 (ZAM13) : titre de Lavaud 2023 corrigé en bibliographie (« Comment cultiver les Zamia en climat tempéré », et non « Notes sur la culture… ») ; 1 remplacement, brouillon aligné.

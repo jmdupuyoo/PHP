@@ -53,3 +53,6 @@ Fiche : `pilotes/espece-zamia-muricata-fr.html` (blocs Gutenberg contrôlés par
 
 ## Nettoyage du 25/10/2026 (lot ZAM12, simulation puis application, 4 remplacements)
 - Phrase « article de 2006… n'a pas pu être consulté, son contenu n'est pas connu ici. Aucun autre relevé… n'a été trouvé » remplacée par le retour de Jungle Music (environ 0 °C, peut-être un peu moins, lumière filtrée, touffes ; expérience d'un seul cultivateur) et ligne de source Jungle Music ajoutée ; « n'a été trouvée » (toxicité) → « publiée » ; annotation Willdenow « BHL inaccessible » → « cité d'après WLoC et Calonje et al. 2022 ». Brouillon aligné. Fiche EN : 32258.
+
+## Retouche 0 avant ZAM13 (25/10/2026, simulation puis application, 4 remplacements)
+- Évaluation NT de 2010 attribuée à Stevenson (Crossref) ; paragraphe Lindstrom 2024 (paire avec *lecointei*, sœur d'*orinoquiensis*) ; collections BGCI (27 jardins, dont Kew, Cairns, 11 aux États-Unis, Lyon) et Montgomery (1999) ; Stevenson 2010 et Lindstrom 2024 en bibliographie. Repris de l'EN 32258. Brouillon aligné.

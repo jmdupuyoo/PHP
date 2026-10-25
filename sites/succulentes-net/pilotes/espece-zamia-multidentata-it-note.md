@@ -27,3 +27,6 @@
 
 ## Correzione del 25/10/2026 (lotto ZAM12, simulazione poi applicazione, 9 sostituzioni)
 - Come in FR : Perù (Loreto, Calonje et al. 2026, due raccolte 2011 e 2014 ; Huánuco e San Martín senza dati pubblicati), divergenza di habitat (terraferma), note di lavoro tolte (« fonti consultate », « non è stato trovato » ×2, « che abbiamo potuto consultare », « forum italiani consultati ») ; bozza allineata. Scheda EN : 32251.
+
+## Ritocco 0 prima di ZAM13 (25/10/2026, simulazione poi applicazione, 4 sostituzioni)
+- Etimologia attribuita al protologo (Segalla et al. 2023); voce Haynes 2022 tolta dalla bibliografia (anteriore alla descrizione del 2023); annotazione del protologo completata; peduncolo femminile 12-17,5 cm (Calonje et al. 2026) accanto a 15-19 cm. Bozza allineata.

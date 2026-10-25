@@ -24,3 +24,6 @@
 - Vérifié avant création : aucune page IT de l'espèce ni de ses synonymes (API REST, recherche par épithète et synonymes, enfants de 11879) ; aucune redirection visant l'URL (list_redirects).
 - Liens externes contrôlés le 11/10/2026 (200), sauf EUR-Lex (202, page de contrôle anti-robot) et, selon la fiche, Authorea (403) ou data.gouv (délai dépassé).
 - Rien commité.
+
+## Pulizia del 25/10/2026 (lotto ZAM13, simulazione poi applicazione, 6 sostituzioni)
+- Impollinatore: frase « secondo Wikipedia » sostituita dalle fonti primarie lette (Tang et al. 2024; Skelley et al. 2026); « mutualismo obbligato » tolto; riga Wikipedia sostituita da Insecta Mundi; « non è stato trovato » → « pubblicato » (freddo, tossicità); « forum italiani consultati » → « forum italiani »; due riferimenti aggiunti. Bozza allineata.

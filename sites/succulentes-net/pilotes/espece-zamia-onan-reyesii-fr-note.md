@@ -51,3 +51,6 @@ Fiche : `pilotes/espece-zamia-onan-reyesii-fr.html` (blocs Gutenberg contrôlés
 - Le pédoncule du cône femelle est donné « 4,5 cm × 20,6 cm de diamètre » dans le protologue (coquille probable) : non repris.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches FR publiées et vérifiées (200, sans redirection), à la première occurrence hors introduction.
+
+## Nettoyage et correction du 25/10/2026 (lot ZAM13, simulation puis application, 6 remplacements)
+- « non documentés dans les sources consultées » remplacé par *Pharaxonotha thomasi* (Skelley & Tang 2020, cités par Skelley et al. 2026, *Insecta Mundi* 1184, lu) ; « Aucune plante cultivée en France » corrigé (Lyon déclare l'espèce à BGCI) ; « Aucun retour… trouvé hors du Honduras » remplacé par les collections (Montgomery 2003 et 2019 ; BGCI, 7 jardins) et l'avis de Vannini 2019 (cultivée en Californie, « very rewarding ») ; toxicité « trouvée » → « publiée » ; 3 sources et 3 références ajoutées. Brouillon aligné. Fiche EN : voir espece-zamia-onan-reyesii-en-note.md.

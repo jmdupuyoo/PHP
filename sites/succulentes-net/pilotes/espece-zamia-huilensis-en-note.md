@@ -18,3 +18,6 @@
 - FR 26503 (4) : intertitre vide « Repères internationaux » rempli ; « dans les sources consultées, et aucune offre commerciale n'a été trouvée » remplacé par BGCI (Bogotá, Medellín) et Montgomery (aucune accession) ; FAQ ajustée ; 2 sources.
 - IT 28013 (5) : « né sui forum italiani consultati », « Nessuna fonte consultata… non è stata trovata alcuna offerta… che abbiamo potuto consultare… forum Tropicamente », « Non è stato trovato alcun riscontro » retirés ; mêmes ajouts.
 - À compléter (facultatif) : groupe de culture de Lavaud 2023 (absent des FR/IT, qui renvoient à la page du genre).
+
+## Retouche 0 avant ZAM13 (25/10/2026, simulation puis application, 3 remplacements)
+- Confusions : « *Zamia muricata*, of the eastern plains of Colombia » (circonscription d'avant 2022, formulation absente du protologue) remplacé par la formulation du protologue (Calonje et al. 2012, relu : « native to Venezuela and northeastern Colombia », pédoncules 16-28 cm), avec rappel de la circonscription large de Stevenson (2001, 2004), de la séparation d'*orinoquiensis* (Calonje et al. 2022, relu) et de l'aire actuelle (WLoC) ; « two Colombian species » → « two species » ; Calonje et al. 2022 ajouté à la bibliographie. Lien vers *orinoquiensis* EN posé à sa création (ZAM13). FR 26503 et IT 28013 corrigées de même (3 chacune).

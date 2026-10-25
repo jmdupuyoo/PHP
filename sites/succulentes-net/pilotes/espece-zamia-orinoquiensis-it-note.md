@@ -26,3 +26,6 @@
 - Vérifié avant création : aucune page IT de l'espèce (enfants de 11879), aucune redirection visant l'URL (list_redirects).
 - Sources sous Cloudflare (POWO, UICN, BHL, PalmTalk) non contournées.
 - Rien commité.
+
+## Retouche du 25/10/2026 (lot ZAM13)
+- 7 remplacements (replace_in_content, simulation puis application) : phrase « aucun relevé… trouvé » remplacée (rien de publié hors de Colombie ; BGCI et Montgomery : aucune plante, interrogations du 25/10) ; toxicité « trouvée » → « publiée » ; paragraphe Lindstrom 2024 (sœur de *muricata* + *lecointei*) ; sources PMC, Montgomery, BGCI et référence Lindstrom ajoutées ; « consultati » et « che abbiamo potuto consultare » retirés ; brouillon identique au contenu en ligne.

@@ -45,3 +45,6 @@ Fiche : `pilotes/espece-zamia-oreillyi-fr.html` (blocs Gutenberg contrôlés par
 - Cône femelle jamais décrit ; la feuille décrite pourrait provenir d'une jeune plante (figure 12 = « plántula ») : non affirmé dans la fiche.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches FR publiées et vérifiées (200, sans redirection), à la première occurrence hors introduction.
+
+## Retouche du 25/10/2026 (lot ZAM13)
+- 10 remplacements (replace_in_content, simulation puis application) : notes de travail retirées (« sources consultées », « n'est pas connu ici ») ; culture hors du Honduras corrigée (Montgomery 4 accessions 2018-2024 ; BGCI : Montgomery, UH Hilo, Amsterdam, Lyon) ; Vannini 2019 (distinction d'avec *standleyi*, 1-3 feuilles, culture en pot) ; version cycad.org du protologue (« Ceiba, 2006, 46(1) : 41-44 ») ; paragraphe Lavaud 2023 ajouté (groupe 2) ; sources et références ajoutées ; brouillon identique au contenu en ligne.

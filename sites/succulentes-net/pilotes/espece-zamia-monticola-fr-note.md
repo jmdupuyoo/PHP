@@ -15,3 +15,6 @@
 
 ## Nettoyage du 25/10/2026 (lot ZAM12, simulation puis application, 8 remplacements)
 - Notes de travail retirées (« ne figurent dans aucune des sources consultées… ne sont pas reprises ici », « n'a pas pu être consultée » (révision 2009), « les sources consultées » ×3, « aucune offre commerciale n'a été trouvée », « n'a été trouvé(e) » ×2) ; remplacées par des données lues : Vannini 2019 (plantes guatémaltèques : port, habitat, culture au Guatemala), étiquettes GBIF (Alta Verapaz 2001 vers 475 m, karst calcaire, forêt semi-sempervirente ; 2012, 339-844 m), Nong Nooch (pieds mâle et femelle, 2004) ; lignes Vannini et GBIF ajoutées aux Sites de référence ; brouillon aligné. Fiche EN : 32244.
+
+## Retouche 0 avant ZAM13 (25/10/2026, simulation puis application, 4 remplacements)
+- Divergence sur le type (holotype MO selon WLoC ; lectotype NY selon les étiquettes GBIF, doubles MO et US) ; identité des plantes guatémaltèques (Vannini 2019 ; Lindstrom 2024, *aff. monticola*, sous-clade III-B) ; déclaration BGCI du Wilson Botanical Garden (Costa Rica) ; Lindstrom 2024 en bibliographie. Repris de l'EN 32244. Brouillon aligné.

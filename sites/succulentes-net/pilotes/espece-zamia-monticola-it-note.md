@@ -37,3 +37,6 @@
 
 ## Pulizia del 25/10/2026 (lotto ZAM12, simulazione poi applicazione, 8 sostituzioni)
 - Note di lavoro tolte (« non è stato possibile consultarla », « le fonti consultate » ×3, « nessuna fonte recente consultata… nessuna offerta commerciale », « non è stato trovato » ×2) e sostituite con dati letti (Vannini 2019, etichette GBIF, Nong Nooch), come in FR ; righe Vannini e GBIF aggiunte ; bozza allineata. Scheda EN : 32244.
+
+## Ritocco 0 prima di ZAM13 (25/10/2026, simulazione poi applicazione, 6 sostituzioni)
+- Divergenza sul tipo (olotipo MO secondo WLoC; lectotipo NY secondo le etichette GBIF); identità delle piante guatemalteche (Vannini 2019; Lindstrom 2024, *aff. monticola*); dichiarazione BGCI del Wilson Botanical Garden; Lindstrom 2024 in bibliografia; note di lavoro « che abbiamo potuto consultare » e « Lo stesso vale per il forum francese Fous de palmiers » tolte. Bozza allineata.

@@ -25,3 +25,6 @@
 
 ## Pulizia del 25/10/2026 (lotto ZAM12, simulazione poi applicazione, 12 sostituzioni)
 - Come in FR (note di lavoro, ipotesi non fondata, Jardin zoologique tropical senza osservazioni, Lindstrom 2024, formula dei glicosidi) ; tolto anche « che abbiamo potuto consultare ». Bozza allineata. Scheda EN : 32271.
+
+## Ritocco 0 prima di ZAM13 (25/10/2026, simulazione poi applicazione, 4 sostituzioni)
+- Omonimo invalido *Zamia nana* hort. ex Miq. (1844, IPNI); citazione di Calonje (Bramblett 2013); righe IPNI e Bramblett 2013 aggiunte. Bozza allineata.

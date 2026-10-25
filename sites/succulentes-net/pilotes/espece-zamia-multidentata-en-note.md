@@ -16,3 +16,6 @@
 - Habitat : plaine alluviale (protologue) contre terre ferme bien drainée (Calonje et al. 2026) ; exposé.
 - Huánuco et San Martín (WLoC) sans donnée publiée.
 - Pédoncule femelle 15-19 cm (protologue) contre 12-17,5 cm (tableau de 2026) ; la valeur du protologue est donnée.
+
+## Retouche 0 avant ZAM13 (25/10/2026, 1 remplacement)
+- Pédoncule femelle : 12-17,5 cm du tableau de Calonje et al. 2026 (relu) ajouté à côté des 15-19 cm du protologue. Brouillon aligné.

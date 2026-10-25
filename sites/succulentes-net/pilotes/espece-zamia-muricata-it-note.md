@@ -27,3 +27,6 @@
 
 ## Pulizia del 25/10/2026 (lotto ZAM12, simulazione poi applicazione, 7 sostituzioni)
 - Come in FR (Jungle Music, tossicità, Willdenow) ; tolte anche la ricerca senza risultato su Tropicamente (Annona muricata), « che abbiamo potuto consultare », « forum italiani consultati ». Bozza allineata. Scheda EN : 32258.
+
+## Ritocco 0 prima di ZAM13 (25/10/2026, simulazione poi applicazione, 4 sostituzioni)
+- Valutazione NT 2010 attribuita a Stevenson; paragrafo Lindstrom 2024; collezioni BGCI (27) e Montgomery (1999); Stevenson 2010 e Lindstrom 2024 in bibliografia. Bozza allineata (primo tentativo interrotto da un errore 502, nulla applicato; ripetuto dopo simulazione).

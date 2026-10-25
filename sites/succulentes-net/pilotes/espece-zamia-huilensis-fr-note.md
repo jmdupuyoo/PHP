@@ -52,3 +52,6 @@
 
 ## Retouche du 25/10/2026 (avant ZAM09)
 - Lavaud 2023 (Cycadales.eu, copie locale relue : groupe 3 « Zamia d'écosystèmes à saison sèche d'Amérique du Sud », difficulté moyenne, aucun problème en serre hors gel dans le sud de la France, garde au sec l'hiver) ajouté : Culture, Maladies et ravageurs, Rusticité (En France), FAQ (Peut-on le cultiver ?), Sites de référence. 5 remplacements (simulation puis application).
+
+## Retouche 0 avant ZAM13 (25/10/2026, simulation puis application, 3 remplacements)
+- « des plaines orientales de Colombie » (circonscription d'avant 2022) remplacé par la formulation du protologue (Venezuela et nord-est de la Colombie, pédoncules 16-28 cm), circonscription de Stevenson (2001, 2004), séparation d'*orinoquiensis* en 2022 (lien FR 26546) et aire actuelle (WLoC) ; « deux espèces colombiennes » → « deux espèces » ; Calonje et al. 2022 ajouté à la bibliographie. Brouillon aligné.
