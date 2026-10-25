@@ -31,3 +31,7 @@
 - Lien ajouté vers *Zamia skinneri* (Possibili confusioni) : première occurrence hors intro/encadré/titres/fonti, replace_in_content ciblé (dry run puis application), brouillon aligné, live = brouillon vérifié.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 3 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du 25/10/2026 (avant ZAM10)
+- 4 remplacements (simulation puis application) : « POWO … d'après des sources secondaires » / « selon Wikipédia et le site LLIFLE » remplacés par la World Checklist of Vascular Plants lue sur GBIF (jeu f382f0ce…, version du 04/06/2026, clé 207874726 : *Zamia splendens* Schutzman SYNONYM de *Zamia verschaffeltii* Miq.) ; traitement WLoC conservé ; date « 1998 » (Wikipédia seule) retirée ; ligne WCVP ajoutée aux sources ; description de la ligne Wikipédia réduite.
+- Reste (lot ZAM16) : habitat « d'après l'étude de 2023 » cité via Wikipédia, sous-groupe « Purpurea » (Calonje 2019 via Wikipédia ; Lindstrom 2024 lisible en copie locale), parents de *grijalvensis* d'après Wikipédia ; ligne Wikipédia encore présente.

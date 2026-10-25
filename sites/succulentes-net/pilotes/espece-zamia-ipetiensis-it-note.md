@@ -26,3 +26,6 @@
 ## Ritocco del 25/10/2026 (ZAM09)
 - 7 sostituzioni (simulazione poi applicazione) : Vannini 2019 (aggiornato 2026), naturalista ; note di lavoro rimosse (« fonti consultate », « il dettaglio delle minacce non è noto », « forum italiani consultati », Riferimenti internazionali) ; Riferimenti riscritti ; 4 fonti aggiunte. Pagina EN creata : 32125.
 - Da riprendere : frase e fonte Wikipedia (Kuna de Madugandí, due sottopopolazioni).
+
+## Retouche du 25/10/2026 (avant ZAM10)
+- 2 remplacements (simulation puis application) : phrase Wikipédia (« Kuna de Madugandí, deux sous-populations », information de l'UICN non vérifiable) remplacée par Vannini 2019 (relique de forêt tropicale humide de la côte caraïbe de l'est du Panama et végétation secondaire voisine, texte relu) ; ligne Wikipédia des sources retirée.

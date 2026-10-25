@@ -31,3 +31,6 @@
 - À signaler pour la FR : la Flora de Colombia en ligne est désormais accessible (description 620).
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 2 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du 25/10/2026 (lot ZAM10, création EN 32157)
+- Simulation puis application (FR 11 / IT 11) : plus rien de Wikipédia seule (Pérou et catégorie NT 2010 retirés ; l'évaluation 2010 reste citée sans catégorie ; ligne Wikipédia retirée) ; notes de travail visibles retirées ; Repères internationaux (FR) / Riferimenti internazionali (IT) remplis : Trebrown 10b (commercial), Lavaud 2023 (groupe des forêts de basse altitude), BGCI 8 jardins ; sources BGCI, Trebrown, Cycadales.eu ajoutées. Brouillon aligné.

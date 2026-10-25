@@ -57,3 +57,6 @@ Brouillon : `pilotes/espece-zamia-lindenii-fr.html` (blocs Gutenberg contrôlés
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26510, https://succulentes.net/cycadales/zamia/lindenii/ (200, sans redirection ; aucune redirection ancienne trouvée). Sans translation_of (aucune traduction). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 3963 ; liens croisés posés vers les fiches Zamia FR publiées (vérifiées 200).
+
+## Retouche du 25/10/2026 (lot ZAM10, création EN 32164)
+- Simulation puis application (FR 8 / IT 9) : notes de travail visibles retirées (robot, « ne sont pas reprises ici », « aucune autre source consultée », « fonti consultate ») ; description de Jungle Music ajoutée et attribuée (pépinière), divergence d'habitat exposée (« au-dessus de 900 m » contre forêts sèches côtières) ; Lavaud 2023 (groupe des écosystèmes à saison sèche, serre hors gel dans le sud de la France) ; BGCI (17 jardins, dont Copenhague), Montgomery (2 numéros), Trebrown 9b ; cinq sources ajoutées. Brouillon aligné.

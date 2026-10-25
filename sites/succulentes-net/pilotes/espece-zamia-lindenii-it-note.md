@@ -28,3 +28,6 @@
 
 ## Points douteux
 - Protologue André 1875 non consulté (BHL). Dimensions adultes non documentées par une description publiée consultée (tronc d'environ 1,5 m observé par un amateur, présenté comme tel).
+
+## Retouche du 25/10/2026 (lot ZAM10, création EN 32164)
+- Simulation puis application (FR 8 / IT 9) : notes de travail visibles retirées (robot, « ne sont pas reprises ici », « aucune autre source consultée », « fonti consultate ») ; description de Jungle Music ajoutée et attribuée (pépinière), divergence d'habitat exposée (« au-dessus de 900 m » contre forêts sèches côtières) ; Lavaud 2023 (groupe des écosystèmes à saison sèche, serre hors gel dans le sud de la France) ; BGCI (17 jardins, dont Copenhague), Montgomery (2 numéros), Trebrown 9b ; cinq sources ajoutées. Brouillon aligné.

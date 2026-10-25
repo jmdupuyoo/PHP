@@ -26,3 +26,6 @@
 ## Ritocco del 25/10/2026 (ZAM09)
 - 11 sostituzioni (simulazione poi applicazione) : scoperta 1973 (Octavio-Aguilar e coll. 2017, *Cuadernos de Biodiversidad*) al posto della frase non verificata su Z. López Romero ; popolazione, impollinatore, genetica, moltiplicazione dalle fonti primarie ; note di lavoro rimosse ; Riferimenti internazionali riscritti ; IPEN XX-0-NAP-1720 ; 5 fonti e 1 riferimento aggiunti. Pagina EN creata : 32113.
 - Da riprendere : morfologia non fonte (« grigio cenere », fusto ~30 cm), suoli basaltici, 150-300 m, parassiti generici, « squilibrio tra i sessi ».
+
+## Ritocco del 25/10/2026 (prima di ZAM10)
+- 21 sostituzioni (simulazione poi applicazione, numero atteso verificato) : morfologia senza fonte (« grigio cenere », fusto ~30 cm, 27-32 paia, coni, semi 1,7-2,5 cm) e 2n = 16 (Vovides 1983, riassunto che non nomina la specie) ritirati, con il riferimento Vovides 1983 ; suoli basaltici/vulcanici, Actopan, « squilibrio tra i sessi », sottobosco ritirati ; al loro posto Nicolalde-Morejón et al. 2011 e 2014 (150-300 m), Gómez Díaz 2025, Octavio-Aguilar et al. 2017, Jungle Music (descrizione di coltivazione, esposizione). Link IT *fischeri* spostato nelle Possibili confusioni. Bibliografia : 2009 sostituito da 2011, 2014 e Gómez Díaz 2025.

@@ -53,3 +53,7 @@
 - SEO Rank Math : titre « Zamia splendens, cycadale aux folioles brillantes du Mexique » (60 car.), meta « Zamia splendens, petite cycadale du sud-est du Mexique aux folioles très brillantes : description, taxonomie, statut UICN et CITES, culture et rusticité. » (153 car.), mot-clé « zamia splendens ».
 - https://succulentes.net/cycadales/zamia/splendens/ : 200 sans redirection ; texte rendu comparé au brouillon phrase par phrase (239/239 présentes).
 - Pages qui lient vers cette fiche (lien inchangé, toujours valide) : 3963 (genre Zamia), 22333, 22338, 22349, 22356, 26497.
+
+## Retouche du 25/10/2026 (avant ZAM10)
+- 4 remplacements (simulation puis application) : « POWO … d'après des sources secondaires » / « selon Wikipédia et le site LLIFLE » remplacés par la World Checklist of Vascular Plants lue sur GBIF (jeu f382f0ce…, version du 04/06/2026, clé 207874726 : *Zamia splendens* Schutzman SYNONYM de *Zamia verschaffeltii* Miq.) ; traitement WLoC conservé ; date « 1998 » (Wikipédia seule) retirée ; ligne WCVP ajoutée aux sources ; description de la ligne Wikipédia réduite.
+- Reste (lot ZAM16) : habitat « d'après l'étude de 2023 » cité via Wikipédia, sous-groupe « Purpurea » (Calonje 2019 via Wikipédia ; Lindstrom 2024 lisible en copie locale), parents de *grijalvensis* d'après Wikipédia ; ligne Wikipédia encore présente.

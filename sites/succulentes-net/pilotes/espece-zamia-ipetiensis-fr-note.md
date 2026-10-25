@@ -61,3 +61,6 @@ Brouillon : `pilotes/espece-zamia-ipetiensis-fr.html` (blocs Gutenberg contrôl�
 ## Retouche du 25/10/2026 (ZAM09)
 - 6 remplacements (simulation puis application) : Vannini daté de 2019 (mis à jour en 2026) et présenté comme naturaliste, avis complété ; notes de travail retirées (« dans les sources consultées », « le détail des menaces n'est pas connu ici », Repères internationaux « Aucun relevé de froid n'a été trouvé… ») ; Repères internationaux réécrits (Jungle Music, Trebrown, BGCI, Montgomery, Lavaud) ; 4 sources ajoutées. Page EN créée : 32125.
 - Reste : phrase et source Wikipédia (Kuna de Madugandí, deux sous-populations) à vérifier ou retirer.
+
+## Retouche du 25/10/2026 (avant ZAM10)
+- 2 remplacements (simulation puis application) : phrase Wikipédia (« Kuna de Madugandí, deux sous-populations », information de l'UICN non vérifiable) remplacée par Vannini 2019 (relique de forêt tropicale humide de la côte caraïbe de l'est du Panama et végétation secondaire voisine, texte relu) ; ligne Wikipédia des sources retirée.

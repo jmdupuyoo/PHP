@@ -44,3 +44,6 @@ FR ancienne : non repris faute de source vérifiable :
 - Liens internes ajoutés (200) : standleyi, paucijuga, inermis, soconuscensis ; splendens et cremnophila déplacés à leur première occurrence (Possibili confusioni), grijalvensis dans Ibridi. 16 liens internes, tous IT, en 200 ; aucun lien FR.
 - Contrôles (verify.py) : URL 200, aucun commentaire de bloc visible, 119 blocs appariés, texte rendu identique au brouillon `espece-zamia-lacandona-it.html`, même séquence de liens ; hreflang fr/it conservés ; ≈ 3 580 mots.
 - SEO Rank Math inchangé (titre et meta toujours exacts). Index de la page genre IT 11879 : ligne conforme (EN, 2022), non modifiée.
+
+## Retouche du 25/10/2026 (lot ZAM10, création EN 32143)
+- Simulation puis application (FR 8 / IT 9) : plus rien de Wikipédia seule (Palenque/Agua Azul, brûlis comme menace principale retirés ; ligne Wikipédia retirée) ; ajout de Vannini 2019 (signalement fiable à l'extrême nord-ouest du Guatemala ; culture peu répandue) ; notes de travail visibles retirées ; Repères internationaux (FR) / Riferimenti internazionali (IT) remplis : Trebrown 10b (commercial), BGCI 5 jardins, Montgomery 4 numéros ; sources Vannini, BGCI, Montgomery, Trebrown ajoutées. Brouillon aligné.

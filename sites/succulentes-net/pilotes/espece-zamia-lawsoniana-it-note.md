@@ -27,3 +27,6 @@
 
 ## Points douteux
 - Protologue Thiselton-Dyer 1884 non consulté (BHL). Species+ ne nomme pas encore l'espèce séparément (couverte par l'inscription du genre).
+
+## Retouche du 25/10/2026 (lot ZAM10, création EN 32150)
+- Simulation puis application (FR 7 / IT 9) : World Checklist of Vascular Plants lue sur GBIF (synonyme de *Zamia loddigesii*, jeu du 04/06/2026) ajoutée à l'encadré et à la Taxonomie, la WLoC restant suivie ; notes de travail visibles retirées ; Repères internationaux (FR) / Riferimenti internazionali (IT) remplis : Trebrown 9b (commercial), BGCI (JB Clavijero seul), Montgomery (recherche renvoyant à *Zamia loddigesii*) ; quatre sources ajoutées. Brouillon aligné.

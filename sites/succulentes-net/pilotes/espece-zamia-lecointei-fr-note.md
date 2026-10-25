@@ -64,3 +64,6 @@ Brouillon : `pilotes/espece-zamia-lecointei-fr.html` (blocs Gutenberg contrôlé
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26505, https://succulentes.net/cycadales/zamia/lecointei/ (200, sans redirection ; aucune redirection ancienne trouvée). Sans translation_of (aucune traduction). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 3963 ; liens croisés posés vers les fiches Zamia FR publiées (vérifiées 200).
+
+## Retouche du 25/10/2026 (lot ZAM10, création EN 32157)
+- Simulation puis application (FR 11 / IT 11) : plus rien de Wikipédia seule (Pérou et catégorie NT 2010 retirés ; l'évaluation 2010 reste citée sans catégorie ; ligne Wikipédia retirée) ; notes de travail visibles retirées ; Repères internationaux (FR) / Riferimenti internazionali (IT) remplis : Trebrown 10b (commercial), Lavaud 2023 (groupe des forêts de basse altitude), BGCI 8 jardins ; sources BGCI, Trebrown, Cycadales.eu ajoutées. Brouillon aligné.

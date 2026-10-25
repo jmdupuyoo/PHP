@@ -29,3 +29,6 @@
 - Contrôles : texte en ligne identique au brouillon (≈ 4 100 mots), 13 liens même séquence, liens internes en 200, blocs 120/120, hreflang fr/it, aucun commentaire visible ; User-Agent curl et Chrome : 200, `<title>` « Zamia lacandona : cycadale de la Selva Lacandona (Chiapas) ».
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du 25/10/2026 (lot ZAM10, création EN 32143)
+- Simulation puis application (FR 8 / IT 9) : plus rien de Wikipédia seule (Palenque/Agua Azul, brûlis comme menace principale retirés ; ligne Wikipédia retirée) ; ajout de Vannini 2019 (signalement fiable à l'extrême nord-ouest du Guatemala ; culture peu répandue) ; notes de travail visibles retirées ; Repères internationaux (FR) / Riferimenti internazionali (IT) remplis : Trebrown 10b (commercial), BGCI 5 jardins, Montgomery 4 numéros ; sources Vannini, BGCI, Montgomery, Trebrown ajoutées. Brouillon aligné.
