@@ -26,3 +26,7 @@
 - 24/10/2026 (CYC21) : lien EN *Cycas riuminiana* 30820 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
 
 - 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sexseminifera* 30907 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+
+## Renvoi posé le 25/10/2026 (ZAM09)
+- Étymologie : phrase « not to be confused » vers l'homonyme *Zamia inermis* EN 32113 (/en/cycads/zamia/inermis/), 1 remplacement (simulation puis application).

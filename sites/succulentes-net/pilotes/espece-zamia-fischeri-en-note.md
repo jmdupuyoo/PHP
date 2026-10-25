@@ -21,3 +21,7 @@
 ## FR/IT à reprendre (signalé)
 - FR 21704 : notes de travail visibles — « Des mesures plus détaillées circulent dans les encyclopédies en ligne … ne sont pas reprises ici », « (2009) … n'a pas pu être consultée », « Aucune description détaillée de son milieu … n'a pu être lue dans une source primaire ; les données qui circulent proviennent de résumés secondaires … ne sont pas reprises ici », « ne sont pas repris ici » (noms huastèques), « aucune observation du Jardin zoologique tropical … n'est publiée pour elle », « Aucun retour daté de gel n'a été trouvé », source « Forum des Fous de palmiers, recherche « zamia fischeri » » ; compléments possibles : Lindstrom 2024 (clade Fischeri).
 - IT 28049 : mêmes défauts, plus légers — « (testo non consultato) » dans le texte (Taxonomie, révision 2009) et source « Forum Fous de palmiers, ricerca «zamia fischeri» » (intitulé de recherche) ; compléments possibles : Lindstrom 2024.
+
+
+## Lien posé le 25/10/2026 (ZAM09)
+- Lien vers *inermis* EN 32113 (première occurrence, 1 remplacement, simulation puis application).

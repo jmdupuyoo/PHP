@@ -22,3 +22,7 @@
 - FR 26474 : intertitre « Repères internationaux » (Rusticité) vide ; FR et IT disent « aucune culture documentée, aucune offre commerciale » alors que Vannini 2019 (culture en pot, graines vendues chaque année), Montgomery (11 accessions) et BGCI (4 jardins) documentent la culture → à compléter.
 - IT 28031 : « Nessun riscontro è stato trovato con le ricerche sul web » (Riferimenti internazionali) : note de recherche visible.
 - Lien entrant ajouté le 25/10/2026 : *dressleri* 31990 (Confusions possibles).
+
+
+## Lien posé le 25/10/2026 (ZAM09)
+- Lien vers *ipetiensis* EN 32125 (première occurrence, 1 remplacement, simulation puis application).

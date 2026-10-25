@@ -19,3 +19,7 @@
 
 ## FR/IT à reprendre (signalé)
 - FR 26480 : intertitre « Repères internationaux » (Rusticité) vide ; compléments possibles : Vannini 2019 (habitat, déclin, culture), Jungle Music, Lindstrom 2024 (clade V, *pseudoparasitica* ; la parenté avec *wallisii* n'est pas soutenue), jardins BGCI/Montgomery.
+
+
+## Lien posé le 25/10/2026 (ZAM09)
+- Lien vers *ipetiensis* EN 32125 (première occurrence, 1 remplacement, simulation puis application).

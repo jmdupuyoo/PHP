@@ -28,3 +28,10 @@
 
 ## Retouche du 24/10/2026 (0a avant ZAM04)
 - Phrase visible sur PalmTalk / Dave’s Garden « could not be consulted » (ou variante) retirée du texte (le site ne commente pas ses limites de recherche) : replace_in_content, simulation puis application, 1 remplacement(s) ; brouillon aligné.
+
+
+## Lien posé le 25/10/2026 (ZAM09)
+- Lien vers *inermis* EN 32113 (première occurrence, 1 remplacement, simulation puis application).
+
+## Lien posé le 25/10/2026 (ZAM09)
+- Lien vers *katzeriana* EN 32132 (première occurrence, Hybrids, 1 remplacement, simulation puis application).

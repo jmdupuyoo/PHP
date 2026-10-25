@@ -24,3 +24,6 @@
 - Rien commité.
 
 - **Retouche 25/10/2026 (ZAM08)** : notes de recherche retirées (« sources consultées », « aucune offre commerciale », forums consultés, « riscontro non trovato ») ; Repères internationaux / Riferimenti internazionali rempli : culture documentée seulement en Colombie (BGCI : Bogotá, Medellín ; Montgomery : aucune accession) ; 2 sources ajoutées. Simulation puis application ; brouillon aligné. Page EN 32077 créée et liée.
+
+## Retouche del 25/10/2026 (prima di ZAM09)
+- Lavaud 2023 (gruppo delle Zamia sudamericane a stagione secca, difficoltà media, serra senza gelo nel sud della Francia, asciutto d'inverno) aggiunto : Coltivazione, Malattie e parassiti, Rusticità (sud-est della Francia, al posto di « Non esiste nemmeno un riscontro »), FAQ, Fonti. 5 sostituzioni.

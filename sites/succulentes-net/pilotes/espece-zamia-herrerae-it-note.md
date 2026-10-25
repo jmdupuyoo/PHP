@@ -24,3 +24,6 @@
 - Rien commité.
 
 - **Retouche 25/10/2026 (ZAM08)** : notes de travail visibles retirées (révision 2009 « non consultée », critères « non vérifiés », « sources consultées », recherches de forum, « aucune offre commerciale ») ; intertitre Repères internationaux / Riferimenti internazionali rempli (Montgomery 2 numéros, BGCI, Trebrown 10a commerciale) ; ajouts Vannini 2019 (camotillo, répartition jusqu au Nicaragua, port en culture, ancienne identification comme Z. loddigesii, culture en pot) et Lindstrom 2024 (saison sèche, défeuillaison) ; sources ajoutées. Simulation puis application (12 FR / 14 IT) ; brouillon aligné. Page EN 32071 créée et liée.
+
+## Retouche del 25/10/2026 (prima di ZAM09)
+- Divergenza sullo spessore delle foglioline (Standley 1924 « spesse » / chiave del protologo di *Z. grijalvensis*, 2012, « papyraceous ») aggiunta in Come riconoscere ; riferimento aggiunto in bibliografia. 2 sostituzioni.

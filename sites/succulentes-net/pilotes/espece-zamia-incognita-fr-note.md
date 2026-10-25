@@ -47,3 +47,6 @@ Brouillon : `pilotes/espece-zamia-incognita-fr.html` (blocs Gutenberg contrôlé
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26488, https://succulentes.net/cycadales/zamia/incognita/ (200, sans redirection ; aucune redirection ancienne trouvée). Sans translation_of (aucune traduction). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 3963 ; liens croisés posés vers les fiches Zamia FR publiées (vérifiées 200).
+
+## Retouche du 25/10/2026 (ZAM09)
+- 5 remplacements (simulation puis application) : Valencia-Montoya 2017, connu par extrait de recherche, désormais par son **résumé** (cycle de vie dans les cônes mâles, thermogenèse, gouttes de pollinisation ajoutés ; phrase non sourcée sur les populations trop réduites remplacée) ; annotation bibliographique corrigée ; Culture (BGCI 3 jardins colombiens, Montgomery 0, Lavaud 2023) et Repères internationaux (note « aucun relevé… n'a été trouvé ») réécrits ; sources Cycadales.eu et BGCI ajoutées. Page EN créée : 32107.

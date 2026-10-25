@@ -52,3 +52,6 @@
 - Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).
 
 - **Retouche 25/10/2026 (ZAM08)** : note de recherche (nom vernaculaire « non trouvé ») reformulée ; Repères internationaux / Riferimenti internazionali : note « témoignage écarté » remplacée par Vannini 2019 (croissance, besoin de chaleur, plantes multipliées), Montgomery (5 numéros de 2004) et BGCI (San Diego, Hawaï, Sydney) ; 3 sources ajoutées. Simulation puis application ; brouillon aligné. Page EN 32060 créée et liée.
+
+## Retouche du 25/10/2026 (avant ZAM09)
+- Répartition selon Vannini 2019 (« along the length of the Valiente Peninsula and adjacent offshore islets », copie locale d'Exotica Esoterica relue) ajoutée à côté de MiAmbiente (île Escudo de Veraguas) : introduction, encadré, Dans la nature (divergence exposée, protologue sans localités), Confusions possibles (« sp. Punta Valiente »), Rusticité (« côte » au lieu d'« île »), Culture, FAQ (Où pousse, distinguer de *skinneri*, menacé), source Vannini. 10 remplacements (simulation puis application). SEO : « Zamia hamannii, cycadale côtière de Bocas del Toro (Panama) » (59) ; meta 155.

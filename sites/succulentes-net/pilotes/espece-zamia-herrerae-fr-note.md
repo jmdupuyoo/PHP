@@ -51,3 +51,6 @@
 - Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).
 
 - **Retouche 25/10/2026 (ZAM08)** : notes de travail visibles retirées (révision 2009 « non consultée », critères « non vérifiés », « sources consultées », recherches de forum, « aucune offre commerciale ») ; intertitre Repères internationaux / Riferimenti internazionali rempli (Montgomery 2 numéros, BGCI, Trebrown 10a commerciale) ; ajouts Vannini 2019 (camotillo, répartition jusqu au Nicaragua, port en culture, ancienne identification comme Z. loddigesii, culture en pot) et Lindstrom 2024 (saison sèche, défeuillaison) ; sources ajoutées. Simulation puis application (12 FR / 14 IT) ; brouillon aligné. Page EN 32071 créée et liée.
+
+## Retouche du 25/10/2026 (avant ZAM09)
+- Divergence sur l'épaisseur des folioles ajoutée (Comment reconnaître) : « épaisses » (Standley 1924) contre « papyraceous » dans la clé des *Zamia* du Chiapas du protologue de *Z. grijalvensis* (Pérez-Farrera et al. 2012, PDF local relu) ; référence ajoutée en bibliographie. 2 remplacements.

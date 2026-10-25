@@ -34,3 +34,7 @@
 
 ## Retouche du 24/10/2026 (0c avant ZAM03)
 - 6 remplacements (simulation puis application, replace_in_content sur 20399 ; brouillon aligné) : chiffre de Dave's Garden (−3,5 °C / 25,7 °F, page non lue) retiré de l'encadré, de la section Cold hardiness (dont « At best, take −3.5 °C as an order of magnitude… ») et de la FAQ, remplacé par l'avis lu de Jungle Music (tolérance au froid « not known ») ; ligne Dave's Garden retirée des Sources ; phrase « PalmTalk and Dave's Garden could not be consulted » retirée (règle 3). Meta description et titre SEO ne citaient pas le chiffre (vérifié).
+
+
+## Lien posé le 25/10/2026 (ZAM09)
+- Lien vers *inermis* EN 32113 (première occurrence, 1 remplacement, simulation puis application).

@@ -51,3 +51,6 @@ Brouillon : `pilotes/espece-zamia-katzeriana-fr.html` (blocs Gutenberg contrôl�
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26497, https://succulentes.net/cycadales/zamia/katzeriana/ (200, sans redirection ; aucune redirection ancienne trouvée). Sans translation_of (aucune traduction). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 3963 ; liens croisés posés vers les fiches Zamia FR publiées (vérifiées 200).
+
+## Retouche du 25/10/2026 (ZAM09)
+- 18 remplacements (simulation puis application) : notation POWO « d'après un extrait de recherche » remplacée par WCVP via GBIF (Zamia ×katzeriana, version du 04/06/2026) ; Wikipédia retiré (Dans la nature et Sites de référence) ; notes de travail retirées (« dans les sources consultées », « n'ont pas pu être consultées », « le détail des menaces n'est pas connu ici », « forums consultés », « Aucun relevé de froid… ») ; « ne pousse pas au Costa Rica » remplacé ; caractères distinctifs (Pérez-Farrera 2016 via Lindstrom 2024 ; complexe *Z. katzeriana* de Nicolalde-Morejón 2011), lectotype LE, répartition Chiapas/Tabasco/Veracruz (2011), Lindstrom 2024 (sœur de *Z. splendens*) ; Culture et Repères internationaux : BGCI Xalapa, Montgomery (2 numéros sous *Z. splendens*, hybrides), Lavaud 2023 groupe 2 ; 5 sources et 2 références ajoutées. Page EN créée : 32132.

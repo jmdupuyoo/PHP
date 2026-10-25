@@ -19,3 +19,6 @@
 ## FR/IT corrigées au passage (25/10/2026, simulation puis application)
 - FR 22333 (6) : notes « dans les sources consultées », « Aucune phylogénie moléculaire consultée… », « Aucun retour… n'a été trouvé » retirées ; Repères internationaux : BGCI (Xalapa seulement) et Montgomery (aucune accession) ; 2 sources ajoutées.
 - IT 28074 (4) : « Nessuna filogenesi molecolare consultata… », « …con le ricerche sul web », « Nelle fonti consultate… » retirées ; même ajout BGCI/Montgomery ; 2 sources.
+
+## Lien posé le 25/10/2026 (ZAM09)
+- Lien vers *katzeriana* EN 32132 (première occurrence, Hybrids, 1 remplacement, simulation puis application).

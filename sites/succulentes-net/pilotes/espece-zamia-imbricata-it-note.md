@@ -22,3 +22,6 @@
 - Brouillon `pilotes/espece-zamia-imbricata-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, hors sommaire Easy TOC ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées (script) ; aucun `<em>` imbriqué ni nom abrégé dans le texte ; aucun lien vers une page FR.
 - Vérifié avant création : aucune page IT de l'espèce (enfants de 11879 via l'API REST, recherche par épithète, list_content it « Zamia ») ; aucune redirection visant l'URL (list_redirects).
 - Rien commité.
+
+## Ritocco del 25/10/2026 (ZAM09)
+- Note di lavoro visibili corrette (5 sostituzioni, simulazione poi applicazione) : « forum italiani consultati », « non è stato trovato alcun riscontro », « che abbiamo potuto consultare », Riferimenti internazionali (« Non è stata trovata alcuna rilevazione di freddo… » → Lavaud 2023) ; fonte Cycadales.eu aggiunta. Pagina EN creata : 32101.

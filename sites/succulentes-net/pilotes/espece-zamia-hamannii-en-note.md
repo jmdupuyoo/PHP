@@ -21,3 +21,6 @@
 - FR 26495 (3) : « Aucun nom vernaculaire n'a été trouvé » reformulé ; « Repères internationaux » (note « témoignage… écarté, comme sur la page du genre ») remplacé par Vannini 2019, Montgomery, BGCI ; 3 sources ajoutées.
 - IT 28075 (3) : mêmes corrections (« Non è stato trovato alcun nome volgare », « Non è stato trovato alcun riscontro verificabile… scartata »).
 - À compléter (facultatif) : répartition selon Vannini 2019 (péninsule de Valiente) dans « Dans la nature » / « In natura ».
+
+## Retouche du 25/10/2026 (avant ZAM09)
+- Possible confusion : phrase « sp. Punta Valiente » complétée (Vannini 2019 range les plantes de la péninsule de Valiente dans *Z. hamannii*), alignée sur les FR/IT. 1 remplacement.

@@ -19,3 +19,6 @@
 ## FR/IT à reprendre (signalé)
 - FR 26477 : plus pauvre que l'IT (pas de mesures de la Flora de Colombia, notée « non lue ») → reprendre les mesures de l'IT ; ajouter Lindstrom 2024 et Lavaud (groupe 4) le cas échéant.
 - IT 28023 : « Nessun riscontro di coltivazione è stato trovato con le ricerche sul web » (Riferimenti internazionali) et « elenco completo degli autori non ricopiato » (bibliographie) : notes de travail visibles.
+
+## Lien posé le 25/10/2026 (ZAM09)
+- Taxonomie : lien vers *imbricata* EN 32101 (première occurrence, 1 remplacement, simulation puis application).

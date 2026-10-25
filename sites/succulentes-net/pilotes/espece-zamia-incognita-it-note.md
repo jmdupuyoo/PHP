@@ -22,3 +22,6 @@
 - Brouillon `pilotes/espece-zamia-incognita-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, hors sommaire Easy TOC ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées (script) ; aucun `<em>` imbriqué ni nom abrégé dans le texte ; aucun lien vers une page FR.
 - Vérifié avant création : aucune page IT de l'espèce (enfants de 11879 via l'API REST, recherche par épithète, list_content it « Zamia ») ; aucune redirection visant l'URL (list_redirects).
 - Rien commité.
+
+## Ritocco del 25/10/2026 (ZAM09)
+- 7 sostituzioni (simulazione poi applicazione) : Valencia-Montoya 2017 ora dal **riassunto** (non più « estratto di ricerca ») ; impollinazione completata ; Coltivazione (BGCI, Montgomery, Lavaud 2023) e Riferimenti internazionali riscritti ; « forum italiani consultati », « che abbiamo potuto consultare », nota Tropicamente rimossi ; fonti Cycadales.eu e BGCI aggiunte. Pagina EN creata : 32107.

@@ -25,3 +25,7 @@
 
 ## Complément du 24/10/2026 (même lot)
 - Lindstrom et al. 2024 relu dans la copie locale du texte intégral (scratchpad lind.txt ; PMC renvoie une page reCAPTCHA, non contournée) : « Fischeri clade » (*vazquezii*, *fischeri*, *inermis*) fortement soutenu, d'abord reconnu par Calonje et al. 2019 ; la plupart des analyses de 2024 le placent comme frère du clade caraïbe (et non du reste des *Zamia* continentaux comme en 2019) ; séparation ≈ 26,32 Ma, spéciation interne ≈ 18,95 Ma ; position conflictuelle entre analyses. Paragraphe ajouté en Taxonomie + ligne Sources + Bibliographie (replace_in_content, simulation 3/3 puis application 3/3 ; brouillon aligné). L'affirmation de l'ancienne EN (« sister to all other mainland American *Zamia* ») correspondait à Calonje 2019, contredite en 2024.
+
+
+## Lien posé le 25/10/2026 (ZAM09)
+- Lien vers *inermis* EN 32113 (première occurrence, 1 remplacement, simulation puis application).

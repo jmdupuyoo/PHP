@@ -57,3 +57,7 @@ Brouillon : `pilotes/espece-zamia-ipetiensis-fr.html` (blocs Gutenberg contrôl�
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26492, https://succulentes.net/cycadales/zamia/ipetiensis/ (200, sans redirection ; aucune redirection ancienne trouvée). Sans translation_of (aucune traduction). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 3963 ; liens croisés posés vers les fiches Zamia FR publiées (vérifiées 200).
+
+## Retouche du 25/10/2026 (ZAM09)
+- 6 remplacements (simulation puis application) : Vannini daté de 2019 (mis à jour en 2026) et présenté comme naturaliste, avis complété ; notes de travail retirées (« dans les sources consultées », « le détail des menaces n'est pas connu ici », Repères internationaux « Aucun relevé de froid n'a été trouvé… ») ; Repères internationaux réécrits (Jungle Music, Trebrown, BGCI, Montgomery, Lavaud) ; 4 sources ajoutées. Page EN créée : 32125.
+- Reste : phrase et source Wikipédia (Kuna de Madugandí, deux sous-populations) à vérifier ou retirer.

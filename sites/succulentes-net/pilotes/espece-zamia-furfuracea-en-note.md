@@ -35,3 +35,7 @@
 - Phrase visible sur PalmTalk / Dave’s Garden « could not be consulted » (ou variante) retirée du texte (le site ne commente pas ses limites de recherche) : replace_in_content, simulation puis application, 1 remplacement(s) ; brouillon aligné.
 
 - Retouche 24/10/2026 (0c avant ZAM05) : note de travail visible retirée du texte en ligne (renvoi à la fiche d’une autre langue ou d’une autre espèce comme origine de la consultation : « for the French page », « lors de la rédaction de la fiche italienne », « repris de la fiche … », etc.) ; replace_in_content, simulation puis application ; brouillon aligné.
+
+
+## Lien posé le 25/10/2026 (ZAM09)
+- Lien vers *inermis* EN 32113 (première occurrence, 1 remplacement, simulation puis application).

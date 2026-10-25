@@ -19,3 +19,7 @@
 
 ## FR/IT à reprendre (signalé)
 - FR 29456 : « Sur le forum des Fous de palmiers, le seul message qui la cite (octobre 2012) annonce une visite … sans donnée de culture » et « Au Jardin zoologique tropical … aucune observation n'a été publiée » (Rusticité, En France) : mentions sans donnée, à retirer selon la règle 3 ; compléments possibles : Jungle Music (description, culture en conteneur, gel), Vannini (« blanco » = *stevensonii*), jardins BGCI/Montgomery.
+
+
+## Lien posé le 25/10/2026 (ZAM09)
+- Lien vers *inermis* EN 32113 (première occurrence, 1 remplacement, simulation puis application).

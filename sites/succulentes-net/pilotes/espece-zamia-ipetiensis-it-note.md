@@ -22,3 +22,7 @@
 - Brouillon `pilotes/espece-zamia-ipetiensis-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, hors sommaire Easy TOC ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées (script) ; aucun `<em>` imbriqué ni nom abrégé dans le texte ; aucun lien vers une page FR.
 - Vérifié avant création : aucune page IT de l'espèce (enfants de 11879 via l'API REST, recherche par épithète, list_content it « Zamia ») ; aucune redirection visant l'URL (list_redirects).
 - Rien commité.
+
+## Ritocco del 25/10/2026 (ZAM09)
+- 7 sostituzioni (simulazione poi applicazione) : Vannini 2019 (aggiornato 2026), naturalista ; note di lavoro rimosse (« fonti consultate », « il dettaglio delle minacce non è noto », « forum italiani consultati », Riferimenti internazionali) ; Riferimenti riscritti ; 4 fonti aggiunte. Pagina EN creata : 32125.
+- Da riprendere : frase e fonte Wikipedia (Kuna de Madugandí, due sottopopolazioni).

@@ -22,3 +22,7 @@
 - Brouillon `pilotes/espece-zamia-inermis-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, hors sommaire Easy TOC ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées (script) ; aucun `<em>` imbriqué ni nom abrégé dans le texte ; aucun lien vers une page FR.
 - Vérifié avant création : aucune page IT de l'espèce (enfants de 11879 via l'API REST, recherche par épithète, list_content it « Zamia ») ; aucune redirection visant l'URL (list_redirects).
 - Rien commité.
+
+## Ritocco del 25/10/2026 (ZAM09)
+- 11 sostituzioni (simulazione poi applicazione) : scoperta 1973 (Octavio-Aguilar e coll. 2017, *Cuadernos de Biodiversidad*) al posto della frase non verificata su Z. López Romero ; popolazione, impollinatore, genetica, moltiplicazione dalle fonti primarie ; note di lavoro rimosse ; Riferimenti internazionali riscritti ; IPEN XX-0-NAP-1720 ; 5 fonti e 1 riferimento aggiunti. Pagina EN creata : 32113.
+- Da riprendere : morfologia non fonte (« grigio cenere », fusto ~30 cm), suoli basaltici, 150-300 m, parassiti generici, « squilibrio tra i sessi ».

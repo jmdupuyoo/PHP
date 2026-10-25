@@ -49,3 +49,6 @@
 - Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).
 
 - **Retouche 25/10/2026 (ZAM08)** : notes de recherche retirées (« sources consultées », « aucune offre commerciale », forums consultés, « riscontro non trovato ») ; Repères internationaux / Riferimenti internazionali rempli : culture documentée seulement en Colombie (BGCI : Bogotá, Medellín ; Montgomery : aucune accession) ; 2 sources ajoutées. Simulation puis application ; brouillon aligné. Page EN 32077 créée et liée.
+
+## Retouche du 25/10/2026 (avant ZAM09)
+- Lavaud 2023 (Cycadales.eu, copie locale relue : groupe 3 « Zamia d'écosystèmes à saison sèche d'Amérique du Sud », difficulté moyenne, aucun problème en serre hors gel dans le sud de la France, garde au sec l'hiver) ajouté : Culture, Maladies et ravageurs, Rusticité (En France), FAQ (Peut-on le cultiver ?), Sites de référence. 5 remplacements (simulation puis application).
