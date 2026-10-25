@@ -51,3 +51,10 @@ Brouillon : `pilotes/espece-zamia-lindleyi-fr.html` (blocs Gutenberg contrôlés
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26517, https://succulentes.net/cycadales/zamia/lindleyi/ (200, sans redirection ; aucune redirection ancienne trouvée). Sans translation_of (aucune traduction). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 3963 ; liens croisés posés vers les fiches Zamia FR publiées (vérifiées 200).
+
+## Retouche du 25/10/2026 (lot ZAM10, création EN 32174)
+
+- 29 remplacements (simulation puis application, nombre attendu vérifié ; brouillon aligné ; texte en ligne identique au brouillon, 200, aucun commentaire visible).
+- Retirés : « extraits de recherche » (bibliographie Calonje 2012) et « Selon les extraits disponibles de Calonje et al. (2012) » ; « inaccessible à notre robot », « Nous ne donnons donc aucune mensuration », « Aucun retour de culture n'a été trouvé sur les forums… », « dans les sources consultées », « la nature des menaces n'est pas connue ici », « Le détail de leurs arguments n'a pas pu être consulté » ; paragraphe de culture déduit du milieu.
+- Corrigé : Vannini daté 2019 (et non 2024) ; « réhabilitée en 2012 » au lieu de « reconnue … encore présente dans la nature ».
+- Ajoutés : protologue Dietrich 1851 (copie The Cycad Society, lue : tronc 6-7 pieds, 13-15 paires de folioles, cône ; 5 000-7 000 pieds avec *skinneri* ; graines et troncs), *Flora de Colombia* (population du Chiriquí 600-1 200 m sous *chigua*), WCVP via GBIF (« Warsz. ex A.Dietr. », accepté), Lavaud 2023 (groupe des forêts de nuages), Trebrown 9b, BGCI et Montgomery (aucun), Lindstrom 2024, Taylor et al. 2008 ; Calonje et al. 2012 complété (pp. 419-437, actes de Cycad 2008) ; Repères internationaux remplis ; lien vers *skinneri* FR (200).

@@ -27,3 +27,10 @@
 
 ## Points douteux
 - Port et dimensions non documentés dans les sources consultées ; habitat (forêt de nuages) d'après un collectionneur, présenté comme tel.
+
+## Retouche du 25/10/2026 (lot ZAM10, création EN 32174)
+
+- 30 remplacements (simulation puis application, nombre attendu vérifié ; brouillon aligné ; texte en ligne identique au brouillon, 200, aucun commentaire visible).
+- Retirés : « da estratti », « Secondo gli estratti disponibili », « non accessibile al nostro programma », « Non diamo quindi alcuna misura », « Nessun riscontro di coltivazione è stato trovato sui forum… », « nelle fonti consultate », « secondo le fonti consultate », « non è nota qui », « non è riportata qui », « Il dettaglio dei loro argomenti… » ; paragraphe de culture déduit du milieu.
+- Corrigé : Vannini daté 2019 (et non 2024).
+- Ajoutés : mêmes ajouts que la FR (protologue Dietrich 1851, *Flora de Colombia*, WCVP, Lavaud, Trebrown, BGCI/Montgomery, Taylor et al. 2008, Stevenson 2001) ; Riferimenti internazionali remplis ; lien vers *skinneri* IT (200).
