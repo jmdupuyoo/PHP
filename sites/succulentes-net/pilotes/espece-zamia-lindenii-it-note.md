@@ -31,3 +31,5 @@
 
 ## Retouche du 25/10/2026 (lot ZAM10, création EN 32164)
 - Simulation puis application (FR 8 / IT 9) : notes de travail visibles retirées (robot, « ne sont pas reprises ici », « aucune autre source consultée », « fonti consultate ») ; description de Jungle Music ajoutée et attribuée (pépinière), divergence d'habitat exposée (« au-dessus de 900 m » contre forêts sèches côtières) ; Lavaud 2023 (groupe des écosystèmes à saison sèche, serre hors gel dans le sud de la France) ; BGCI (17 jardins, dont Copenhague), Montgomery (2 numéros), Trebrown 9b ; cinq sources ajoutées. Brouillon aligné.
+
+- Retouche 25/10/2026 (avant ZAM12, 3 remplacements, simulation puis application) : Dodson 1998 (protologue de *gentryi*, archive.org biostor-63944, relu) — cônes « powerfully fragrant » de *lindenii* visités par des coléoptères à Río Palenque (plantes spontanées sur le site) ; paragraphe ajouté après le témoignage de terrain (lien vers *gentryi* de la même langue), ligne de source et entrée bibliographique ajoutées. Coléoptères non identifiés.

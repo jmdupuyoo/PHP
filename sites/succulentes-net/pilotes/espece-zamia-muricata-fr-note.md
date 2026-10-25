@@ -50,3 +50,6 @@ Fiche : `pilotes/espece-zamia-muricata-fr.html` (blocs Gutenberg contrôlés par
 - Article de 2006 sur la culture en Floride centrale : à fournir si disponible.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches FR publiées et vérifiées (200, sans redirection), à la première occurrence hors introduction.
+
+## Nettoyage du 25/10/2026 (lot ZAM12, simulation puis application, 4 remplacements)
+- Phrase « article de 2006… n'a pas pu être consulté, son contenu n'est pas connu ici. Aucun autre relevé… n'a été trouvé » remplacée par le retour de Jungle Music (environ 0 °C, peut-être un peu moins, lumière filtrée, touffes ; expérience d'un seul cultivateur) et ligne de source Jungle Music ajoutée ; « n'a été trouvée » (toxicité) → « publiée » ; annotation Willdenow « BHL inaccessible » → « cité d'après WLoC et Calonje et al. 2022 ». Brouillon aligné. Fiche EN : 32258.

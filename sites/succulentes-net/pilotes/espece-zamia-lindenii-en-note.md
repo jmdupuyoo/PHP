@@ -21,3 +21,5 @@
 
 ## FR/IT corrigées au passage (25/10/2026, simulation puis application)
 - FR 26510 (8) et IT 28120 (9) : notes de travail retirées (« inaccessible à notre robot », « ne sont pas reprises ici » → description Jungle Music attribuée, « aucune autre source consultée ne le confirme » → BGCI Copenhague, « secondo le fonti consultate ») ; divergence d'habitat exposée ; Lavaud 2023 ajouté (En France / In Italia e nel sud della Francia) ; Repères internationaux / Riferimenti internazionali remplis (Jungle Music, Trebrown 9b, BGCI, Montgomery) ; cinq sources ajoutées.
+
+- Retouche 25/10/2026 (avant ZAM12, 3 remplacements, simulation puis application) : Dodson 1998 (protologue de *gentryi*, archive.org biostor-63944, relu) — cônes « powerfully fragrant » de *lindenii* visités par des coléoptères à Río Palenque (plantes spontanées sur le site) ; paragraphe ajouté après le témoignage de terrain (lien vers *gentryi* de la même langue), ligne de source et entrée bibliographique ajoutées. Coléoptères non identifiés.

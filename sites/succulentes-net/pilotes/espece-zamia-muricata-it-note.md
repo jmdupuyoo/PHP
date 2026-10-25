@@ -24,3 +24,6 @@
 - Vérifié avant création : aucune page IT de l'espèce ni de ses synonymes (API REST, recherche par épithète et synonymes, enfants de 11879) ; aucune redirection visant l'URL (list_redirects).
 - Liens externes contrôlés le 11/10/2026 (200), sauf EUR-Lex (202, page de contrôle anti-robot) et, selon la fiche, Authorea (403) ou data.gouv (délai dépassé).
 - Rien commité.
+
+## Pulizia del 25/10/2026 (lotto ZAM12, simulazione poi applicazione, 7 sostituzioni)
+- Come in FR (Jungle Music, tossicità, Willdenow) ; tolte anche la ricerca senza risultato su Tropicamente (Annona muricata), « che abbiamo potuto consultare », « forum italiani consultati ». Bozza allineata. Scheda EN : 32258.

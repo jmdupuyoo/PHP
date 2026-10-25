@@ -24,3 +24,6 @@
 - Vérifié avant création : aucune page IT de l'espèce ni de ses synonymes (API REST, recherche par épithète et synonymes, enfants de 11879) ; aucune redirection visant l'URL (list_redirects).
 - Liens externes contrôlés le 11/10/2026 (200), sauf EUR-Lex (202, page de contrôle anti-robot) et, selon la fiche, Authorea (403) ou data.gouv (délai dépassé).
 - Rien commité.
+
+## Correzione del 25/10/2026 (lotto ZAM12, simulazione poi applicazione, 9 sostituzioni)
+- Come in FR : Perù (Loreto, Calonje et al. 2026, due raccolte 2011 e 2014 ; Huánuco e San Martín senza dati pubblicati), divergenza di habitat (terraferma), note di lavoro tolte (« fonti consultate », « non è stato trovato » ×2, « che abbiamo potuto consultare », « forum italiani consultati ») ; bozza allineata. Scheda EN : 32251.

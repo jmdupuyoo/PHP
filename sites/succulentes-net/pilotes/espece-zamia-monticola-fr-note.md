@@ -12,3 +12,6 @@
 - SEO Rank Math : titre « Zamia monticola : la cycadale mystérieuse de Chamberlain » (56 car.) ; meta 143 car. ; mot-clé `zamia monticola` (champs vides auparavant).
 - Vérifications : URL 200 ; aucun commentaire de bloc visible ; 98 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-zamia-monticola-fr.html`, même séquence de liens (verify.py) ; environ 3 000 mots.
 - Points douteux : rattachement au Guatemala fondé sur des plantes « mal connues » (Calonje 2009) ; menaces actuelles inconnues (Liste rouge inaccessible) ; révision Nicolalde-Morejón et al. 2009 non consultée (payante).
+
+## Nettoyage du 25/10/2026 (lot ZAM12, simulation puis application, 8 remplacements)
+- Notes de travail retirées (« ne figurent dans aucune des sources consultées… ne sont pas reprises ici », « n'a pas pu être consultée » (révision 2009), « les sources consultées » ×3, « aucune offre commerciale n'a été trouvée », « n'a été trouvé(e) » ×2) ; remplacées par des données lues : Vannini 2019 (plantes guatémaltèques : port, habitat, culture au Guatemala), étiquettes GBIF (Alta Verapaz 2001 vers 475 m, karst calcaire, forêt semi-sempervirente ; 2012, 339-844 m), Nong Nooch (pieds mâle et femelle, 2004) ; lignes Vannini et GBIF ajoutées aux Sites de référence ; brouillon aligné. Fiche EN : 32244.

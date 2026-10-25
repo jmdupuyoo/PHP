@@ -43,3 +43,6 @@ Fiche : `pilotes/espece-zamia-multidentata-fr.html` (blocs Gutenberg contrôlés
 - Species+ ne nomme pas l'espèce (couverte par l'inscription du genre).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches FR publiées et vérifiées (200, sans redirection), à la première occurrence hors introduction.
+
+## Correction du 25/10/2026 (lot ZAM12, simulation puis application, 7 remplacements)
+- Pérou : la phrase « les données qui fondent cette extension n'ont pas été publiées dans les sources consultées » était inexacte : Calonje et al. 2026 (*Zamia urarinorum*, relu) signalent l'espèce au Loreto d'après deux récoltes (Fernández 3610, 2011, 180 m, Alto Amazonas ; Ríos et al. 4362, 2014, 90-110 m, Requena) ; Huánuco et San Martín restent sans donnée publiée. Encadré, Dans la nature, FAQ et ligne de source mis à jour. Habitat : divergence ajoutée (protologue : plaine alluviale du rio Moa ; Calonje et al. 2026 : forêts de terre ferme bien drainées). Notes de travail retirées (« n'a été trouvé(e) » ×2). Brouillon aligné. Fiche EN : 32251.

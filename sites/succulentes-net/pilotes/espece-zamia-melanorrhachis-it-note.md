@@ -24,3 +24,6 @@
 - Vérifié avant création : aucune page IT de l'espèce ni de ses synonymes (API REST, recherche par épithète et synonymes, enfants de 11879) ; aucune redirection visant l'URL (list_redirects).
 - Liens externes contrôlés le 11/10/2026 (200), sauf EUR-Lex (202, page de contrôle anti-robot) et, selon la fiche, Authorea (403) ou data.gouv (délai dépassé).
 - Rien commité.
+
+## Nettoyage du 25/10/2026 (lot ZAM12, simulation puis application)
+- 6 remplacements : notes de travail retirées (« nelle fonti consultate » ×2, « non è stato trovato » ×2, « che abbiamo potuto consultare », « forum italiani consultati ») ; brouillon aligné. Fiche EN creata: 32233.

@@ -22,3 +22,6 @@
 - Sortants (11, tous 200) : genre IT, acuminata, cunaria, ipetiensis, dressleri, pseudoparasitica, furfuracea, article orti botanici ; « Leggi anche » : semina, cycas velenosa, Aulacaspis.
 - Index de la page genre IT 11879 : nom lié (simulation 1/1, application 1/1) ; statut déjà « (EN, 2022) » ; brouillon `genre-zamia-it.html` aligné, verify.py OK.
 - Entrant : acuminata IT 28004 (1/1, liste « Possibili confusioni », première occurrence hors intro et encadré) ; brouillon aligné, verify.py OK. Recherche REST lang=it « Zamia nana » : aucune autre fiche IT concernée.
+
+## Pulizia del 25/10/2026 (lotto ZAM12, simulazione poi applicazione, 12 sostituzioni)
+- Come in FR (note di lavoro, ipotesi non fondata, Jardin zoologique tropical senza osservazioni, Lindstrom 2024, formula dei glicosidi) ; tolto anche « che abbiamo potuto consultare ». Bozza allineata. Scheda EN : 32271.

@@ -46,3 +46,6 @@ Fiche : `pilotes/espece-zamia-melanorrhachis-fr.html` (blocs Gutenberg contrôl�
 - Folioles « papyracées » (protologue) ; clé de 2021 : « planes, courbées vers l'avant, à pli saillant ».
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches FR publiées et vérifiées (200, sans redirection), à la première occurrence hors introduction.
+
+## Nettoyage du 25/10/2026 (lot ZAM12, simulation puis application)
+- 4 remplacements : notes de travail retirées (« dans les sources consultées » ×2, « n'a été trouvé(e) » ×2) ; brouillon aligné. Fiche EN créée : 32233.

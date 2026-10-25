@@ -34,3 +34,6 @@
 - Rien commité.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Pulizia del 25/10/2026 (lotto ZAM12, simulazione poi applicazione, 8 sostituzioni)
+- Note di lavoro tolte (« non è stato possibile consultarla », « le fonti consultate » ×3, « nessuna fonte recente consultata… nessuna offerta commerciale », « non è stato trovato » ×2) e sostituite con dati letti (Vannini 2019, etichette GBIF, Nong Nooch), come in FR ; righe Vannini e GBIF aggiunte ; bozza allineata. Scheda EN : 32244.

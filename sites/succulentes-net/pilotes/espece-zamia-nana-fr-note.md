@@ -30,3 +30,7 @@
 - Sortants (10, tous 200) : genre, acuminata, cunaria, ipetiensis, dressleri, pseudoparasitica, furfuracea ; « À lire aussi » : semis, cycas toxique, *Aulacaspis yasumatsui*.
 - Index de la page genre 3963 : nom lié (1/1), statut « (EN), évaluation de 2022 » conforme ; brouillon aligné ; verify.py OK.
 - Entrant posé : acuminata FR 26470 (1/1, dans la liste « Confusions possibles », première occurrence hors introduction et encadré) ; brouillon aligné, verify.py OK. Recherche REST « Zamia nana » : aucune autre fiche FR concernée.
+
+## Nettoyage du 25/10/2026 (lot ZAM12, simulation puis application, 11 remplacements)
+- Notes de travail retirées : « dans les sources consultées » ×2, « aucune étude consultée », « aucune source consultée », « n'a été trouvé(e) » ×3, hypothèse non sourcée (« il tient peut-être à des échantillons différents »), mention du Jardin zoologique tropical sans observation. Position phylogénétique : Lindstrom et al. 2024 (échantillon de Coclé cultivé à Nong Nooch, position non commentée) ajouté, avec l'entrée bibliographique. Annotation Gymnosperm Database reformulée (« glycosides toxiques (cycasine, macrozamine), dont dérive le méthylazoxyméthanol »). Brouillon aligné. Fiche EN : 32271.
+- Non repris en FR (facultatif) : homonyme invalide *Zamia nana* hort. ex Miq. (1844, IPNI, nom. inval.), donné en EN.
