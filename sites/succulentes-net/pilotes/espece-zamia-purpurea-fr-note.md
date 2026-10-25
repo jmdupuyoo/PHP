@@ -15,3 +15,7 @@
 - Points douteux : Liste rouge UICN et POWO non consultés (Cloudflare) ; Species+ repris de la fiche IT (11/10) ; protologue latin et espagnol divergents sur la longueur des feuilles et la taille des cônes mâles.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 4 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du 25/10/2026 (lot ZAM15)
+
+- Notes de travail visibles retirées et source du forum Fous de palmiers remplacée par le message p=319650 (23/02/2014) ; Taxonomie alignée sur la lecture exacte de Lindstrom et al. 2024 (sœur du reste du sous-clade III-A ; petit groupe avec *oreillyi*, *standleyi*, *sandovalii* dans les arbres par concaténation ; plus de conclusion propre sur le « clade purpurea ») ; Hybrides corrigés (hybrides artificiels *purpurea* « Smooth » × *splendens* et *spartea* × *purpurea* proposés par Cycadales.eu, fiches produits lues le 25/10) avec ligne de source. Simulation puis application (FR 7 + 2, IT 10 + 2) ; brouillon aligné. Page EN créée : 32534.

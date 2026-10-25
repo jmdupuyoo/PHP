@@ -13,3 +13,7 @@
 - Vérifications : URL 200 ; aucun commentaire de bloc visible ; 129 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-zamia-pygmaea-fr.html` (hors sommaire automatique), même séquence de liens ; liens internes en 200.
 - Points douteux : feuilles « ± 80 cm » et pétiole 20-80 cm dans la flore de Cuba, contre 25 cm au plus ailleurs (écart non expliqué, signalé) ; cônes femelles « ovoïdes » dans la clé mais « cylindriques » dans la description de la flore (non repris) ; statut de *Zamia ottonis* ; Fous de palmiers : seulement des échanges de graines (2013), aucun retour de culture.
 - Pour la fiche IT 28257 (non modifiée) : la flore de Cuba (texte intégral en ligne) confirme l'origine cubaine du type, Salisbury, les types des synonymes, donne description, habitat (sables quartzeux) et usage comme mort-aux-rats, et traite *ottonis* comme espèce ; Lindstrom 2024 (texte intégral, et non le seul commentaire) soutient *ottonis* comme espèce valide et *kickxii* comme sœur de *pygmaea*.
+
+## Retouche du 25/10/2026 (lot ZAM15)
+
+- Notes de travail visibles retirées (replace_in_content, simulation puis application : FR 4, IT 6) ; date de Lavaud 2023 harmonisée lors de la retouche 0 ; brouillon aligné. Page EN créée : 32548.

@@ -43,3 +43,7 @@
 
 ## Retouche du 25/10/2026 (avant ZAM14)
 - Titre de Lavaud 2023 corrigé en bibliographie : « Comment cultiver les *Zamia* en climat tempéré. Cycadales.eu. » (1 remplacement).
+
+## Retouche du 25/10/2026 (lot ZAM15)
+
+- Notes de travail visibles retirées et source du forum Fous de palmiers remplacée par le message p=319650 (23/02/2014) ; Taxonomie alignée sur la lecture exacte de Lindstrom et al. 2024 (sœur du reste du sous-clade III-A ; petit groupe avec *oreillyi*, *standleyi*, *sandovalii* dans les arbres par concaténation ; plus de conclusion propre sur le « clade purpurea ») ; Hybrides corrigés (hybrides artificiels *purpurea* « Smooth » × *splendens* et *spartea* × *purpurea* proposés par Cycadales.eu, fiches produits lues le 25/10) avec ligne de source. Simulation puis application (FR 7 + 2, IT 10 + 2) ; brouillon aligné. Page EN créée : 32534.

@@ -35,3 +35,7 @@
 ## Punti dubbi
 
 - Quota e ambiente (50-1 000 m ; ~1 100 m ; 700-1 200 m), alberi ospiti (Jones vs Lavaud), seconda epifita dell'Ecuador (Jones 1993, mai confermata), categoria IUCN 2010 non ricontrollata ; POWO e Lista Rossa IUCN non consultati (Cloudflare).
+
+## Retouche du 25/10/2026 (avant ZAM15)
+
+- Tournures de travail « sources consulted / sources consultées / fonti consultate » (et apparentées) reformulées ou supprimées sans changer les faits (replace_in_content, simulation puis application, nombre attendu vérifié) ; date de Lavaud 2023 harmonisée (6 janvier 2023, mis à jour le 27 mai 2023) dans la ligne de source ; brouillon aligné, texte en ligne identique.

@@ -44,3 +44,7 @@
 - SEO Rank Math : titre « Dioon nuusaviorum, nouvelle cycadale du Guerrero (2026) » (55 car.), meta « Dioon nuusaviorum, cycadale décrite en 2026 des forêts de pins du Guerrero (Mexique) : description, différences avec Dioon holmgrenii, statut et culture. » (153 car.), mot-clé « dioon nuusaviorum ».
 - https://succulentes.net/cycadales/dioon/nuusaviorum/ : 200 sans redirection ; texte rendu comparé au brouillon phrase par phrase (168/168 présentes).
 - Pages qui lient vers cette fiche (lien inchangé, toujours valide) : 3794 (genre Dioon), 26152 (Dioon stevensonii), 26476 (Ceratozamia rosea).
+
+## Retouche du 25/10/2026 (avant ZAM15, page EN 22253)
+
+- EN 22253 (/en/cycads/dioon/nuusaviorum/) : « <em>Zamia paucijuga</em> Wieland » (déjà en italique dans le texte en ligne) lié à la page EN 32364 (simulation puis application, 1 remplacement). Aucun brouillon EN local pour cette page.

@@ -29,3 +29,7 @@
 
 ## Liens croisés (12/10/2026, fin de lot)
 - Lien ajouté vers *Zamia restrepoi* (phrase CITES) : première occurrence hors intro/encadré/titres/fonti, replace_in_content ciblé (dry run puis application), brouillon aligné, live = brouillon vérifié.
+
+## Retouche du 25/10/2026 (lot ZAM15)
+
+- Notes de travail visibles retirées (« n'a été trouvé(e) / non è stato trovato » ×2 ; simulation puis application, 2 remplacements) ; brouillon aligné. Page EN créée : 32559 (y figurent en plus Lindstrom et al. 2024 et le classement de Lavaud 2023, groupe 4).

@@ -50,3 +50,7 @@ Fichier : `pilotes/espece-zamia-restrepoi-fr.html` (blocs Gutenberg contrôlés 
 - Longueur (≈ 3 100 mots avant les références) au-dessus de la fourchette 1 200-2 000 : espèce bien documentée (consigne : expliquer *Chigua*).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : 1re occurrence des *Zamia* ayant une fiche FR publiée (200 sans redirection), y compris les fiches de ce lot.
+
+## Retouche du 25/10/2026 (lot ZAM15)
+
+- Notes de travail visibles retirées (simulation puis application, 5 remplacements) ; brouillon aligné. Page EN créée : 32569 (y figurent en plus Lindstrom et al. 2024, Lavaud 2023 et les collections BGCI/Montgomery).

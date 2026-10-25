@@ -49,3 +49,7 @@
 ## À signaler pour l'IT
 
 - L'IT 14493 reprend toutes les affirmations retirées ci-dessus (racine de 15 m, forêts nebulari 100 %, 24 ind./ha, fourmis, *Notorhopalotria*, Giurassico, pourcentages du substrat, USDA 10b-11, Rare Palm Seeds 40-50 €, Fairchild/Montgomery, tableau). Réécriture complète conseillée. Observation JZT transposable à l'Italie ; Tropicamente : un seul message (2023), sans culture ; aucun jardin botanique italien documenté.
+
+## Retouche du 25/10/2026 (avant ZAM15)
+
+- Tournures de travail « sources consulted / sources consultées / fonti consultate » (et apparentées) reformulées ou supprimées sans changer les faits (replace_in_content, simulation puis application, nombre attendu vérifié) ; date de Lavaud 2023 harmonisée (6 janvier 2023, mis à jour le 27 mai 2023) dans la ligne de source ; brouillon aligné, texte en ligne identique.

@@ -52,3 +52,7 @@ Fiche : `pilotes/espece-zamia-pyrophylla-fr.html` (blocs Gutenberg contrôlés p
 - Italiques ajoutés aux noms d'espèces de la FAQ.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : posés seulement vers des fiches FR publiées et vérifiées (200, sans redirection), à la première occurrence hors introduction.
+
+## Retouche du 25/10/2026 (lot ZAM15)
+
+- Notes de travail visibles retirées (« n'a été trouvé(e) / non è stato trovato » ×2 ; simulation puis application, 2 remplacements) ; brouillon aligné. Page EN créée : 32559 (y figurent en plus Lindstrom et al. 2024 et le classement de Lavaud 2023, groupe 4).

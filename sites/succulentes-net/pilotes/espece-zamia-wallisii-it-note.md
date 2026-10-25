@@ -54,3 +54,7 @@
 - Points douteux inchangés : priorité Braun / Veitch ; supersession du néotype (Lindström 2009 non lu) ; altitude et effectifs inconnus ; Liste rouge et POWO non consultés.
 
 - Retouche 24/10/2026 (0c avant ZAM05) : note de travail visible retirée du texte en ligne (renvoi à la fiche d’une autre langue ou d’une autre espèce comme origine de la consultation : « for the French page », « lors de la rédaction de la fiche italienne », « repris de la fiche … », etc.) ; replace_in_content, simulation puis application ; brouillon aligné.
+
+## Retouche du 25/10/2026 (avant ZAM15)
+
+- Tournures de travail « sources consulted / sources consultées / fonti consultate » (et apparentées) reformulées ou supprimées sans changer les faits (replace_in_content, simulation puis application, nombre attendu vérifié) ; date de Lavaud 2023 harmonisée (6 janvier 2023, mis à jour le 27 mai 2023) dans la ligne de source ; brouillon aligné, texte en ligne identique.

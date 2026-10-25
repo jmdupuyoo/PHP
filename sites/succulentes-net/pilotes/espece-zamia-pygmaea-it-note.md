@@ -52,3 +52,7 @@
 - Contrôles (verify.py) : URL 200, aucun commentaire de bloc visible, 139 blocs appariés, texte rendu identique au brouillon `espece-zamia-pygmaea-it.html`, même séquence de liens, hreflang fr/it ; ≈ 4 230 mots.
 - SEO Rank Math inchangé (exact). Index de la page genre IT 11879 : ligne conforme (EN 2022, 25 cm), non modifiée.
 - Points douteux : écart de taille Sims/Gutiérrez-Ortega (≤ 25 cm) vs flore de Cuba (feuilles ± 80 cm) ; plante de Naples (Delpinoa 2019) non vérifiée et d'identité au sens strict inconnue.
+
+## Retouche du 25/10/2026 (lot ZAM15)
+
+- Notes de travail visibles retirées (replace_in_content, simulation puis application : FR 4, IT 6) ; date de Lavaud 2023 harmonisée lors de la retouche 0 ; brouillon aligné. Page EN créée : 32548.

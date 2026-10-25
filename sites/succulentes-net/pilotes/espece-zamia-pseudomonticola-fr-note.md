@@ -39,3 +39,7 @@
 ## Retouche du 18/10/2026 (lot NI2)
 
 - La section « Maladies et ravageurs » renvoie à « l'article lié plus bas » pour *Aulacaspis yasumatsui*, absent de « À lire aussi » : ajout de « Aulacaspis yasumatsui : la cochenille tueuse de cycas » (https://succulentes.net/aulacaspis-yasumatsui/, 200, même libellé que dans les FR elegantissima, nana, obliqua) en dernière position (replace_in_content ids=[29463], simulation 1/1 puis application 1/1). La section compte désormais 4 liens (règle « 1 à 3 » dépassée ; à trancher). Brouillon aligné ; verify.py : texte identique, 12 liens même séquence, blocs 135/135, hreflang fr/it.
+
+## Retouche du 25/10/2026 (lot ZAM15)
+
+- Notes de travail visibles retirées (replace_in_content, simulation puis application : FR 5, IT 6) ; date de Lavaud 2023 harmonisée (« 6 janvier 2023, mis à jour le 27 mai 2023 ») lors de la retouche 0 ; brouillon aligné. Page EN créée : 32523.

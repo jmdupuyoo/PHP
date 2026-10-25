@@ -23,3 +23,7 @@
 - Priorité Braun / Veitch ; néotype (1986) supplanté par un lectotype (Lindström 2009 non lu) ; altitude, habitat et effectifs inconnus ; contradiction de la Flora sur la récolte Kalbreyer ; Calonje 2019, Stevenson 1993, Veitch 1875 non consultés ; POWO et Liste rouge non consultés.
 - FR/IT à reprendre (hors lot) : la FR 21734 cite dans « Sites de référence » la recherche Fous de palmiers « wallisii » (un message sans donnée de culture) et le dit dans la Rusticité (« recherche … 13 octobre 2026 ») → règle 3 et note de travail visible ; mentions « lue pour la fiche italienne » dans les Sites de référence et la Bibliographie (notes de travail visibles), à neutraliser. Même formule « lue pour la fiche italienne » dans la FR *vazquezii* 21709 (Sibilio 2019).
 - Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia dressleri* EN 31990, sur la première mention sourcée ; simulation puis application (1) ; brouillon aligné.
+
+## Retouche du 25/10/2026 (avant ZAM15)
+
+- Tournures de travail « sources consulted / sources consultées / fonti consultate » (et apparentées) reformulées ou supprimées sans changer les faits (replace_in_content, simulation puis application, nombre attendu vérifié) ; date de Lavaud 2023 harmonisée (6 janvier 2023, mis à jour le 27 mai 2023) dans la ligne de source ; brouillon aligné, texte en ligne identique.

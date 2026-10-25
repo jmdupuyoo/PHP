@@ -22,3 +22,7 @@
 - Sortants (12, tous 200) : genre IT, fairchildiana, acuminata, gomeziana, elegantissima (IT 29497), stevensonii, monticola, furfuracea, article orti botanici ; « Leggi anche » : semina, coni, cycas velenosa.
 - Index de la page genre IT 11879 : nom lié (simulation 1/1, application 1/1) ; statut déjà « (LC, 2022) » ; brouillon `genre-zamia-it.html` aligné, verify.py OK.
 - Entrants (simulation 5/5 puis application 5/5, première occurrence hors intro/encadré/titres/fonti) : stevensonii 28247 (description des folioles), monticola 28103 (paragraphe « Il nome ha poi ispirato… », avant l'intertitre FAQ), gomeziana 28064 (liste « Possibili confusioni »), fairchildiana 28035 (Ibridi ; l'occurrence de l'encadré n'est pas liée), elegantissima 29497 (liste « Possibili confusioni ») ; brouillons alignés, verify.py OK.
+
+## Retouche du 25/10/2026 (lot ZAM15)
+
+- Notes de travail visibles retirées (replace_in_content, simulation puis application : FR 5, IT 6) ; date de Lavaud 2023 harmonisée (« 6 janvier 2023, mis à jour le 27 mai 2023 ») lors de la retouche 0 ; brouillon aligné. Page EN créée : 32523.
