@@ -44,3 +44,4 @@ Brouillon : `pilotes/espece-ceratozamia-latifolia-fr.html` (blocs Gutenberg cont
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26422, https://succulentes.net/cycadales/ceratozamia/latifolia/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.
+- Retouche 25/10/2026 (avant ZAM06, retouche 0f ; simulation puis application, 3 remplacements) : note « message … non retenu » (Ceratozamia d'espèce non précisée en Gironde, 2014-2015) retirée de la Rusticité, avec l'URL #p374850 et la mention correspondante de la ligne Fous de palmiers des Sites de référence. Brouillon aligné, texte en ligne contrôlé.

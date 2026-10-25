@@ -21,3 +21,4 @@
 ## Points douteux
 - Écart entre la recommandation EN (2015) et le classement CR (2022), critères non lus ; Species+ maintient la synonymie avec *montana* ; POWO non consulté.
 - FR/IT : rien à reprendre (ajout possible : déclaration BGCI de Bogotá).
+- Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia cunaria* EN 31979, sur la comparaison du protologue (Confusions possibles) ; simulation puis application (1) ; brouillon aligné.

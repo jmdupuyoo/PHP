@@ -26,3 +26,4 @@
 
 ## Retouche du 24/10/2026 (0a avant ZAM04)
 - Phrase visible sur PalmTalk / Dave’s Garden « could not be consulted » (ou variante) retirée du texte (le site ne commente pas ses limites de recherche) : replace_in_content, simulation puis application, 1 remplacement(s) ; brouillon aligné.
+- Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia decumbens* EN 31983, sur la phrase Griffith et al. 2017 (collections ex situ) ; simulation puis application (1) ; brouillon aligné.

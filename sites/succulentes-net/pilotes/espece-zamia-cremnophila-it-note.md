@@ -26,3 +26,4 @@
 - POWO, UICN et BHL non consultés (Cloudflare) ; statuts UICN repris de WLoC.
 
 - Retouche 24/10/2026 (lot ZAM05) : recherche Tropicamente sans résultat retirée (« In Italia » et Fonti) ; « né sui forum consultati » neutralisé (3 remplacements, simulation puis application) ; brouillon aligné.
+- Retouche 25/10/2026 (avant ZAM06, retouche 0d ; simulation puis application, 2 remplacements) : « clade Purpurea » cité d'après Calonje et al. 2019 (non consulté) remplacé par Lindstrom et al. 2024 (texte intégral, copie locale) : rappel du clade « purpurea » de Calonje 2019 (*purpurea*, *splendens*, *katzeriana*, *lacandona*, *cremnophila*, *grijalvensis*) et nuance (*purpurea* plus distinct, plus proche de *meermanii*) ; « groupe d'espèces mexicaines » retiré ; annotation de Calonje 2019 → « non consulté, cité d'après Lindstrom 2024 » ; Lindstrom 2024 ajouté en bibliographie. Brouillon aligné, texte en ligne contrôlé.

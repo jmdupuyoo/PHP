@@ -22,3 +22,4 @@
 
 ## Points douteux (repris de la FR)
 - Liste rouge non consultée (accès bloqué) : catégorie EN via WLoC, année via Crossref ; protologue de *C. swamyi* non lu.
+- Retouche 25/10/2026 (avant ZAM06, retouche 0e) : lien vers *Cycas revoluta* (IT, 200) reposé sur la phrase sourcée de la Toxicità (ASPCA) après la disparition, lors du nettoyage du 24/10, de la phrase Tropicamente qui portait les liens vers *revoluta* et *rumphii* (simulation puis application, 1 remplacement ; brouillon aligné). *rumphii* n'est plus cité dans la page : aucun lien possible sans ajout de contenu ; la fiche IT *rumphii* reste liée depuis la page genre IT et d'autres fiches.

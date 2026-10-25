@@ -13,3 +13,4 @@
 - Points douteux : présence ancienne en collections européennes (déduite des noms de 1876, dite comme telle) ; protologue (BHL), POWO et Liste rouge non consultés.
 
 - Retouche 24/10/2026 (lot ZAM05) : « le forum italien Tropicamente ne la cite pas » retiré (Rusticité, 1 remplacement, simulation puis application) ; brouillon aligné.
+- Retouche 25/10/2026 (avant ZAM06, retouche 0c ; simulation puis application, 1 remplacement) : ligne Wikipédia des Sites de référence retirée (aucun fait n'en dépendait). Stevenson 2004 reste en bibliographie (non consultée, non citée dans le texte). Brouillon aligné, texte en ligne contrôlé.

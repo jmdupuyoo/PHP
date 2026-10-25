@@ -26,3 +26,4 @@
 - POWO, UICN et BHL non consultés (Cloudflare) ; statuts UICN repris de WLoC.
 
 - Retouche 24/10/2026 (lot ZAM05) : recherche Tropicamente sans résultat utile retirée (« In Italia » et Fonti, 2 remplacements, simulation puis application) ; brouillon aligné.
+- Retouche 25/10/2026 (avant ZAM06, retouche 0c ; simulation puis application, 1 remplacement) : ligne Wikipédia des Sites de référence retirée (aucun fait n'en dépendait). Stevenson 2004 reste en bibliographie (non consultée, non citée dans le texte). Brouillon aligné, texte en ligne contrôlé.
