@@ -22,3 +22,6 @@
 ## Points douteux
 - Identique à la FR (protologue non lu, « peut-être éteint » non vérifié sur l'UICN).
 - POWO et UICN non lus (Cloudflare), comme en FR.
+
+## Ritocco del 25/10/2026 (lotto EN ENC03)
+- PlantZAfrica ora letta (L. Zondi & B. Ndlovu, dicembre 2023). Dati « da estratto » confermati; aggiunti coni femminili, semi gialli, fusto decombente e polloni, brattee, foglioline, picciolo con collare bruno-rosso; effettivi 1993-2019 secondo la IUCN 2022 (158 → 151 → 139 → 4; declino ≥ 98 %; rapporto sessi 4:1) al posto della frase « dati non verificati »; coltivazione, semina (6-8 settimane), polloni, parassiti; riquadro, FAQ e riga della fonte aggiornati; menzioni « estratto », « JSTOR », « sito bloccato » eliminate. 14 sostituzioni (simulazione poi applicazione); bozza allineata (0 differenze).

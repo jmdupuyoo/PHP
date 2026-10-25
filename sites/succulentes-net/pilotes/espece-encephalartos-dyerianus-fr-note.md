@@ -65,3 +65,6 @@
 3. Sources bloquées : POWO, UICN, PlantZAfrica, SANBI Red List, JSTOR ; rien de spécifique trouvé dans les sources thaïlandaises, japonaises ou chinoises.
 4. France : seul le Roussillon (littoral méditerranéen) ; aucune donnée ailleurs.
 5. Encadré : exposition et substrat en culture non documentés.
+
+## Retouche du 25/10/2026 (lot EN ENC03)
+- PlantZAfrica désormais lue (L. Zondi, N. Muthuhadini & C.N. Sitoe, septembre 2022) : description confirmée ; ajout des folioles, du pétiole et des graines ; habitat (600-700 m, ~500 mm de pluies d'été), ~600 plantes dans les années 1970, hypothèse des pollinisateurs (avec la position contraire du BMP-S 2017, Journal officiel n° 40793) ; culture (plein soleil à ombre légère, gel, sol drainant), méthode de semis (4-6 semaines) et de rejets ; mentions « par extrait », « site bloqué », « POWO non consulté (accès bloqué) » retirées ; encadré et ligne de source corrigés. Lien Species+ corrigé (taxon du genre 13006 → espèce 20915, noms anglais). 13 + 1 remplacements (simulation puis application) ; brouillon aligné (0 écart).

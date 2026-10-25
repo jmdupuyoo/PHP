@@ -57,3 +57,6 @@
 ## Publication (02/10/2026)
 - Page 26230 publiée : https://succulentes.net/cycadales/encephalartos/cupidus/ (200, sans redirection), parent 14229, traduction liée à 16744, SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 14229.
 - Liens internes ajoutés avant publication (pages FR publiées, 200) : Encephalartos dyerianus, Encephalartos horridus.
+
+## Retouche du 25/10/2026 (lot EN ENC03)
+- PlantZAfrica désormais lue (K.W. Sepheka, janvier 2015 ; https://pza.sanbi.org/encephalartos-cupidus) : toutes les données attribuées « par extrait » y figurent (folioles 10-16 mm à 3-4 dents, cônes, ~120 graines, résistance au gel, sol profond, plein soleil, sécheresse). « (extrait de PlantZAfrica) » → attribution à la fiche ; ajout du tronc d'environ 15 cm (divergence avec les 75 cm du protologue, désormais exposée), des 10-15 rejets, des feuilles de 0,5-1 m et du pollen de janvier à mars ; ligne de source corrigée (URL canonique, auteur, date, « consultée le 25 octobre 2026 »). 4 remplacements (simulation puis application) ; brouillon aligné (0 écart) ; plus aucune mention d'extrait.

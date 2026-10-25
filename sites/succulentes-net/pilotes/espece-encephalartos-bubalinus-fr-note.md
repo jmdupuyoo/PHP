@@ -68,3 +68,6 @@
 
 ## Retouche du 25/10/2026 (lot EN ENC02)
 - 4 remplacements : POWO « par un extrait de recherche » ; « caractères… non vérifiés… pour cette fiche » (*kisambo*) ; phrase des extraits (altitude 1 300-2 150 m, forêts sur grès) ; « ni dans les extraits de PalmTalk consultés ». Hauteur du tronc (137 cm) vérifiée sur l'image de Melville 1957 : exacte. Simulation (`replace_in_content`, dry_run) puis application, nombre attendu vérifié ; brouillon aligné sur le texte en ligne (comparaison REST : 0 écart).
+
+## Retouche du 25/10/2026 (retouche 0 avant ENC03)
+- FAQ « Que signifie le nom *bubalinus* ? » : phrase non sourcée « Elle n'a rien à voir avec le buffle » remplacée par l'attribution au protologue (Melville 1957, p. 253 : « The epithet bubalinus refers to the closely felted indumentum of the scale leaves and leaf bases which has the appearance of buff suede leather », texte relu). Simulation puis application (1) ; brouillon aligné.

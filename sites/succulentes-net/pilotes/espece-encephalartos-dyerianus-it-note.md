@@ -22,3 +22,6 @@
 ## Points douteux
 - Conditions de la plante de Ravenne (pot ou pleine terre) non précisées.
 - POWO et UICN non lus (Cloudflare), comme en FR.
+
+## Ritocco del 25/10/2026 (lotto EN ENC03)
+- PlantZAfrica ora letta (L. Zondi, N. Muthuhadini & C.N. Sitoe, settembre 2022): descrizione confermata; aggiunti foglioline, picciolo e semi; habitat (600-700 m, ~500 mm di piogge estive), ~600 piante negli anni Settanta, ipotesi sugli impollinatori (con la posizione contraria del BMP-S 2017); coltivazione, semina (4-6 settimane), polloni; menzioni « per estratto », « sito bloccato », « POWO non consultato » eliminate; riquadro e riga della fonte corretti. Link Species+ corretto (genere 13006 → specie 20915). 13 + 1 sostituzioni (simulazione poi applicazione); bozza allineata (0 differenze).

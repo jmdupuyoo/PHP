@@ -63,3 +63,6 @@
 - Page publiée : id 26209, https://succulentes.net/cycadales/encephalartos/dolomiticus/ (200), parent 14229, traduction EN liée, SEO appliqué.
 - Liens internes ajoutés avant publication (1re occurrence, pages FR publiées, 200 vérifié) : hirsutus, eugene-maraisii, nubimontanus, dyerianus, horridus.
 - Lien posé dans l'index des espèces de la page genre 14229.
+
+## Retouche du 25/10/2026 (lot EN ENC03)
+- PlantZAfrica désormais lue (L. Zondi & B. Ndlovu, décembre 2023 ; https://pza.sanbi.org/encephalartos-dolomiticus). Données « par extrait » confirmées ; ajouts : cônes mâles complétés et cônes femelles, graines jaunes (le doute de la note est levé), tronc couché avec l'âge et rejets fréquents, bractées, folioles, pétiole à collier brun-rouge ; effectifs 1993-2019 d'après l'UICN 2022 (158 → 151 → 139 → 4, déclin ≥ 98 %, sex-ratio 4:1) à la place de la phrase « données non vérifiées » ; culture (plein soleil à ombre légère, gel, sol drainant), méthode de semis (6-8 semaines) et de prélèvement des rejets, ravageurs ; encadré, FAQ et ligne de source mis à jour ; mentions « extrait », « JSTOR », « site bloqué » retirées. 14 remplacements (simulation puis application) ; brouillon aligné (0 écart).

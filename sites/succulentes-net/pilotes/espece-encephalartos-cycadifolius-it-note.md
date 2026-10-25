@@ -22,3 +22,6 @@
 ## Points douteux
 - Âge de la plante de Florence (opinion d'un forumeur) ; survie actuelle des plantes de Hanbury et de Naples inconnue.
 - POWO et UICN non lus (Cloudflare), comme en FR.
+
+## Ritocco del 25/10/2026 (lotto EN ENC03)
+- PlantZAfrica ora letta (P.M. Xaba, Kirstenbosch, aprile 2009). Dimensioni tratte da Wikipedia/compilazioni sostituite da quelle della scheda (fusto 1-1,5 m × ≤ 25 cm, foglie 0,6-1 m, picciolo giallo-arancio ritorto, coni gialli con peli grigi, maschili 15-20 × 5-8 cm, femminili 20-30 × 16-18 cm); riquadro aggiornato; nota su Henderson 1945 « biblioteca bloccata » e menzioni « estratto » eliminate; aggiunti trapianto rischioso e concimazione a Kirstenbosch, protocollo di impollinazione e semina, cocciniglie; riga della fonte corretta. 13 sostituzioni (simulazione poi applicazione); bozza allineata (0 differenze).

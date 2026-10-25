@@ -22,3 +22,6 @@
 ## Points douteux
 - Rapprochement Sclavo / *equatorialis* = déduction signalée comme telle.
 - POWO et UICN non lus (Cloudflare), comme en FR.
+
+## Ritocco del 25/10/2026 (lotto EN ENC03)
+- Nessuna menzione di estratti. Riquadro: « POWO non consultato (accesso bloccato) » eliminato; fonte Species+: link del genere (13006) sostituito da quello della specie (20030). 2 sostituzioni (simulazione poi applicazione); bozza allineata (0 differenze).

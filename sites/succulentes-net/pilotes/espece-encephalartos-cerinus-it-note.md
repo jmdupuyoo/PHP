@@ -25,3 +25,6 @@
 
 ## Retouche du 25/10/2026 (lot EN ENC02)
 - 4 remplacements, mêmes corrections qu'en FR (PlantZAfrica lu, attribution directe, source ajoutée). Simulation (`replace_in_content`, dry_run) puis application, nombre attendu vérifié ; brouillon aligné sur le texte en ligne (comparaison REST : 0 écart).
+
+## Ritocco del 25/10/2026 (ritocco 0 prima di ENC03)
+- Complementi dalla scheda PlantZAfrica (L. Zondi, 2019, riletta): paragrafo aggiunto in « Come riconoscere » (tronco unico, polloni rari, odore di cera, un cono alla volta, coni maschili 55-60 cm con polline da gennaio a marzo, femminili 30-38 cm disgregati da giugno a settembre, semi gialli poi rosso vivo, foglioline senza denti negli adulti ma dentate nei giovani — divergenza con il protologo esposta); areale di 10 km²; leggera mezz'ombra e crescita rapida; semina a 24-28 °C, germinazione in circa 3 settimane, damping-off, impollinazione manuale; « tolerates light frost » senza valore; riga della fonte completata. 6 sostituzioni (simulazione poi applicazione); bozza allineata (0 differenze).

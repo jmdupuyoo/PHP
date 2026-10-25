@@ -22,3 +22,6 @@
 ## Points douteux
 - Identification de la plante du forum (2013) non vérifiée ; dimensions du tronc divergentes (protologue / PlantZAfrica), comme en FR.
 - POWO et UICN non lus (Cloudflare), comme en FR.
+
+## Ritocco del 25/10/2026 (lotto EN ENC03)
+- PlantZAfrica ora letta (K.W. Sepheka, gennaio 2015; https://pza.sanbi.org/encephalartos-cupidus): tutti i dati attribuiti « da un estratto » vi compaiono. « (estratto di PlantZAfrica) » → attribuzione alla scheda; aggiunti fusto di circa 15 cm (divergenza con i 75 cm del protologo, ora esposta), 10-15 polloni, foglie di 0,5-1 m, polline da gennaio a marzo; riga della fonte corretta (URL canonico, autore, data, consultata il 25/10/2026). 4 sostituzioni (simulazione poi applicazione); bozza allineata (0 differenze); nessuna menzione di estratti.

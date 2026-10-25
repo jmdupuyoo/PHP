@@ -26,3 +26,6 @@
 
 ## Retouche du 25/10/2026 (lot EN ENC02)
 - 4 remplacements : POWO « tramite un estratto » ; « per questa scheda » (*kisambo*) ; « Alcuni estratti di ricerca… » (quota 1.300-2.150 m) ; « su PalmTalk » → « alcun altro riscontro ». Tronc 137 cm vérifié sur l'image de Melville. Simulation (`replace_in_content`, dry_run) puis application, nombre attendu vérifié ; brouillon aligné sur le texte en ligne (comparaison REST : 0 écart).
+
+## Ritocco del 25/10/2026 (ritocco 0 prima di ENC03)
+- FAQ sul significato di *bubalinus* : frase non documentata « Non ha nulla a che vedere con il bufalo » sostituita dall'attribuzione al protologo (Melville 1957 : « The epithet bubalinus refers to the closely felted indumentum of the scale leaves and leaf bases which has the appearance of buff suede leather », testo riletto). Simulazione poi applicazione (1) ; bozza allineata.

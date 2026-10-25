@@ -3,7 +3,7 @@
 - Page : https://succulentes.net/en/cycads/encephalartos/concinnus/ — id **17056**, fiche R (réécriture complète, contenu seul), slug `concinnus`, parent 16289, langue en. Groupe fr 26197 / it 27800 / en 17056 (hreflang vérifiés). Pas d'ES.
 - Contrôles : URL 200 (UA Chrome et curl), `<title>` = titre SEO ; texte en ligne identique au brouillon (0 écart) ; blocs 119/119 ; aucun « » ; 13 liens internes EN en 200 ; ≈ 3 550 mots (2 910 avant « Further reading »).
 - SEO : « Encephalartos concinnus: the Runde Cycad of Zimbabwe » (52 ; « Runde cycad » attesté par Species+ et la Flora of Zimbabwe) ; meta 149 ; mot-clé `Encephalartos concinnus`.
-- Image : aucune. Index 16289 : ligne déjà liée, conforme (glose « “elegant” » de l'index ; Haynes/WLoC : « neat or trim » — signalé hors lot). Liens sortants : genre, *manikensis*, *pterogonus*, *chimanimaniensis*, *munchii*, *tegulaneus*, *gratus*, *bubalinus*, *ferox*, *horridus* + 3 articles.
+- Image : aucune. Index 16289 : ligne déjà liée, conforme (glose « “elegant” » corrigée en « “neat” or “trim” » le 25/10/2026, retouche 0 avant ENC03). Liens sortants : genre, *manikensis*, *pterogonus*, *chimanimaniensis*, *munchii*, *tegulaneus*, *gratus*, *bubalinus*, *ferox*, *horridus* + 3 articles.
 
 ## Sources
 - FR 26197 / IT 27800 (protologue Dyer & Verdoorn 1969 via WLoC, Flora of Zimbabwe, Species+, LLIFLE, FDP, Tropicamente).

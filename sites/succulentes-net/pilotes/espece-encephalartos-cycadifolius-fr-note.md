@@ -70,3 +70,6 @@
 - Page publiée : id 26205, https://succulentes.net/cycadales/encephalartos/cycadifolius/ (200), parent 14229, traduction EN liée, SEO appliqué.
 - Liens internes ajoutés avant publication (1re occurrence, pages FR publiées, 200 vérifié) : ghellinckii, longifolius, lehmannii, laevifolius, lanatus.
 - Lien posé dans l'index des espèces de la page genre 14229.
+
+## Retouche du 25/10/2026 (lot EN ENC03)
+- PlantZAfrica désormais lue (P.M. Xaba, Kirstenbosch, avril 2009 ; https://pza.sanbi.org/encephalartos-cycadifolius). Les dimensions tirées de Wikipédia/compilations (feuilles 60-90 cm, pétiole 10-20 cm, folioles 9-12 cm, cônes mâles 13-22 × 5-7 cm, femelles « jaune verdâtre ») sont remplacées par celles de la fiche (tronc 1-1,5 m × ≤ 25 cm, feuilles vert olive foncé 0,6-1 m, pétiole jaune orangé tordu, cônes jaunes à poils gris, mâles 15-20 × 5-8 cm, femelles 20-30 × 16-18 cm) ; encadré mis à jour ; note sur Henderson 1945 « bibliothèque bloquée » et mentions « extrait » retirées ; ajouts : transplantation risquée et fertilisation à Kirstenbosch (Culture), protocole de pollinisation et de semis (Multiplication), cochenilles (Maladies) ; ligne de source corrigée. 14 remplacements (simulation puis application) ; brouillon aligné (0 écart).
