@@ -22,3 +22,5 @@
 ## Points douteux
 - Survie actuelle de la plante de Naples.
 - POWO et UICN non lus (Cloudflare), comme en FR.
+
+- 25/10/2026 (ritocco 0 prima di ENC04) : link Species+ del genere (13006) sostituito con la scheda della specie (taxon 27546) nei Siti di riferimento (1 sostituzione).

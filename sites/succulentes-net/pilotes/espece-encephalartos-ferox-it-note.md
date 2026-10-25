@@ -19,3 +19,7 @@ Fatti e fonti come nella FR (`espece-encephalartos-ferox-fr-note.md`): WLoC 293/
 
 ### Errori della vecchia IT eliminati
 Introduzione retorica senza fatti; stazioni climatiche (Ponta do Ouro, Kosi Bay, climate-data.org, One Earth); «Costa Azzurra, Nizza, Cap d'Antibes, −6 °C» (Hortus Focus, non verificato); coltivatore della «Florida» (PalmTalk, inaccessibile); laghi italiani (nessun dato sulla specie); soglie «−2/−3, −4, −5/−6 °C» senza fonte; schede di vivaio (Cycadales.eu); IUCN senza data né criteri; confronto con *arenarius* non fondato; consigli generici (vaso, svernamento, concimazione) senza fonte; link IUCN errati.
+
+- 25/10/2026 (lotto ENC04) : nota di lavoro «POWO non consultato» rimossa dal riquadro (1 sostituzione, simulazione poi applicazione).
+
+- 25/10/2026 (lotto ENC04) : note di lavoro visibili rimosse (1) : « le JZT n'a publié aucune observation » (simulazione poi applicazione ; bozza allineata).

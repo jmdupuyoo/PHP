@@ -60,3 +60,5 @@
 
 ## Retouche du 25/10/2026 (lot EN ENC03)
 - PlantZAfrica désormais lue (K.W. Sepheka, janvier 2015 ; https://pza.sanbi.org/encephalartos-cupidus) : toutes les données attribuées « par extrait » y figurent (folioles 10-16 mm à 3-4 dents, cônes, ~120 graines, résistance au gel, sol profond, plein soleil, sécheresse). « (extrait de PlantZAfrica) » → attribution à la fiche ; ajout du tronc d'environ 15 cm (divergence avec les 75 cm du protologue, désormais exposée), des 10-15 rejets, des feuilles de 0,5-1 m et du pollen de janvier à mars ; ligne de source corrigée (URL canonique, auteur, date, « consultée le 25 octobre 2026 »). 4 remplacements (simulation puis application) ; brouillon aligné (0 écart) ; plus aucune mention d'extrait.
+
+- 25/10/2026 (retouche 0 avant ENC04) : ajout de l'avis défavorable du groupe d'examen scientifique de l'UE (Species+ 13860, en vigueur depuis le 07/02/2013, sans seuil de taille) et des données du BMP-S (Journal officiel n° 40793, 2017, lu : rapports non confirmés d'une population au Limpopo, prospection au sol, objectif 1 000 plantes, 500 graines à cinq ans) ; source BMP-S ajoutée (3 remplacements, simulation puis application).

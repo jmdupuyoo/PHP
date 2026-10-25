@@ -54,3 +54,7 @@ POWO, Liste rouge UICN (Cloudflare) ; redlist.sanbi.org (403) ; PalmTalk, Dave's
 - replace_in_content sur 1857 (simulation : 2 remplacements, puis appliqué) ; cmp.py : 0 écart avec le brouillon mis à jour.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+- 25/10/2026 (lot ENC04) : note de travail « POWO non consulté » retirée de l'encadré (1 remplacement, simulation puis application).
+
+- 25/10/2026 (lot ENC04) : notes de travail visibles retirées (3) : « n'a pas pu être consultée » (typification Vorster 2004), accès refusé à la Liste rouge SANBI, « le JZT n'a publié aucune observation » (simulation puis application ; brouillon aligné).

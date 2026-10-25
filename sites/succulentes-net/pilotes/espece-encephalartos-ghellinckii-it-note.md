@@ -22,3 +22,8 @@
 ## Points douteux
 - Aucun nouveau.
 - POWO et UICN non lus (Cloudflare), comme en FR.
+
+- 25/10/2026 (ritocco 0 prima di ENC04) : link Species+ del genere (13006) sostituito con la scheda della specie (taxon 28749) (1 sostituzione).
+
+- 25/10/2026 (lotto ENC04) : nota di lavoro «POWO non consultato» rimossa dal riquadro (1 sostituzione, simulazione poi applicazione).
+- 25/10/2026 (lotto ENC04) : scheda PlantZAfrica letta (L. Zondi, marzo 2020), Dyer 1965 (Bothalia e J. S. Afr. Bot. 31) e Henderson 1945 letti ; 29 sostituzioni (simulazione poi applicazione) : menzioni «per estratto» e note di lavoro rimosse ; aggiunte come nella FR (descrizione, due forme, coni, nomi, minacce, usi, fuoco e impollinazione, coltivazione, polloni, Juniper Level, McKen, confusioni) ; dati degli estratti assenti dalla scheda letta («pareti di arenaria», «fynbos», «fino a cinque fusti», «fusti anneriti») rimossi.

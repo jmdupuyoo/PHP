@@ -25,3 +25,5 @@
 
 ## Ritocco del 25/10/2026 (lotto EN ENC03)
 - PlantZAfrica ora letta (L. Zondi & B. Ndlovu, dicembre 2023). Dati « da estratto » confermati; aggiunti coni femminili, semi gialli, fusto decombente e polloni, brattee, foglioline, picciolo con collare bruno-rosso; effettivi 1993-2019 secondo la IUCN 2022 (158 → 151 → 139 → 4; declino ≥ 98 %; rapporto sessi 4:1) al posto della frase « dati non verificati »; coltivazione, semina (6-8 settimane), polloni, parassiti; riquadro, FAQ e riga della fonte aggiornati; menzioni « estratto », « JSTOR », « sito bloccato » eliminate. 14 sostituzioni (simulazione poi applicazione); bozza allineata (0 differenze).
+
+- 25/10/2026 (ritocco 0 prima di ENC04) : aggiunti i dati del BMP-S (Gazzetta ufficiale n. 40793, 2017, letta : censimento aereo 2012 di circa 130 piante, nessuna banca genetica ex situ, azioni previste) ; fonte aggiunta (2 sostituzioni).

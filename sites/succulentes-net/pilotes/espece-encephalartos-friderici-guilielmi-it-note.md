@@ -20,3 +20,8 @@ Fatti e fonti come nella FR (`espece-encephalartos-friderici-guilielmi-fr-note.m
 
 ### Errori della vecchia IT eliminati
 Introduzione retorica («guida di riferimento»); quote 700-1400 m senza fonte; microclima «umido dove serve»; stazioni climatiche (Queenstown 1094 m, 534 mm, minima media −4,9 °C, Metamorphosis, climate-data.org); «minime sotto −10 °C» non localizzate; confronto con *natalensis* non fondato (falso «spesso citata nello stesso contesto»); sezioni Stati Uniti / Regno Unito / Francia / laghi italiani senza fatti verificabili (PalmTalk, gruppi social, Jungle Music in 404); «più lenta in vaso» attribuita a una fonte vivaistica non verificata; nematodi (PalmTalk su *lehmannii*); consigli generici di coltivazione e protezione senza fonte; FAQ generiche; bibliografia con POWO (link senza href), LLIFLE, Wikipedia, redlist.sanbi.org, pagina generica IUCN, CITES generica, Handbook of Cycad Cultivation non letto, Succulents and More, link a pagine FR. Impollinazione: la vecchia IT citava Suinyuy et al. 2009 (coleotteri, ResearchGate, non consultato); la nuova pagina riprende solo PlantZAfrica (vento e insetti).
+
+- 25/10/2026 (lotto ENC04) : nota di lavoro «POWO non consultato» rimossa dal riquadro (1 sostituzione, simulazione poi applicazione).
+
+- 25/10/2026 (lotto ENC04) : note di lavoro visibili rimosse (3) : « n'a pas pu être consultée » (typification Vorster 2004), accès refusé à la Liste rouge SANBI, « le JZT n'a publié aucune observation » (simulazione poi applicazione ; bozza allineata).
+- 25/10/2026 (lotto ENC04, seguito) : altre 3 note di lavoro riformulate («non è stata verificata», «nessun riscontro… è stato trovato», «nessuna fonte consultata») (simulazione poi applicazione).

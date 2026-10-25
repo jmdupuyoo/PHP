@@ -22,3 +22,8 @@
 ## Points douteux
 - Localité du 2e cultivateur italien inconnue ; pratique « en pot » du cultivateur de Ravenne déduite de ses messages de 2008-2009 (dit comme tel).
 - POWO et UICN non lus (Cloudflare), comme en FR.
+
+- 25/10/2026 (ritocco 0 prima di ENC04) : link Species+ del genere (13006) sostituito con la scheda della specie (taxon 14769) (1 sostituzione).
+- 25/10/2026 (lotto ENC04) : scheda PlantZAfrica letta (K. W. Sepheka, luglio 2014) : menzioni di estratti e «POWO non consultato» rimosse ; aggiunti coni, semi, distinzione dalle specie vicine, pieno sole, crescita, «molto resistente al gelo», protocollo di semina e polloni ; 9 sostituzioni (simulazione poi applicazione).
+- 25/10/2026 (lotto ENC04, seguito) : aggiunto lo Juniper Level Botanic Garden (articolo del 07/08/2014, letto : specie morta in piena terra, inverno 2013-2014, −13/−16 °C) ; 2 sostituzioni.
+- 25/10/2026 (lotto ENC04) : frase di lavoro sul nome sepedi sostituita dall'attribuzione del nome inglese a SANBI e Species+ (1 sostituzione).

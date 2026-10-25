@@ -62,3 +62,5 @@
 3. Sources bloquées : POWO, UICN, PlantZAfrica, SANBI Red List ; rien en thaï, japonais ou chinois.
 4. France : aucune donnée, pour aucune zone.
 5. Encadré : rusticité et exposition en culture non documentées.
+
+- 25/10/2026 (retouche 0 avant ENC04) : lien Species+ du genre (13006) remplacé par la fiche de l'espèce (taxon 27546) dans les Sites de référence (1 remplacement).

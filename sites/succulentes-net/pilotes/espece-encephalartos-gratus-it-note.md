@@ -40,3 +40,7 @@
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 3 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
 
 - Retouche 24/10/2026 (0c avant ZAM05) : note de travail visible retirée du texte en ligne (renvoi à la fiche d’une autre langue ou d’une autre espèce comme origine de la consultation : « for the French page », « lors de la rédaction de la fiche italienne », « repris de la fiche … », etc.) ; replace_in_content, simulation puis application ; brouillon aligné.
+
+- 25/10/2026 (lotto ENC04) : nota di lavoro «POWO non consultato» rimossa dal riquadro (1 sostituzione, simulazione poi applicazione).
+- 25/10/2026 (lotto ENC04, scheda EN 16658 riscritta) : 4 sostituzioni (simulazione 4/4 poi applicazione 4/4) : «Lista rossa non consultata (sito bloccato)» → «non consultata» ; «testo integrale non accessibile» ritirato ; «unico riscontro … trovato» → «pubblicato» ; «Nessun dato quantificato affidabile è stato trovato» → «… è stato pubblicato per questa specie». Brouillon aligné (0 écart).
+- Da riprendere eventualmente (non fatto) : Cambridge (accessione 1958, origine selvatica), giardini del 1984 fuori Italia/Francia, Jungle Music.

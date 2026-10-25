@@ -25,3 +25,5 @@
 
 ## Ritocco del 25/10/2026 (lotto EN ENC03)
 - PlantZAfrica ora letta (K.W. Sepheka, gennaio 2015; https://pza.sanbi.org/encephalartos-cupidus): tutti i dati attribuiti « da un estratto » vi compaiono. « (estratto di PlantZAfrica) » → attribuzione alla scheda; aggiunti fusto di circa 15 cm (divergenza con i 75 cm del protologo, ora esposta), 10-15 polloni, foglie di 0,5-1 m, polline da gennaio a marzo; riga della fonte corretta (URL canonico, autore, data, consultata il 25/10/2026). 4 sostituzioni (simulazione poi applicazione); bozza allineata (0 differenze); nessuna menzione di estratti.
+
+- 25/10/2026 (ritocco 0 prima di ENC04) : aggiunti il parere sfavorevole del gruppo di esame scientifico dell'UE (Species+ 13860, dal 07/02/2013, senza soglia di dimensione) e i dati del BMP-S (Gazzetta ufficiale n. 40793, 2017, letta) ; fonte BMP-S aggiunta (3 sostituzioni, simulazione poi applicazione).
