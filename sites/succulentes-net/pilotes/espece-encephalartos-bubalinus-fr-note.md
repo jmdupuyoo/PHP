@@ -65,3 +65,6 @@
 ## Publication (02/10/2026)
 - Page 26227 publiée : https://succulentes.net/cycadales/encephalartos/bubalinus/ (200, sans redirection), parent 14229, traduction liée à 16877, SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 14229.
 - Liens internes ajoutés avant publication (pages FR publiées, 200) : Encephalartos tegulaneus, Encephalartos manikensis, Encephalartos horridus.
+
+## Retouche du 25/10/2026 (lot EN ENC02)
+- 4 remplacements : POWO « par un extrait de recherche » ; « caractères… non vérifiés… pour cette fiche » (*kisambo*) ; phrase des extraits (altitude 1 300-2 150 m, forêts sur grès) ; « ni dans les extraits de PalmTalk consultés ». Hauteur du tronc (137 cm) vérifiée sur l'image de Melville 1957 : exacte. Simulation (`replace_in_content`, dry_run) puis application, nombre attendu vérifié ; brouillon aligné sur le texte en ligne (comparaison REST : 0 écart).

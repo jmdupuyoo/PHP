@@ -56,3 +56,6 @@
 3. Bloqués : POWO, UICN, PalmTalk.
 4. France : aucune donnée de froid, toutes zones.
 5. Encadré : tous les champs renseignés (rusticité : un retour B).
+
+## Retouche du 25/10/2026 (lot EN ENC02)
+- aucune mention d’extrait ni note de travail à corriger (contrôle du brouillon et du texte en ligne, 0 écart).

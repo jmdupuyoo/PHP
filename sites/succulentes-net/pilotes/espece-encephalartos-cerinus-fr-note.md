@@ -63,3 +63,6 @@
 3. Sources introuvables ou bloquées : POWO, UICN, PlantZAfrica, PalmTalk, Dave's Garden ; aucune source asiatique utile.
 4. France : aucune donnée par zone (littoral méditerranéen, Atlantique, Bretagne, intérieur, montagne).
 5. Encadré : rusticité « non documentée » ; tous les autres champs renseignés.
+
+## Retouche du 25/10/2026 (lot EN ENC02)
+- 4 remplacements : PlantZAfrica lu (Zondi 2019, UA de navigateur) : les données « relevées par extrait » (10-70 plantes, localité type disparue) y figurent ; « sources secondaires (LLIFLE, extraits de PlantZAfrica) » et « sources secondaires… peut-être éteinte » (encadré, Conservation) attribués à PlantZAfrica ; source ajoutée aux Sites de référence. Compléments facultatifs possibles (multiplication, mi-ombre, « tolerates light frost », odeur de cire, phénologie) : voir note EN. Simulation (`replace_in_content`, dry_run) puis application, nombre attendu vérifié ; brouillon aligné sur le texte en ligne (comparaison REST : 0 écart).

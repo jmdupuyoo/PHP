@@ -64,3 +64,6 @@
 ## Publication (02/10/2026)
 - Page 26223 publiée : https://succulentes.net/cycadales/encephalartos/brevifoliolatus/ (200, sans redirection), parent 14229, traduction liée à 16948, SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 14229.
 - Liens internes ajoutés avant publication (pages FR publiées, 200) : Encephalartos ghellinckii, Encephalartos horridus.
+
+## Retouche du 25/10/2026 (lot EN ENC02)
+- 4 remplacements : POWO « par un extrait de recherche » retiré de l'encadré ; nom afrikaans « platorandbroodboom » (connu par un extrait Wikipédia) retiré de l'encadré et de « Noms communs » ; « ni dans les extraits de PalmTalk » retiré. (Le nom figure sur la Liste rouge sud-africaine du SANBI, lue une fois avec un UA de navigateur puis bloquée : non utilisé, à valider par le propriétaire.) Simulation (`replace_in_content`, dry_run) puis application, nombre attendu vérifié ; brouillon aligné sur le texte en ligne (comparaison REST : 0 écart).

@@ -60,3 +60,6 @@
 3. Bloqués : POWO, UICN, Kew, PalmTalk ; rien d'utile en sources asiatiques.
 4. France : aucune donnée, toutes zones.
 5. Encadré : substrat en culture « non documenté ».
+
+## Retouche du 25/10/2026 (lot EN ENC02)
+- 2 remplacements : « (relevée par extrait de recherche) » retiré (page de projet Rufford relue : « less than 8 mature plants ») ; « dans le rapport consulté » → « dans ses rapports ». Simulation (`replace_in_content`, dry_run) puis application, nombre attendu vérifié ; brouillon aligné sur le texte en ligne (comparaison REST : 0 écart).

@@ -22,3 +22,6 @@
 - `pilotes/espece-encephalartos-cerinus-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot : ndiff 0) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées ; aucun lien vers une page FR ; liens internes IT tous en 200 (vérifié après publication des 10 fiches).
 - Aucune page IT ni redirection préexistante. Images : aucune (la FR n'en a pas).
 - Rien commité.
+
+## Retouche du 25/10/2026 (lot EN ENC02)
+- 4 remplacements, mêmes corrections qu'en FR (PlantZAfrica lu, attribution directe, source ajoutée). Simulation (`replace_in_content`, dry_run) puis application, nombre attendu vérifié ; brouillon aligné sur le texte en ligne (comparaison REST : 0 écart).
