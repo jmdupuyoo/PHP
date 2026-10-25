@@ -26,3 +26,7 @@
 
 ## Liens croisés (12/10/2026, fin de lot)
 - Lien ajouté vers *Zamia standleyi* (Possibili confusioni ; page publiée par un autre lot) : première occurrence hors intro/encadré/titres/fonti, replace_in_content ciblé (dry run puis application), brouillon aligné, live = brouillon vérifié.
+
+## Ritocco del 25/10/2026 (lotto ZAM16)
+
+- Balayage « fonti consultate » (retouche 0) : 2 tournures reformulées. Puis 6 remplacements (simulation puis application) : encadré « forum italiani consultati » ; date du protologue (version cycad.org, WCVP) ; « dettaglio delle minacce non letto » retiré ; culture : « non trovato… non sembra coltivata in Europa » → « non documentato » + giardino botanico di Lione (BGCI) ; « che abbiamo potuto consultare » retiré ; « non è stata trovata alcuna rilevazione » reformulé ; sources cycad.org, WCVP, BGCI ajoutées. Brouillon aligné. Page EN : 32740.

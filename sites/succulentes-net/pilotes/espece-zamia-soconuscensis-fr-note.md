@@ -13,3 +13,7 @@
 - Vérifications : URL 200 ; aucun commentaire de bloc visible ; 113 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-zamia-soconuscensis-fr.html` (hors sommaire automatique), même séquence de liens ; liens internes en 200.
 - Points douteux : ≈ 5 000 individus (Wikipédia seule) ; catégorie de l'évaluation 2010 non vérifiée ; longueur « 14-28 cm » du protologue (pétiole et rachis, ambiguë, non reprise) ; WFO inaccessible (certificat TLS refusé, non contourné) ; Tropicamente cité d'après la note IT (lecture du 11/10).
 - Pour la fiche IT 28266 (non modifiée) : Nicolalde-Morejón et al. 2014 donne 900-1 400 m et la catégorie NOM-059 « P » ; Lindstrom 2024 (texte intégral) place *soconuscensis* comme sœur des clades méridionaux V-VII, et non « accanto al clade III » ; il précise forêt de nuages sur pentes raides, divergence vers 22,5 Ma, et que les ancêtres du clade V ont hérité de sa lignée.
+
+## Retouche du 25/10/2026 (lot ZAM16)
+
+- 4 remplacements (simulation puis application) : chiffre « environ 5 000 individus » (Wikipédia anglaise seule) et sa ligne de source retirés ; « existe, mais n'a pas pu être lue » → « avait été publiée en 2010 » ; « aucun relevé trouvé » et « aucune étude trouvée » reformulés. Brouillon aligné. Page EN créée : 32761.

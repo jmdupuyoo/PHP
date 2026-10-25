@@ -46,7 +46,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - ZAM13 : nesophila C/FR26544 fait (25/10/2026, 32291), obliqua C/FR29441 fait (25/10/2026, 32301), onan-reyesii C/FR26558 fait (25/10/2026, 32318), oreillyi C/FR26562 fait (25/10/2026, 32327), orinoquiensis C/FR26546 fait (25/10/2026, 32333) — lot ZAM13 terminé le 25/10/2026
 - ZAM14 : paucifoliolata C/FR26552 fait (25/10/2026, 32356), paucijuga C/FR26566 fait (25/10/2026, 32364), poeppigiana C/FR18304 fait (25/10/2026, 32373), portoricensis C/FR21767 fait (25/10/2026, 32386), prasina C/FR22369 fait (25/10/2026, 32396)
 - ZAM15 : pseudomonticola C/FR29463 fait (25/10/2026, 32523), purpurea C/FR22349 fait (25/10/2026, 32534), pygmaea C/FR21780 fait (25/10/2026, 32548), pyrophylla C/FR26554 fait (25/10/2026, 32559), restrepoi C/FR26560 fait (25/10/2026, 32569) — lot ZAM15 terminé le 25/10/2026
-- ZAM16 : sandovalii C/FR26603, sinuensis C/FR26564, soconuscensis C/FR22308, spartea C/FR26596, splendens C/FR22343
+- ZAM16 : sandovalii C/FR26603 fait (25/10/2026, 32740), sinuensis C/FR26564 fait (25/10/2026, 32750), soconuscensis C/FR22308 fait (25/10/2026, 32761), spartea C/FR26596 fait (25/10/2026, 32771), splendens C/FR22343 fait (25/10/2026, 32783) — lot ZAM16 terminé le 25/10/2026
 - ZAM17 : standleyi C/FR26607, stenophyllidia C/FR26611, stevensonii C/FR26614, stricta C/FR21774, tolimensis C/FR26599
 - ZAM18 : tuerckheimii C/FR22391, urarinorum C/FR26590, urep C/FR26568, variegata C/FR21795
 

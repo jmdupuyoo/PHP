@@ -43,3 +43,7 @@ Fichier : `pilotes/espece-zamia-sandovalii-fr.html` (blocs Gutenberg contrôlés
 - Couleur « blanche » des graines : ovules, couleur des graines mûres non documentée.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : 1re occurrence des *Zamia* ayant une fiche FR publiée (200 sans redirection), y compris les fiches de ce lot.
+
+## Retouche du 25/10/2026 (lot ZAM16)
+
+- Balayage « sources consultées » (retouche 0) : 2 tournures reformulées. Puis 6 remplacements (simulation puis application) : date du protologue (version de la revue, copie The Cycad Society « Ceiba, 2006, 46(1) : 41-44 », WCVP « 2005 publ. 2007 ») ; « détail des menaces non lu » retiré ; culture : « aucun retour trouvé : ne semble pas cultivée en Europe » remplacé par « aucun retour documenté » + Jardin botanique de Lyon (BGCI, déclaration non datée) ; « aucun relevé trouvé » reformulé ; phrase de toxicité en double fusionnée ; sources : cycad.org, WCVP, BGCI ajoutés. Brouillon aligné. Page EN créée : 32740.

@@ -43,3 +43,7 @@
 - Non repris : « environ 5 000 individus » (Wikipédia EN seule, non sourcé ; la FR le cite en le signalant), règlement et glycosides déjà présents dans l'IT.
 - Contrôles (verify.py) : URL 200, aucun commentaire de bloc visible, 117 blocs appariés, texte rendu identique au brouillon `espece-zamia-soconuscensis-it.html`, 14 liens internes IT en 200 (aucun lien FR), hreflang fr/it ; ≈ 3 460 mots.
 - SEO Rank Math inchangé (exact). Index de la page genre IT 11879 : ligne conforme (EN 2022 ; « unica specie di uno dei sette grandi cladi » exact), non modifiée.
+
+## Ritocco del 25/10/2026 (lotto ZAM16)
+
+- 5 remplacements (simulation puis application) : « che non ha potuto essere letta » → « pubblicata nel 2010 » ; ligne de source Tropicamente (rien de pertinent) retirée ; « trovata / trovato » ×2 reformulés ; « negli altri elenchi consultati (Hanbury, BGCI) » → « negli elenchi dei Giardini Hanbury, né, per l'Italia, in BGCI PlantSearch ». Brouillon aligné. Page EN : 32761.

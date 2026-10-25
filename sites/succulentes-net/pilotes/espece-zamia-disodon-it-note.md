@@ -26,3 +26,6 @@
 
 ## Ritocco del 25/10/2026 (0d prima di ZAM07)
 - 2 note di lavoro tolte: «Nessun riscontro di coltivazione è stato trovato con le ricerche sul web» → «Non è documentata alcuna coltivazione fuori dalla Colombia: nessun orto botanico dichiara la specie alla banca dati BGCI» (BGCI interrogata il 25/10/2026); «elenco completo degli autori non ricopiato» tolto e autori di Calonje et al. 2021 completati secondo Crossref. 3 sostituzioni (simulazione poi applicazione); bozza allineata.
+
+## Retouche du 25/10/2026 (lot ZAM16, balayage complémentaire)
+- 1 remplacement (simulation puis application) : « Nelle fonti di riferimento consultate non è documentato alcun uso » → « Non è documentato alcun uso tradizionale » (forme à complément intercalé manquée par le premier balayage) ; brouillon aligné, live = brouillon.

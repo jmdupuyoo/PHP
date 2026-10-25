@@ -46,3 +46,7 @@ Fichier : `pilotes/espece-zamia-spartea-fr.html` (blocs Gutenberg contrôlés pa
 - Révision de 2009 (*Brittonia*) non lue.
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : 1re occurrence des *Zamia* ayant une fiche FR publiée (200 sans redirection), y compris les fiches de ce lot.
+
+## Retouche du 25/10/2026 (lot ZAM16)
+
+- 10 remplacements (simulation puis application) : Hybrides — hybride artificiel *Zamia spartea* × *Zamia purpurea* de Cycadales.eu ajouté (fiche produit lue le 25/10, ligne de source ajoutée) ; « sources scientifiques consultées », « publication consultée », « article non lu », « source moderne consultée », « détail des menaces non lu » et « n'a été trouvé(e) » ×4 reformulés. Brouillon aligné. Page EN créée : 32771 (cite aussi les hybrides de Norstog 1987, d'après Pérez-Farrera et al. 2012 : ajout facultatif ici).

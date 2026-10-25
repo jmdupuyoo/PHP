@@ -40,3 +40,7 @@ Fichier : `pilotes/espece-zamia-sinuensis-fr.html` (blocs Gutenberg contrôlés 
 - Statut : NE dans WLoC ; DD recommandé par les auteurs (non officiel).
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Liens internes du corps : 1re occurrence des *Zamia* ayant une fiche FR publiée (200 sans redirection), y compris les fiches de ce lot.
+
+## Retouche du 25/10/2026 (lot ZAM16)
+
+- 7 remplacements (simulation puis application) : position dans le clade confirmée par Lindstrom et al. 2024 (au lieu de « non étudiée par des analyses génétiques ») ; type n° 1147 selon The World List of Cycads ajouté ; culture : aucun jardin déclarant dans BGCI (au lieu de « aucun retour trouvé : ne semble pas cultivée en Europe ») ; « n'a été trouvé(e) » ×2 reformulés ; Lindstrom et al. 2024 en source et en bibliographie. Brouillon aligné. Page EN créée : 32750.

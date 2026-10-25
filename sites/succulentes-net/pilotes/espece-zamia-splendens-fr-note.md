@@ -57,3 +57,15 @@
 ## Retouche du 25/10/2026 (avant ZAM10)
 - 4 remplacements (simulation puis application) : « POWO … d'après des sources secondaires » / « selon Wikipédia et le site LLIFLE » remplacés par la World Checklist of Vascular Plants lue sur GBIF (jeu f382f0ce…, version du 04/06/2026, clé 207874726 : *Zamia splendens* Schutzman SYNONYM de *Zamia verschaffeltii* Miq.) ; traitement WLoC conservé ; date « 1998 » (Wikipédia seule) retirée ; ligne WCVP ajoutée aux sources ; description de la ligne Wikipédia réduite.
 - Reste (lot ZAM16) : habitat « d'après l'étude de 2023 » cité via Wikipédia, sous-groupe « Purpurea » (Calonje 2019 via Wikipédia ; Lindstrom 2024 lisible en copie locale), parents de *grijalvensis* d'après Wikipédia ; ligne Wikipédia encore présente.
+
+## Retouche du 25/10/2026 (lot ZAM16, cas réservé)
+
+- 21 remplacements (simulation puis application, nombre attendu vérifié) ; brouillon aligné ; live = brouillon vérifié (vlite).
+- Wikipédia retirée entièrement (texte et ligne de source) :
+  - habitat « d'après l'étude de 2023 » (rochers karstiques ou sol argileux, 100-800 m) : non vérifiable sur une source lue (résumé de Gutiérrez-Ortega 2023 sans habitat) → retiré, y compris dans l'encadré et la Culture ; reste l'habitat du protologue (sol ombragé de forêt tropicale humide, ~500 m) ;
+  - sous-groupe « Purpurea » → Lindstrom et al. 2024 (PMC11560380, lu) : ancien clade « purpurea » de Calonje 2019 d'après Lindstrom, *Z. katzeriana* sœur de *Z. splendens* (échantillon Chiapas), *Z. purpurea* plus distincte ; Calonje 2019 noté « cité d'après Lindstrom » ;
+  - parents de *Z. grijalvensis* → protologue Pérez-Farrera et al. 2012 (texte intégral, copie cycad.org) : *Z. loddigesii* ou une espèce du complexe *Z. katzeriana*, qui incluait alors *Z. splendens*.
+- PalmTalk « extrait de recherche » (2 °C) retiré ; remplacé par Trebrown zone 9b (classement commercial).
+- Notes de travail reformulées : POWO « accès bloqué », publication de synonymie « non retrouvée », Liste rouge « non consultée / menaces non reprises », NOM-059 « mise à jour 2019 non consultée », « sources primaires consultées », « n'a été trouvé(e) » ×3 (IT : « non è stato trovato » ×4, « che abbiamo potuto consultare »), « retours trouvés », mention « relevée … vérifiée sur Crossref ».
+- Ajouts : hybride artificiel *Z. purpurea* « Smooth » × *Z. splendens* (fiche produit Cycadales.eu, lue ; croisement déjà réalisé par des cultivateurs australiens selon la pépinière) avec lien *purpurea* déplacé à cette première occurrence ; Montgomery Botanical Center (BG-BASE : *Z. splendens* synonyme de *Z. katzeriana*, accessions 93930 et 93941) ; Lavaud 2023 (groupe 2, Mexique-Honduras : substrat, 5-10 °C l'hiver, été) en Culture et Rusticité ; sources Lindstrom, Montgomery, Cycadales.eu ×2, Trebrown ; Lindstrom 2024 en bibliographie.
+- Sauvegarde du brouillon précédent : scratchpad zam16/bak_drafts/splendens-fr.pre-zam16.html.

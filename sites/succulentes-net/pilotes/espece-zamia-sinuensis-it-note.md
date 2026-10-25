@@ -21,3 +21,7 @@
 - Brouillon identique au live (0 différence, liens identiques) ; URL 200 ; blocs appariés (98) ; aucun commentaire visible ; aucun `<em>` imbriqué ni nom abrégé ; aucun lien FR.
 - Avant création : aucune page IT de l'espèce, aucune redirection visant l'URL.
 - Rien commité.
+
+## Ritocco del 25/10/2026 (lotto ZAM16)
+
+- 7 remplacements (simulation puis application) : posizione nel clade confermata da Lindstrom e collaboratori 2024 ; « segnaliamo la divergenza » retiré ; culture : aucun jardin déclarant dans BGCI, « che abbiamo potuto consultare » retiré ; « trovata / trovato » ×2 reformulés ; Lindstrom 2024 en source et bibliographie. Brouillon aligné. Page EN : 32750.
