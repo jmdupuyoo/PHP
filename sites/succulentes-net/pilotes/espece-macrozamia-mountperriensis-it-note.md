@@ -28,3 +28,5 @@
 - Liens internes tous IT et en 200 (curl) ; aucun lien vers une page FR. Sources : URL en texte brut (rendues cliquables par l'extrait du site).
 - POWO, Liste rouge UICN, PalmTalk, BHL non consultés (Cloudflare) : statuts repris de la FR (WLoC).
 - Rien commité.
+
+- 26/10/2026 (lot MAC04, fiche EN 18061) : retour PalmTalk de Gainesville (connu par extrait) retiré (texte, encadré, FAQ, sources) et remplacé par la publication MSU P2948 (2020 ; zone 9b, « 22°F » selon des sources non nommées, nom « Mt. Perry Cycad ») ; notes de travail (POWO, Liste rouge, « non vérifié », « non repris », annotations « lu directement ») retirées ; simulation puis application, brouillon aligné (0 écart).

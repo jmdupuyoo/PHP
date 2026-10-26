@@ -46,3 +46,5 @@
 - Contenu publié identique au fichier local (comparaison texte de la page en ligne / fichier).
 - Aucune redirection ancienne pour /cycadales/macrozamia/reducta/ (list_redirects).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, dry run puis application).
+
+- 26/10/2026 (lot MAC04, fiche EN 18183) : FAQ hybrides nuancée d'après Bell 2019 (axe parfois tordu chez de jeunes plantes pures ; référence ajoutée en bibliographie) ; POWO/Liste rouge → APC et date d'évaluation (Crossref, 11/09/2020) ; notes de travail (« seuls conseils trouvés », « consulté/lu directement ») retirées ; simulation puis application, brouillon aligné (0 écart).

@@ -68,3 +68,5 @@
 ## Complément du 10/10/2026 (vérification)
 - Copie cycad.org lue : uniquement la page de Gardner (1930), Enumeratio Plantarum Australiae Occidentalis, listant les Cycadales (aucune description). Combinaisons M. Dyeri (F.v.M.) Gardner et M. Reidlei (Gaud.) Gardner, M. fraseri Miq. en synonymie de M. reidlei ; M. dyeri traité comme distinct. Le basionyme et sa description restent non consultés.
 - Fiche précisée en Taxonomie et Bibliographie (replace_in_content, 2 remplacements) ; brouillon mis à jour, comparaison identique.
+
+- 26/10/2026 (lot MAC04, fiche EN 18044) : données connues par extrait retirées (PalmTalk ; « zamia staggers » et délai des services du Territoire du Nord et du Queensland, source NT) et paragraphe de toxicité attribué à Healy 1967 / Edwards 1894 ; nom « Kwininy » (ALA) ; pollinisateurs reformulés ; POWO/Liste rouge → APC et date d'évaluation (Crossref, 20/08/2020) ; DOI de Calonje & Clugston 2022 ajouté ; notes de travail retirées ; simulation puis application, brouillon aligné (0 écart).

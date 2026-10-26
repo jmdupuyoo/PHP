@@ -73,7 +73,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - MAC01 : communis R18025/FR1471 fait (26/10/2026, 18025), concinna R18242/FR26242 fait (26/10/2026, 18242), diplomera R18233/FR26250 fait (26/10/2026, 18233), dyeri R18145/FR26282 fait (26/10/2026, 18145), elegans R18221/FR26257 fait (26/10/2026, 18221) — lot MAC01 terminé le 26/10/2026
 - MAC02 : fearnsidei R18250/FR26264 fait (26/10/2026, 18250), flexuosa R18194/FR26278 fait (26/10/2026, 18194), fraseri R18134/FR26273 fait (26/10/2026, 18134), glaucophylla R18213/FR26252 fait (26/10/2026, 18213), heteromera R18207/FR26245 fait (26/10/2026, 18207) — lot MAC02 terminé le 26/10/2026
 - MAC03 : johnsonii R18074/FR26275 fait (26/10/2026, 18074), lucida R18157/FR26268 fait (26/10/2026, 18157), macdonnellii R18105/FR26261 fait (26/10/2026, 18105), miquelii R18050/FR1822 fait (26/10/2026, 18050), montana R18121/FR26238 fait (26/10/2026, 18121) — lot MAC03 terminé le 26/10/2026
-- MAC04 : moorei R18031/FR1833, mountperriensis R18061/FR26254, pauli-guilielmi R18175/FR26246, reducta R18183/FR26259, riedlei R18044/FR26236
+- MAC04 : moorei R18031/FR1833 fait (26/10/2026, 18031), mountperriensis R18061/FR26254 fait (26/10/2026, 18061), pauli-guilielmi R18175/FR26246 fait (26/10/2026, 18175), reducta R18183/FR26259 fait (26/10/2026, 18183), riedlei R18044/FR26236 fait (26/10/2026, 18044) — lot MAC04 terminé le 26/10/2026
 - MAC05 : spiralis R18094/FR26239, stenomera R18167/FR26266
 - MAC06 : cardiacensis C/FR26291, conferta C/FR26295, cranei C/FR26311, crassifolia C/FR26299, douglasii C/FR26289
 - MAC07 : fawcettii C/FR26305, humilis C/FR26307, lomandroides C/FR26316, longispina C/FR26303, machinii C/FR26327

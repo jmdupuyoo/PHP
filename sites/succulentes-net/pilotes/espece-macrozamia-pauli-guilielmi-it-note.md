@@ -27,3 +27,5 @@
 - Liens internes tous IT et en 200 (curl) ; aucun lien vers une page FR. Sources : URL en texte brut (rendues cliquables par l'extrait du site).
 - POWO, Liste rouge UICN, PalmTalk, BHL non consultés (Cloudflare) : statuts repris de la FR (WLoC).
 - Rien commité.
+
+- 26/10/2026 (lot MAC04, fiche EN 18175) : données connues par extrait retirées (plan de rétablissement 2007 : 230 m, sables détrempés ; « zamia staggers » des services du Queensland, texte et source) ; POWO/Liste rouge → APC et date d'évaluation (Crossref, 14/08/2020) ; notes de travail et annotations « lu/consulté directement » retirées ; simulation puis application, brouillon aligné (0 écart).

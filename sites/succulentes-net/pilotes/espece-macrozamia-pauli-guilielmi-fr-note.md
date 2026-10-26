@@ -58,3 +58,5 @@
 - Aucune redirection ancienne pour /cycadales/macrozamia/pauli-guilielmi/ (list_redirects).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, dry run puis application).
 - Retouches avant publication : « aspect hirsute » → « aspect ébouriffé et vaporeux » (M. parcifolia) ; « Mueller l'écrivait déjà » → « Mueller le signalait ».
+
+- 26/10/2026 (lot MAC04, fiche EN 18175) : données connues par extrait retirées (plan de rétablissement 2007 : 230 m, sables détrempés ; « zamia staggers » des services du Queensland, texte et source) ; POWO/Liste rouge → APC et date d'évaluation (Crossref, 14/08/2020) ; notes de travail et annotations « lu/consulté directement » retirées ; simulation puis application, brouillon aligné (0 écart).

@@ -12,3 +12,5 @@
 - Indice pagina genere IT 12116: riga allineata («Queensland centrale… quasi minacciato (NT, 2022)») con replace_in_content (simulazione 1 sostituzione, poi applicazione); bozza `genre-macrozamia-it.html` allineata.
 - Tossicità armonizzata («glicosidi tossici (cicasina, macrozamina), da cui deriva il metilazossimetanolo»).
 - Punti dubbi: come in FR (autore Mueller/Bailey, tipo, ibridi lucida × «moorei», uso aborigeno non citato da Asmussen). «Zamia staggers» non citato (nessuna fonte leggibile).
+
+- 26/10/2026 (lot MAC04, fiche EN 18031) : notes de travail retirées et P2948 datée 2020 (PDF « POD-05-20 », copyright 2020) ; POWO/Liste rouge/WildNet « non consultés » remplacés par APC, date d'évaluation (Crossref, 21/08/2020) et ALA ; paragraphe des valeurs « non reprises » retiré ; annotations bibliographiques reformulées ; simulation puis application, brouillon aligné (0 écart).
