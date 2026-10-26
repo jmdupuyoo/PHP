@@ -34,3 +34,5 @@ Comme en FR : POWO, IUCN, PalmTalk, Britannica, conifers.org, certaines pages (4
 
 ## Retouche du 26/10/2026 (retouche 0 de MAC08)
 - Sources : notes « consulted directly / (non) consulté(e) directement / (non) consultata direttamente » retirées (11 remplacements ; annotations expliquant l’origine d’une donnée conservées) ; Hill 1998 complété (éditeur McCarthy, p. 597-661, 717-719). Simulation puis application, brouillon aligné. Lignes d’index liées en MAC08 (EN) : macleayi, occidua, parcifolia, platyrhachis, plurinervia (37/41).
+
+- 26/10/2026 (ritocco 0 di MAC09) : riga d'indice *fawcettii* « dedicato al magistrato Hugh Fawcett » → « dedicato al magistrato di polizia C. Fawcett » (allineata all'EN e al protologo « C. Fawcett, Esq., P.M. ») ; « POWO non ha potuto essere consultato direttamente » tolto dal punto « Numero di specie » del riquadro (2 sostituzioni, simulate poi applicate). « La Lista Rossa non ha potuto essere consultata direttamente » conservato (origine degli stati).

@@ -33,3 +33,5 @@ L'espèce n'est pas cultivée au JZT ; repère d'arrosage d'été du genre repri
 
 ### Retouches FR 26259 / IT 27738 (26/10/2026)
 17 + 17 remplacements (simulation puis application) : FAQ « une feuille tordue … peut trahir un hybride » nuancée d'après Bell 2019 (jeunes plantes) et Bell 2019 ajouté en bibliographie ; POWO/Liste rouge « non consultés » → APC et date d'évaluation (Crossref, 11/09/2020) ; « seuls conseils trouvés » → « publiés » ; annotations « consulté/lu directement » retirées. Brouillons alignés (0 écart).
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : balayage REST des pages enfants de 16301 ; corrections simulées puis appliquées sur cette page (annotation McKenzie « cycad section read in full » retirée, ou « could be read in full », °F complétés, seuil « 0 °C (32 °F) », ou meta « pot culture » → « pot cultivation », selon le cas ; détail : restructuration-fr.md et en-a-faire.md) ; brouillon aligné.

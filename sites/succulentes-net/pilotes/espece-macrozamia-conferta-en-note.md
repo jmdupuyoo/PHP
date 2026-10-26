@@ -28,3 +28,5 @@ Rien (espèce non cultivée au JZT d'après la FR). Aucun message JMDUPUYOO.
 
 ### Retouches FR 26295 / IT 27620 (26/10/2026)
 14 + 15 remplacements de notes de travail (POWO → APC, date d'évaluation UICN, « Liste rouge non consultée », « lu en entier », « consultée directement », « non consulté », IT « non abbiamo trovato ») puis 1 + 1 correction de toxicité : la phrase « la consommation des feuilles par le bétail peut tuer ou blesser gravement les animaux » était un contresens (le plan ACCIONA parle de la mort ou des blessures de la plante broutée) ; remplacée par l'attribution « (Halford, 1997, cité par le plan de gestion de 2022) ». Simulation puis application ; brouillons alignés (0 écart).
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : balayage REST des pages enfants de 16301 ; corrections simulées puis appliquées sur cette page (annotation McKenzie « cycad section read in full » retirée, ou « could be read in full », °F complétés, seuil « 0 °C (32 °F) », ou meta « pot culture » → « pot cultivation », selon le cas ; détail : restructuration-fr.md et en-a-faire.md) ; brouillon aligné.

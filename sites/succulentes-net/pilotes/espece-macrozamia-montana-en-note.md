@@ -25,3 +25,5 @@
 
 ## FR/IT (retouches du lot)
 - FR 26238 (16) et IT 27705 (15), simulation puis application : POWO, « Liste rouge non consultée », « trouvée », « consultée directement », « messages lus », « lu en entier », « lu lors de la préparation… » ; phrase orpheline « Cette affirmation n'est pas reprise » remplacée ; « aucun cultivateur n'en parle », « aucune offre relevée » reformulés ; date UICN. Brouillons alignés (0 écart).
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : balayage REST des pages enfants de 16301 ; corrections simulées puis appliquées sur cette page (annotation McKenzie « cycad section read in full » retirée, ou « could be read in full », °F complétés, seuil « 0 °C (32 °F) », ou meta « pot culture » → « pot cultivation », selon le cas ; détail : restructuration-fr.md et en-a-faire.md) ; brouillon aligné.

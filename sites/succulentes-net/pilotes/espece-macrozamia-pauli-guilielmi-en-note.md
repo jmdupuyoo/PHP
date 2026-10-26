@@ -32,3 +32,5 @@ Aucune observation (espèce non citée parmi les cinq *Macrozamia* du JZT). Aucu
 
 ### Retouches FR 26246 / IT 27711 (26/10/2026)
 21 + 21 remplacements (simulation puis application) : données du plan de rétablissement 2007 connues par extrait (230 m, sables détrempés, crêtes) retirées (texte et Repères) ; « zamia staggers » des services du Queensland (extrait) retiré du texte et des sources ; POWO/Liste rouge « non consultés » → APC et date d'évaluation (Crossref, 14/08/2020) ; « n'a pas pu être vérifiée » (dédicataire) reformulé ; annotation du plan de 2007 (« document non lu, serveur indisponible ») reformulée ; annotations « consulté/lu directement » retirées. Brouillons alignés (0 écart).
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : balayage REST des pages enfants de 16301 ; corrections simulées puis appliquées sur cette page (annotation McKenzie « cycad section read in full » retirée, ou « could be read in full », °F complétés, seuil « 0 °C (32 °F) », ou meta « pot culture » → « pot cultivation », selon le cas ; détail : restructuration-fr.md et en-a-faire.md) ; brouillon aligné.

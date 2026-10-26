@@ -35,3 +35,5 @@
 - Retouche °F du 26/10 (fin de lot) : 5 valeur(s) en °C sans conversion °F complétée(s) (citations exceptées) ; simulation puis application ; brouillon aligné (0 écart).
 
 - 26/10/2026 (retouche 0 de MAC03) : source « Royal Botanic Gardens Victoria, Living Collection Census » (URL de recherche en 404) remplacée par la page d'accueil https://data.rbg.vic.gov.au/rbgcensus/ (phrase sans chiffre) ; simulation puis application (1) ; brouillon aligné (0 écart).
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : balayage REST des pages enfants de 16301 ; corrections simulées puis appliquées sur cette page (annotation McKenzie « cycad section read in full » retirée, ou « could be read in full », °F complétés, seuil « 0 °C (32 °F) », ou meta « pot culture » → « pot cultivation », selon le cas ; détail : restructuration-fr.md et en-a-faire.md) ; brouillon aligné.

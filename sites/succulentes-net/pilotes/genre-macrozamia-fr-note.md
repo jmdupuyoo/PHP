@@ -156,3 +156,5 @@ lomandroides, longispina, machinii, macleayi, occidua, parcifolia, platyrhachis,
 
 ## Retouche du 26/10/2026 (retouche 0 de MAC08)
 - Sources : notes « consulted directly / (non) consulté(e) directement / (non) consultata direttamente » retirées (11 remplacements ; annotations expliquant l’origine d’une donnée conservées) ; Hill 1998 complété (éditeur McCarthy, p. 597-661, 717-719). Simulation puis application, brouillon aligné. Lignes d’index liées en MAC08 (EN) : macleayi, occidua, parcifolia, platyrhachis, plurinervia (37/41).
+
+- 26/10/2026 (retouche 0 de MAC09) : ligne d'index *fawcettii* « dédié au magistrat Hugh Fawcett » → « dédié au magistrat de police C. Fawcett » (alignée sur l'EN et le protologue « C. Fawcett, Esq., P.M. ») ; « POWO n'a pas pu être consulté directement » retiré de la puce « Nombre d'espèces » de l'encadré (2 remplacements, simulés puis appliqués). « La Liste rouge n'a pas pu être consultée directement » conservé (origine des statuts).

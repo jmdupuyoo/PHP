@@ -28,3 +28,5 @@
 
 ## FR/IT (retouches du lot)
 - FR 26261 (24) et IT 27690 (24), simulation puis application : POWO, « Liste rouge non consultée », « consultée directement », « lu en entier », « non reprise », « non consultée » ; PalmTalk (Californie, Arizona, pourriture, −7,5 °C à Alice Springs) retiré du texte et des sources ; plan de rétablissement retiré (texte, FAQ, bibliographie) ; titre Mound & Terry 2001 corrigé ; date UICN. Brouillons alignés (0 écart).
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : balayage REST des pages enfants de 16301 ; corrections simulées puis appliquées sur cette page (annotation McKenzie « cycad section read in full » retirée, ou « could be read in full », °F complétés, seuil « 0 °C (32 °F) », ou meta « pot culture » → « pot cultivation », selon le cas ; détail : restructuration-fr.md et en-a-faire.md) ; brouillon aligné.

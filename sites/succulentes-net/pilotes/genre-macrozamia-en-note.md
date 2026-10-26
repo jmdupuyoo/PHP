@@ -23,3 +23,7 @@
 
 ## Retouche du 26/10/2026 (retouche 0 de MAC08)
 - Sources : notes « consulted directly / (non) consulté(e) directement / (non) consultata direttamente » retirées (11 remplacements ; annotations expliquant l’origine d’une donnée conservées) ; Hill 1998 complété (éditeur McCarthy, p. 597-661, 717-719). Ligne fawcettii : « the police magistrate C. Fawcett » (sources divergentes sur le prénom). Simulation puis application, brouillon aligné. Lignes d’index liées en MAC08 (EN) : macleayi, occidua, parcifolia, platyrhachis, plurinervia (37/41).
+
+- 26/10/2026 (retouche 0 de MAC09) : note de travail « POWO could not be consulted directly » retirée de la puce « Number of species » de l'encadré (1 remplacement, simulé puis appliqué ; le nombre d'espèces reste attribué à WLoC et Species+). « The Red List itself could not be consulted directly » conservé (origine des statuts).
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : annotation McKenzie « cycad section read in full » retirée de la bibliographie (1 remplacement simulé puis appliqué) ; brouillon aligné.

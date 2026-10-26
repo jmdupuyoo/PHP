@@ -27,3 +27,5 @@ Rien. Aucun message JMDUPUYOO. Classement relayé sur Fous de palmiers (#p323061
 
 ### Retouches FR 26303 / IT 27677 (26/10/2026)
 17 + 18 remplacements (simulation puis application) : POWO → APC ; date d'évaluation UICN (14/08/2020) ; « Liste rouge non consultée » ; « cette contradiction n'a pas pu être vérifiée, l'article n'ayant pas été consulté » → position de la révision de 2001 ; Forster & Osborne et Forster et al. 1994 « non consultés » → cités par WLoC / Jones et al. / FoA ; « PDF lu en entier » → texte intégral ; « données lues directement », « consultée directement », « non consulté » ; IT « elenchi pubblicati consultati ». Brouillons alignés (0 écart).
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : balayage REST des pages enfants de 16301 ; corrections simulées puis appliquées sur cette page (annotation McKenzie « cycad section read in full » retirée, ou « could be read in full », °F complétés, seuil « 0 °C (32 °F) », ou meta « pot culture » → « pot cultivation », selon le cas ; détail : restructuration-fr.md et en-a-faire.md) ; brouillon aligné.

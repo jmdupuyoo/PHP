@@ -29,3 +29,5 @@ Rien. Aucun message JMDUPUYOO. Classement relayé sur Fous de palmiers (#p323061
 
 ### Retouches FR 26299 / IT 27625 (26/10/2026)
 12 + 12 remplacements (simulation puis application) : date d'évaluation UICN (10/09/2020, Crossref), « Liste rouge non consultée », POWO « non consulté » → Australian Plant Census, « consultée directement », « fil lu en entier », « texte intégral consulté », « non consulté, cité d'après », IT « Nessuna fonte consultata ». Brouillons alignés (0 écart).
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : balayage REST des pages enfants de 16301 ; corrections simulées puis appliquées sur cette page (annotation McKenzie « cycad section read in full » retirée, ou « could be read in full », °F complétés, seuil « 0 °C (32 °F) », ou meta « pot culture » → « pot cultivation », selon le cas ; détail : restructuration-fr.md et en-a-faire.md) ; brouillon aligné.

@@ -25,3 +25,5 @@ Rien. Aucun message JMDUPUYOO. Espèce absente du classement relayé sur Fous de
 
 ### Retouches FR 26311 / IT 27622 (26/10/2026)
 13 + 15 remplacements (simulation puis application) : POWO « non consulté » → APC ; date d'évaluation UICN (27/08/2020) ; « Liste rouge non consultée » ; « nous n'avons pas pu vérifier l'historique sur la base fédérale » / « non abbiamo potuto verificarne la storia » retirés ; « consultée directement », « non consulté », IT « Nessuna fonte consultata », « non abbiamo trovato ». Brouillons alignés (0 écart).
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : balayage REST des pages enfants de 16301 ; corrections simulées puis appliquées sur cette page (annotation McKenzie « cycad section read in full » retirée, ou « could be read in full », °F complétés, seuil « 0 °C (32 °F) », ou meta « pot culture » → « pot cultivation », selon le cas ; détail : restructuration-fr.md et en-a-faire.md) ; brouillon aligné.

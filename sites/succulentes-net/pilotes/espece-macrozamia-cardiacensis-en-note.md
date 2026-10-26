@@ -32,3 +32,5 @@ Aucune ancienne fiche EN. Page de vente Rare Palm Seeds (« frost tolerance ») 
 
 ### Retouches FR 26291 / IT 27616 (26/10/2026)
 13 + 13 remplacements (simulation puis application) : POWO « non consulté » → Australian Plant Census ; date d'évaluation UICN (13/08/2020, Crossref) dans l'encadré, le statut et la bibliographie ; « Liste rouge non consultée » retiré ; « consultée directement », « données lues par le service de données », « fil lu en entier », « texte intégral consulté », « non consulté (directement) » reformulés ; IT « Nessuna fonte consultata ». Brouillons alignés (0 écart). Aucune mention d'extrait de recherche (relevé du 24/10 et contrôle du texte).
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : balayage REST des pages enfants de 16301 ; corrections simulées puis appliquées sur cette page (annotation McKenzie « cycad section read in full » retirée, ou « could be read in full », °F complétés, seuil « 0 °C (32 °F) », ou meta « pot culture » → « pot cultivation », selon le cas ; détail : restructuration-fr.md et en-a-faire.md) ; brouillon aligné.

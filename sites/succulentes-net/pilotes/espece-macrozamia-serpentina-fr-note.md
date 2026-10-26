@@ -66,3 +66,6 @@
 
 ## Correction du 17/10/2026
 - Sur accord du propriétaire, retrait des deux phrases de rusticité hypothétique (Culture > Climat ; Repères internationaux). Remplacées par « aucune donnée sur sa résistance au froid n'a été trouvée » et « Sa rusticité reste inconnue. »
+
+## Retouches du 26/10/2026 (lot MAC09)
+- Notes de travail visibles retirées (simulation puis application ; voir espece-macrozamia-serpentina-en-note.md) : POWO / Liste rouge « non consultés » remplacés par l'Australian Plant Census et la date de l'évaluation UICN (14/08/2020, Crossref) ; annotations « non consulté(e) » (Forster 1997, Batianoff et al. 1991) reformulées en provenance ; « consulté(e) directement », « interface de programmation », « texte lu », « lu(e) en entier ». Brouillon aligné sur le texte en ligne.

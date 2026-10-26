@@ -30,3 +30,5 @@ Habib et al. 2022 (revue et auteurs faux) ; climat de Narrabri « 599 mm », « 
 
 ## FR/IT (retouches du lot)
 - FR 26252 (8) et IT 27642 (7), simulation puis application : « Nom accepté (POWO) » → « Nom accepté » ; POWO « non consulté » retiré (×2) ; « Liste rouge non consultée » → date Crossref (04/09/2020) ; « aucune inscription … trouvée » → attribuée à l'ALA ; « aucun cultivateur n'en fait le récit sur les forums » → « aucun retour de culture n'est publié » ; annotations « non consulté » retirées. Brouillons alignés (0 écart).
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : balayage REST des pages enfants de 16301 ; corrections simulées puis appliquées sur cette page (annotation McKenzie « cycad section read in full » retirée, ou « could be read in full », °F complétés, seuil « 0 °C (32 °F) », ou meta « pot culture » → « pot cultivation », selon le cas ; détail : restructuration-fr.md et en-a-faire.md) ; brouillon aligné.

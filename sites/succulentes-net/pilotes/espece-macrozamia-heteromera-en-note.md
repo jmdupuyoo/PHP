@@ -30,3 +30,5 @@ Var. *tenuifolia* = « *M. polymorpha* » (= *stenomera*) ; « described in 1883
 
 ## FR/IT (retouches du lot)
 - FR 26245 (9) et IT 27648 (9), simulation puis application : « Nom accepté (POWO) » → « Nom accepté » ; POWO « non consulté » retiré (×2) ; « Liste rouge non consultée » → date Crossref ; « aucune inscription … trouvée » → ALA ; « aucun cultivateur n'en parle sur les forums » → « aucun retour de culture n'est publié » ; type : date « ca. 1845 » attribuée à WLoC + découverte de 1858 (Moore, cité par Johnson) ; protologue « non consulté » reformulé ; IT « L'unica fonte trovata » → « disponibile ». Brouillons alignés (0 écart).
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : balayage REST des pages enfants de 16301 ; corrections simulées puis appliquées sur cette page (annotation McKenzie « cycad section read in full » retirée, ou « could be read in full », °F complétés, seuil « 0 °C (32 °F) », ou meta « pot culture » → « pot cultivation », selon le cas ; détail : restructuration-fr.md et en-a-faire.md) ; brouillon aligné.

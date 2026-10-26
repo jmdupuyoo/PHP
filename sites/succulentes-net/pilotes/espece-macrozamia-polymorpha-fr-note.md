@@ -66,3 +66,6 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : tirets typographiques de WordPress et widgets du thème).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application, 6 liens en un appel pour les six fiches du lot).
+
+## Retouches du 26/10/2026 (lot MAC09)
+- Notes de travail visibles retirées (simulation puis application ; voir espece-macrozamia-polymorpha-en-note.md) : POWO / Liste rouge « non consultés » remplacés par l'Australian Plant Census et la date de l'évaluation UICN (10/09/2020, Crossref) ; « consulté(e) directement », « interface de programmation », « texte lu », « lu(e) en entier », « non consulté(e) » des annotations. Brouillon aligné sur le texte en ligne.

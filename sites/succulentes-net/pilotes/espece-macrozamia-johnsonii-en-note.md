@@ -27,3 +27,5 @@ UICN « LC » (VU en 2022) et opposition « LC mondial / Endangered NSW » ; sta
 
 ## FR/IT (retouches du lot)
 - FR 26275 (26) et IT 27670 (25), simulation puis application : POWO et « Liste rouge non consultée » retirés (date Crossref 14/08/2020) ; retours PalmTalk connus par extraits (Gainesville, Modesto, « −11 °C ») retirés du texte, de l'encadré, de la FAQ et des sources ; paragraphe « messages écartés » retiré ; « position non vérifiée, texte inaccessible » (Habib 2022) retiré ; annotations « consultée directement », « messages lus », « texte non consulté », « connu par », « lu lors de la préparation… » reformulées. Brouillons alignés (0 écart).
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : balayage REST des pages enfants de 16301 ; corrections simulées puis appliquées sur cette page (annotation McKenzie « cycad section read in full » retirée, ou « could be read in full », °F complétés, seuil « 0 °C (32 °F) », ou meta « pot culture » → « pot cultivation », selon le cas ; détail : restructuration-fr.md et en-a-faire.md) ; brouillon aligné.

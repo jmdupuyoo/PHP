@@ -26,3 +26,5 @@ Rien. Aucun message JMDUPUYOO. Classement relayé sur Fous de palmiers (#p323061
 
 ### Retouches FR 26307 / IT 27653 (26/10/2026)
 17 + 18 remplacements (simulation puis application) : POWO « non consulté » → APC ; date d'évaluation UICN (15/10/2020) dans l'encadré, le texte et la bibliographie ; « la Liste rouge n'a pas pu être consultée » ; Ironmonger 2003 « qui n'a pas pu être consulté » → « cité par The World List of Cycads » ; « consultée directement », « message lu directement », « non consulté », « texte latin non consulté » ; IT « elenchi pubblicati consultati nell'ottobre 2026 ». Brouillons alignés (0 écart).
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : balayage REST des pages enfants de 16301 ; corrections simulées puis appliquées sur cette page (annotation McKenzie « cycad section read in full » retirée, ou « could be read in full », °F complétés, seuil « 0 °C (32 °F) », ou meta « pot culture » → « pot cultivation », selon le cas ; détail : restructuration-fr.md et en-a-faire.md) ; brouillon aligné.

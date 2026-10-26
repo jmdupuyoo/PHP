@@ -31,3 +31,5 @@ UICN « Near Threatened » (→ LC 2022) ; « le plus attrayant des *Macrozamia*
 
 ## Retouche du 26/10/2026 (retouche 0 de MAC08)
 - Bibliographie : « Hill, K.D. (1998). Zamiaceae » → « Cycadophyta. In : McCarthy, P.M. (éd.), Flora of Australia 48 : 597-661, 717-719. ABRS/CSIRO Publishing » (titre du traitement vérifié sur la FoA en ligne) ; 1 remplacement simulé puis appliqué, brouillon aligné.
+
+- 26/10/2026 (bilan *Macrozamia* après MAC09) : balayage REST des pages enfants de 16301 ; corrections simulées puis appliquées sur cette page (annotation McKenzie « cycad section read in full » retirée, ou « could be read in full », °F complétés, seuil « 0 °C (32 °F) », ou meta « pot culture » → « pot cultivation », selon le cas ; détail : restructuration-fr.md et en-a-faire.md) ; brouillon aligné.
