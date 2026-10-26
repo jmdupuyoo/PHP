@@ -38,3 +38,5 @@ Vedi nota FR (data gennaio/febbraio 2012 dell'osservazione JZT, areale WLoC/Plan
 
 ### Fonti inaccessibili
 Come per la FR; inoltre pagina Messina vuota il 20/10/2026 (lettura dell'11/10/2026 utilizzata).
+
+- Ritocco del 26/10/2026 (lotto ENC09, pagina EN 16613): «POWO non ha potuto essere consultato direttamente», «non è stato possibile leggerlo» (Viljoen & van Staden) ritirati, «è stato trovato» → «è documentato» (3 sostituzioni, simulazione poi applicazione); bozza allineata (0 differenze).

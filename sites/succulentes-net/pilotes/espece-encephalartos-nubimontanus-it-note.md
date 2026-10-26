@@ -22,3 +22,5 @@
 
 ## Points douteux
 - POWO et UICN non lus (Cloudflare).
+
+- Ritocco del 26/10/2026 (lotto ENC09, pagina EN 16942): scheda PlantZAfrica (Ngwenya, agosto 2020) letta; passaggi «tramite estratto di ricerca» sostituiti (coltivazione, semina, polloni, parassiti, gelo, località, 100 adulti, dispersione), «cloud mountain cycad» ora attestato; POWO non consultato (×2), «non è stato possibile consultare», consigli generici non documentati, «sito bloccato» ritirati; fonte aggiunta (14 sostituzioni, simulazione poi applicazione); bozza allineata (0 differenze).

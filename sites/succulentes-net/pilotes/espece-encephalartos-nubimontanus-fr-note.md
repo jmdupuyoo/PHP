@@ -52,3 +52,5 @@
 4. Asie (Nong Nooch, ameblo, Kunming) : rien de spécifique trouvé.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 2 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+- Retouche du 26/10/2026 (lot ENC09, page EN 16942) : fiche PlantZAfrica (Ngwenya, août 2020, https://pza.sanbi.org/encephalartos-nubimontanus) lue avec un UA de navigateur ; « cloud mountain cycad » désormais attesté (PlantZAfrica) ; passages « par extrait » remplacés (culture, semis, rejets, ravageurs, gel, ancienne localité au nord et à l'est de Penge, jusqu'à 100 adultes, dispersion) ; POWO non consulté (×2), « aucune fiche de culture n'a pu être consultée », « (site bloqué) » retirés ; ligne de source ajoutée ; 14 remplacements (simulation puis application) ; brouillon aligné (0 écart).

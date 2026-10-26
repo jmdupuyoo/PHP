@@ -17,3 +17,5 @@ Gli stessi della FR (vedi nota FR): clima cifrato, piantagioni di pini ed eucali
 
 ### JZT e JMDUPUYOO
 Nessuna menzione del JZT; nessun messaggio JMDUPUYOO sul forum (vedi nota FR per il commento sul sito di Juniper Level).
+
+- Ritocco del 26/10/2026 (lotto ENC09, pagina EN 16922): «POWO non ha potuto essere consultato direttamente» ritirato; «trovata/trovate», «consultate» riformulati (3 sostituzioni, simulazione poi applicazione); bozza allineata (0 differenze).

@@ -45,3 +45,5 @@ POWO ; Liste rouge UICN ; redlist.sanbi.org ; Osborne 1991 (*Encephalartos* 27, 
 4. Population « 3 000-5 000 » et citation SANBI : non vérifiées (redlist.sanbi.org inaccessible).
 5. *E. heenanii* « considéré comme une forme de *paucidentatus* jusqu'en 1972 » : non sourcé (Dyer 1972 dit seulement qu'il est l'espèce la plus proche).
 6. Tronc « 6-7 m », altitude « 1 000-1 500 m », dispersion « singes, oiseaux, rongeurs, chauves-souris », Agaveville, « USDA 7b-10 », germination « reliable » : non sourcés.
+
+- Retouche du 26/10/2026 (lot ENC09, page EN 16922) : « ; POWO n'a pas pu être consulté directement » (encadré) retiré (1 remplacement, simulation puis application) ; brouillon aligné (0 écart).

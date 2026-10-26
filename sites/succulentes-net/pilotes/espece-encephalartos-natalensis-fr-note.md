@@ -58,3 +58,5 @@ Naples : 11 plantes en 1993-94 (Gaudio et al. 1997) ; delli paoli giuseppe, Trop
 6. Rétrocroisement *woodii* présenté comme programme établi « of several botanical institutions », « 15–25 years per generation », « reduced to a single individual more than a century ago » : non sourcé.
 7. Rusticité « reliable in zone 9b (−1 to −4 °C), −5 °C survived », « less hardy than friderici-guilielmi, horridus, lehmannii » : non sourcé ; ni l'observation de La Londe ni Juniper Level.
 8. « Natalbroodboom (Afrikaans) » correct ; « KwaZulu-Natal giant cycad » : nom non trouvé (Species+ : Natal giant cycad).
+
+- Retouche du 26/10/2026 (lot ENC09, page EN 16613) : « ; POWO n'a pas pu être consulté directement » (encadré) et « ; elle n'a pas pu être lue » (Viljoen & van Staden 2006) retirés (2 remplacements, simulation puis application) ; brouillon aligné (0 écart). Observation JZT inchangée (date janvier/février 2012 toujours en attente).

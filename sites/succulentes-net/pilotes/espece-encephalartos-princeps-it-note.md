@@ -17,3 +17,5 @@ Stessi fatti e fonti della FR (`espece-encephalartos-princeps-fr-note.md`). Toss
 
 ### Errori della vecchia IT eliminati
 Gli stessi della vecchia FR (traduzione): stazioni di Komga, Stutterheim ed East London (0,0 °C), PalmTalk, «−3 °C senza bruciature su Tropicamente» (falso: il messaggio del 12/12/2008 non riguarda *princeps*), ibrido *princeps* × *horridus* (Fairview, non verificato), «Nizza», «Kew Science», consigli non fondati, redlist.sanbi.org, AfricaCycads, overcastdata.
+
+- Ritocco del 26/10/2026 (lotto ENC09, pagina EN 16620): «POWO non ha potuto essere consultato direttamente», «non trovati sul sito pubblico di The Cycad Society» ritirati, «è stato trovato» → «è documentato» (3 sostituzioni, simulazione poi applicazione); bozza allineata (0 differenze).

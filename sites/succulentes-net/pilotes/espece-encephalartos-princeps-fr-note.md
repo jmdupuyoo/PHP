@@ -51,3 +51,5 @@ Ravenne (ffeeddee) : plant acheté 07/10/2009, aucune marque au 17/01/2010 (#pos
 5. Tronc « 1-3 m, typically single, suckering not prolific », couronne « 10-20 fronds », folioles « 1,5-2,5 cm de large », cônes mâles « 25-35 cm », femelles « 30-40 cm » : non conformes (touffes, folioles ~1,3 cm, cônes mâles 16-26 cm, femelles ~30 cm).
 6. Protologue « Bothalia 8(3): 345-360, New species of Encephalartos » : faux (J. S. Afr. Bot. 31(2) : 111-112) ; lien UICN « 41908/10582226 » erroné (T41922A51045400).
 7. Rusticité « zone 9a (−4 à −7 °C), 8b possible » : non sourcé ; Juniper Level absent.
+
+- Retouche du 26/10/2026 (lot ENC09, page EN 16620) : « ; POWO n'a pas pu être consulté directement » (encadré) et « non trouvés sur le site public de The Cycad Society » (bibliographie) retirés (2 remplacements, simulation puis application) ; brouillon aligné (0 écart).

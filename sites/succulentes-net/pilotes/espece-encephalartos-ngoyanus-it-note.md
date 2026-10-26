@@ -23,3 +23,5 @@
 ## Points douteux
 - POWO et UICN non lus (Cloudflare).
 - Présence actuelle à Naples non confirmée.
+
+- Ritocco del 26/10/2026 (lotto ENC09, pagina EN 16984): scheda PlantZAfrica (Zondi, marzo 2021) letta; tutti i passaggi «tramite estratti di ricerca» sostituiti dal suo contenuto; POWO non consultato (×2), «non ha potuto essere consultato», «sito bloccato», «fonte consultata» (×2), consigli «non verificati», provenienza interna di Palmer & Pitman ritirati o riformulati (18 sostituzioni, simulazione poi applicazione); bozza allineata (0 differenze).
