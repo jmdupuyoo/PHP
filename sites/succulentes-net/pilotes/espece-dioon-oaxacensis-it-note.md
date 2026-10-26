@@ -22,3 +22,7 @@
 - Aucune page IT ni redirection préexistante (list_content, list_redirects). Images : aucune (la FR n'en a pas). Alt : sans objet.
 - PalmTalk, POWO et UICN : non consultés directement (Cloudflare, non contourné) ; données UICN reprises de la FR (via WLoC/Species+).
 - Rien commité.
+
+## Retouche du 26/10/2026 (lot DIO02)
+- Notes de travail retirées ou reformulées (simulation puis application, brouillon aligné) : POWO de l'encadré → acceptation par la WCVP de Kew (version de juin 2026 publiée sur GBIF) ; annotations « non lu / non consulté / consultée directement / accès bloqué / lu en entier » retirées ; détail dans restructuration-fr.md (26/10/2026, « FR/IT du lot DIO02 »).
+- oaxacensis : protologue payant reformulé (sans note de travail), NOM-059 (liste antérieure à la description), toxicité alignée sur la formulation imposée, source Rarepalmseeds ajoutée (page relue le 26/10 : ancien nom Dioon sp. « El Camarón »).

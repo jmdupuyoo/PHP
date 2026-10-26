@@ -70,3 +70,7 @@
 3. Sources payantes ou bloquées : protologue, POWO, rarepalmseeds.
 4. France : aucune donnée, pour aucune zone.
 5. Encadré : rusticité, exposition en culture, port et dimensions non documentés.
+
+## Retouche du 26/10/2026 (lot DIO02)
+- Notes de travail retirées ou reformulées (simulation puis application, brouillon aligné) : POWO de l'encadré → acceptation par la WCVP de Kew (version de juin 2026 publiée sur GBIF) ; annotations « non lu / non consulté / consultée directement / accès bloqué / lu en entier » retirées ; détail dans restructuration-fr.md (26/10/2026, « FR/IT du lot DIO02 »).
+- oaxacensis : protologue payant reformulé (sans note de travail), NOM-059 (liste antérieure à la description), toxicité alignée sur la formulation imposée, source Rarepalmseeds ajoutée (page relue le 26/10 : ancien nom Dioon sp. « El Camarón »).

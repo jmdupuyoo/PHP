@@ -48,3 +48,7 @@
 ## Retouche du 25/10/2026 (avant ZAM15, page EN 22253)
 
 - EN 22253 (/en/cycads/dioon/nuusaviorum/) : « <em>Zamia paucijuga</em> Wieland » (déjà en italique dans le texte en ligne) lié à la page EN 32364 (simulation puis application, 1 remplacement). Aucun brouillon EN local pour cette page.
+
+## Retouche du 26/10/2026 (lot DIO02)
+- POWO « non consulté / non lu (accès bloqué) » → absent de la version de juin 2026 de la WCVP (GBIF) ; toxicité alignée sur la formulation imposée (BMAA conservée) ; « consultée directement » et « non consulté » retirés des sources ; brouillon aligné.
+- IT 22267 (sans brouillon, ancienne génération) : 5 corrections ponctuelles en ligne (« confuse con » → « ritenute simili a », « precipitazioni orografiche » retiré, « nessun riscontro… trovato » → « nessuna coltivazione è documentata », lien POWO des sources retiré, « non consultato » retiré) ; IT à reprendre au gabarit récent (signalé sous « Signalé lors de DIO02 »).

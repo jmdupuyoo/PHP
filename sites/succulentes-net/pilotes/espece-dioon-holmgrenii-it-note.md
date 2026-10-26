@@ -20,3 +20,7 @@
 
 ## Punti dubbi
 - Come per la FR: POWO non consultato; data e quota del tipo divergenti (WLoC / revisione); nessuna minima misurata.
+
+## Retouche du 26/10/2026 (lot DIO02)
+- Notes de travail retirées ou reformulées (simulation puis application, brouillon aligné) : POWO de l'encadré → acceptation par la WCVP de Kew (version de juin 2026 publiée sur GBIF) ; annotations « non lu / non consulté / consultée directement / accès bloqué / lu en entier » retirées ; détail dans restructuration-fr.md (26/10/2026, « FR/IT du lot DIO02 »).
+- holmgrenii : provenance interne (« ni sur ce site ni sur zootropical.com, consultés le 19/10 ») retirée ; annotation « d'après la fiche du site consacrée à cette espèce » absente (déjà retirée).

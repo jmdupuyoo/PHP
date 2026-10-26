@@ -84,3 +84,5 @@
 4. France : aucune donnée de culture en place, pour aucune zone ; aucun épisode hivernal.
 5. Encadré : rusticité non documentée (seule estimation de pépinière) ; exposition en culture d'après une pépinière.
 - 26/10/2026, fin du lot DIO01 : annotations « consulté(e) directement / consultata direttamente » et « fil lu en entier / discussione letta per intero » retirées des sources (replace_in_content, simulation puis application ; brouillon aligné).
+
+- 26/10/2026 (retouche 0 de DIO02) : toxicité alignée sur la formulation imposée (glycosides toxiques (cycasine, macrozamine), dont dérive le méthylazoxyméthanol).

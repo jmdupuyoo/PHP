@@ -16,3 +16,6 @@
 
 ## Observations JZT
 - Aucune.
+
+## Retouche du 26/10/2026 (lot DIO02)
+- Notes de travail retirées ou reformulées (simulation puis application, brouillon aligné) : POWO de l'encadré → acceptation par la WCVP de Kew (version de juin 2026 publiée sur GBIF) ; annotations « non lu / non consulté / consultée directement / accès bloqué / lu en entier » retirées ; détail dans restructuration-fr.md (26/10/2026, « FR/IT du lot DIO02 »).

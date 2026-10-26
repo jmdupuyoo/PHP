@@ -59,3 +59,7 @@
 
 ## Hors lot à revoir
 - Page genre FR 3794 et IT 11673 : « Dioon sonorense … élevé au rang d'espèce en 1998 » → WLoC : Phytologia 83(1), daté 1997, paru en 1998 (cohérent ; à préciser éventuellement).
+
+## Retouche du 26/10/2026 (lot DIO02)
+- Notes de travail retirées ou reformulées (simulation puis application, brouillon aligné) : POWO de l'encadré → acceptation par la WCVP de Kew (version de juin 2026 publiée sur GBIF) ; annotations « non lu / non consulté / consultée directement / accès bloqué / lu en entier » retirées ; détail dans restructuration-fr.md (26/10/2026, « FR/IT du lot DIO02 »).
+- holmgrenii : provenance interne (« ni sur ce site ni sur zootropical.com, consultés le 19/10 ») retirée ; annotation « d'après la fiche du site consacrée à cette espèce » absente (déjà retirée).

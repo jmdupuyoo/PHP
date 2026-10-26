@@ -36,3 +36,5 @@
 ## Hors lot à revoir
 - Rien de nouveau sur l'index 3794.
 - 26/10/2026, fin du lot DIO01 : annotations « consulté(e) directement / consultata direttamente » et « fil lu en entier / discussione letta per intero » retirées des sources (replace_in_content, simulation puis application ; brouillon aligné).
+
+- 26/10/2026 (retouche 0 de DIO02) : « var. califanoi … non vérifiée » remplacé par le fait sourcé : la combinaison *Dioon edule* var. *califanoi* (De Luca & Sabato) Nance est donnée comme synonyme par le Catalogue of Life et The Plant List (via GBIF, 26/10/2026) ; absente de l'IPNI.
