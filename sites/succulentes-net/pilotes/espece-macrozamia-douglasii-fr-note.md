@@ -72,3 +72,5 @@
 - Aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application).
 - Liens croisés : lien vers M. cardiacensis ajouté après publication (Confusions possibles).
+
+- 26/10/2026 (lot MAC06) : retouche 0 « paralysie irréversible » : irréversibilité attribuée à McKenzie (2006) et référence ajoutée. Notes de travail retirées (15 FR / 17 IT : date d'évaluation UICN 24/08/2020 d'après Crossref, « Liste rouge non consultée », protologue Bailey 1883 désormais lu (PDF The Cycad Society), POWO → Australian Plant Census, « consultée directement », « fil lu en entier », « texte intégral consulté », « non consulté, cité d'après », IT « non abbiamo trovato dati », « fonte consultata »). Fiche EN créée : 35133.

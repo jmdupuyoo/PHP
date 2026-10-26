@@ -68,3 +68,5 @@
 - Aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application).
 - Liens croisés : lien vers M. conferta posé avant publication.
+
+- 26/10/2026 (lot MAC06) : retouche 0 « paralysie irréversible » : irréversibilité attribuée à McKenzie (2006) et référence ajoutée (2). Notes de travail retirées (13 FR / 15 IT : POWO → Australian Plant Census, date d'évaluation UICN 27/08/2020 d'après Crossref, « Liste rouge non consultée », « nous n'avons pas pu vérifier l'historique » / « non abbiamo potuto verificarne la storia », « consultée directement », « non consulté », IT « non abbiamo trovato »). Fiche EN créée : 35120.

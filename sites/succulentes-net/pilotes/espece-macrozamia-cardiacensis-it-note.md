@@ -28,3 +28,5 @@
 - Rien commité.
 
 - 26/10/2026 (retouche 0 de MAC05) : orthographe du thrips vérifiée : *Cycadothrips chadwicki* Mound, 1991 (description originale, J. Nat. Hist. 25 : 647-652, p. 650, d'après ThripsWiki ; GBIF ; résumé de Terry 2001 sur OpenAlex ; titre Crossref de 2013). « chadwickii » (graphie de Jones et al. 2001) est une faute ; pages FR/IT/EN harmonisées sur « chadwicki ».
+
+- 26/10/2026 (lot MAC06) : retouche 0 « paralysie irréversible » : irréversibilité attribuée à McKenzie (2006, Toxicology for Australian Veterinarians, PDF Animal Health Australia, lu) et référence ajoutée en bibliographie (2 remplacements). Notes de travail retirées (13 remplacements : POWO → Australian Plant Census, date d'évaluation UICN 13/08/2020 d'après Crossref, « consultée directement », « non consulté », etc.). Fiche EN créée : 35107.

@@ -65,3 +65,5 @@
 - Aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application).
 - Liens croisés : liens vers M. pauli-guilielmi et M. fearnsidei ; en retour, liens vers M. crassifolia ajoutés dans les fiches M. fearnsidei (26264) et M. pauli-guilielmi (26246).
+
+- 26/10/2026 (lot MAC06) : retouche 0 « paralysie irréversible » : irréversibilité attribuée à McKenzie (2006) et référence ajoutée. Notes de travail retirées (12 FR / 12 IT : date d'évaluation UICN 10/09/2020 d'après Crossref, « Liste rouge non consultée », POWO → Australian Plant Census, « consultée directement », « fil lu en entier », « texte intégral consulté », « non consulté, cité d'après », IT « Nessuna fonte consultata »). Fiche EN créée : 35126.

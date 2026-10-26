@@ -69,3 +69,5 @@
 - Aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application).
 - Liens croisés : lien vers M. cranei ajouté après publication (Confusions possibles).
+
+- 26/10/2026 (lot MAC06) : notes de travail retirées (14 FR / 15 IT : POWO → Australian Plant Census, date d'évaluation UICN 14/08/2020 d'après Crossref, « Liste rouge non consultée », « consultée directement », « lu en entier », « non consulté », IT « non abbiamo trovato ») ; toxicité corrigée (1) : la mort ou les blessures citées par le plan ACCIONA concernent la plante broutée, non le bétail ; phrase remplacée par l'attribution de la cycasine à Halford (1997), cité par le plan. Fiche EN créée : 35115.

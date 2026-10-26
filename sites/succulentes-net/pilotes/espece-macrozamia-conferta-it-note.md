@@ -26,3 +26,5 @@
 - Brouillon `pilotes/espece-macrozamia-conferta-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, hors sommaire Easy TOC) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées (script) ; aucun `<em>` imbriqué ni nom abrégé.
 - Aucune page IT ni redirection préexistante (list_content it « Macrozamia », list_redirects).
 - Rien commité.
+
+- 26/10/2026 (lot MAC06) : notes de travail retirées (14 FR / 15 IT : POWO → Australian Plant Census, date d'évaluation UICN 14/08/2020 d'après Crossref, « Liste rouge non consultée », « consultée directement », « lu en entier », « non consulté », IT « non abbiamo trovato ») ; toxicité corrigée (1) : la mort ou les blessures citées par le plan ACCIONA concernent la plante broutée, non le bétail ; phrase remplacée par l'attribution de la cycasine à Halford (1997), cité par le plan. Fiche EN créée : 35115.

@@ -26,3 +26,5 @@
 - Brouillon `pilotes/espece-macrozamia-douglasii-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, hors sommaire Easy TOC) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées (script) ; aucun `<em>` imbriqué ni nom abrégé.
 - Aucune page IT ni redirection préexistante (list_content it « Macrozamia », list_redirects).
 - Rien commité.
+
+- 26/10/2026 (lot MAC06) : retouche 0 « paralysie irréversible » : irréversibilité attribuée à McKenzie (2006) et référence ajoutée. Notes de travail retirées (15 FR / 17 IT : date d'évaluation UICN 24/08/2020 d'après Crossref, « Liste rouge non consultée », protologue Bailey 1883 désormais lu (PDF The Cycad Society), POWO → Australian Plant Census, « consultée directement », « fil lu en entier », « texte intégral consulté », « non consulté, cité d'après », IT « non abbiamo trovato dati », « fonte consultata »). Fiche EN créée : 35133.
