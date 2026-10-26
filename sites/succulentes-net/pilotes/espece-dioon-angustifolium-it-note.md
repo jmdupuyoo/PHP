@@ -22,3 +22,4 @@
 - Bibliografia con link troncati (« … »), POWO e PalmTalk citati senza essere stati letti, Tropicamente citato con un thread su *D. edule* (−7 °C) non pertinente per la specie.
 - Presentazione dello status come incerto (« generalmente trattata come specie ») → specie, secondo la decisione del proprietario.
 - 26/10/2026, fin du lot DIO01 : annotations « consulté(e) directement / consultata direttamente » et « fil lu en entier / discussione letta per intero » retirées des sources (replace_in_content, simulation puis application ; brouillon aligné).
+- 26/10/2026 (retouche 0 de DIO04) : annotation « (riconoscimento ottico dei caratteri sulla copia) » retirée (1/1, simulation puis application) ; aucune autre note de travail visible (annotations de nature de la source conservées). Brouillon aligné.

@@ -40,3 +40,4 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Publication
 - Publiée le 03/10/2026 : id 26570, https://succulentes.net/cycadales/cycas/aenigma/ (200 sans redirection), parent 1256, aucune traduction ; SEO Rank Math appliqué ; lien ajouté dans l'index de la page genre 1256.
+- 26/10/2026 (retouche 0 de DIO04) : FAQ « Aucune analyse … n'a été consultée » → « n'est documentée » ; Ng et al. 2015 lu en texte intégral (accès libre) : premier travail chimique sur l'espèce, aucune analyse de toxicité → phrase de la Toxicité et annotation bibliographique réécrites (3 remplacements, simulation puis application) ; brouillon aligné.

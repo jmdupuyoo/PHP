@@ -55,3 +55,4 @@
 
 ## Retouche du 26/10/2026 (retouche 0 de DIO03)
 - IT 22267 réécrite entièrement au gabarit IT actuel d'après cette FR et l'EN 22253 (brouillon pilotes/espece-dioon-nuusaviorum-it.html et note -it-note.md créés) ; slug, parent 11673 et Polylang conservés ; SEO IT posé.
+- 26/10/2026 (retouche 0 de DIO04, même règle que *rzedowskii* / *salas-moralesiae*) : mention de la BMAA retirée de la Toxicité (formulation imposée seule) ; simulation 1/1 puis application 1/1 ; brouillon aligné.

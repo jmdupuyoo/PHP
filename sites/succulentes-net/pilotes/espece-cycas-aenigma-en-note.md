@@ -31,3 +31,4 @@
 - Lien sortant vers *Cycas sancti-lasallei* EN 30840 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).
 
 - Lien sortant vers *Cycas saxatilis* EN 30847 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).
+- 26/10/2026 (retouche 0 de DIO04) : FAQ « has been consulted » → « is documented » ; Ng et al. 2015 read in full (open access): first chemical study of the species, no toxicity analysis → Toxicity sentence and bibliography annotation rewritten (3 replacements, dry run then applied) ; draft aligned.

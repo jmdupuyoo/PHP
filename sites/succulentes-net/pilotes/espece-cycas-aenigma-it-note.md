@@ -28,3 +28,4 @@
 ## Liens croisés (12/10/2026)
 
 - Lien posé vers *Cycas lacrimans* (28664) à sa seule occurrence (Possibili confusioni), replace_in_content ciblé, dry run puis application ; brouillon aligné (verify.py : 0 bloc manquant).
+- 26/10/2026 (retouche 0 de DIO04) : FAQ « Non è stata consultata alcuna analisi » → « Non è documentata alcuna analisi di tossicità propria della specie » ; Ng et al. 2015 (JAPS 5(9) : 32-36, accès libre, texte intégral lu le 26/10) : premier travail chimique sur l'espèce (néolignane, pinorésinol, alcools gras, triglycérides, β-sitostérol/stigmastérol), aucune analyse de toxicité ni dosage de la cycasine → phrase de la Tossicità et annotation bibliographique réécrites ; même traitement en FR 26570 et EN 30105 (3 + 3 + 3, simulation puis application 9/9) ; brouillons alignés. Restent des notes de travail hors lot (POWO « non ha potuto essere consultato », Liste rouge, « consultata direttamente ») : signalées dans cycadales-a-verifier.md (DIO04).

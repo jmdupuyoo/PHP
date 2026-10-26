@@ -27,3 +27,4 @@
 
 ## Nettoyage DIO03 (26/10/2026)
 - 18 remplacements sur la page 27441 (replace_in_content, simulation puis application, compte identique) : POWO « non consulté » remplacé par la WCVP de Kew lue sur GBIF (juin 2026) ; Liste rouge « non consultée » remplacée par la vérification sur WLoC et Crossref ; annotations de lecture retirées ; toxicité alignée sur la formulation imposée. Wikipédia retiré des sources ; BMAA conservée à côté de la formulation imposée ; NOM-059 2019 ajoutée. Brouillon réécrit, identique au texte en ligne (comparaison REST).
+- 26/10/2026 (retouche 0 de DIO04) : mention de la BMAA retirée de la Tossicità (règle du propriétaire pour les genres autres que *Cycas* ; aucune source lue ne l'établit pour ce *Dioon*) ; simulation 1/1 puis application 1/1 ; brouillon aligné.

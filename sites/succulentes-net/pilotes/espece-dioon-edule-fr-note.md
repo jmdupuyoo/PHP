@@ -75,3 +75,4 @@
 - Brouillon `espece-dioon-edule-fr.html` resynchronisé sur le contenu en ligne (rev.py : seule différence = sommaire automatique ; blocs 153/153 ; aucun commentaire visible ; hreflang fr/it/en).
 - Point 42 ci-dessus traité par la réécriture AD2 de la FR 7876.
 - 26/10/2026, fin du lot DIO01 : annotations « consulté(e) directement / consultata direttamente » et « fil lu en entier / discussione letta per intero » retirées des sources (replace_in_content, simulation puis application ; brouillon aligné).
+- 26/10/2026 (retouche 0 de DIO04) : balayage du texte en ligne (5273) : aucune note de travail visible (extraits de recherche, « non consulté », POWO, accès bloqué : 0) ; seules restent les annotations de nature de la source (« texte lu », « texte intégral lu », « résumé lu »), conservées comme dans les fiches DIO01-DIO03 ; aucun remplacement.
