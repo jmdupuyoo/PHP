@@ -87,3 +87,6 @@
 3. Sources bloquées : POWO, UICN, PalmTalk, Dave's Garden, BHL (Cloudflare ; texte lu sur archive.org), rarepalmseeds.
 4. France : aucune donnée de culture en place, pour aucune zone ; aucun épisode hivernal documenté.
 5. Encadré : rusticité non documentée (estimations attribuées) ; substrat en culture non documenté.
+
+## Nettoyage DIO03 (26/10/2026)
+- 12 remplacements sur la page 26139 (replace_in_content, simulation puis application, compte identique) : POWO « non consulté » remplacé par la WCVP de Kew lue sur GBIF (juin 2026) ; Liste rouge « non consultée » remplacée par la vérification sur WLoC et Crossref ; annotations de lecture retirées ; toxicité alignée sur la formulation imposée. Phrase et source PalmTalk (extrait de recherche) retirées ; NOM-059 2019 ajoutée (P, noms chontal, « palma real »). Brouillon réécrit, identique au texte en ligne (comparaison REST).

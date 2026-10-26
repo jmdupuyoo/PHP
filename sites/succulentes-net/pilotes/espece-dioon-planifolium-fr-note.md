@@ -66,3 +66,6 @@
 3. Sources bloquées : BioOne, POWO, UICN.
 4. France : aucune donnée, pour aucune zone.
 5. Encadré : rusticité et exposition en culture non documentées.
+
+## Nettoyage DIO03 (26/10/2026)
+- 15 remplacements sur la page 26137 (replace_in_content, simulation puis application, compte identique) : POWO « non consulté » remplacé par la WCVP de Kew lue sur GBIF (juin 2026) ; Liste rouge « non consultée » remplacée par la vérification sur WLoC et Crossref ; annotations de lecture retirées ; toxicité alignée sur la formulation imposée. Mention « description originale… n'a pas pu être consultée » conservée (explique la provenance des données). Brouillon réécrit, identique au texte en ligne (comparaison REST).

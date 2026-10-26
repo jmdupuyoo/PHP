@@ -79,3 +79,6 @@ Intro : /cycadales/dioon/ (seul lien). Corps, 1re occurrence : /cycadales/dioon/
 - Note 4 (habitat) : le protologue dit bien « bosque tropical subcaducifolio » et « prefers more open areas » ; repris et opposé à la « forêt tropicale humide » de la révision 2020 et de Skelley et al. 2022, sans trancher.
 - Autres écarts : altitude 650-850 m (protologue) contre 400-1 300 m (révision) ; nervures 30-35 contre une douzaine ; cône mâle 30-50 cm contre 30-35 cm.
 - Publication : replace_in_content (dry run puis application, 13 remplacements), brouillon mis à jour, comparaison identique, URL 200.
+
+## Nettoyage DIO03 (26/10/2026)
+- 18 remplacements sur la page 26144 (replace_in_content, simulation puis application, compte identique) : POWO « non consulté » remplacé par la WCVP de Kew lue sur GBIF (juin 2026) ; Liste rouge « non consultée » remplacée par la vérification sur WLoC et Crossref ; annotations de lecture retirées ; toxicité alignée sur la formulation imposée. Wikipédia retiré des sources ; BMAA conservée à côté de la formulation imposée ; NOM-059 2019 ajoutée. Brouillon réécrit, identique au texte en ligne (comparaison REST).

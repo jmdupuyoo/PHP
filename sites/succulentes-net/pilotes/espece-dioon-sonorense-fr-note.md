@@ -51,3 +51,6 @@
 
 ## Hors lot à revoir
 - Page EN *D. vovidesii* et fiches non vérifiées : à aligner sur la limite du 28e parallèle.
+
+## Nettoyage DIO03 (26/10/2026)
+- 8 remplacements sur la page 13251 (replace_in_content, simulation puis application, compte identique) : POWO « non consulté » remplacé par la WCVP de Kew lue sur GBIF (juin 2026) ; Liste rouge « non consultée » remplacée par la vérification sur WLoC et Crossref ; annotations de lecture retirées ; toxicité alignée sur la formulation imposée. Annotations « non lu / non consulté / consultée directement / accès bloqué » et phrase JZT « ni sur ce site ni sur zootropical.com » retirées. Brouillon réécrit, identique au texte en ligne (comparaison REST).

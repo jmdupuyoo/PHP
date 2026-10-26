@@ -22,3 +22,6 @@
 - Aucune page IT ni redirection préexistante (list_content, list_redirects). Images : aucune (la FR n'en a pas). Alt : sans objet.
 - PalmTalk, POWO et UICN : non consultés directement (Cloudflare, non contourné) ; données UICN reprises de la FR (via WLoC/Species+).
 - Rien commité.
+
+## Nettoyage DIO03 (26/10/2026)
+- 15 remplacements sur la page 27442 (replace_in_content, simulation puis application, compte identique) : POWO « non consulté » remplacé par la WCVP de Kew lue sur GBIF (juin 2026) ; Liste rouge « non consultée » remplacée par la vérification sur WLoC et Crossref ; annotations de lecture retirées ; toxicité alignée sur la formulation imposée. « Accès payant » pour le protologue ; phrase « faute d'avoir pu les vérifier » et extrait de recherche retirés. Brouillon réécrit, identique au texte en ligne (comparaison REST).

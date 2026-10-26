@@ -56,3 +56,5 @@
 ## Complément du 19/10/2026 (NOM-059)
 - Texte officiel NOM-059-SEMARNAT-2010 (DOF, https://dof.gob.mx/normasOficiales/4254/semarnat/semarnat.htm) finalement lisible : phrase « catégorie non vérifiée » remplacée par la catégorie P (en danger d'extinction) via replace_in_content (simulation 1/1 puis 1/1) ; brouillon aligné.
 - Complément (19/10/2026) : description originale d'Eichler 1883 lue (copie de The Cycad Society, https://www.cycad.org/documents/descriptions/Dioon/Dioon-spinulosum.pdf) ; mention bibliographique mise à jour (replace_in_content, 1/1) ; brouillon aligné.
+
+- 26/10/2026 (retouche 0 de DIO03) : note de travail « analyse non consultée » reformulée en fait (« Aucune analyse propre à l'espèce n'est documentée » / « Non è documentata alcuna analisi propria della specie ») dans FR 11161, IT 12889 (califanoi), FR 5286 et IT 11863 (spinulosum) : replace_in_content, simulation 4/4 puis application 4/4 ; brouillons alignés.

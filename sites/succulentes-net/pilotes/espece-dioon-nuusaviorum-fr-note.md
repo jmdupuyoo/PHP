@@ -52,3 +52,6 @@
 ## Retouche du 26/10/2026 (lot DIO02)
 - POWO « non consulté / non lu (accès bloqué) » → absent de la version de juin 2026 de la WCVP (GBIF) ; toxicité alignée sur la formulation imposée (BMAA conservée) ; « consultée directement » et « non consulté » retirés des sources ; brouillon aligné.
 - IT 22267 (sans brouillon, ancienne génération) : 5 corrections ponctuelles en ligne (« confuse con » → « ritenute simili a », « precipitazioni orografiche » retiré, « nessun riscontro… trovato » → « nessuna coltivazione è documentata », lien POWO des sources retiré, « non consultato » retiré) ; IT à reprendre au gabarit récent (signalé sous « Signalé lors de DIO02 »).
+
+## Retouche du 26/10/2026 (retouche 0 de DIO03)
+- IT 22267 réécrite entièrement au gabarit IT actuel d'après cette FR et l'EN 22253 (brouillon pilotes/espece-dioon-nuusaviorum-it.html et note -it-note.md créés) ; slug, parent 11673 et Polylang conservés ; SEO IT posé.

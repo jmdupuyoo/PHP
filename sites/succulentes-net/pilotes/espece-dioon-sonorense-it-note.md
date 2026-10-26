@@ -15,3 +15,6 @@
 
 ## Errori della vecchia IT corretti
 - Gli stessi della vecchia FR (vedi nota FR), in particolare: popolazioni di *D. vovidesii* attribuite a *D. sonorense*, «la specie più settentrionale», rusticità «−3/−6 °C, 9b-10a», titolo inventato dell'articolo del 1998, «Salvatore Sabato», orti botanici e collezionisti europei non documentati, coltivazione e semina non fondate.
+
+## Nettoyage DIO03 (26/10/2026)
+- 8 remplacements sur la page 13260 (replace_in_content, simulation puis application, compte identique) : POWO « non consulté » remplacé par la WCVP de Kew lue sur GBIF (juin 2026) ; Liste rouge « non consultée » remplacée par la vérification sur WLoC et Crossref ; annotations de lecture retirées ; toxicité alignée sur la formulation imposée. Annotations « non lu / non consulté / consultée directement / accès bloqué » et phrase JZT « ni sur ce site ni sur zootropical.com » retirées. Brouillon réécrit, identique au texte en ligne (comparaison REST).

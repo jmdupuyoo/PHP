@@ -54,3 +54,7 @@ Intro : /cycadales/dioon/. Corps : /cycadales/dioon/merolae/, /cycadales/dioon/c
 3. Sources introuvables ou bloquées : POWO, UICN, texte Phytotaxa, PalmTalk ; sources thaïlandaises, japonaises et chinoises : rien.
 4. France : aucune donnée pour aucune zone.
 5. Encadré : « Rusticité », « Exposition et substrat » et dimensions non documentés.
+
+## Nettoyage DIO03 (26/10/2026)
+- 16 remplacements sur la page 26148 (replace_in_content, simulation puis application, compte identique) : POWO « non consulté » remplacé par la WCVP de Kew lue sur GBIF (juin 2026) ; Liste rouge « non consultée » remplacée par la vérification sur WLoC et Crossref ; annotations de lecture retirées ; toxicité alignée sur la formulation imposée. « Accès payant » pour le protologue ; phrase « faute d'avoir pu les vérifier » et extrait de recherche retirés. Brouillon réécrit, identique au texte en ligne (comparaison REST).
+- Ajout (1 remplacement, simulation puis application) : « ni dans les autres sources consultées » → « ni sur le forum italien Tropicamente ni ailleurs » ; brouillon aligné.
