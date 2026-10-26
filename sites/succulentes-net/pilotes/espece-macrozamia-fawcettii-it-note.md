@@ -26,3 +26,7 @@
 - Brouillon `pilotes/espece-macrozamia-fawcettii-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, hors sommaire Easy TOC) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées (script) ; aucun `<em>` imbriqué ni nom abrégé.
 - Aucune page IT ni redirection préexistante (list_content it « Macrozamia », list_redirects).
 - Rien commité.
+
+- 26/10/2026 (ritocco 0 di MAC07) : bibliografia « Hill, K.D. (1998). Zamiaceae » corretta in « Cycadophyta. In: McCarthy, P.M. (a cura di), *Flora of Australia* 48: 597-661, 717-719 », titolo verificato sulla bibliografia del profilo online della Flora of Australia (profiles.ala.org.au, 200 il 26/10/2026) ; simulazione poi applicazione ; bozza allineata.
+
+- 26/10/2026 (lotto MAC07, creazione della pagina EN) : note di lavoro visibili corrette (21 + 20 sostituzioni FR + IT, simulazione poi applicazione ; dettaglio in espece-macrozamia-fawcettii-en-note.md) ; bozza allineata al testo online (0 differenze).

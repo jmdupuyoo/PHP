@@ -28,3 +28,5 @@
 - Rien commité.
 
 - 26/10/2026 (lot MAC06) : notes de travail retirées (14 FR / 15 IT : POWO → Australian Plant Census, date d'évaluation UICN 14/08/2020 d'après Crossref, « Liste rouge non consultée », « consultée directement », « lu en entier », « non consulté », IT « non abbiamo trovato ») ; toxicité corrigée (1) : la mort ou les blessures citées par le plan ACCIONA concernent la plante broutée, non le bétail ; phrase remplacée par l'attribution de la cycasine à Halford (1997), cité par le plan. Fiche EN créée : 35115.
+
+- 26/10/2026 (ritocco 0 di MAC07) : bibliografia « Hill, K.D. (1998). Zamiaceae » corretta in « Cycadophyta. In: McCarthy, P.M. (a cura di), *Flora of Australia* 48: 597-661, 717-719 », titolo verificato sulla bibliografia del profilo online della Flora of Australia (profiles.ala.org.au, 200 il 26/10/2026) ; simulazione poi applicazione ; bozza allineata.

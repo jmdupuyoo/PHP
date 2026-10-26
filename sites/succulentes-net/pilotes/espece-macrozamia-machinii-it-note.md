@@ -27,3 +27,5 @@
 - Liens internes tous IT et en 200 (curl) ; aucun lien vers une page FR. Sources : URL en texte brut (rendues cliquables par l'extrait du site).
 - POWO, Liste rouge UICN, PalmTalk, BHL non consultés (Cloudflare) : statuts repris de la FR (WLoC).
 - Rien commité.
+
+- 26/10/2026 (lotto MAC07, creazione della pagina EN) : note di lavoro visibili corrette (17 + 17 sostituzioni FR + IT, simulazione poi applicazione ; dettaglio in espece-macrozamia-machinii-en-note.md) ; bozza allineata al testo online (0 differenze).

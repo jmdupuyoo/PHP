@@ -59,3 +59,5 @@ Aucune.
 
 ## Publication (02/10/2026)
 - Page publiée : id 26307, https://succulentes.net/cycadales/macrozamia/humilis/ (200, sans redirection ; parent 1453 ; aucune traduction liée). SEO Rank Math appliqué. Aucune redirection ancienne trouvée pour cette URL. Lien ajouté sur la première occurrence de l'index des espèces de la page genre 1453.
+
+- 26/10/2026 (lot MAC07, création de l'EN) : notes de travail visibles corrigées (17 + 18 remplacements FR + IT, simulation puis application ; détail dans espece-macrozamia-humilis-en-note.md, « Retouches FR / IT ») ; brouillon aligné sur le texte en ligne (0 écart).

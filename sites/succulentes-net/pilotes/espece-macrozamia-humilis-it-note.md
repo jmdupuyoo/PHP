@@ -25,3 +25,5 @@
 ## Sources communes
 - Prompt `prompts/redaction-fiches.md` (Version italienne), `scratchpad/it-especes-commun.txt`, `pilotes/cycadales-jardins-botaniques-italie.md`, page genre IT 12116 et sa note.
 - Liens externes vérifiés le 11/10/2026 : tous en 200 sauf PalmTalk (403, Cloudflare, non contourné) et archive.unews.utah.edu (502), déjà signalés en FR.
+
+- 26/10/2026 (lotto MAC07, creazione della pagina EN) : note di lavoro visibili corrette (17 + 18 sostituzioni FR + IT, simulazione poi applicazione ; dettaglio in espece-macrozamia-humilis-en-note.md) ; bozza allineata al testo online (0 differenze).

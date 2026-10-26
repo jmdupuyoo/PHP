@@ -70,3 +70,5 @@
 - Liens croisés : lien vers M. conferta posé avant publication.
 
 - 26/10/2026 (lot MAC06) : retouche 0 « paralysie irréversible » : irréversibilité attribuée à McKenzie (2006) et référence ajoutée (2). Notes de travail retirées (13 FR / 15 IT : POWO → Australian Plant Census, date d'évaluation UICN 27/08/2020 d'après Crossref, « Liste rouge non consultée », « nous n'avons pas pu vérifier l'historique » / « non abbiamo potuto verificarne la storia », « consultée directement », « non consulté », IT « non abbiamo trovato »). Fiche EN créée : 35120.
+
+- 26/10/2026 (retouche 0 de MAC07) : bibliographie « Hill, K.D. (1998). Zamiaceae » corrigée en « Cycadophyta. In : McCarthy, P.M. (éd.), *Flora of Australia* 48 : 597-661, 717-719 », titre vérifié sur la bibliographie du profil en ligne de la Flora of Australia (profiles.ala.org.au, 200 le 26/10/2026) ; simulation puis application ; brouillon aligné.

@@ -28,3 +28,5 @@
 - Rien commité.
 
 - 26/10/2026 (lot MAC06) : retouche 0 « paralysie irréversible » : irréversibilité attribuée à McKenzie (2006) et référence ajoutée. Notes de travail retirées (12 FR / 12 IT : date d'évaluation UICN 10/09/2020 d'après Crossref, « Liste rouge non consultée », POWO → Australian Plant Census, « consultée directement », « fil lu en entier », « texte intégral consulté », « non consulté, cité d'après », IT « Nessuna fonte consultata »). Fiche EN créée : 35126.
+
+- 26/10/2026 (ritocco 0 di MAC07) : bibliografia « Hill, K.D. (1998). Zamiaceae » corretta in « Cycadophyta. In: McCarthy, P.M. (a cura di), *Flora of Australia* 48: 597-661, 717-719 », titolo verificato sulla bibliografia del profilo online della Flora of Australia (profiles.ala.org.au, 200 il 26/10/2026) ; simulazione poi applicazione ; bozza allineata.

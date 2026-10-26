@@ -76,7 +76,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - MAC04 : moorei R18031/FR1833 fait (26/10/2026, 18031), mountperriensis R18061/FR26254 fait (26/10/2026, 18061), pauli-guilielmi R18175/FR26246 fait (26/10/2026, 18175), reducta R18183/FR26259 fait (26/10/2026, 18183), riedlei R18044/FR26236 fait (26/10/2026, 18044) — lot MAC04 terminé le 26/10/2026
 - MAC05 : spiralis R18094/FR26239 fait (26/10/2026, 18094), stenomera R18167/FR26266 fait (26/10/2026, 18167) — lot MAC05 terminé le 26/10/2026
 - MAC06 : cardiacensis C/FR26291 fait (26/10/2026, 35107), conferta C/FR26295 fait (26/10/2026, 35115), cranei C/FR26311 fait (26/10/2026, 35120), crassifolia C/FR26299 fait (26/10/2026, 35126), douglasii C/FR26289 fait (26/10/2026, 35133) — lot MAC06 terminé le 26/10/2026
-- MAC07 : fawcettii C/FR26305, humilis C/FR26307, lomandroides C/FR26316, longispina C/FR26303, machinii C/FR26327
+- MAC07 : fawcettii C/FR26305 fait (26/10/2026, 35152), humilis C/FR26307 fait (26/10/2026, 35160), lomandroides C/FR26316 fait (26/10/2026, 35166), longispina C/FR26303 fait (26/10/2026, 35173), machinii C/FR26327 fait (26/10/2026, 35180) — lot MAC07 terminé le 26/10/2026
 - MAC08 : macleayi C/FR26297, occidua C/FR26333, parcifolia C/FR26340, platyrhachis C/FR26337, plurinervia C/FR26309
 - MAC09 : polymorpha C/FR26301, secunda C/FR26293, serpentina C/FR26331, viridis C/FR26318
 

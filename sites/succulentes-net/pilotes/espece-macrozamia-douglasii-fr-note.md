@@ -74,3 +74,7 @@
 - Liens croisés : lien vers M. cardiacensis ajouté après publication (Confusions possibles).
 
 - 26/10/2026 (lot MAC06) : retouche 0 « paralysie irréversible » : irréversibilité attribuée à McKenzie (2006) et référence ajoutée. Notes de travail retirées (15 FR / 17 IT : date d'évaluation UICN 24/08/2020 d'après Crossref, « Liste rouge non consultée », protologue Bailey 1883 désormais lu (PDF The Cycad Society), POWO → Australian Plant Census, « consultée directement », « fil lu en entier », « texte intégral consulté », « non consulté, cité d'après », IT « non abbiamo trovato dati », « fonte consultata »). Fiche EN créée : 35133.
+
+- 26/10/2026 (retouche 0 de MAC07) : bibliographie « Hill, K.D. (1998). Zamiaceae » corrigée en « Cycadophyta. In : McCarthy, P.M. (éd.), *Flora of Australia* 48 : 597-661, 717-719 », titre vérifié sur la bibliographie du profil en ligne de la Flora of Australia (profiles.ala.org.au, 200 le 26/10/2026) ; simulation puis application ; brouillon aligné.
+
+- 26/10/2026 (retouche 0 de MAC07) : « Lawrie Johnson » → « L.A.S. Johnson » ; Bracewell réduit à « un forçat évadé » / « un forzato evaso » (Asmussen 2011, p. relue : « Bracewell, an escaped convict ») ; nom « Coobine » ajouté (encadré, Noms communs, annotation du protologue) d'après le protologue de Bailey 1883, p. 500 (« Native name, “Coobine.” (Fraser's Island.) », PDF The Cycad Society relu par image) ; simulation puis application (6 remplacements avec la correction Hill) ; brouillon aligné.

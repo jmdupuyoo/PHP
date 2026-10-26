@@ -29,3 +29,5 @@ Comme en FR : POWO, IUCN, PalmTalk, Britannica, conifers.org, certaines pages (4
 
 ## Ritocco 0 di MAC05 (26/10/2026)
 - Menzioni di estratti trattate (10 sostituzioni, simulazione poi applicazione, bozza allineata) : criteri delle sezioni secondo Johnson 1959 (copia locale, chiave p. 89-90) ; paragrafo « push-pull » allineato all'EN (Terry et al. 2007, riassunto PubMed : specie non nominata ; Roemer et al. 2008 aggiunto in bibliografia) ; comunicato dell'Utah rimosso ; riga d'indice *lucida* allineata ; DAF Queensland rimosso (403) con i suoi dati ; « zamia staggers » riscritta secondo Healy 1967 e Glassop & Gill 2007 ; FAQ senza « irreversibile » ; Terry 2001 : riassunto letto su OpenAlex.
+
+- 26/10/2026 (retouche 0 de MAC07) : irréversibilité de la « zamia staggers » rétablie et attribuée à McKenzie (2006, *Toxicology for Australian Veterinarians*, AAPSP, PDF relu : « The syndrome is irreversible… finally, posterior paralysis », « Therapy: nil ») dans la puce toxicité et la FAQ, comme dans les 67 fiches espèces ; référence McKenzie ajoutée en bibliographie après Glassop & Gill. 3 remplacements, simulation puis application ; brouillon aligné.

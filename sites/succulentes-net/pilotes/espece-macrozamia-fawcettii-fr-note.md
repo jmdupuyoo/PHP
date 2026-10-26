@@ -72,3 +72,7 @@
 - Aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application).
 - Liens croisés : lien vers M. flexuosa ajouté après publication ; en retour, liens vers M. fawcettii ajoutés dans les fiches M. flexuosa (26278) et M. concinna (26242).
+
+- 26/10/2026 (retouche 0 de MAC07) : bibliographie « Hill, K.D. (1998). Zamiaceae » corrigée en « Cycadophyta. In : McCarthy, P.M. (éd.), *Flora of Australia* 48 : 597-661, 717-719 », titre vérifié sur la bibliographie du profil en ligne de la Flora of Australia (profiles.ala.org.au, 200 le 26/10/2026) ; simulation puis application ; brouillon aligné.
+
+- 26/10/2026 (lot MAC07, création de l'EN) : notes de travail visibles corrigées (21 + 20 remplacements FR + IT, simulation puis application ; détail dans espece-macrozamia-fawcettii-en-note.md, « Retouches FR / IT ») ; brouillon aligné sur le texte en ligne (0 écart).
