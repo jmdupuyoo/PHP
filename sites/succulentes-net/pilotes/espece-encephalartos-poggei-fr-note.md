@@ -54,3 +54,6 @@
 
 ## Publication
 - Publiée le 02/10/2026 : id 26328, https://succulentes.net/cycadales/encephalartos/poggei/ (200, sans redirection) ; SEO Rank Math appliqué ; lien ajouté dans l’index de la page genre 14229. Aucune redirection ancienne trouvée pour cette URL.
+
+## Retouches du 26/10/2026 (lot ENC13)
+- FR 26328 : 4 remplacements (simulation puis application, `replace_in_content`) : POWO (×2) et « Liste rouge non consultée » retirés (date Crossref 02/04/2020) ; DOI UICN ajouté. Page EN créée : 34812. Brouillon aligné sur le contenu en ligne (0 écart).

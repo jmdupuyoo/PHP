@@ -76,3 +76,6 @@
 
 ## Publication
 - Publiée le 02/10/2026 : id 26313, https://succulentes.net/cycadales/encephalartos/afer/ (200, sans redirection) ; SEO Rank Math appliqué ; lien ajouté dans l’index de la page genre 14229. Aucune redirection ancienne trouvée pour cette URL.
+
+## Retouches du 26/10/2026 (lot ENC13)
+- FR 26313 : 14 remplacements (simulation puis application, `replace_in_content`) : mentions « extraits de PlantZAfrica » remplacées par la fiche lue (Xaba 2009, UA de navigateur) et faits non confirmés corrigés (feux, pluies, menaces) ; multiplication et rusticité complétées (Kirstenbosch, zones horticoles) ; POWO (×2) et « site bloqué » retirés ; vote 351/205 sourcé (Smithsonian, 24/07/2024, ajouté en Sites) ; Bösenberg 2022 daté (27/05/2020, Crossref/GBIF). Page EN : 16786 renommée `afer` (301 depuis `/caffer/`). Brouillon aligné sur le contenu en ligne (0 écart).

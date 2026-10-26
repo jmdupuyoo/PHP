@@ -22,3 +22,6 @@
 ## Points douteux
 - Aucun.
 - POWO et UICN non lus (Cloudflare), comme en FR.
+
+## Retouches du 26/10/2026 (lot ENC13)
+- IT 27793 : 8 sostituzioni (simulation puis application, `replace_in_content`) : évaluation UICN 2024 (CEPF & Bösenberg, 18/03/2020, Liste rouge 2024-1) présentée comme en vigueur, 2010 gardée comme historique ; POWO (×2), « Liste rouge non consultée », « article lu / consultato » retirés. Page EN créée : 34792. Brouillon aligné sur le contenu en ligne (0 écart).

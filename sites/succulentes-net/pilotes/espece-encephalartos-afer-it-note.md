@@ -23,3 +23,6 @@
 - `pilotes/espece-encephalartos-afer-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot : ndiff 0) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées ; aucun lien vers une page FR ; liens internes IT tous en 200 (vérifié après publication des 10 fiches).
 - Aucune page IT ni redirection préexistante. Images : aucune (la FR n'en a pas).
 - Rien commité.
+
+## Retouches du 26/10/2026 (lot ENC13)
+- IT 27751 : 14 sostituzioni (simulation puis application, `replace_in_content`) : mentions « extraits de PlantZAfrica » remplacées par la fiche lue (Xaba 2009, UA de navigateur) et faits non confirmés corrigés (feux, pluies, menaces) ; multiplication et rusticité complétées (Kirstenbosch, zones horticoles) ; POWO (×2) et « site bloqué » retirés ; vote 351/205 sourcé (Smithsonian, 24/07/2024, ajouté en Sites) ; Bösenberg 2022 daté (27/05/2020, Crossref/GBIF). Page EN : 16786 renommée `afer` (301 depuis `/caffer/`). Brouillon aligné sur le contenu en ligne (0 écart).

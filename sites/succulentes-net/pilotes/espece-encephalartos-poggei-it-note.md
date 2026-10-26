@@ -23,3 +23,6 @@
 ## Points douteux
 - POWO et UICN non lus (Cloudflare).
 - Présence actuelle à Naples non confirmée.
+
+## Retouches du 26/10/2026 (lot ENC13)
+- IT 27868 : 4 sostituzioni (simulation puis application, `replace_in_content`) : POWO (×2) et « Liste rouge non consultée » retirés (date Crossref 02/04/2020) ; DOI UICN ajouté. Page EN créée : 34812. Brouillon aligné sur le contenu en ligne (0 écart).

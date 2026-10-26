@@ -61,3 +61,6 @@
 - Corrections (données de seconde main, Wikipédia d'après The Cycad Pages, contredites par le protologue) : cônes femelles « un ou deux » → jusqu'à quatre ; folioles « coriaces et laineuses » → duvet court et clairsemé ; sarcotesta « rouge orangé » → orange ; insertion « environ 45° » → 60° sur le rachis, inclinées à 45°. Altitude 1 800-2 000 m : absente du protologue, laissée comme non vérifiée.
 - Écart : localité (monts Didinga, Chukudum) donnée par WLoC, volontairement tue par Newton (« Equatoria Province »).
 - Retombée : Newton signale que la largeur des folioles d'*E. macrostrobilus* (« 190-250 mm ») est une erreur du protologue (25 mm au plus) — fiche macrostrobilus corrigée.
+
+## Retouches du 26/10/2026 (lot ENC13)
+- FR 26352 : 8 remplacements (simulation puis application, `replace_in_content`) : évaluation UICN 2024 (Bösenberg, 04/03/2020, Liste rouge 2024-1) présentée comme en vigueur, 2010 gardée comme historique ; POWO (×2) et « Liste rouge non consultée » retirés. Page EN créée : 34798. Brouillon aligné sur le contenu en ligne (0 écart).

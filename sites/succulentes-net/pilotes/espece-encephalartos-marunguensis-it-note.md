@@ -23,3 +23,6 @@
 ## Points douteux
 - POWO et UICN non lus (Cloudflare) ; statut VU 2022 repris de The World List of Cycads.
 - Présence actuelle à Naples non confirmée (donnée 1993-94 seulement).
+
+## Retouches du 26/10/2026 (lot ENC13)
+- IT 27847 : 6 sostituzioni (simulation puis application, `replace_in_content`) : note de travail de l'introduction reformulée ; POWO (×2) et « Liste rouge non consultée » retirés (date Crossref 27/03/2020) ; lien cycad.org (PDF public de Lisowski & Malaisse 1971) et DOI UICN ajoutés. Page EN créée : 34805. Brouillon aligné sur le contenu en ligne (0 écart).

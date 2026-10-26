@@ -24,3 +24,6 @@
 - `pilotes/espece-encephalartos-mackenziei-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot : ndiff 0 ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées ; aucun lien vers une page FR ; liens internes IT tous en 200.
 - Images : aucune (la FR n'en a pas).
 - Rien commité.
+
+## Retouches du 26/10/2026 (lot ENC13)
+- IT 27845 : 8 sostituzioni (simulation puis application, `replace_in_content`) : évaluation UICN 2024 (Bösenberg, 04/03/2020, Liste rouge 2024-1) présentée comme en vigueur, 2010 gardée comme historique ; POWO (×2) et « Liste rouge non consultée » retirés. Page EN créée : 34798. Brouillon aligné sur le contenu en ligne (0 écart).
