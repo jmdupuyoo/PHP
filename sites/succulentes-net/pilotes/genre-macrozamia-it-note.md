@@ -26,3 +26,6 @@
 
 ## Liens externes non vérifiables
 Comme en FR : POWO, IUCN, PalmTalk, Britannica, conifers.org, certaines pages (403/409/500, Cloudflare ou anti-robots) laissées telles quelles ; les autres adresses répondent (200 ou redirection).
+
+## Ritocco 0 di MAC05 (26/10/2026)
+- Menzioni di estratti trattate (10 sostituzioni, simulazione poi applicazione, bozza allineata) : criteri delle sezioni secondo Johnson 1959 (copia locale, chiave p. 89-90) ; paragrafo « push-pull » allineato all'EN (Terry et al. 2007, riassunto PubMed : specie non nominata ; Roemer et al. 2008 aggiunto in bibliografia) ; comunicato dell'Utah rimosso ; riga d'indice *lucida* allineata ; DAF Queensland rimosso (403) con i suoi dati ; « zamia staggers » riscritta secondo Healy 1967 e Glassop & Gill 2007 ; FAQ senza « irreversibile » ; Terry 2001 : riassunto letto su OpenAlex.

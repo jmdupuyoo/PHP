@@ -43,3 +43,5 @@
 - Aucune redirection ancienne pour /cycadales/macrozamia/stenomera/ (list_redirects).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, dry run puis application).
 - Liens ajoutés après publication (pages FR publiées le même jour, 200 sans redirection) : Macrozamia heteromera (section Hybrides) et Macrozamia glaucophylla (section Confusions possibles).
+
+- 26/10/2026 (lot MAC05) : notes de travail visibles retirées (POWO/Liste rouge « non consultés » → APC et date d'évaluation 17/09/2020 via Crossref ; annotations « consulté/lu directement », « non consulté », « relevée via ») ; ALA (aucune inscription de protection) ; référence Kennedy précisée (*Principes minor* n° 55, mars 1992 ; *Cycad Newsletter* 16(3), décembre 1993) ; « paralysie irréversible » remplacée. Voir espece-macrozamia-stenomera-en-note.md. Aucune mention d'extrait de recherche trouvée.

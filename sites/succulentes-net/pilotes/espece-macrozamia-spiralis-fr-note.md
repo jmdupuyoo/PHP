@@ -52,3 +52,5 @@
 - Contenu publié identique au fichier local (comparaison texte de la page en ligne / fichier).
 - Aucune redirection ancienne pour /cycadales/macrozamia/spiralis/ (list_redirects).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, dry run puis application).
+
+- 26/10/2026 (lot MAC05) : notes de travail visibles retirées (POWO/Liste rouge « non consultés » → APC et date d'évaluation 10/09/2020 via Crossref ; annotations « consulté/lu directement », « non consulté », « relevée via ») ; ALA (aucune inscription de protection) ; « paralysie irréversible » remplacée (donnée DAF non vérifiable, retirée du genre en retouche 0). Voir espece-macrozamia-spiralis-en-note.md. Aucune mention d'extrait de recherche trouvée.

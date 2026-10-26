@@ -32,3 +32,5 @@ UICN « Not Evaluated » (→ LC 2022) ; tige « 15–20 cm », feuilles « ≈ 
 
 ### Retouches FR 26254 / IT 27682 (26/10/2026)
 22 + 23 remplacements (simulation puis application) : retour PalmTalk de Gainesville (extrait de recherche) retiré du texte, de l'encadré, de la FAQ et des sources, remplacé par MSU P2948 (2020, zone 9b, 22 °F selon des sources non nommées) ; POWO/Liste rouge « non consultés » → APC et date d'évaluation (Crossref) ; « n'a pas pu être vérifié » (récolteur), « ne sont pas repris ici » (Vendée), IT « secondo le fonti esaminate » retirés ; annotations « consulté/lu directement » reformulées. Brouillons alignés (0 écart).
+
+- 26/10/2026 (retouche 0 de MAC05) : orthographe du thrips vérifiée : *Cycadothrips chadwicki* Mound, 1991 (description originale, J. Nat. Hist. 25 : 647-652, p. 650, d'après ThripsWiki ; GBIF ; résumé de Terry 2001 sur OpenAlex ; titre Crossref de 2013). « chadwickii » (graphie de Jones et al. 2001) est une faute ; pages FR/IT/EN harmonisées sur « chadwicki ».

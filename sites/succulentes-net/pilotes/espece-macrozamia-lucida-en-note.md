@@ -30,3 +30,5 @@
 
 ## FR/IT (retouches du lot)
 - FR 26268 (19) et IT 27679 (20), simulation puis application : POWO, « Liste rouge non consultée », « trouvée », « consultée directement », « message(s) lu(s) » ; communiqué Utah (extrait) retiré du texte et des sources, remplacé par les études lues ; Tropicamente « écartée » / « non considerata » reformulé ; IT « riletto / consultati nell'ottobre 2026 » retirés ; protologue lu (culture à Sydney ajoutée) ; date UICN. Brouillons alignés (0 écart).
+
+- 26/10/2026 (retouche 0 de MAC05) : orthographe du thrips vérifiée : *Cycadothrips chadwicki* Mound, 1991 (description originale, J. Nat. Hist. 25 : 647-652, p. 650, d'après ThripsWiki ; GBIF ; résumé de Terry 2001 sur OpenAlex ; titre Crossref de 2013). « chadwickii » (graphie de Jones et al. 2001) est une faute ; pages FR/IT/EN harmonisées sur « chadwicki ».

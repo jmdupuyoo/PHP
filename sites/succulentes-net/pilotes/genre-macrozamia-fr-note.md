@@ -148,3 +148,6 @@ lomandroides, longispina, machinii, macleayi, occidua, parcifolia, platyrhachis,
 ## Champs de l'encadré
 - Tous renseignés. Nombre d'espèces : WLoC + Species+ (POWO non consulté). UICN : années de WLoC (Liste rouge non consultée).
   Rusticité : uniquement des retours d'amateurs.
+
+## Retouche 0 de MAC05 (26/10/2026)
+- Mentions d'extraits traitées (10 remplacements, simulation puis application, brouillon aligné) : critères des sections d'après Johnson 1959 (copie locale, clé p. 89-90) ; paragraphe « push-pull » aligné sur l'EN (résumé PubMed de Terry et al. 2007 : espèce non nommée ; Roemer et al. 2008 : 12 °C, une fois par jour, jusqu'à deux semaines, chez *lucida* et *macleayi*) et Roemer 2008 ajouté en bibliographie ; communiqué de l'Utah retiré (11 h–15 h, 14 °C, 38 °C non vérifiables) ; ligne d'index *lucida* alignée sur l'EN ; DAF Queensland retiré (403) avec ses données (14 jours, irréversibilité, absence de traitement, appétence, repousses) ; « zamia staggers » réécrite d'après Healy 1967 et Glassop & Gill 2007 ; FAQ sans « irréversible » ; Terry 2001 : résumé lu sur OpenAlex. Les éléments de la section ci-dessus « Sources relevées par extrait » ne figurent plus dans la page.

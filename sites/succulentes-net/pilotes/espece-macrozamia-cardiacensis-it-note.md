@@ -26,3 +26,5 @@
 - Brouillon `pilotes/espece-macrozamia-cardiacensis-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, hors sommaire Easy TOC) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées (script) ; aucun `<em>` imbriqué ni nom abrégé.
 - Aucune page IT ni redirection préexistante (list_content it « Macrozamia », list_redirects).
 - Rien commité.
+
+- 26/10/2026 (retouche 0 de MAC05) : orthographe du thrips vérifiée : *Cycadothrips chadwicki* Mound, 1991 (description originale, J. Nat. Hist. 25 : 647-652, p. 650, d'après ThripsWiki ; GBIF ; résumé de Terry 2001 sur OpenAlex ; titre Crossref de 2013). « chadwickii » (graphie de Jones et al. 2001) est une faute ; pages FR/IT/EN harmonisées sur « chadwicki ».

@@ -67,3 +67,5 @@
 - Aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application).
 - Liens croisés : lien vers M. douglasii posé avant publication.
+
+- 26/10/2026 (retouche 0 de MAC05) : orthographe du thrips vérifiée : *Cycadothrips chadwicki* Mound, 1991 (description originale, J. Nat. Hist. 25 : 647-652, p. 650, d'après ThripsWiki ; GBIF ; résumé de Terry 2001 sur OpenAlex ; titre Crossref de 2013). « chadwickii » (graphie de Jones et al. 2001) est une faute ; pages FR/IT/EN harmonisées sur « chadwicki ».
