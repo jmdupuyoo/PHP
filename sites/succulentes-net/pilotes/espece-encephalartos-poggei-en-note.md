@@ -21,3 +21,7 @@
 
 ## FR/IT (retouches du lot)
 - FR 26328 (4) et IT 27868 (4), simulation 4 + 4 puis application : POWO (×2) retiré ; « Liste rouge non consultée » → date Crossref ; DOI et date ajoutés à Bösenberg 2022. Brouillons alignés (0 écart). Conservé (origine d'une donnée) : « l'évaluation elle-même n'a pas pu être lue » à propos de la citation de Bösenberg 2010 par Jungle Music.
+
+## Retouche du 26/10/2026 (lot ENC14)
+- Lien vers *Encephalartos schmitzii* (EN 34822, créée en ENC14) posé sur la première mention (complexe *poggei*) ; citation de Lindstrom (2022) corrigée : “seasonal foliage” → “seasonal deciduous species” (texte exact de *CYCADS* 6(1)). Simulation puis application (2 remplacements), brouillon aligné (0 écart).
+- Balayage du bilan *Encephalartos* (26/10) : annotations « not consulted » / « Red List page not consulted » retirées de la bibliographie et des notes de travail visibles (voir pilotes/en-a-faire.md, bilan *Encephalartos*).

@@ -28,3 +28,7 @@
 ## FR/IT (retouches du lot)
 - FR 26174 (4) : « POWO non consulté directement (accès bloqué) » (encadré) ; « n'a pas pu être consultée (texte payant) : ses mesures ne sont donc pas reprises ici » → « n'est pas en accès libre » ; « La seule source fiable trouvée » → « La seule source fiable » ; « site inaccessible » (bibliographie). IT 27874 (5) : mêmes corrections et « Nessuna fonte consultata lo segnala » → « Nessuna fonte pubblicata lo segnala ». Laissés : « la Liste rouge elle-même n'a pas pu être consultée » (origine du statut), annotations bibliographiques « non consulté, texte payant ». Simulation 9/9 puis application 9/9, brouillons alignés (0 écart).
 - Compléments facultatifs FR/IT (en EN seulement) : BGCI (UC Berkeley, Prague), date de l'évaluation (03/04/2020), Species+ cite *flavistrobilus* en synonyme.
+
+## Retouche du 26/10/2026 (lot ENC14)
+- Lien vers *Encephalartos schmitzii* (EN 34822, créée en ENC14) posé sur la première mention (complexe *poggei*) ; citation de Lindstrom (2022) corrigée : “seasonal foliage” → “seasonal deciduous species” (texte exact de *CYCADS* 6(1)). Simulation puis application (2 remplacements), brouillon aligné (0 écart).
+- Balayage du bilan *Encephalartos* (26/10) : annotations « not consulted » / « Red List page not consulted » retirées de la bibliographie et des notes de travail visibles (voir pilotes/en-a-faire.md, bilan *Encephalartos*).

@@ -22,3 +22,7 @@
 ## FR/IT (retouches du lot)
 - FR 26335 (6) et IT 27847 (6), simulation 6 + 6 puis application : note de travail de l'introduction (« n'a pas pu être consultée pour cette fiche… a été lue ») reformulée ; POWO (×2) et « Liste rouge non consultée » remplacés (date Crossref) ; lien cycad.org ajouté à Lisowski & Malaisse ; DOI et date ajoutés à Bösenberg 2022. Brouillons alignés (0 écart).
 - **À signaler** : FR/IT gardent les paragraphes tirés de Wikipédia (description secondaire, altitude 1 400-1 500 m, feux de brousse « non vérifiés »).
+
+## Retouche du 26/10/2026 (lot ENC14)
+- Lien vers *Encephalartos schmitzii* (EN 34822, créée en ENC14) posé sur la première mention (complexe *poggei*) ; citation de Lindstrom (2022) corrigée : “seasonal foliage” → “seasonal deciduous species” (texte exact de *CYCADS* 6(1)). Simulation puis application (2 remplacements), brouillon aligné (0 écart).
+- Balayage du bilan *Encephalartos* (26/10) : annotations « not consulted » / « Red List page not consulted » retirées de la bibliographie et des notes de travail visibles (voir pilotes/en-a-faire.md, bilan *Encephalartos*).

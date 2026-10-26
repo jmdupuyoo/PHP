@@ -22,3 +22,7 @@
 ## FR/IT (retouches du lot)
 - FR 26346 (8) et IT 27793 (8), simulation 8 + 8 puis application : évaluation UICN 2024 présentée comme en vigueur (encadré, Statut, FAQ, Sites de référence, bibliographie : entrée 2024 ajoutée, 2010 annotée « remplacée ») d'après Crossref/GBIF re-vérifiés ; POWO non consulté (×2), « Liste rouge non consultée », « article lu / consultato » retirés. Brouillons alignés (0 écart).
 - **À signaler** : FR/IT gardent deux passages tirés de Wikipédia (description « sans tronc aérien », localités et altitude 1 200 m), présentés comme secondaires et contredits par le protologue ; méta-description FR « cycadale sans tronc » (Rank Math) contredite par le protologue (tronc dressé de 12 cm).
+
+## Retouche du 26/10/2026 (lot ENC14)
+- Lien vers *Encephalartos schmitzii* (EN 34822, créée en ENC14) posé sur la première mention (complexe *poggei*) ; citation de Lindstrom (2022) corrigée : “seasonal foliage” → “seasonal deciduous species” (texte exact de *CYCADS* 6(1)). Simulation puis application (2 remplacements), brouillon aligné (0 écart).
+- Balayage du bilan *Encephalartos* (26/10) : annotations « not consulted » / « Red List page not consulted » retirées de la bibliographie et des notes de travail visibles (voir pilotes/en-a-faire.md, bilan *Encephalartos*).
