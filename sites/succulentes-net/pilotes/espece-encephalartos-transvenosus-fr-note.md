@@ -56,3 +56,6 @@ Italie : Naples 1993-94 (2 spécimens, Gaudio et al. 1997) ; Messine (liste « C
 
 ### Ajout du 20/10/2026 (après relecture des sources du lot)
 - replace_in_content (simulation : 3 remplacements, puis application) : phrase sur Nong Nooch (Thaïlande : croissance lente, aucun cône en climat tropical ; Lindstrom, *CYCADS* 6(1), janvier 2022, PDF lu) dans « Repères internationaux », entrée dans Sites de référence et Bibliographie. Même ajout sur l'IT 11991. Brouillons alignés (cmp.py : 0 écart).
+
+## Retouches du 26/10/2026 (lot EN ENC11)
+- FR 2502 (3) : « POWO n'a pas pu être consulté directement » retiré ; « retours trouvés » → « documentés » ; « dans les sources accessibles » retiré. Observation JZT (DREAL 2014) toujours en attente : rien ajouté. Simulation puis application (replace_in_content), brouillon aligné (0 écart).

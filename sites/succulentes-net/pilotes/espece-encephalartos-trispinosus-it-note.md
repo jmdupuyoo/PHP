@@ -17,3 +17,6 @@ Stessi fatti e fonti della FR (`espece-encephalartos-trispinosus-fr-note.md`): p
 
 ### Errori della vecchia IT eliminati
 Versione diversa dalla vecchia FR ma con gli stessi difetti: clima «Fort Beaufort −2,6 °C» e 614 mm, rusticità e zone USDA da schede commerciali, ibrido *trispinosus* × *altensteinii* «commercializzato», «esperienze mediterranee europee» senza fonte, Florida, fonti non pertinenti o non consultabili (PalmTalk ×2, Aloes in Wonderland, opuscolo del San Diego Zoo), Hooker «J. D.».
+
+## Retouches du 26/10/2026 (lot EN ENC11)
+- IT 12049 (2) : stesse correzioni (POWO ; « gruppo degli Encephalartos blu del Capo Orientale » → frase esatta di Dyer). Simulation puis application (replace_in_content), brouillon aligné (0 écart).

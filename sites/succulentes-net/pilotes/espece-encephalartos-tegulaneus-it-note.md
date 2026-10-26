@@ -22,3 +22,6 @@
 - `pilotes/espece-encephalartos-tegulaneus-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, seul écart l'insertion « Toggle » du sommaire Easy TOC ; liste des liens identique) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés ; liens internes IT tous en 200.
 - Images : aucune (la FR n'en a pas). Constructeur : scratchpad enc9/b/b_tegulaneus.py.
 - Rien commité.
+
+## Retouches du 26/10/2026 (lot EN ENC11)
+- IT 27952 (9) : stesse correzioni (POWO, « come un estratto di POWO », articolo 1999, stati IUCN 2024, FAQ, annotazioni). Simulation puis application (replace_in_content), brouillon aligné (0 écart).

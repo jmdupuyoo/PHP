@@ -21,3 +21,6 @@ Traduzione della vecchia FR: stessi errori (vedi nota FR, 12 punti): link del ge
 
 ### Aggiunta del 20/10/2026
 - replace_in_content (simulazione: 3 sostituzioni, poi applicazione): Nong Nooch (Thailandia, crescita lenta e nessun cono in clima tropicale; Lindstrom, *CYCADS* 6(1), 2022) in «Riferimenti internazionali», Siti di riferimento e Bibliografia. Bozza allineata (cmp.py: 0 differenze).
+
+## Retouches du 26/10/2026 (lot EN ENC11)
+- IT 11991 (2) : POWO retiré ; « è stato trovato » → « è documentato ». Simulation puis application (replace_in_content), brouillon aligné (0 écart).

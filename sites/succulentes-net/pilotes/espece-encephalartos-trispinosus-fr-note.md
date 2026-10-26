@@ -50,3 +50,6 @@ Italie : Naples 1993-94 (3 spécimens, Gaudio et al. 1997) ; Ravenne (Tropicamen
 4. Climat « semi-arid, 350-500 mm », « −2 to −5 °C », « 100-500 m », « partially overlaps with *horridus* and *arenarius* » : non sourcés ou contraires (PlantZAfrica 600-725 mm ; Dyer : pas de chevauchement avec *horridus*).
 5. « driedoringbroodboom », « three-spined cycad » : non trouvés dans les sources.
 6. Lien UICN 41916/10583076 faux (T41926A51046513) ; « USDA 9b », pH, « difficulty 2/5 » non sourcés.
+
+## Retouches du 26/10/2026 (lot EN ENC11)
+- FR 2492 (2) : « POWO n'a pas pu être consulté directement » retiré ; « appartient au groupe des Encephalartos bleus du Cap-Oriental » (non sourcé) → « De toutes les espèces, … est, selon Dyer (1965), « la plus difficile à définir » » (citation vérifiée dans *Bothalia*). Simulation puis application (replace_in_content), brouillon aligné (0 écart).

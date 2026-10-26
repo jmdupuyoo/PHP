@@ -65,3 +65,6 @@
 3. Sources bloquées : POWO, UICN, BHL (Cloudflare : texte lu sur Internet Archive), PalmTalk, JSTOR (Melville 1957).
 4. France : aucune donnée de froid, pour aucune zone.
 5. Encadré : rusticité non documentée.
+
+## Retouches du 26/10/2026 (lot EN ENC11)
+- FR 26195 (5) : « POWO non consulté directement » retiré de l'encadré ; statut UICN mis à jour (réévaluation du 04/03/2020 publiée en 2024, LC, GBIF + Crossref) dans l'encadré, le Statut (phrase « la Liste rouge n'ayant pas pu être consultée… » remplacée) et la FAQ ; annotation « non consultée, site inaccessible » de Bösenberg 2010 remplacée. Simulation puis application (replace_in_content), brouillon aligné (0 écart).

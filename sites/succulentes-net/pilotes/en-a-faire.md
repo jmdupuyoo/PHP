@@ -62,7 +62,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - ENC08 : macrostrobilus R16859/FR26229 fait (26/10/2026, 16859), manikensis R17022/FR26178 fait (26/10/2026, 17022), middelburgensis R16690/FR11822 fait (26/10/2026, 16690), msinganus R16964/FR5596 fait (26/10/2026, 16964), munchii R17030/FR12296 fait (26/10/2026, 17030) — lot ENC08 terminé le 26/10/2026
 - ENC09 : natalensis R16613/FR1866 fait (26/10/2026, 16613), ngoyanus R16984/FR26196 fait (26/10/2026, 16984), nubimontanus R16942/FR26171 fait (26/10/2026, 16942), paucidentatus R16922/FR12001 fait (26/10/2026, 16922), princeps R16620/FR2461 fait (26/10/2026, 16620) — lot ENC09 terminé le 26/10/2026
 - ENC10 : pterogonus R17024/FR26186 fait (26/10/2026, 17024), relictus R16935/FR26168 fait (26/10/2026, 16935), schaijesii R16887/FR26174 fait (26/10/2026, 16887), sclavoi R16794/FR5560 fait (26/10/2026, 16794), senticosus R16673/FR2480 fait (26/10/2026, 16673) — lot ENC10 terminé le 26/10/2026
-- ENC11 : septentrionalis R16867/FR26195, tegulaneus R16814/FR26180, transvenosus R16666/FR2502, trispinosus R16638/FR2492, turneri R17070/FR26187
+- ENC11 : septentrionalis R16867/FR26195 fait (26/10/2026, 16867), tegulaneus R16814/FR26180 fait (26/10/2026, 16814), transvenosus R16666/FR2502 fait (26/10/2026, 16666), trispinosus R16638/FR2492 fait (26/10/2026, 16638), turneri R17070/FR26187 fait (26/10/2026, 17070) — lot ENC11 terminé le 26/10/2026
 - ENC12 : umbeluziensis R16978/FR12681, villosus R16646/FR12642, whitelockii R16823/FR12023, woodii R16632/FR10803
 - ENC13 : afer C/FR26313, delucanus C/FR26346, mackenziei C/FR26352, marunguensis C/FR26335, poggei C/FR26328
 - ENC14 : schmitzii C/FR26341
