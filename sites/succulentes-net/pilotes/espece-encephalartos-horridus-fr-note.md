@@ -46,3 +46,5 @@ POWO (non consulté) ; Liste rouge UICN (Cloudflare) ; Liste rouge SANBI (403) ;
 - « Zone USDA 9b fiable, a survécu à −7 °C », « difficulté 2/5 » : non sourcés.
 - « Hybrides *horridus* × *lehmannii* fréquents dans la nature » : non sourcé (la CSSA parle de flux de gènes, sans plus).
 - Lien UICN tronqué (« https://www.iucnredlist.org/species/… »).
+
+- 25/10/2026 (lot ENC05) : « POWO non consulté » retiré de l'encadré ; « n'a pas été lu » retiré de la phrase sur l'article de la CSSA (réservé aux membres) ; IT : « è stato trovato » (×2) reformulé. Simulation puis application ; brouillon aligné, 0 écart en ligne.

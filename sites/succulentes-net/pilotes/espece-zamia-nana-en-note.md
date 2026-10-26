@@ -17,3 +17,4 @@
 - Dimensions : description contre tableau du même article (exposé, sans hypothèse).
 - Graines : Taylor 2012 (« acuminata ») contre protologue (exposé). Maturation 8 mois (nature, Taylor) contre 9-11 mois (culture en Thaïlande).
 - Avis d'amateur (population hors de danger, 2013) contre EN (exposé).
+- 25/10/2026 (lot ENC05) : lien vers *Encephalartos horridus* EN 16548 posé dans la Taxonomie (replace_in_content, simulation puis application, 1 remplacement) ; brouillon aligné.

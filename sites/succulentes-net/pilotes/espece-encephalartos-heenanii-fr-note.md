@@ -64,3 +64,5 @@
 5. Encadré : rusticité et exposition en culture non documentées.
 
 - 25/10/2026 (retouche 0 avant ENC04) : lien Species+ du genre (13006) remplacé par la fiche de l'espèce (taxon 27546) dans les Sites de référence (1 remplacement).
+
+- 25/10/2026 (lot ENC05) : notes de travail retirées (POWO / UICN « accès bloqué », « documents officiels consultés », citations « non vérifiées », noms afrikaans/siswati) ; données du BMP-S 2017 (JO n° 40793, § 4.8) et de PlantZAfrica (Zondi, 2022, lue avec UA de navigateur) ajoutées (formes à feuilles courtes/longues, habitat ~1 500 m et ~1 200 mm, « frost tolerant », culture, semis 24-28 °C, rejets, « leopard moth », Lowveld NBG) ; sources et bibliographie complétées. Simulation puis application (FR 15, IT 16 remplacements) ; brouillon aligné, 0 écart en ligne.

@@ -44,3 +44,5 @@
 - 25/10/2026 (lotto ENC04) : nota di lavoro «POWO non consultato» rimossa dal riquadro (1 sostituzione, simulazione poi applicazione).
 - 25/10/2026 (lotto ENC04, scheda EN 16658 riscritta) : 4 sostituzioni (simulazione 4/4 poi applicazione 4/4) : «Lista rossa non consultata (sito bloccato)» → «non consultata» ; «testo integrale non accessibile» ritirato ; «unico riscontro … trovato» → «pubblicato» ; «Nessun dato quantificato affidabile è stato trovato» → «… è stato pubblicato per questa specie». Brouillon aligné (0 écart).
 - Da riprendere eventualmente (non fatto) : Cambridge (accessione 1958, origine selvatica), giardini del 1984 fuori Italia/Francia, Jungle Music.
+
+- **Ritocco 25/10/2026 (prima di ENC05)** : *Index Seminum* 2024 di Palermo (n. 880, PDF riletto) aggiunto in sintesi, introduzione, paragrafo sugli orti, sezione dei giardini e fonti (simulazione poi applicazione, 5 sostituzioni); bozza allineata (0 differenze).

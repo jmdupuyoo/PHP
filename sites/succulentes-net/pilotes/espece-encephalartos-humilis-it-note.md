@@ -23,3 +23,5 @@
 - `pilotes/espece-encephalartos-humilis-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot : ndiff 0 ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées ; aucun lien vers une page FR ; liens internes IT tous en 200.
 - Images : aucune (la FR n'en a pas).
 - Rien commité.
+
+- 25/10/2026 (lot ENC05) : mentions d'extraits de recherche (PlantZAfrica) remplacées par la fiche lue (Skhosana & Ntenga, décembre 2024, UA de navigateur) : répartition, habitat, feu, statut national et menaces (30 % d'habitat détruit par les plantations), culture, semis, rejets ; « POWO non consulté » et « site bloqué » retirés ; sources et bibliographie mises à jour. Simulation puis application ; brouillon aligné, 0 écart en ligne.

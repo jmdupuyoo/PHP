@@ -29,3 +29,5 @@
 - Jungle Music : « northern Mozambique », tronc ≈ 3 m, feuilles 1,8-2,4 m : présentés comme données de pépinière, divergence signalée.
 - Montgomery : années des accessions non déduites (numérotation ancienne).
 - Identifiant de l'évaluation 2022 : DOI Crossref …A243426722 (cité) / WLoC e.T41916A51055465 (non cité en EN).
+
+- **Retouche 25/10/2026 (avant ENC05)** : *Index Seminum* 2024 de Palerme (n° 880) ajouté au paragraphe italien et aux sources (simulation puis application, 2 remplacements) ; brouillon aligné (0 écart).

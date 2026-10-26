@@ -65,3 +65,5 @@
 - Page publiée : id 26213, https://succulentes.net/cycadales/encephalartos/humilis/ (200), parent 14229, traduction EN liée, SEO appliqué.
 - Liens internes ajoutés avant publication (1re occurrence, pages FR publiées, 200 vérifié) : horridus, laevifolius, lanatus.
 - Lien posé dans l'index des espèces de la page genre 14229.
+
+- 25/10/2026 (lot ENC05) : mentions d'extraits de recherche (PlantZAfrica) remplacées par la fiche lue (Skhosana & Ntenga, décembre 2024, UA de navigateur) : répartition, habitat, feu, statut national et menaces (30 % d'habitat détruit par les plantations), culture, semis, rejets ; « POWO non consulté » et « site bloqué » retirés ; sources et bibliographie mises à jour. Simulation puis application ; brouillon aligné, 0 écart en ligne.

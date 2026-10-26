@@ -22,3 +22,6 @@
 ## Points douteux
 - Aucun nouveau.
 - POWO et UICN non lus (Cloudflare), comme en FR.
+
+- 25/10/2026 (lot ENC05) : « POWO non consulté » et « site bloqué » retirés ; BMP-S 2017 (JO n° 40793, § 3.3.7 et 4.9), PlantZAfrica (Zondi & Mnisi, juin 2023, lue avec UA de navigateur) et Deloso et al. 2025 (plantes saisies à Berkeley) ajoutés ; encadré, culture, rusticité, sources et bibliographie mis à jour. Simulation puis application (8 remplacements) ; brouillon aligné, 0 écart en ligne.
+- 25/10/2026 (lot ENC05, complément) : « fonte consultata » (×2) reformulé (simulation puis application ; brouillon aligné).

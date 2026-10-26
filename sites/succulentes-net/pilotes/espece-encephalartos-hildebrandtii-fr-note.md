@@ -52,3 +52,5 @@ POWO ; Liste rouge UICN ; Flora of Tropical East Africa ; Osborne 1990 (*Encepha
 7. « USDA 10b+ (above 2 °C) only » : non sourcé ; contredit par le retour du Salento (−1 °C, 2009).
 
 - Retouche 24/10/2026 (0c avant ZAM05) : note de travail visible retirée du texte en ligne (renvoi à la fiche d’une autre langue ou d’une autre espèce comme origine de la consultation : « for the French page », « lors de la rédaction de la fiche italienne », « repris de la fiche … », etc.) ; replace_in_content, simulation puis application ; brouillon aligné.
+
+- 25/10/2026 (lot ENC05) : « POWO non consulté » retiré de l'encadré ; comparaison avec *kisambo* corrigée (Confusions et FAQ) d'après Faden & Beentje 1989 et Holzman 2009 (« feuilles plus dressées », non sourcé, supprimé) ; aire de *kisambo* précisée (Taita, Kenya ; Kilimandjaro selon WLoC) ; provenance interne retirée de l'annotation bibliographique ; Holzman 2009 ajouté. Simulation puis application ; brouillon aligné, 0 écart en ligne.

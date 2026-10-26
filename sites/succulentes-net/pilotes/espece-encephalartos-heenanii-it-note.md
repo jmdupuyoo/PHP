@@ -24,3 +24,5 @@
 - POWO et UICN non lus (Cloudflare), comme en FR.
 
 - 25/10/2026 (ritocco 0 prima di ENC04) : link Species+ del genere (13006) sostituito con la scheda della specie (taxon 27546) nei Siti di riferimento (1 sostituzione).
+
+- 25/10/2026 (lot ENC05) : notes de travail retirées (POWO / UICN « accès bloqué », « documents officiels consultés », citations « non vérifiées », noms afrikaans/siswati) ; données du BMP-S 2017 (JO n° 40793, § 4.8) et de PlantZAfrica (Zondi, 2022, lue avec UA de navigateur) ajoutées (formes à feuilles courtes/longues, habitat ~1 500 m et ~1 200 mm, « frost tolerant », culture, semis 24-28 °C, rejets, « leopard moth », Lowveld NBG) ; sources et bibliographie complétées. Simulation puis application (FR 15, IT 16 remplacements) ; brouillon aligné, 0 écart en ligne.

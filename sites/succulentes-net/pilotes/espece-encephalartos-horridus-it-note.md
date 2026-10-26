@@ -25,3 +25,6 @@ Stessi fatti e fonti della FR (`espece-encephalartos-horridus-fr-note.md`): WLoC
 
 ### Errori della vecchia IT eliminati
 Introduzione retorica («quasi leggendaria», «carattere aggressivo e arcaico»); «diametro di circa un metro a maturità»; coni «rosso-bruno scuro o nero-rossastro, talvolta tomentosi» (sostituiti dalla descrizione di Dyer e PlantZAfrica); «complesso ibrido con *lehmannii* in alcuni contesti»; *lehmannii* «su pendii di arenaria» e «più tollerante e regolare» (non fondati); impollinazione e dispersione generiche; substrato in percentuali, annaffiature ogni due settimane, cocciniglie, perdita del colore blu per eccesso di azoto (non fondati); limite «−3/−5 °C»; villa Thuret «−6 °C e ghiaccio per venti giorni nel 1985» (nessuna fonte trovata); semina a 25-30 °C (non fondata); FAQ in un solo paragrafo; bibliografia con soli link alle home page (pza.sanbi.org, nssl.sanbi.org.za, powo, iucnredlist, cycadlist, sanparks, weatherspark, cycadgroup, davesgarden).
+
+- 25/10/2026 (lot ENC05) : « POWO non consulté » retiré de l'encadré ; « n'a pas été lu » retiré de la phrase sur l'article de la CSSA (réservé aux membres) ; IT : « è stato trovato » (×2) reformulé. Simulation puis application ; brouillon aligné, 0 écart en ligne.
+- 25/10/2026 (lot ENC05, complément) : « fonte consultata » (×1) reformulé (simulation puis application ; brouillon aligné).
