@@ -26,3 +26,6 @@
 - Couleur des cônes : vert foncé (protologue) contre bleu à reflets jaunes (Jungle Music, plantes cultivées) : exposé.
 - Effectifs : ~400 adultes (2009) contre 79 géoréférencés (2017) ; habitat 1995 (forêt humide dégradée) contre TIPAs (prairie, fourré) : exposé.
 - Évaluation UICN de 2010 seulement (Liste rouge non consultée) ; Vorster 1995 (*Novon*, BHL) non lu.
+
+## Retouche 0 du lot ENC12 (26/10/2026) — UICN 2024
+- Réévaluation vérifiée le 26/10/2026 sur Crossref (API, doi:10.2305/IUCN.UK.2024-1.RLTS.T41887A50906141.en : J. Kalema & H.J. Beentje, évaluation datée du 19/05/2021, Liste rouge 2024-1) et GBIF (catégorie CR, inchangée). Présentée comme l’évaluation en vigueur ; celle de 2010 gardée comme historique (encore citée par WLoC). Critères 2024 non donnés par ces sources (Liste rouge non sollicitée). 3 remplacements par page : encadré, Conservation (« seize ans » et « accès bloqué » retirés ; critères rattachés à l’évaluation 2010), bibliographie (entrée 2024 ajoutée) ; simulation puis application ; brouillon aligné (0 écart).

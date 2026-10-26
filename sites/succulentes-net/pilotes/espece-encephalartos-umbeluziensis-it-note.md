@@ -34,3 +34,6 @@
 - Index page genre IT 11663 : ligne « Eswatini, Mozambico, fiume Umbeluzi; in pericolo (EN, 2022) » identique à la FR → **non modifiée**. SEO (titre « Encephalartos umbeluziensis, la cicadea dell'Umbeluzi », meta 145 car.) toujours exact → non modifié.
 - Contrôles : texte en ligne identique au brouillon, liens identiques ; URL 200 sans redirection (User-Agent Chrome), `<title>` normal (pas de spam) ; hreflang en/fr/it ; aucun commentaire de bloc visible ; blocs appariés ; 6 liens internes IT en 200, aucun lien FR.
 - Rien commité.
+
+## Retouche du lot ENC12 (26/10/2026)
+- Notes de travail retirées ou reformulées (POWO non consulté, Liste rouge non consultée → date Crossref du 15/05/2020, « sources lues/consultate/consultabili », « sito bloccato ») ; 5 remplacements, simulation puis application ; brouillon aligné (0 écart). Fiche EN 16978 réécrite le même jour (note `espece-encephalartos-umbeluziensis-en-note.md`).

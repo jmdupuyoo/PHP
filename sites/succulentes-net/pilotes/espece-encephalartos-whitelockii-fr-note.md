@@ -54,3 +54,6 @@ Tropicamente : aucun retour de culture (recherche « whitelockii » : 4 messages
 6. Climat (20-28 °C, 12-18 °C, 1 000-1 500 mm), « USDA 10a-10b », « germination reliable », « suckers freely », « molecular studies place whitelockii… », barrière du rift avec *ituriensis* : non sourcés.
 7. Statut CR cité d'après Kalema 2010 : l'évaluation en vigueur est Bösenberg 2024.
 8. « Muhure (Runyankole) » : langue non attestée dans les sources lues.
+
+## Retouche du lot ENC12 (26/10/2026)
+- Notes de travail retirées ou reformulées (POWO non consulté, « trouvés/trovata/consultati », article de Vorster « non lu », annotations UICN « non consultée directement » remplacées par les dates Crossref) ; simulation puis application ; brouillon aligné (0 écart). Fiche EN 16823 réécrite le même jour (comparaisons non sourcées avec *kisambo*, *tegulaneus*, *hildebrandtii* écartées ; *equatorialis* lié).

@@ -52,3 +52,6 @@
 - Contrôles : texte en ligne identique au brouillon, 6 liens internes même séquence, tous en 200 ; blocs 111/111 ; hreflang fr/it/en ; aucun commentaire de bloc visible ; User-Agent Chrome et curl : 200, `<title>` « Encephalartos umbeluziensis : cycadale de l'Umbeluzi ». Rien commité.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 9 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du lot ENC12 (26/10/2026)
+- Notes de travail retirées ou reformulées (POWO non consulté, Liste rouge non consultée → date Crossref du 15/05/2020, « sources lues/consultate/consultabili », « sito bloccato ») ; 5 remplacements, simulation puis application ; brouillon aligné (0 écart). Fiche EN 16978 réécrite le même jour (note `espece-encephalartos-umbeluziensis-en-note.md`).

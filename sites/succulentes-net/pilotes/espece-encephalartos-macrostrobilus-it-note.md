@@ -24,3 +24,6 @@
 - `pilotes/espece-encephalartos-macrostrobilus-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot : ndiff 0 ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées ; aucun lien vers une page FR ; liens internes IT tous en 200.
 - Images : aucune (la FR n'en a pas).
 - Rien commité.
+
+## Retouche 0 du lot ENC12 (26/10/2026) — UICN 2024
+- Réévaluation vérifiée le 26/10/2026 sur Crossref (API, doi:10.2305/IUCN.UK.2024-1.RLTS.T41918A51050953.en : Eastern Arc Mountains & Coastal Forests CEPF Plant Assessment Project & J.D. Bösenberg, évaluation datée du 05/03/2020, Liste rouge 2024-1) et GBIF (catégorie CR, inchangée). Présentée comme l’évaluation en vigueur ; celle de 2010 gardée comme historique (encore citée par WLoC). Critères 2024 non donnés par ces sources (Liste rouge non sollicitée). 4 remplacements par page : encadré, Conservation (« n’a pas pu être consultée » retiré), bibliographie 2010 et 2024 (auteurs Crossref, DOI ; Kew cite « Bösenberg, 2024 ») ; simulation puis application ; brouillon aligné (0 écart).

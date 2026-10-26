@@ -56,3 +56,6 @@ Napoli (Delpinoa 1997, tabella 1; Delpinoa 2011; Tropicamente 05/2010: pollone r
 
 ### Pagina EN 16632 (non modificata)
 Errori elencati nella nota FR (polloni a Kew nel 1899 non documentati, nome zulu non trovato, «specie distinta confermata dai dati molecolari» contrario a Viljoen e van Staden 2006, coni «salmon-pink» e habitat non documentati).
+
+## Retouche du lot ENC12 (26/10/2026)
+- POWO non consulté retiré ; « publication consultée » reformulé ; annotation UICN (« non consultée directement » → auteur et date Crossref) ; 3 remplacements, simulation puis application ; brouillon aligné (0 écart). Fiche EN 16632 réécrite le même jour (classements de rusticité avec *ferox*/*friderici-guilielmi* et comparaisons non sourcées écartés ; histoire de Ngoye limitée aux sources lues).

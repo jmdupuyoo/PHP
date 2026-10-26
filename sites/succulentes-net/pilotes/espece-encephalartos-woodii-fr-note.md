@@ -49,3 +49,6 @@ Italie (d'après la note IT du 11/10/2026, non modifiée) : Naples (1 spécimen 
 3. « Consensus… supported by molecular data, it is a distinct species » : contraire à Viljoen & van Staden (2006), qui suggèrent une origine hybride.
 4. Cônes « salmon-pink », habitat « 200-300 m, 750-1 000 mm » : non sourcés.
 5. Sander « the same firm that employed Micholitz » : hors sujet, non vérifié ici.
+
+## Retouche du lot ENC12 (26/10/2026)
+- POWO non consulté retiré ; « publication consultée » reformulé ; annotation UICN (« non consultée directement » → auteur et date Crossref) ; 3 remplacements, simulation puis application ; brouillon aligné (0 écart). Fiche EN 16632 réécrite le même jour (classements de rusticité avec *ferox*/*friderici-guilielmi* et comparaisons non sourcées écartés ; histoire de Ngoye limitée aux sources lues).

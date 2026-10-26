@@ -29,3 +29,6 @@
 
 ## FR/IT (retouches du lot)
 - FR 12423 (4) / IT 27958 (6) : « POWO n'a pas pu être consulté » retiré ; phrase *kisambo* corrigée (Confusions et FAQ) : « feuilles plus dressées » (non sourcé, contraire à Holzman) supprimé, critères de Faden & Beentje (folioles falciformes moins dentées, cônes ♂ plus grands, graines jaune orangé) et ressemblance des semis (Holzman 2009) ; aire de *kisambo* précisée (collines Taita, Kenya ; Kilimandjaro selon WLoC) ; provenance interne retirée de l'annotation Faden & Beentje ; Holzman 2009 ajouté en bibliographie ; IT : « fonte consultata », « pubblicazioni … consultate » reformulés. Simulation puis application, brouillons alignés (0 écart).
+
+## Retouche 0 du lot ENC12 (26/10/2026) — UICN 2024
+- Réévaluation vérifiée le 26/10/2026 sur Crossref (API, doi:10.2305/IUCN.UK.2024-1.RLTS.T41931A51056232.en : W.R.Q. Luke & J.D. Bösenberg, évaluation datée du 13/03/2020, Liste rouge 2024-1) et GBIF (catégorie LC, inchangée). Présentée comme l’évaluation en vigueur ; celle de 2010 gardée comme historique (encore citée par WLoC). Critères 2024 non donnés par ces sources (Liste rouge non sollicitée). 5 remplacements par page : introduction (2010 → 2024), encadré, Conservation, ligne Crossref des sources (deux DOI), bibliographie (entrée 2024 ajoutée) ; simulation puis application ; brouillon aligné (0 écart).

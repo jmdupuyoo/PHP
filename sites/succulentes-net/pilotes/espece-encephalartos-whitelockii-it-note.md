@@ -23,3 +23,6 @@ Nessuna menzione del JZT nelle vecchie FR/IT/EN; nessuna pagina su zootropical.c
 
 ### Punti dubbi
 Vedi nota FR (effettivi 5.000-10.000 / ~8.000 / 6.000-8.000; quota fuori dal parco >90 % / ~99 %; coautore di *E. successibus* «Heibioem» in Crossref; nessuna fonte su un legame con il progetto Muzizi).
+
+## Retouche du lot ENC12 (26/10/2026)
+- Notes de travail retirées ou reformulées (POWO non consulté, « trouvés/trovata/consultati », article de Vorster « non lu », annotations UICN « non consultée directement » remplacées par les dates Crossref) ; simulation puis application ; brouillon aligné (0 écart). Fiche EN 16823 réécrite le même jour (comparaisons non sourcées avec *kisambo*, *tegulaneus*, *hildebrandtii* écartées ; *equatorialis* lié).

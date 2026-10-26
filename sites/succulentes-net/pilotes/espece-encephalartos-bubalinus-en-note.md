@@ -23,3 +23,6 @@
 
 ## Points douteux
 - Avis de Species+ sur les importations « depuis l'Afrique du Sud » pour une espèce est-africaine (repris tel quel de la FR). Effectif inconnu ; aucune réévaluation UICN depuis 2010.
+
+## Retouche 0 du lot ENC12 (26/10/2026) — UICN 2024
+- Réévaluation vérifiée le 26/10/2026 sur Crossref (API, doi:10.2305/IUCN.UK.2024-1.RLTS.T41941A50825006.en : Eastern Arc Mountains & Coastal Forests CEPF Plant Assessment Project & J.D. Bösenberg, évaluation datée du 11/03/2020, Liste rouge 2024-1) et GBIF (catégorie VU, inchangée). Présentée comme l’évaluation en vigueur ; celle de 2010 gardée comme historique (encore citée par WLoC). Critères 2024 non donnés par ces sources (Liste rouge non sollicitée). 4 remplacements par page : encadré, Conservation (critère D2 rattaché à l’évaluation 2010 ; « site bloqué » / « non consultée » retirés), FAQ, bibliographie (entrée 2024 ajoutée) ; simulation puis application ; brouillon aligné (0 écart).
