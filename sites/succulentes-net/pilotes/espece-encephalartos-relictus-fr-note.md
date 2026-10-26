@@ -68,3 +68,5 @@
 3. Sources bloquées : POWO, UICN, PalmTalk.
 4. France : aucune donnée, pour aucune zone.
 5. Encadré : rusticité et exposition en culture non documentées.
+
+- Retouche du 26/10/2026 (lot ENC10) : notes de travail retirées (POWO non consulté, site inaccessible), phrase tirée de Wikipédia seule (du Preez et les rejets) retirée, renvoi orphelin « ce forum » → « forum des Fous de palmiers » ; simulation puis application, brouillon aligné (0 écart).

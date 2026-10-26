@@ -54,3 +54,5 @@ Messine (liste « Cicadee » 2009). Ravenne 2012 (prétendu *natalensis* × *woo
 4. « Sympatric in the Siteki area », « range 80-100 km », « 300-800 m », « rhyolite », climat « 600-900 mm, 25-35 °C, gel −2 à −4 °C » : non sourcés ou contraires à Vorster (aires qui se succèdent, 400-800 m).
 5. « Lost more than 30 % of its wild population », « Pieter Vorster » (Piet), « spiny Lebombo cycad » : non sourcés.
 6. Folioles de *lebomboensis* « smooth-margined » présenté comme caractère « subtle but consistent » : faux (Verdoorn : 1-4 dents sur les deux bords).
+
+- Retouche du 26/10/2026 (lot ENC10) : note de travail retirée (« POWO n'a pas pu être consulté », « dans les sources accessibles ») ; simulation puis application, brouillon aligné (0 écart).

@@ -53,3 +53,5 @@ POWO ; Liste rouge UICN ; PalmTalk, Kew (Cloudflare, non contournés) ; Mem. NYB
 4. Population « ~50 adultes, une seule localité » présentée comme actuelle : dépassé (Sungwi, 2017).
 5. Tableau comparatif : *hildebrandtii* « NT », *kisambo* « VU » (WLoC : *kisambo* EN).
 6. Formes « verte » et « brun-rouge » à l'émergence : non sourcées.
+
+- Retouche du 26/10/2026 (lot ENC10) : notes de travail retirées (POWO non consulté, « mesure publiée consultée », « trouvées/trovati », « inaccessible le 21 octobre 2026 ») ; simulation puis application, brouillon aligné (0 écart).

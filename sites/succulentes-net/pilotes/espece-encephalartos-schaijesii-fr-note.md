@@ -60,3 +60,5 @@
 3. Sources payantes ou bloquées : JSTOR, POWO, UICN.
 4. France : aucune donnée, pour aucune zone.
 5. Encadré : rusticité et exposition en culture non documentées ; dimensions limitées au synonyme.
+
+- Retouche du 26/10/2026 (lot ENC10) : notes de travail retirées (POWO non consulté, « texte payant : mesures non reprises » reformulé, « trouvée/trovata », site inaccessible) ; simulation puis application, brouillon aligné (0 écart).

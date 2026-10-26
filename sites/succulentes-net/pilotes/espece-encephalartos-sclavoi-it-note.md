@@ -17,3 +17,5 @@ Gli stessi della FR (vedi nota FR): clima MDPI, generalità su impollinazione e 
 
 ### JZT e JMDUPUYOO
 Nessuna menzione del JZT nella vecchia IT. Messaggi JMDUPUYOO e menzione indiretta del JZT sui forum: vedi nota FR (esclusi dalla pagina).
+
+- Retouche du 26/10/2026 (lot ENC10) : notes de travail retirées (POWO non consulté, « mesure publiée consultée », « trouvées/trovati ») ; simulation puis application, brouillon aligné (0 écart).

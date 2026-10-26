@@ -23,3 +23,5 @@
 ## Points douteux
 - Climat de Chimoio d'après Wikipédia (données OMM/Starlings Roost).
 - POWO et UICN non lus (Cloudflare).
+
+- Retouche du 26/10/2026 (lot ENC10) : notes de travail retirées (« POWO n'a pas pu être consulté », « (site bloqué) », « fonte di riferimento consultata ») ; simulation puis application, brouillon aligné (0 écart).

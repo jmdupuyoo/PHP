@@ -22,3 +22,5 @@
 
 ## Points douteux
 - POWO et UICN non lus (Cloudflare).
+
+- Retouche du 26/10/2026 (lot ENC10) : notes de travail retirées (POWO non consulté, « texte payant : mesures non reprises » reformulé, « trouvée/trovata », site inaccessible, « fonte consultata ») ; simulation puis application, brouillon aligné (0 écart).

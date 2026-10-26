@@ -22,3 +22,5 @@
 
 ## Points douteux
 - POWO et UICN non lus (Cloudflare).
+
+- Retouche du 26/10/2026 (lot ENC10) : notes de travail retirées (POWO non consulté, site inaccessible, « fonte consultata »), phrase tirée de Wikipédia seule (du Preez et les rejets) retirée ; simulation puis application, brouillon aligné (0 écart).

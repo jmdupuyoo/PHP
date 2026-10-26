@@ -59,3 +59,5 @@
 - Écarts : graines 3,5-4 cm (protologue) contre 30-35 mm (LLIFLE) ; nombre de cônes par plante (2-3 selon LLIFLE) non donné par le protologue ; Haynes (2022) traduit « gonas » par « graine », le protologue ne détaille pas l'étymologie.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 3 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+- Retouche du 26/10/2026 (lot ENC10) : notes de travail retirées (« POWO n'a pas pu être consulté », « (site bloqué) ») ; simulation puis application, brouillon aligné (0 écart).
