@@ -75,3 +75,6 @@
 ## Complément du 10/10/2026 (vérification)
 - Copie cycad.org lue : uniquement la page de Gardner (1930), Enumeratio Plantarum Australiae Occidentalis, listant les Cycadales (aucune description). Combinaisons M. Dyeri (F.v.M.) Gardner et M. Reidlei (Gaud.) Gardner, M. fraseri Miq. en synonymie de M. reidlei ; M. dyeri traité comme distinct. Le basionyme et sa description restent non consultés.
 - Fiche précisée en Taxonomie et Bibliographie (replace_in_content, 2 remplacements) ; brouillon mis à jour, comparaison identique.
+
+## Retouche du 26/10/2026 (retouche 0 de MAC08)
+- Bibliographie : « Hill, K.D. (1998). Zamiaceae » → « Cycadophyta. In : McCarthy, P.M. (éd.), Flora of Australia 48 : 597-661, 717-719. ABRS/CSIRO Publishing » (titre du traitement vérifié sur la FoA en ligne) ; 1 remplacement simulé puis appliqué, brouillon aligné.

@@ -77,7 +77,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - MAC05 : spiralis R18094/FR26239 fait (26/10/2026, 18094), stenomera R18167/FR26266 fait (26/10/2026, 18167) — lot MAC05 terminé le 26/10/2026
 - MAC06 : cardiacensis C/FR26291 fait (26/10/2026, 35107), conferta C/FR26295 fait (26/10/2026, 35115), cranei C/FR26311 fait (26/10/2026, 35120), crassifolia C/FR26299 fait (26/10/2026, 35126), douglasii C/FR26289 fait (26/10/2026, 35133) — lot MAC06 terminé le 26/10/2026
 - MAC07 : fawcettii C/FR26305 fait (26/10/2026, 35152), humilis C/FR26307 fait (26/10/2026, 35160), lomandroides C/FR26316 fait (26/10/2026, 35166), longispina C/FR26303 fait (26/10/2026, 35173), machinii C/FR26327 fait (26/10/2026, 35180) — lot MAC07 terminé le 26/10/2026
-- MAC08 : macleayi C/FR26297, occidua C/FR26333, parcifolia C/FR26340, platyrhachis C/FR26337, plurinervia C/FR26309
+- MAC08 : macleayi C/FR26297 fait (26/10/2026, 35222), occidua C/FR26333 fait (26/10/2026, 35230), parcifolia C/FR26340 fait (26/10/2026, 35238), platyrhachis C/FR26337 fait (26/10/2026, 35245), plurinervia C/FR26309 fait (26/10/2026, 35252) — lot MAC08 terminé le 26/10/2026
 - MAC09 : polymorpha C/FR26301, secunda C/FR26293, serpentina C/FR26331, viridis C/FR26318
 
 ## Dioon — 19 à reprendre, 0 à créer

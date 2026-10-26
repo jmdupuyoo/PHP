@@ -29,3 +29,6 @@
 - Rien commité.
 
 - 26/10/2026 (lotto MAC07, creazione della pagina EN) : note di lavoro visibili corrette (17 + 17 sostituzioni FR + IT, simulazione poi applicazione ; dettaglio in espece-macrozamia-machinii-en-note.md) ; bozza allineata al testo online (0 differenze).
+
+## Retouche du 26/10/2026 (retouche 0 de MAC08)
+- Donnée Bureau of Meteorology alignée sur le tableau relu en MAC07 (même station, même période) : humilis 801,6 mm (Inverell Research Centre, moyennes 1949-2026 ; jours de gel depuis 1965) / lomandroides 10,4 °C (Bundaberg Aero) / machinii environ 620 mm (Inglewood Forest), selon la fiche ; simulation puis application, brouillon aligné.

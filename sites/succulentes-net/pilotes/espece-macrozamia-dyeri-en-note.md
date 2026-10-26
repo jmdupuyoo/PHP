@@ -28,3 +28,6 @@ UICN « Near Threatened » (→ LC 2022) ; « le plus attrayant des *Macrozamia*
 
 ## FR/IT (retouches du lot)
 - FR 26282 (12) et IT 27640 (14), simulation puis application : POWO retiré ; épisode de mise en synonymie « non vérifié » remplacé par le fait vérifié (Johnson 1959, Gardner 1956) + entrée bibliographique Johnson 1959 ajoutée ; « nous n'avons pu lire ni le résumé ni l'article » remplacé par le résumé de Lullfitz et al. 2020 ; Usages traditionnels (« aucun usage propre… sans que nous puissions en préciser la nature ») corrigés (aliment de base noongar, lessivage) ; « Liste rouge non consultée » → date Crossref ; annotations « non consulté » reformulées ; IT « non abbiamo trovato », « Nessuna fonte consultata » reformulés. Brouillons alignés (0 écart).
+
+## Retouche du 26/10/2026 (retouche 0 de MAC08)
+- Bibliographie : « Hill, K.D. (1998). Zamiaceae » → « Cycadophyta. In : McCarthy, P.M. (éd.), Flora of Australia 48 : 597-661, 717-719. ABRS/CSIRO Publishing » (titre du traitement vérifié sur la FoA en ligne) ; 1 remplacement simulé puis appliqué, brouillon aligné.

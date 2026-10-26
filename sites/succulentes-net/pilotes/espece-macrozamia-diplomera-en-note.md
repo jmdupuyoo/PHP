@@ -31,3 +31,6 @@
 - À noter : en FR, la première mention de *M. communis* est désormais dans la Taxonomie (non liée) ; le lien FR reste sur la mention de la Rusticité.
 
 - Retouche °F du 26/10 (fin de lot) : 3 valeur(s) en °C sans conversion °F complétée(s) (citations exceptées) ; simulation puis application ; brouillon aligné (0 écart).
+
+## Retouche du 26/10/2026 (retouche 0 de MAC08)
+- Bibliographie : « Hill, K.D. (1998). Zamiaceae » → « Cycadophyta. In : McCarthy, P.M. (éd.), Flora of Australia 48 : 597-661, 717-719. ABRS/CSIRO Publishing » (titre du traitement vérifié sur la FoA en ligne) ; 1 remplacement simulé puis appliqué, brouillon aligné.

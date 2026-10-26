@@ -28,3 +28,6 @@ UICN « Not Evaluated » (→ LC 2022) ; rusticité « −6 à −9 °C / USDA 8
 - FR 26242 (8) et IT 27618 (9), simulation puis application : POWO retiré de l'encadré ; « que nous n'avons pas pu consulter » (Osborne & Randall) retiré ; « Liste rouge non consultée » → date Crossref de l'évaluation ; annotations « non consulté » reformulées (Johnson 1959 : p. 108-109, sous-espèce *plurinervia* et son aire) ; IT « Nessuna fonte consultata » → « pubblicata ». Brouillons alignés (0 écart).
 
 - Retouche °F du 26/10 (fin de lot) : 1 valeur(s) en °C sans conversion °F complétée(s) (citations exceptées) ; simulation puis application ; brouillon aligné (0 écart).
+
+## Retouche du 26/10/2026 (retouche 0 de MAC08)
+- Bibliographie : « Hill, K.D. (1998). Zamiaceae » → « Cycadophyta. In : McCarthy, P.M. (éd.), Flora of Australia 48 : 597-661, 717-719. ABRS/CSIRO Publishing » (titre du traitement vérifié sur la FoA en ligne) ; 1 remplacement simulé puis appliqué, brouillon aligné.

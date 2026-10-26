@@ -61,3 +61,6 @@ Aucune.
 
 ## Publication (02/10/2026)
 - Page publiée : id 26297, https://succulentes.net/cycadales/macrozamia/macleayi/ (200, sans redirection ; parent 1453 ; aucune traduction liée). SEO Rank Math appliqué. Aucune redirection ancienne trouvée pour cette URL. Lien ajouté sur la première occurrence de l'index des espèces de la page genre 1453.
+
+## Retouches du 26/10/2026 (lot MAC08)
+- 14 remplacements (simulation puis application) : notes de travail retirées (POWO « non consulté » → APC ; Liste rouge « non consultée » → évaluation datée du 14/08/2020 d’après WLoC, GBIF et Crossref ; « consulté(e) directement », « lus directement », « PDF lu en entier », « non consulté »). Brouillon aligné sur le texte en ligne (0 écart).

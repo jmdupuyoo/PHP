@@ -27,3 +27,6 @@
 - Liens internes tous IT et en 200 (curl) ; aucun lien vers une page FR. Sources : URL en texte brut (rendues cliquables par l'extrait du site).
 - POWO, Liste rouge UICN, PalmTalk, BHL non consultés (Cloudflare) : statuts repris de la FR (WLoC).
 - Rien commité.
+
+## Retouches du 26/10/2026 (lot MAC08)
+- 22 remplacements (simulation puis application) : notes de travail retirées (POWO « non consulté » → APC ; Liste rouge « non consultée » → évaluation datée du 20/08/2020 ; plan de rétablissement « non consulté / serveur inaccessible » ; « consulté par son interface de programmation » ; « texte (intégral) (non) consulté » ; « non consulté(e) pour cette fiche » ; « forums consultés ») ; Hill 1998 complété (McCarthy éd., p. 597-661, 717-719). Brouillon aligné sur le texte en ligne (0 écart).

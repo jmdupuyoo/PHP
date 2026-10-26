@@ -68,3 +68,6 @@
 - Aucune redirection ancienne vers cette URL dans list_redirects (rien à supprimer).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application).
+
+## Retouche du 26/10/2026 (retouche 0 de MAC08)
+- Bibliographie : « Hill, K.D. (1998). Zamiaceae » → « Cycadophyta. In : McCarthy, P.M. (éd.), Flora of Australia 48 : 597-661, 717-719. ABRS/CSIRO Publishing » (titre du traitement vérifié sur la FoA en ligne) ; 1 remplacement simulé puis appliqué, brouillon aligné.

@@ -73,3 +73,6 @@
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application).
 - Titre SEO modifié après publication (le premier titre, « … la cycadale aux folioles fourchues », était déjà utilisé par la fiche *Macrozamia heteromera*, publiée en parallèle ; la fiche *Macrozamia stenomera* utilise aussi ce titre : à signaler à son rédacteur).
+
+## Retouche du 26/10/2026 (retouche 0 de MAC08)
+- Bibliographie : « Hill, K.D. (1998). Zamiaceae » → « Cycadophyta. In : McCarthy, P.M. (éd.), Flora of Australia 48 : 597-661, 717-719. ABRS/CSIRO Publishing » (titre du traitement vérifié sur la FoA en ligne) ; 1 remplacement simulé puis appliqué, brouillon aligné.

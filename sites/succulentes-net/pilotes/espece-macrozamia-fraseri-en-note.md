@@ -29,3 +29,6 @@ Tronc « 40-105 cm », feuilles « 2,7-3 m » (FoA : 40-70 cm, 1,37-2,70 m) ; «
 
 ## FR/IT (retouches du lot)
 - FR 26273 (12) et IT 27638 (14), simulation puis application : POWO retiré ; « Liste rouge non consultée » → date Crossref ; « nous n'avons pas pu lire la description de Miquel » → confirmation par le protologue ; FAQ « Probablement Charles Fraser » → affirmatif ; paragraphe ajouté en Taxonomie (Gardner 1956, Johnson 1959, FoA 1998) + entrée bibliographique Johnson 1959 ; protologue « non consulté » → numérisation lue ; « seuls conseils trouvés » → « publiés » ; annotations « non consulté » retirées ; IT : « riletto nell'ottobre 2026 », « unico riscontro trovato » reformulés. Brouillons alignés (0 écart).
+
+## Retouche du 26/10/2026 (retouche 0 de MAC08)
+- Bibliographie : « Hill, K.D. (1998). Zamiaceae » → « Cycadophyta. In : McCarthy, P.M. (éd.), Flora of Australia 48 : 597-661, 717-719. ABRS/CSIRO Publishing » (titre du traitement vérifié sur la FoA en ligne) ; 1 remplacement simulé puis appliqué, brouillon aligné.

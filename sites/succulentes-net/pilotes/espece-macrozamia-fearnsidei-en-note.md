@@ -30,3 +30,6 @@ Rusticité « −3 à −5 °C / USDA 9a-9b » (inventée) ; « few leaves », a
 
 ## FR/IT (retouches du lot)
 - FR 26264 (6) et IT 27624 (5), simulation puis application : POWO « non consulté » retiré ; « Liste rouge non consultée » → date d'évaluation Crossref (13/08/2020) ; « aucun cultivateur français n'en parle sur les forums » (FR) → « aucun retour de culture n'est publié » ; annotations « non consulté » (Johnson 1959, Haynes 2022) retirées. Brouillons alignés (0 écart).
+
+## Retouche du 26/10/2026 (retouche 0 de MAC08)
+- Bibliographie : « Hill, K.D. (1998). Zamiaceae » → « Cycadophyta. In : McCarthy, P.M. (éd.), Flora of Australia 48 : 597-661, 717-719. ABRS/CSIRO Publishing » (titre du traitement vérifié sur la FoA en ligne) ; 1 remplacement simulé puis appliqué, brouillon aligné.

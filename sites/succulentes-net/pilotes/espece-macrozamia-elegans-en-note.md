@@ -29,3 +29,6 @@ Rusticité « −5 à −8 °C / USDA 8b-9a » et « difficulté 3/5 » (sans so
 
 ## FR/IT (retouches du lot)
 - FR 26257 (8) et IT 27646 (8), simulation puis application : POWO « non consulté » retiré ; « Liste rouge non consultée » → date d'évaluation Crossref (17/09/2020) ; « Nous n'avons pas pu vérifier… » → absence d'inscription EPBC/NSW selon l'ALA ; paragraphe et source PalmTalk (fil lu par extrait seulement, sans lieu ni résultat) retirés, remplacés par « aucun résultat de culture documenté hors de France, aucune zone USDA » ; entrée Hill & Osborne 2001 (non lue) retirée ; annotations « non consulté » reformulées. Brouillons alignés (0 écart).
+
+## Retouche du 26/10/2026 (retouche 0 de MAC08)
+- Bibliographie : « Hill, K.D. (1998). Zamiaceae » → « Cycadophyta. In : McCarthy, P.M. (éd.), Flora of Australia 48 : 597-661, 717-719. ABRS/CSIRO Publishing » (titre du traitement vérifié sur la FoA en ligne) ; 1 remplacement simulé puis appliqué, brouillon aligné.

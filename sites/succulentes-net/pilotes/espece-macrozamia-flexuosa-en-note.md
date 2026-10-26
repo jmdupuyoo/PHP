@@ -30,3 +30,6 @@ UICN « Endangered » présentée comme statut actuel (NT depuis 2022) ; « Bell
 
 ## FR/IT (retouches du lot)
 - FR 26278 (7) et IT 27630 (7), simulation puis application : POWO retiré ; « Liste rouge non consultée » → date Crossref (01/05/2020) ; protologue de Moore « texte non consulté » → numérisation de The Cycad Society lue ; Johnson 1959, Johnson 1963, Haynes 2022 : « non consulté » retiré. Brouillons alignés (0 écart).
+
+## Retouche du 26/10/2026 (retouche 0 de MAC08)
+- Bibliographie : « Hill, K.D. (1998). Zamiaceae » → « Cycadophyta. In : McCarthy, P.M. (éd.), Flora of Australia 48 : 597-661, 717-719. ABRS/CSIRO Publishing » (titre du traitement vérifié sur la FoA en ligne) ; 1 remplacement simulé puis appliqué, brouillon aligné.

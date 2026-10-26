@@ -62,3 +62,6 @@ Aucune.
 - Page publiée : id 26316, https://succulentes.net/cycadales/macrozamia/lomandroides/ (200, sans redirection ; parent 1453 ; aucune traduction liée). SEO Rank Math appliqué. Aucune redirection ancienne trouvée pour cette URL. Lien ajouté sur la première occurrence de l'index des espèces de la page genre 1453.
 
 - 26/10/2026 (lot MAC07, création de l'EN) : notes de travail visibles corrigées (17 + 18 remplacements FR + IT, simulation puis application ; détail dans espece-macrozamia-lomandroides-en-note.md, « Retouches FR / IT ») ; brouillon aligné sur le texte en ligne (0 écart).
+
+## Retouche du 26/10/2026 (retouche 0 de MAC08)
+- Donnée Bureau of Meteorology alignée sur le tableau relu en MAC07 (même station, même période) : humilis 801,6 mm (Inverell Research Centre, moyennes 1949-2026 ; jours de gel depuis 1965) / lomandroides 10,4 °C (Bundaberg Aero) / machinii environ 620 mm (Inglewood Forest), selon la fiche ; simulation puis application, brouillon aligné.

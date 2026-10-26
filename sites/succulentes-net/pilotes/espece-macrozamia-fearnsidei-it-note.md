@@ -31,3 +31,6 @@
 ## Sources communes
 - Prompt `prompts/redaction-fiches.md` (Version italienne), `scratchpad/it-especes-commun.txt`, `pilotes/cycadales-jardins-botaniques-italie.md`, page genre IT 12116 et sa note.
 - Liens externes vérifiés le 11/10/2026 : tous en 200 sauf PalmTalk (403, Cloudflare, non contourné) et archive.unews.utah.edu (502), déjà signalés en FR.
+
+## Retouche du 26/10/2026 (retouche 0 de MAC08)
+- Bibliographie : « Hill, K.D. (1998). Zamiaceae » → « Cycadophyta. In : McCarthy, P.M. (éd.), Flora of Australia 48 : 597-661, 717-719. ABRS/CSIRO Publishing » (titre du traitement vérifié sur la FoA en ligne) ; 1 remplacement simulé puis appliqué, brouillon aligné.

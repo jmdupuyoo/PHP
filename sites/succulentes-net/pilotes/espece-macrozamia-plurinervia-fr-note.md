@@ -67,3 +67,6 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : tirets typographiques de WordPress et widgets du thème).
 - Lien ajouté dans l'index des espèces de la page genre 1453 (replace_in_content, simulation puis application, 6 liens en un appel pour les six fiches du lot).
+
+## Retouches du 26/10/2026 (lot MAC08)
+- 16 remplacements (simulation puis application) : notes de travail retirées (POWO « non consulté » → APC ; Liste rouge « non consultée » → évaluation datée du 20/08/2020 ; « consulté par son interface de programmation » ; « texte intégral consulté » ; « consultée directement » ; « forums consultés ») ; Hill 1998 complété (McCarthy éd., p. 597-661, 717-719). Brouillon aligné sur le texte en ligne (0 écart).
