@@ -80,3 +80,6 @@ Mentions (non chiffrées) : classement d'Ironmonger relayé (t=17538 #p323061) ;
 - Lien posé dans la page genre 1453 sur la première occurrence de l'index des espèces (replace_in_content, dry run puis application, 1 remplacement).
 - Pas de lien vers les autres fiches Macrozamia publiées le même jour par d'autres agents (stenomera, diplomera, etc.) : à poser si souhaité.
 - Lien interne ajouté avant publication : /cycadales/macrozamia/lucida/ (Confusions), la fiche lucida ayant été publiée juste avant. Bibliographie : auteurs de Habib et al. 2022 abrégés en « et al. » (initiales non vérifiées).
+
+## Retouche du 26/10/2026 (lot EN MAC03)
+- Notes de travail retirées (POWO, Liste rouge « non consultée », « consultée directement », « messages lus », texte non consulté) ; retours PalmTalk connus seulement par extraits de recherche (Gainesville, Modesto, « −11 °C ») retirés du texte, de l'encadré, de la FAQ et des sources ; paragraphe des messages écartés retiré ; date de l'évaluation UICN ajoutée (14/08/2020, Crossref). Simulation puis application ; brouillon aligné.

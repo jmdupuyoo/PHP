@@ -30,3 +30,6 @@
 - Liens internes tous IT et en 200 (curl) ; aucun lien vers une page FR. Sources : URL en texte brut (rendues cliquables par l'extrait du site).
 - POWO, Liste rouge UICN, PalmTalk, BHL non consultés (Cloudflare) : statuts repris de la FR (WLoC).
 - Rien commité.
+
+## Retouche du 26/10/2026 (lot EN MAC03)
+- Notes de travail retirées (POWO, Liste rouge « non consultée », « consultée directement », « lu(s) en entier », « non reprise », « non consultée ») ; retours PalmTalk et record d'Alice Springs connus seulement par extraits de recherche retirés (texte et sources) ; plan national de rétablissement (Nano & Pavey 2008, connu par extrait, document en 403/inaccessible) retiré du texte, de la FAQ et de la bibliographie ; titre de Mound & Terry (2001) corrigé d'après Crossref ; date UICN (21/08/2020, Crossref). Simulation puis application ; brouillon aligné.

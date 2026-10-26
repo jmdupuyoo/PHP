@@ -29,3 +29,6 @@
 ## Sources communes
 - Prompt `prompts/redaction-fiches.md` (Version italienne), `scratchpad/it-especes-commun.txt`, `pilotes/cycadales-jardins-botaniques-italie.md`, page genre IT 12116 et sa note.
 - Liens externes vérifiés le 11/10/2026 : tous en 200 sauf PalmTalk (403, Cloudflare, non contourné) et archive.unews.utah.edu (502), déjà signalés en FR.
+
+## Retouche du 26/10/2026 (lot EN MAC03)
+- Notes de travail retirées (POWO, Liste rouge « non consultée », « consultée directement », « messages lus », texte non consulté) ; retours PalmTalk connus seulement par extraits de recherche (Gainesville, Modesto, « −11 °C ») retirés du texte, de l'encadré, de la FAQ et des sources ; paragraphe des messages écartés retiré ; date de l'évaluation UICN ajoutée (14/08/2020, Crossref). Simulation puis application ; brouillon aligné.

@@ -49,3 +49,6 @@ POWO, Liste rouge UICN (Cloudflare) ; PlantNET (connexion refusée le 20/10/2026
 
 ## Précision du propriétaire (20/10/2026)
 La photo 7403 (image mise en avant) est une plante du Jardin zoologique tropical, présumée *M. miquelii* ; identification très difficile, fondée sur l observation des cônes. Fiche FR/IT et pages genre 1453/12116 mises à jour.
+
+## Retouche du 26/10/2026 (lot EN MAC03)
+- Notes de travail retirées (POWO, « Liste rouge non consultée (accès bloqué) », « non reprises ici », « non lue », « non consulté directement », « cités sans nom ») ; adresse du recensement RBGV (404) remplacée par la page d'accueil du recensement ; date de l'évaluation UICN (21/08/2020, Crossref). Mention de la plante JZT présumée M. miquelii (photo 7403, identification fondée sur les cônes) vérifiée : présente et conforme. Simulation puis application ; brouillon aligné.

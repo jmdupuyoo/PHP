@@ -51,3 +51,6 @@ Aucun retour (A ou B) n'existe ; la fiche le dit. Mention : classement d'Ironmon
 - Pas de lien vers les autres fiches Macrozamia publiées le même jour par d'autres agents (stenomera, diplomera, etc.) : à poser si souhaité.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du 26/10/2026 (lot EN MAC03)
+- Notes de travail retirées (POWO, Liste rouge « non consultée », « trouvée », « consultée directement », « messages lus », « lu en entier », « lu lors de la préparation… ») ; phrase orpheline « Cette affirmation n'est pas reprise » (Repères internationaux) remplacée par un repère climatique ; « aucun cultivateur n'en parle sur les forums » et « aucune offre relevée » reformulés ; date UICN (10/09/2020, Crossref). Simulation puis application ; brouillon aligné.

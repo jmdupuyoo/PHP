@@ -33,3 +33,5 @@
 - FR 1471 (9) et IT 13082 (9), simulation 9 + 9 puis application : POWO retiré de l'encadré ; « Liste rouge non consultée (accès bloqué) » retiré ; « Michigan State University » → université d'État du Mississippi (publication 2948, 2020) + source ajoutée aux Sites de référence ; « ne sont pas reprises ici / non sono ripresi qui » retiré ; annotations « non lue / non letto », « non consulté directement », « page non consultée (accès bloqué) » reformulées (date Crossref de l'évaluation). Brouillons alignés (0 écart).
 
 - Retouche °F du 26/10 (fin de lot) : 5 valeur(s) en °C sans conversion °F complétée(s) (citations exceptées) ; simulation puis application ; brouillon aligné (0 écart).
+
+- 26/10/2026 (retouche 0 de MAC03) : source « Royal Botanic Gardens Victoria, Living Collection Census » (URL de recherche en 404) remplacée par la page d'accueil https://data.rbg.vic.gov.au/rbgcensus/ (phrase sans chiffre) ; simulation puis application (1) ; brouillon aligné (0 écart).

@@ -69,3 +69,6 @@ Météo-France : aucun retour français avec lieu et date sans valeur (le seul r
 - Lien posé dans la page genre 1453 sur la première occurrence de l'index des espèces (replace_in_content, dry run puis application, 1 remplacement).
 - Pas de lien vers les autres fiches Macrozamia publiées le même jour par d'autres agents (stenomera, diplomera, etc.) : à poser si souhaité.
 - Correction avant publication : « Sir Richard Graves MacDonnell » ramené à « Sir Richard G. MacDonnell » (forme de la source).
+
+## Retouche du 26/10/2026 (lot EN MAC03)
+- Notes de travail retirées (POWO, Liste rouge « non consultée », « consultée directement », « lu(s) en entier », « non reprise », « non consultée ») ; retours PalmTalk et record d'Alice Springs connus seulement par extraits de recherche retirés (texte et sources) ; plan national de rétablissement (Nano & Pavey 2008, connu par extrait, document en 403/inaccessible) retiré du texte, de la FAQ et de la bibliographie ; titre de Mound & Terry (2001) corrigé d'après Crossref ; date UICN (21/08/2020, Crossref). Simulation puis application ; brouillon aligné.

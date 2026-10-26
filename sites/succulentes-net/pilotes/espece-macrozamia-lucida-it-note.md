@@ -33,3 +33,6 @@
 - Liens externes vérifiés le 11/10/2026 : tous en 200 sauf PalmTalk (403, Cloudflare, non contourné) et archive.unews.utah.edu (502), déjà signalés en FR.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+## Retouche du 26/10/2026 (lot EN MAC03)
+- Notes de travail retirées (POWO, Liste rouge « non consultée », « consultée directement », « messages lus », « trouvée ») ; communiqué de l'université de l'Utah (connu par extrait de recherche, page en 502) retiré du texte et des sources : le résumé de Science 2007 ne nomme pas l'espèce, les travaux ultérieurs (Roemer 2008, Terry 2016) portent sur M. lucida et M. macleayi ; protologue (Johnson 1959, PDF The Cycad Society) désormais lu : culture ancienne au jardin botanique de Sydney ajoutée ; date de l'évaluation UICN (27/08/2020, Crossref). Simulation puis application ; brouillon aligné.
