@@ -26,3 +26,8 @@
 
 ## Liens externes non vérifiables
 Comme en FR : POWO, IUCN, PalmTalk, Britannica, conifers.org, certaines pages (403/409/500, Cloudflare ou anti-robots) laissées telles quelles ; les autres adresses répondent (200 ou redirection).
+
+## Nettoyage du 26/10/2026 (avant et pendant le lot DIO01)
+- Avant DIO01 (13 remplacements, simulation puis application) : POWO « non consultato » ed estratti di ricerca sostituiti dalla World Checklist of Vascular Plants di Kew (GBIF, giugno 2026) ; età CITES e Nicaragua (Wikipedia) ritirati.
+- Fin de lot (9 remplacements) : « consultata/o direttamente » (6 ; deux dates conservées), « discussioni lette per intero nell'ottobre 2026 » (2) et, dans le texte, la phrase « Le discussioni… sono state rilette per intero nell'ottobre 2026. Sono ripresi soltanto i riscontri completi… » (1, alignement sur la FR) retirés. « La Lista Rossa non ha potuto essere consultata direttamente » conservé.
+- NOM-059 (fin de lot) : « l'elenco per specie non è stato verificato per questa pagina » retiré (1, simulation puis application).

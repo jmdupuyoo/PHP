@@ -126,3 +126,8 @@ Classement : A = date, lieu, valeur, pleine terre/pot, protection, résultat ; B
 3. Sources introuvables ou bloquées : POWO, UICN, cites.org, TAXREF, PalmTalk, InfoJardín, Dave's Garden ; sources thaïlandaises, japonaises et chinoises : rien de spécifique à *Dioon* trouvé.
 4. France, zones sans donnée : Bretagne (hors un échec vague à Quimper, écarté), intérieur continental, montagne ; façade atlantique limitée à Nantes (échec) et à un retour C en Vendée. Aucun retour daté pour *D. spinulosum* en pleine terre en France hors Côte Bleue.
 5. Encadré : tous les champs renseignés ; « Nombre d'espèces » d'après WLoC seulement (POWO non lu).
+
+## Nettoyage du 26/10/2026 (avant et pendant le lot DIO01)
+- Avant DIO01 (14 remplacements, simulation puis application) : POWO « non consulté » et extraits de recherche remplacés par la World Checklist of Vascular Plants de Kew (GBIF, juin 2026) ; âge CITES et Nicaragua (Wikipédia) retirés ; « fils relus en entier… sont repris ici » retiré ; « forêt de Dioon » attestée (Chamberlain 1919, p. 20). Brouillon resynchronisé (10 liens d'index manquaient au brouillon seulement).
+- Fin de lot (7 remplacements) : « consultée directement » (6 ; deux dates conservées) et « fils lus en entier en octobre 2026 » (1) retirés des sources. « La Liste rouge elle-même n'a pas pu être consultée directement » conservé.
+- NOM-059 (fin de lot) : « la liste par espèce n'a pas été vérifiée pour cette page » retiré (1, simulation puis application).

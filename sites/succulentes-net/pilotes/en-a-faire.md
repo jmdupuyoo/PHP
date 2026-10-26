@@ -82,7 +82,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - MAC09 : polymorpha C/FR26301 fait (26/10/2026, 35284), secunda C/FR26293 fait (26/10/2026, 35290), serpentina C/FR26331 fait (26/10/2026, 35297), viridis C/FR26318 fait (26/10/2026, 35301) — lot MAC09 terminé le 26/10/2026 (dernier lot des *Macrozamia*)
 
 ## Dioon — 19 à reprendre, 0 à créer
-- DIO01 : angustifolium R17796/FR7876, argenteum R17888/FR26124, califanoi R17802/FR11161, caputoi R17854/FR26128, edule R17787/FR5273
+- DIO01 : angustifolium R17796/FR7876 fait (26/10/2026, 17796), argenteum R17888/FR26124 fait (26/10/2026, 17888), califanoi R17802/FR11161 fait (26/10/2026, 17802), caputoi R17854/FR26128 fait (26/10/2026, 17854), edule R17787/FR5273 fait (26/10/2026, 17787) — lot DIO01 terminé le 26/10/2026
 - DIO02 : holmgrenii R17837/FR11248, mejiae R17878/FR11158, merolae R17834/FR11130, nuusaviorum R22253/FR22252, oaxacensis R17938/FR26133
 - DIO03 : planifolium R17946/FR26137, purpusii R17814/FR26139, rzedowskii R17862/FR26144, salas-moralesiae R17954/FR26148, sonorense R17917/FR13251
 - DIO04 : spinulosum R17822/FR5286, stevensonii R17905/FR26152, tomasellii R17899/FR26156, vovidesii R17926/FR26160

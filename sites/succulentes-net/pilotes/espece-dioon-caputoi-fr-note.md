@@ -83,3 +83,4 @@
 3. Sources bloquées : POWO, UICN, PalmTalk, Dave's Garden, rarepalmseeds ; sources japonaises et chinoises sans résultat.
 4. France : aucune donnée de culture en place, pour aucune zone ; aucun épisode hivernal.
 5. Encadré : rusticité non documentée (seule estimation de pépinière) ; exposition en culture d'après une pépinière.
+- 26/10/2026, fin du lot DIO01 : annotations « consulté(e) directement / consultata direttamente » et « fil lu en entier / discussione letta per intero » retirées des sources (replace_in_content, simulation puis application ; brouillon aligné).

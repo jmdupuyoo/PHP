@@ -16,3 +16,4 @@
 
 ## Observations JZT
 - Aucune.
+- 26/10/2026, fin du lot DIO01 : annotations « consulté(e) directement / consultata direttamente » et « fil lu en entier / discussione letta per intero » retirées des sources (replace_in_content, simulation puis application ; brouillon aligné).

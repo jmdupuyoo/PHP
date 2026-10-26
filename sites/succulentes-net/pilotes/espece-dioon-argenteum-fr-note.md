@@ -80,3 +80,4 @@
 3. Sources bloquées ou introuvables : POWO, UICN, PalmTalk, Dave's Garden, rarepalmseeds (délai), Tropicos non consulté.
 4. France : aucune donnée pour aucune zone (littoral méditerranéen, façade atlantique, Bretagne, intérieur, montagne) ; aucun épisode hivernal documenté.
 5. Encadré : « Exposition et substrat » en culture et « Rusticité » marqués non documentés ; « Toxicité » non documentée pour l'espèce.
+- 26/10/2026, fin du lot DIO01 : annotations « consulté(e) directement / consultata direttamente » et « fil lu en entier / discussione letta per intero » retirées des sources (replace_in_content, simulation puis application ; brouillon aligné).

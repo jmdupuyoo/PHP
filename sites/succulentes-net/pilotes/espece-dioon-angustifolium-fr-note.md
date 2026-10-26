@@ -49,3 +49,4 @@
 
 ## Hors lot à revoir
 - Pages genre FR 3794 et IT 11673 : phrase indiquant qu'une étude sur le statut d'*angustifolium* « n'a pas été vérifiée » — dépassée (González-Astorga et al. 2003 lu).
+- 26/10/2026, fin du lot DIO01 : annotations « consulté(e) directement / consultata direttamente » et « fil lu en entier / discussione letta per intero » retirées des sources (replace_in_content, simulation puis application ; brouillon aligné).

@@ -74,3 +74,4 @@
 - Retiré à cette occasion (décision du propriétaire : pas de débat ouvert) : la mention, d'après Rubio-Méndez et al. 2020, que Dorsey et al. 2018 et Gutiérrez-Ortega et al. 2018 trouvent *angustifolium* non monophylétique. Le passage Hybrides (formes intermédiaires du San Luis Potosí, Rubio-Méndez 2020) est conservé : il porte sur l'hybridation, non sur le rang.
 - Brouillon `espece-dioon-edule-fr.html` resynchronisé sur le contenu en ligne (rev.py : seule différence = sommaire automatique ; blocs 153/153 ; aucun commentaire visible ; hreflang fr/it/en).
 - Point 42 ci-dessus traité par la réécriture AD2 de la FR 7876.
+- 26/10/2026, fin du lot DIO01 : annotations « consulté(e) directement / consultata direttamente » et « fil lu en entier / discussione letta per intero » retirées des sources (replace_in_content, simulation puis application ; brouillon aligné).
