@@ -70,7 +70,7 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - Fiches EN sans équivalent FR (slug différent ou forme) : caffer (16786) [**FAIT 26/10/2026 (ENC13)** : slug `afer`, groupe FR 26313]
 
 ## Macrozamia — 22 à reprendre, 19 à créer
-- MAC01 : communis R18025/FR1471, concinna R18242/FR26242, diplomera R18233/FR26250, dyeri R18145/FR26282, elegans R18221/FR26257
+- MAC01 : communis R18025/FR1471 fait (26/10/2026, 18025), concinna R18242/FR26242 fait (26/10/2026, 18242), diplomera R18233/FR26250 fait (26/10/2026, 18233), dyeri R18145/FR26282 fait (26/10/2026, 18145), elegans R18221/FR26257 fait (26/10/2026, 18221) — lot MAC01 terminé le 26/10/2026
 - MAC02 : fearnsidei R18250/FR26264, flexuosa R18194/FR26278, fraseri R18134/FR26273, glaucophylla R18213/FR26252, heteromera R18207/FR26245
 - MAC03 : johnsonii R18074/FR26275, lucida R18157/FR26268, macdonnellii R18105/FR26261, miquelii R18050/FR1822, montana R18121/FR26238
 - MAC04 : moorei R18031/FR1833, mountperriensis R18061/FR26254, pauli-guilielmi R18175/FR26246, reducta R18183/FR26259, riedlei R18044/FR26236
