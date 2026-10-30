@@ -1670,3 +1670,7 @@ Balayage des 733 pages EN (balise meta description en ligne) : 11 descriptions e
 
 ## 26/10/2026 — *Encephalartos natalensis* : date de l'observation JZT
 Décision du propriétaire : −6 °C en **février 2012** (et non janvier). replace_in_content (simulation puis application, ciblé) : FR 1866 (4), IT 11940 (3), EN 16613 (4). Brouillons et notes alignés.
+
+## 30/10/2026 — Vague de froid de 2012 : « janvier 2012 » → « février 2012 »
+Décision du propriétaire (26/10). Seules les mentions de l'épisode de froid en France ont été corrigées (simulation puis application ciblée, 11 remplacements) : Aloe reitzii 1130, Yucca elephantipes FR 1398 / IT 14061, Echinopsis pasacana 2804, Agave tenuifolia 3248 (×3), Acacia caven 8525, Phytolacca dioica 8710, article agaves 13352, article Lavaud 16529. Laissées (vraies dates de janvier 2012) : E. sclavoi 5560/13180/16794 (feuilles déc. 2011-janv. 2012), E. heenanii 16929/26198/27818 (semis du 27/01/2012), article thrips 19855 (EPPO, Lisbonne), Ceratozamia delucana 26375/27428 (type récolté le 20/01/2012), Zamia huilensis 26503/28013/32077 (Colombie).
+Consignes des agents EN recréées dans le dépôt : prompts/consignes-en-cycadales.md (scratchpad perdu au remplacement du conteneur).
