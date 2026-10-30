@@ -26,3 +26,7 @@
 - Complément 11/10/2026 (lot miqueliana → rosea) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia mirandae* 27478, *Ceratozamia norstogii* 27488 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte en ligne).
 
 - Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia vovidesii* 27523 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).
+
+## Nettoyage (30/10/2026, lot CER02, création de la page EN 35577)
+- Notes de travail retirées (9 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO non ha potuto essere consultato direttamente » → WCVP lue sur GBIF ; annotations « consultata / consultato direttamente » retirées ; BMAA retirée ; « Descrizione originale; non consultata » → « dati ripresi dalla monografia… » ; « Lista rossa non consultata » → catégorie confirmée par GBIF, DOI vérifié sur Crossref ; « Nessun riscontro datato è stato trovato con le ricerche sul web » → « Nessun riscontro di coltivazione datato è documentato ».
+- Signalé (hors lot) : ligne d'index de la page genre IT 12127 (« foreste nebulose dei Chimalapas ») à corriger comme en EN.

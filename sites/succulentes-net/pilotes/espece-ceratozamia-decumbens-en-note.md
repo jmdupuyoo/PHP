@@ -1,0 +1,14 @@
+# Note — *Ceratozamia decumbens* (EN), lot CER02 (30/10/2026)
+
+- Page : https://succulentes.net/en/cycads/ceratozamia/decumbens/ — id **35588**, fiche C, titre « Ceratozamia decumbens », slug `decumbens`, parent 16307, langue en, `translation_of` FR 26371. Groupe fr 26371 / it 27423 / en 35588. Aucune ES.
+- Avant création : aucune page EN de l'espèce (list_content en, tous statuts : 0 ; corbeille : 0 ; URL en 404 ; aucune redirection). Homonyme distinct : *Zamia decumbens* EN 31983 (Belize), signalé dans l'intro (sans lien) et lié dans « Possible confusion ».
+- Contrôles : URL 200 sans redirection ; `<title>` = titre SEO ; hreflang fr/it/en présents ; texte en ligne identique au brouillon (cmp.py) ; aucun « » ni guillemet droit ; °C suivis de °F ; aucune note de travail.
+- Toxicité au format imposé (glycosides cycasine, macrozamine → méthylazoxyméthanol ; pas de BMAA).
+- Liens : intro → genre EN 16307 ; *becerrae* 35553 et *Zamia decumbens* 31983 (Confusions) ; Further reading : semis, arrosage, toxicité (200). Aucune image.
+- Index 16307 : ligne liée et altitude corrigée (« 450 and 1,000 m » → « 450 and 1,100 m », monographie relue : 450–1,100 m) ; simulation 1/1 puis application ; brouillon genre aligné.
+- SEO Rank Math : « Ceratozamia decumbens: a Dwarf Cycad of Veracruz, Mexico » (56) ; meta 147 ; mot-clé `Ceratozamia decumbens`.
+- Longueur : ≈ 2 770 mots (≈ 2 200 hors sources).
+- Sources : FR 26371 / IT 27423 ; protologue (Vovides et al. 2008, *Novon*) relu dans le PDF cycad.org (200, texte extrait) : climat (1 000-1 200 mm, 21,5 °C, minimales 12-13 °C, maximales > 34 °C), 712 m, 2n = 16, CR B2 recommandé, spécimens Walters 1993 (FTG, XAL) ; monographie 2022 relue sur PMC (450–1 100 m, EN proposé, 100-150 adultes, clé : cônes femelles lie-de-vin, sommet aigu) ; Habib et al. 2023, Gómez Díaz 2025 (PMC, via FR), Medina-Villarreal et al. 2025 (résumé, via FR) ; WLoC 21 relue (type 08/04/2005, HT XAL ; EN A2c; B1ab(i,ii,iii,v) ; étymologie Haynes 2022) ; WCVP via GBIF 207874527 (Novon 18 : 110, « Mexico Gulf ») ; GBIF (EN) ; Crossref (DOI UICN T187826A1827950, DOI Novon 10.3417/2006063) ; Species+ 65506 ; BGCI API : 4 (Montgomery, Fairchild, Huntington, Clavijero) ; Montgomery BG-BASE : 93920.
+- Divergences exposées : couleur du cône femelle (lie-de-vin, monographie / vert olive à brun, protologue) ; tronc 9-20 cm (protologue) / 10-40 cm (monographie) ; paires de folioles 7-19 / 8-24 ; catégories successives (CR 2008, EN proposé 2022, EN UICN 2022, risque élevé 2025).
+- Liens entrants : *becerrae* 35553 (In the wild) et *brevifrons* 35555 (Taxonomy), première occurrence hors intro/encadré/titres/sources ; simulation puis application (1 + 1) ; brouillons alignés. *Zamia decumbens* 31983 ne cite pas l'espèce (seulement *Ceratozamia robusta*).
+- FR 26371 / IT 27423 nettoyées le 30/10/2026 (voir leurs notes).

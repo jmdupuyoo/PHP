@@ -71,3 +71,8 @@
 - Ajouts : localité volontairement omise par le protologue (protection contre les collecteurs) ; De Luca promoteur des études sur les cycadales mexicaines « depuis 1970 » ; espèce rapprochée surtout de *C. latifolia* par les auteurs (lien FR https://succulentes.net/cycadales/ceratozamia/latifolia/, 200) ; *Delpinoa* revue de l'Orto Botanico di Napoli ; titre exact « A new species of Ceratozamia (Zamiaceae) from Veracruz, Mexico » ; PDF ajouté aux Sites de référence.
 - Retirés comme faits établis : « rochers calcaires » dans l'introduction (gardés, attribués à la monographie, dans l'encadré, Dans la nature, Culture et FAQ) ; « jusqu'à 43 paires de folioles » dans la FAQ.
 - Intouché : statut UICN, CITES, Gómez Díaz 2025, suivi de six populations (monographie).
+
+## Nettoyage (30/10/2026, lot CER02, création de la page EN 35595)
+- Notes de travail retirées (9 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO n'a pas pu être consulté directement » → WCVP lue sur GBIF (207874435) ; annotations « consultée / consulté directement » retirées ; BMAA retirée de la toxicité ; « Liste rouge non consultée » → catégorie confirmée par GBIF, DOI vérifié sur Crossref ; « et lue pour cette fiche » retiré du paragraphe sur la description originale.
+- Date du type (20 janvier 2012) vérifiée dans le protologue : vraie date, non modifiée.
+- Signalé : la localité du type (« route d'Atzalan à Tlapacoyan, à 3 km au nord-est d'Atzalan ») est plus précise que le niveau municipal retenu pour les pages EN ; le protologue l'omettait volontairement. Non modifié (décision du propriétaire).

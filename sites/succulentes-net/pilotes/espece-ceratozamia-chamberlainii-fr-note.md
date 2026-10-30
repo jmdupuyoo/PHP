@@ -65,3 +65,6 @@
 - Source lue : Plazi, traitement FF35878CEE10FFD45FB129802C89FC59 (Phytotaxa 317(1), p. 22-23 : diagnose, type, spécimens examinés, description, étymologie, répartition et habitat). Analyses morphologiques (reste de l'article) : résumé seulement.
 - Écarts protologue / monographie 2022 exposés : type à 850 m (protologue, WLoC) contre 1 044 m (monographie) ; habitat « pine-oak forest » seul dans le protologue (la monographie ajoute la forêt de nuages) ; type à 850 m sous la fourchette 900-1 200 m du même protologue ; cônes et graines un peu plus grands dans le protologue ; nombre de folioles « 20–42 » sans « pairs ».
 - Publication : replace_in_content (dry run puis application, 5 remplacements), brouillon mis à jour, comparaison identique, URL 200.
+
+## Nettoyage (30/10/2026, lot CER02, création de la page EN 35572)
+- Notes de travail retirées (7 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO l'accepte d'après un extrait de recherche (non lu directement) » → WCVP lue sur GBIF (207874431 : nom accepté, Phytotaxa 317 : 22) ; annotations « consultée / consulté directement » retirées ; BMAA retirée de la toxicité (format des genres hors *Cycas*) ; « Liste rouge non consultée » → catégorie confirmée par GBIF et DOI vérifié sur Crossref.

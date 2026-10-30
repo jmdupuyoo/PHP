@@ -63,3 +63,6 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : sommaire, newsletter et pied de page du thème).
 - Lien ajouté dans l'index des espèces de la page genre 9866 (replace_in_content, simulation puis application ; 11 liens en un appel pour les 11 fiches du lot).
+
+## Nettoyage (30/10/2026, lot CER02, création de la page EN 35588)
+- Notes de travail retirées (9 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO n'a pas pu être consulté directement » → WCVP lue sur GBIF (207874527 : Novon 18 : 110) ; annotations « consultée / consulté directement » retirées ; BMAA retirée de la toxicité ; « Liste rouge non consultée » → catégorie confirmée par GBIF, DOI vérifié sur Crossref ; phrase de recherche sur le forum des Fous de palmiers (« messages contenant decumbens… *Brahea decumbens*… recherche du 2 octobre 2026 ») retirée de la section « En France ».

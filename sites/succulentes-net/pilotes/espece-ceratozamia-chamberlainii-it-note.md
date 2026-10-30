@@ -24,3 +24,6 @@
 
 ## Mise à jour du 11/10/2026 (lot IT euryphyllidia → mexicana)
 - Liens ajoutés sur la première occurrence hors intro, encadré, titres et fonti (replace_in_content ciblé, simulation puis application) : hildae 27493, latifolia 27500 (mexicana cité seulement dans les fonti : pas de lien). Brouillon `espece-ceratozamia-chamberlainii-it.html` aligné et comparé au rendu en ligne (identique).
+
+## Nettoyage (30/10/2026, lot CER02, création de la page EN 35572)
+- Notes de travail retirées (9 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO lo accetta secondo un estratto di ricerca (non letto direttamente) » → WCVP lue sur GBIF (207874431) ; annotations « consultata / consultato direttamente » retirées ; BMAA retirée de la toxicité ; « Lista rossa non consultata » → catégorie confirmée par GBIF et DOI vérifié sur Crossref ; « Nessun riscontro datato è stato trovato con le ricerche sul web » → « Nessun riscontro di coltivazione datato è documentato » ; « Sullo stesso forum, nel 2012 » (forum non nommé auparavant) → « Sul forum Tropicamente, nel giugno 2012 » (date d'après la note : #post-38965, juin 2012).

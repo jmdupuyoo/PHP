@@ -88,9 +88,9 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 - DIO03 : planifolium R17946/FR26137 fait (26/10/2026, 17946), purpusii R17814/FR26139 fait (26/10/2026, 17814), rzedowskii R17862/FR26144 fait (26/10/2026, 17862), salas-moralesiae R17954/FR26148 fait (26/10/2026, 17954), sonorense R17917/FR13251 fait (26/10/2026, 17917) — lot DIO03 terminé le 26/10/2026
 - DIO04 : spinulosum R17822/FR5286 fait (26/10/2026, 17822), stevensonii R17905/FR26152 fait (26/10/2026, 17905), tomasellii R17899/FR26156 fait (30/10/2026, 17899), vovidesii R17926/FR26160 fait (30/10/2026, 17926) — lot DIO04 terminé le 30/10/2026 (dernier lot des *Dioon*)
 
-## Ceratozamia — 0 à reprendre, 45 à créer (5 créées)
+## Ceratozamia — 0 à reprendre, 45 à créer (10 créées)
 - CER01 : alba C/FR26355 fait (30/10/2026, 35547), alvarezii C/FR26357 fait (30/10/2026, 35549), aurantiaca C/FR26359 fait (30/10/2026, 35551), becerrae C/FR26361 fait (30/10/2026, 35553), brevifrons C/FR26363 fait (30/10/2026, 35555) — lot CER01 terminé le 30/10/2026 (page genre 16307 contrôlée et nettoyée avant le lot, ainsi que FR 9866 / IT 12127)
-- CER02 : chamberlainii C/FR26365, chimalapensis C/FR26367, chinantlensis C/FR26369, decumbens C/FR26371, delucana C/FR26375
+- CER02 : chamberlainii C/FR26365 fait (30/10/2026, 35572), chimalapensis C/FR26367 fait (30/10/2026, 35577), chinantlensis C/FR26369 fait (30/10/2026, 35583), decumbens C/FR26371 fait (30/10/2026, 35588), delucana C/FR26375 fait (30/10/2026, 35595) — lot CER02 terminé le 30/10/2026 (FR/IT des 5 espèces nettoyées ; index 16307 : 10 lignes liées)
 - CER03 : dominguezii C/FR26379, euryphyllidia C/FR26377, fuscoviridis C/FR29473, gigantea C/FR26413, guatemalensis C/FR26410
 - CER04 : hildae C/FR26418, hondurensis C/FR26383, huastecorum C/FR26391, kuesteriana C/FR26400, latifolia C/FR26422
 - CER05 : leptoceras C/FR26404, matudae C/FR26408, mexicana C/FR26426, miqueliana C/FR26452, mirandae C/FR26454

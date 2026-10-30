@@ -12,3 +12,4 @@
 - Divergence UICN exposée (WLoC NE / monographie EN 2021 / Liste rouge : synonyme de *zoquorum* CR).
 - Liens sortants : *aurantiaca* 35551, *Zamia cremnophila* 31239, *Zamia splendens* 32783. Lien entrant : *Zamia grijalvensis* 32054 (simulation 1/1 puis application, brouillon aligné).
 - FR 26361 / IT 27407 nettoyées le 30/10/2026 (voir leurs notes).
+- 30/10/2026 (lot CER02) : lien entrant posé vers la nouvelle page EN *Ceratozamia decumbens* (35588) sur la première occurrence (simulation 1/1 puis application ; brouillon aligné, identique au texte en ligne).

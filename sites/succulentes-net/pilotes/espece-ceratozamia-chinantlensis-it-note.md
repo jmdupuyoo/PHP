@@ -25,3 +25,6 @@
 - Complément 11/10/2026 (lot miqueliana → rosea) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia miqueliana* 27475 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte en ligne).
 
 - Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia santillanii* 27494, *Ceratozamia whitelockiana* 27534, *Ceratozamia zoquorum* 27556 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).
+
+## Nettoyage (30/10/2026, lot CER02, création de la page EN 35583)
+- Notes de travail retirées (5 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO non ha potuto essere consultato direttamente » → WCVP lue sur GBIF ; annotations « consultata direttamente » retirées ; BMAA retirée ; « Nessun riscontro è stato trovato con le ricerche sul web » → « Nessun riscontro di coltivazione è documentato ».

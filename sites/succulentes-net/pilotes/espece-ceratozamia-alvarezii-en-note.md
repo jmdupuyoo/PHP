@@ -11,3 +11,4 @@
 - Sources : FR 26357 / IT 27398 (protologue Novon 1999, monographie 2022 et Habib 2023 sur PMC, Martínez-Domínguez 2024) ; WLoC 16 relue (EN 2022, type, étymologie Haynes) ; WCVP via GBIF 207874525 (Novon 9 : 410) ; GBIF iucnRedListCategory (EN) ; Crossref : Bösenberg 2022 (T42122A2959813) et évaluation 2010 (Vovides) ; Species+ 16115 (autocomplétion, 30/10) ; BGCI API : 1 jardin (Clavijero, Xalapa) ; Montgomery : aucune accession. cycad.org : pas de PDF (404).
 - Points douteux : consommation des graines (étiquette d'herbier citée par la monographie) présentée sans garantie d'innocuité.
 - FR 26357 / IT 27398 nettoyées le 30/10/2026 (voir leurs notes).
+- 30/10/2026 (lot CER02) : lien entrant posé vers la nouvelle page EN *Ceratozamia chimalapensis* (35577) sur la première occurrence (Taxonomy ; simulation 1/1 puis application ; brouillon aligné, identique au texte en ligne).

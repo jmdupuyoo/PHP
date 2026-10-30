@@ -28,3 +28,6 @@
 - Complément 11/10/2026 (lot miqueliana → rosea) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia morettii* 27484 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte en ligne).
 
 - Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia zoquorum* 27556 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).
+
+## Nettoyage (30/10/2026, lot CER02, création de la page EN 35588)
+- Notes de travail retirées (11 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO non ha potuto essere consultato direttamente » → WCVP lue sur GBIF ; annotations « consultata / consultato direttamente » retirées ; BMAA retirée ; « Lista rossa non consultata » → catégorie confirmée par GBIF, DOI vérifié sur Crossref ; « Nessun riscontro datato è stato trovato con le ricerche sul web » → « Nessun riscontro di coltivazione datato è documentato » ; phrases de recherche sur les forums Tropicamente (« ricerca dell'11 ottobre 2026 ») et Fous de palmiers (« ricerca del 2 ottobre 2026 », *Brahea decumbens*) retirées.

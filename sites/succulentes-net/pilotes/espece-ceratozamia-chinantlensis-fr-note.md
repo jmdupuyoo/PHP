@@ -55,3 +55,7 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : sommaire, newsletter et pied de page du thème).
 - Lien ajouté dans l'index des espèces de la page genre 9866 (replace_in_content, simulation puis application ; 11 liens en un appel pour les 11 fiches du lot).
+
+## Nettoyage (30/10/2026, lot CER02, création de la page EN 35583)
+- Notes de travail retirées (4 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO n'a pas pu être consulté directement » → WCVP lue sur GBIF (262420478 : Taxonomy 4 : 738) ; annotations « consultée directement » retirées ; BMAA retirée de la toxicité.
+- Signalé : la Taxonomie dit que l'analyse discriminante sépare les trois espèces « à un individu près » ; le protologue (relu le 30/10) mentionne un *chinantlensis* classé *santillanii* et un *santillanii* classé *chinantlensis*. Non modifié.

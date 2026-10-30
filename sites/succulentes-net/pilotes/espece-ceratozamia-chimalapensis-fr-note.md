@@ -60,3 +60,7 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : sommaire, newsletter et pied de page du thème).
 - Lien ajouté dans l'index des espèces de la page genre 9866 (replace_in_content, simulation puis application ; 11 liens en un appel pour les 11 fiches du lot).
+
+## Nettoyage (30/10/2026, lot CER02, création de la page EN 35577)
+- Notes de travail retirées (8 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO n'a pas pu être consulté directement » → WCVP lue sur GBIF (207874529) ; annotations « consultée / consulté directement » retirées ; BMAA retirée de la toxicité (« cycasine et macrozamine, à l'origine d'un composé toxique… ») ; « Description originale ; non consultée » → « données relevées via la monographie… » ; « Liste rouge non consultée » → catégorie confirmée par GBIF et DOI vérifié sur Crossref.
+- Signalé (hors lot) : la ligne d'index de la page genre FR 9866 (« forêts de nuages des Chimalapas ») contredit la monographie (forêt de chênes sur argile) ; corrigée en EN seulement.

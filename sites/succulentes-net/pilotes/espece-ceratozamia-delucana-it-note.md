@@ -30,3 +30,7 @@
 - Complément 11/10/2026 (lot miqueliana → rosea) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia morettii* 27484 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte en ligne).
 
 - Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia tenuis* 27504, *Ceratozamia totonacorum* 27516 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).
+
+## Nettoyage (30/10/2026, lot CER02, création de la page EN 35595)
+- Notes de travail retirées (10 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO non ha potuto essere consultato direttamente » → WCVP lue sur GBIF ; annotations « consultata / consultato direttamente » retirées ; BMAA retirée ; « Lista rossa non consultata » → catégorie confirmée par GBIF, DOI vérifié sur Crossref ; « Nessun riscontro datato è stato trovato con le ricerche sul web » → « Nessun riscontro di coltivazione datato è documentato » ; « letta per questa scheda » retiré.
+- Date du type (20 gennaio 2012) vérifiée : vraie date, non modifiée. Localité du type précise (3 km NE d'Atzalan) : même remarque que la FR.
