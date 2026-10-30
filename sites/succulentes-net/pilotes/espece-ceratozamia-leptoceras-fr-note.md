@@ -42,3 +42,5 @@ Brouillon : `pilotes/espece-ceratozamia-leptoceras-fr.html` (blocs Gutenberg con
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26404, https://succulentes.net/cycadales/ceratozamia/leptoceras/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.
+
+- **Nettoyage CER05 (30/10/2026)** : 13 remplacements (simulation puis application) : POWO non consulté → WCVP via GBIF (encadré, Taxonomie) ; « consultée directement », « texte intégral consulté », Haynes « non consulté directement » retirés ; BMAA retirée ; statut EN « proposé dans le protologue » corrigé : le protologue (XML Pensoft relu) n'a pas de section de conservation, la proposition vient de la monographie 2022 (encadré, Statut, ligne de source). Fiche EN créée : 35703. Brouillon aligné.

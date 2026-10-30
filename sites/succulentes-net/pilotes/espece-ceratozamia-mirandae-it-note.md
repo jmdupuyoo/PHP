@@ -28,3 +28,5 @@
 ## Points douteux
 - Écarts protologue/monographie (tronc, texture des folioles, cône femelle, graines ; substrat granitique contre karst) exposés comme en FR.
 - POWO non consulté (Cloudflare) : nom accepté d'après The World List of Cycads, comme en FR.
+
+- **Pulizia CER05 (30/10/2026)** : 16 sostituzioni (simulazione poi applicazione) : POWO → WCVP tramite GBIF ; « riscontro trovato » → « documentato » ; « messaggi riletti », « testo integrale letto », riassunto di Haynes 2023 riformulati ; BMAA tolta. Scheda EN : 35719. Bozza allineata.

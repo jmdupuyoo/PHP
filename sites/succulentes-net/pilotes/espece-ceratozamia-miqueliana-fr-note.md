@@ -46,3 +46,5 @@ Brouillon : `pilotes/espece-ceratozamia-miqueliana-fr.html` (blocs Gutenberg con
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Aucun message de La Londe-les-Maures trouvé pour cette espèce.
 - Liens internes du corps : première occurrence des *Ceratozamia* ayant une fiche FR publiée, vérifiés en 200 après publication.
+
+- **Nettoyage CER05 (30/10/2026)** : 23 remplacements (simulation puis application) : POWO → WCVP via GBIF ; synonyme WCVP *Ceratozamia ghiesbrechtii* Regel (1876) exposé (encadré, Taxonomie) ; « Ces deux articles n'ont pas été lus » → « résumés d'après la monographie » ; ligne « Succulentes, page du genre… synthèse interne » retirée des sources ; annotations « non consulté », « lue via Plazi », « fil lu », « texte intégral lu », « consulté par résumé », « page 68 consultée en fac-similé » reformulées ; BMAA retirée. Fiche EN créée : 35715. Brouillon aligné.

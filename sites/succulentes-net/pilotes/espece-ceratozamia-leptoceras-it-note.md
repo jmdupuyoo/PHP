@@ -27,3 +27,5 @@
 - Aucune fiche IT existante hors lot ne cite l'espèce.
 
 - Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia whitelockiana* 27534 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).
+
+- **Pulizia CER05 (30/10/2026)** : 13 sostituzioni (simulazione poi applicazione) : POWO non consultato → WCVP tramite GBIF ; annotazioni « direttamente », « testo integrale consultato » tolte ; BMAA tolta ; stato EN attribuito alla sola monografia 2022 (il protologo non ha sezione di conservazione). Scheda EN : 35703. Bozza allineata.

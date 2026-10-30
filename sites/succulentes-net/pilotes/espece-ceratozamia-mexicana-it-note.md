@@ -31,3 +31,5 @@
 - Liens ajoutés dans les fiches IT existantes aurantiaca 27401, brevifrons 27409, decumbens 27423 et delucana 27428 ; chamberlainii ne cite mexicana que dans les fonti (pas de lien).
 
 - Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia tenuis* 27504 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).
+
+- **Pulizia e correzione CER05 (30/10/2026)** : 32 sostituzioni (simulazione poi applicazione) : come la FR (WCVP, sinonimi WCVP, divergenza sul colore delle foglie giovani secondo Vovides et al. 2016, consigli PalmTalk tolti) ; frase « altri messaggi… non sono stati considerati » tolta ; « messaggi letti », « testo letto tramite Europe PMC, tabella non scaricata », « fonte consultata » riformulati ; BMAA tolta. Scheda EN : 35711. Bozza allineata.

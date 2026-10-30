@@ -28,3 +28,5 @@
 ## Points douteux
 - Statut UICN EN 2022 (WLoC) contre CR cité par la monographie (version 2021) : exposé comme en FR.
 - POWO non consulté (Cloudflare) : nom accepté d'après The World List of Cycads, comme en FR.
+
+- **Pulizia CER05 (30/10/2026)** : 22 sostituzioni (simulazione poi applicazione) : POWO → WCVP tramite GBIF ; sinonimo WCVP *Ceratozamia ghiesbrechtii* esposto ; « articoli non letti » → riassunti secondo la monografia ; annotazioni di lettura tolte ; BMAA tolta. Scheda EN : 35715. Bozza allineata.

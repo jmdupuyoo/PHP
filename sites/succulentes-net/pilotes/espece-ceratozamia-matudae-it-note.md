@@ -29,3 +29,5 @@
 - Lien ajouté dans la fiche IT existante alvarezii 27398.
 
 - Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia vovidesii* 27523 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).
+
+- **Pulizia CER05 (30/10/2026)** : 16 sostituzioni (simulazione poi applicazione) : POWO → WCVP tramite GBIF ; Lista rossa → categoria confermata da GBIF ; composizione del clade *Matudae* (Habib et al. 2023) al posto di « non verificato » ; annotazioni di lettura del protologo e dei riassunti, « forum » tolti ; BMAA tolta. Scheda EN : 35707. Bozza allineata.
