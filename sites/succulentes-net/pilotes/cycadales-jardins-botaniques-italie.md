@@ -365,7 +365,7 @@ Toutes les URL ont été consultées le 10/10/2026, sauf mention contraire. « A
 
 **Florence**
 
-- **F1** — Museo di Storia Naturale, Université de Florence, « Cycads », non datée. https://www.msn.unifi.it/vp-915-cycads.html
+- **F1** — Museo di Storia Naturale, Université de Florence, « Cycads », non datée. https://www.sma.unifi.it/vp-915-cycads.html (ancienne adresse msn.unifi.it, 301 ; remplacée le 30/10/2026)
 - **F2** — APGI, fiche « Orto Botanico Giardino dei Semplici », non datée. https://apgi.it/wp-content/plugins/custom_garden/ajax/get_pdf_client.php?id=1511
 - **F3** — *Delectus seminum* 2017 de Florence (aucune cycadale). https://www.sma.unifi.it/upload/sub/delectus_seminum_completo.pdf
 

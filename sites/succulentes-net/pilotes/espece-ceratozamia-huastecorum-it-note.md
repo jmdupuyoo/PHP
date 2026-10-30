@@ -25,3 +25,7 @@
 ## Points douteux / choix
 - Nom « palmilla » repris de la monographie (tableau de Bonta et al. non consulté).
 - Lien ajouté dans la fiche IT existante decumbens 27423.
+
+## Nettoyage CER04 (30/10/2026)
+- Notes de travail retirées (simulation puis application, 13 remplacements ; brouillon identique au texte en ligne) : POWO non consulté → WCVP lue sur GBIF (207874511, acceptée, Bot. J. Linn. Soc. 141 : 395, « Mexico Gulf ») ; « Liste rouge non consultée » → catégorie CR confirmée par GBIF (30/10) ; « forums » / « tableau des espèces non consulté » reformulés ; BMAA retirée ; annotations « texte intégral lu/consulté », « consultée directement » retirées.
+- Vérifié le 30/10 : WLoC 26 (HT XAL, Castillo-Campos et al. 2567 « male » ; CR B1ab(iii,v)), protologue (copie cycad.org, texte), Species+ 65509 ; BGCI : seul le jardin Clavijero (Xalapa) ; absent de Montgomery.

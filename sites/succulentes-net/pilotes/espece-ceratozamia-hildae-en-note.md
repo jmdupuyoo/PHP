@@ -1,0 +1,14 @@
+# Note — *Ceratozamia hildae* (EN), lot CER04 (30/10/2026)
+
+- Page : https://succulentes.net/en/cycads/ceratozamia/hildae/ — id **35674**, fiche C, titre « Ceratozamia hildae », slug `hildae`, parent 16307, langue en, `translation_of` FR 26418. Groupe fr 26418 / it 27493 / en 35674.
+- Avant création : aucune page EN (list_content en, tous statuts ; corbeille 0 ; URL 404 ; aucune redirection).
+- Contrôles : URL 200 ; `<title>` = titre SEO ; hreflang fr/it/en ; texte identique au brouillon (au tiret typographique près rendu par WordPress) ; aucun « » ; °C suivis de °F ; aucune note de travail ; toxicité au format imposé (glycosides, sans BMAA) ; liens internes en 200.
+- Liens : genre, *fuscoviridis* 35622 (Hybrides), *latifolia* 35678 et *kuesteriana* 35677 (Confusions) ; Further reading : semis, arrosage, toxicité. Aucune image.
+- Index 16307 : ligne liée (simulation puis application, 5 lignes du lot en un appel).
+- Liens entrants posés (simulation puis application, 15 au total pour le lot) : *fuscoviridis* 35622, *chamberlainii* 35572, *euryphyllidia* 35620, *kuesteriana* 35677, *latifolia* 35678, article 27313.
+- SEO : Ceratozamia hildae: the Bamboo Cycad of the Sierra Gorda (56) ; meta 149.
+- Longueur : ≈ 3 100 mots.
+- Sources : FR 26418 / IT 27493 nettoyées (CER04) et leurs notes ; protologue Landry & Wilson 1979 relu (PDF cycad.org : importation par L.E. Guerra début 1960, nom commercial « hilda », type cultivé à Baton Rouge, plantes de L. Bussell du nord de Xilitla, « bamboo cycad ») ; monographie 2022 (PMC) ; Vovides & Rees 1983 relu (clé des petites espèces) ; WLoC 24 (Querétaro, San Luis Potosí ; CR A2acd ; Guerra 1923-2021) ; WCVP via GBIF 207874513 ; GBIF iucnRedListCategory (CR) ; Species+ 24092 (API : « Bamboo cycad », « Pata de gallo ») ; UF/IFAS relu (15 °F, zones 9-11, mi-ombre, maturité en 2-4 ans, sans ravageurs ni *Aulacaspis*, division) ; BGCI API (66 jardins ; UK 6 : Kew, RBGE, Glasgow, Birmingham, NBG Wales, Paignton Zoo ; US 38 ; AU 6) et hybrides (*hildae* × *kuesteriana* au Golden Gate Park, *fuscoviridis* × *hildae* à Huntington) ; Montgomery BG-BASE (15 acc.) ; Tropicamente #post-35501 relu (Pedara, 18/02/2008, −5 puis −3 °C, pleine terre, partiellement protégé).
+- Écartés : les quatre retours PalmTalk connus par extraits (Texas −16 °C, Caroline du Sud −11 °C, Natchez −10 °C, Altamonte Springs −5 °C), le fil sur l'hybride *latifolia* × *hildae* (PalmTalk, non lu) ; témoignage indirect de Corse (−0,5 °C) et cônes sur jeunes mâles (Fous de palmiers, 503 le 30/10) non repris.
+- Divergence exposée : CR (WLoC, GBIF, 2022) / EN (monographie, Liste rouge antérieure) ; mesures protologue / monographie (feuilles, cône mâle). Adresse privée du type (rue) non reprise.
+- Liens externes vérifiés le 30/10 : 200 sauf DOI d'éditeurs (Wiley, MDPI, IUCN : 403 ; Springer : 429), gbif.org/species (403, page web ; API en 200) et Fous de palmiers (503).

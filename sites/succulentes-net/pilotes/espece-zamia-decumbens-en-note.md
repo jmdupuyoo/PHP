@@ -20,3 +20,7 @@
 
 ## FR/IT à reprendre (signalé)
 - FR 22376 / IT 28037 : « sinkhole cycad » sourcé sur Wikipédia (ligne Wikipédia des Sites de référence) → Griffith et al. 2017 / Vannini 2019 ; clade « Tuerckheimii » (Calonje 2019, non consulté) → retirer ou nuancer (Lindstrom 2024 ne situe pas l'espèce dans son texte) ; Curtis 2022 : « seul le résumé a été lu ; le texte complet … n'a pas été consulté » (note de travail visible, FR et IT) ; « Repères internationaux » : « ni sur les forums consultés » (formulation générique, admise) ; compléments possibles : Vannini 2019, Lavaud (groupe 4), Montgomery/BGCI, Calonje 2025 (abstract complet).
+
+## Retouche 0 de CER04 (30/10/2026)
+- Paragraphe sur *Ceratozamia robusta* au Belize : le protologue (Calonje et al. 2009, relu le 30/10 sur cycadlist.org : « Ceratozamia robusta Miq. occurs throughout the range of Z. decumbens… Northern Cayo district ») est présenté comme identification de l'époque ; la monographie 2022 (PMC, relue : « C. osbornei is endemic to Belize » ; « Only four species… C. osbornei from Belize ; C. robusta and C. vovidesii… from Guatemala ») rattache les *Ceratozamia* du Belize à *C. osbornei* ; référence ajoutée en bibliographie (2 remplacements, simulation puis application). WLoC 41 ne cite pas le Belize pour *robusta*.
+- FR 22376 / IT 28037 gardent « Au Belize, *Ceratozamia robusta* occupe toute l'aire… » (non modifiées, hors consigne ; signalé).

@@ -27,3 +27,7 @@
 - Lien ajouté dans la fiche IT existante becerrae 27407.
 
 - Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia zoquorum* 27556 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).
+
+## Nettoyage CER04 (30/10/2026)
+- Notes de travail retirées (simulation puis application, 14 remplacements ; brouillon identique au texte en ligne) : POWO non consulté → WCVP lue sur GBIF (207874440, acceptée, Cycad Newslett. 31(2-3) : 18, Honduras) ; « Liste rouge non consultée » → catégorie CR confirmée par GBIF (30/10) ; recherche sur les forums (« consultés ») reformulée ; BMAA retirée ; annotations « texte intégral lu/consulté », « consultée directement » retirées.
+- Vérifié le 30/10 : WLoC 25 (HT EAP ; IT MEXU, MO, NY ; CR B1ab(i,ii,iii,iv,v)), protologue (copie cycad.org, texte), Species+ 65508, BGCI (Longwood, Montgomery, Huntington), Montgomery BG-BASE (9 accessions).

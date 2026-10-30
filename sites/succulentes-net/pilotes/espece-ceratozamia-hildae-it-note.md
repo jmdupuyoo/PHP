@@ -28,3 +28,7 @@
 - Deux statuts UICN exposés sans trancher : CR (A2acd, évaluation 2022) selon WLoC ; EN (A2abcd; B1ab(ii,iii,iv)) selon la monographie 2022 citant IUCN 2021 ; Liste rouge non consultée (Cloudflare).
 - Prix et site de vente non vérifiés du premier jet retirés avant publication.
 - Lien ajouté dans la fiche IT existante chamberlainii 27413.
+
+## Nettoyage CER04 (30/10/2026)
+- Notes de travail retirées (simulation puis application ; 31 remplacements ; brouillon identique au texte en ligne) : POWO non consulté → WCVP lue sur GBIF (207874513, acceptée, Brittonia 31 : 422) ; « Liste rouge non consultée » → catégorie CR confirmée par GBIF (iucnRedListCategory, 30/10) ; quatre retours PalmTalk connus par extraits de recherche (Texas −16 °C, Caroline du Sud −11 °C, Natchez −10 °C, Altamonte Springs −5 °C) et le fil sur l'hybride *latifolia* × *hildae* retirés (texte, encadré, FAQ, sources) ; hybrides de culture sourcés par BGCI PlantSearch (API, 30/10 : *hildae* × *kuesteriana* au Golden Gate Park, *fuscoviridis* × *hildae* à Huntington ; ligne de source ajoutée) ; lien *latifolia* déplacé vers « Confusions possibles » ; BMAA retirée ; Whitelock 2002 (non consulté) retiré de la bibliographie ; annotations « texte intégral lu/consulté », « consultée directement », « message(s) lu(s) » retirées.
+- Vérifié le 30/10 : UF/IFAS (survie à 15 °F, zones 9-11, mi-ombre, maturité en 2-4 ans, sans ravageurs ni *Aulacaspis*) ; Tropicamente #post-35501 (Pedara, 18/02/2008, −5 puis −3 °C, pleine terre, partiellement protégée).

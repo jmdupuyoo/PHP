@@ -48,3 +48,7 @@ Brouillon : `pilotes/espece-ceratozamia-huastecorum-fr.html` (blocs Gutenberg co
 - Correction : la fiche disait l'holotype femelle (d'après la monographie) ; le protologue donne Castillo-Campos et al. 2567 « male ». Les deux versions sont exposées. Écart de date pour le paratype 2481 (1982 dans l'article, 1981 dans la monographie).
 - Page genre 9866 (800-1 300 m) non modifiée : la borne de 800 m vient de spécimens à 820 m (monographie), le protologue donne 900-1 300 m sans contredire ces récoltes.
 - replace_in_content sur 26391 (dry run puis application, 7 remplacements) ; brouillon identique au contenu en ligne ; URL 200.
+
+## Nettoyage CER04 (30/10/2026)
+- Notes de travail retirées (simulation puis application, 13 remplacements ; brouillon identique au texte en ligne) : POWO non consulté → WCVP lue sur GBIF (207874511, acceptée, Bot. J. Linn. Soc. 141 : 395, « Mexico Gulf ») ; « Liste rouge non consultée » → catégorie CR confirmée par GBIF (30/10) ; « forums » / « tableau des espèces non consulté » reformulés ; BMAA retirée ; annotations « texte intégral lu/consulté », « consultée directement » retirées.
+- Vérifié le 30/10 : WLoC 26 (HT XAL, Castillo-Campos et al. 2567 « male » ; CR B1ab(iii,v)), protologue (copie cycad.org, texte), Species+ 65509 ; BGCI : seul le jardin Clavijero (Xalapa) ; absent de Montgomery.
