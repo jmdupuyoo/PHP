@@ -22,3 +22,4 @@ Mesures « 33-62 feuilles, 103-148 cm, 224-257 paires, 50-60° » (protologue pa
 - Identité de *Dioon* sp. « El Camarón » : grainetier seulement.
 - Accessions Montgomery de 2004, antérieures à la description : nom actuel affiché par le catalogue, provenance non vérifiée.
 - 30/10/2026 (bilan Dioon) : encadré « Habit and adult size » : « which is behind a paywall » → « detailed measurements are given in the original description (2020) » ; simulation 1/1 puis application 1/1 ; brouillon aligné.
+- 30/10/2026 (retouche 0 de CER01, alignement sur les FR/IT) : « in Phytotaxa, which is available only by subscription » → « in Phytotaxa » (paragraphe « How to recognise ») ; sources : « full text by subscription » → « abstract consulted ». 2 remplacements, simulation puis application, brouillon aligné.

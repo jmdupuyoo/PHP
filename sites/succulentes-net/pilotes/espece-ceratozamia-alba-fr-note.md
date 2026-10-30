@@ -61,3 +61,4 @@
 - Corrigé : couleur du cône mâle (vert clair à vert jaunâtre selon la description ; « vert bleuté » selon le résumé) et teinte finale des feuilles (vert clair à vert olive) ; écart exposé dans « Comment reconnaître ».
 - Phénologie : non décrite par le protologue (rien ajouté).
 - Publication : replace_in_content (dry run puis application, 17 remplacements), brouillon local mis à jour, comparaison texte brouillon/en ligne identique, URL 200.
+- 30/10/2026 (lot CER01, création de la page EN) : notes de travail retirées (5 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO n'a pas pu être consulté » → WCVP lue sur GBIF ; annotations « consultée directement » retirées ; BMAA retirée de la toxicité (format des genres hors *Cycas*).

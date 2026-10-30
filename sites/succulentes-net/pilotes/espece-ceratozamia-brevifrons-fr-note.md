@@ -68,3 +68,4 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : sommaire, newsletter et pied de page du thème).
 - Lien ajouté dans l'index des espèces de la page genre 9866 (replace_in_content, simulation puis application ; 11 liens en un appel pour les 11 fiches du lot).
+- 30/10/2026 (lot CER01, création de la page EN) : notes de travail retirées (13 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO n'a pas pu être consulté » → WCVP lue sur GBIF ; annotations « consultée directement » retirées ; BMAA retirée de la toxicité (format des genres hors *Cycas*) ; Medina-Villarreal 2025 « consultée seulement par son résumé » reformulé ; protologue daté 1847 (WLoC) / 1848 (WCVP) ; annotations « non consulté / texte non lu / Liste rouge non consultée » reformulées.

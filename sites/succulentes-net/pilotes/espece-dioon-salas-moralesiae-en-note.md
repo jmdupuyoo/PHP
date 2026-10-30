@@ -24,3 +24,4 @@
 - Accessions Montgomery de 2004 : déduction présentée comme telle (matériel cultivé avant la description, probablement sous le nom *D. merolae*).
 - Altitude, habitat et dimensions : non publiés en dehors du texte intégral (payant).
 - 30/10/2026 (bilan Dioon) : encadré « Habit and adult size » : « which is behind a paywall » → « detailed measurements given in the original description (2021) » ; simulation 1/1 puis application 1/1 ; brouillon aligné.
+- 30/10/2026 (retouche 0 de CER01, alignement sur les FR/IT) : « The full text of the description is available only by subscription; » retiré (paragraphe « How to recognise », origine des caractères conservée). 1 remplacement, simulation puis application, brouillon aligné.

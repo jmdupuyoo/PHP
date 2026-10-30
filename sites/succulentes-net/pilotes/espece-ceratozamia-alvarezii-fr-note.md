@@ -61,3 +61,4 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : sommaire, newsletter et pied de page du thème).
 - Lien ajouté dans l'index des espèces de la page genre 9866 (replace_in_content, simulation puis application ; 11 liens en un appel pour les 11 fiches du lot).
+- 30/10/2026 (lot CER01, création de la page EN) : notes de travail retirées (8 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO n'a pas pu être consulté » → WCVP lue sur GBIF ; annotations « consultée directement » retirées ; BMAA retirée de la toxicité (format des genres hors *Cycas*) ; Repères internationaux : mention des extraits PalmTalk remplacée ; annotation « Liste rouge non consultée » → catégorie confirmée par GBIF et DOI vérifié sur Crossref.
