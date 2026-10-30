@@ -28,3 +28,7 @@
 ## Points douteux / choix
 - Phrase de premier jet sur Sabato à l'Orto Botanico di Napoli retirée avant publication (non sourcée par la FR ni par le fichier des jardins).
 - Lien ajouté dans les fiches IT existantes becerrae 27407 et dominguezii 27431 (première occurrence hors intro/encadré/titres/fonti).
+
+## Nettoyage CER03 (30/10/2026)
+
+- 12 remplacements (simulation puis application, comptes identiques ; lot de 161 au total sur les 10 FR/IT) : « POWO n'a pas pu être consulté » → WCVP lue sur GBIF (encadré et Taxonomie) ; annotations « consulté(e) directement / texte intégral consulté ou lu / résumé consulté / non consulté / Liste rouge non consultée (accès bloqué) » retirées ou remplacées par la donnée lue (GBIF, Crossref) ; extraits et notes de recherche retirés ; BMAA retirée de la toxicité. Brouillon identique au texte en ligne (cmp.py). Page EN créée : 35620.

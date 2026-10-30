@@ -26,3 +26,7 @@
 - Aucune fiche IT existante ne cite l'espèce.
 
 - Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia subroseophylla* 27501 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).
+
+## Nettoyage CER03 (30/10/2026)
+
+- 14 remplacements (simulation puis application, comptes identiques ; lot de 161 au total sur les 10 FR/IT) : « POWO n'a pas pu être consulté » → WCVP lue sur GBIF (encadré et Taxonomie) ; annotations « consulté(e) directement / texte intégral consulté ou lu / résumé consulté / non consulté / Liste rouge non consultée (accès bloqué) » retirées ou remplacées par la donnée lue (GBIF, Crossref) ; extraits et notes de recherche retirés ; BMAA retirée de la toxicité. Les mentions « n'a pas pu être lue / consultée » ont été reformulées en constats sur la source (« le résumé de l'article ne précise pas… », « accessible uniquement sur abonnement »). Brouillon identique au texte en ligne (cmp.py). Page EN créée : 35624.

@@ -29,3 +29,7 @@
 - Complément 11/10/2026 (lot miqueliana → rosea) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia miqueliana* 27475, *Ceratozamia robusta* 27505 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte en ligne).
 
 - Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia subroseophylla* 27501 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).
+
+## Nettoyage CER03 (30/10/2026)
+
+- 15 remplacements (simulation puis application, comptes identiques ; lot de 161 au total sur les 10 FR/IT) : « POWO n'a pas pu être consulté » → WCVP lue sur GBIF (encadré et Taxonomie) ; annotations « consulté(e) directement / texte intégral consulté ou lu / résumé consulté / non consulté / Liste rouge non consultée (accès bloqué) » retirées ou remplacées par la donnée lue (GBIF, Crossref) ; extraits et notes de recherche retirés ; BMAA retirée de la toxicité. Exposé WCVP (consigne du lot) : la WCVP, lue sur GBIF (207874425), traite l'espèce comme synonyme de *C. subroseophylla* ; ajouté dans l'encadré, l'introduction, la Taxonomie et la FAQ (le site suit WLoC). Correction supplémentaire (1 remplacement, simulation puis application) : *C. robusta* « du Chiapas, du Guatemala et du Belize » → « du Chiapas et du Guatemala » (WLoC 41, monographie 2022). Brouillon identique au texte en ligne (cmp.py). Page EN créée : 35618.

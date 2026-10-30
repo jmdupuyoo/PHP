@@ -28,3 +28,4 @@
 
 ## Nettoyage (30/10/2026, lot CER02, création de la page EN 35583)
 - Notes de travail retirées (5 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO non ha potuto essere consultato direttamente » → WCVP lue sur GBIF ; annotations « consultata direttamente » retirées ; BMAA retirée ; « Nessun riscontro è stato trovato con le ricerche sul web » → « Nessun riscontro di coltivazione è documentato ».
+- Retouche 0 de CER03 (30/10/2026) : « con un solo individuo di eccezione » remplacé par la formulation du protologue (deux erreurs de classement) ; divergence des collecteurs du type signalée (WLoC : S.M. Ramírez-Oviedo au lieu d'A.G. Rocha-Loredo) ; « testo integrale consultato » → « accesso libero ». 3 remplacements, simulation puis application.

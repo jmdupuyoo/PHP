@@ -4,7 +4,7 @@
 - Avant création : aucune page EN de l'espèce (list_content en, tous statuts : 0 ; corbeille : 0 ; URL en 404 ; aucune redirection).
 - Contrôles : URL 200 sans redirection ; `<title>` = titre SEO ; hreflang fr/it/en présents ; texte en ligne identique au brouillon (cmp.py) ; aucun « » ni guillemet droit ; aucune note de travail.
 - Date du type : 20 janvier 2012, vraie date de récolte (protologue relu : « jan 20 2012 », WLoC et monographie concordantes) ; non concernée par la correction de l'épisode de froid de février 2012 ; non modifiée en FR/IT.
-- Localité du type limitée au niveau municipal (Atzalan) conformément aux consignes EN ; la FR/IT donnent « route d'Atzalan à Tlapacoyan, à 3 km au nord-est d'Atzalan » (d'après la monographie ; le protologue l'omet volontairement) : signalé, non modifié.
+- Localité du type limitée au niveau municipal (Atzalan) conformément aux consignes EN ; la FR/IT donnent « route d'Atzalan à Tlapacoyan, à 3 km au nord-est d'Atzalan » (d'après la monographie ; le protologue l'omet volontairement) : FR/IT ramenées au niveau municipal lors de la retouche 0 de CER03 (30/10/2026).
 - Toxicité au format imposé (glycosides cycasine, macrozamine → méthylazoxyméthanol ; pas de BMAA).
 - Liens : intro → genre EN 16307 ; Further reading : semis, arrosage, toxicité (200). Aucune autre espèce citée n'a de page EN (*morettii*, *totonacorum*, *mexicana*, *tenuis*, *latifolia*, *fuscoviridis* : lots suivants). Aucune image.
 - Index 16307 : ligne liée (simulation 1/1 puis application ; brouillon genre aligné). Après CER02 : 10 lignes liées sur 45, toutes en 200.
@@ -14,3 +14,4 @@
 - Divergences exposées : morphologie (tronc, nombre de feuilles et de folioles, cône femelle vert glabre / brun, sommet aigu / mucroné), habitat (rochers calcaires / collines sableuses).
 - Lien entrant : *brevifrons* 35555 (Taxonomy, première occurrence ; simulation 1/1 puis application ; brouillon aligné).
 - FR 26375 / IT 27428 nettoyées le 30/10/2026 (voir leurs notes).
+- CER03 (30/10/2026) : lien sortant vers *fuscoviridis* 35622 (Taxonomy, sous-clade latifolia) ; première occurrence hors introduction, encadré, titres et sources ; simulation puis application (1) ; brouillon aligné.

@@ -65,3 +65,7 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu ; seules différences : sommaire, newsletter et pied de page du thème).
 - Lien ajouté dans l'index des espèces de la page genre 9866 (replace_in_content, simulation puis application ; 11 liens en un appel pour les 11 fiches du lot).
+
+## Nettoyage CER03 (30/10/2026)
+
+- 13 remplacements (simulation puis application, comptes identiques ; lot de 161 au total sur les 10 FR/IT) : « POWO n'a pas pu être consulté » → WCVP lue sur GBIF (encadré et Taxonomie) ; annotations « consulté(e) directement / texte intégral consulté ou lu / résumé consulté / non consulté / Liste rouge non consultée (accès bloqué) » retirées ou remplacées par la donnée lue (GBIF, Crossref) ; extraits et notes de recherche retirés ; BMAA retirée de la toxicité. Exposé WCVP (consigne du lot) : la WCVP, lue sur GBIF (207874425), traite l'espèce comme synonyme de *C. subroseophylla* ; ajouté dans l'encadré, l'introduction, la Taxonomie et la FAQ (le site suit WLoC). Correction supplémentaire (1 remplacement, simulation puis application) : *C. robusta* « du Chiapas, du Guatemala et du Belize » → « du Chiapas et du Guatemala » (WLoC 41, monographie 2022). Brouillon identique au texte en ligne (cmp.py). Page EN créée : 35618.

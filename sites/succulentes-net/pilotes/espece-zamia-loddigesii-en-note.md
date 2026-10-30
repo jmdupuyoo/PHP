@@ -35,3 +35,4 @@
 
 ## Lien posé le 25/10/2026 (ZAM09)
 - Lien vers *katzeriana* EN 32132 (première occurrence, Hybrids, 1 remplacement, simulation puis application).
+- CER03 (30/10/2026) : lien sortant vers *fuscoviridis* 35622 (Traditional uses) ; première occurrence hors introduction, encadré, titres et sources ; simulation puis application (1) ; brouillon aligné.

@@ -42,3 +42,7 @@ Brouillon : `pilotes/espece-ceratozamia-guatemalensis-fr.html` (blocs Gutenberg 
 ## Publication effectuée
 
 - Publiée le 03/10/2026 : id 26410, https://succulentes.net/cycadales/ceratozamia/guatemalensis/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.
+
+## Nettoyage CER03 (30/10/2026)
+
+- 9 remplacements (simulation puis application, comptes identiques ; lot de 161 au total sur les 10 FR/IT) : « POWO n'a pas pu être consulté » → WCVP lue sur GBIF (encadré et Taxonomie) ; annotations « consulté(e) directement / texte intégral consulté ou lu / résumé consulté / non consulté / Liste rouge non consultée (accès bloqué) » retirées ou remplacées par la donnée lue (GBIF, Crossref) ; extraits et notes de recherche retirés ; BMAA retirée de la toxicité. Brouillon identique au texte en ligne (cmp.py). Page EN créée : 35629.

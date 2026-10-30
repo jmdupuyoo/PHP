@@ -42,3 +42,8 @@
 - Phrase « tenerla al riparo dal gelo » (Riferimenti internazionali) présentée comme déduction.
 - Mêmes divergences que la FR (étymologie, altitudes, cônes 2018/2022, tronc identique à *delucana*, articulations, néotype 1881).
 - Non consultés : POWO, UICN, BHL (Cloudflare) ; De Luca 1990 ; Cardini & Morassi Bonzi 2005 (texte).
+
+## Nettoyage CER03 (30/10/2026)
+
+- 33 remplacements (simulation puis application, comptes identiques ; lot de 161 au total sur les 10 FR/IT) : « POWO n'a pas pu être consulté » → WCVP lue sur GBIF (encadré et Taxonomie) ; annotations « consulté(e) directement / texte intégral consulté ou lu / résumé consulté / non consulté / Liste rouge non consultée (accès bloqué) » retirées ou remplacées par la donnée lue (GBIF, Crossref) ; extraits et notes de recherche retirés ; BMAA retirée de la toxicité. Phrases retirées : recherche Fous de palmiers du 18/10 (« l'espèce n'apparaît qu'à propos de la collection de Dublin ») et études 2020/2023 « non consultées » ; Donaldson 2003 : « est également référencée » ; Bull 1879 : annotation de lecture remplacée par la source (WLoC, Calonje & Sennikov 2017). Brouillon identique au texte en ligne (cmp.py). Page EN créée : 35622.
+- CER03 (30/10/2026) : URL du musée de Florence msn.unifi.it (301) → sma.unifi.it (adresse finale) ; 1 remplacement, simulation puis application.

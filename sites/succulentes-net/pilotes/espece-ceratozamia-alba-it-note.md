@@ -26,3 +26,4 @@
 
 - Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia santillanii* 27494 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).
 - 30/10/2026 (lot CER01, création de la page EN) : notes de travail retirées (5 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO n'a pas pu être consulté » → WCVP lue sur GBIF ; annotations « consultée directement » retirées ; BMAA retirée de la toxicité (format des genres hors *Cycas*).
+- Retouche 0 de CER03 (30/10/2026) : note de recherche « Nessun riscontro (datato) è stato trovato con le ricerche sul web » reformulée (« Riferimenti internazionali » : aucun retour de culture documenté) ; 1 remplacement, simulation puis application.

@@ -12,3 +12,4 @@
 - Divergences exposées : altitude du type (850 m protologue et WLoC / 1 044 m monographie) ; forêt de nuages (monographie) absente du protologue ; aire WCVP limitée au nord-est du Mexique (Hidalgo et Querétaro relèvent de « Mexico Central » en TDWG).
 - Liens entrants : aucune autre page EN ne cite l'espèce hors page genre (16307 la cite aussi dans la section pollinisation, sans lien : page genre déjà liée par l'index). *Zamia pygmaea* 32548 et *Cycas riuminiana* 30820 citent des homonymes (*Zamia chamberlainii*, *Cycas chamberlainii*).
 - FR 26365 / IT 27413 nettoyées le 30/10/2026 (voir leurs notes).
+- CER03 (30/10/2026) : lien sortant vers *fuscoviridis* 35622 (Possible confusion) ; première occurrence hors introduction, encadré, titres et sources ; simulation puis application (1) ; brouillon aligné.

@@ -12,3 +12,4 @@
 - Écarté : l'extrait de recherche « sous le point de congélation en zone 9b » de la FR (non repris, retiré des FR/IT).
 - Points douteux : culture en plein air à Fairchild non précisée (formulé comme tel).
 - FR 26359 / IT 27401 nettoyées le 30/10/2026 (voir leurs notes).
+- CER03 (30/10/2026) : lien sortant vers *dominguezii* 35618 (Possible confusion) ; première occurrence hors introduction, encadré, titres et sources ; simulation puis application (1) ; brouillon aligné.
