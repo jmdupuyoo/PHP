@@ -21,3 +21,4 @@ Mesures « 33-62 feuilles, 103-148 cm, 224-257 paires, 50-60° » (protologue pa
 - Clés 2021 (folioles fortement imbriquées) et 2026 (non imbriquées) contradictoires : exposé.
 - Identité de *Dioon* sp. « El Camarón » : grainetier seulement.
 - Accessions Montgomery de 2004, antérieures à la description : nom actuel affiché par le catalogue, provenance non vérifiée.
+- 30/10/2026 (bilan Dioon) : encadré « Habit and adult size » : « which is behind a paywall » → « detailed measurements are given in the original description (2020) » ; simulation 1/1 puis application 1/1 ; brouillon aligné.

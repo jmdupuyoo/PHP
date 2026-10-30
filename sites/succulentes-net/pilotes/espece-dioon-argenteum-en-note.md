@@ -22,3 +22,4 @@
 ## Points douteux
 - Position de l'espèce dans le clade Purpusii non vérifiée.
 - Types de *D. argenteum* et *D. planifolium* : même date et numéros consécutifs (voir note FR).
+- 30/10/2026 (bilan Dioon) : note de travail retirée de la Taxonomie (« Its exact position within the clade is not given in the parts of these studies used for this page. ») ; simulation 1/1 puis application 1/1 ; brouillon aligné.

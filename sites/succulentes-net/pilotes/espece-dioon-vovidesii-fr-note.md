@@ -60,3 +60,7 @@ Intro : /cycadales/dioon/. Corps : /cycadales/dioon/sonorense/, /cycadales/dioon
 3. Sources bloquées : POWO, UICN, PalmTalk, Phytotaxa ; sources thaïlandaises, japonaises et chinoises : rien.
 4. France : aucune donnée pour aucune zone.
 5. Encadré : rusticité et exposition non documentées.
+
+## Nettoyage DIO04 (30/10/2026)
+- replace_in_content, simulation 16/16 puis application 16/16 (26160) ; brouillon aligné (comparaison REST : 0 écart hors sommaire).
+- POWO (encadré, Taxonomie) → acceptation par la WCVP de Kew (GBIF 207874305, juin 2026) ; « annexes non consultées » retiré ; « mise à jour de 2019 non consultée » → DOF du 14/11/2019 relu (*D. sonorense* maintenu en P, *D. vovidesii* non cité) ; offre Ice Blue Cycads (extrait de recherche, page non lue, site injoignable le 30/10) retirée de la Culture et de la FAQ ; supposition PalmTalk (extrait, page bloquée) retirée de la Rusticité ; toxicité alignée sur la formulation imposée (BMAA retirée) ; annotations « consultée directement », « lu directement », « texte non consulté » retirées ; référence DOF complétée (modification de 2019).

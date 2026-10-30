@@ -23,3 +23,7 @@
 - Aucune page IT ni redirection préexistante (list_content, list_redirects). Images : aucune (la FR n'en a pas). Alt : sans objet.
 - PalmTalk, POWO et UICN : non consultés directement (Cloudflare, non contourné) ; données UICN reprises de la FR (via WLoC/Species+).
 - Rien commité.
+
+## Pulizia DIO04 (30/10/2026)
+- replace_in_content, simulation 17/17 puis application 17/17 (27458) ; brouillon aligné (comparaison REST : 0 écart hors sommaire).
+- Mêmes corrections que la FR 26160 (POWO → WCVP via GBIF ; allegati non consultati ; NOM-059 2019 relue ; Ice Blue Cycads et PalmTalk retirés ; toxicité au format imposé, BMAA retirée ; annotations « consultata/letto direttamente », « testo non consultato » retirées ; Moretti : « letto direttamente » → « consultato »).

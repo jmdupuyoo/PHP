@@ -23,3 +23,4 @@
 - Altitude 3 250 m (De Luca et al. 1981) non retrouvée ailleurs.
 - Ravenne : « −7 °C » rattaché à l'hiver 2009-2010 (voir note FR).
 - Le chiffre −10 °C des forums non vérifiable.
+- 30/10/2026 (bilan Dioon) : °F ajouté dans l'encadré (« a young plant lost at −5 °C (23 °F) (Roussillon…) ») ; simulation 1/1 puis application 1/1 ; brouillon aligné.

@@ -23,3 +23,7 @@
 - Aucune page IT ni redirection préexistante (list_content, list_redirects). Images : aucune (la FR n'en a pas). Alt : sans objet.
 - PalmTalk, POWO et UICN : non consultés directement (Cloudflare, non contourné) ; données UICN reprises de la FR (via WLoC/Species+).
 - Rien commité.
+
+## Pulizia DIO04 (26/10/2026, constatée le 30/10/2026)
+- Appliquée en ligne le 26/10 (19:22 UTC) par l'agent du lot DIO04 avant son interruption : mêmes corrections que la FR 26156 (POWO → WCVP via GBIF ; NOM-059 2019 : P maintenue ; extraits de recherche retirés, rusticité −4/−7 °C ; toxicité au format imposé, BMAA retirée ; annotations de lecture retirées ; Chemnick et al. complété).
+- Vérification du 30/10 : brouillon identique au texte en ligne (REST, 0 écart hors sommaire) ; aucune note de travail restante.

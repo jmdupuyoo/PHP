@@ -71,3 +71,7 @@ Intro : /cycadales/dioon/. Corps : /cycadales/dioon/sonorense/, /cycadales/encep
 - Écart principal : « megasporophyll tip mostly peculiarly reflexed » (protologue) contre mégasporophylles « entièrement plates » (révision 2020) ; exposé sans trancher.
 - Concept de 1984 large (Guerrero à Sonora) : mesures données comme telles ; largeur des folioles de la variété type (7-12 mm) précisée.
 - Publication : replace_in_content (dry run puis application, 8 remplacements), brouillon mis à jour, comparaison identique, URL 200.
+
+## Nettoyage DIO04 (26/10/2026, constaté le 30/10/2026)
+- Appliqué en ligne le 26/10 (19:22 UTC) par l'agent du lot DIO04 avant son interruption, sans trace dans cette note : POWO de l'encadré et de la Taxonomie → acceptation par la WCVP de Kew (GBIF, juin 2026) ; « mise à jour de 2019 non consultée » → catégorie P maintenue par la modification du 14/11/2019 (DOF relu le 30/10) ; mentions d'extraits de recherche retirées (article de vulgarisation sur la Californie du Sud, Ice Blue Cycads « 26 °F ») et fourchette de rusticité ramenée à −4/−7 °C ; toxicité alignée sur la formulation imposée (BMAA retirée) ; annotations « consultée directement », « non lu », « texte non consulté », « page non consultée » retirées ; Chemnick et al. 1997 [1998] complété (titre, texte intégral lu sur archive.org).
+- Vérification du 30/10 : brouillon identique au texte en ligne (REST, 0 écart hors sommaire) ; balayage : aucune note de travail restante.
