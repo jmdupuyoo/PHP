@@ -9,3 +9,5 @@
 - Longueur : ≈ 1 950 mots (≈ 1 620 hors sources) : fiche courte faute de texte intégral.
 - Sources : FR 26413 / IT 27471 (résumé du protologue) ; WLoC 1063 relue (type 06/05/2023, Macuspana, 185 m, HT CIB, IT MEXU ; NE ; étymologie du protologue) ; WCVP via GBIF 262420477 (Kew Bull. 79 : 546, « Mexico Southeast ») ; Crossref (Kew Bulletin 79(3) : 543-558, en ligne le 02/08/2024 ; pas de résumé déposé) ; monographie 2022 (PMC, texte local) : spécimens de Macuspana (185-190 m, 13/07/2021) rangés sous *subroseophylla*, aire de *subroseophylla* étendue au Tabasco ; GBIF : nom absent du squelette ; Species+ : absent (genre 13147) ; BGCI : 0 ; Montgomery : 0.
 - Inaccessible : texte intégral du protologue (Springer redirige vers une page d'authentification ; OpenAlex : « closed », pas de résumé) : mesures, catégorie proposée, pollinisateurs et trois espèces du Tabasco non documentés.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *subroseophylla* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

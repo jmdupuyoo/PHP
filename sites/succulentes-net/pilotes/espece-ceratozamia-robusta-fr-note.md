@@ -55,3 +55,7 @@ Brouillon : `pilotes/espece-ceratozamia-robusta-fr.html` (blocs Gutenberg contr�
 - **Belize** (consigne du lot) : toutes les mentions restantes sont sourcées (absence selon WLoC, *osbornei* selon la monographie 2022, FAQ) ; aucune mention non sourcée trouvée, rien à retirer.
 - Taille du cône mâle : déjà formulée selon la monographie (« le plus grand du genre » attribué, 60-80 cm d'*osbornei* exposés) ; non modifiée.
 - Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : 35806.
+
+
+## Retouche 0 de CER08 (30/10/2026) : zone USDA 9b à 11 d'une « encyclopédie en ligne » non nommée retirée (Rusticité, repères internationaux ; FR 1 + IT 1, simulation puis application). La mention générale « des sites… donnent des zones de rusticité sans citer d'essais ; ils ne sont pas retenus » (Culture) est conservée.
+- Brouillon identique au texte en ligne (cmp.py).

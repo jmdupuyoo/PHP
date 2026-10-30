@@ -15,3 +15,5 @@
 - Lien entrant : *brevifrons* 35555 (Taxonomy, première occurrence ; simulation 1/1 puis application ; brouillon aligné).
 - FR 26375 / IT 27428 nettoyées le 30/10/2026 (voir leurs notes).
 - CER03 (30/10/2026) : lien sortant vers *fuscoviridis* 35622 (Taxonomy, sous-clade latifolia) ; première occurrence hors introduction, encadré, titres et sources ; simulation puis application (1) ; brouillon aligné.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *tenuis* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

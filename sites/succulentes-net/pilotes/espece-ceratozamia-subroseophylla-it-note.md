@@ -24,3 +24,9 @@
 - Synonymie disputée avec *C. dominguezii* (monographie 2022 vs WLoC), exposée comme en FR et cohérente avec la fiche IT *dominguezii* 27431.
 - Nom popoluca et usage médicinal : une seule étiquette d'herbier citée par la monographie.
 - POWO non lu.
+
+
+## Nettoyage CER08 (30/10/2026)
+
+- FR 26381 / IT 27501 : 34 + 33 remplacements (simulation puis application, comptes identiques) : consigne du lot : synonymie WCVP exposée (intro, encadré nom accepté et synonymes, Taxonomie, FAQ ; ligne de source GBIF 207874433 / 207874425) ; plantes du Tabasco rattachées à *Ceratozamia gigantea* (2024) : encadré, Taxonomie (lien FR/IT vers *gigantea*), Dans la nature, FAQ ; référence Kew Bulletin 2024 ajoutée en bibliographie ; WLoC « limite aujourd'hui l'espèce au Veracruz » ; statut EN confirmé par GBIF, DOI UICN ajouté ; « La position de POWO n'a pas pu être vérifiée directement » remplacé ; annotations de lecture retirées ; forums reformulés (IT) ; BMAA retirée ; FR : ligne interne retirée. Localités « colline face à Sinapan », « Cerro El Vigía », volcan San Martín Pajapan non modifiées (décision du propriétaire en attente).
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : voir `espece-ceratozamia-subroseophylla-en-note.md`.

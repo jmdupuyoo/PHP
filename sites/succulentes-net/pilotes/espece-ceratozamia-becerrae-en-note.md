@@ -14,3 +14,5 @@
 - FR 26361 / IT 27407 nettoyées le 30/10/2026 (voir leurs notes).
 - 30/10/2026 (lot CER02) : lien entrant posé vers la nouvelle page EN *Ceratozamia decumbens* (35588) sur la première occurrence (simulation 1/1 puis application ; brouillon aligné, identique au texte en ligne).
 - CER03 (30/10/2026) : lien sortant vers *euryphyllidia* 35620 (Taxonomy) ; première occurrence hors introduction, encadré, titres et sources ; simulation puis application (1) ; brouillon aligné.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *santillanii* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

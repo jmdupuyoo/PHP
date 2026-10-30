@@ -15,3 +15,5 @@
 - 30/10/2026 (lot CER02) : lien entrant posé vers la nouvelle page EN *Ceratozamia delucana* (35595) sur la première occurrence (Taxonomy ; simulation 1/1 puis application ; brouillon aligné, identique au texte en ligne).
 
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *tenuis* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

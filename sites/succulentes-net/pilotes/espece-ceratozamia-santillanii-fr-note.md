@@ -56,3 +56,9 @@
 - replace_in_content sur 26420 (dry run puis application, 11 remplacements) ; brouillon identique au contenu en ligne ; URL 200.
 
 - 11/10/2026 : descriptions de *P. perezi* et *C. chipjonesi* lues sur Zenodo/Plazi (10.5281/zenodo.6623173 et 6623167) : un seul cône mâle (16-V-2021), adultes seulement (70 % *C. chipjonesi*, 25 % *P. perezi*, 5 % *Pharaxonotha* non décrit), pollinisation non abordée. Texte, FAQ, Sites de référence et Bibliographie mis à jour ; pages genres FR 9866 et IT 12127 corrigées dans le même sens.
+
+
+## Nettoyage CER08 (30/10/2026)
+
+- FR 26420 / IT 27494 : 20 + 19 remplacements (simulation puis application, comptes identiques) : POWO → WCVP (207874438 : Syst. Biodivers. 7 : 433, 2009, sud-est du Mexique ; ligne de source) ; « Son texte intégral a été lu pour cette fiche » / « Il testo integrale è stato letto per questa scheda » retirés ; statut CR confirmé par GBIF ; DOI UICN (10.2305/IUCN.UK.2022-1.RLTS.T187829A1828396.en, vérifié sur Crossref) ajouté ; annotations Zootaxa (« résumé… lus », « introduction et discussion, payantes, non consultées », « pollinisation non abordée dans les parties lues ») reformulées ; forums reformulés ; BMAA retirée ; FR : ligne interne retirée. Localité « route de Berriozábal à El Cairo » non modifiée (décision du propriétaire en attente).
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : voir `espece-ceratozamia-santillanii-en-note.md`.

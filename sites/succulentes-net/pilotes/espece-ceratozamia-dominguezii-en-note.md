@@ -14,3 +14,5 @@
 - Liens entrants : *aurantiaca* 35551 (Possible confusion), *Zamia purpurea* 32534 (avec *euryphyllidia*), *euryphyllidia* 35620 (In the wild).
 
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *subroseophylla* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

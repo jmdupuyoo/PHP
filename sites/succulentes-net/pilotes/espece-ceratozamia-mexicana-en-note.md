@@ -13,3 +13,5 @@
 - Écartés : conseils « américains » d'enterrer le tronc (PalmTalk par extraits), liste de zones USDA de seconde main (Tropicamente), « Palma Sola » du JZT (= *brevifrons*).
 
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *tenuis* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

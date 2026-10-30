@@ -23,3 +23,9 @@
 ## Points douteux
 - Déduction *C. mexicana* → *C. tenuis* pour les plantes italiennes : non vérifiée, formulée au conditionnel.
 - Synonymes *C. mexicana* f. *tenuis* et var. *vulgaris* d'après la monographie ; POWO non lu.
+
+
+## Nettoyage CER08 (30/10/2026)
+
+- FR 26397 / IT 27504 : 27 + 26 remplacements (simulation puis application, comptes identiques) : POWO → WCVP (207874414 : Bot. Sci. 94 : 425, 2016, golfe du Mexique, synonymes var. et f. *tenuis* ; encadré, Taxonomie, ligne de source) ; statut EN confirmé par GBIF, DOI UICN ajouté ; « consulté par le résumé de la prépublication » (Medina-Villarreal 2025), « fac-similé lu », « texte lu », « texte intégral lu » retirés ; IT « fonte letta » → consultata ; forums reformulés (IT) ; BMAA retirée ; FR : ligne interne retirée. Message Fous de palmiers de 2016 conservé (site en 503 le 30/10, non relu). Localités El Mirador, El Esquilón, Tlachinola non modifiées (décision du propriétaire en attente).
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : voir `espece-ceratozamia-tenuis-en-note.md`.

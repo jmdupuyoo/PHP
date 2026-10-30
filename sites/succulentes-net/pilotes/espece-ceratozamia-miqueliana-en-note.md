@@ -14,3 +14,5 @@
 - Pérez-Farrera et al. 2009 et Martínez-Domínguez et al. 2017 : aucun résumé sur Crossref ; présentés d'après la monographie.
 
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta*, *rosea* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *sancheziae*, *santillanii* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

@@ -24,3 +24,9 @@
 - Aucun statut UICN ; Species+ ne cite pas l'espèce (couverte par le genre).
 - Rattachement des récoltes de 1984 et 1996 aux localités ambigu dans la description (formulation prudente reprise de la FR).
 - POWO non lu.
+
+
+## Nettoyage CER08 (30/10/2026)
+
+- FR 26424 / IT 27497 : 13 + 12 remplacements (simulation puis application, comptes identiques) : POWO → WCVP (213762089 : Taxonomy 2 : 330, 2022, sud-ouest du Mexique ; ligne de source) ; statut NE confirmé par GBIF ; « texte intégral lu (PDF fourni par The World List of Cycads) » → libre accès, PDF diffusé par WLoC ; forums reformulés ; BMAA retirée ; FR : ligne interne retirée. Localités Lachidola / La Chiviza non modifiées (décision du propriétaire en attente).
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : voir `espece-ceratozamia-schiblii-en-note.md`.

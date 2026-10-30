@@ -14,3 +14,5 @@
 - **Retouche 0 de CER05 (30/10/2026)** : ligne de source ajoutée pour le message Tropicamente du 1er juin 2012 (fil « Ceratozamia mexicana », page 2, #post-38965, relu le 30/10 : « c. fusco virides » repartie, tenue hors gel ; sans nom d'utilisateur) (1 remplacement, simulation puis application). Brouillon aligné.
 
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *sabatoi* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *tenuis* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

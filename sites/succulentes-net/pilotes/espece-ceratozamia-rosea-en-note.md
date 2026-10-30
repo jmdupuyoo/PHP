@@ -12,3 +12,5 @@
 - Habitat : la FR dit « suspendu à des falaises karstiques » ; le traitement Plazi ne parle que de plante rupicole sur pentes de 35° : EN formulée sans « falaises » ni « calcaire ».
 - Localité du type : municipalité (Tila) seulement en EN ; FR/IT : « chemin de Salto de Agua » (non modifié, décision du propriétaire en attente).
 - JZT : aucune observation publiée.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *sancheziae*, *santillanii* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

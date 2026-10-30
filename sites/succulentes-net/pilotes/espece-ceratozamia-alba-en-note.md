@@ -14,3 +14,5 @@
 - FR 26355 / IT 27395 nettoyées le 30/10/2026 (voir leurs notes).
 
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *santillanii* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

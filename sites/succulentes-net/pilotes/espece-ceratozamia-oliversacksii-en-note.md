@@ -11,3 +11,5 @@
 - Type ramené au niveau municipal (Candelaria Loxicha ; la FR/IT citent « Cerro Perico » d'après la monographie : à trancher par le propriétaire).
 
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *subroseophylla* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

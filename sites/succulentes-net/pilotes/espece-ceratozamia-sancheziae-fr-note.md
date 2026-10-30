@@ -60,3 +60,9 @@
 - Page genre 9866 : l'index donne « Tenejapa et Altamirano, 1 000-1 536 m » (correction du 03/10/2026 d'après la monographie). Contradiction avec le protologue sur l'altitude : la valeur de 1 500-1 800 m est ajoutée à côté (voir journal), sans retirer celle de la monographie.
 - Publication : replace_in_content (dry run puis application, 11 remplacements), brouillon mis à jour, comparaison identique, URL 200.
 - 10/10/2026 : valeur du protologue (1 500-1 800 m) ajoutée sur la page genre 9866 à côté de 1 000-1 536 m.
+
+
+## Nettoyage CER08 (30/10/2026)
+
+- FR 26416 / IT 27490 : 20 + 18 remplacements (simulation puis application, comptes identiques) : POWO « d'après un extrait de recherche » → WCVP lue sur GBIF (207874412 : Phytotaxa 500 : 209, 2021, sud-est du Mexique ; ligne de source ajoutée) ; IPNI « d'après un extrait de recherche » → IPNI consulté le 30/10 (77219235-1, orthographe sancheziae ; ligne de source ajoutée) ; statut NE confirmé par GBIF ; Belize : la seule mention (grande forme de basse altitude de l'étude de 2021) est sourcée par le résumé Crossref du protologue ; complétée par la description de ces plantes sous *Ceratozamia osbornei* (monographie 2022, lien FR/IT) ; « aucun cultivateur n'en parle sur les forums » / « ricerche sui forum » reformulés ; annotations « résumé lu », « lue en texte intégral via Plazi », « consultée directement », « interface de programmation » retirées ; BMAA retirée (formulation imposée) ; FR : ligne « page du genre et note de vérification » retirée.
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : voir `espece-ceratozamia-sancheziae-en-note.md`.

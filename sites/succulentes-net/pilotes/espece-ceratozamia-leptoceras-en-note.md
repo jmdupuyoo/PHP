@@ -14,3 +14,5 @@
 - Liens externes vérifiés le 30/10 : 200 (PMC, cycadlist, GBIF API, Species+, BGCI, Montgomery) ; DOI d'éditeurs non testés (403 habituels).
 
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *subroseophylla* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

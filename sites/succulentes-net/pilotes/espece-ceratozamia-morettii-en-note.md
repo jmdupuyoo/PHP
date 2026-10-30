@@ -13,3 +13,5 @@
 - FAQ « Guatemala » : reprise de la FR (consigne du propriétaire), formulée d'après WLoC, WCVP et monographie (sans affirmer qu'une erreur circule).
 
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *reesii*, *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *tenuis* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

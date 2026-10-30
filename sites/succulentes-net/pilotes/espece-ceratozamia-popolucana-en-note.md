@@ -11,3 +11,5 @@
 - Sources : WLoC 1081 (relue : Phytotaxa 760(1) : 77-92 (83, fig. 4-9), type Pérez-Farrera & Díaz-Jiménez 4069, 04/10/2021, Hueyapan de Ocampo, HEM / XAL, NE, étymologie ; galerie de photos 2023 et 2025 de deux auteurs) ; Crossref (résumé, publication du 03/06/2026, auteurs) et page de la revue (mots-clés : « karst tropical rainforest ») ; monographie 2022 (texte local : *subroseophylla* tronc 30-250 (500) cm, 111-1 050 m, nom popoluca « hymniom pekmuk », tisane ; *dominguezii* en synonymie) ; Species+ (API : absente sous son nom) ; GBIF Liste rouge (aucune entrée) ; BGCI (recherche : 0) ; Montgomery BG-BASE (0).
 - Protologue : texte intégral payant (Phytotaxa) ; PDF cycad.org 404 ; pas de traitement Plazi/Zenodo. Mesures, altitude et effectifs non documentés.
 - JZT : aucune observation publiée.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *subroseophylla* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

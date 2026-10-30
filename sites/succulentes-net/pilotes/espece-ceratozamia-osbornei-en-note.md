@@ -13,3 +13,5 @@
 - Type ramené au district (Toledo, sud-ouest des Maya Mountains) ; la FR/IT citent « camp Union, réserve forestière de Columbia River » (WLoC) : à trancher par le propriétaire.
 
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *subroseophylla* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

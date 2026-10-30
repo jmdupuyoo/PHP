@@ -12,3 +12,5 @@
 - Divergences exposées : collecteurs du type (protologue : Pérez-Farrera, A.G. Rocha-Loredo, Martínez-Mtz, Moreno-Méndez ; WLoC : S.M. Ramírez-Oviedo au lieu de Rocha-Loredo). Analyse discriminante : le protologue signale deux erreurs de classement (un *chinantlensis* classé *santillanii* et inversement) ; la FR dit « à un individu près » (approximation, non modifiée).
 - Liens entrants : aucune page EN ne cite l'espèce hors page genre 16307 (citée aussi dans la section Taxonomie, sans lien : page déjà liée par l'index).
 - FR 26369 / IT 27421 nettoyées le 30/10/2026 (voir leurs notes).
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *santillanii* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

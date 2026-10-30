@@ -47,3 +47,9 @@
 - translation_of : aucun (aucune fiche dans une autre langue).
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Lien ajouté dans l'index de la page genre 9866 (dry_run puis application).
+
+
+## Nettoyage CER08 (30/10/2026)
+
+- FR 26424 / IT 27497 : 13 + 12 remplacements (simulation puis application, comptes identiques) : POWO → WCVP (213762089 : Taxonomy 2 : 330, 2022, sud-ouest du Mexique ; ligne de source) ; statut NE confirmé par GBIF ; « texte intégral lu (PDF fourni par The World List of Cycads) » → libre accès, PDF diffusé par WLoC ; forums reformulés ; BMAA retirée ; FR : ligne interne retirée. Localités Lachidola / La Chiviza non modifiées (décision du propriétaire en attente).
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : voir `espece-ceratozamia-schiblii-en-note.md`.

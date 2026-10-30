@@ -14,3 +14,5 @@
 - Point signalé : l'entrée BGCI « *Ceratozamia robusta* ‘Santiago Tuxtla’ » renvoie à la municipalité du type de *subroseophylla* (fait juxtaposé, sans conclusion).
 - Localité du néotype : « north-west of Tuxtla Gutiérrez » (formulation de WLoC), sans la route ni le kilométrage.
 - JZT : aucune observation publiée.
+
+- **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *sancheziae*, *subroseophylla* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
