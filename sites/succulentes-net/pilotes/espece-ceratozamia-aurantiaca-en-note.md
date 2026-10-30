@@ -13,3 +13,5 @@
 - Points douteux : culture en plein air à Fairchild non précisée (formulé comme tel).
 - FR 26359 / IT 27401 nettoyées le 30/10/2026 (voir leurs notes).
 - CER03 (30/10/2026) : lien sortant vers *dominguezii* 35618 (Possible confusion) ; première occurrence hors introduction, encadré, titres et sources ; simulation puis application (1) ; brouillon aligné.
+
+- **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

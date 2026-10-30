@@ -41,3 +41,10 @@
 - Retouche 0 de CER03 (30/10/2026) : righe dell'indice allineate sull'EN 16307 (monografia 2022) : *chimalapensis* « foreste nebulose dei Chimalapas (Oaxaca) » → « Oaxaca orientale (Chimalapas, Sierra Atravesada), bosco di querce tra 290 e 1.000 m » ; *decumbens* 1.000 → 1.100 m. 2 remplacements, simulation puis application.
 
 - **CER06 (30/10/2026)** : FAQ « *Ceratozamia mexicana* vraiment *mexicana* ? » complétée (couleur des jeunes feuilles : monographie 2022 / Vovides et al. 2016) ; ligne *leptoceras* « la plus occidentale » remplacée par la formule du protologue (répartition la plus au nord-ouest connue pour le genre au Mexique) ; FR/IT : lignes *mexicana* et *miqueliana* alignées sur l'EN (retouche 0) ; IT : Vovides et al. 2016 ajouté à la bibliographie ; EN : 5 lignes d'index liées (mixeorum, morettii, norstogii, oliversacksii, osbornei ; 30 sur 45). Simulation puis application ; brouillons alignés.
+
+## Retouche 0 de CER07 (30/10/2026)
+
+- Puce « Outside Mexico / Hors du Mexique / Fuori dal Messico » : « a few species reach Guatemala and Belize » remplacé : quelques espèces atteignent le Guatemala, une est propre au Honduras ; au Belize seul *Ceratozamia osbornei*, décrit par la monographie 2022 à partir de plantes béliziennes jusque-là rapportées à *robusta*, que la monographie limite au Chiapas et au Guatemala.
+- Ligne d'index *robusta* : « the most widespread and the largest species » → la monographie en fait l'espèce la plus répandue et qualifie son cône mâle (≤ 70 cm) de « the largest in the genus », tout en donnant 60-80 cm pour *osbornei*.
+- Bibliographie : annotations de lecture retirées (« abstract read on Crossref », « consulted through the abstract », « read on Plazi and Zenodo… not consulted », « text not read » → « as stated in its title » ; IT : « testo letto tramite Europe PMC, tabella delle località non consultata »).
+- Simulation puis application (EN 10, FR 10, IT 11 remplacements) ; brouillon identique au texte en ligne. Lignes d'index liées en CER07 (EN) : popolucana, reesii, robusta, rosea, sabatoi (35 sur 45).

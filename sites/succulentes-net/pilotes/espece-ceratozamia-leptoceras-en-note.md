@@ -12,3 +12,5 @@
 - Corrigé en FR/IT : le statut EN « proposé dans le protologue » n'y figure pas (XML Pensoft relu : aucune section de conservation) : attribué à la monographie seule (encadré, Statut, ligne de source).
 - Localité du type ramenée au niveau municipal (WLoC et protologue donnent « 3 km NW of San Pedro Cuitlapan »).
 - Liens externes vérifiés le 30/10 : 200 (PMC, cycadlist, GBIF API, Species+, BGCI, Montgomery) ; DOI d'éditeurs non testés (403 habituels).
+
+- **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

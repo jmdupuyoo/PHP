@@ -28,3 +28,10 @@
 ## Points douteux
 - Identité des plantes du commerce douteuse (comme en FR) ; réévaluation UICN demandée par la monographie ; Belize exclu (osbornei).
 - POWO non consulté (Cloudflare) : nom accepté d'après The World List of Cycads, comme en FR.
+
+## Nettoyage CER07 (30/10/2026)
+
+- Retirés (simulation puis application ; FR 16 remplacements, IT 14) : « POWO n'a pas pu être consulté directement » (encadré, Taxonomie) → WCVP lue sur GBIF (207874450 : nom accepté, publication datée de 1848, Guatemala et sud-est du Mexique, synonyme var. *robusta* ; ligne de source ajoutée) ; « la Liste rouge n'ayant pas pu être consultée directement » → catégorie confirmée par GBIF ; annotations « consultée directement », « texte intégral lu / consulté », « non consultée », « article non consulté », « page de la Liste rouge non consultée (accès bloqué) », « pages 38 à 43 consultées en fac-similé » (→ fac-similé publié par The Cycad Society) ; FR : « leurs retours ne sont donc pas repris ici » retiré ; BMAA retirée de la toxicité (formulation imposée) ; FR : ligne de source interne « page du genre et sa note de vérification » retirée.
+- **Belize** (consigne du lot) : toutes les mentions restantes sont sourcées (absence selon WLoC, *osbornei* selon la monographie 2022, FAQ) ; aucune mention non sourcée trouvée, rien à retirer.
+- Taille du cône mâle : déjà formulée selon la monographie (« le plus grand du genre » attribué, 60-80 cm d'*osbornei* exposés) ; non modifiée.
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : 35806.

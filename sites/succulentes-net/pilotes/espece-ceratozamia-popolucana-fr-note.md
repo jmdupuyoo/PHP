@@ -40,3 +40,8 @@ Brouillon : `pilotes/espece-ceratozamia-popolucana-fr.html` (blocs Gutenberg con
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Aucun message de La Londe-les-Maures trouvé pour cette espèce.
 - Liens internes du corps : première occurrence des *Ceratozamia* ayant une fiche FR publiée, vérifiés en 200 après publication.
+
+## Nettoyage CER07 (30/10/2026)
+
+- Retirés (simulation puis application ; FR 17 remplacements, IT 16) : « POWO n'a pas pu être consulté directement » (encadré, Taxonomie) → WCVP lue sur GBIF (nom absent : 43 espèces acceptées contre 45 pour WLoC ; exposé) ; « le détail n'a pas pu être lu », « l'article complet, qui n'a pas pu être consulté : elles ne sont pas reprises ici », « Seul le résumé de l'article a pu être lu », « Selon ce résumé », « ne sont pas donnés dans le résumé » ; annotations « consultée directement », « résumé lu… texte intégral non consulté (accès payant) », « texte intégral lu » ; BMAA retirée de la toxicité (formulation imposée : glycosides toxiques (cycasine, macrozamine), dont dérive le méthylazoxyméthanol) ; FR : ligne de source interne « page du genre et sa note de vérification » retirée. Ligne de source WCVP (GBIF 207874409) ajoutée.
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : 35796.

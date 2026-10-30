@@ -13,3 +13,5 @@
 - FR 26363 / IT 27409 nettoyées le 30/10/2026 (voir leurs notes).
 - 30/10/2026 (lot CER02) : lien entrant posé vers la nouvelle page EN *Ceratozamia decumbens* (35588) sur la première occurrence (simulation 1/1 puis application ; brouillon aligné, identique au texte en ligne).
 - 30/10/2026 (lot CER02) : lien entrant posé vers la nouvelle page EN *Ceratozamia delucana* (35595) sur la première occurrence (Taxonomy ; simulation 1/1 puis application ; brouillon aligné, identique au texte en ligne).
+
+- **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

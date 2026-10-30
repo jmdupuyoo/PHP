@@ -28,3 +28,9 @@
 ## Points douteux
 - Statut CR préliminaire (auteurs), non évalué UICN ; face des articulations rougeâtres (dessus/dessous) divergente entre diagnose et description.
 - POWO non consulté (Cloudflare) : nom accepté d'après The World List of Cycads, comme en FR.
+
+## Nettoyage CER07 (30/10/2026)
+
+- Retirés (simulation puis application ; FR 12 remplacements, IT 11) : « POWO n'a pas pu être consulté directement » (encadré, Taxonomie) → WCVP lue sur GBIF (231090630 : nom accepté, Phytotaxa 595 : 79 (2023), sud-est du Mexique ; ligne de source ajoutée) ; « L'article complet est payant ; cette fiche s'appuie sur son résumé… » ; annotations « consultée directement », « résumé lu sur le site de la revue », « lue en entier », « lus (Plazi) », « texte intégral consulté » ; BMAA retirée de la toxicité (formulation imposée) ; FR : ligne de source interne « page du genre et sa note de vérification » retirée.
+- Hors consigne, non modifié : « suspendu à des falaises karstiques » (le traitement Plazi ne mentionne que des pentes de 35°) ; articulations des folioles « au revers » (la diagnose dit face supérieure, la description face inférieure) ; localité « chemin de Salto de Agua » (décision du propriétaire en attente).
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : 35811.

@@ -11,3 +11,5 @@
 - Autres sources : WLoC 1022 (NE ; seule référence listée par WLoC = PhytoKeys 2018, étiquetée « Protologue, Etymology », vraisemblablement erronée : non utilisée) ; GBIF (NE) ; Species+ (absente sous son nom ; genre) ; BGCI 538933 (1 : UH Hilo) ; Montgomery 0 ; Fairchild (catalogue du 19/10 ; photos de la monographie prises à Fairchild).
 - Divergence signalée : cône mâle de *robusta* « le plus grand du genre » (70 cm) contre 60-80 cm chez *osbornei* dans la même monographie.
 - Type ramené au district (Toledo, sud-ouest des Maya Mountains) ; la FR/IT citent « camp Union, réserve forestière de Columbia River » (WLoC) : à trancher par le propriétaire.
+
+- **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

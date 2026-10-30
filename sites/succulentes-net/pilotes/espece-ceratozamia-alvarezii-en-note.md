@@ -12,3 +12,5 @@
 - Points douteux : consommation des graines (étiquette d'herbier citée par la monographie) présentée sans garantie d'innocuité.
 - FR 26357 / IT 27398 nettoyées le 30/10/2026 (voir leurs notes).
 - 30/10/2026 (lot CER02) : lien entrant posé vers la nouvelle page EN *Ceratozamia chimalapensis* (35577) sur la première occurrence (Taxonomy ; simulation 1/1 puis application ; brouillon aligné, identique au texte en ligne).
+
+- **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *sabatoi* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

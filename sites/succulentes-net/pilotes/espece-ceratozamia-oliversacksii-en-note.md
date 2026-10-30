@@ -9,3 +9,5 @@
 - Longueur : ≈ 2 350 mots (espèce décrite en 2022, peu documentée).
 - Sources : FR 26462 / IT 27491 nettoyées (CER06) ; monographie 2022 (texte local : description, clé, aire, statut préliminaire VU, comparaisons *leptoceras* / *robusta* / *subroseophylla*) ; protologue Kew Bull. 77 : 211-219 (Crossref : titre, volume, pages, en ligne le 14/02/2022 ; aucun résumé ; texte non accessible, données reprises par la monographie) ; WLoC 910 (NE) ; WCVP via GBIF 213762090 (Kew Bull. 77 : 212 (2022), Mexico Southwest) ; GBIF (NE) ; Species+ (absente sous son nom ; genre) ; BGCI 0 ; Montgomery 0 ; Habib 2023 (espèce non échantillonnée).
 - Type ramené au niveau municipal (Candelaria Loxicha ; la FR/IT citent « Cerro Perico » d'après la monographie : à trancher par le propriétaire).
+
+- **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

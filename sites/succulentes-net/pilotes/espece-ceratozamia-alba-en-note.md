@@ -12,3 +12,5 @@
 - Points douteux : couleurs des cônes (résumé / description détaillée) exposées ; catégorie CR seulement proposée par les auteurs.
 - Premier titre SEO « … a White-Leaved Cycad … » abandonné (faux nom commun, 49 car.).
 - FR 26355 / IT 27395 nettoyées le 30/10/2026 (voir leurs notes).
+
+- **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

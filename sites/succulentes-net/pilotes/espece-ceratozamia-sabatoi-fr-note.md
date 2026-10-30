@@ -49,3 +49,9 @@
 - translation_of : aucun (aucune fiche dans une autre langue).
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Lien ajouté dans l'index de la page genre 9866 (dry_run puis application).
+
+## Nettoyage CER07 (30/10/2026)
+
+- Retirés (simulation puis application ; FR 17 remplacements, IT 18) : « POWO n'a pas pu être consulté directement » (encadré) → WCVP lue sur GBIF (207874448 : nom accepté, Novon 3 : 502 (1993), nord-est du Mexique ; ligne de source ajoutée) ; « La Liste rouge n'a pas pu être consultée directement » → catégorie confirmée par GBIF ; IT « nessuna fonte consultata » ; annotations « consultée directement », « texte intégral lu », « lu sur PubMed Central », « page de la Liste rouge non consultée », « par son interface de programmation » ; BMAA retirée de la toxicité (formulation imposée) ; FR : ligne de source interne « page du genre (texte et note de vérification) » retirée.
+- Hors consigne, non modifié : critères UICN (WLoC A2acd; B1ab(i,ii,iii,v) ; monographie A2c; B1ab(i,ii,iv)+2ab(i,ii,iv); C1) non exposés en FR/IT ; « municipalité de San Joaquín » pour le type (la monographie liste aussi le n° 1205 sous Cadereyta de Montes).
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : 35816.

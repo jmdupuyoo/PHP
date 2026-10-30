@@ -12,3 +12,5 @@
 - Écartés : retour PalmTalk (Caroline du Sud, par extrait), valeurs de sites commerciaux, conseils « cultivateurs américains » non sourcés.
 - Divergence exposée : synonymie *C. angustifolia* (WCVP) absente de WLoC. Protologue de Regel (BHL) non lu : cité d'après WLoC.
 - Liens externes vérifiés le 30/10 : 200 sauf DOI d'éditeurs (Wiley, MDPI, IUCN : 403 ; Springer : 429), gbif.org/species (403, page web ; API en 200) et Fous de palmiers (503).
+
+- **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *sabatoi* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

@@ -27,3 +27,7 @@
 - **Retouche 0 de CER05 (30/10/2026)** : notes de travail retirées (22 remplacements, simulation puis application) : « POWO could not be consulted directly » (encadré, Taxonomie) → WCVP via GBIF (207874588, ligne de source ajoutée) ; « the Red List itself could not be consulted » → catégorie relayée par GBIF ; « only its summary has been read », « the sources read » ; annotations « full text read / abstract read / summary read / not consulted / consulted directly / read directly / read » (sources et bibliographie). Brouillon aligné (identique au texte en ligne).
 
 - **CER06 (30/10/2026)** : lien vers la fiche EN *Ceratozamia osbornei* 35774 posé (Confusions ; simulation puis application, 1 remplacement). Brouillon aligné.
+
+## Lien CER07 (30/10/2026)
+
+- Lien vers *Ceratozamia robusta* (35806) posé sur « then identified as *Ceratozamia robusta* » (Confusions) ; simulation puis application ; brouillon aligné. La toxicité EN garde la citation ASPCA (cycasine et BMAA pour *Zamia furfuracea*), sourcée, hors consigne de CER07.

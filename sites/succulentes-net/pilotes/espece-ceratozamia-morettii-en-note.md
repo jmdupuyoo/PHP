@@ -11,3 +11,5 @@
 - Divergences exposées : texture des folioles (papyracées dans le protologue, coriaces dans la monographie), substrat (basalte/karst), altitudes.
 - Type ramené au niveau municipal (Landero y Coss ; la FR/IT citent « El Raicero, à 4 km au nord-est de Landero y Coss », d'après la monographie : à trancher par le propriétaire comme pour *miqueliana*, *mirandae*, *leptoceras*, *guatemalensis*).
 - FAQ « Guatemala » : reprise de la FR (consigne du propriétaire), formulée d'après WLoC, WCVP et monographie (sans affirmer qu'une erreur circule).
+
+- **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *reesii*, *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

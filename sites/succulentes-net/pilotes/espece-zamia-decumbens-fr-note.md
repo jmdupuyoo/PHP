@@ -18,3 +18,7 @@
 - **Retouche 0 de CER05 (30/10/2026)** : phrase sur *Ceratozamia robusta* au Belize alignée sur l'EN 31983 (identification du protologue de 2009 ; *Ceratozamia osbornei*, endémique du Belize, depuis la monographie 2022 ; lien vers la fiche FR *osbornei*, 200) ; monographie ajoutée en bibliographie (2 remplacements, simulation puis application). Brouillon aligné.
 
 - **Retouche 0 de CER06 (30/10/2026)** : notes de travail restantes retirées comme en EN (POWO non consulté → WCVP via GBIF 207874588 avec ligne de source ; Liste rouge non consultée → catégorie EN confirmée par GBIF ; « résumé lu », « texte intégral lu », « non consulté(e) », « consultée directement », « lu / letto ») ; FR 16, IT 14 remplacements (simulation puis application). Brouillon aligné. Reste en FR la mention générale de la BMAA (toxicité), non modifiée.
+
+## Retouche 0 de CER07 (30/10/2026)
+
+- Toxicité : BMAA retirée ; formulation imposée pour *Zamia* (glycosides toxiques (cycasine, macrozamine), dont dérive le méthylazoxyméthanol). IT : la phrase ASPCA (*Zamia furfuracea*) garde les symptômes, sans la BMAA. Simulation puis application (1 remplacement) ; brouillon identique au texte en ligne.

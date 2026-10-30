@@ -14,3 +14,5 @@
 - Liens externes vérifiés le 30/10 : 200 sauf DOI d'éditeurs (Wiley, MDPI, IUCN : 403 ; Springer : 429), gbif.org/species (403, page web ; API en 200) et Fous de palmiers (503).
 
 - **Retouche 0 de CER06 (30/10/2026)** : couleur des jeunes feuilles de *Ceratozamia mexicana* nuancée (verte selon la monographie 2022, brun rougeâtre à El Mirador selon Vovides et al. 2016) dans Confusions et dans la FAQ « *latifolia* / *mexicana* » ; Vovides et al. 2016 ajouté en bibliographie (3 remplacements, simulation puis application). Brouillon aligné.
+
+- **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *reesii* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

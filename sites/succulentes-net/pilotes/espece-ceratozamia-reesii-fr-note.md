@@ -40,3 +40,9 @@ Brouillon : `pilotes/espece-ceratozamia-reesii-fr.html` (blocs Gutenberg contrô
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Aucun message de La Londe-les-Maures trouvé pour cette espèce.
 - Liens internes du corps : première occurrence des *Ceratozamia* ayant une fiche FR publiée, vérifiés en 200 après publication.
+
+## Nettoyage CER07 (30/10/2026)
+
+- Retirés (simulation puis application ; FR 17 remplacements, IT 15) : « POWO n'a pas pu être consulté directement » (encadré, Taxonomie) → WCVP lue sur GBIF (209738046 : nom accepté, Phytotaxa 575 : 241 (2022), nord-est du Mexique ; ligne de source ajoutée) ; « habitat détaillé non consulté », « L'article complet est payant ; cette fiche s'appuie sur son résumé… », « Le résumé de l'article retrace », « …figurent dans l'article complet, qui n'a pas pu être lu », « dans les extraits consultés » (FR) ; annotations « consultée directement », « non consulté directement », « résumé lu sur le site de la revue », « lue en entier », « lus (Plazi) » ; BMAA retirée de la toxicité (formulation imposée) ; FR : ligne de source interne « page du genre et sa note de vérification » retirée.
+- Localités plus précises que la municipalité (El Cañón, Cerro de la Silleta, Las Pozas, San Pedro Huiztquilico, Cerro del Muerto) : non modifiées (décision du propriétaire en attente).
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : 35801.
