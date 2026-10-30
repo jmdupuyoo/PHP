@@ -28,3 +28,7 @@
 ## Points douteux
 - Écart majeur protologue (pétiole et rachis droits) / clé 1986 et monographie (tordus) exposé sans trancher, comme en FR. Phrase « coltivata negli Stati Uniti nel 1929 » limitée à ce que dit le protologue (pas de « depuis un siècle »).
 - POWO non consulté (Cloudflare) : nom accepté d'après The World List of Cycads, comme en FR.
+
+## Nettoyage CER06 (30/10/2026)
+
+- 19 remplacements (simulation puis application), mêmes corrections que la FR (WCVP, GBIF, BMAA, notes de lecture, sous-clade *norstogii* de Habib 2023 ; lignes WCVP, Brittonia 1986 et Habib ajoutées). Fiche EN : 35764. Brouillon aligné.

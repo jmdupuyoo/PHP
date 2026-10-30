@@ -42,3 +42,10 @@ Brouillon : `pilotes/espece-ceratozamia-osbornei-fr.html` (blocs Gutenberg contr
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Aucun message de La Londe-les-Maures trouvé pour cette espèce.
 - Liens internes du corps : première occurrence des *Ceratozamia* ayant une fiche FR publiée, vérifiés en 200 après publication.
+
+## Nettoyage CER06 (30/10/2026)
+
+- 14 remplacements (simulation puis application) : POWO non consulté → WCVP via GBIF (209738047 ; *robusta* 207874450 : Guatemala et sud-est du Mexique) ; BMAA retirée ; « le détail de ses arguments n'a pas été consulté » remplacé par le contenu du résumé de Haynes 2023 (statut mis en doute ; variabilité de la couleur des cônes et de la forme de l'apice) ; annotations de lecture retirées ; ligne « synthèse interne » retirée ; lignes WCVP et Calonje et al. 2009 ajoutées.
+- **Belize** : le rapprochement des plantes du Belize avec *Ceratozamia robusta* est désormais sourcé (protologue de *Zamia decumbens*, 2009, lien vers la fiche FR) ; aucune autre mention « Belize » attribuée à *robusta* sans source.
+- Reste à trancher par le propriétaire : localité du type « camp Union, réserve forestière de Columbia River » (plus précise que le district ; EN : Toledo seulement).
+- Fiche EN créée : 35774. Brouillon aligné.

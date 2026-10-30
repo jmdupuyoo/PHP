@@ -28,3 +28,7 @@
 ## Points douteux
 - Date du type : WLoC « mai 1999 » incompatible avec le protologue (mai 1997) : signalé comme en FR. Texture des folioles divergente (papyracées/moyennement coriaces).
 - POWO non consulté (Cloudflare) : nom accepté d'après The World List of Cycads, comme en FR.
+
+## Nettoyage CER06 (30/10/2026)
+
+- 19 remplacements (simulation puis application), mêmes corrections que la FR : WCVP via GBIF, GBIF pour la catégorie UICN, BMAA retirée, annotations de lecture retirées, « forum francesi, italiani e anglofoni » retiré, cône femelle « orizzontale » à la réceptivité, « talvolta biforcato », six communes, clade *Matudae* (Habib 2023) ; lignes WCVP et Habib ajoutées. Fiche EN : 35754. Brouillon aligné.

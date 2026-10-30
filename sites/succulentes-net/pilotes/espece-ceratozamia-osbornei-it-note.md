@@ -28,3 +28,7 @@
 ## Points douteux
 - Statut contesté par Haynes (2023), arguments non lus ; paratype à 800-1 200 m hors de la fourchette 200-750 m ; cône mâle 60-80 cm contre robusta « le plus grand du genre » (70 cm).
 - POWO non consulté (Cloudflare) : nom accepté d'après The World List of Cycads, comme en FR.
+
+## Nettoyage CER06 (30/10/2026)
+
+- 13 remplacements (simulation puis application), mêmes corrections que la FR (WCVP via GBIF pour *osbornei* et *robusta*, BMAA, résumé de Haynes 2023, annotations de lecture ; identification « *robusta* » du Belize sourcée par le protologue de *Zamia decumbens* 2009, lien vers la fiche IT ; lignes WCVP et Calonje et al. 2009 ajoutées). Localité « campo Union » non modifiée (décision du propriétaire en attente). Fiche EN : 35774. Brouillon aligné.

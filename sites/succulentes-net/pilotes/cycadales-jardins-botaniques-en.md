@@ -195,7 +195,7 @@ Ces zones sont à attribuer à la carte USDA (via ce service), jamais au jardin.
   - **48 espèces** ont au moins une accession de 2020 ou plus récente, dont *Encephalartos woodii*, *Cycas cairnsiana*, *C. cupida*, *C. desolata*, *C. platyphylla* et 11 *Macrozamia*.
   - Accessions les plus nombreuses : *Cycas micronesica* (240), *Zamia integrifolia* (112), *Cycas revoluta* (63), *Zamia pumila* (49), *Z. furfuracea* (35), *Cycas panzhihuaensis* (34), *Zamia loddigesii* (30), *Dioon spinulosum* (29), *Zamia decumbens* (27).
   - Plus de 40 taxons non décrits ou d'identité incertaine (« sp. », « aff. », « cf. »), notamment des *Zamia* des Bahamas (Abaco, Andros, Eleuthera, Grand Bahama, New Providence).
-- **Remarques de la base** : quelques lignes portent une mention « Accepted name » qui contredit le nom affiché (ex. *Ceratozamia mexicana* → « *C. brevifrons* » ; *Cycas thouarsii* → « *C. glauca* »). Elles sont à interpréter avec prudence. On a gardé le nom affiché.
+- **Remarques de la base** : quelques lignes portent une mention « Accepted name » qui contredit le nom affiché (ex. *Ceratozamia mexicana* → « *C. brevifrons* » ; *Cycas thouarsii* → « *C. glauca* »). Elles sont à interpréter avec prudence. On a gardé le nom affiché. Correction du 30/10/2026 (CER06) : le catalogue en ligne de Montgomery ne compte aucune accession sous *Ceratozamia mexicana* ; la plante reçue sous ce nom (accession 93919) est rangée sous *C. brevifrons* ; dans le tableau, *C. mexicana* porte donc « MBC[b] » (déclaration à BGCI seulement) et non « MBC[bc] ».
 - **BGCI** [B1] : 218 espèces.
 - **Effectifs publiés** :
   - Plant Collections Network (APGA, fiche datée du 09/11/2015) [M4] : 257 taxons ;
@@ -385,7 +385,7 @@ Il couvre 300 espèces acceptées. Il exclut hybrides, cultivars, taxons non dé
 | *Ceratozamia kuesteriana* | KEW, RBGE[bc], OXF, GLA | MBC[bc], FTG[bc], HUN, LOT, SDBG, SDZ, NBG, +15 | RBGS[bc], RBGV, CNS, ADL |
 | *Ceratozamia latifolia* | KEW, CAM[c], OXF, BRI | MBC[bc], FTG[bc], HUN, LOT[bp], SDBG, SDZ, UCBG, +21 | RBGS[bc], RBGV, CNS, ADL, +3 |
 | *Ceratozamia matudae* | — | HUN, +1 | — |
-| *Ceratozamia mexicana* | KEW, OXF, WIS, PAI, BIR, BRI, TRB | MBC[bc], FTG[bc], HUN, LOT, SDBG, SDZ, MOBOT, NBG, UCBG, +20 | BBG, RBGV[bc], CNS, ADL, +1 |
+| *Ceratozamia mexicana* | KEW, OXF, WIS, PAI, BIR, BRI, TRB | MBC[b], FTG[bc], HUN, LOT, SDBG, SDZ, MOBOT, NBG, UCBG, +20 | BBG, RBGV[bc], CNS, ADL, +1 |
 | *Ceratozamia miqueliana* | KEW | MBC[bc], FTG[bc], HUN, LOT, MOBOT, +4 | JCU |
 | *Ceratozamia mirandae* | — | MBC[bc], FTG[c], HUN, SDBG, UCBG, +3 | — |
 | *Ceratozamia morettii* | — | MBC[bc], HUN, LOT | — |

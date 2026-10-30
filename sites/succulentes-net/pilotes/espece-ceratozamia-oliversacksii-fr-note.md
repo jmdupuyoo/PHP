@@ -40,3 +40,9 @@ Brouillon : `pilotes/espece-ceratozamia-oliversacksii-fr.html` (blocs Gutenberg 
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Aucun message de La Londe-les-Maures trouvé pour cette espèce.
 - Liens internes du corps : première occurrence des *Ceratozamia* ayant une fiche FR publiée, vérifiés en 200 après publication.
+
+## Nettoyage CER06 (30/10/2026)
+
+- 14 remplacements (simulation puis application) : POWO non consulté → WCVP via GBIF (213762090) ; BMAA retirée ; « L'article … n'a pas pu être lu » reformulé (données reprises dans la monographie) ; « absent des forums » → « sans présence documentée en culture » ; annotations « accès payant / non consulté / consultée directement / texte intégral lu » retirées ; ligne « synthèse interne » retirée ; ligne WCVP ajoutée.
+- Reste à trancher par le propriétaire : localité du type « Cerro Perico » (plus précise que la municipalité ; EN : Candelaria Loxicha seulement).
+- Fiche EN créée : 35769. Brouillon aligné.

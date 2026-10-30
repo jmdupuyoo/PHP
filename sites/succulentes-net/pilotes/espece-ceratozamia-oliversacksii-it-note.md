@@ -28,3 +28,7 @@
 ## Points douteux
 - Titres des livres d'Oliver Sacks laissés en anglais (traductions italiennes non vérifiées). Titre du protologue « western Oaxaca » contre « sud de l'Oaxaca » (monographie) : fiche suit la FR. Protologue (Kew Bulletin) non lu.
 - POWO non consulté (Cloudflare) : nom accepté d'après The World List of Cycads, comme en FR.
+
+## Nettoyage CER06 (30/10/2026)
+
+- 14 remplacements (simulation puis application), mêmes corrections que la FR (WCVP, BMAA, « non ha potuto essere letto », « assente dai forum », « Nessuna fonte consultata », annotations de lecture ; ligne WCVP ajoutée). « Cerro Perico » non modifié (décision du propriétaire en attente). Fiche EN : 35769. Brouillon aligné.

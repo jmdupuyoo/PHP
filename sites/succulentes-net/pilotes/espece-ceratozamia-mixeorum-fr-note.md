@@ -41,3 +41,9 @@ Brouillon : `pilotes/espece-ceratozamia-mixeorum-fr.html` (blocs Gutenberg contr
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Aucun message de La Londe-les-Maures trouvé pour cette espèce.
 - Liens internes du corps : première occurrence des *Ceratozamia* ayant une fiche FR publiée, vérifiés en 200 après publication.
+
+## Nettoyage CER06 (30/10/2026)
+
+- 20 remplacements (simulation puis application) : POWO non consulté → WCVP via GBIF (207874459, publication datée de 1997 par la WCVP) ; « Liste rouge non consultée » → catégorie confirmée par GBIF ; BMAA retirée ; « consultée directement », « texte intégral lu/consulté », « fac-similé lu en entier », « non consulté » retirés ; « aucun retour… sur les forums… consultés » → « aucun retour de culture n'est documenté » ; ligne « synthèse interne » retirée ; lignes WCVP (sources) et Habib 2023 (bibliographie) ajoutées.
+- Corrections d'après le protologue relu (PDF cycad.org) et la monographie : cône femelle « horizontal » (et non dressé) à la réceptivité ; tronc « parfois fourchu » (20 à 25 % des adultes) et non « souvent ramifié » ; récoltes dans six municipalités (et non sept) ; parenté avec *matudae* confirmée par Habib 2023 (clade *Matudae*).
+- Fiche EN créée : 35754. Brouillon aligné (comparé au texte en ligne).

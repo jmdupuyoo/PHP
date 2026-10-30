@@ -28,3 +28,7 @@
 ## Points douteux
 - Lien italien mis en avant : épithète dédiée à Aldo Moretti (Orto Botanico / Istituto di biologia vegetale, Università di Napoli Federico II), d'après le protologue et la monographie ; formulation « botanico italiano … dell'Università di Napoli » (pas « napoletano », lieu de naissance non vérifié). Espèce absente de l'inventaire des jardins italiens, Naples compris : dit tel quel. Substrat karst/basalte et altitudes divergentes exposés comme en FR ; absence au Guatemala rappelée.
 - POWO non consulté (Cloudflare) : nom accepté d'après The World List of Cycads, comme en FR.
+
+## Nettoyage CER06 (30/10/2026)
+
+- 17 remplacements (simulation puis application), mêmes corrections que la FR (WCVP via GBIF, GBIF pour l'UICN, BMAA, annotations BHL/Plazi, folioles papiracee selon le protologue, sous-clade *latifolia* de Habib 2023 ; lignes WCVP et Habib ajoutées). Localité « El Raicero » non modifiée (décision du propriétaire en attente). Fiche EN : 35759. Brouillon aligné.

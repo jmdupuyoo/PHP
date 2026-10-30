@@ -42,3 +42,10 @@ Brouillon : `pilotes/espece-ceratozamia-morettii-fr.html` (blocs Gutenberg contr
 - POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
 - Aucun message de La Londe-les-Maures trouvé pour cette espèce.
 - Liens internes du corps : première occurrence des *Ceratozamia* ayant une fiche FR publiée, vérifiés en 200 après publication.
+
+## Nettoyage CER06 (30/10/2026)
+
+- 18 remplacements (simulation puis application) : POWO non consulté → WCVP via GBIF (207874457, Mexico Gulf) ; « Liste rouge non consultée » → catégorie confirmée par GBIF ; BMAA retirée ; annotations « consultée directement », « texte intégral lu/consulté (BHL) », « clé lue (Plazi) / lue via Plazi » retirées ; ligne « synthèse interne » retirée ; lignes WCVP et Habib 2023 ajoutées.
+- Ajouts d'après les sources relues : folioles papyracées selon le protologue (contre coriaces dans la monographie) ; sous-clade *latifolia* du clade *Mexicana* (Habib 2023).
+- Reste à trancher par le propriétaire : localité du type « El Raicero, à 4 km au nord-est de Landero y Coss » (plus précise que la municipalité ; EN : municipalité seulement). Intro « et non au Guatemala comme on le lit parfois » conservée (consigne du propriétaire), sans source sur l'erreur elle-même.
+- Fiche EN créée : 35759. Brouillon aligné.

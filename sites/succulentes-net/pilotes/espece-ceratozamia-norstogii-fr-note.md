@@ -48,3 +48,8 @@ Brouillon : `pilotes/espece-ceratozamia-norstogii-fr.html` (blocs Gutenberg cont
 - Écart majeur exposé sans trancher : le protologue décrit un pétiole et un rachis DROITS (caractère qui l'opposait à C. zaragozae) ; la clé de 1986 et la monographie de 2022 le disent tordu. Phrases « Comment reconnaître », Confusions et FAQ nuancées.
 - Corrigé : « Aucune source ne documente son introduction en culture » (le protologue cite des plantes cultivées dès 1929). Isotypes : le protologue ne cite que US et des fragments à F (la fiche, d'après la monographie, cite F, MO et US).
 - replace_in_content sur 26460 (dry run puis application, 8 + 1 remplacements) ; brouillon identique au contenu en ligne ; URL 200.
+
+## Nettoyage CER06 (30/10/2026)
+
+- 20 remplacements (simulation puis application) : POWO non consulté → WCVP via GBIF (207874455) ; « Liste rouge non consultée » → catégorie confirmée par GBIF ; BMAA retirée ; « Son texte intégral a été lu pour cette fiche », « cet article n'a pas été consulté », « forums … consultés », annotations « texte intégral lu/consulté », « non consulté » retirés ou reformulés ; « position phylogénétique non vérifiée » remplacée par le sous-clade *norstogii* (Habib 2023) ; ligne « synthèse interne » retirée ; lignes WCVP, Brittonia 1986 (source de la clé « rachis tordu », relue) et Habib 2023 ajoutées.
+- Fiche EN créée : 35764. Brouillon aligné.
