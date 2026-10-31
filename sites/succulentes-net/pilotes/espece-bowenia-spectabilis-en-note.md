@@ -19,7 +19,7 @@ FR 26130 / IT 27403 et notes ; WLoC 10 (Bot. Mag. 89 : t. 5398, LT, synonyme var
 - AU : BGCI 10 + RBGS (RBGS et Mount Annan Garden Explorer ; RBGV massifs extérieurs, recensement du 19/10 ; ANBG, Cairns, Cooktown, Mackay, Coffs Harbour, JCU, St Kilda, System Garden de l'université de Melbourne).
 
 ### JZT
-Forme ‘Tinaroo’ cultivée en pot (observation validée de la FR), reprise sans autre détail (détails de ‘Tinaroo’ en attente du propriétaire). Aucun message JMDUPUYOO.
+*Bowenia* sp. ‘Tinaroo’ cultivé en pot depuis 2024, développement lent (décision du propriétaire du 31/10/2026, appliquée lors de la suite de BOW-T). Aucun message JMDUPUYOO.
 
 ### Écarté
 - Retour PalmTalk d'Altamonte Springs (−5 °C, février 2026) : connu par extrait seulement, fil non lisible (Cloudflare) ; retiré aussi des pages genre et des FR/IT.
@@ -38,3 +38,4 @@ Forme ‘Tinaroo’ cultivée en pot (observation validée de la FR), reprise sa
 - Liens non vérifiables par curl (anti-robots, non contournés) : gbif.org, bie.ala.org.au, apps.lucidcentral.org (403).
 
 - BOW-T (31/10/2026) : la page liée *Bowenia* sp. ‘Tinaroo’ 17984 a été réécrite (titre « Bowenia sp. ‘Tinaroo’ ») ; lien existant conservé, aucune modification de 17976.
+- BOW-T suite (31/10/2026, décision du propriétaire) : 7 remplacements (simulation puis application, 7/7) : intertitre « The Tinaroo and Kuranda populations » ; cadrage ‘Tinaroo’ = nom provisoire de localité (population soupçonnée d'être une espèce non décrite, lien 17984 conservé) ; conclusion des charançons attribuée (« and conclude that ») ; FAQ sans « horticultural name » ; JZT ×2 : « grown in a pot since 2024 and develops slowly » ; Jones 1993 : « Reed Books, Chatswood (New South Wales); Smithsonian Institution Press, Washington, D.C. (two 1993 imprints of 312 pages) » au lieu de « Reed Books, Sydney ». Contrôle REST : 0 écart (hors sommaire). Sources vérifiées le 31/10/2026 : habitat *Acacia*/*Casuarina*/feux absent de Hsiao & Oberprieler 2022 (Europe PMC, texte intégral), de la Flora of Australia (profils JSON *spectabilis* et *serrulata*), de WildNet (API taxon-details 17846), de LLIFLE et de la Gymnosperm Database (archive 1999) ; conifers.org (défi JavaScript à cookie, 409) non contourné. Jones 1993 : Open Library (œuvre OL2995583W ; notice Smithsonian issue des MARC de la Library of Congress et de Harvard, notice Reed Books issue de données de libraires ; catalogue de la Library of Congress en application JavaScript, non lu) : deux éditions de 1993, 312 p. : Reed Books, Chatswood (ISBN 0730103382) et Smithsonian Institution Press, Washington (ISBN 1560982209, LCCN 93083068) ; 2e éd. 2002 (Reed New Holland ; Smithsonian, 456 p.).

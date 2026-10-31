@@ -29,7 +29,7 @@
 UICN « VU » ; « 1 000 km au nord de Byfield » ; habitat sclérophylle à *Acacia*/*Casuarina* et feux ; tableau climatique d'Atherton ; rusticité « −2 à −5 °C / USDA 9b-10b » ; « most cold-tolerant *Bowenia* » (sauf comme affirmation commerciale attribuée) ; « Oberprieler, Gunter & Wilson 2022, *Diversity* 14(5) » ; frondes « 1–1,5 m » ; difficulté « 2/5 » ; conseils d'achat ; « Hill et al. 2019 » (fossiles, hors sujet) ; Chamberlain 1912 (ne parle pas de Tinaroo).
 
 ## Points douteux
-- Jones 1993 : éditeur cité « Smithsonian Institution Press, Washington » (Hsiao & Oberprieler) ; la fiche *spectabilis* EN 17976 donne « Reed Books, Sydney » (coédition probable, non vérifiée).
+- Jones 1993 : RÉSOLU le 31/10/2026 (Open Library) : deux éditions de 1993 (Reed Books, Chatswood ; Smithsonian Institution Press, Washington), toutes deux citées.
 - Norstog & Nicholls 1997, Hill & Osborne 2001, Jones 2002 : cités d'après Hsiao & Oberprieler (non lus).
 - Cooper & Cooper 2004 : titre seul, d'après l'APC (éditeur non vérifié, non donné).
 - Origine des plantes vendues sous ‘Tinaroo’ : non vérifiable (dit dans la page).
@@ -37,3 +37,4 @@ UICN « VU » ; « 1 000 km au nord de Byfield » ; habitat sclérophylle à *Ac
 
 ## Hors lot
 Voir `cycadales-a-verifier.md`, « Signalé lors de BOW-T ». Rien commité.
+- BOW-T suite (31/10/2026) : Jones 1993 harmonisé (1 remplacement, simulation puis application) : « Reed Books, Chatswood (New South Wales); Smithsonian Institution Press, Washington, D.C. (two 1993 imprints of 312 pages), pp. 108–109 ». Point douteux « Jones 1993 éditeur » résolu. Contrôle REST : 0 écart (hors sommaire). Sources vérifiées le 31/10/2026 : habitat *Acacia*/*Casuarina*/feux absent de Hsiao & Oberprieler 2022 (Europe PMC, texte intégral), de la Flora of Australia (profils JSON *spectabilis* et *serrulata*), de WildNet (API taxon-details 17846), de LLIFLE et de la Gymnosperm Database (archive 1999) ; conifers.org (défi JavaScript à cookie, 409) non contourné. Jones 1993 : Open Library (œuvre OL2995583W ; notice Smithsonian issue des MARC de la Library of Congress et de Harvard, notice Reed Books issue de données de libraires ; catalogue de la Library of Congress en application JavaScript, non lu) : deux éditions de 1993, 312 p. : Reed Books, Chatswood (ISBN 0730103382) et Smithsonian Institution Press, Washington (ISBN 1560982209, LCCN 93083068) ; 2e éd. 2002 (Reed New Holland ; Smithsonian, 456 p.).
