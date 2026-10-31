@@ -1,0 +1,383 @@
+# Pages EN sans meta description (relevé du 31/10/2026)
+
+Balayage de la balise `<meta name="description">` des 890 contenus EN en ligne (803 pages, 87 articles) : 372 sans description. Exclus : thank-you 22774 (noindex) et trois cas en attente du propriétaire (Bowenia tinaroo 17984, Cycas miqueli 16505, Cycas x longipetiolula 18667). Consigne : `prompts/consignes-metas-en.md`.
+
+## Lot META-A — Agavoïdes (pages) (148)
+
+- [ ] 16217 (page) /en/agavoids/agave/americana/ — Agave americana
+- [ ] 15887 (page) /en/agavoids/agave/angustifolia/ — Agave angustifolia
+- [ ] 16222 (page) /en/agavoids/agave/attenuata/ — Agave attenuata
+- [ ] 16227 (page) /en/agavoids/agave/bracteosa/ — Agave bracteosa
+- [ ] 16230 (page) /en/agavoids/agave/celsii/ — Agave celsii
+- [ ] 16235 (page) /en/agavoids/agave/cerulata/ — Agave cerulata
+- [ ] 16242 (page) /en/agavoids/agave/chazaroi/ — Agave chazaroi
+- [ ] 16246 (page) /en/agavoids/agave/chrysantha/ — Agave chrysantha
+- [ ] 16253 (page) /en/agavoids/agave/decipiens/ — Agave decipiens
+- [ ] 16257 (page) /en/agavoids/agave/deserti/ — Agave deserti
+- [ ] 16261 (page) /en/agavoids/agave/filifera/ — Agave filifera
+- [ ] 16266 (page) /en/agavoids/agave/geminiflora/ — Agave geminiflora
+- [ ] 16271 (page) /en/agavoids/agave/gentryi/ — Agave gentryi
+- [ ] 19214 (page) /en/agavoids/agave/havardiana/ — Agave havardiana
+- [ ] 19256 (page) /en/agavoids/agave/montana/ — Agave montana
+- [ ] 19221 (page) /en/agavoids/agave/ovatifolia/ — Agave ovatifolia
+- [ ] 19271 (page) /en/agavoids/agave/parryi/truncata/ — Agave parryi var. truncata
+- [ ] 19208 (page) /en/agavoids/agave/sisalana/ — Agave sisalana
+- [ ] 19200 (page) /en/agavoids/agave/tequilana/ — Agave tequilana
+- [ ] 19266 (page) /en/agavoids/agave/toumeyana/ — Agave toumeyana
+- [ ] 19251 (page) /en/agavoids/agave/utahensis/ — Agave utahensis
+- [ ] 19227 (page) /en/agavoids/agave/victoriae-reginae/ — Agave victoriae-reginae
+- [ ] 16023 (page) /en/agavoids/beschorneria/albiflora/ — Beschorneria albiflora
+- [ ] 16043 (page) /en/agavoids/beschorneria/beschorneria-tubiflora/ — Beschorneria tubiflora
+- [ ] 16029 (page) /en/agavoids/beschorneria/calcicola/ — Beschorneria calcicola
+- [ ] 16056 (page) /en/agavoids/beschorneria/carolinae/ — Beschorneria carolinae
+- [ ] 16049 (page) /en/agavoids/beschorneria/dubia/ — Beschorneria dubia
+- [ ] 16018 (page) /en/agavoids/beschorneria/rigida/ — Beschorneria rigida
+- [ ] 16008 (page) /en/agavoids/beschorneria/septentrionalis/ — Beschorneria septentrionalis
+- [ ] 16036 (page) /en/agavoids/beschorneria/wrightii/ — Beschorneria wrightii
+- [ ] 15998 (page) /en/agavoids/beschorneria/yuccoides/ — Beschorneria yuccoides
+- [ ] 20875 (page) /en/agavoids/doryanthes/palmeri/ — Doryanthes palmeri
+- [ ] 22208 (page) /en/agavoids/dracaena/afromontana/ — Dracaena afromontana
+- [ ] 20489 (page) /en/agavoids/dracaena/aletriformis/ — Dracaena aletriformis
+- [ ] 20563 (page) /en/agavoids/dracaena/americana/ — Dracaena americana
+- [ ] 22173 (page) /en/agavoids/dracaena/arborea/ — Dracaena arborea
+- [ ] 20504 (page) /en/agavoids/dracaena/cambodiana/ — Dracaena cambodiana
+- [ ] 17464 (page) /en/agavoids/dracaena/cinnabari/ — Dracaena cinnabari
+- [ ] 20497 (page) /en/agavoids/dracaena/cochinchinensis/ — Dracaena cochinchinensis
+- [ ] 20557 (page) /en/agavoids/dracaena/cubensis/ — Dracaena cubensis
+- [ ] 20544 (page) /en/agavoids/dracaena/draco/caboverdeana/ — Dracaena draco subsp. caboverdeana
+- [ ] 22165 (page) /en/agavoids/dracaena/fragrans/ — Dracaena fragrans
+- [ ] 22743 (page) /en/agavoids/dracaena/inexpectata/ — Dracaena inexpectata
+- [ ] 20514 (page) /en/agavoids/dracaena/jayniana/ — Dracaena jayniana
+- [ ] 22146 (page) /en/agavoids/dracaena/kaweesakii/ — Dracaena kaweesakii
+- [ ] 22229 (page) /en/agavoids/dracaena/mannii/ — Dracaena mannii
+- [ ] 17476 (page) /en/agavoids/dracaena/ombet/ — Dracaena ombet
+- [ ] 22181 (page) /en/agavoids/dracaena/reflexa/ — Dracaena reflexa
+- [ ] 22188 (page) /en/agavoids/dracaena/sanderiana/ — Dracaena sanderiana
+- [ ] 17485 (page) /en/agavoids/dracaena/serrulata/ — Dracaena serrulata
+- [ ] 22201 (page) /en/agavoids/dracaena/steudneri/ — Dracaena steudneri
+- [ ] 22195 (page) /en/agavoids/dracaena/surculosa/ — Dracaena surculosa
+- [ ] 17453 (page) /en/agavoids/dracaena/tamaranae/ — Dracaena tamaranae 
+- [ ] 22221 (page) /en/agavoids/dracaena/transvaalensis/ — Dracaena transvaalensis
+- [ ] 22153 (page) /en/agavoids/dracaena/yuccifolia/ — Dracaena yuccifolia
+- [ ] 15941 (page) /en/agavoids/furcraea/andina/ — Furcraea andina
+- [ ] 15949 (page) /en/agavoids/furcraea/cabuya/ — Furcraea cabuya
+- [ ] 15900 (page) /en/agavoids/furcraea/foetida/ — Furcraea foetida
+- [ ] 15971 (page) /en/agavoids/furcraea/guerrerensis/ — Furcraea guerrerensis
+- [ ] 15926 (page) /en/agavoids/furcraea/hexapetala/ — Furcraea hexapetala
+- [ ] 15915 (page) /en/agavoids/furcraea/longaeva/ — Furcraea longaeva
+- [ ] 15919 (page) /en/agavoids/furcraea/macdougallii/ — Furcraea macdougallii
+- [ ] 15978 (page) /en/agavoids/furcraea/niquivilensis/ — Furcraea niquivilensis
+- [ ] 15904 (page) /en/agavoids/furcraea/parmentieri/ — Furcraea parmentieri
+- [ ] 15965 (page) /en/agavoids/furcraea/pubescens/ — Furcraea pubescens
+- [ ] 15957 (page) /en/agavoids/furcraea/quicheensis/ — Furcraea quicheensis
+- [ ] 15988 (page) /en/agavoids/furcraea/samalana/ — Furcraea samalana
+- [ ] 15933 (page) /en/agavoids/furcraea/tuberosa/ — Furcraea tuberosa
+- [ ] 16095 (page) /en/agavoids/hesperaloe/campanulata/ — Hesperaloe campanulata
+- [ ] 16111 (page) /en/agavoids/hesperaloe/chiangii/ — Hesperaloe chiangii
+- [ ] 16071 (page) /en/agavoids/hesperaloe/funifera/ — Hesperaloe funifera
+- [ ] 16119 (page) /en/agavoids/hesperaloe/malacophylla/ — Hesperaloe malacophylla
+- [ ] 16081 (page) /en/agavoids/hesperaloe/nocturna/ — Hesperaloe nocturna
+- [ ] 16065 (page) /en/agavoids/hesperaloe/parviflora/ — Hesperaloe parviflora
+- [ ] 17356 (page) /en/agavoids/hesperoyucca/newberryi/ — Hesperoyucca newberryi
+- [ ] 17350 (page) /en/agavoids/hesperoyucca/whipplei/ — Hesperoyucca whipplei
+- [ ] 16210 (page) /en/agavoids/nolina/atopocarpa/ — Nolina atopocarpa
+- [ ] 16196 (page) /en/agavoids/nolina/beldingii/ — Nolina beldingii
+- [ ] 16164 (page) /en/agavoids/nolina/bigelovii/ — Nolina bigelovii
+- [ ] 16179 (page) /en/agavoids/nolina/brittoniana/ — Nolina brittoniana
+- [ ] 16168 (page) /en/agavoids/nolina/cespitifera/ — Nolina cespitifera
+- [ ] 16202 (page) /en/agavoids/nolina/cismontana/ — Nolina cismontana
+- [ ] 16175 (page) /en/agavoids/nolina/georgiana/ — Nolina georgiana
+- [ ] 16137 (page) /en/agavoids/nolina/greenei/ — Nolina greenei
+- [ ] 16133 (page) /en/agavoids/nolina/hibernica/ — Nolina hibernica
+- [ ] 16183 (page) /en/agavoids/nolina/interrata/ — Nolina interrata
+- [ ] 16158 (page) /en/agavoids/nolina/longifolia/ — Nolina longifolia
+- [ ] 16155 (page) /en/agavoids/nolina/matapensis/ — Nolina matapensis
+- [ ] 16141 (page) /en/agavoids/nolina/microcarpa/ — Nolina microcarpa
+- [ ] 16129 (page) /en/agavoids/nolina/nelsonii/ — Nolina nelsonii
+- [ ] 16152 (page) /en/agavoids/nolina/parryi/ — Nolina parryi
+- [ ] 15319 (page) /en/agavoids/yucca/aloifolia/ — Yucca aloifolia
+- [ ] 17196 (page) /en/agavoids/yucca/angustissima/ — Yucca angustissima
+- [ ] 15513 (page) /en/agavoids/yucca/arizonica/ — Yucca arizonica
+- [ ] 17163 (page) /en/agavoids/yucca/arkansana/ — Yucca arkansana
+- [ ] 15422 (page) /en/agavoids/yucca/baccata/ — Yucca baccata
+- [ ] 17207 (page) /en/agavoids/yucca/baileyi/ — Yucca baileyi
+- [ ] 15373 (page) /en/agavoids/yucca/brevifolia/ — Yucca brevifolia
+- [ ] 17273 (page) /en/agavoids/yucca/campestris/ — Yucca campestris
+- [ ] 15462 (page) /en/agavoids/yucca/capensis/ — Yucca capensis
+- [ ] 15327 (page) /en/agavoids/yucca/carnerosana/ — Yucca carnerosana
+- [ ] 17260 (page) /en/agavoids/yucca/carrii/ — Yucca carrii
+- [ ] 17167 (page) /en/agavoids/yucca/cernua/ — Yucca cernua
+- [ ] 17282 (page) /en/agavoids/yucca/coahuilensis/ — Yucca coahuilensis
+- [ ] 17151 (page) /en/agavoids/yucca/constricta/ — Yucca constricta
+- [ ] 15367 (page) /en/agavoids/yucca/decipiens/ — Yucca decipiens
+- [ ] 17247 (page) /en/agavoids/yucca/declinata/ — Yucca declinata
+- [ ] 17173 (page) /en/agavoids/yucca/desmetiana/ — Yucca desmetiana
+- [ ] 15405 (page) /en/agavoids/yucca/elata/ — Yucca elata
+- [ ] 15352 (page) /en/agavoids/yucca/elephantipes/ — Yucca elephantipes
+- [ ] 17330 (page) /en/agavoids/yucca/endlichiana/ — Yucca endlichiana
+- [ ] 15334 (page) /en/agavoids/yucca/faxoniana/ — Yucca faxoniana
+- [ ] 15381 (page) /en/agavoids/yucca/filamentosa/ — Yucca filamentosa
+- [ ] 15361 (page) /en/agavoids/yucca/filifera/ — Yucca filifera
+- [ ] 17183 (page) /en/agavoids/yucca/flaccida/ — Yucca flaccida
+- [ ] 15412 (page) /en/agavoids/yucca/glauca/ — Yucca glauca
+- [ ] 15387 (page) /en/agavoids/yucca/gloriosa/ — Yucca gloriosa
+- [ ] 17287 (page) /en/agavoids/yucca/grandiflora/ — Yucca grandiflora
+- [ ] 15532 (page) /en/agavoids/yucca/harrimaniae/ — Yucca harrimaniae
+- [ ] 17215 (page) /en/agavoids/yucca/intermedia/ — Yucca intermedia
+- [ ] 17366 (page) /en/agavoids/yucca/jaegeriana/ — Yucca jaegeriana
+- [ ] 17299 (page) /en/agavoids/yucca/jaliscensis/ — Yucca jaliscensis
+- [ ] 15441 (page) /en/agavoids/yucca/lacandonica/ — Yucca lacandonica
+- [ ] 15285 (page) /en/agavoids/yucca/linearifolia/ — Yucca linearifolia
+- [ ] 17254 (page) /en/agavoids/yucca/louisianensis/ — Yucca louisianensis
+- [ ] 15490 (page) /en/agavoids/yucca/madrensis/ — Yucca madrensis
+- [ ] 15475 (page) /en/agavoids/yucca/mixtecana/ — Yucca mixtecana
+- [ ] 17381 (page) /en/agavoids/yucca/muscipula/ — Yucca muscipula
+- [ ] 17303 (page) /en/agavoids/yucca/necopina/ — Yucca necopina
+- [ ] 15524 (page) /en/agavoids/yucca/neomexicana/ — Yucca neomexicana
+- [ ] 17315 (page) /en/agavoids/yucca/periculosa/ — Yucca periculosa
+- [ ] 17373 (page) /en/agavoids/yucca/pinicola/ — Yucca pinicola
+- [ ] 17319 (page) /en/agavoids/yucca/potosina/ — Yucca potosina
+- [ ] 15302 (page) /en/agavoids/yucca/queretaroensis/ — Yucca queretaroensis
+- [ ] 21573 (page) /en/agavoids/yucca/quinnarjenii/ — Yucca × quinnarjenii
+- [ ] 17131 (page) /en/agavoids/yucca/reverchonii/ — Yucca reverchonii
+- [ ] 15312 (page) /en/agavoids/yucca/rigida-luminosa/ — Yucca rigida
+- [ ] 15277 (page) /en/agavoids/yucca/rostrata/ — Yucca rostrata
+- [ ] 17126 (page) /en/agavoids/yucca/rupicola/ — Yucca rupicola
+- [ ] 15396 (page) /en/agavoids/yucca/schidigera/ — Yucca schidigera
+- [ ] 15501 (page) /en/agavoids/yucca/schottii/ — Yucca schottii
+- [ ] 17232 (page) /en/agavoids/yucca/sterilis/ — Yucca sterilis
+- [ ] 17241 (page) /en/agavoids/yucca/tenuistyla/ — Yucca tenuistyla
+- [ ] 15293 (page) /en/agavoids/yucca/thompsoniana/ — Yucca thompsoniana
+- [ ] 15483 (page) /en/agavoids/yucca/torreyi/ — Yucca torreyi
+- [ ] 15345 (page) /en/agavoids/yucca/treculeana/ — Yucca treculeana
+- [ ] 17224 (page) /en/agavoids/yucca/utahensis/ — Yucca utahensis
+- [ ] 15455 (page) /en/agavoids/yucca/valida/ — Yucca valida
+
+## Lot META-B — Aloïdes (pages) (72)
+
+- [ ] 19379 (page) /en/alooids/aloe/africana/ — Aloe africana
+- [ ] 19592 (page) /en/alooids/aloe/aloe-parvibracteata/ — Aloe parvibracteata
+- [ ] 19327 (page) /en/alooids/aloe/alooides/ — Aloe alooides
+- [ ] 19529 (page) /en/alooids/aloe/ankoberensis/ — Aloe ankoberensis
+- [ ] 19320 (page) /en/alooids/aloe/arborescens/ — Aloe arborescens
+- [ ] 19462 (page) /en/alooids/aloe/brevifolia/ — Aloe brevifolia
+- [ ] 19360 (page) /en/alooids/aloe/broomii/ — Aloe broomii
+- [ ] 19518 (page) /en/alooids/aloe/cameronii/ — Aloe cameronii
+- [ ] 19438 (page) /en/alooids/aloe/camperi/ — Aloe camperi
+- [ ] 19556 (page) /en/alooids/aloe/candelabrum/ — Aloe candelabrum
+- [ ] 19565 (page) /en/alooids/aloe/castanea/ — Aloe castanea
+- [ ] 19684 (page) /en/alooids/aloe/chlorantha/ — Aloe chlorantha
+- [ ] 19406 (page) /en/alooids/aloe/claviflora/ — Aloe claviflora
+- [ ] 19637 (page) /en/alooids/aloe/comptonii/ — Aloe comptonii
+- [ ] 19611 (page) /en/alooids/aloe/cooperi/ — Aloe cooperi
+- [ ] 19604 (page) /en/alooids/aloe/davyana/ — Aloe davyana
+- [ ] 19708 (page) /en/alooids/aloe/descoingsii/ — Aloe descoingsii
+- [ ] 19629 (page) /en/alooids/aloe/distans/ — Aloe distans
+- [ ] 19716 (page) /en/alooids/aloe/divaricata/ — Aloe divaricata
+- [ ] 19537 (page) /en/alooids/aloe/dorotheae/ — Aloe dorotheae
+- [ ] 22235 (page) /en/alooids/aloe/ellenbeckiana/ — Dracaena ellenbeckiana
+- [ ] 19676 (page) /en/alooids/aloe/erinacea/ — Aloe erinacea
+- [ ] 19312 (page) /en/alooids/aloe/excelsa/ — Aloe excelsa
+- [ ] 19413 (page) /en/alooids/aloe/falcata/ — Aloe falcata
+- [ ] 19300 (page) /en/alooids/aloe/ferox/ — Aloe ferox
+- [ ] 22134 (page) /en/alooids/aloe/fimbrialis/ — Aloe fimbrialis
+- [ ] 19662 (page) /en/alooids/aloe/glauca/ — Aloe glauca
+- [ ] 19644 (page) /en/alooids/aloe/globuligemma/ — Aloe globuligemma
+- [ ] 19578 (page) /en/alooids/aloe/grandidentata/ — Aloe grandidentata
+- [ ] 19492 (page) /en/alooids/aloe/greatheadii/ — Aloe greatheadii
+- [ ] 19457 (page) /en/alooids/aloe/juvenna/ — Aloe juvenna
+- [ ] 19652 (page) /en/alooids/aloe/karasbergensis/ — Aloe karasbergensis
+- [ ] 19544 (page) /en/alooids/aloe/kedongensis/ — Aloe kedongensis
+- [ ] 19699 (page) /en/alooids/aloe/lateritia/ — Aloe lateritia
+- [ ] 19619 (page) /en/alooids/aloe/longistyla/ — Aloe longistyla
+- [ ] 19352 (page) /en/alooids/aloe/maculata/ — Aloe maculata
+- [ ] 19294 (page) /en/alooids/aloe/marlothii/ — Aloe marlothii
+- [ ] 19669 (page) /en/alooids/aloe/melanacantha/ — Aloe melanacantha
+- [ ] 19597 (page) /en/alooids/aloe/microstigma/ — Aloe microstigma
+- [ ] 19428 (page) /en/alooids/aloe/mitriformis/ — Aloe mitriformis
+- [ ] 19572 (page) /en/alooids/aloe/mutabilis/ — Aloe mutabilis
+- [ ] 19509 (page) /en/alooids/aloe/nobilis/ — Aloe x nobilis
+- [ ] 19480 (page) /en/alooids/aloe/petricola/ — Aloe petricola
+- [ ] 19342 (page) /en/alooids/aloe/pluridens/ — Aloe pluridens
+- [ ] 19373 (page) /en/alooids/aloe/polyphylla/ — Aloe polyphylla
+- [ ] 19500 (page) /en/alooids/aloe/pratensis/ — Aloe pratensis
+- [ ] 19472 (page) /en/alooids/aloe/reitzii/ — Aloe reitzii
+- [ ] 19433 (page) /en/alooids/aloe/rupestris/ — Aloe rupestris
+- [ ] 19693 (page) /en/alooids/aloe/secundiflora/ — Aloe secundiflora
+- [ ] 19388 (page) /en/alooids/aloe/speciosa/ — Aloe speciosa
+- [ ] 19550 (page) /en/alooids/aloe/spicata/ — Aloe spicata
+- [ ] 19778 (page) /en/alooids/aloe/spinosissima/ — Aloe x spinosissima
+- [ ] 19395 (page) /en/alooids/aloe/striata/ — Aloe striata
+- [ ] 19333 (page) /en/alooids/aloe/thraskii/ — Aloe thraskii
+- [ ] 19444 (page) /en/alooids/aloe/vaombe/ — Aloe vaombe
+- [ ] 19282 (page) /en/alooids/aloe/vera/ — Aloe vera
+- [ ] 19583 (page) /en/alooids/aloe/zebrina/ — Aloe zebrina
+- [ ] 19769 (page) /en/alooids/aloiampelos/ciliaris/ — Aloiampelos ciliaris
+- [ ] 19759 (page) /en/alooids/aloiampelos/striatula/ — Aloiampelos striatula
+- [ ] 19804 (page) /en/alooids/aloidendron/barberae/ — Aloidendron barberae
+- [ ] 19784 (page) /en/alooids/aloidendron/dichotomum/ — Aloidendron dichotomum
+- [ ] 19792 (page) /en/alooids/aloidendron/eminens/ — Aloidendron eminens
+- [ ] 19888 (page) /en/alooids/aloidendron/hercules/ — Aloidendron ‘Hercules’
+- [ ] 19822 (page) /en/alooids/aloidendron/pillansii/ — Aloidendron pillansii
+- [ ] 19827 (page) /en/alooids/aloidendron/ramosissimum/ — Aloidendron ramosissimum
+- [ ] 19812 (page) /en/alooids/aloidendron/tongaense/ — Aloidendron tongaense
+- [ ] 19750 (page) /en/alooids/gonialoe/dinteri/ — Gonialoe dinteri
+- [ ] 19742 (page) /en/alooids/gonialoe/sladeniana/ — Gonialoe sladeniana
+- [ ] 19734 (page) /en/alooids/gonialoe/variegata/ — Gonialoe variegata
+- [ ] 19915 (page) /en/alooids/haworthiopsis/attenuata/ — Haworthiopsis attenuata
+- [ ] 19908 (page) /en/alooids/haworthiopsis/fasciata/ — Haworthiopsis fasciata
+- [ ] 19878 (page) /en/alooids/kumara/plicatilis/ — Kumara plicatilis
+
+## Lot META-C — Crassulaceae, Euphorbiaceae, Fouquieraceae et autres pages (88)
+
+- [ ] 23917 (page) /en/apocynaceae/adenium/ — Adenium
+- [ ] 23916 (page) /en/apocynaceae/fockea/ — Fockea
+- [ ] 18435 (page) /en/apocynaceae/pachypodium/geayi/ — Pachypodium geayi
+- [ ] 18422 (page) /en/apocynaceae/pachypodium/lamerei/ — Pachypodium lamerei
+- [ ] 15072 (page) /en/articles/ — Blog
+- [ ] 24691 (page) /en/campus-en/ — Campus
+- [ ] 23390 (page) /en/chamaerops/argentea/ — Chamaerops humilis var. argentea
+- [ ] 19939 (page) /en/crassulaceae/aeonium/arboreum/holochrysum/ — Aeonium arboreum ssp. holochrysum
+- [ ] 19929 (page) /en/crassulaceae/aeonium/arboreum/korneliuslemsii/ — Aeonium arboreum ssp. korneliuslemsii
+- [ ] 19948 (page) /en/crassulaceae/aeonium/balsamiferum/ — Aeonium balsamiferum
+- [ ] 20033 (page) /en/crassulaceae/aeonium/canariense/ — Aeonium canariense
+- [ ] 20048 (page) /en/crassulaceae/aeonium/castello-paivae/ — Aeonium castello-paivae
+- [ ] 19958 (page) /en/crassulaceae/aeonium/ciliatum/ — Aeonium ciliatum
+- [ ] 20040 (page) /en/crassulaceae/aeonium/cuneatum/ — Aeonium cuneatum
+- [ ] 19965 (page) /en/crassulaceae/aeonium/decorum/ — Aeonium decorum
+- [ ] 19972 (page) /en/crassulaceae/aeonium/gorgoneum/ — Aeonium gorgoneum
+- [ ] 19979 (page) /en/crassulaceae/aeonium/haworthii/ — Aeonium haworthii
+- [ ] 19991 (page) /en/crassulaceae/aeonium/lancerottense/ — Aeonium lancerottense
+- [ ] 19998 (page) /en/crassulaceae/aeonium/leucoblepharum/ — Aeonium leucoblepharum
+- [ ] 20079 (page) /en/crassulaceae/aeonium/lindleyi/ — Aeonium lindleyi
+- [ ] 20062 (page) /en/crassulaceae/aeonium/nobile/ — Aeonium nobile
+- [ ] 20004 (page) /en/crassulaceae/aeonium/percarneum/ — Aeonium percarneum
+- [ ] 20086 (page) /en/crassulaceae/aeonium/sedifolium/ — Aeonium sedifolium
+- [ ] 20011 (page) /en/crassulaceae/aeonium/simsii/ — Aeonium simsii
+- [ ] 20026 (page) /en/crassulaceae/aeonium/stuessyi/ — Aeonium stuessyi
+- [ ] 20055 (page) /en/crassulaceae/aeonium/tabuliforme/ — Aeonium tabuliforme
+- [ ] 20018 (page) /en/crassulaceae/aeonium/undulatum/ — Aeonium undulatum
+- [ ] 20119 (page) /en/crassulaceae/aeonium/urbicum/ — Aeonium urbicum
+- [ ] 20109 (page) /en/crassulaceae/aeonium/zwartkop/ — Aeonium ‘Zwartkop’
+- [ ] 18837 (page) /en/crassulaceae/crassula/arborescens/ — Crassula arborescens
+- [ ] 18949 (page) /en/crassulaceae/crassula/buddhas-temple/ — Crassula « Buddha’s Temple »
+- [ ] 18882 (page) /en/crassulaceae/crassula/capitella/ — Crassula capitella
+- [ ] 18919 (page) /en/crassulaceae/crassula/coccinea/ — Crassula coccinea
+- [ ] 18913 (page) /en/crassulaceae/crassula/multicava/ — Crassula multicava
+- [ ] 18866 (page) /en/crassulaceae/crassula/muscosa/ — Crassula muscosa
+- [ ] 18830 (page) /en/crassulaceae/crassula/ovata/ — Crassula ovata
+- [ ] 18924 (page) /en/crassulaceae/crassula/pellucida/ — Crassula pellucida
+- [ ] 18886 (page) /en/crassulaceae/crassula/perfoliata/minor/ — Crassula perfoliata var. minor
+- [ ] 18844 (page) /en/crassulaceae/crassula/perforata/ — Crassula perforata
+- [ ] 18943 (page) /en/crassulaceae/crassula/pyramidalis/ — Crassula pyramidalis
+- [ ] 18858 (page) /en/crassulaceae/crassula/rupestris/ — Crassula rupestris
+- [ ] 18907 (page) /en/crassulaceae/crassula/sarcocaulis/ — Crassula sarcocaulis
+- [ ] 18851 (page) /en/crassulaceae/crassula/tetragona/ — Crassula tetragona
+- [ ] 18893 (page) /en/crassulaceae/crassula/tomentosa/ — Crassula tomentosa
+- [ ] 18930 (page) /en/crassulaceae/crassula/umbella/ — Crassula umbella
+- [ ] 18936 (page) /en/crassulaceae/crassula/umbellata/ — Crassula umbellata
+- [ ] 18900 (page) /en/crassulaceae/crassula/undulata/ — Crassula undulata
+- [ ] 18822 (page) /en/crassulaceae/echeveria/ — Genus Echeveria
+- [ ] 18796 (page) /en/crassulaceae/kalanchoe/ — Genus kalanchoe
+- [ ] 18802 (page) /en/crassulaceae/sedum/ — Genus Sedum
+- [ ] 18815 (page) /en/crassulaceae/sempervivum/ — Genus Sempervivum
+- [ ] 23364 (page) /en/didieraceae/alluaudia/dumosa/ — Alluaudia dumosa
+- [ ] 23412 (page) /en/didieraceae/didierea/trollii/ — trollii
+- [ ] 23298 (page) /en/dioscoreaceae/dioscorea/elephantipes/ — Discorea elephantipes
+- [ ] 19141 (page) /en/euphorbiaceae/euphorbia/abdelkuri/ — Euphorbia abdelkuri
+- [ ] 19083 (page) /en/euphorbiaceae/euphorbia/abyssinica/ — Euphorbia abyssinica
+- [ ] 19101 (page) /en/euphorbiaceae/euphorbia/ammak/ — Euphorbia ammak
+- [ ] 19068 (page) /en/euphorbiaceae/euphorbia/antisyphilitica/ — Euphorbia antisyphilitica
+- [ ] 19089 (page) /en/euphorbiaceae/euphorbia/arbuscula/ — Euphorbia arbuscula
+- [ ] 19054 (page) /en/euphorbiaceae/euphorbia/balsamifera/ — Euphorbia balsamifera
+- [ ] 22850 (page) /en/euphorbiaceae/euphorbia/canariensis/ — Euphorbia canariensis
+- [ ] 19075 (page) /en/euphorbiaceae/euphorbia/candelabrum/ — Euphorbia candelabrum
+- [ ] 19133 (page) /en/euphorbiaceae/euphorbia/didiereoides/ — Euphorbia didiereoides
+- [ ] 19048 (page) /en/euphorbiaceae/euphorbia/ingens/ — Euphorbia ingens
+- [ ] 19118 (page) /en/euphorbiaceae/euphorbia/lactea/ — Euphorbia lactea
+- [ ] 23381 (page) /en/euphorbiaceae/euphorbia/lamarckii/ — Euphorbia lamarckii
+- [ ] 19123 (page) /en/euphorbiaceae/euphorbia/milii/ — Euphorbia milii
+- [ ] 23426 (page) /en/euphorbiaceae/euphorbia/regis-jubae/ — Euphorbia regis-jubae
+- [ ] 19038 (page) /en/euphorbiaceae/euphorbia/resinifera/ — Euphorbia resinifera
+- [ ] 19061 (page) /en/euphorbiaceae/euphorbia/tirucalli/ — Euphorbia tirucalli
+- [ ] 19110 (page) /en/euphorbiaceae/euphorbia/trigona/ — Euphorbia trigona
+- [ ] 21211 (page) /en/fouquieraceae/fouquieria/burragei/ — Fouquieria burragei
+- [ ] 21251 (page) /en/fouquieraceae/fouquieria/columnaris/ — Fouquieria columnaris
+- [ ] 21214 (page) /en/fouquieraceae/fouquieria/diguetii/ — Fouquieria diguetii
+- [ ] 21249 (page) /en/fouquieraceae/fouquieria/fasciculata/ — Fouquieria fasciculata
+- [ ] 21227 (page) /en/fouquieraceae/fouquieria/formosa/ — Fouquieria formosa
+- [ ] 21242 (page) /en/fouquieraceae/fouquieria/leonilae/ — Fouquieria leonilae
+- [ ] 21220 (page) /en/fouquieraceae/fouquieria/macdougalii/ — Fouquieria macdougalii
+- [ ] 21231 (page) /en/fouquieraceae/fouquieria/ochoterenae/ — Fouquieria ochoterenae
+- [ ] 21255 (page) /en/fouquieraceae/fouquieria/purpusii/ — Fouquieria purpusii
+- [ ] 21236 (page) /en/fouquieraceae/fouquieria/shrevei/ — Fouquieria shrevei
+- [ ] 21206 (page) /en/fouquieraceae/fouquieria/splendens/ — Fouquieria splendens
+- [ ] 24688 (page) /en/gardens/ — Botanical gardens
+- [ ] 23915 (page) /en/malvaceae-2/adansonia/ — Adansonia
+- [ ] 23913 (page) /en/moringaceae-2/moringa/ — Moringa
+- [ ] 23911 (page) /en/pedaliaceae-2/pterodiscus/ — Pterodiscus
+- [ ] 23910 (page) /en/pedaliaceae-2/uncarina/ — Uncarina
+- [ ] 23908 (page) /en/vitaceae-family/cyphostemma/ — Cyphostemma
+
+## Lot META-D — Articles (posts) (60)
+
+- [ ] 20104 (post) /en/aeonium-dormancy/ — Aeonium Dormancy
+- [ ] 19843 (post) /en/aloe-mite-aceria-aloinis/ — Aloe Mite (Aceria aloinis): How to Identify, Treat and Prevent the Most Destructive Alooid Pest
+- [ ] 19872 (post) /en/aloe-not-flowering/ — Aloe not flowering
+- [ ] 19863 (post) /en/aloe-root-rot/ — Aloe Root Rot: Pathogens, Diagnosis, Treatment and Prevention
+- [ ] 19855 (post) /en/aloe-thrips-hercinothrips-dimidiatus/ — Aloe Thrips (Hercinothrips dimidiatus): An Emerging Pest of Aloes in Europe — Identification, Damage and Control
+- [ ] 17749 (post) /en/aloe-vera-varieties/ — Aloe vera varieties: what exists, what doesn’t and what you actually bought
+- [ ] 17767 (post) /en/aphids-on-yuccas/ — Aphids on yuccas: how to protect and treat your plant
+- [ ] 17714 (post) /en/best-aloes-for-indoors-10-species-ranked-by-light-from-south-facing-windows-to-dim-offices/ — Best Aloes for Indoors: 10 Species Ranked by Light — From South-Facing Windows to Dim Offices
+- [ ] 18972 (post) /en/best-crassula-for-bonsai/ — The Best Crassula Species for Bonsai — A Practical Comparison
+- [ ] 18532 (post) /en/best-fertilizer-for-cycads-what-to-feed-your-sago-palm-when-and-how/ — Best Fertilizer for Cycads: What to Feed Your Sago Palm, When, and How
+- [ ] 15554 (post) /en/best-indoor-succulents-25-species-that-actually-thrive-indoors/ — Best Indoor Succulents: 25 Species That Actually Thrive Indoors
+- [ ] 21061 (post) /en/cactus-terrarium-the-guide/ — Cactus Terrarium: What Nobody Tells You Before You Start
+- [ ] 19900 (post) /en/cold-hardy-aloes-which-species-survive-frost-outdoors/ — Cold Hardy Aloes: Which Species Survive Frost Outdoors?
+- [ ] 18959 (post) /en/cold-hardy-crassulafrost/ — Cold-Hardy Crassula — Which Species Can Survive Frost?
+- [ ] 17566 (post) /en/cold-hardy-cycads/ — Cold Hardy Cycads: 5 Species That Survive Real Winters
+- [ ] 15560 (post) /en/cold-hardy-succulents-the-complete-guide-to-frost-resistant-species-for-outdoor-growing/ — Cold Hardy Succulents: The Complete Guide to Frost-Resistant Species for Outdoor Growing
+- [ ] 15574 (post) /en/cycad-care-the-complete-guide-to-growing-cycads-indoors-in-containers-and-in-the-ground/ — Cycad Care: The Complete Guide to Growing Cycads Indoors, in Containers and in the Ground
+- [ ] 18536 (post) /en/cycad-sago-palm-manganese-deficiency/ — Manganese Deficiency in Cycads: How to Diagnose, Treat and Prevent Frizzle Top
+- [ ] 18526 (post) /en/cycad-sago-palm-toxic-dog-cat-children/ — Is Sago Palm Toxic to Dogs, Cats & Children? What to Know
+- [ ] 17552 (post) /en/cycad-scale-aulacaspis-yasumatsui/ — Cycad Aulacaspis Scale (Aulacaspis yasumatsui): Identification, Treatment and Prevention
+- [ ] 15683 (post) /en/cycas-in-pot-complete-care/ — Cycas in Pots: Complete Care Guide, Watering, Winter Protection and Tropical Cycads You Can Grow
+- [ ] 18515 (post) /en/cycas-leaves-turning-yellow-how-to-fix-iron-chlorosis-with-chelated-iron-eddha/ — Cycas Leaves Turning Yellow? How to Fix Iron Chlorosis with Chelated Iron (EDDHA)
+- [ ] 21072 (post) /en/dracaena-vs-cordyline-why-two-lookalike-genera-are-botanically-worlds-apart/ — Dracaena vs Cordyline: Why Two Lookalike Genera Are Botanically Worlds Apart
+- [ ] 20528 (post) /en/dracaena-vs-yucca-identification-cultivation-and-key-differences/ — Dracaena vs Yucca: Identification, Cultivation and Key Differences
+- [ ] 17545 (post) /en/growing-agaves-in-pots/ — Growing Agaves in Pots: Substrate, Watering, Repotting and Winter Care
+- [ ] 18395 (post) /en/growing-pachypodium-from-seed-a-germination-guide-by-species/ — Growing Pachypodium from Seed: A Germination Guide by Species
+- [ ] 17771 (post) /en/hardiness-zones-every-system-in-the-world/ — Understanding hardiness zones: every system in the world
+- [ ] 17718 (post) /en/how-repot-aloe-vera/ — How to Repot Aloe vera: The Complete Step-by-Step Guide
+- [ ] 15548 (post) /en/how-to-care-for-succulents-the-complete-guide/ — How to Care for Succulents: The Complete Guide
+- [ ] 15612 (post) /en/how-to-care-for-yuccas-indoor-and-outdoor-growing-guide/ — How to Care for Yuccas: Indoor and Outdoor Growing Guide
+- [ ] 20092 (post) /en/how-to-grow-and-care-for-aeonium-the-complete-guide/ — How to Grow and Care for Aeonium: The Complete Guide
+- [ ] 17501 (post) /en/how-to-grow-and-care-for-agaves/ — How to Grow and Care for Agaves: The Complete Guide for Every Climate
+- [ ] 18968 (post) /en/how-to-grow-and-care-for-crassula/ — How to Grow and Care for Crassula — The Complete Guide
+- [ ] 17687 (post) /en/how-to-grow-care-aloe-vera/ — How to Grow and Care for Aloe vera — Indoors, Outdoors and Everything You Need to Know
+- [ ] 15581 (post) /en/how-to-grow-cycads-from-seed-germination-seedling-care-and-propagation-setup/ — How to Grow Cycads from Seed: Germination, Seedling Care and Propagation Setup
+- [ ] 20097 (post) /en/how-to-propagate-aeonium-stem-cuttings-offsets-beheading-and-seed/ — How to Propagate Aeonium: Stem Cuttings, Offsets, Beheading, and Seed
+- [ ] 17704 (post) /en/how-to-propagate-aloe-vera-from-offsets/ — How to Propagate Aloe vera from Offsets: The Complete Guide
+- [ ] 19869 (post) /en/how-to-propagate-aloes-offsets-cuttings-seeds-and-micropropagation/ — How to Propagate Aloes: Offsets, Cuttings, Seeds and Micropropagation
+- [ ] 18980 (post) /en/how-to-propagate-crassula-2/ — How to Propagate Crassula — Stem Cuttings, Leaf Cuttings, Division, and Seed
+- [ ] 19007 (post) /en/how-to-propagate-succulents/ — How to Propagate Succulents — The Complete Guide to Leaves, Cuttings, Offsets, and Seeds
+- [ ] 18542 (post) /en/magnesium-deficiency-cycad-sago-palm/ — Magnesium Deficiency in Cycads: Why Old Fronds Turn Yellow and How to Fix It
+- [ ] 15630 (post) /en/mealybug-yucca/ — Mealybugs on yuccas
+- [ ] 17117 (post) /en/my-cycas-is-producing-new-shoots/ — My Cycas Is Producing New Shoots
+- [ ] 16469 (post) /en/my-cycas-revoluta-has-brown-tips-why-causes-and-solutions/ — My Cycas revoluta Has Brown Tips, Why? Causes and Solutions
+- [ ] 16465 (post) /en/my-cycas-revoluta-has-cold-damage-why-assessment-recovery-and-winter-protection/ — My Cycas revoluta Has Cold Damage, Why? Assessment, Recovery, and Winter Protection
+- [ ] 16460 (post) /en/my-cycas-revoluta-has-root-rot-why-how-to-diagnose-treat-and-prevent-it/ — My Cycas revoluta Has Root Rot, Why? How to Diagnose, Treat, and Prevent It
+- [ ] 16459 (post) /en/my-cycas-revoluta-is-turning-yellow-why-a-diagnostic-guide/ — My Cycas revoluta Is Turning Yellow, Why? A Diagnostic Guide
+- [ ] 18409 (post) /en/my-pachypodium-is-losing-its-leaves-causes-decision-tree-solutions/ — My Pachypodium Is Losing Its Leaves: Causes, Decision Tree & Solutions
+- [ ] 19851 (post) /en/overwatered-aloe/ — Overwatered Aloe: How to Recognise the Signs, Rescue the Plant and Prevent It from Happening Again
+- [ ] 18403 (post) /en/pachypodium-pests-and-diseases-diagnosis-treatment-rescue-protocols/ — Pachypodium Pests and Diseases: Diagnosis, Treatment & Rescue Protocols
+- [ ] 18561 (post) /en/sago-palm-is-not-growing-new-leaves/ — My Sago Palm Is Not Growing New Leaves: 12 Causes, a Diagnostic Decision Tree, and How to Fix Each One
+- [ ] 15663 (post) /en/spider-mites-yucca/ — Spider Mites on Yuccas: Why They Spread and How to Save Your Plant
+- [ ] 17520 (post) /en/spineless-agaves/ — Spineless Agaves: Safe Alternatives for Gardens With Children
+- [ ] 16530 (post) /en/the-simon-lavaud-method-grafting-cycads/ — The Simon Lavaud Method: Grafting Cycads onto Cycas revoluta to Grow Difficult Species
+- [ ] 17738 (post) /en/types-of-aloe-20-species-every-grower-should-know/ — Types of aloes: 20 species every grower should know
+- [ ] 19001 (post) /en/types-of-succulents-the-complete-guide-to-over-100-species-and-varieties/ — Types of Succulents — The Complete Guide to Over 100 Species and Varieties
+- [ ] 17561 (post) /en/watering-cycads/ — Watering Cycads: Common Mistakes and How to Avoid Them
+- [ ] 17111 (post) /en/when-and-how-to-repot-a-yucca/ — When and How to Repot a Yucca — The Complete Guide to Containers, Substrates, and Timing
+- [ ] 15672 (post) /en/yucca-rostrata-in-pot/ — Yucca rostrata in Containers: How to Succeed with Pot Culture
+- [ ] 15644 (post) /en/yucca-rotting/ — My yucca is rotting : why and how to save it
