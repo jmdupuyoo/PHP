@@ -10,6 +10,9 @@
 - Notes de travail de l'EN non reprises : « POWO could not be consulted directly / protected against automated access », « The Red List could not be consulted directly », « according to the abstract of their article », « no institution consulted » (→ « ninguna institución »), annotations « not consulted », « full text read/consulted », « page not consulted ».
 - Noms communs : aucun nom espagnol ni anglais documenté ; chinois 四川苏铁 (Flora of China, sens large).
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web le 31/10/2026, rien sur l'espèce.
-- Liens internes ES (200) : genre 23432 (intro), *taiwaniana* 24565 (lot CYC-ES04), *rumphii* 24535, *taitungensis* 24503 (lot CYC-ES04), *changjiangensis* 24616, *guizhouensis* 24523 (lot CYC-ES02), *revoluta* 24488, *diannanensis* 24549 (lot CYC-ES02), *beddomei* 24555, article *Aulacaspis* (23246) ; « Lee también » : semis (23153), toxicité (23195). Sans page ES : *siamensis*, *dolichophylla*, *fairylakea*, *hainanensis*, *longlinensis*.
+- Liens internes ES (200) : genre 23432 (intro), *taiwaniana* 24565 (lot CYC-ES04), *rumphii* 24535, *taitungensis* 24503 (lot CYC-ES04), *changjiangensis* 24616, *guizhouensis* 24523 (lot CYC-ES02), *revoluta* 24488, *diannanensis* 24549 (lot CYC-ES02), *beddomei* 24555, article *Aulacaspis* (23246) ; « Lee también » : semis (23153). Sans page ES : *siamensis*, *dolichophylla*, *fairylakea*, *hainanensis*, *longlinensis*.
 - Index de la page genre ES 23432 : ligne déjà liée et conforme (Fujian, Guangdong ; sinónimo *fairylakea* ; *Stangerioides* ; CR 2024) : rien à modifier.
 - Points douteux (repris de l'EN) : identité des plantes cultivées (confusion possible avec *guizhouensis*) ; statut de la forme type dans la nature (Hill 2008 contre Zheng 2017) ; Feng et al. 2021 connu par son résumé.
+
+## Retouche du 31/10/2026 (consigne du coordinateur)
+- Lien « Lee también » vers l'article ES 23195 (titre avec « palma sagú », décision du propriétaire en attente) retiré : replace_in_content simulé (1) puis appliqué (1), commun aux pages 23604, 24583, 24535, 24543 ; brouillon aligné (comparaison stricte identique).
