@@ -1940,3 +1940,37 @@ Articles EN (type post) ; rien n'a été modifié hors meta description.
   - 17738 *Types of aloes* : l'entrée « 13. Aloe striatula var. caesia — see #11 above » est une variété de l'entrée 11, la liste ne compte donc que 19 taxons distincts pour « 20 species » ; coquille « To learn more abour Aloe cameronii ».
   - 17771 *Understanding hardiness zones* : article EN rédigé à la première personne autour du jardin de l'éditeur « in southern France », avec une section « USDA zones in France: city-by-city table » (contraire aux règles 20 et 21 de `prompts/redaction-fiches.md` pour l'EN).
   - 16459, 16460, 16465, 16469, 16530 : aucun intertitre H2 dans le contenu (intertitres en H3).
+
+## Signalé lors de META-B (31/10/2026), hors lot
+
+Pages EN aloïdes ; rien n'a été modifié hors meta description.
+
+- **22235 *Dracaena ellenbeckiana*** (`/en/alooids/aloe/ellenbeckiana/`) : fiche consacrée à *Dracaena ellenbeckiana* Engl. (Asparagaceae) mais rangée sous le genre *Aloe* du silo aloïdes, et le texte ne mentionne nulle part *Aloe ellenbeckiana*. À vérifier : mauvaise page parente, ou fiche *Aloe ellenbeckiana* attendue à cette adresse ? Description écrite d'après le contenu actuel (*Dracaena*).
+- **Titres** : 19888 *Aloidendron ‘Hercules’* : le titre de la page porte des guillemets courbes, mais `<title>` et `og:title` sortent avec des guillemets droits (`Aloidendron 'Hercules' - Succulents`).
+- **Adresses** : 19592 `/en/alooids/aloe/aloe-parvibracteata/` (préfixe « aloe- » redondant, les autres fiches n'ont que l'épithète).
+- **Contenu** :
+  - Les 72 pages du lot contiennent des guillemets « » dans le texte anglais (ex. 19327 « resembling an aloe », 19592 « extremely common »), et l'orthographe est souvent américaine (color, meters).
+  - 22134 *Aloe fimbrialis* : page courte (environ 860 mots) sans aucun intertitre H2.
+  - 19792 *Aloidendron eminens* et 19804 *Aloidendron barberae* : forme « *Aloidendron tongaensis* » dans le texte (7 occurrences dans 19804), alors que la fiche 19812 s'intitule *Aloidendron tongaense* (*Aloe tongaensis* n'étant que le basionyme).
+
+## Signalé lors de META-C (31/10/2026), hors lot
+
+Pages EN du lot META-C ; rien n'a été modifié hors meta description.
+
+- **Page laissée sans description** : *Fouquieria shrevei* 21236 (`/en/fouquieraceae/fouquieria/shrevei/`) — le contenu en ligne est celui de *Fouquieria leonilae* 21242 (même longueur, introduction « Fouquieria leonilae is a rare xerophytic plant, strictly endemic to the central part of the state of Guerrero », 75 occurrences de « leonilae », une seule de « shrevei ») : fiche à réécrire ou à restaurer avant d'écrire sa description.
+- **Titres** :
+  - 23298 « Discorea elephantipes » → *Dioscorea elephantipes* (faute au titre de page, repris dans le titre SEO par défaut ; le contenu écrit correctement *Dioscorea*).
+  - 23412 « trollii » → *Didierea trollii* (nom de genre absent du titre ; titre SEO par défaut « trollii - Succulents »).
+  - 18949 « Crassula « Buddha’s Temple » » : guillemets français au titre → *Crassula* ‘Buddha’s Temple’ (le contenu écrit ‘Buddha’s Temple’).
+  - 18796 « Genus kalanchoe » : minuscule au nom de genre → « Genus Kalanchoe ».
+  - Titres abrégés « ssp. » (19939, 19929) alors que le contenu écrit « subsp. ».
+- **Adresses** : suffixes « -2 » dans `/en/malvaceae-2/adansonia/`, `/en/moringaceae-2/moringa/`, `/en/pedaliaceae-2/pterodiscus/` et `/en/pedaliaceae-2/uncarina/` ; `/en/vitaceae-family/cyphostemma/` (« -family »).
+- **Contenu** :
+  - Guillemets français « » dans le texte anglais de 73 des 88 pages du lot (ex. 19083 *Euphorbia abyssinica* : 18 ; 19075 *candelabrum* : 14 ; 18830 *Crassula ovata* : 14) ; 18936 *Crassula umbellata* : guillemet mal fermé (« the smallest succulent plant in the world« ).
+  - 23412 *Didierea trollii* : légende d'image « Didierea trollii Capuron FIGURE_ENamp; Rauh » (entité cassée).
+  - 18924 *Crassula pellucida* : astérisques Markdown visibles (« **’Calico Kitten’** »).
+  - 18893 *Crassula tomentosa* : phrase de rédaction SEO restée dans l'introduction (« its low-competition search profile makes it a rewarding subject for in-depth coverage »).
+  - 18943 *Crassula pyramidalis* : « created by the South African succulent breeder Myron Kimnach », en contradiction avec 18949 *Buddha’s Temple* (« the Californian botanist », « the American botanist Myron Kimnach »).
+  - *Fouquieria* (21211 *burragei* et d'autres fiches du genre) : cultures rapportées au « southeastern France » dans des fiches EN (règles 20 et 21 de `prompts/redaction-fiches.md`), à revoir.
+  - Pages quasi vides : Campus 24691 (une phrase, 14 mots) et Botanical gardens 24688 (une phrase, 19 mots) ; descriptions rédigées à partir de cette seule phrase. Blog 15072 : page d'archive (description tirée de la liste d'articles).
+- **Technique** : pendant la lecture en parallèle (8 requêtes simultanées), plusieurs pages ont renvoyé « Database Error » en titre (18435, 18422, 23390, 19939) ; contrôle séquentiel ensuite normal.
