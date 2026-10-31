@@ -1,0 +1,39 @@
+# Note — *Stangeria eriopus* (EN), lot STA01 (31/10/2026)
+
+- Vérifications préalables : aucune page EN *eriopus* (list_content tous statuts et corbeille, recherche « eriopus » et « stangeria » : seulement FR 4090 et IT 27433 ; URL EN 404 ; `list_redirects` : aucune redirection /en/…/stangeria/…).
+- Page : https://succulentes.net/en/cycads/stangeria/eriopus/ — id **35976**, fiche C, titre « Stangeria eriopus », slug `eriopus`, parent 16329, langue en, `translation_of` FR 4090. Groupe fr 4090 / it 27433 / en 35976 ; hreflang fr/it/en vérifiés sur les trois pages.
+- Contrôles : URL 200 sans redirection ; `<title>` = titre SEO (curl) ; texte identique au brouillon `pilotes/espece-stangeria-eriopus-en.html` (cmp.py, 151 blocs ouverts / fermés) ; aucun « » ni guillemet droit ; aucune note de travail ; °C suivis des °F ; toxicité au format imposé (« toxic glycosides (cycasin, macrozamin), from which methylazoxymethanol is derived », pas de BMAA) ; aucune image (aucune en FR/IT ni en médiathèque).
+- SEO Rank Math : « Stangeria eriopus: Natal Grass Cycad Care and Hardiness » (55) ; meta 146 car., en anglais ; mot-clé `stangeria eriopus` (« Natal grass cycad » attesté par PlantZAfrica et Species+). Diagnostic : aucun problème.
+- Longueur : ≈ 4 080 mots avant « Further reading » (5 110 selon Rank Math, sources comprises). FAQ : 8 questions.
+- Liens sortants (7, tous en 200) : genre 16329 (intro), genres EN *Bowenia*, *Microcycas*, *Zamia* ; Further reading : semis (15581), toxicité (18526), arrosage.
+- Index 16329 : ligne liée (simulation puis application, 1 remplacement) ; phrase « It does not yet have an English page on the site. » retirée.
+- Liens entrants posés (simulation 5/5 puis application 5/5) : page ordre 15147 (paragraphe CITES, hors encadré), article semis 15581, *Encephalartos woodii* 16632, *Encephalartos ngoyanus* 16984, article jardins italiens 27313 ; brouillons alignés (`ordre-cycadales-en.html`, `espece-encephalartos-woodii-en.html`, `espece-encephalartos-ngoyanus-en.html`, `article-cycadales-jardins-italie-en.html`). Non posé : genre *Microcycas* 16335 (lot MIC01 en cours en parallèle ; signalé).
+
+## Sources (lues le 31/10/2026 sauf mention)
+- **PlantZAfrica** (UA de navigateur, seule exception autorisée) : fiche de John Winter (Kirstenbosch, novembre 2006) lue en entier : noms communs, description (feuilles 0,25-2 m, jusqu'à 10 têtes, cônes 100-250 × 30-40 mm, cône femelle 180 × 80 mm), aire (district de Bathurst ± 33° 30′ S → juste au sud de la frontière du Mozambique, 27° S ; < 50 km de la côte ; abris contre les embruns), milieux et sols, pluies 750-1 000 mm, minimales moyennes 14 °C / 17 °C, gelées très rares, histoire (Kunze 1836, Drège ; plante vivante envoyée par Stanger, cône en 1851), pollinisation naturelle à Kirstenbosch (pas d'hybridation), usages (Xhosa, Zoulous), commerce (Osborne, via Crouch 2000), culture (ombre, groupes à 1 m, compost, fumure, arrosage doux, grand pot), cochenilles farineuses, semis (chaleur de fond 25-28 °C), boutures de feuilles (10-14 semaines, 18 mois).
+- WLoC 430 (version 2026.08.15) ; WCVP via GBIF (207874535 genre, 207874537 espèce : synonymes dont *Lomaria lagopus* et *Stangeria sanderiana*, aire Cape Provinces + KwaZulu-Natal) ; GBIF 2683200 (VU) ; IPNI (API : 297234-1, 17139140-1, 821923-1, 297232-1 = combinaison de Nash 1909) ; Species+ 14479 (API : CITES I 01/07/1975, UE A 2026/1383 du 22/06/2026, applicable 29/06/2026, Stangeriaceae, Afrique du Sud / Mozambique / Eswatini, noms communs) ; Crossref (DOI UICN 2022-1 daté du 05/11/2020 ; évaluation 2010-3 de Williams et al. datée du 31/10/2009 ; Osborne 1994 43(2) : 67-72 ; Procheş & Johnson 2009 96(9) : 1722-1730, résumé ; Christenhusz 2011 ; Salas-Leiva 2013) ; Europe PMC (résumé d'Osborne 1994).
+- **Nash 1909** (*J. New York Bot. Gard.* 10(115) : 163-165), PDF public de cycad.org (`Stangeria-eriopus.pdf`, OCR lisible) : Kunze 1835 (*Lomaria coriacea*), *Lomaria eriopus* quatre ans plus tard, citation de Moore, plantes vivantes envoyées par Stanger à Chelsea en 1851, cônes présentés à la Société linnéenne trois ans plus tard, plante de New York reçue en 1902, premier cône femelle en 1908.
+- Gymnosperm Database (lue le 31/10 à 00 h 10 UTC — la page affiche l'heure américaine, 30/10 —, puis 409 au second essai) ; Wikipédia (API, articles Stangeria et William Stanger) ; Plants of Hawaii (Bishop Museum, étiquette d'herbier BISH 1992, Foster Botanical Garden) ; BGCI (API datatools 258287 : 87 institutions, dont GB 8, US 22, AU 4 ; 388668 « (Kunze) Nash » : 6 autres, non comptées) ; Montgomery BG-BASE (7 accessions) ; inventaire `cycadales-jardins-botaniques-en.md` (Garden Explorer RBGE, Fairchild, Sydney ; Cambridge ; RBGV 4 plantes, African Tunnel Bed ; Berkeley sous serre).
+- Reprises des FR/IT vérifiées : Fous de palmiers (Corse-du-Sud, Saint-Sulpice-des-Landes + Météo-France, Belley/Montpellier), Tropicamente (Ravenne, reprise de l'IT), Sibilio 2019 (Naples), botanic.jp, observations du JZT publiées en FR (pleine terre ~10 ans, mi-ombre, −7 °C en février 2012, feuillage détruit, feuilles détruites vers −4 °C, mise en pot, serre froide l'hiver, dehors de Pâques aux gelées), présentées comme expérience méditerranéenne.
+
+## Écartés
+- Retour PalmTalk de Floride centrale (février 2026, −5 °C) : connu seulement par un extrait de recherche, forum sous Cloudflare (non contourné) ; retiré aussi des FR/IT et des pages genre.
+- Dunedin Botanic Garden (403, aucune copie archivée) : culture sous serre à Dunedin non reprise.
+- Affirmations « PlantZAfrica » absentes de la fiche lue (débat « pendant plus d'un siècle » sur plusieurs espèces, « luxuriante en serre humide », « plein soleil sans brûlure », « plus tolérante à l'humidité », bouturage « environ 80 % ») : non reprises ; « Chelsea Physic Garden » de Wikipédia (absent de l'article actuel) remplacé par Nash 1909 ; « Kosi Bay » (aucune source lue) non repris.
+- Références de WLoC non lues (Broome 2010, *Growing Stangeria eriopus in Central Florida* ; Holzman 2010, *Hawaii's Stangeria in cultivation* ; Argyros 2010, *Cycad Newsletter* 33(1)) : non citées.
+- Non sollicités ou bloqués : POWO, Liste rouge UICN, PalmTalk (Cloudflare) ; redlist.sanbi.org (403 avec curl, non contourné) ; Dunedin (403) ; recensement RBGV hors ligne le 31/10 (mise à jour du système).
+- Wikipédia seule : *Aulacaspis yasumatsui*, *Callioratis millari*, culture de tissus, maturité à 5-7 ans : non repris.
+
+## Divergences exposées
+- Aire : WLoC/WCVP (Afrique du Sud seule) contre Species+ (Mozambique, Eswatini) et Wikipédia (sud du Mozambique) ; PlantZAfrica s'arrête juste au sud de la frontière.
+- Découverte du cône : PlantZAfrica (cône en Angleterre en 1851), Nash 1909 (plantes envoyées à Chelsea en 1851, cônes montrés trois ans plus tard), Wikipédia (cônes vus par Stanger en 1851).
+- Pollinisation : vent et insectes (PlantZAfrica 2006) ; insectes seuls, nitidules (Procheş & Johnson 2009).
+- Pot : facile en pot (Jones 1993 ; PlantZAfrica si le pot est grand) contre « pousse mal en pot » (Corse) et JZT (mieux en pot qu'en pleine terre).
+- Synonymes : WCVP ajoute *Lomaria lagopus* et *Stangeria sanderiana*, absents de WLoC ; IPNI enregistre une combinaison de Nash (1909), postérieure à celle de Baillon.
+
+## Points douteux
+- Présence au Mozambique et en Eswatini (Species+) non confirmée par les listes de référence.
+- Royaume-Uni : aucune culture en pleine terre documentée ; emplacement (serre ou plein air) non publié par les jardins, sauf Berkeley (serre) et Melbourne (massif extérieur).
+- Zone USDA 10a/b : déclarée par le cultivateur corse lui-même (attribuée).
+- JZT : année de mise en pot et taille de la plante toujours inconnues (point déjà soumis au propriétaire, `cycadales-a-verifier.md`).
+- Aucun message de forum du compte JMDUPUYOO utilisé.

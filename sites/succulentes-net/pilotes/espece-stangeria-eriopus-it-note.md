@@ -21,3 +21,8 @@
 - Fichier `pilotes/espece-stangeria-eriopus-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, hors sommaire Easy TOC) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées (script) ; aucun lien vers une page FR ; liens internes IT tous en 200.
 - Aucune page IT ni redirection préexistante (list_content, list_redirects). Images : aucune (la FR n'en a pas).
 - Rien commité.
+
+## Pulizia del lotto STA01 (31/10/2026)
+- 14 sostituzioni (simulazione poi applicazione, chiamata comune con il FR 4090) ; bozza allineata (identica al testo online). Stesse correzioni del FR : PlantZAfrica riletta (lunghezza delle foglie, coltivazione, impollinazione naturale a Kirstenbosch, talea di foglia con il metodo reale, « circa l'80 % » ritirato) ; riscontro PalmTalk (estratto) ritirato e sostituito dalle minime medie dell'areale ; Lista Rossa via GBIF ; annotazioni « testo non consultato », « opera non consultata direttamente », « pagina della Lista Rossa non consultata » riformulate ; « Nessuna istituzione consultata » → « Nessuna istituzione ».
+- Scheda EN creata : 35976 (gruppo fr 4090 / it 27433 / en 35976).
+- Correzione complementare (31/10/2026, 2 sostituzioni, simulazione poi applicazione) : « La Gymnosperm Database lo estende al Mozambico meridionale » → « Wikipedia lo estende… » (la scheda della Gymnosperm Database, riletta, non cita il Mozambico) ; riga Wikipedia aggiunta alle fonti.

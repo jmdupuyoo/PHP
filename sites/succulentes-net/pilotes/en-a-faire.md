@@ -107,8 +107,9 @@ Lots de 5 d'un même genre, un seul lot à la fois. « R » = fiche EN existante
 ## Lepidozamia — 2 à reprendre, 0 à créer
 - LEP01 : hopei R17997/FR26135, peroffskyana R18004/FR26141
 
-## Stangeria — 0 à reprendre, 1 à créer
-- STA01 : eriopus C/FR4090
+## Stangeria — 0 à reprendre, 1 à créer (1 créée)
+- **BILAN *Stangeria* EN (31/10/2026, après STA01)** — contrôle par l'API REST publique : la page genre EN 16329 compte **1 ligne d'index** (*Stangeria eriopus*, seule espèce acceptée par WLoC 2026.08.15 et par la WCVP lue sur GBIF), **liée** vers la **seule page enfant de 16329**, *eriopus* 35976 (publiée, slug = épithète, 200 sans redirection, groupe fr 4090 / it 27433 / en 35976, hreflang vérifiés) ; aucune page EN *Stangeria* en brouillon, privée ou à la corbeille ; aucune redirection. Fiche : `<title>` = titre SEO (55 car.), meta 146 car. en anglais, aucun « » ni guillemet droit, brouillon identique au texte en ligne. **Retouches 0** : pages genre EN 16329 / FR 4081 / IT 27377 nettoyées des extraits de recherche et notes de travail (29 + 28 + 27 remplacements, simulation puis application, puis 3 + 1 + 1 ; 0 mention restante) ; FR 4090 / IT 27433 nettoyées (14 + 14, puis 2 + 2 : présence au Mozambique attribuée à Wikipédia et non à la Gymnosperm Database). **Liens EN entrants** : 5 (ordre 15147, article semis 15581, *Encephalartos woodii* 16632, *ngoyanus* 16984, article jardins italiens 27313) ; *Microcycas* 16335 non lié (lot MIC01 en parallèle). Hors bilan : voir « Signalé lors de STA01 » (cycadales-a-verifier.md).
+- STA01 : eriopus C/FR4090 fait (31/10/2026, 35976) — lot STA01 terminé le 31/10/2026 (seul lot *Stangeria*)
 
 ## Microcycas — 1 à reprendre, 0 à créer
 - MIC01 : calocoma R18015/FR13877
