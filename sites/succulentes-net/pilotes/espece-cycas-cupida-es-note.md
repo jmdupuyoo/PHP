@@ -1,0 +1,18 @@
+# Note — *Cycas cupida* (ES 37515), https://succulentes.net/es/orden-cycadales/cycas/cupida/
+
+## Création du 31/10/2026 (lot CYC-ES10, mode C)
+- Avant création : aucune page ES (list_content es, statut any ; corbeille ES vide ; /es/orden-cycadales/cycas/cupida/ en 404, sans redirection).
+- create_content : page, publish, langue es, parent 23432, slug `cupida`, titre « Cycas cupida », translation_of FR 26642 → id **37515**. Hreflang vérifiés : fr 26642, it 28558, en 30351, es 37515. Aucune image (ni en FR/IT/EN).
+- Brouillon `pilotes/espece-cycas-cupida-es.html` identique au texte en ligne (verify.py : seul le sommaire diffère ; liens même séquence). DSL : scratchpad `es10/cupida.dsl`. ≈ 4170 mots (Rank Math).
+- SEO Rank Math : « Cycas cupida: la cícada azul de la Terrace Range australiana » (60) ; meta 146 car. ; mot-clé « Cycas cupida » ; aucun problème ; `<title>` vérifié.
+- Base : EN 30351 (21/10 ; retouches 24/10) et FR 26642 (03/10, retouches 21 et 24/10) et leurs notes (protologue Forster 2001 et Hill 1996 en texte intégral, GBIF étiquettes 2000 et 2024, Crossref, Montgomery News 2025, PDF Lavaud 2021, Montgomery, RBG Sydney, Mount Annan, BGCI, FdP 2013, Tropicamente 2014).
+- Revérifié le 31/10/2026 : GBIF 2683292 → NT ; WCVP sur GBIF 206945519 : accepté ; Species+ 65518 (API) : annexe II (CoP20 #4, 05/03/2026), UE B (règlement 2026/1383, 29/06/2026). WLoC 114 non relu (faits repris des EN/FR, version 2026.08.15).
+- Cadre international : Rusticidad par types de climat (« Clima mediterráneo y templado », « Climas tropicales y subtropicales »), « En jardines botánicos » (États-Unis, Australie, Royaume-Uni, autres). JZT : rien de publié. Aucun nom espagnol attesté. °C seulement.
+- Liens internes ES (200) : genre (intro), *cairnsiana* 37348, *thouarsii* 23603, *couttsiana* 37582 (posé après la création de *couttsiana* : simulation 1 / application 1), *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : article Lavaud 23244 (cite *cupida* parmi les cícadas azules, pas parmi les plantes greffées), semis 23153, toxicité 23195. Sans page ES : *desolata*, *ophiolitica*, *platyphylla*.
+- Index de la page genre ES 23432 : ligne liée (simulation 5 / application 5 pour les cinq lignes du lot, 1 par ligne) ; brouillon `genre-cycas-es.html` aligné (verify : identique, 56 liens).
+- Liens entrants posés (simulation puis application, 1 par lien ; brouillons alignés, verify identiques) : *cairnsiana* 37348 (Confusiones), *thouarsii* 23603 (Híbridos), *couttsiana* 37582 (Híbridos, même lot).
+- Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026 restreinte à ces domaines, aucun résultat sur l'espèce.
+- Créée après la décision du 31/10 : Simon Lavaud nommé « viverista especializado en cícadas », site https://cycadales.eu en source.
+- « sus resultados aún no se habían publicado en octubre de 2026 » (étude génomique Montgomery) : repris de l'EN (« at the time of writing », 21/10), non revérifié.
+- Notes de travail EN non reprises : « POWO could not be consulted directly », « The Red List itself could not be consulted directly », « no Queensland listing could be checked » (→ « las fuentes consultadas no mencionan ninguna inclusión »), « the only first-hand report found » (→ « el único testimonio de primera mano conocido »), annotations « not consulted / page not consulted (access blocked) ». Rare Palm Seeds (extrait de recherche « gels modérés ») non repris.
+- Points douteux : NT (2023) contre « au bord du CR » (Montgomery 2025, lettre d'information) ; feuilles 72-130 cm (protologue) / 1,5 m (étiquette 2024), les deux donnés.

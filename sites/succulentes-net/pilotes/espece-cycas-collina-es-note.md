@@ -1,0 +1,18 @@
+# Note — *Cycas collina* (ES 37443), https://succulentes.net/es/orden-cycadales/cycas/collina/
+
+## Création du 31/10/2026 (lot CYC-ES10, mode C)
+- Avant création : aucune page ES (list_content es, statut any ; corbeille ES vide ; /es/orden-cycadales/cycas/collina/ en 404, sans redirection).
+- create_content : page, publish, langue es, parent 23432, slug `collina`, titre « Cycas collina », translation_of FR 22067 → id **37443**. Hreflang vérifiés : fr 22067, it 28536, en 30316, es 37443. Aucune image (ni en FR/IT/EN).
+- Brouillon `pilotes/espece-cycas-collina-es.html` identique au texte en ligne (verify.py : seul le sommaire diffère ; liens même séquence). DSL : scratchpad `es10/collina.dsl`. ≈ 3880 mots (Rank Math).
+- SEO Rank Math : « Cycas collina: la cícada sin tronco de Sơn La y Yunnan » (54) ; meta 155 car. ; mot-clé « Cycas collina » ; aucun problème ; `<title>` vérifié.
+- Base : EN 30316 (21/10, retouche 0c) et FR 22067 (13/10, nettoyée le 31/10 : ligne WCVP) et leurs notes (Hill 2008 en texte intégral, WLoC 109, Crossref, GBIF, Species+ 26626, IPNI, Xi et al. 2022, PACSOA, Trebrown).
+- Revérifié le 31/10/2026 : GBIF 2683279 → CR ; WCVP sur GBIF 206945512 : accepté ; Species+ 26626 (API) : annexe II (CoP20 #4, 05/03/2026), UE B (règlement 2026/1383, 29/06/2026). WLoC 109 non relu (faits repris des EN/FR, version 2026.08.15).
+- Cadre international : Rusticidad par types de climat (« Clima mediterráneo y templado », « Climas tropicales y subtropicales »), « En jardines botánicos » (États-Unis, Australie, Royaume-Uni, autres). JZT : rien de publié. Aucun nom espagnol attesté. °C seulement.
+- Liens internes ES (200) : genre (intro), *balansae* 37341, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : semis 23153, guide 23142, toxicité 23195. Sans page ES (non liés) : *simplicipinna*, *dolichophylla*, *ferruginea*, *micholitzii*, *multipinnata*, *siamensis* (intro et Taxonomía).
+- Index de la page genre ES 23432 : ligne liée (simulation 5 / application 5 pour les cinq lignes du lot, 1 par ligne) ; brouillon `genre-cycas-es.html` aligné (verify : identique, 56 liens).
+- Liens entrants posés (simulation puis application, 1 par lien ; brouillons alignés, verify identiques) : *balansae* 37341 (Confusiones, 1re occurrence hors intro/encadré).
+- Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026 restreinte à ces domaines, aucun résultat sur l'espèce.
+- WCVP (GBIF 206945512) : autorité « K.D.Hill, N.H.Tuan & P.K.Lôc » contre « T.H.Nguyên » (WLoC) : divergence exposée en Taxonomía (comme *brachycantha*).
+- Pépiniériste : Trebrown d'abord anonymisé (« un vivero británico »), puis nommé après la décision du propriétaire du 31/10 (question 34) : 4 remplacements ciblés + ajout de 23195 en « Lee también » (simulation 5 / application 5).
+- Notes de travail EN non reprises : « POWO could not be consulted directly », « which of the two these criteria belong to could not be checked, and the Red List itself could not be consulted » (→ « no está claro a cuál de las dos corresponden »), « The precise causes of decline recorded by the IUCN could not be read » (→ « Las fuentes citadas no detallan las causas »), « read in full », « No report … could be read », annotations « text not consulted / page not consulted / full text consulted / abstract and tables consulted ».
+- Points douteux (repris de l'EN/FR) : critères A2ace+4ace (2010 ou 2023) ; noms chinois rattachés par déduction ; Chieng Hac 500 m (Hill) / 1 250 m (GBIF 2006), localités homonymes possibles (signalé dans le texte) ; Laos/Birmanie « probables » ; zone USDA 9b commerciale (Trebrown, avec équivalent °C).
