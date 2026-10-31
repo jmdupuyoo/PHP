@@ -2105,4 +2105,5 @@ Consigne : `prompts/consignes-balayage-notes-fr-it.md` (méthode), règles gén�
 
 Paquets appliqués (simulation puis application, comptes vérifiés par page, contrôle REST, brouillons alignés) :
 
+- EN-1 : genre Cycas 16282, genre Zamia 16295, genre Encephalartos 16289, genre Macrozamia 16301, genre Dioon 16312, C. zeylanica 31096, C. zambalensis 31092, C. yorkiana 31084, C. xipholepis 31075, C. wadei 31069, C. vespertilio 31043, C. tuckeri 31036, C. tropophylla 31028, C. terryana 31024, C. tansachana 31017, C. sundaica 30940, C. sphaerica 30927, C. silvestris 30917, C. sexseminifera 30907, C. seshachalamensis 30904, C. semota 30868, C. scratchleyana 30858, C. schumanniana 30854, C. saxatilis 30847, C. sancti-lasallei 30840, C. riuminiana 30820, C. pschannae 30815, C. pruinosa 30806, C. pranburiensis 30800, C. platyphylla 30789, C. petraea 30777, C. papuana 30768, C. pachypoda 30759, C. orixensis 30755, C. orientis 30745, C. ophiolitica 30704 — 475 remplacements, appliqué et contrôlé (REST 36/36), brouillons alignés.
 <!-- BALAYAGE-EN-PAQUETS -->
