@@ -112,6 +112,7 @@ Créé le 31/10/2026. Consignes : `prompts/consignes-es-cycadales.md`. Ordre dé
 
 - [ ] Page genre *Bowenia* ES (C) — EN 16323
 - [ ] BOW-ES01 : serrulata (C, EN 17964), spectabilis (C, EN 17976)
+- [ ] BOW-ES02 : tinaroo (C, EN 17984) — *Bowenia* sp. ‘Tinaroo’, nom provisoire de localité (population de Tinaroo, soupçonnée d'être une espèce non décrite ; pas une espèce WLoC) ; titre « Bowenia sp. ‘Tinaroo’ », slug `tinaroo`, parent = page genre ES ; groupe fr 37657 / it 37674 / en 17984 ; base : `forme-bowenia-tinaroo-{en,fr}.html` et notes (décisions du propriétaire du 19/10 et du 31/10/2026)
 
 ## Lepidozamia — page genre EN 16319 ; 2 fiches EN
 
@@ -128,6 +129,6 @@ Créé le 31/10/2026. Consignes : `prompts/consignes-es-cycadales.md`. Ordre dé
 - [ ] Page genre *Microcycas* ES (C) — EN 16335
 - [ ] MIC-ES01 : calocoma (C, EN 18015)
 
-Exclus (décision du propriétaire en attente) : *Cycas miqueli* (EN 16505) et *Bowenia* ‘Tinaroo’ (EN 17984). *Cycas* × *longipetiolula* : ES déjà créée.
+Exclus (décision du propriétaire en attente) : *Cycas miqueli* (EN 16505). *Cycas* × *longipetiolula* : ES déjà créée.
 
 Total : 389 fiches EN de référence.

@@ -55,3 +55,8 @@ POWO ; Liste rouge UICN ; PalmTalk, Kew (Cloudflare, non contournés) ; Mem. NYB
 6. Formes « verte » et « brun-rouge » à l'émergence : non sourcées.
 
 - Retouche du 26/10/2026 (lot ENC10) : notes de travail retirées (POWO non consulté, « mesure publiée consultée », « trouvées/trovati », « inaccessible le 21 octobre 2026 ») ; simulation puis application, brouillon aligné (0 écart).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q4 : observations du Jardin zoologique tropical validées par le propriétaire (« Oui, observations au Jardin zoologique tropical de La Londe »). Ajoutées sans citer le forum ni le compte : Culture « En France » (puce JZT 2008-2012 : plante au feuillage glauque à protéger l'hiver 2008-2009 ; bonne tenue début janvier 2009 après −3 °C alors qu'un autre *Encephalartos* sous papier bulle avait souffert ; constat du 20/01/2012 : deux plantes défoliées par −4/−5 °C, relancées en serre ; à tenter dehors seulement dans des endroits très protégés : Le Lavandou, Saint-Clair, Le Rayol, Giens), Rusticité « En France », encadré, FAQ « Résiste-t-il au froid ? ». Date du 20/01/2012 conservée (date réelle du message, antérieure à la vague de froid de février 2012). La mention du collectionneur du Var (#p44512) n'est pas reprise. replace_in_content (simulation puis application, 4 remplacements), brouillon aligné, REST identique.

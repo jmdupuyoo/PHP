@@ -19,3 +19,8 @@
 ## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q33 : observation du JZT corrigée de −7 °C en **−6 °C, febrero de 2012** (introduction, Datos clave, Rusticidad, puce « Costa del Var », FAQ : « −6 °C en el Jardín Zoológico Tropical (febrero de 2012) y −7 °C en el Rosellón ») ; 5 remplacements, brouillon aligné, REST identique. Meta sans valeur : inchangée.

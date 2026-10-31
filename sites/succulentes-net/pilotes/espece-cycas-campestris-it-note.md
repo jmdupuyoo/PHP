@@ -30,3 +30,8 @@
 - Riscrittura completa (update_content, solo contenuto), allineata alla FR ripresa lo stesso giorno (vedi nota FR): cifre di Wikipedia tolte, descrizione, habitat, nomi locali «Atolo» e «Wakoro», uso del 1962 (con avvertenza), NT secondo GBIF, Hill 2010 e Bösenberg 2022 con DOI, Montgomery e Cairns, FAQ «Quanto cresce?».
 - Correzioni: «sottosezione <em>Endemicae</em>» → «sezione» (Hill 1994, come nella FR); tossicità al formato <em>Cycas</em> (cicasina → metilazossimetanolo, BMAA), prima assente.
 - Indice IT 11549: «(NT, 2022)» invariato.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q5/Q32 : cifre della descrizione e incendi delle praterie attribuiti a Wikipedia in inglese, presentati come provvisori; riga Wikipedia EN ripristinata nei Siti di riferimento (pagina riletta il 31/10/2026). 3 sostituzioni, bozza allineata, REST identico.

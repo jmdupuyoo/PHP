@@ -41,3 +41,8 @@ Come per la FR; inoltre pagina Messina vuota il 20/10/2026 (lettura dell'11/10/2
 
 - Ritocco del 26/10/2026 (lotto ENC09, pagina EN 16613): «POWO non ha potuto essere consultato direttamente», «non è stato possibile leggerlo» (Viljoen & van Staden) ritirati, «è stato trovato» → «è documentato» (3 sostituzioni, simulazione poi applicazione); bozza allineata (0 differenze).
 - **26/10/2026 — décision du propriétaire** : l'observation JZT (−6 °C, feuilles endommagées) date de **février 2012** (et non janvier). Corrigé en ligne : FR 1866 (4), IT 11940 (3), EN 16613 (4) ; brouillon aligné.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q3 : le message d'Agen (janvier 2011) n'est pas utilisé pour *Encephalartos lebomboensis* : la mention du *lebomboensis* mort à −4 °C a été retirée de la phrase (le reste du retour, *altensteinii*, *munchii*, *natalensis*, est conservé). 1 remplacement, brouillon aligné, REST vérifié.

@@ -48,3 +48,8 @@ POWO ; Liste rouge UICN ; Lemaire 1867 (non consulté) ; Osborne 1987 (*Encephal
 
 ## Retouche du lot ENC12 (26/10/2026)
 - POWO non consulté retiré ; suspensions CITES Mozambique « 2012-2018 » corrigées en 2012-2019 (levées par la notification 2019/027, Species+ API du 26/10) ; annotation UICN reformulée (Crossref/GBIF) ; simulation puis application ; brouillon aligné (0 écart). Aucune donnée JZT ajoutée (message JMDUPUYOO de 2014 toujours en attente du propriétaire). Fiche EN 16646 réécrite le même jour.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q4 : message #p319216 validé comme observation du JZT : Culture (plante cultivée dans de la tourbe en 2014 ; question de supprimer la tourbe lors du rempotage), sans forum ni compte cités. Aucune donnée de froid : Rusticité et encadré inchangés. 1 remplacement, brouillon aligné, REST identique.

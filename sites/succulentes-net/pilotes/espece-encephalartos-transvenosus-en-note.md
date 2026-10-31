@@ -27,3 +27,8 @@
 ## FR/IT (retouches du lot)
 - FR 2502 (3) : « POWO n'a pas pu être consulté directement » retiré ; « retours trouvés » → « documentés » ; « dans les sources accessibles » retiré. IT 11991 (2) : POWO retiré ; « è stato trovato » → « è documentato ». Simulation 5/5 puis application 5/5 ; brouillons alignés (0 écart).
 - Compléments facultatifs FR/IT (en EN seulement) : zones horticoles PlantZAfrica, BGCI/Montgomery (hybride × *woodii* à la Huntington), détails Jungle Music.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q4 : observation JZT validée : « Mediterranean and European experience », puce « Mediterranean coast » (plante reçue d'une pépinière française en 2014, démarches CITES auprès de la DREAL PACA, aucun relevé publié). 1 remplacement, brouillon aligné, REST identique.

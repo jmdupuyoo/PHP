@@ -59,3 +59,8 @@ Italie : Naples 1993-94 (2 spécimens, Gaudio et al. 1997) ; Messine (liste « C
 
 ## Retouches du 26/10/2026 (lot EN ENC11)
 - FR 2502 (3) : « POWO n'a pas pu être consulté directement » retiré ; « retours trouvés » → « documentés » ; « dans les sources accessibles » retiré. Observation JZT (DREAL 2014) toujours en attente : rien ajouté. Simulation puis application (replace_in_content), brouillon aligné (0 écart).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q4 : observation JZT validée par le propriétaire (message de février 2014, sans forum ni compte cités) : Culture (plante reçue en 2014 d'une pépinière française, non nommée), Statut et réglementation (démarches CITES auprès de la DREAL Provence-Alpes-Côte d'Azur), Rusticité « En France » (aucun relevé de froid publié pour cette plante). Encadré inchangé (aucune donnée de rusticité). 3 remplacements, brouillon aligné, REST identique.

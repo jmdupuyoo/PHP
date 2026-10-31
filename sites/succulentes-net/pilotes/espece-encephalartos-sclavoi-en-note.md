@@ -28,3 +28,8 @@
 ## FR/IT (retouches du lot)
 - FR 5560 (4) : « POWO n'a pas pu être consulté directement » (encadré) ; « aucune mesure publiée consultée » ; « seules données récentes trouvées » → « disponibles » ; « inaccessible le 21 octobre 2026 » (Messine). IT 13180 (3) : mêmes corrections (encadré, « misura pubblicata consultata », « trovati »). Laissés : « (article non consulté) » de Claassen 1994 (origine de l'absence de conclusion), annotations bibliographiques. Simulation 7/7 puis application 7/7, brouillons alignés (0 écart).
 - Compléments facultatifs FR/IT (en EN seulement) : BGCI UK/US/AU (25), Montgomery (5 accessions), Jungle Music.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q4 : observations du JZT validées par le propriétaire ; ajoutées en EN (sans forum ni compte) : « Mediterranean and European experience » (puce JZT : −3 °C (26.6 °F) en janvier 2009, −4 à −5 °C (24.8 à 23 °F) constatés le 20/01/2012, deux plantes défoliées relancées en serre), Key facts, FAQ « Is it frost-hardy? ». 3 remplacements, brouillon aligné, REST identique.

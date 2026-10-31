@@ -24,3 +24,5 @@
 - Rien commité.
 
 - Ritocco del 31/10/2026 (lotto BOW01, pulizia FR/IT) : 36 sostituzioni (simulazione poi applicazione) : stesse correzioni della FR (UICN Bösenberg 2022, riscontro PalmTalk ritirato, storia secondo Hooker 1863, LLIFLE, WildNet, Asmussen 2011 letto, «radice simile a un igname» ora attribuita a Bailey 1883 tramite Asmussen invece di «non verificata», ANPSA riletta, POWO → WCVP, annotazioni di lettura riformulate, «riletto» e «letta» → date di consultazione). Bozza allineata (0 scarti).
+
+- Ritocco BOW-T (31/10/2026) : link verso *Bowenia* sp. ‘Tinaroo’ IT 37674 su « <em>Bowenia</em> 'Tinaroo' » (« La forma 'Tinaroo' », 1 sostituzione simulata poi applicata). Bozza allineata (0 scarti).

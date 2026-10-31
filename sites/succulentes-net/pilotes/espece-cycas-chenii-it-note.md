@@ -55,3 +55,8 @@
 - Contrôles : verify.py — texte identique, 8 liens même séquence tous en 200, blocs 102/102, aucun commentaire visible, hreflang fr/it/es ; curl et User-Agent Chrome : 200, `<title>` « Cycas chenii: la cicadea acaule del Fiume Rosso, Yunnan » (page genre : « Cycas: 118 specie, rusticità e coltivazione in Italia ») — aucun cloaking.
 
 - 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q5/Q32 : passi tratti dalla sola Wikipedia mantenuti, attribuiti e presentati come provvisori (« ; dati provvisori » aggiunto alle attribuzioni esistenti: località della descrizione, ora attribuite nel testo a Wikipedia (1)). Simulazione poi applicazione, bozza allineata, REST identico.

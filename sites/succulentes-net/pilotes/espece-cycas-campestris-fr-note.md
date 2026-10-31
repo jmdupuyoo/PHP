@@ -51,3 +51,8 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 - Ajouté (étiquettes GBIF, clé 2683233) : type Jacobs & Conn 5950 (18/09/1990, versant ; poils roux ; cône mâle ≈ 30 cm), White 1918, Brass 1925 (8 ft, feuilles 3-4 ft, « common on any savanna »), Carr 1935 (« Atolo »), Batten Pooll 1940 (Rouna, 400 m), Hoogland 1955 (≤ 1,5 m en savane ouverte, ≈ 5 m × 30 cm en savane dense, mégasporophylles parfois au-dessus des feuilles), Womersley & Simmonds 1955 (Yule, feuilles 4 ft 6 in), Darbyshire 1962 (2,5 m ; « Wakoro », langue matapaili ; mésocarpe mangé après ébullition, avec mise en garde), Schodde 1962, Streimann 1969, Wiakabu 1977 ; GBIF NT ; Hill 2010 et Bösenberg 2022 (DOI, version corrigée 2023) ; Montgomery (1 accession 2016) et Cairns (BGCI) ; toxicité au format *Cycas* (cycasine → méthylazoxyméthanol, BMAA) ; FAQ « Quelle taille atteint-il ? ».
 - Index FR 1256 : « (NT, 2022) » inchangé (exact).
 - Contrôles : 200 (UA Chrome et curl), 90 blocs présents, aucun commentaire visible, liens internes FR 200. ≈ 2 860 mots.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q5/Q32 : chiffres de la description (« Les chiffres qui circulent en ligne ») et feux de prairie (« Des sources secondaires ») attribués à Wikipédia en anglais et présentés comme provisoires ; ligne Wikipédia EN rétablie dans les Sites de référence (page relue le 31/10/2026 : 80–170 cm, 120–230 folioles, cônes mâles 13–17 cm, « frequent grass fires »). 3 remplacements, brouillon aligné, REST identique.

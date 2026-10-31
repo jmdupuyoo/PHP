@@ -54,3 +54,8 @@ Aucun retour (A ou B) n'existe ; la fiche le dit. Mention : classement d'Ironmon
 
 ## Retouche du 26/10/2026 (lot EN MAC03)
 - Notes de travail retirées (POWO, Liste rouge « non consultée », « trouvée », « consultée directement », « messages lus », « lu en entier », « lu lors de la préparation… ») ; phrase orpheline « Cette affirmation n'est pas reprise » (Repères internationaux) remplacée par un repère climatique ; « aucun cultivateur n'en parle sur les forums » et « aucune offre relevée » reformulés ; date UICN (10/09/2020, Crossref). Simulation puis application ; brouillon aligné.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q6 : nom du pépiniériste australien (Bruce Ironmonger) retiré du classement de rusticité relayé sur Fous de palmiers (#p323061) ; le fait reste attribué à « un spécialiste australien des cycadales ». 1 remplacement, brouillon aligné, REST identique. La référence bibliographique Ironmonger & Ironmonger (2003, *Cycad Newsletter*, citée par WLoC), qui est une publication, n'a pas été touchée.

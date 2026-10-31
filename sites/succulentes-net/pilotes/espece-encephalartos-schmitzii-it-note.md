@@ -27,3 +27,8 @@
 ## Ritocco del 26/10/2026 (lotto ENC14, creazione dell'EN 34822)
 - Note di lavoro tolte e stato IUCN verificato (simulazione poi applicazione, 9 sostituzioni, come nella FR 26341) : POWO (×2), Hurter & Whitelock « non ha potuto essere consultato », « Lista rossa non consultata » → valutazione datata 7 aprile 2020 (Crossref, categoria VU su GBIF) ; « vulnerabile da allora » → « nella valutazione in vigore » ; DOI IUCN e link cycad.org aggiunti ; annotazioni « non consultato/a » riformulate. Nessuna rivalutazione 2024.
 - Restano i paragrafi tratti da Wikipedia (segnalati come non verificati). Bozza allineata (0 scarti). Traduzioni : fr 26341 / it 27893 / en 34822.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q5/Q32 : passi tratti dalla sola Wikipedia mantenuti, attribuiti e presentati come provvisori (« ; dati provvisori » aggiunto alle attribuzioni esistenti: descrizione e distribuzione (2); sottopopolazione di Solwezi (1)). Simulazione poi applicazione, bozza allineata, REST identico.

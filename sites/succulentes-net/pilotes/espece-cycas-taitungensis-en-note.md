@@ -38,3 +38,8 @@
 
 ## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
 - Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 4 remplacement(s) sur la page 16354, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q33 : observation du JZT corrigée de −7 °C (19.4 °F) en **−6 °C (21.2 °F), February 2012** (introduction, Key facts, Cold hardiness, puce « South of France, Var coast ») ; 4 remplacements, brouillon aligné, REST identique. Meta sans valeur : inchangée.

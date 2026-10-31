@@ -56,3 +56,8 @@ Messine (liste « Cicadee » 2009). Ravenne 2012 (prétendu *natalensis* × *woo
 6. Folioles de *lebomboensis* « smooth-margined » présenté comme caractère « subtle but consistent » : faux (Verdoorn : 1-4 dents sur les deux bords).
 
 - Retouche du 26/10/2026 (lot ENC10) : note de travail retirée (« POWO n'a pas pu être consulté », « dans les sources accessibles ») ; simulation puis application, brouillon aligné (0 écart).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q4 : les photos 17092, 17094, 17096, 17099, 17101 (15/03/2026) montrent la plante du JZT (propriétaire). Légende FR de 17096 : « Feuilles d'*Encephalartos senticosus* au Jardin zoologique tropical de La Londe-les-Maures (Var). » ; Culture : une plante est cultivée au JZT (photo, mars 2026) ; Rusticité « En France » : aucun relevé publié, y compris pour cette plante. Aucune autre donnée (plantation, minimums) : rien d'ajouté. Médiathèque : alt « Encephalartos senticosus » ajouté à 17092 et 17094 ; légende FR ajoutée aux cinq médias. 3 remplacements, brouillon aligné, REST identique.

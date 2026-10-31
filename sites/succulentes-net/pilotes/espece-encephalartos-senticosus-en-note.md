@@ -30,3 +30,8 @@
 ## FR/IT (retouches du lot)
 - FR 2480 (2) : « POWO n'a pas pu être consulté directement » (encadré) ; « dans les sources accessibles » (Rusticité, repères internationaux). IT 13159 (1) : POWO (encadré). Laissés : « l'article de Vorster (1995)… n'a pas pu être consulté » (explique l'absence de donnée), « la Liste rouge… n'a pas pu être consultée directement » (origine du statut) ; IT « la presenza attuale non è stata verificata » (Messine). Simulation 3/3 puis application 3/3, brouillons alignés (0 écart).
 - Compléments facultatifs FR/IT (en EN seulement) : BGCI UK/US/AU, Montgomery (13 acc.), Jungle Music.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q4 : photo 17099 = plante du JZT (propriétaire). Légende « Leaves of *Encephalartos senticosus* at the Jardin zoologique tropical, La Londe-les-Maures (Var, France). » ; « Mediterranean and European experience » : plante cultivée au JZT, sans donnée de froid publiée. 2 remplacements, brouillon aligné, REST identique.

@@ -63,3 +63,8 @@
 - Notes de travail retirées et statut UICN vérifié (simulation puis application, 9 remplacements) : POWO « n'a pas pu être consulté » (×2) ; Hurter & Whitelock « qui n'a pas pu être consulté » ; « La Liste rouge elle-même n'a pas pu être consultée » → évaluation datée du 7 avril 2020 (Crossref ; catégorie VU sur GBIF, consultés le 26/10/2026) ; « vulnérable depuis » → « vulnérable dans l'évaluation en vigueur » (catégorie de l'évaluation 2010 non vérifiable) ; bibliographie : DOI de Bösenberg 2022 ajouté, lien cycad.org ajouté au protologue, annotations « non consulté(e) » reformulées (Malaisse et al. 1990, Hurter & Whitelock 1998, Haynes 2022). Pas de réévaluation 2024 (Crossref : 2010-3 du 31/10/2009, 2022-1 du 07/04/2020 et son second DOI de 12/2023).
 - Restent (décision du propriétaire) : paragraphes tirés de Wikipédia (description secondaire, Luapula/Muchinga, Solwezi), signalés comme non vérifiés.
 - Brouillon aligné (0 écart avec le texte en ligne). Traductions : fr 26341 / it 27893 / en 34822.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q5/Q32 : passages tirés de Wikipédia seule gardés, attribués à Wikipédia et présentés comme provisoires (« ; données provisoires » ajouté aux attributions existantes : description et répartition (2) ; sous-population de Solwezi attribuée à Wikipédia (1)). Simulation puis application, brouillon aligné, REST identique.

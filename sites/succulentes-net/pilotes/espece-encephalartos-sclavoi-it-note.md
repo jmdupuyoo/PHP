@@ -19,3 +19,8 @@ Gli stessi della FR (vedi nota FR): clima MDPI, generalità su impollinazione e 
 Nessuna menzione del JZT nella vecchia IT. Messaggi JMDUPUYOO e menzione indiretta del JZT sui forum: vedi nota FR (esclusi dalla pagina).
 
 - Retouche du 26/10/2026 (lot ENC10) : notes de travail retirées (POWO non consulté, « mesure publiée consultée », « trouvées/trovati ») ; simulation puis application, brouillon aligné (0 écart).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q4 : osservazioni del Jardin zoologique tropical convalidate dal proprietario. Aggiunte (senza citare il forum né l'account) in «In Francia e riferimenti internazionali» (voce JZT 2008-2012), «Riferimenti internazionali, utili per l'Italia» e «In sintesi» ; data del 20/01/2012 conservata. 3 sostituzioni (simulazione poi applicazione), bozza allineata, REST identico.

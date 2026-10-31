@@ -20,3 +20,8 @@ Stessi fatti e fonti della FR (`espece-encephalartos-senticosus-fr-note.md`): cr
 Gli stessi della vecchia FR (traduzione): stazioni di Pongola (0,0 °C) e Big Bend, impollinazione «dal vento», turachi, «usi in medicina tradizionale» (redlist.sanbi.org), «letteratura orticola italiana recente… venditori italiani», ibridi *senticosus* × *latifrons* (Rare Palm Seeds, non verificabile) e × *trispinosus*, PalmTalk «California del Nord, 23 °F», «riscontro italiano» Tropicamente (roberto bruno, 13/12/2008, senza luogo, anno né valore), «riscontro giapponese» (il blog non cita *senticosus*), giardini (Huntington, RHS, Walter Sisulu), protocollo di semina e consigli generici non fondati, bibliografia (redlist.sanbi.org, Kew CITES pack, RHS, PalmTalk ×2, Tropicamente generico, blog giapponese, Rare Palm Seeds, cycadales.eu).
 
 - Retouche du 26/10/2026 (lot ENC10) : note de travail retirée (« POWO n'a pas pu être consulté ») ; simulation puis application, brouillon aligné (0 écart).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q4 : foto 17101 = pianta del JZT (proprietario). Didascalia «Foglie di *Encephalartos senticosus* al Jardin zoologique tropical di La Londe-les-Maures (Var, Francia).» ; Coltivazione (Francia) e «Esperienze in Francia, utili per l'Italia» completate (nessun dato sul freddo). 3 sostituzioni, bozza allineata, REST identico.

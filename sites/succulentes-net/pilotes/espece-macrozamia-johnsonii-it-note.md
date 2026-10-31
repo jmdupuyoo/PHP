@@ -32,3 +32,8 @@
 
 ## Retouche du 26/10/2026 (lot EN MAC03)
 - Notes de travail retirées (POWO, Liste rouge « non consultée », « consultée directement », « messages lus », texte non consulté) ; retours PalmTalk connus seulement par extraits de recherche (Gainesville, Modesto, « −11 °C ») retirés du texte, de l'encadré, de la FAQ et des sources ; paragraphe des messages écartés retiré ; date de l'évaluation UICN ajoutée (14/08/2020, Crossref). Simulation puis application ; brouillon aligné.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q6 : nome del vivaista australiano (Bruce Ironmonger) tolto dalla classifica di rusticità riferita su Fous de palmiers; resta «uno specialista australiano delle cicadee». 1 sostituzione, bozza allineata, REST identico. Riferimento bibliografico Ironmonger & Ironmonger (2003) non toccato.

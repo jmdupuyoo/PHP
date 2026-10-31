@@ -38,3 +38,8 @@
 - Notes de travail retirées (POWO, Liste rouge « non consultée », « consultée directement », « messages lus », « trouvée ») ; communiqué de l'université de l'Utah (connu par extrait de recherche, page en 502) retiré du texte et des sources : le résumé de Science 2007 ne nomme pas l'espèce, les travaux ultérieurs (Roemer 2008, Terry 2016) portent sur M. lucida et M. macleayi ; protologue (Johnson 1959, PDF The Cycad Society) désormais lu : culture ancienne au jardin botanique de Sydney ajoutée ; date de l'évaluation UICN (27/08/2020, Crossref). Simulation puis application ; brouillon aligné.
 
 - 26/10/2026 (retouche 0 de MAC05) : orthographe du thrips vérifiée : *Cycadothrips chadwicki* Mound, 1991 (description originale, J. Nat. Hist. 25 : 647-652, p. 650, d'après ThripsWiki ; GBIF ; résumé de Terry 2001 sur OpenAlex ; titre Crossref de 2013). « chadwickii » (graphie de Jones et al. 2001) est une faute ; pages FR/IT/EN harmonisées sur « chadwicki ».
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q6 : nome del vivaista australiano (Bruce Ironmonger) tolto dalla classifica di rusticità riferita su Fous de palmiers; resta «uno specialista australiano delle cicadee». 1 sostituzione, bozza allineata, REST identico. Riferimento bibliografico Ironmonger & Ironmonger (2003) non toccato.

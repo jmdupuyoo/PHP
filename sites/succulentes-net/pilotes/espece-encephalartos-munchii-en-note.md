@@ -29,3 +29,8 @@
 
 ## Liens posés vers la fiche
 - Aucun à poser : *concinnus*, *manikensis*, *chimanimaniensis*, *cupidus* et l'index la lient déjà (balayage REST du 26/10).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q3 : le message d'Agen (janvier 2011) n'est pas utilisé pour *Encephalartos lebomboensis* : la mention du *lebomboensis* mort à −4 °C a été retirée de la phrase (le reste du retour, *altensteinii*, *munchii*, *natalensis*, est conservé). 1 remplacement, brouillon aligné, REST vérifié.

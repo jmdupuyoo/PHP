@@ -36,3 +36,5 @@ Forme ‘Tinaroo’ cultivée en pot (observation validée de la FR), reprise sa
 - Chamberlain 1912 nomme « J. H. Battey » le directeur du jardin de Brisbane (OCR douteuse) : la fiche ne le nomme pas.
 - Asmussen 2011 parle de « trois espèces » de *Bowenia* (d'après Jones 1998) : non repris.
 - Liens non vérifiables par curl (anti-robots, non contournés) : gbif.org, bie.ala.org.au, apps.lucidcentral.org (403).
+
+- BOW-T (31/10/2026) : la page liée *Bowenia* sp. ‘Tinaroo’ 17984 a été réécrite (titre « Bowenia sp. ‘Tinaroo’ ») ; lien existant conservé, aucune modification de 17976.

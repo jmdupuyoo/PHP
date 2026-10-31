@@ -26,3 +26,8 @@
 
 ## Retouches du 26/10/2026 (lot ENC13)
 - IT 27847 : 6 sostituzioni (simulation puis application, `replace_in_content`) : note de travail de l'introduction reformulée ; POWO (×2) et « Liste rouge non consultée » retirés (date Crossref 27/03/2020) ; lien cycad.org (PDF public de Lisowski & Malaisse 1971) et DOI UICN ajoutés. Page EN créée : 34805. Brouillon aligné sur le contenu en ligne (0 écart).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q5/Q32 : passi tratti dalla sola Wikipedia mantenuti, attribuiti e presentati come provvisori (« ; dati provvisori » aggiunto alle attribuzioni esistenti: descrizione e habitat (2); piante della Tanzania e incendi, prima «descrizioni secondarie», attribuiti a Wikipedia (2)). Simulazione poi applicazione, bozza allineata, REST identico.

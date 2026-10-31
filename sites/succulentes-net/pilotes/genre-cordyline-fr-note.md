@@ -62,3 +62,8 @@ Image : 17786 (Cordyline sellowiana, alt déjà renseigné en médiathèque). La
 ## Publication (30/09/2026)
 - Page publiée avec ce brouillon ; SEO (titre, meta, mot-clé) appliqué ; contrôle fetch_site_url OK (intro en tête, lien unique vers /agavoides/, première H2 « L’essentiel sur », liens internes 200).
 - JZT : seule source = légende de la photo 17783 sur la fiche 4810 (Cordyline sellowiana au JZT) ; phrase ajoutée dans « Contexte français ». Médiathèque : alt 17783 renseigné (Cordyline sellowiana) ; 4798 (Cordyline petiolaris d'après la note) non traité, hors de cette page.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q24 : mention de provenance interne « repris de la page italienne du site » retirée de l'annotation de Harris & Beever (2002), remplacée par l'objet de l'article. 1 remplacement (page 4782), brouillon aligné, REST identique.

@@ -72,3 +72,8 @@ Mentions retenues (non chiffrées) : Barcelone, cône femelle en juillet 2013, m
 - Notes de travail retirées (POWO, Liste rouge « non consultée », « consultée directement », « messages lus », « trouvée ») ; communiqué de l'université de l'Utah (connu par extrait de recherche, page en 502) retiré du texte et des sources : le résumé de Science 2007 ne nomme pas l'espèce, les travaux ultérieurs (Roemer 2008, Terry 2016) portent sur M. lucida et M. macleayi ; protologue (Johnson 1959, PDF The Cycad Society) désormais lu : culture ancienne au jardin botanique de Sydney ajoutée ; date de l'évaluation UICN (27/08/2020, Crossref). Simulation puis application ; brouillon aligné.
 
 - 26/10/2026 (retouche 0 de MAC05) : orthographe du thrips vérifiée : *Cycadothrips chadwicki* Mound, 1991 (description originale, J. Nat. Hist. 25 : 647-652, p. 650, d'après ThripsWiki ; GBIF ; résumé de Terry 2001 sur OpenAlex ; titre Crossref de 2013). « chadwickii » (graphie de Jones et al. 2001) est une faute ; pages FR/IT/EN harmonisées sur « chadwicki ».
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q6 : nom du pépiniériste australien (Bruce Ironmonger) retiré du classement de rusticité relayé sur Fous de palmiers (#p323061) ; le fait reste attribué à « un spécialiste australien des cycadales ». 1 remplacement, brouillon aligné, REST identique. La référence bibliographique Ironmonger & Ironmonger (2003, *Cycad Newsletter*, citée par WLoC), qui est une publication, n'a pas été touchée.

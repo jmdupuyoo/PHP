@@ -35,3 +35,8 @@
 
 ## Liens posés vers la fiche
 - *Macrozamia glaucophylla* 18213, *Dioon sonorense* 17917, *woodii* 16632, article 15574 (cycad care), *trispinosus* 16638 (Taxonomy), *princeps* 16620 (Conservation status) : première occurrence hors introduction, encadré, titres et sources ; simulation 6/6 puis application 6/6 ; pas de brouillon EN local. *longifolius* 16597 : lien posé par sa réécriture (ENC07).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q2 : légende de la photo 4387 → « grown at the Jardin zoologique tropical, La Londe-les-Maures (Var, south-east France). » 1 remplacement, brouillon aligné, REST identique.

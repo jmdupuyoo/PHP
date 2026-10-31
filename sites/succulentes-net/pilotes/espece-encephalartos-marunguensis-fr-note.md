@@ -61,3 +61,8 @@
 
 ## Retouches du 26/10/2026 (lot ENC13)
 - FR 26335 : 6 remplacements (simulation puis application, `replace_in_content`) : note de travail de l'introduction reformulée ; POWO (×2) et « Liste rouge non consultée » retirés (date Crossref 27/03/2020) ; lien cycad.org (PDF public de Lisowski & Malaisse 1971) et DOI UICN ajoutés. Page EN créée : 34805. Brouillon aligné sur le contenu en ligne (0 écart).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q5/Q32 : passages tirés de Wikipédia seule gardés, attribués à Wikipédia et présentés comme provisoires (« ; données provisoires » ajouté aux attributions existantes : description et habitat (2) ; plantes de Tanzanie et feux de brousse, auparavant « descriptions secondaires », attribués à Wikipédia (2)). Simulation puis application, brouillon aligné, REST identique.

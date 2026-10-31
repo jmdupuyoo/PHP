@@ -24,3 +24,8 @@ Traduzione della vecchia FR: stessi errori (vedi nota FR, 12 punti): link del ge
 
 ## Retouches du 26/10/2026 (lot EN ENC11)
 - IT 11991 (2) : POWO retiré ; « è stato trovato » → « è documentato ». Simulation puis application (replace_in_content), brouillon aligné (0 écart).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q4 : osservazione JZT convalidata : Coltivazione (pianta ricevuta nel 2014 da un vivaio francese, pratiche CITES presso la DREAL PACA) e «Esperienze in Francia» (nessun dato sul freddo). 2 sostituzioni, bozza allineata, REST identico.

@@ -61,3 +61,8 @@ Naples : 11 plantes en 1993-94 (Gaudio et al. 1997) ; delli paoli giuseppe, Trop
 
 - Retouche du 26/10/2026 (lot ENC09, page EN 16613) : « ; POWO n'a pas pu être consulté directement » (encadré) et « ; elle n'a pas pu être lue » (Viljoen & van Staden 2006) retirés (2 remplacements, simulation puis application) ; brouillon aligné (0 écart). Observation JZT inchangée (date janvier/février 2012 toujours en attente).
 - **26/10/2026 — décision du propriétaire** : l'observation JZT (−6 °C, feuilles endommagées) date de **février 2012** (et non janvier). Corrigé en ligne : FR 1866 (4), IT 11940 (3), EN 16613 (4) ; brouillon aligné.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q3 : le message d'Agen (janvier 2011) n'est pas utilisé pour *Encephalartos lebomboensis* : la mention du *lebomboensis* mort à −4 °C a été retirée de la phrase (le reste du retour, *altensteinii*, *munchii*, *natalensis*, est conservé). 1 remplacement, brouillon aligné, REST vérifié.

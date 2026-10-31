@@ -20,3 +20,8 @@ Gli stessi della vecchia FR (pendii «granitici», minacce generiche, confronto 
 
 ### Correzione mirata del 20/10/2026 (dopo natalensis)
 - replace_in_content (simulazione: 1 contenuto, 2 sostituzioni, poi applicazione): aggiunto nella sezione «Esperienze in Francia» l'insuccesso di Concarneau (Bretagna): prove di *lehmannii* e *natalensis* fallite nel 2008, piante marcite dopo l'inverno 2007-2008, tipo di coltivazione non precisato (FdP #p47668, 15/01/2009); link aggiunto nei Siti di riferimento. Bozza aggiornata, identica al testo in linea (cmp.py: 0 differenze).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q2 : didascalia della foto 4387 → «coltivato al Jardin zoologique tropical di La Londe-les-Maures (Var, Francia).» 1 sostituzione, bozza allineata, REST identico.

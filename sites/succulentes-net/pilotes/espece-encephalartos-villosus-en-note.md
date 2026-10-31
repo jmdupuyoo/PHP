@@ -27,3 +27,8 @@
 ## FR/IT (retouches du lot)
 - FR 12642 (3) : POWO retiré ; suspensions CITES « 2012-2018 » → 2012-2019 (notification 2019/027) ; annotation UICN (« non consultée directement » → Crossref/GBIF). IT 27962 (4) : POWO ; même correction CITES ; « fonti consultabili » ; annotation UICN. Simulation 3/3 + 4/4 puis application ; brouillons alignés (0 écart).
 - Compléments facultatifs FR/IT (en EN seulement) : BGCI/Montgomery, Jungle Music, détails PlantZAfrica (largeur des folioles, couleur des cônes).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q4 : observation JZT validée, ajoutée en « Container cultivation » (plante cultivée dans de la tourbe en 2014, question du rempotage). Aucune donnée de froid. 1 remplacement, brouillon aligné, REST identique.

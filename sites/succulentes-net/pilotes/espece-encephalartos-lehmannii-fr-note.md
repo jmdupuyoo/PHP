@@ -63,3 +63,8 @@ Italie : Naples 1993-94 (3 spécimens, Gaudio et al. 1997), Index Seminum 2012-1
 
 ### Correction ciblée du 20/10/2026 (après natalensis)
 - replace_in_content (simulation : 1 contenu, 2 remplacements, puis application) : la phrase « Aucun retour n'a été trouvé pour la façade atlantique ni pour l'intérieur des terres… » est remplacée par l'échec de Concarneau (Finistère) : essais de *lehmannii* et *natalensis* ratés en 2008, plantes pourries après l'hiver 2007-2008, mode de culture non précisé (FdP #p47668, concarnois, 15/01/2009 ; le même message cite −4 °C l'hiver 2007-2008 pour un *transvenosus*, non repris) ; lien #p47668 ajouté dans Sites de référence. Le message avait échappé à la première recherche (orthographe « lehmanii »). Brouillon mis à jour, identique au contenu en ligne (cmp.py : 0 écart).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q2 : photo 4387 = plante du JZT (propriétaire). Légende FR « cultivé dans un jardin du Var » → « cultivé au Jardin zoologique tropical de La Londe-les-Maures (Var). » ; légende de la médiathèque (vide) renseignée de même. 1 remplacement, brouillon aligné, REST identique. Média 4387 utilisé seulement dans FR 1362, IT 11796 et EN 16561.

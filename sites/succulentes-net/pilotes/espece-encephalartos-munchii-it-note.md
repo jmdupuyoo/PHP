@@ -46,3 +46,8 @@
 - Contrôles : texte en ligne identique au brouillon (verify2.py, liens dans le même ordre) ; « 2008-2018 » absent de la page servie ; URL 200 en curl et avec un User-Agent Chrome, `<title>` « Encephalartos munchii: cicadea del monte Zembe, Mozambico » ; hreflang fr/it/en ; aucun commentaire de bloc visible ; blocs 75/75, HTML équilibré ; 20 liens internes IT en 200. SEO et index de la page genre IT 11663 non concernés. Rien commité.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 6 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q3 : le message d'Agen (janvier 2011) n'est pas utilisé pour *Encephalartos lebomboensis* : la mention du *lebomboensis* mort à −4 °C a été retirée de la phrase (le reste du retour, *altensteinii*, *munchii*, *natalensis*, est conservé). 1 remplacement, brouillon aligné, REST vérifié.

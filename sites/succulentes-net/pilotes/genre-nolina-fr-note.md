@@ -63,3 +63,8 @@ Aucun bloc image dans la page actuelle, pas d'image mise en avant. Le paragraphe
 ## 5. Encadré « L'essentiel sur Nolina »
 - Statut IUCN : champ supprimé (niveau genre ; protections citées dans Réglementation).
 - Port et dimensions : champ supprimé (trop variable).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q24 : mention « Référence reprise de la page Dasylirion du site » retirée de l'annotation de Bogler & Simpson (1996) (fait conservé : place des nolines hors des agaves). 1 remplacement (page 1047), brouillon aligné, REST identique.

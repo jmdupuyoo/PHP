@@ -52,3 +52,8 @@
 - 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q33 : observation du JZT corrigée de −7 °C en **−6 °C, février 2012** (introduction, encadré, Rusticité, puce « Littoral méditerranéen, Var », FAQ) ; 5 remplacements, brouillon aligné, REST identique. Les −7 °C du Roussillon et la synthèse « −5/−7 °C » restent (autres retours). Meta Rank Math (« rusticité en France (−7 °C) ») non modifiée : elle ne cite pas le JZT et reste exacte pour le Roussillon. L'article de blog 339 (« Culture de Cycas taitungensis ») dit encore « – 7 °C » : non modifié (hors consigne).

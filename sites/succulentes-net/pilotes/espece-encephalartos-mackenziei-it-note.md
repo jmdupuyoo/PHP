@@ -27,3 +27,8 @@
 
 ## Retouches du 26/10/2026 (lot ENC13)
 - IT 27845 : 8 sostituzioni (simulation puis application, `replace_in_content`) : évaluation UICN 2024 (Bösenberg, 04/03/2020, Liste rouge 2024-1) présentée comme en vigueur, 2010 gardée comme historique ; POWO (×2) et « Liste rouge non consultée » retirés. Page EN créée : 34798. Brouillon aligné sur le contenu en ligne (0 écart).
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q5/Q32 : passi tratti dalla sola Wikipedia mantenuti, attribuiti e presentati come provvisori (« ; dati provvisori » aggiunto alle attribuzioni esistenti: descrizione e altitudine (2)). Simulazione poi applicazione, bozza allineata, REST identico.

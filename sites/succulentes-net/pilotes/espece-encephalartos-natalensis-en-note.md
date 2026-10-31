@@ -33,3 +33,8 @@
 - FR 1866 (2) : « ; POWO n'a pas pu être consulté directement » (encadré) retiré ; « ; elle n'a pas pu être lue » (Viljoen & van Staden 2006) retiré. IT 11940 (3) : mêmes corrections (« POWO non ha potuto… », « non è stato possibile leggerlo ») et « è stato trovato » → « è documentato ». Laissé : « la Liste rouge elle-même n'a pas pu être consultée directement » (explique l'origine du statut). Simulation 5/5 puis application 5/5, brouillons alignés (0 écart ; l'écart IT préexistant de guillemets « pianta… mondo » est un rendu WordPress).
 - Compléments facultatifs FR/IT (en EN seulement) : Tresco 2026, Cambridge 2013, BGCI UK/US/AU, Montgomery, Jungle Music.
 - **26/10/2026 — décision du propriétaire** : l'observation JZT (−6 °C, feuilles endommagées) date de **février 2012** (et non janvier). Corrigé en ligne : FR 1866 (4), IT 11940 (3), EN 16613 (4) ; brouillon aligné.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q3 : le message d'Agen (janvier 2011) n'est pas utilisé pour *Encephalartos lebomboensis* : la mention du *lebomboensis* mort à −4 °C a été retirée de la phrase (le reste du retour, *altensteinii*, *munchii*, *natalensis*, est conservé). 1 remplacement, brouillon aligné, REST vérifié.

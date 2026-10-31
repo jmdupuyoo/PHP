@@ -32,3 +32,8 @@
 - Liens externes vérifiés le 11/10/2026 : tous en 200 sauf PalmTalk (403, Cloudflare, non contourné) et archive.unews.utah.edu (502), déjà signalés en FR.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+
+## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
+
+- Q6 : nome del vivaista australiano (Bruce Ironmonger) tolto dalla classifica di rusticità riferita su Fous de palmiers; resta «uno specialista australiano delle cicadee». 1 sostituzione, bozza allineata, REST identico. Riferimento bibliografico Ironmonger & Ironmonger (2003) non toccato.
