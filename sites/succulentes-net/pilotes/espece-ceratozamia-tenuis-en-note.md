@@ -1,0 +1,14 @@
+# Note — *Ceratozamia tenuis* (EN), lot CER08 (30/10/2026)
+
+- Page : https://succulentes.net/en/cycads/ceratozamia/tenuis/ — id **35866**, fiche C, titre « Ceratozamia tenuis », slug `tenuis`, parent 16307, langue en, `translation_of` FR 26397. Groupe fr 26397 / it 27504 / en 35866.
+- Avant création : aucune page EN (list_content en, tous statuts ; corbeille 0 ; URL en 404).
+- Contrôles : URL 200 ; `<title>` = titre SEO ; hreflang fr/it/en ; texte identique au brouillon (cmp.py) ; aucun « » ni guillemet droit ; aucune note de travail ; toxicité au format imposé ; liens internes en 200.
+- Liens : genre 16307 ; *mexicana* 35711 (How to recognise, première occurrence hors intro et encadré), *morettii* 35759, *brevifrons* 35555, *kuesteriana* 35677, genre *Zamia* (Confusions). Further reading : semis, arrosage, toxicité. Aucune image.
+- Index 16307 : ligne liée et altitude corrigée 1 850 → 1 920 m (monographie 2022 relue : « 1,200–1,920 m ») ; simulation puis application, 1 remplacement ; brouillon genre aligné. FR 9866 / IT 12127 gardent « 1 850 m » (hors lot).
+- SEO Rank Math : « Ceratozamia tenuis: Fine-Leaved Cycad of Central Veracruz » (57) ; meta 154 ; mot-clé `Ceratozamia tenuis`.
+- Longueur : ≈ 3 320 mots (Rank Math).
+- Sources : monographie 2022 relue (texte local : description, 1 200-1 920 m, sols volcaniques à basalte, municipalités des spécimens dont Tlacolulan, noms communs, usage insecticide, statut « non évalué » et EN A1acd; B1ab(iii) proposé, synonymes dont var. *vulgaris*, épitype Vovides 18 de 1976 à Jilotepec) ; Vovides et al. 2016 relu (texte local : El Mirador / El Esquilón, Totutla au nord-est de Huatusco, 11 caractères anatomiques, Stevenson 1999, lectotype de Kew 1881, folioles 1,3-1,8 cm, jeunes folioles vert clair, 2n = 16) ; WLoC 793 relue (EN A2c; B1ab(i,ii,iii), synonymes nomenclaturaux, étymologie) ; WCVP via GBIF 207874414 (Bot. Sci. 94 : 425, « Mexico Gulf », synonymes var. et f. *tenuis*) ; GBIF Liste rouge (ENDANGERED) ; DOI UICN vérifié sur Crossref ; Species+ (absent sous ce nom) ; BGCI 23136 (Fairchild, Miami Beach BG, Montgomery, Huntington, UC Berkeley, Clavijero, Marimurtra, Chine) ; Montgomery BG-BASE (1 accession) ; FR 26397 / IT 27504 (Gómez-Díaz 2024, Gómez Díaz 2025, Santiago-Jiménez 2019, Medina-Villarreal 2025, Habib 2023).
+- Divergences exposées : couleur des jeunes feuilles (Vovides 2016 / Martínez-Domínguez 2018, 2022) ; statut UICN (évaluation 2022 / monographie : « non évalué », EN proposé sous d'autres critères).
+- Localités : EN limitée aux municipalités (Totutla, Jilotepec, Coacoatzintla, etc.) ; El Mirador, El Esquilón et Tlachinola non nommés.
+- Forum Fous de palmiers (message de septembre 2016 cité en FR/IT) : non repris (site en 503 le 30/10, opinion non vérifiable).
+- JZT : aucune observation publiée.

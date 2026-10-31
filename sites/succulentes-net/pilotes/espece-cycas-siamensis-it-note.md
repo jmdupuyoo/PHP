@@ -1,0 +1,58 @@
+# Note — *Cycas siamensis* (IT) (13/10/2026)
+
+- Page : https://succulentes.net/it/piante/cycadales/cycas/siamensis/ — id **28898**, parent 11549, langue it, `translation_of` FR 22080. Publiée par `create_content` (publish), slug `siamensis`, titre « Cycas siamensis ».
+- Reprise : aucune page IT avant (API REST slug : FR 22080 et EN 16409 seules ; `list_content` it, status any, « siamensis » : 22 fiches qui la citent + page genre ; URL IT 404 avant création) ; synonymes (*immersa*, *Epicycas siamensis*, *aurea*) : aucune page IT ; aucune redirection ; aucun brouillon IT ni FR local antérieur. Groupe Polylang après création : fr + en (16409, conservée) + it (get_content FR avant : translations = en 16409 ; hreflang de la FR après : fr, it, en).
+- Images : la FR n'en a aucune (pas d'image mise en avant).
+- Interruption (redémarrage du conteneur) après publication, SEO et lien d'index : reprise le 13/10 ; brouillon revérifié (verify.py 0 bloc manquant), SEO revérifié (get_seo), brouillon genre aligné ensuite.
+
+## Sources (FR ancienne, 30/05/2026, peu sourcée : faits revérifiés un à un)
+- FR 22080 lue par get_content le 13/10/2026.
+- WLoC 213 (13/10) : Bot. Zeitung 21 : 334 (1863), article « Ueber eine neue Cycas aus Siam » (p. 333-334) ; type Teijsmann s.n., Kanchanaburi, mars 1862, HT U ; répartition (Cambodge, Laos Champasak/Saravan, Myanmar, 12 provinces thaïes, Vietnam Dac Lak/Gia Lai/Kon Tum/Nghe An/« Tha… » tronqué sur le site) ; VU A2cd+4cd ; synonyme taxonomique *immersa* ; synonymes nomenclaturaux subsp. *siamensis*, *Epicycas siamensis* ; 10 références (Nguyen 2010, Hill et al. 2004 p. 180-182, Hill & Yang 1999 p. 53-55, de Laubenfels & Adema 1998 p. 393, Tang & Yang 1995, Masters 1878, Regel 1876, Miquel 1868, Miquel 1863).
+- De Laubenfels & Adema 1998 (*Blumea* 43, texte local `scratchpad/cyq/blumea-0006-5196-43-351-400.txt`, p. 393-394 et 378) : description d'*Epicycas siamensis*, isotype L, répartition, habitat (forêt sèche décidue, sols pauvres, jusqu'à 1200 m), différences avec *pectinata*, confusion Smitinand/Leandri.
+- Hill 2008 : section *Indosinenses* (lectotype *siamensis*, fide Hill & Yang 1998), nom appliqué à tort à *collina* (Cheng et al. 1975), *balansae* ex-subsp. de *siamensis* (Schuster 1932).
+- Flora of China (*Cycas miquelii*, eFloras 210000344) : plantes chinoises identifiées à tort comme *siamensis*.
+- DOA Thaïlande 2019 (NDF *Cycas*, texte local `scratchpad/itcy5/doa499.txt`) : nom ปรงนา ; plaines de presque toutes les régions sauf le sud ; espèce thaïe la moins à risque (large répartition, nombreuses plantes en aires protégées, forêts communautaires, terres privées) ; export autorisé (avec *chamaoensis*) : plantes artificielles et sauvages issues de terres privées seulement ; protection par la loi de 1975 (reprise de la fiche IT *chamaoensis*).
+- Species+ 17514 (API, 13/10) : II, UE B ; synonymes *aurea*, *immersa*, *Epicycas siamensis* ; pays : Cambodge, **Chine**, Laos, **Malaisie**, Myanmar, Thaïlande, Viet Nam (divergence avec WLoC exposée). *inermis* : Species+ 23474 garde « Cycas siamensis inermis » en synonyme ; *balansae* 25061 : « Cycas siamensis balansae ».
+- UICN : Nguyen 2010 (VU, via WLoC/Crossref) ; Bösenberg 2020 publiée 2023-1 (Crossref) ; VU confirmée par l'API GBIF (13/10).
+
+## Affirmations FR écartées ou corrigées (à reporter en FR ; ajoutées à `pilotes/cycadales-a-verifier.md`)
+- **Erreur** : « *Cycas pectinata*, espèce type de la section *Indosinenses* » → c'est *C. siamensis* qui est le lectotype de la section (Hill 2008).
+- « Sclérotesta fibreux et lisse » → couche fibreuse dans la sarcotesta (Hill 2008).
+- Synonymes *baguanheensis*, *boddamii*, *intermedia* : absents de WLoC et de Species+ → non repris (« altri nomi citati in rete non verificati »).
+- « Feuillage vert grisâtre à bleuté » non sourcé (de Laubenfels : vert, plus pâle dessous) ; « savanes boisées, forêts de diptérocarpacées, feux de brousse » non sourcés ; perte des feuilles en saison sèche en nature non sourcée (seulement des observations de culture, FDP).
+- Culture (plein soleil, sol sableux, cycle sec/humide), pollinisation manuelle, ravageurs génériques, USDA 9b-11, « brefs épisodes proches de 0 °C » : non sourcés → écartés.
+- Usages médicinaux et amidon : non sourcés → écartés.
+- Bibliographie FR : Bösenberg 2023 = évaluation de 2020 publiée en 2023-1 ; référence Nguyen 2010 ajoutée.
+
+## Forums et retours de culture
+- **Tropicamente** (« siamensis », 13/10/2026) : un seul fil, report de dégâts de froid du Leu Gardens (Floride) reposté (2010-2011) ; les « siamensis » y sont *Calamus*, *Wallichia*, *Cassia* : aucun message sur la cicadée.
+- **Fous de palmiers** (« siamensis », 112 résultats, filtrés) : retenus, anonymisés : cultivateur de Pologne (germoir aquarium chauffé 30-32 °C, semis début sept. 2007, 8/10 levées à deux mois, 9/10 en janv. 2008, p=11544, 11845, 13533, 18003) ; même cultivateur, perte des feuilles en hiver (p=76843, janv. 2010 ; p=224090, nov. 2012) ; collectionneur (Ain/Hérault, en serre) : semis qui flushent en hiver (p=76851, 2010), port des feuilles (p=207480, 2012), plante à ~20 rejets (p=194659, 2012), « Silver » vendu en bulbes sans feuilles sur eBay Thaïlande (p=76971/76977, 2010) ; plante achetée comme « siam » probablement d'une autre section (t=12839, 2012, cultivateur du Var). Écartés : p=31133 (*Musa siamensis*, pas la cicadée) ; posts de La Londe (JMDUPUYOO) : aucun retenu. Aucun relevé de température ni essai en pleine terre.
+- JZT : aucune observation publiée. Jardins botaniques italiens : absente de `cycadales-jardins-botaniques-italie.md`.
+
+## Article Simon Lavaud (consigne)
+- L'article IT 16534 cite *C. siamensis* « Silver » (forme argentée, croissance très lente sur ses racines en Europe, greffe réussie sur *revoluta*, en pot et sous abri) : lien placé **uniquement** dans « Leggi anche », avec une phrase qui ne reprend que ce que dit l'article. L'article lui-même (16534) cite *siamensis* sans lien : non modifié, la « passe Lavaud » (liens depuis les articles) étant prévue à la fin des lots Cycas IT (`pilotes/cycadales-a-verifier.md`).
+
+## SEO, liens, contrôles
+- SEO Rank Math : titre « Cycas siamensis: la cicadea a bulbo del Siam e dell'Indocina » (60 car.) ; meta 154 car. ; mot-clé `Cycas siamensis`. Analyse : 3 276 mots, 18 liens internes, aucun problème.
+- Liens internes (IT, 200) : genre (intro), *revoluta*, *pectinata*, *lindstromii*, *elephantipes*, *pachypoda*, *collina*, *sexseminifera* 28889, *pruinosa*, *ferruginea*, *micholitzii* (ajouté à la reprise par replace_in_content ciblé, dry run puis application), *balansae*, *inermis*, *chamaoensis*, *beddomei*, *media* ; « Leggi anche » : Lavaud 16534, semina, tossicità (19 liens).
+- Brouillon identique au contenu en ligne (verify.py : 0 bloc manquant, 19 liens après ajout du lien *micholitzii*) ; URL 200 ; aucun commentaire visible ; blocs 105/105 ; aucun lien FR.
+- Liens externes le 13/10/2026 : cycadlist 213, Species+, eFloras, API GBIF, FDP, Tropicamente, ASPCA, DOA (200 sans user-agent navigateur) → 200 ; EUR-Lex IT → 202.
+- Index de la page genre 11549 : entrée liée (dry run puis application) ; brouillon genre aligné (verify.py 0 bloc manquant, 113 liens).
+- Liens entrants **posés en fin de lot** (13/10, dry run puis application, brouillons alignés, verify.py 0 bloc manquant) dans 17 fiches : sexseminifera, pruinosa, pranburiensis, pectinata, pachypoda, lindstromii, laotica, inermis, ferruginea, elephantipes, dolichophylla, divyadarshanii, condaoensis, collina, clivicola, chamaoensis, balansae ; les mentions situées seulement dans « Leggi anche » — semota, scratchleyana, papuana, orientis, maconochiei, lane-poolei, furfuracea — ne sont pas liées, comme *couttsiana* dans ces mêmes phrases).
+
+## Points douteux
+- Hill & Yang 1999 et Hill et al. 2004 (descriptions de référence) non lus : description tirée de de Laubenfels & Adema 1998, au concept parfois large.
+- Origine et identité de « Silver » non documentées ; présence en Chine et en Malaisie (Species+) contredite par WLoC/Hill 2008.
+
+## Correzione del 18/10/2026 (lot IC6)
+- Corrections ciblées (replace_in_content sur 28898 : simulation 11/11 puis application 11/11) d'après la FR 22080 réécrite le 13/10 (lot C6) et sa note (« À signaler pour l'IT »).
+- Sources relues ce jour : PROSEA via Pl@ntUse (200 ; noms vernaculaires Cambodge/Laos/Thaïlande/Vietnam, « northern Peninsular Malaysia », usages « similar to the uses of C. rumphii », catégorie « Fruits and nuts (PROSEA) ») ; Fous de palmiers : t=12839 p=207475-207508 (29/08/2012 : plante achetée comme « siam » par un cultivateur du Var, que le collectionneur rapproche de *ferruginea* et place vraisemblablement dans la section *Stangerioides*), t=6476 p=80677 (26/01/2010 : « Silver » non rattaché avec certitude à *siamensis*, graines presque moitié moins grosses, feuilles différentes), t=6736 p=83019 (17/02/2010 : *siamensis* vendus sous les noms *pruinosa* et *calcicola*), t=14798 p=244693 (14/02/2013 : bulbes sans feuilles importés de Thaïlande trop secs, difficiles à faire repartir), p=325361 (07/04/2014 : trois plantes vendues comme *siamensis*, espèce vietnamienne de la section *Stangerioides*), p=233610 (27/12/2012 : *siamensis* perdu, Côte Bleue, sans précision ; message d'un autre membre dans un fil ouvert par JMDUPUYOO, comme en FR).
+- Erreur corrigée : l'IT disait que des *siamensis* avaient été vendus sous le nom de *ferruginea* ; le message de 2012 dit l'inverse (plante achetée comme *siamensis*, rapprochée de *ferruginea*) ; le message de 2010 cite *pruinosa* et *calcicola* (Possibili confusioni, lien *calcicola* ajouté).
+- Ajouts : noms PROSEA (encadré, Nomi comuni), nord de la péninsule malaise (In natura), usages « simili a quelli di *Cycas rumphii* » (Usi tradizionali, lien *rumphii* ; remplace « nessun uso documentato »), doute sur « Silver » (Ibridi, FAQ), bulbes importés trop secs (Coltivazione), perte d'une plante sur la Côte Bleue (Rusticità, sud de la France), cas de 2014 (Possibili confusioni) ; Fonti : PROSEA, liste des fils FDP complétée.
+- Rien retiré. Statut inchangé (VU ; Nguyen 2010, Bösenberg 2020 publiée en 2023-1). Espèce type de la section *Indosinenses* = *siamensis* : déjà correct dans l'IT. Toxicité inchangée (cicasina → metilazossimetanolo, BMAA).
+- SEO inchangé (titre et meta toujours exacts). Index genre IT 11549 : « (VU, valutazione 2020, pubblicata nel 2023) » → « (VU, 2023) » (format du lot, comme l'index FR 1256 ; simulation 1 puis application 1), brouillon genre aligné (verify.py identique, 130 liens).
+- Contrôles : verify.py (texte identique, 21 liens internes en 200, blocs 106/106, hreflang fr/it/en, aucun commentaire visible) ; User-Agent curl et Chrome : 200, `<title>` « Cycas siamensis: la cicadea a bulbo del Siam e dell'Indocina », nouveau texte servi.
+
+## Ritocco del 24/10/2026 (0d prima di CYC25)
+- Menzioni dell’articolo Lavaud ricalibrate sull’articolo (IT 16534 / FR 16529 / EN 16530, riletti il 24/10/2026): piante innestate proposte = *couttsiana*, *siamensis* «Silver», *cairnsiana*, *arnhemica*, *candida*; «cinque volte più veloce» attribuito a Lavaud (schede di vendita, confronto non pubblicato); «sperimentato più a lungo», «candidati a futuri innesti», «innesto riuscito», «caudice in due o tre anni invece di un decennio» ritirati (assenti dall’articolo); protocollo di innesto non pubblicato.
+- replace_in_content: simulazione poi applicazione, 1 sostituzione/i; bozza allineata.

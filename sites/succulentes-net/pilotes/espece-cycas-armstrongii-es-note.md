@@ -1,0 +1,23 @@
+# Note — *Cycas armstrongii* (ES 37307), https://succulentes.net/es/orden-cycadales/cycas/armstrongii/
+
+## Création du 31/10/2026 (lot CYC-ES06, 3/5, mode C)
+- Avant création : aucune page ES (list_content « armstrongii » statut any et corbeille ; URL ES en 404).
+- create_content : page, publish, langue es, parent 23432, slug `armstrongii`, titre « Cycas armstrongii », translation_of FR 21562 → id **37307**. Hreflang vérifiés sur les quatre langues (fr 21562, it 28466, en 16432, es 37307). Aucune image.
+- Brouillon `pilotes/espece-cycas-armstrongii-es.html` identique au texte en ligne (verify.py : texte identique hors sommaire, 7 liens internes même séquence). ≈ 4 500 mots (Rank Math).
+- SEO Rank Math : « Cycas armstrongii: la cícada caducifolia de Darwin » (50) ; meta 147 ; mot-clé « Cycas armstrongii » ; aucun problème ; `<title>` vérifié.
+- Base : EN 16432 (19/10/2026, liens ajoutés jusqu'au 24/10) et FR 21562 (13/10, retouches 18 et 21/10) et leurs notes (Hill 1996, Flora of Australia, de Laubenfels & Adema 1998, Clugston et al. 2026, Bösenberg 2022 + correction 2023, ANBG biographie Armstrong, PACSOA/Butt 1990, RBG Sydney taxon-858, Montgomery, BGCI, note Cycadales.eu 2021, Fous de palmiers t=21346). Brouillons EN/FR identiques aux pages en ligne.
+- Revérifié le 31/10/2026 : GBIF 2683214 → VU ; Species+ 29593 (CITES II, UE B ; distribution Australie).
+- Notes de travail EN non reprises : « POWO could not be consulted directly », « The Red List itself could not be consulted directly », « this could not be checked at the source » (Cobourg, Dixon 2004 : reformulé en divergence avec Hill 1996 / Flora of Australia), « but that is our own inference » (dates de John Armstrong : première personne et inférence retirées, divergence exposée seule), annotations « not consulted directly », « full text / abstract consulted », « page not consulted (access blocked) ».
+- Pépiniériste nommé (Simon Lavaud, Cycadales.eu) : anonymisé (« un viverista francés especializado » ; source « Vivero especializado francés (2021) », URL conservée). Article de blog ES 36xxx « injerto-cicadas-cycas-revoluta-metodo-lavaud » non proposé en « Lee también » (ne cite pas l'espèce, titre nommant le pépiniériste). °F supprimés.
+- Cadre international : Rusticité par types de climat (méditerranéen/tempéré : aucun résultat ; tropical/subtropical : Darwin, Floride, Hawaï, Sunshine Coast d'après la note du pépiniériste). Ajout « litoral mediterráneo de España » dans la déduction sur les climats à pluies d'hiver (déduction signalée comme telle, comme l'EN). JZT : rien de publié.
+- Noms communs : aucun nom espagnol ; *fire fern* (anglais, PACSOA/Butt 1990, étiquette RBG Sydney), traduit littéralement entre guillemets comme glose, pas comme nom espagnol.
+- Liens internes ES (200) : genre (intro seule), *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : arrosage 23175, guide de culture 23142, semis 23153. Sans page ES (non liés) : *conferta*, *maconochiei*, *calcicola*, *media*, *orientis*, *canalis*, *lane-poolei*, *xipholepis*, *papuana*, *angulata* (lot CYC-ES05 : à lier quand la page existera) ; *arnhemica* : lien posé après sa création (même lot).
+- Index de la page genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon `genre-cycas-es.html` aligné.
+- Liens entrants : aucune autre page ES ne cite l'espèce (recherche pages et articles ES).
+- Forums ES (InfoJardín, Club de Palmeras) : rien de connu sur l'espèce.
+- Points douteux (repris de l'EN/FR) : holotype K ou U ; présence à Cobourg (Dixon 2004 non lu) ; dates de John Armstrong ; année Montgomery déduite du numéro 96290.
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Simon Lavaud (1re mention au format de la question 35, « Los consejos generales de Simon Lavaud », FAQ « Simon Lavaud, viverista especializado en cícadas » ; « el viverista citado » conservé ; source au format Simon Lavaud / Cycadales.eu (https://cycadales.eu/)).
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01 ; lien vers l'article ES 23244 (méthode Simon Lavaud) ajouté.
+- replace_in_content simulé (5) puis appliqué (5) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

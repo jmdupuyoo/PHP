@@ -1,0 +1,21 @@
+# Note — *Cycas campestris* (ES 37368), https://succulentes.net/es/orden-cycadales/cycas/campestris/
+
+## Création du 31/10/2026 (lot CYC-ES08, 4/5, mode C)
+- Avant création : aucune page ES (list_content es « Cycas », statut any ; corbeille vide ; URL ES en 404, pas de redirection ; le slug `campestris` existe ailleurs : *Trithrinax* FR 4517, *Yucca* EN 17273, sans conflit).
+- create_content : page, publish, langue es, parent 23432, slug `campestris`, titre « Cycas campestris », translation_of FR 26628 → id **37368**. Hreflang vérifiés : fr 26628, it 28502, en 30201, es 37368. Aucune image.
+- Brouillon `pilotes/espece-cycas-campestris-es.html` identique au texte en ligne (verify.py : texte identique hors sommaire, 6 liens même séquence). ≈ 2 870 mots (Rank Math).
+- SEO Rank Math : « Cycas campestris: la cícada de sabana de Port Moresby » (53) ; meta 153 ; mot-clé « Cycas campestris » ; aucun problème ; `<title>` vérifié.
+- Base : **EN 30201** (21/10/2026, liens jusqu'au 24/10), rédigée sur les étiquettes d'herbier GBIF (type Jacobs & Conn 5950 ; White 1918, Brass 1925, Carr 1935, Batten Pooll 1940, Hoogland 1955, Womersley & Simmonds 1955, Darbyshire 1962, Schodde 1962, Streimann 1969, Wiakabu 1977), de Laubenfels & Adema 1998, Crossref (résumé de Hill 1994), Bösenberg 2022 et version corrigée 2023, Hill 2010, Montgomery, BGCI. La FR 26628 (03/10) repose pour la description sur Wikipédia EN (d'après les Cycad Pages) : ces chiffres ne sont repris que comme divergence (« cifras que circulan en internet », contredites par le cône du type), comme l'EN.
+- Revérifié le 31/10/2026 : GBIF 2683233 → NT (iucnTaxonID 42072) ; Species+ 26540 (API) : annexe II, UE B, Papua New Guinea.
+- Notes de travail EN non reprises : « As the original description could not be consulted, this page relies largely on herbarium labels » (intro), « could not be consulted, the publisher's site being closed to automated access », « could not be read in the original text », « they could not be checked against his text », « the detail of the threats could not be checked, as the Red List could not be consulted » (→ « las fuentes citadas no detallan las amenazas »), « POWO could not be consulted », « According to the abstract » (→ « En ese artículo »), annotations « abstract read through Crossref, full text not consulted / page not consulted ». Mesures impériales (ft, in) supprimées, métriques gardées.
+- Cadre international : aucune donnée de culture ni de froid ; Rusticidad par types de climat (méditerranéen/tempéré : FdP et Tropicamente ne renvoient qu'à *Trithrinax campestris* ; tropical : Floride, Queensland tropical). JZT : rien de publié. Aucun pépiniériste cité.
+- Noms communs : aucun nom espagnol ni anglais ; noms locaux d'étiquettes « Atolo » (Kanosia, 1935) et « Wakoro » (matapaili, 1962). Usage alimentaire (étiquette de 1962) avec mise en garde.
+- Liens internes ES (200) : genre (intro), *beddomei* 24555, *revoluta* 24488 (Toxicidad), article *Aulacaspis* 23246 ; « Lee también » : semis 23153, guide 23142 (aucun article proche de plus). Sans page ES (non liés) : *media*, *papuana*, *schumanniana*.
+- Index de la page genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon `genre-cycas-es.html` aligné.
+- Liens entrants : aucune autre page ES ne cite l'espèce (recherche pages et articles ES).
+- Points douteux (repris de l'EN) : concept de l'espèce (Hill 1994 contre de Laubenfels & Adema 1998) ; déterminations des spécimens anciens non revérifiées ; description de Hill 1994 connue par son résumé.
+- FR/IT 26628 / 28502 : description fondée sur Wikipédia (Cycad Pages) à reprendre d'après les étiquettes, comme signalé en phase EN (hors lot, non modifiées).
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
+- replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

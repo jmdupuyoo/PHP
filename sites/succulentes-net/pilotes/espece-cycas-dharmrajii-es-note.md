@@ -1,0 +1,16 @@
+# Note — *Cycas dharmrajii* (ES 37755), https://succulentes.net/es/orden-cycadales/cycas/dharmrajii/
+
+## Création du 31/10/2026 (lot CYC-ES11, mode C)
+- Avant création : aucune page ES (list_content es, statut any ; corbeille vide ; REST slug `dharmrajii` : FR 26651, IT 28567, EN 30369 seulement ; /es/orden-cycadales/cycas/dharmrajii/ en 404, pas de redirection).
+- create_content : page, publish, langue es, parent 23432, slug `dharmrajii`, titre « Cycas dharmrajii », translation_of FR 26651 → id **37755**. Hreflang vérifiés : fr 26651, it 28567, en 30369, es 37755. Aucune image (ni en FR/EN/IT).
+- Brouillon `pilotes/espece-cycas-dharmrajii-es.html` identique au texte en ligne (verify.py : texte identique hors sommaire, 8 liens internes même séquence) ; ≈ 2 930 mots (Rank Math). DSL scratchpad es11/dharmrajii.dsl.
+- SEO Rank Math : « Cycas dharmrajii: la gran cícada de las islas Andamán » (53) ; meta 145 ; mot-clé « Cycas dharmrajii » ; aucun problème ; `<title>` vérifié.
+- Index genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon `genre-cycas-es.html` aligné.
+- Base : EN 30369 (21/10, balayage EN-3 du 31/10) et FR 26651 et leurs notes (WLoC 812, résumé du protologue Singh 2017 via eFlora of India, Singh & Misra 2020 (résumé Crossref), Srivastava & Singh 2015, Lindström & Hill 2007, Crossref Singh 2022 (*sainathii* s.l.), Purti et al. 2022, GKToday 2017, BGCI).
+- Revérifié le 31/10/2026 : GBIF 10388039 → synonyme de *Cycas sainathii*, VU (jeu Liste rouge) ; WCVP 206945092 accepté ; Species+ (auto-complétion) : nom absent.
+- Notes de travail EN non reprises (encore en ligne dans l'EN 30369 malgré le balayage) : « measurements not consulted » (encadré), « The detailed measurements … could not be consulted (paywalled): they are therefore not repeated here », « The keys … could not be read », « Only the abstract of that paper could be read … says nothing about *Cycas dharmrajii*, so the arguments for its reinstatement cannot be set out here », « The criteria and threats used could not be read, as the Red List itself could not be consulted », « its category could not be read (paywalled article) », « No report from a private grower … could be read ». Reformulé en ES par des mentions d'absence de données (« medidas no documentadas », « ningún otro carácter distintivo se ha documentado en las fuentes utilizadas aquí ») ; la rehabilitation est attribuée à WLoC.
+- « Lee también » : semis 23153, arrosage 23175, toxicité 23195.
+- Liens internes ES (200) : genre, *andamanica* 37304, *beddomei* 24555, *revoluta* 24488, *Aulacaspis* 23246. Sans page ES : *zeylanica*, *pschannae*, *sphaerica*.
+- Liens entrants (simulation 1 / application 1, brouillon aligné) : *andamanica* 37304 (section « Una cuestión de nomenclatura », signalé lors de CYC-ES05).
+- Points douteux (repris EN/FR) : statut NE (WLoC) contre VU 2022 sous *sainathii* s.l. (Liste rouge via GBIF) ; dimensions, habitat et catégorie proposée par le protologue non documentés ; arguments du rétablissement (Singh & Misra 2020) non exposés.
+- Cadre international ; JZT : rien de publié. Aucun nom espagnol attesté. Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026 sans résultat.

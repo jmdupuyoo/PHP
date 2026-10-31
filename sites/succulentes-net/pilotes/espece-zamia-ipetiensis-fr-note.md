@@ -1,0 +1,69 @@
+# Note de livraison — *Zamia ipetiensis* (FR)
+
+Brouillon : `pilotes/espece-zamia-ipetiensis-fr.html` (blocs Gutenberg contrôlés par script : blocs appariés, balises équilibrées, aucun lien EN/IT/ES, aucune image, aucun utm_source). Longueur : 2328 mots au total, 1902 avant « Sites de référence ».
+
+## Publication
+
+- Titre : Zamia ipetiensis (aucun nom français attesté)
+- Slug : ipetiensis
+- Parent : 3963 (page genre FR *Zamia*)
+- translation_of : aucune traduction (aucune fiche dans une autre langue)
+- URL attendue : https://succulentes.net/cycadales/zamia/ipetiensis/
+- Titre SEO (47 car.) : Zamia ipetiensis : la cycadale d'Ipetí (Panama)
+- Meta (144 car.) : Zamia ipetiensis, cycadale de l'est du Panama décrite en 1993 : identification, débat avec Zamia cunaria, statut UICN en danger, CITES, culture.
+- Mot-clé : Zamia ipetiensis
+
+## Sources
+
+- Calonje, López-Gallego & Castro 2018 (Phytotaxa 385(2) : 85-93), texte intégral : tableau comparatif et clé, traitement commun cunaria/ipetiensis.
+- Protologue Stevenson 1993 (Brittonia 45) : non consulté (payant).
+- Wikipédia EN (localisation, « deux sous-populations », d'après l'UICN) : non vérifié, signalé.
+- Vannini 2024 (Exotica Esoterica) : avis de collectionneur.
+- The World List of Cycads (cycadlist.org, version 2026.08.15) : page espèce et export XLSX lus directement (auteurs, protologue, type, répartition, statut UICN 2022 et critères, étymologie, synonymes).
+- Species+ (API JSON) interrogée le 03/10/2026 : annexe II CITES (genre, 04/02/1977, annotation #4), annexe B UE (règlement (UE) 2026/1383).
+- Crossref : DOI des évaluations UICN et des articles vérifiés (pages de la Liste rouge non consultées, accès bloqué).
+- POWO, UICN, PalmTalk, cites.org, Biodiversity Heritage Library (Cloudflare) : non consultés, rien n'a été contourné. Protologues anciens (BHL) non lus.
+- Forum des Fous de palmiers (recherche phpBB par épithète + corpus « zamia » déjà téléchargé pour la page genre) et Tropicamente (recherche par épithète) : voir Retours.
+- Sources asiatiques : seul lien trouvé, l'affiliation de A.J. Lindström (Nong Nooch, Thaïlande) pour Zamia incognita ; aucune donnée japonaise ou chinoise sur ces espèces.
+
+## Fiche EN
+
+- Aucune fiche EN (aucune traduction) : rien à corriger.
+
+## Retours de culture
+
+- Contexte : commande groupée de graines sur FdP en 2010 (https://www.fousdepalmiers.fr/html/forum/viewtopic.php?t=7990), sans résultat de culture.
+- Aucun retour de froid.
+
+### Écartés
+
+- Vannini : « relic TRF on the Caribbean coast » non repris (contredit la répartition WLoC Panamá/Kuna Yala).
+
+### La Londe-les-Maures
+
+- Aucun message de La Londe trouvé pour cette espèce.
+
+## Points à valider par le propriétaire
+
+- Calonje et al. 2018 traitent Z. cunaria et Z. ipetiensis ensemble ; WLoC garde les deux. À surveiller.
+- 10/10/2026 : Brittonia 45(1) (Stevenson 1993, pp. 7-9) lu en texte intégral (copie de The Cycad Society, scan OCR ; citée par sa référence d'origine) : tige, cataphylles, feuilles (0,5-1,5 m, 3-12 paires), folioles médianes 20-40 × 5-8 cm, cônes mâles, habitat (100-500 m, forêt humide primaire et secondaire), type dans la province de Panamá, clé face à Z. cunaria, espèces sœurs par vicariance (lien Z. muricata ajouté) ; Calonje et al. 2010 ajouté (feuilles 1,7 m au plus).
+- Écarts signalés dans la fiche : cônes femelles et graines de la description anglaise copiés de Z. cunaria (15-20 cm, graines roses) alors que la clé donne des cônes femelles de 10 cm au plus et la diagnose latine des cônes brun roux foncé et des graines rouges ; folioles médianes 20-40 × 5-8 cm (1993) / 22-49,7 × 3,5-7 cm (2018) ; 3-12 paires (1993) / 4-32 folioles (2018).
+- Étymologie : le protologue place le type dans la province de Panamá, sans localité (WLoC/Haynes : Ipetí, Darién) ; écart conservé dans la fiche.
+- Étymologie : WLoC/Haynes situent Ipetí dans le Darién, la répartition WLoC dit Panamá et Kuna Yala ; la fiche signale l'écart.
+- Deux DOI UICN 2022 pour l'espèce (A69839117 et version amendée A243405877).
+- POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
+- Liens internes du corps : posés seulement vers des fiches *Zamia* FR publiées et vérifiées (200, sans redirection) au moment de la publication.
+
+## Publication effectuée
+
+- Publiée le 03/10/2026 : id 26492, https://succulentes.net/cycadales/zamia/ipetiensis/ (200, sans redirection ; aucune redirection ancienne trouvée). Sans translation_of (aucune traduction). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 3963 ; liens croisés posés vers les fiches Zamia FR publiées (vérifiées 200).
+
+## Retouche du 25/10/2026 (ZAM09)
+- 6 remplacements (simulation puis application) : Vannini daté de 2019 (mis à jour en 2026) et présenté comme naturaliste, avis complété ; notes de travail retirées (« dans les sources consultées », « le détail des menaces n'est pas connu ici », Repères internationaux « Aucun relevé de froid n'a été trouvé… ») ; Repères internationaux réécrits (Jungle Music, Trebrown, BGCI, Montgomery, Lavaud) ; 4 sources ajoutées. Page EN créée : 32125.
+- Reste : phrase et source Wikipédia (Kuna de Madugandí, deux sous-populations) à vérifier ou retirer.
+
+## Retouche du 25/10/2026 (avant ZAM10)
+- 2 remplacements (simulation puis application) : phrase Wikipédia (« Kuna de Madugandí, deux sous-populations », information de l'UICN non vérifiable) remplacée par Vannini 2019 (relique de forêt tropicale humide de la côte caraïbe de l'est du Panama et végétation secondaire voisine, texte relu) ; ligne Wikipédia des sources retirée.
+
+## Retouche 25/10/2026 (avant ZAM11)
+- Divergence sur la tige exposée comme dans l'EN 32125 : Calonje et al. 2018 (tige non ramifiée) contre Vannini 2019 (« subterranean, branched caudex with a solitary leaf to 3'/95 cm carrying few leaflets », texte relu) : liste des caractères de 2018 et paragraphe Vannini de la Taxonomie (2 remplacements, simulation puis application ; brouillon aligné, texte en ligne identique).

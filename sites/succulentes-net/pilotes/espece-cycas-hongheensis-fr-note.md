@@ -1,0 +1,27 @@
+# Note — *Cycas hongheensis* (FR), id 21975
+
+## Nettoyage FR du 13/10/2026
+
+- Page : https://succulentes.net/cycadales/cycas/hongheensis/ — id **21975**, slug `hongheensis`, parent 1256, titre « Cycas hongheensis » inchangés. Polylang : EN 18581, ES 24602, IT 28642 toujours liées (hreflang fr/it/en/es vérifiés). Aucune image. Rien commité. Ancien contenu sauvegardé (scratchpad c4/old-21975.json).
+- Choix : **réécriture complète** (fiche de mai 2026 sans encadré ni sections Statut/Toxicité, avec une dizaine d'affirmations fausses ou non sourcées), d'après la fiche IT 28642 et des sources relues ce jour :
+  - Hill 2008, Telopea 12(1) : 114-115 (texte intégral local `lotcyc3/hill2008.txt`) : clé, type S.Y. Yang 9301 (Gejiu, 17/05/1993, HT Panzhihua Inst. Hort., IT FTG, HWA, PE), étymologie, noms chinois, description, histoire (1993, graines « grosses » selon les habitants), habitat (fourrés de lianes, *Euphorbia* succulentes, fissures), statut 1997 E / 2003 CR, spécimen Baohe 2000.
+  - Flora of China (eFloras 210000343, relue) : description (tronc jusqu'à 8 m × 60 cm…), 灰干苏铁, *C. pectinata* f. *hongheensis* Z.T.Guan, 400-600 m, menaces.
+  - WLoC 137 (relue) : protologue Wang 1996 p. 62, HT Panzhihua, CR A2cd+4cd; B2ab(iii,v) (Bösenberg 2010), étymologie (Haynes 2022).
+  - GBIF API : catégorie actuelle **CR** ; Crossref : réévaluation **Liu, Lindström & Gong 2023-1 (e.T42040A68902633)** → CR maintenu.
+  - Liu, Lindström & Gong 2016 (*Phytotaxa* 257(1)) : résumé Crossref seulement.
+  - Zheng et al. 2017 (texte intégral local `esp/PMC5415521.txt`) : section *Indosinenses* en Chine (2 espèces), réserve du mont Dawei, réserve du district de Gejiu, 2 populations < 1 000 individus, cônes vus en 2015, défrichement agricole, protection de 1er rang 1999.
+  - **Nouveau** : Wu, Wang & Gong 2021 (*Mitochondrial DNA B* 6 : 3513-3514, texte intégral Europe PMC PMC8635533) : proposition de 1994 invalide (Vorster 1997), rive nord du fleuve Rouge à Gejiu, génome chloroplastique (groupe frère des 7 autres *Cycas* séquencés).
+  - Trebrown : 9b, « None known » (nom anglais). Fous de palmiers (« hongheensis », 13/10) : 0 résultat. Zootropical.com et articles succulentes.net : aucune mention (JZT rien). Species+ 24808 repris de l'IT (12/10). Wikipédia non utilisée.
+- Corrigé : holotype « plante cultivée à Panzhihua » (récolté à Gejiu, déposé à Panzhihua) ; statut (réévaluation 2023-1) ; « chacune moins de 1 000 » (deux populations totalisant < 1 000) ; mégasporophylles : seuls les caractères du résumé de Liu et al. 2016.
+- Retiré : sous-section *Hongheenses* ; localités Shiping / Nujie ; déclin > 80 % en 50 ans ; flux de gènes / hybridation dans la région ; « l'un des plus grands cycas de Chine » ; « tomenteuses à lame arrondie » ; culture, multiplication et ravageurs génériques ; USDA 10-11 ; éditeur « Guangdong Science and Technology Press » ; IPNI 993111-1 et POWO cités sans contenu ; lien biotaxa.org ; Osborne et al. 2012 ; lien /cycadales/ de l'intro.
+- Ajouté : encadré, description FoC + Hill (écart exposé), confusions (clé de Hill), type et histoire nomenclaturale (1994 invalide), position chloroplastique 2021, noms chinois, populations et réserves, statuts datés, protection chinoise, CITES/UE, France (aucune donnée ; JZT rien), Trebrown 9b (commercial), Toxicité, FAQ (7), « À lire aussi » (semis, arrosage, toxicité). Espèce chinoise : pas d'article Lavaud.
+- Liens internes (200, 13/10/2026) : genre (intro), *revoluta*, *taitungensis*, *pectinata*, *diannanensis*, *multipinnata*, *panzhihuaensis*, *beddomei*, *Aulacaspis yasumatsui* ; « À lire aussi » : 3 articles.
+- SEO Rank Math : titre « Cycas hongheensis : le cycas du fleuve Rouge, au Yunnan » (55 car.) ; meta 150 car. ; mot-clé `cycas hongheensis` ; aucun problème.
+- Vérifications (verify.py) : URL 200 ; aucun commentaire visible ; 105 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-cycas-hongheensis-fr.html`, même séquence de 12 liens.
+- Index de la page genre FR 1256 : « Chine (Yunnan) ; … (CR, 2010) » → « Chine (sud-est du Yunnan, vallée du fleuve Rouge) ; … (CR, 2023) » (dry run 1 remplacement puis application).
+- **À signaler pour l'IT 28642 (non modifiée)** : réévaluation UICN 2023-1 (Liu, Lindström & Gong, CR maintenu, via Crossref et GBIF) ; Wu et al. 2021 (texte intégral lisible : proposition de 1994 invalide, rive nord, génome chloroplastique) ; Trebrown 9b.
+- Points douteux : écart FoC / Hill sur la taille du tronc ; texte intégral de Liu et al. 2016 non lu ; localisation de la population du mont Dawei (Zheng 2017) alors que Wu 2021 limite l'espèce à Gejiu.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 8 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

@@ -1,0 +1,383 @@
+# Pages EN sans meta description (relevé du 31/10/2026)
+
+Balayage de la balise `<meta name="description">` des 890 contenus EN en ligne (803 pages, 87 articles) : 372 sans description. Exclus : thank-you 22774 (noindex) et trois cas en attente du propriétaire (~~Bowenia tinaroo 17984~~ — **fait 31/10/2026** (lot BOW-T) : meta EN Rank Math posée, 148 car., titre SEO 54 car., voir `forme-bowenia-tinaroo-en-note.md` ; Cycas miqueli 16505, ~~Cycas x longipetiolula 18667~~ — **fait 31/10/2026** : meta EN posée lors de la réécriture de la fiche, 150 car., voir `espece-cycas-longipetiolula-en-note.md`). Consigne : `prompts/consignes-metas-en.md`.
+
+## Lot META-A — Agavoïdes (pages) (148)
+
+- [x] 16217 (page) /en/agavoids/agave/americana/ — Agave americana — 154 car.
+- [x] 15887 (page) /en/agavoids/agave/angustifolia/ — Agave angustifolia — 154 car.
+- [x] 16222 (page) /en/agavoids/agave/attenuata/ — Agave attenuata — 144 car.
+- [x] 16227 (page) /en/agavoids/agave/bracteosa/ — Agave bracteosa — 155 car.
+- [x] 16230 (page) /en/agavoids/agave/celsii/ — Agave celsii — 145 car.
+- [x] 16235 (page) /en/agavoids/agave/cerulata/ — Agave cerulata — 150 car.
+- [x] 16242 (page) /en/agavoids/agave/chazaroi/ — Agave chazaroi — 155 car.
+- [x] 16246 (page) /en/agavoids/agave/chrysantha/ — Agave chrysantha — 139 car.
+- [x] 16253 (page) /en/agavoids/agave/decipiens/ — Agave decipiens — 153 car.
+- [x] 16257 (page) /en/agavoids/agave/deserti/ — Agave deserti — 153 car.
+- [x] 16261 (page) /en/agavoids/agave/filifera/ — Agave filifera — 153 car.
+- [x] 16266 (page) /en/agavoids/agave/geminiflora/ — Agave geminiflora — 151 car.
+- [x] 16271 (page) /en/agavoids/agave/gentryi/ — Agave gentryi — 150 car.
+- [x] 19214 (page) /en/agavoids/agave/havardiana/ — Agave havardiana — 154 car.
+- [x] 19256 (page) /en/agavoids/agave/montana/ — Agave montana — 147 car.
+- [x] 19221 (page) /en/agavoids/agave/ovatifolia/ — Agave ovatifolia — 150 car.
+- [x] 19271 (page) /en/agavoids/agave/parryi/truncata/ — Agave parryi var. truncata — 151 car.
+- [x] 19208 (page) /en/agavoids/agave/sisalana/ — Agave sisalana — 155 car.
+- [x] 19200 (page) /en/agavoids/agave/tequilana/ — Agave tequilana — 152 car.
+- [x] 19266 (page) /en/agavoids/agave/toumeyana/ — Agave toumeyana — 152 car.
+- [x] 19251 (page) /en/agavoids/agave/utahensis/ — Agave utahensis — 149 car.
+- [x] 19227 (page) /en/agavoids/agave/victoriae-reginae/ — Agave victoriae-reginae — 152 car.
+- [x] 16023 (page) /en/agavoids/beschorneria/albiflora/ — Beschorneria albiflora — 151 car.
+- [x] 16043 (page) /en/agavoids/beschorneria/beschorneria-tubiflora/ — Beschorneria tubiflora — 151 car.
+- [x] 16029 (page) /en/agavoids/beschorneria/calcicola/ — Beschorneria calcicola — 143 car.
+- [x] 16056 (page) /en/agavoids/beschorneria/carolinae/ — Beschorneria carolinae — 152 car.
+- [x] 16049 (page) /en/agavoids/beschorneria/dubia/ — Beschorneria dubia — 145 car.
+- [x] 16018 (page) /en/agavoids/beschorneria/rigida/ — Beschorneria rigida — 152 car.
+- [x] 16008 (page) /en/agavoids/beschorneria/septentrionalis/ — Beschorneria septentrionalis — 155 car.
+- [x] 16036 (page) /en/agavoids/beschorneria/wrightii/ — Beschorneria wrightii — 151 car.
+- [x] 15998 (page) /en/agavoids/beschorneria/yuccoides/ — Beschorneria yuccoides — 154 car.
+- [x] 20875 (page) /en/agavoids/doryanthes/palmeri/ — Doryanthes palmeri — 154 car.
+- [x] 22208 (page) /en/agavoids/dracaena/afromontana/ — Dracaena afromontana — 153 car.
+- [x] 20489 (page) /en/agavoids/dracaena/aletriformis/ — Dracaena aletriformis — 155 car.
+- [x] 20563 (page) /en/agavoids/dracaena/americana/ — Dracaena americana — 149 car.
+- [x] 22173 (page) /en/agavoids/dracaena/arborea/ — Dracaena arborea — 154 car.
+- [x] 20504 (page) /en/agavoids/dracaena/cambodiana/ — Dracaena cambodiana — 152 car.
+- [x] 17464 (page) /en/agavoids/dracaena/cinnabari/ — Dracaena cinnabari — 150 car.
+- [x] 20497 (page) /en/agavoids/dracaena/cochinchinensis/ — Dracaena cochinchinensis — 155 car.
+- [x] 20557 (page) /en/agavoids/dracaena/cubensis/ — Dracaena cubensis — 154 car.
+- [x] 20544 (page) /en/agavoids/dracaena/draco/caboverdeana/ — Dracaena draco subsp. caboverdeana — 154 car.
+- [x] 22165 (page) /en/agavoids/dracaena/fragrans/ — Dracaena fragrans — 151 car.
+- [x] 22743 (page) /en/agavoids/dracaena/inexpectata/ — Dracaena inexpectata — 154 car.
+- [x] 20514 (page) /en/agavoids/dracaena/jayniana/ — Dracaena jayniana — 151 car.
+- [x] 22146 (page) /en/agavoids/dracaena/kaweesakii/ — Dracaena kaweesakii — 148 car.
+- [x] 22229 (page) /en/agavoids/dracaena/mannii/ — Dracaena mannii — 152 car.
+- [x] 17476 (page) /en/agavoids/dracaena/ombet/ — Dracaena ombet — 152 car.
+- [x] 22181 (page) /en/agavoids/dracaena/reflexa/ — Dracaena reflexa — 153 car.
+- [x] 22188 (page) /en/agavoids/dracaena/sanderiana/ — Dracaena sanderiana — 154 car.
+- [x] 17485 (page) /en/agavoids/dracaena/serrulata/ — Dracaena serrulata — 155 car.
+- [x] 22201 (page) /en/agavoids/dracaena/steudneri/ — Dracaena steudneri — 150 car.
+- [x] 22195 (page) /en/agavoids/dracaena/surculosa/ — Dracaena surculosa — 152 car.
+- [x] 17453 (page) /en/agavoids/dracaena/tamaranae/ — Dracaena tamaranae — 152 car.
+- [x] 22221 (page) /en/agavoids/dracaena/transvaalensis/ — Dracaena transvaalensis — 145 car.
+- [x] 22153 (page) /en/agavoids/dracaena/yuccifolia/ — Dracaena yuccifolia — 150 car.
+- [x] 15941 (page) /en/agavoids/furcraea/andina/ — Furcraea andina — 147 car.
+- [x] 15949 (page) /en/agavoids/furcraea/cabuya/ — Furcraea cabuya — 150 car.
+- [x] 15900 (page) /en/agavoids/furcraea/foetida/ — Furcraea foetida — 151 car.
+- [x] 15971 (page) /en/agavoids/furcraea/guerrerensis/ — Furcraea guerrerensis — 150 car.
+- [x] 15926 (page) /en/agavoids/furcraea/hexapetala/ — Furcraea hexapetala — 150 car.
+- [x] 15915 (page) /en/agavoids/furcraea/longaeva/ — Furcraea longaeva — 154 car.
+- [x] 15919 (page) /en/agavoids/furcraea/macdougallii/ — Furcraea macdougallii — 151 car.
+- [x] 15978 (page) /en/agavoids/furcraea/niquivilensis/ — Furcraea niquivilensis — 147 car.
+- [x] 15904 (page) /en/agavoids/furcraea/parmentieri/ — Furcraea parmentieri — 152 car.
+- [x] 15965 (page) /en/agavoids/furcraea/pubescens/ — Furcraea pubescens — 151 car.
+- [x] 15957 (page) /en/agavoids/furcraea/quicheensis/ — Furcraea quicheensis — 151 car.
+- [x] 15988 (page) /en/agavoids/furcraea/samalana/ — Furcraea samalana — 149 car.
+- [x] 15933 (page) /en/agavoids/furcraea/tuberosa/ — Furcraea tuberosa — 151 car.
+- [x] 16095 (page) /en/agavoids/hesperaloe/campanulata/ — Hesperaloe campanulata — 153 car.
+- [x] 16111 (page) /en/agavoids/hesperaloe/chiangii/ — Hesperaloe chiangii — 155 car.
+- [x] 16071 (page) /en/agavoids/hesperaloe/funifera/ — Hesperaloe funifera — 148 car.
+- [x] 16119 (page) /en/agavoids/hesperaloe/malacophylla/ — Hesperaloe malacophylla — 153 car.
+- [x] 16081 (page) /en/agavoids/hesperaloe/nocturna/ — Hesperaloe nocturna — 150 car.
+- [x] 16065 (page) /en/agavoids/hesperaloe/parviflora/ — Hesperaloe parviflora — 152 car.
+- [x] 17356 (page) /en/agavoids/hesperoyucca/newberryi/ — Hesperoyucca newberryi — 154 car.
+- [x] 17350 (page) /en/agavoids/hesperoyucca/whipplei/ — Hesperoyucca whipplei — 155 car.
+- [x] 16210 (page) /en/agavoids/nolina/atopocarpa/ — Nolina atopocarpa — 153 car.
+- [x] 16196 (page) /en/agavoids/nolina/beldingii/ — Nolina beldingii — 144 car.
+- [x] 16164 (page) /en/agavoids/nolina/bigelovii/ — Nolina bigelovii — 152 car.
+- [x] 16179 (page) /en/agavoids/nolina/brittoniana/ — Nolina brittoniana — 150 car.
+- [x] 16168 (page) /en/agavoids/nolina/cespitifera/ — Nolina cespitifera — 151 car.
+- [x] 16202 (page) /en/agavoids/nolina/cismontana/ — Nolina cismontana — 153 car.
+- [x] 16175 (page) /en/agavoids/nolina/georgiana/ — Nolina georgiana — 152 car.
+- [x] 16137 (page) /en/agavoids/nolina/greenei/ — Nolina greenei — 148 car.
+- [x] 16133 (page) /en/agavoids/nolina/hibernica/ — Nolina hibernica — 148 car.
+- [x] 16183 (page) /en/agavoids/nolina/interrata/ — Nolina interrata — 153 car.
+- [x] 16158 (page) /en/agavoids/nolina/longifolia/ — Nolina longifolia — 155 car.
+- [x] 16155 (page) /en/agavoids/nolina/matapensis/ — Nolina matapensis — 155 car.
+- [x] 16141 (page) /en/agavoids/nolina/microcarpa/ — Nolina microcarpa — 145 car.
+- [x] 16129 (page) /en/agavoids/nolina/nelsonii/ — Nolina nelsonii — 155 car.
+- [x] 16152 (page) /en/agavoids/nolina/parryi/ — Nolina parryi — 155 car.
+- [x] 15319 (page) /en/agavoids/yucca/aloifolia/ — Yucca aloifolia — 152 car.
+- [x] 17196 (page) /en/agavoids/yucca/angustissima/ — Yucca angustissima — 154 car.
+- [x] 15513 (page) /en/agavoids/yucca/arizonica/ — Yucca arizonica — 155 car.
+- [x] 17163 (page) /en/agavoids/yucca/arkansana/ — Yucca arkansana — 154 car.
+- [x] 15422 (page) /en/agavoids/yucca/baccata/ — Yucca baccata — 150 car.
+- [x] 17207 (page) /en/agavoids/yucca/baileyi/ — Yucca baileyi — 152 car.
+- [x] 15373 (page) /en/agavoids/yucca/brevifolia/ — Yucca brevifolia — 154 car.
+- [x] 17273 (page) /en/agavoids/yucca/campestris/ — Yucca campestris — 154 car.
+- [x] 15462 (page) /en/agavoids/yucca/capensis/ — Yucca capensis — 148 car.
+- [x] 15327 (page) /en/agavoids/yucca/carnerosana/ — Yucca carnerosana — 155 car.
+- [x] 17260 (page) /en/agavoids/yucca/carrii/ — Yucca carrii — 151 car.
+- [x] 17167 (page) /en/agavoids/yucca/cernua/ — Yucca cernua — 151 car.
+- [x] 17282 (page) /en/agavoids/yucca/coahuilensis/ — Yucca coahuilensis — 145 car.
+- [x] 17151 (page) /en/agavoids/yucca/constricta/ — Yucca constricta — 152 car.
+- [x] 15367 (page) /en/agavoids/yucca/decipiens/ — Yucca decipiens — 154 car.
+- [x] 17247 (page) /en/agavoids/yucca/declinata/ — Yucca declinata — 153 car.
+- [x] 17173 (page) /en/agavoids/yucca/desmetiana/ — Yucca desmetiana — 153 car.
+- [x] 15405 (page) /en/agavoids/yucca/elata/ — Yucca elata — 148 car.
+- [x] 15352 (page) /en/agavoids/yucca/elephantipes/ — Yucca elephantipes — 150 car.
+- [x] 17330 (page) /en/agavoids/yucca/endlichiana/ — Yucca endlichiana — 152 car.
+- [x] 15334 (page) /en/agavoids/yucca/faxoniana/ — Yucca faxoniana — 142 car.
+- [x] 15381 (page) /en/agavoids/yucca/filamentosa/ — Yucca filamentosa — 152 car.
+- [x] 15361 (page) /en/agavoids/yucca/filifera/ — Yucca filifera — 155 car.
+- [x] 17183 (page) /en/agavoids/yucca/flaccida/ — Yucca flaccida — 153 car.
+- [x] 15412 (page) /en/agavoids/yucca/glauca/ — Yucca glauca — 150 car.
+- [x] 15387 (page) /en/agavoids/yucca/gloriosa/ — Yucca gloriosa — 154 car.
+- [x] 17287 (page) /en/agavoids/yucca/grandiflora/ — Yucca grandiflora — 144 car.
+- [x] 15532 (page) /en/agavoids/yucca/harrimaniae/ — Yucca harrimaniae — 151 car.
+- [x] 17215 (page) /en/agavoids/yucca/intermedia/ — Yucca intermedia — 154 car.
+- [x] 17366 (page) /en/agavoids/yucca/jaegeriana/ — Yucca jaegeriana — 152 car.
+- [x] 17299 (page) /en/agavoids/yucca/jaliscensis/ — Yucca jaliscensis — 152 car.
+- [x] 15441 (page) /en/agavoids/yucca/lacandonica/ — Yucca lacandonica — 153 car.
+- [x] 15285 (page) /en/agavoids/yucca/linearifolia/ — Yucca linearifolia — 154 car.
+- [x] 17254 (page) /en/agavoids/yucca/louisianensis/ — Yucca louisianensis — 151 car.
+- [x] 15490 (page) /en/agavoids/yucca/madrensis/ — Yucca madrensis — 155 car.
+- [x] 15475 (page) /en/agavoids/yucca/mixtecana/ — Yucca mixtecana — 155 car.
+- [x] 17381 (page) /en/agavoids/yucca/muscipula/ — Yucca muscipula — 155 car.
+- [x] 17303 (page) /en/agavoids/yucca/necopina/ — Yucca necopina — 153 car.
+- [x] 15524 (page) /en/agavoids/yucca/neomexicana/ — Yucca neomexicana — 151 car.
+- [x] 17315 (page) /en/agavoids/yucca/periculosa/ — Yucca periculosa — 149 car.
+- [x] 17373 (page) /en/agavoids/yucca/pinicola/ — Yucca pinicola — 152 car.
+- [x] 17319 (page) /en/agavoids/yucca/potosina/ — Yucca potosina — 149 car.
+- [x] 15302 (page) /en/agavoids/yucca/queretaroensis/ — Yucca queretaroensis — 148 car.
+- [x] 21573 (page) /en/agavoids/yucca/quinnarjenii/ — Yucca × quinnarjenii — 150 car.
+- [x] 17131 (page) /en/agavoids/yucca/reverchonii/ — Yucca reverchonii — 154 car.
+- [x] 15312 (page) /en/agavoids/yucca/rigida-luminosa/ — Yucca rigida — 146 car.
+- [x] 15277 (page) /en/agavoids/yucca/rostrata/ — Yucca rostrata — 153 car.
+- [x] 17126 (page) /en/agavoids/yucca/rupicola/ — Yucca rupicola — 154 car.
+- [x] 15396 (page) /en/agavoids/yucca/schidigera/ — Yucca schidigera — 153 car.
+- [x] 15501 (page) /en/agavoids/yucca/schottii/ — Yucca schottii — 150 car.
+- [x] 17232 (page) /en/agavoids/yucca/sterilis/ — Yucca sterilis — 153 car.
+- [x] 17241 (page) /en/agavoids/yucca/tenuistyla/ — Yucca tenuistyla — 151 car.
+- [x] 15293 (page) /en/agavoids/yucca/thompsoniana/ — Yucca thompsoniana — 153 car.
+- [x] 15483 (page) /en/agavoids/yucca/torreyi/ — Yucca torreyi — 154 car.
+- [x] 15345 (page) /en/agavoids/yucca/treculeana/ — Yucca treculeana — 152 car.
+- [x] 17224 (page) /en/agavoids/yucca/utahensis/ — Yucca utahensis — 151 car.
+- [x] 15455 (page) /en/agavoids/yucca/valida/ — Yucca valida — 155 car.
+
+## Lot META-B — Aloïdes (pages) (72)
+
+- [x] 19379 (page) /en/alooids/aloe/africana/ — Aloe africana — 149 car.
+- [x] 19592 (page) /en/alooids/aloe/aloe-parvibracteata/ — Aloe parvibracteata — 154 car.
+- [x] 19327 (page) /en/alooids/aloe/alooides/ — Aloe alooides — 148 car.
+- [x] 19529 (page) /en/alooids/aloe/ankoberensis/ — Aloe ankoberensis — 154 car.
+- [x] 19320 (page) /en/alooids/aloe/arborescens/ — Aloe arborescens — 152 car.
+- [x] 19462 (page) /en/alooids/aloe/brevifolia/ — Aloe brevifolia — 153 car.
+- [x] 19360 (page) /en/alooids/aloe/broomii/ — Aloe broomii — 148 car.
+- [x] 19518 (page) /en/alooids/aloe/cameronii/ — Aloe cameronii — 152 car.
+- [x] 19438 (page) /en/alooids/aloe/camperi/ — Aloe camperi — 151 car.
+- [x] 19556 (page) /en/alooids/aloe/candelabrum/ — Aloe candelabrum — 148 car.
+- [x] 19565 (page) /en/alooids/aloe/castanea/ — Aloe castanea — 147 car.
+- [x] 19684 (page) /en/alooids/aloe/chlorantha/ — Aloe chlorantha — 153 car.
+- [x] 19406 (page) /en/alooids/aloe/claviflora/ — Aloe claviflora — 149 car.
+- [x] 19637 (page) /en/alooids/aloe/comptonii/ — Aloe comptonii — 151 car.
+- [x] 19611 (page) /en/alooids/aloe/cooperi/ — Aloe cooperi — 147 car.
+- [x] 19604 (page) /en/alooids/aloe/davyana/ — Aloe davyana — 151 car.
+- [x] 19708 (page) /en/alooids/aloe/descoingsii/ — Aloe descoingsii — 145 car.
+- [x] 19629 (page) /en/alooids/aloe/distans/ — Aloe distans — 153 car.
+- [x] 19716 (page) /en/alooids/aloe/divaricata/ — Aloe divaricata — 152 car.
+- [x] 19537 (page) /en/alooids/aloe/dorotheae/ — Aloe dorotheae — 153 car.
+- [x] 22235 (page) /en/alooids/aloe/ellenbeckiana/ — Dracaena ellenbeckiana — 149 car.
+- [x] 19676 (page) /en/alooids/aloe/erinacea/ — Aloe erinacea — 150 car.
+- [x] 19312 (page) /en/alooids/aloe/excelsa/ — Aloe excelsa — 154 car.
+- [x] 19413 (page) /en/alooids/aloe/falcata/ — Aloe falcata — 152 car.
+- [x] 19300 (page) /en/alooids/aloe/ferox/ — Aloe ferox — 151 car.
+- [x] 22134 (page) /en/alooids/aloe/fimbrialis/ — Aloe fimbrialis — 153 car.
+- [x] 19662 (page) /en/alooids/aloe/glauca/ — Aloe glauca — 152 car.
+- [x] 19644 (page) /en/alooids/aloe/globuligemma/ — Aloe globuligemma — 149 car.
+- [x] 19578 (page) /en/alooids/aloe/grandidentata/ — Aloe grandidentata — 154 car.
+- [x] 19492 (page) /en/alooids/aloe/greatheadii/ — Aloe greatheadii — 154 car.
+- [x] 19457 (page) /en/alooids/aloe/juvenna/ — Aloe juvenna — 153 car.
+- [x] 19652 (page) /en/alooids/aloe/karasbergensis/ — Aloe karasbergensis — 149 car.
+- [x] 19544 (page) /en/alooids/aloe/kedongensis/ — Aloe kedongensis — 149 car.
+- [x] 19699 (page) /en/alooids/aloe/lateritia/ — Aloe lateritia — 152 car.
+- [x] 19619 (page) /en/alooids/aloe/longistyla/ — Aloe longistyla — 146 car.
+- [x] 19352 (page) /en/alooids/aloe/maculata/ — Aloe maculata — 149 car.
+- [x] 19294 (page) /en/alooids/aloe/marlothii/ — Aloe marlothii — 150 car.
+- [x] 19669 (page) /en/alooids/aloe/melanacantha/ — Aloe melanacantha — 150 car.
+- [x] 19597 (page) /en/alooids/aloe/microstigma/ — Aloe microstigma — 147 car.
+- [x] 19428 (page) /en/alooids/aloe/mitriformis/ — Aloe mitriformis — 146 car.
+- [x] 19572 (page) /en/alooids/aloe/mutabilis/ — Aloe mutabilis — 142 car.
+- [x] 19509 (page) /en/alooids/aloe/nobilis/ — Aloe x nobilis — 151 car.
+- [x] 19480 (page) /en/alooids/aloe/petricola/ — Aloe petricola — 152 car.
+- [x] 19342 (page) /en/alooids/aloe/pluridens/ — Aloe pluridens — 155 car.
+- [x] 19373 (page) /en/alooids/aloe/polyphylla/ — Aloe polyphylla — 149 car.
+- [x] 19500 (page) /en/alooids/aloe/pratensis/ — Aloe pratensis — 151 car.
+- [x] 19472 (page) /en/alooids/aloe/reitzii/ — Aloe reitzii — 149 car.
+- [x] 19433 (page) /en/alooids/aloe/rupestris/ — Aloe rupestris — 155 car.
+- [x] 19693 (page) /en/alooids/aloe/secundiflora/ — Aloe secundiflora — 151 car.
+- [x] 19388 (page) /en/alooids/aloe/speciosa/ — Aloe speciosa — 151 car.
+- [x] 19550 (page) /en/alooids/aloe/spicata/ — Aloe spicata — 154 car.
+- [x] 19778 (page) /en/alooids/aloe/spinosissima/ — Aloe x spinosissima — 150 car.
+- [x] 19395 (page) /en/alooids/aloe/striata/ — Aloe striata — 155 car.
+- [x] 19333 (page) /en/alooids/aloe/thraskii/ — Aloe thraskii — 150 car.
+- [x] 19444 (page) /en/alooids/aloe/vaombe/ — Aloe vaombe — 149 car.
+- [x] 19282 (page) /en/alooids/aloe/vera/ — Aloe vera — 149 car.
+- [x] 19583 (page) /en/alooids/aloe/zebrina/ — Aloe zebrina — 150 car.
+- [x] 19769 (page) /en/alooids/aloiampelos/ciliaris/ — Aloiampelos ciliaris — 151 car.
+- [x] 19759 (page) /en/alooids/aloiampelos/striatula/ — Aloiampelos striatula — 155 car.
+- [x] 19804 (page) /en/alooids/aloidendron/barberae/ — Aloidendron barberae — 152 car.
+- [x] 19784 (page) /en/alooids/aloidendron/dichotomum/ — Aloidendron dichotomum — 151 car.
+- [x] 19792 (page) /en/alooids/aloidendron/eminens/ — Aloidendron eminens — 151 car.
+- [x] 19888 (page) /en/alooids/aloidendron/hercules/ — Aloidendron ‘Hercules’ — 150 car.
+- [x] 19822 (page) /en/alooids/aloidendron/pillansii/ — Aloidendron pillansii — 151 car.
+- [x] 19827 (page) /en/alooids/aloidendron/ramosissimum/ — Aloidendron ramosissimum — 154 car.
+- [x] 19812 (page) /en/alooids/aloidendron/tongaense/ — Aloidendron tongaense — 154 car.
+- [x] 19750 (page) /en/alooids/gonialoe/dinteri/ — Gonialoe dinteri — 152 car.
+- [x] 19742 (page) /en/alooids/gonialoe/sladeniana/ — Gonialoe sladeniana — 154 car.
+- [x] 19734 (page) /en/alooids/gonialoe/variegata/ — Gonialoe variegata — 155 car.
+- [x] 19915 (page) /en/alooids/haworthiopsis/attenuata/ — Haworthiopsis attenuata — 153 car.
+- [x] 19908 (page) /en/alooids/haworthiopsis/fasciata/ — Haworthiopsis fasciata — 147 car.
+- [x] 19878 (page) /en/alooids/kumara/plicatilis/ — Kumara plicatilis — 153 car.
+
+## Lot META-C — Crassulaceae, Euphorbiaceae, Fouquieraceae et autres pages (88)
+
+- [x] 23917 (page) /en/apocynaceae/adenium/ — Adenium — 150 car.
+- [x] 23916 (page) /en/apocynaceae/fockea/ — Fockea — 154 car.
+- [x] 18435 (page) /en/apocynaceae/pachypodium/geayi/ — Pachypodium geayi — 153 car.
+- [x] 18422 (page) /en/apocynaceae/pachypodium/lamerei/ — Pachypodium lamerei — 148 car.
+- [x] 15072 (page) /en/articles/ — Blog — 150 car.
+- [x] 24691 (page) /en/campus-en/ — Campus — 146 car.
+- [x] 23390 (page) /en/chamaerops/argentea/ — Chamaerops humilis var. argentea — 147 car.
+- [x] 19939 (page) /en/crassulaceae/aeonium/arboreum/holochrysum/ — Aeonium arboreum ssp. holochrysum — 142 car.
+- [x] 19929 (page) /en/crassulaceae/aeonium/arboreum/korneliuslemsii/ — Aeonium arboreum ssp. korneliuslemsii — 150 car.
+- [x] 19948 (page) /en/crassulaceae/aeonium/balsamiferum/ — Aeonium balsamiferum — 148 car.
+- [x] 20033 (page) /en/crassulaceae/aeonium/canariense/ — Aeonium canariense — 154 car.
+- [x] 20048 (page) /en/crassulaceae/aeonium/castello-paivae/ — Aeonium castello-paivae — 152 car.
+- [x] 19958 (page) /en/crassulaceae/aeonium/ciliatum/ — Aeonium ciliatum — 154 car.
+- [x] 20040 (page) /en/crassulaceae/aeonium/cuneatum/ — Aeonium cuneatum — 153 car.
+- [x] 19965 (page) /en/crassulaceae/aeonium/decorum/ — Aeonium decorum — 144 car.
+- [x] 19972 (page) /en/crassulaceae/aeonium/gorgoneum/ — Aeonium gorgoneum — 153 car.
+- [x] 19979 (page) /en/crassulaceae/aeonium/haworthii/ — Aeonium haworthii — 146 car.
+- [x] 19991 (page) /en/crassulaceae/aeonium/lancerottense/ — Aeonium lancerottense — 153 car.
+- [x] 19998 (page) /en/crassulaceae/aeonium/leucoblepharum/ — Aeonium leucoblepharum — 152 car.
+- [x] 20079 (page) /en/crassulaceae/aeonium/lindleyi/ — Aeonium lindleyi — 145 car.
+- [x] 20062 (page) /en/crassulaceae/aeonium/nobile/ — Aeonium nobile — 155 car.
+- [x] 20004 (page) /en/crassulaceae/aeonium/percarneum/ — Aeonium percarneum — 146 car.
+- [x] 20086 (page) /en/crassulaceae/aeonium/sedifolium/ — Aeonium sedifolium — 142 car.
+- [x] 20011 (page) /en/crassulaceae/aeonium/simsii/ — Aeonium simsii — 144 car.
+- [x] 20026 (page) /en/crassulaceae/aeonium/stuessyi/ — Aeonium stuessyi — 146 car.
+- [x] 20055 (page) /en/crassulaceae/aeonium/tabuliforme/ — Aeonium tabuliforme — 149 car.
+- [x] 20018 (page) /en/crassulaceae/aeonium/undulatum/ — Aeonium undulatum — 152 car.
+- [x] 20119 (page) /en/crassulaceae/aeonium/urbicum/ — Aeonium urbicum — 154 car.
+- [x] 20109 (page) /en/crassulaceae/aeonium/zwartkop/ — Aeonium ‘Zwartkop’ — 143 car.
+- [x] 18837 (page) /en/crassulaceae/crassula/arborescens/ — Crassula arborescens — 153 car.
+- [x] 18949 (page) /en/crassulaceae/crassula/buddhas-temple/ — Crassula « Buddha’s Temple » — 143 car.
+- [x] 18882 (page) /en/crassulaceae/crassula/capitella/ — Crassula capitella — 152 car.
+- [x] 18919 (page) /en/crassulaceae/crassula/coccinea/ — Crassula coccinea — 154 car.
+- [x] 18913 (page) /en/crassulaceae/crassula/multicava/ — Crassula multicava — 145 car.
+- [x] 18866 (page) /en/crassulaceae/crassula/muscosa/ — Crassula muscosa — 149 car.
+- [x] 18830 (page) /en/crassulaceae/crassula/ovata/ — Crassula ovata — 149 car.
+- [x] 18924 (page) /en/crassulaceae/crassula/pellucida/ — Crassula pellucida — 154 car.
+- [x] 18886 (page) /en/crassulaceae/crassula/perfoliata/minor/ — Crassula perfoliata var. minor — 155 car.
+- [x] 18844 (page) /en/crassulaceae/crassula/perforata/ — Crassula perforata — 155 car.
+- [x] 18943 (page) /en/crassulaceae/crassula/pyramidalis/ — Crassula pyramidalis — 149 car.
+- [x] 18858 (page) /en/crassulaceae/crassula/rupestris/ — Crassula rupestris — 154 car.
+- [x] 18907 (page) /en/crassulaceae/crassula/sarcocaulis/ — Crassula sarcocaulis — 149 car.
+- [x] 18851 (page) /en/crassulaceae/crassula/tetragona/ — Crassula tetragona — 147 car.
+- [x] 18893 (page) /en/crassulaceae/crassula/tomentosa/ — Crassula tomentosa — 146 car.
+- [x] 18930 (page) /en/crassulaceae/crassula/umbella/ — Crassula umbella — 155 car.
+- [x] 18936 (page) /en/crassulaceae/crassula/umbellata/ — Crassula umbellata — 153 car.
+- [x] 18900 (page) /en/crassulaceae/crassula/undulata/ — Crassula undulata — 148 car.
+- [x] 18822 (page) /en/crassulaceae/echeveria/ — Genus Echeveria — 154 car.
+- [x] 18796 (page) /en/crassulaceae/kalanchoe/ — Genus kalanchoe — 155 car.
+- [x] 18802 (page) /en/crassulaceae/sedum/ — Genus Sedum — 147 car.
+- [x] 18815 (page) /en/crassulaceae/sempervivum/ — Genus Sempervivum — 149 car.
+- [x] 23364 (page) /en/didieraceae/alluaudia/dumosa/ — Alluaudia dumosa — 140 car.
+- [x] 23412 (page) /en/didieraceae/didierea/trollii/ — trollii — 150 car.
+- [x] 23298 (page) /en/dioscoreaceae/dioscorea/elephantipes/ — Discorea elephantipes — 146 car.
+- [x] 19141 (page) /en/euphorbiaceae/euphorbia/abdelkuri/ — Euphorbia abdelkuri — 150 car.
+- [x] 19083 (page) /en/euphorbiaceae/euphorbia/abyssinica/ — Euphorbia abyssinica — 144 car.
+- [x] 19101 (page) /en/euphorbiaceae/euphorbia/ammak/ — Euphorbia ammak — 150 car.
+- [x] 19068 (page) /en/euphorbiaceae/euphorbia/antisyphilitica/ — Euphorbia antisyphilitica — 150 car.
+- [x] 19089 (page) /en/euphorbiaceae/euphorbia/arbuscula/ — Euphorbia arbuscula — 144 car.
+- [x] 19054 (page) /en/euphorbiaceae/euphorbia/balsamifera/ — Euphorbia balsamifera — 149 car.
+- [x] 22850 (page) /en/euphorbiaceae/euphorbia/canariensis/ — Euphorbia canariensis — 145 car.
+- [x] 19075 (page) /en/euphorbiaceae/euphorbia/candelabrum/ — Euphorbia candelabrum — 155 car.
+- [x] 19133 (page) /en/euphorbiaceae/euphorbia/didiereoides/ — Euphorbia didiereoides — 149 car.
+- [x] 19048 (page) /en/euphorbiaceae/euphorbia/ingens/ — Euphorbia ingens — 151 car.
+- [x] 19118 (page) /en/euphorbiaceae/euphorbia/lactea/ — Euphorbia lactea — 144 car.
+- [x] 23381 (page) /en/euphorbiaceae/euphorbia/lamarckii/ — Euphorbia lamarckii — 152 car.
+- [x] 19123 (page) /en/euphorbiaceae/euphorbia/milii/ — Euphorbia milii — 155 car.
+- [x] 23426 (page) /en/euphorbiaceae/euphorbia/regis-jubae/ — Euphorbia regis-jubae — 152 car.
+- [x] 19038 (page) /en/euphorbiaceae/euphorbia/resinifera/ — Euphorbia resinifera — 147 car.
+- [x] 19061 (page) /en/euphorbiaceae/euphorbia/tirucalli/ — Euphorbia tirucalli — 148 car.
+- [x] 19110 (page) /en/euphorbiaceae/euphorbia/trigona/ — Euphorbia trigona — 154 car.
+- [x] 21211 (page) /en/fouquieraceae/fouquieria/burragei/ — Fouquieria burragei — 143 car.
+- [x] 21251 (page) /en/fouquieraceae/fouquieria/columnaris/ — Fouquieria columnaris — 152 car.
+- [x] 21214 (page) /en/fouquieraceae/fouquieria/diguetii/ — Fouquieria diguetii — 154 car.
+- [x] 21249 (page) /en/fouquieraceae/fouquieria/fasciculata/ — Fouquieria fasciculata — 147 car.
+- [x] 21227 (page) /en/fouquieraceae/fouquieria/formosa/ — Fouquieria formosa — 152 car.
+- [x] 21242 (page) /en/fouquieraceae/fouquieria/leonilae/ — Fouquieria leonilae — 152 car.
+- [x] 21220 (page) /en/fouquieraceae/fouquieria/macdougalii/ — Fouquieria macdougalii — 154 car.
+- [x] 21231 (page) /en/fouquieraceae/fouquieria/ochoterenae/ — Fouquieria ochoterenae — 152 car.
+- [x] 21255 (page) /en/fouquieraceae/fouquieria/purpusii/ — Fouquieria purpusii — 154 car.
+- [x] 21236 (page) /en/fouquieraceae/fouquieria/shrevei/ — Fouquieria shrevei — 155 car. (fiche réécrite le 31/10/2026, voir cycadales-a-verifier.md)
+- [x] 21206 (page) /en/fouquieraceae/fouquieria/splendens/ — Fouquieria splendens — 153 car.
+- [x] 24688 (page) /en/gardens/ — Botanical gardens — 143 car.
+- [x] 23915 (page) /en/malvaceae-2/adansonia/ — Adansonia — 153 car.
+- [x] 23913 (page) /en/moringaceae-2/moringa/ — Moringa — 148 car.
+- [x] 23911 (page) /en/pedaliaceae-2/pterodiscus/ — Pterodiscus — 151 car.
+- [x] 23910 (page) /en/pedaliaceae-2/uncarina/ — Uncarina — 148 car.
+- [x] 23908 (page) /en/vitaceae-family/cyphostemma/ — Cyphostemma — 155 car.
+
+## Lot META-D — Articles (posts) (60)
+
+- [x] 20104 (post) /en/aeonium-dormancy/ — Aeonium Dormancy — 148 car.
+- [x] 19843 (post) /en/aloe-mite-aceria-aloinis/ — Aloe Mite (Aceria aloinis): How to Identify, Treat and Prevent the Most Destructive Alooid Pest — 152 car.
+- [x] 19872 (post) /en/aloe-not-flowering/ — Aloe not flowering — 148 car.
+- [x] 19863 (post) /en/aloe-root-rot/ — Aloe Root Rot: Pathogens, Diagnosis, Treatment and Prevention — 151 car.
+- [x] 19855 (post) /en/aloe-thrips-hercinothrips-dimidiatus/ — Aloe Thrips (Hercinothrips dimidiatus): An Emerging Pest of Aloes in Europe — Identification, Damage and Control — 144 car.
+- [x] 17749 (post) /en/aloe-vera-varieties/ — Aloe vera varieties: what exists, what doesn’t and what you actually bought — 149 car.
+- [x] 17767 (post) /en/aphids-on-yuccas/ — Aphids on yuccas: how to protect and treat your plant — 145 car.
+- [x] 17714 (post) /en/best-aloes-for-indoors-10-species-ranked-by-light-from-south-facing-windows-to-dim-offices/ — Best Aloes for Indoors: 10 Species Ranked by Light — From South-Facing Windows to Dim Offices — 151 car.
+- [x] 18972 (post) /en/best-crassula-for-bonsai/ — The Best Crassula Species for Bonsai — A Practical Comparison — 147 car.
+- [x] 18532 (post) /en/best-fertilizer-for-cycads-what-to-feed-your-sago-palm-when-and-how/ — Best Fertilizer for Cycads: What to Feed Your Sago Palm, When, and How — 153 car.
+- [x] 15554 (post) /en/best-indoor-succulents-25-species-that-actually-thrive-indoors/ — Best Indoor Succulents: 25 Species That Actually Thrive Indoors — 153 car.
+- [x] 21061 (post) /en/cactus-terrarium-the-guide/ — Cactus Terrarium: What Nobody Tells You Before You Start — 151 car.
+- [x] 19900 (post) /en/cold-hardy-aloes-which-species-survive-frost-outdoors/ — Cold Hardy Aloes: Which Species Survive Frost Outdoors? — 148 car.
+- [x] 18959 (post) /en/cold-hardy-crassulafrost/ — Cold-Hardy Crassula — Which Species Can Survive Frost? — 154 car.
+- [x] 17566 (post) /en/cold-hardy-cycads/ — Cold Hardy Cycads: 5 Species That Survive Real Winters — 150 car.
+- [x] 15560 (post) /en/cold-hardy-succulents-the-complete-guide-to-frost-resistant-species-for-outdoor-growing/ — Cold Hardy Succulents: The Complete Guide to Frost-Resistant Species for Outdoor Growing — 155 car.
+- [x] 15574 (post) /en/cycad-care-the-complete-guide-to-growing-cycads-indoors-in-containers-and-in-the-ground/ — Cycad Care: The Complete Guide to Growing Cycads Indoors, in Containers and in the Ground — 151 car.
+- [x] 18536 (post) /en/cycad-sago-palm-manganese-deficiency/ — Manganese Deficiency in Cycads: How to Diagnose, Treat and Prevent Frizzle Top — 139 car.
+- [x] 18526 (post) /en/cycad-sago-palm-toxic-dog-cat-children/ — Is Sago Palm Toxic to Dogs, Cats & Children? What to Know — 155 car.
+- [x] 17552 (post) /en/cycad-scale-aulacaspis-yasumatsui/ — Cycad Aulacaspis Scale (Aulacaspis yasumatsui): Identification, Treatment and Prevention — 149 car.
+- [x] 15683 (post) /en/cycas-in-pot-complete-care/ — Cycas in Pots: Complete Care Guide, Watering, Winter Protection and Tropical Cycads You Can Grow — 152 car.
+- [x] 18515 (post) /en/cycas-leaves-turning-yellow-how-to-fix-iron-chlorosis-with-chelated-iron-eddha/ — Cycas Leaves Turning Yellow? How to Fix Iron Chlorosis with Chelated Iron (EDDHA) — 151 car.
+- [x] 21072 (post) /en/dracaena-vs-cordyline-why-two-lookalike-genera-are-botanically-worlds-apart/ — Dracaena vs Cordyline: Why Two Lookalike Genera Are Botanically Worlds Apart — 153 car.
+- [x] 20528 (post) /en/dracaena-vs-yucca-identification-cultivation-and-key-differences/ — Dracaena vs Yucca: Identification, Cultivation and Key Differences — 139 car.
+- [x] 17545 (post) /en/growing-agaves-in-pots/ — Growing Agaves in Pots: Substrate, Watering, Repotting and Winter Care — 152 car.
+- [x] 18395 (post) /en/growing-pachypodium-from-seed-a-germination-guide-by-species/ — Growing Pachypodium from Seed: A Germination Guide by Species — 152 car.
+- [x] 17771 (post) /en/hardiness-zones-every-system-in-the-world/ — Understanding hardiness zones: every system in the world — 150 car.
+- [x] 17718 (post) /en/how-repot-aloe-vera/ — How to Repot Aloe vera: The Complete Step-by-Step Guide — 151 car.
+- [x] 15548 (post) /en/how-to-care-for-succulents-the-complete-guide/ — How to Care for Succulents: The Complete Guide — 154 car.
+- [x] 15612 (post) /en/how-to-care-for-yuccas-indoor-and-outdoor-growing-guide/ — How to Care for Yuccas: Indoor and Outdoor Growing Guide — 150 car.
+- [x] 20092 (post) /en/how-to-grow-and-care-for-aeonium-the-complete-guide/ — How to Grow and Care for Aeonium: The Complete Guide — 155 car.
+- [x] 17501 (post) /en/how-to-grow-and-care-for-agaves/ — How to Grow and Care for Agaves: The Complete Guide for Every Climate — 146 car.
+- [x] 18968 (post) /en/how-to-grow-and-care-for-crassula/ — How to Grow and Care for Crassula — The Complete Guide — 151 car.
+- [x] 17687 (post) /en/how-to-grow-care-aloe-vera/ — How to Grow and Care for Aloe vera — Indoors, Outdoors and Everything You Need to Know — 143 car.
+- [x] 15581 (post) /en/how-to-grow-cycads-from-seed-germination-seedling-care-and-propagation-setup/ — How to Grow Cycads from Seed: Germination, Seedling Care and Propagation Setup — 153 car.
+- [x] 20097 (post) /en/how-to-propagate-aeonium-stem-cuttings-offsets-beheading-and-seed/ — How to Propagate Aeonium: Stem Cuttings, Offsets, Beheading, and Seed — 135 car.
+- [x] 17704 (post) /en/how-to-propagate-aloe-vera-from-offsets/ — How to Propagate Aloe vera from Offsets: The Complete Guide — 152 car.
+- [x] 19869 (post) /en/how-to-propagate-aloes-offsets-cuttings-seeds-and-micropropagation/ — How to Propagate Aloes: Offsets, Cuttings, Seeds and Micropropagation — 155 car.
+- [x] 18980 (post) /en/how-to-propagate-crassula-2/ — How to Propagate Crassula — Stem Cuttings, Leaf Cuttings, Division, and Seed — 142 car.
+- [x] 19007 (post) /en/how-to-propagate-succulents/ — How to Propagate Succulents — The Complete Guide to Leaves, Cuttings, Offsets, and Seeds — 149 car.
+- [x] 18542 (post) /en/magnesium-deficiency-cycad-sago-palm/ — Magnesium Deficiency in Cycads: Why Old Fronds Turn Yellow and How to Fix It — 152 car.
+- [x] 15630 (post) /en/mealybug-yucca/ — Mealybugs on yuccas — 150 car.
+- [x] 17117 (post) /en/my-cycas-is-producing-new-shoots/ — My Cycas Is Producing New Shoots — 145 car.
+- [x] 16469 (post) /en/my-cycas-revoluta-has-brown-tips-why-causes-and-solutions/ — My Cycas revoluta Has Brown Tips, Why? Causes and Solutions — 147 car.
+- [x] 16465 (post) /en/my-cycas-revoluta-has-cold-damage-why-assessment-recovery-and-winter-protection/ — My Cycas revoluta Has Cold Damage, Why? Assessment, Recovery, and Winter Protection — 148 car.
+- [x] 16460 (post) /en/my-cycas-revoluta-has-root-rot-why-how-to-diagnose-treat-and-prevent-it/ — My Cycas revoluta Has Root Rot, Why? How to Diagnose, Treat, and Prevent It — 153 car.
+- [x] 16459 (post) /en/my-cycas-revoluta-is-turning-yellow-why-a-diagnostic-guide/ — My Cycas revoluta Is Turning Yellow, Why? A Diagnostic Guide — 142 car.
+- [x] 18409 (post) /en/my-pachypodium-is-losing-its-leaves-causes-decision-tree-solutions/ — My Pachypodium Is Losing Its Leaves: Causes, Decision Tree & Solutions — 151 car.
+- [x] 19851 (post) /en/overwatered-aloe/ — Overwatered Aloe: How to Recognise the Signs, Rescue the Plant and Prevent It from Happening Again — 154 car.
+- [x] 18403 (post) /en/pachypodium-pests-and-diseases-diagnosis-treatment-rescue-protocols/ — Pachypodium Pests and Diseases: Diagnosis, Treatment & Rescue Protocols — 141 car.
+- [x] 18561 (post) /en/sago-palm-is-not-growing-new-leaves/ — My Sago Palm Is Not Growing New Leaves: 12 Causes, a Diagnostic Decision Tree, and How to Fix Each One — 153 car.
+- [x] 15663 (post) /en/spider-mites-yucca/ — Spider Mites on Yuccas: Why They Spread and How to Save Your Plant — 152 car.
+- [x] 17520 (post) /en/spineless-agaves/ — Spineless Agaves: Safe Alternatives for Gardens With Children — 143 car.
+- [x] 16530 (post) /en/the-simon-lavaud-method-grafting-cycads/ — The Simon Lavaud Method: Grafting Cycads onto Cycas revoluta to Grow Difficult Species — 153 car.
+- [x] 17738 (post) /en/types-of-aloe-20-species-every-grower-should-know/ — Types of aloes: 20 species every grower should know — 151 car.
+- [x] 19001 (post) /en/types-of-succulents-the-complete-guide-to-over-100-species-and-varieties/ — Types of Succulents — The Complete Guide to Over 100 Species and Varieties — 149 car.
+- [x] 17561 (post) /en/watering-cycads/ — Watering Cycads: Common Mistakes and How to Avoid Them — 151 car.
+- [x] 17111 (post) /en/when-and-how-to-repot-a-yucca/ — When and How to Repot a Yucca — The Complete Guide to Containers, Substrates, and Timing — 142 car.
+- [x] 15672 (post) /en/yucca-rostrata-in-pot/ — Yucca rostrata in Containers: How to Succeed with Pot Culture — 148 car.
+- [x] 15644 (post) /en/yucca-rotting/ — My yucca is rotting : why and how to save it — 153 car.

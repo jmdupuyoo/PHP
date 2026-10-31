@@ -1,0 +1,32 @@
+# Note — *Zamia integrifolia* (EN), id 20351 (lot ZAM02, 2/5, fiche R)
+
+## Publication (24/10/2026)
+- Page : https://succulentes.net/en/cycads/zamia/integrifolia/ — id **20351**, slug `integrifolia`, parent 16295, titre inchangés ; réécriture complète par `update_content` (contenu seul). Polylang conservé : fr 3971 / it 28030 / en 20351 (hreflang vérifiés après publication). Image mise en avant 3980 conservée (og:image vérifiée) ; galerie 7321 + 7322 de la FR insérée (alt « Zamia integrifolia » dans les blocs, déjà correct en médiathèque ; légendes descriptives ; la photo 7322 montre le panneau du Florida Museum, ce qui appuie la légende de lieu reprise de la FR). Rien commité.
+- SEO Rank Math : titre « Zamia integrifolia (coontie): cold hardiness and care » (53 car.) ; meta 139 car. ; mot-clé `zamia integrifolia`.
+- Contrôles : URL 200 sans redirection (UA Chrome et curl), `<title>` correct, aucun commentaire de bloc visible, blocs équilibrés (153/153), 7 liens internes EN en 200, aucun lien FR/IT/ES, aucun « » ; brouillon `espece-zamia-integrifolia-en.html` identique au contenu en ligne. ≈ 5 100 mots.
+
+## Sources des faits
+- FR 3971 (nettoyée le 13/10/2026) et IT 28030. **FR et IT corrigées dans ce lot** (0d) : Meerow 2018 « connu par un extrait » remplacé par Salas-Leiva et al. 2017 (résumé lu), « 2n = 16 » et « une à quatorze espèces » retirés (voir leurs notes).
+- Revérifiés / lus le 24/10/2026 : WLoC 485 (page en ligne : type, synonymes, NT A2ad, étymologie Whitelock via Haynes, nom. et typ. cons. prop.) ; export WLoC (deux variétés, Phytologia 98(3) : 174, 2016) ; GBIF 5284049 (NT) ; **UF/IFAS FPS-617** (zones 8B-11, plantation toute l'année, 2-4 ft × 3-5 ft, folioles 4-8 in, cônes 3-6 in, sols, sécheresse « high », sel « good », usages, « known erroneously as Zamia pumila », semis « usually difficult », cochenille rouge de Floride, fumagine) ; **NC State Extension** (noms, zones 8a-11b, région côtière, embruns, cinq variétés, boutures de tige, culture en pot au nord de l'aire, toxicité : cycasine, BMAA, neurotoxine non identifiée chez les bovins, « 1-2 seeds can be fatal », symptômes) ; **Florida Museum** (Atala, 1979, pine rockland) ; **Griffith et al. 2022** (*IJPS* 183 : 169-185, résumé OpenAlex : 25 populations, deux variétés, var. *umbrosa* distincte au nord-est, diversité réduite, dispersion humaine à la période Woodland) ; **Simon et al. 2023** (*Florida Entomologist* 106(3), résumé : *Rhopalotria slossoni* et *Pharaxonotha floridana*) ; **Norstog et al. 1992** (résumé : *R. slossoni* et *Pharaxonotha zamiae*) ; **Cycadales.eu** 2023 (groupe caribéen : dégâts dès −5 °C, survie plus bas défolié, substrat minéral un peu calcaire, températures d'hiver et d'été) ; Jungle Music (coonti, koonti) ; Trebrown (coontie, zone 9a, commercial).
+- Divergence exposée : NC State (cinq variétés) / WLoC et Griffith 2022 (deux).
+- Jardins : US — Montgomery (112 accessions, 1993-2016, dont 97 de 2005-2006), Fairchild (Garden Explorer), ≈ 35 jardins BGCI (Floride, Californie, Hawaï, nord-est), Naples et USBG (entrées séparées) ; UK — Édimbourg (Garden Explorer), Kew, Glasgow, Harris Garden (Reading) (BGCI) ; AU — RBG Sydney (Garden Explorer), Brisbane Mount Coot-tha, Noosa, Cairns, System Garden de Melbourne (BGCI).
+- Retours : JZT (−7 °C, février 2012, dégâts foliaires : observation validée, présentée comme expérience méditerranéenne) ; Roussillon, Ravenne, Chimay, Vendée, Belley/Montpellier (repris de la FR, anonymes). Aucune autre observation JZT publiée sur le site (recherche dans toutes les pages et articles, 24/10). Aucun retour anglophone lisible (PalmTalk, Dave's Garden bloqués).
+
+## Affirmations de l'ancienne fiche EN écartées
+- « −12 °C (10 °F) » et « USDA 8b » assimilés ; « French Riviera (USDA 9b) » ; **affirmation JZT non validée** (« performs well in the open ground… protection advisable ») ; comparaison avec *furfuracea* (−3 °C, 25 °F) et tableau comparatif.
+- Cinq variétés de Ward détaillées (tableau, noms vernaculaires « Palatka giant coontie », localités, dédicace à T.H. Broome) non vérifiées ; « Flora of the Southeastern United States (Weakley 2023) follows Griffith » ; « POWO still lists Ward's varieties » ; Eckenwalder 1980 ; position phylogénétique (Calonje 2019, Lindstrom 2024) ; « reported twice from Georgia (1928…) » ; habitats et populations des Bahamas (Abaco) ; nomenclature « suivant POWO ».
+- Culture chiffrée (substrat, engrais, pH), protocoles de semis, *Aulacaspis yasumatsui* présentée comme ravageur principal, programmes de restauration et protections légales détaillées non sourcés.
+
+## Liens
+- Sortants (EN, 200) : genre 16295, *pumila* 20359, *lucayana* 20479, *furfuracea* 20366 ; seed 15581 ; cycas in pots 15683 ; toxicity 18526. Non liés (pas de page EN) : *angustifolia*, *restrepoi*.
+- Index 16295 : ligne déjà liée et conforme (répartition, NT 2022, coontie, deux variétés) ; aucun remplacement nécessaire.
+- Entrants posés (simulation puis application, 1 chacun) : *wallisii* 20474, *ulei* 20427, *skinneri* 20387, articles 18536 (manganèse), 18526 (toxicité), 15683 (cycas en pot), 15581 (semis), 15574 (Cycad Care ; espace insécable dans la source). Non posé : *Microcycas* 16335 (citation en bibliographie seulement). *loddigesii* 20373 : réécrite dans ce lot.
+
+## Points douteux
+- Seuil « feuillage abîmé sous −5 °C » d'un seul cultivateur (attribué) recoupé par Cycadales.eu.
+- POWO, Liste rouge non consultés (Cloudflare) ; Whitelock non consulté (étymologie via Haynes/WLoC) ; ENH117 lu en octobre (FR), non relu.
+- **FR/IT à reprendre (facultatif)** : ajouter Griffith et al. 2022 (deux variétés, dispersion humaine), Simon et al. 2023 (pollinisateurs ; la FR avait retiré *Pharaxonotha* faute de source), NC State (cinq variétés, symptômes, boutures de tige), Cycadales.eu (−5 °C).
+
+## Retouche du 24/10/2026 (0a avant ZAM04)
+- Phrase visible sur PalmTalk / Dave’s Garden « could not be consulted » (ou variante) retirée du texte (le site ne commente pas ses limites de recherche) : replace_in_content, simulation puis application, 2 remplacement(s) ; brouillon aligné.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C (21 °F)** sur la page 20351 (4 remplacements, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

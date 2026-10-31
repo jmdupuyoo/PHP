@@ -1,0 +1,16 @@
+# Note — *Cycas fairylakea* (ES 37779), https://succulentes.net/es/orden-cycadales/cycas/fairylakea/
+
+## Création du 31/10/2026 (lot CYC-ES12, mode C, page de synonyme)
+- Avant création : aucune page ES (list_content es « fairylakea », statut any ; corbeille ES vide ; /es/orden-cycadales/cycas/fairylakea/ en 404).
+- create_content : page, publish, langue es, parent 23432, slug `fairylakea`, titre « Cycas fairylakea », translation_of FR 21932 → id **37779**. Hreflang vérifiés : fr 21932, it 28610, en 30513, es 37779. Aucune image.
+- Même parti que FR/EN : page du nom synonyme (WLoC 221 relu le 31/10 : « = Cycas fairylakea D.Yue Wang … ≡ Cycas szechuanensis subsp. fairylakea (D.Yue Wang) N.Liu » ; Species+ 24833 (API) : synonyme ; WCVP : synonyme ; GBIF 2683236 : ACCEPTED, NE). Cohérence avec ES *szechuanensis* 24543 : « Cantón (Guangdong) », chiffres de Liang et al. 2024, statuts (CR Hill 2010, Calonje 2024-2 ; GBIF 7712062 → CR revérifié), jardins.
+- Brouillon `pilotes/espece-cycas-fairylakea-es.html` identique au texte en ligne (verify.py). DSL : scratchpad `es12/fairylakea.dsl`. ≈ 4 460 mots (Rank Math).
+- SEO Rank Math : « Cycas fairylakea: sinónimo de Cycas szechuanensis (China) » (57) ; meta 146 ; mot-clé « Cycas fairylakea » ; aucun problème ; `<title>` vérifié.
+- Base : EN 30513 (21/10, balayage du 31/10) et FR 21932 (13/10) et leurs notes (Hill 2008, Liang et al. 2024, Feng et al. 2021, Tao et al. 2021, IPNI, BGCI, Montgomery, Trebrown).
+- Trebrown Nurseries nommé (décision Q34) : zone USDA 9b (avec équivalent °C) présentée comme classement commercial, « none known » pour le nom commun ; source avec lien.
+- Lien vers *szechuanensis* : pas dans l'introduction (un seul lien, vers le genre — l'EN le lie dans l'intro), posé à la première occurrence du corps (Nota taxonómica).
+- Notes de travail EN non reprises : « according to the abstract » (Feng 2021, Tao 2021) retiré (Tao : « no se sabe si las muestras … »), « their article could only be read in abstract », « this inconsistency in the source could not be resolved » (→ « la fuente no permite resolver esta contradicción »), « No report from an English-speaking grower could be read ».
+- Liens internes ES (200) : genre, *szechuanensis* 24543, *taiwaniana* 24565, *changjiangensis* 24616, *guizhouensis* 24523, *revoluta* 24488, *beddomei* 24555, article *Aulacaspis* ; « Lee también » : semis, toxicité 23195. Sans page ES : *hainanensis* ; *dolichophylla* : page ES 37783 (lot CYC-ES11) publiée pendant le lot, lien posé ensuite dans Híbridos (simulation 1 / application 1, brouillon aligné).
+- Index 23432 : synonyme lié dans la ligne *Cycas szechuanensis* (« sinónimo: Cycas fairylakea »), comme l'EN ; la mention « Cycas fairylakea, descrita en 1996 » de la section taxonomique de la page genre non liée. Liens entrants : *szechuanensis* 24543 (Confusiones posibles), *changjiangensis* 24616 (Confusiones posibles), *taiwaniana* 24565 (Taxonomía) (1 chacun, simulation puis application, brouillons alignés).
+- Points douteux (repris FR/EN) : incohérence de Hill sur le jardin d'origine du type ; découverte 1999 (Liang) / 2000 (Hill) ; statut nomenclatural divergent selon les bases ; Feng 2021 et Tao 2021 connus par leur résumé.
+- Forums ES : rien de connu (non retentés).

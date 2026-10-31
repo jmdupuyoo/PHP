@@ -1,0 +1,28 @@
+# Note — *Zamia skinneri* (EN), id 20387 (lot ZAM04, 1/4, fiche R, page EN connue comme erronée)
+
+## Publication (24/10/2026)
+- Page : https://succulentes.net/en/cycads/zamia/skinneri/ — id **20387**, slug `skinneri`, parent 16295, titre inchangés ; réécriture complète par `update_content` (contenu seul). Polylang conservé : fr 21691 / it 28263 / en 20387 (hreflang vérifiés après publication). Aucune image (ni ancienne EN, ni FR/IT). Rien commité.
+- SEO Rank Math : titre « Zamia skinneri: the pleated-leaf cycad of Bocas del Toro » (56 car.) ; meta 144 car. ; mot-clé `zamia skinneri`.
+- Contrôles (verify.py) : URL 200 sans redirection (UA Chrome et curl), `<title>` correct, aucun commentaire de bloc visible, blocs équilibrés, 8 liens internes EN en 200, aucun lien FR/IT/ES, aucun « » ; texte rendu et liens identiques au brouillon `espece-zamia-skinneri-en.html`. ≈ 4 760 mots.
+
+## Sources des faits
+- FR 21691 (réécrite le 13/10/2026 sur Taylor et al. 2008 lu en entier, protologue Dietrich 1851, WLoC 552, Species+ 24300, Lindstrom 2024, Cycadales.eu, Fous de palmiers t=12464) et IT 28263 (corrigée le 17/10). FR et IT sans mention d'extrait de recherche (contrôle du texte en ligne, 24/10) : rien à corriger.
+- Revérifiés / ajoutés le 24/10/2026 : GBIF 5284180 (nom accepté, « Warsz. ex A.Dietr. » ; catégorie UICN non reprise par GBIF) ; BGCI (deux fiches, 25 jardins) ; Montgomery (7 accessions : 20010790-20010798 → 2001 ×5, 20050524 → 2005, 20110525 → 2011) ; Vannini 2019 (Exotica Esoterica, lu : 5-6 paires de folioles, jeunes feuilles vert émeraude, espèce « relatively uncommon in nature and even more rare in cultivation », culture en pot à l'ombre et au chaud, plante cultivée au Guatemala, extension possible au Costa Rica, *imperialis* vendu autrefois comme « *Z. skinneri* red emergent », *Eumaeus*, limaces) ; Jungle Music (serre en Californie du Sud ; description qui mêle les formes à jeunes feuilles rouges : citée avec réserve). Trebrown (9b générique, « information being revised ») : non citée.
+- Jardins : US — Montgomery, Fairchild, Huntington, San Diego BG, Selby, Miami Beach, USBG, Longwood, Atlanta, Fort Worth, Denver, Honolulu (BGCI) ; AU — Sydney, Cairns (BGCI) ; UK — aucun. Réserve d'identité (plantes antérieures à 2008). Retours anglophones : aucun retour daté ; Vannini (Guatemala, Californie) cité comme source de collectionneur. JZT : aucune observation publiée.
+
+## Affirmations de l'ancienne fiche EN écartées
+- Nomenclature « suivant POWO » et aire « selon POWO » ; « Warsz. ex A.Dietr. » seul ; récolte « in the mountains of Veraguas » présentée comme sûre ; Skinner « British orchid collector ».
+- « pseudoparasitica clade » attribué à Caputo 2004 **et** Calonje 2019 et étendu à *hamannii*, *imperialis*, *nesophila* (décrites en 2008) → remplacé par la composition donnée par Taylor et al. 2008 (*neurophyllidia*, *pseudoparasitica*, *acuminata*, *obliqua*) avec la précision que ces résultats précèdent la révision ; Calonje 2019 retiré.
+- « fewer than 500 individuals » (×3) ; 2n = 22 contre 2n = 18 comme caractère distinctif ; tableau comparatif avec *neurophyllidia* (tronc < 1,5 m, folioles 30 × 12, jeunes feuilles « often bronze, copper, or red » pour *skinneri*) ; folioles 45 × 20 cm « among the largest leaflets in the entire Cycadales » ; tronc 2-2,5 m × 15 cm ; « rivaled only by *Zamia roezlii* … (which can reach 6 meters) » (non sourcé ; lien vers *roezlii* disparu avec la phrase).
+- Dispersion par gravité, 4 000-8 000 mm de pluie, sols organiques, altitude 300/950 m ; *Eumaeus godartii* ; racines coralloïdes et La Selva attribués à l'espèce ; EDGE 0,71 ; menaces détaillées (banane, palmier à huile, élevage, collecte) ; Fairchild et Wilson Botanical Garden comme collections de conservation.
+- Culture : USDA 11, « 4.5 °C / 40 °F », comparaisons non sourcées (*integrifolia* 8b, *vazquezii* 9b, *furfuracea* 9b, Côte d'Azur 9b), affirmation JZT non validée (« would require permanent heated greenhouse »), ombrage 50-70 %, hygrométrie 60 %, substrat, engrais, rempotage, semis 25-30 °C et germination 2-6 mois, division ; « xeric-adapted » *furfuracea* ; toxicité pour le bétail ; bibliographie non consultée (Calonje 2019, Clark & Clark 1987/1988, Clark et al. 1992, Stevenson 1993, POWO, UICN génériques).
+
+## Liens
+- Sortants (EN, 200) : genre 16295, *neurophyllidia* 20393, *imperialis* 20434, *pseudoparasitica* 20068, *furfuracea* 20366 ; articles 15581, 17561, 18526. Sans page EN : *hamannii*, *dressleri*, *nesophila*, *amplifolia*, *lindleyi*, *acuminata*, *obliqua*, *restrepoi*. Lien vers *roezlii* 20467 retiré avec la phrase non sourcée (la nouvelle page ne cite plus *roezlii*).
+- Index 16295 : ligne déjà liée et conforme (« Warsz. (1851): Panama (Bocas del Toro); IUCN: Endangered (EN), 2022 assessment; named after the Scottish collector George Ure Skinner ») ; aucun remplacement.
+- Entrants : déjà liée depuis *roezlii*, *oligodonta*, *imperialis*, *neurophyllidia*, *pseudoparasitica* et le genre ; *Astroloba* 17631 : faux positif (×*Astroworthia skinneri*).
+
+## Points douteux
+- Autorité (« Warsz. » WLoC / « Warsz. ex A.Dietr. » Taylor, Species+, GBIF) ; NT proposé en 2008 contre EN 2022 (évaluation non lue) ; abondance : « common and widespread » (Taylor 2008) contre « relatively uncommon in nature » (Vannini 2019), exposé comme divergence ; populations costariciennes non attribuées ; Holzman 2009 non consulté ; identité des plantes déclarées à BGCI.
+- FR/IT : rien à reprendre (ajouts possibles : Vannini 2019, Montgomery 2001-2011, déclarations BGCI).
+- Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia dressleri* EN 31990, sur la première mention sourcée ; simulation puis application (1) ; brouillon aligné.

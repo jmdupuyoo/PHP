@@ -1,0 +1,18 @@
+# Note — *Cycas dolichophylla* (ES 37783), https://succulentes.net/es/orden-cycadales/cycas/dolichophylla/
+
+## Création du 31/10/2026 (lot CYC-ES11, mode C)
+- Avant création : aucune page ES (list_content es, statut any ; corbeille vide ; REST slug `dolichophylla` : FR 26146, IT 28585, EN 16497 seulement ; /es/orden-cycadales/cycas/dolichophylla/ en 404, pas de redirection).
+- create_content : page, publish, langue es, parent 23432, slug `dolichophylla`, titre « Cycas dolichophylla », translation_of FR 26146 → id **37783**. Hreflang vérifiés : fr 26146, it 28585, en 16497, es 37783. Aucune image.
+- Brouillon `pilotes/espece-cycas-dolichophylla-es.html` identique au texte en ligne (verify.py : texte identique hors sommaire, 15 liens internes même séquence) ; ≈ 3 890 mots (Rank Math). DSL scratchpad es11/dolichophylla.dsl.
+- SEO Rank Math : « Cycas dolichophylla: la cícada de hojas largas de Vietnam » (57) ; meta 142 ; mot-clé « Cycas dolichophylla » ; aucun problème ; `<title>` vérifié.
+- Index genre ES 23432 : ligne liée (simulation 1, application 1, avec les liens entrants) ; brouillon `genre-cycas-es.html` aligné. Mentions du corps de 23432 (Taxonomía, *multifrondis*) laissées sans lien.
+- Base : EN 16497 (balayage EN-5 du 31/10) et FR 26146 et leurs notes (Hill, Nguyen & Phan 2004 ; Hill 2008 lu en entier ; Zheng et al. 2016, 2017 ; Tao et al. 2021 ; WLoC 119 ; Crossref Nguyen 2010 / Bösenberg 2023 ; RBG Sydney ; BGCI ; Fous de palmiers t=6476, t=8485, t=8636 ; ASPCA, Pet Poison Helpline).
+- Revérifié le 31/10/2026 : GBIF 2683212 → NT ; Species+ 17492 (API) : annexe II (05/03/2026), UE B (règlement 2026/1383), Chine et Viet Nam, aucun nom commun.
+- Notes de travail EN non reprises : « The Red List page itself could not be consulted, so the criteria of the 2023 assessment are not known », « No dated report from a private grower … could be read », « on the botanic garden and nursery websites consulted » (reformulé), « The type comes from Vietnam, and no climatic data for its sites have been published » (retiré, redondant).
+- Choix : noms vietnamiens des personnes et des provinces écrits avec leurs diacritiques (Nguyễn Tiến Hiệp, Phan Kế Lộc, Thái Nguyên…) ; abréviation d'auteurs selon WLoC, divergence avec Hill 2008 / Species+ exposée.
+- « Lee también » : semis 23153, guide de culture 23142, toxicité 23195.
+- Liens internes ES (200) : genre, *bifida* 37329, *collina* 37443, *balansae* 37341, *changjiangensis* 24616, *szechuanensis* 24543, *tanqingii* 24610, *pectinata* 24583, *taiwaniana* 24565, *diannanensis* 24549, *beddomei* 24555, *Aulacaspis* 23246. Sans page ES : *multifrondis*, *siamensis*, *hainanensis*.
+- Liens entrants (simulation 10 / application 10 avec l'index ; brouillons alignés, verify.py identiques) : *bifida* 37329, *balansae* 37341, *longipetiolula* 36907, *changjiangensis* 24616 (Híbridos) ; *tanqingii* 24610, *tropophylla* 24578 (Confusiones posibles) ; *taiwaniana* 24565, *szechuanensis* 24543 (Híbridos) ; *diannanensis* 24549 (Cómo distinguirla) ; puis *collina* 37443 (lot CYC-ES10 terminé ; Híbridos ; simulation 1 / application 1, brouillon aligné).
+- Points douteux (repris EN/FR) : critères de l'évaluation UICN 2023 non documentés ; formes d'abréviation des auteurs divergentes ; identité des plantes du commerce (confusion avec *siamensis*).
+- Cadre international ; JZT : rien de publié. Aucun nom espagnol attesté. Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026 sans résultat.
+- 31/10/2026 (CYC-ES13) : lien vers *Cycas ferruginea* ES 37883 posé (Híbridos ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
