@@ -10,3 +10,5 @@
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web le 31/10/2026, rien de pertinent. Fous de palmiers : 503 le 31/10 (fils cités d'après l'EN/FR, lus en octobre).
 - Liens internes ES (200) : genre (intro), *thouarsii* 23603, *revoluta* 24488, *rumphii* 24535, *beddomei* 24555, article *Aulacaspis* ; « Lee también » : jardins italiens (27314), semis, toxicité. Sans page ES : *nathorstii*, *edentata*, *seemannii*, *micronesica*, *sphaerica*, *papuana*, *javana*, *annaikalensis*.
 - Points douteux (repris de l'EN) : identité des plantes de jardin nommées *circinalis* ; flottaison des graines (Raju & Rao 2011 / L&H 2007, dL&A 1998) ; année Montgomery déduite du numéro ; date du message Au jardin inconnue.
+
+- 31/10/2026 (lot CYC-ES05) : lien entrant vers la nouvelle fiche ES *Cycas annaikalensis* 37318 posé (Confusiones posibles, replace_in_content : simulation 1 puis application 1) ; brouillon aligné (verify.py : texte identique, 10 liens).
