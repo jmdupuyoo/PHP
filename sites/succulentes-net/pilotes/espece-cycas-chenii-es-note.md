@@ -10,5 +10,6 @@
 - Cadre international : « En jardines botánicos » (aucun jardin hors de Chine ; Kunming, Xishuangbanna) ; aucune zone USDA ; JZT : rien.
 - Noms communs : aucun en espagnol ni en anglais ; chinois 陈氏苏铁 (Xi et al. 2022).
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web le 31/10/2026, rien.
-- Liens internes ES (200) : genre (intro), *guizhouensis* 24523, *tanqingii* 24610, *beddomei* 24555, article *Aulacaspis*, *revoluta* 24488 ; « Lee también » : semis, toxicité. Sans page ES : *simplicipinna*, *hainanensis*.
+- Liens internes ES (200) : genre (intro), *guizhouensis* 24523, *tanqingii* 24610, *beddomei* 24555, article *Aulacaspis*, *revoluta* 24488 ; « Lee también » : semis, toxicité. Sans page ES : *simplicipinna*.
 - Points douteux (repris de l'EN) : altitude 500-1 300 m (protologue via Yang 2017) / 489-1 600 m (échantillonnage) ; protologue non lu.
+- 31/10/2026 (lot CYC-ES14) : lien vers *Cycas hainanensis* ES 38057 posé (Etimología e historia) par remplacement ciblé (simulation 1, application 1) ; brouillon aligné (texte et liens identiques au contenu en ligne).

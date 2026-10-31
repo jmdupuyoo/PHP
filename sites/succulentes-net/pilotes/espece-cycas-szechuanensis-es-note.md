@@ -22,3 +22,4 @@
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
 
 - 31/10/2026 (CYC-ES12) : lien vers *Cycas fairylakea* ES 37779 posé (Confusiones posibles, « separada de Cycas fairylakea ») (replace_in_content ciblé, simulation puis application, 1 remplacement par lien) ; brouillon aligné.
+- 31/10/2026 (lot CYC-ES14) : lien vers *Cycas hainanensis* ES 38057 posé (première occurrence du corps) par remplacement ciblé (simulation 1, application 1) ; brouillon aligné (texte et liens identiques au contenu en ligne).

@@ -10,7 +10,7 @@
 - Notes de travail EN non reprises : « POWO could not be consulted directly » (encadré, Taxonomie), « The Red List itself could not be consulted directly », annotations « abstract only consulted », « not consulted directly », « full text consulted », « page not consulted (access blocked) ».
 - Cadre international : Rusticité par types de climat (aucune donnée) ; « En jardines botánicos » (Glasgow, San Diego, Atlanta, Cairns d'après BGCI). JZT : rien de publié.
 - Noms communs : aucun nom espagnol ; « apoa » (kaka) et « handambo » (sentani) d'après Hill 1994. Prononciation « AP-wah » donnée comme transcription anglaise des auteurs (pas de transcription espagnole inventée).
-- Liens internes ES (200) : genre (intro seule), *rumphii* 24535, *circinalis* 24514, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : semis 23153, guide de culture 23142, arrosage 23175 (article toxicité 23195 non lié, décision en attente). Sans page ES (non liés) : *scratchleyana*, *bougainvilleana*, *micronesica*, *javana*.
+- Liens internes ES (200) : genre (intro seule), *rumphii* 24535, *circinalis* 24514, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : semis 23153, guide de culture 23142, arrosage 23175 (article toxicité 23195 non lié, décision en attente). Sans page ES (non liés) : *scratchleyana*, *bougainvilleana*, *micronesica*.
 - Index de la page genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon `genre-cycas-es.html` aligné.
 - Lien entrant : *rumphii* ES 24535 (Taxonomie, « tres de ellas nuevas (… *Cycas apoa* …) ») : simulation 1, application 1 ; brouillon `espece-cycas-rumphii-es.html` aligné (page du lot CYC-ES03 : à conserver si elle est réécrite).
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu sur l'espèce (espèce de serre, aucun retour lisible dans les lots précédents ni dans l'EN/FR).
@@ -19,3 +19,4 @@
 ## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
+- 31/10/2026 (lot CYC-ES14) : lien vers *Cycas javana* ES 38100 posé (Taxonomía) par remplacement ciblé (simulation 1, application 1) ; brouillon aligné (texte et liens identiques au contenu en ligne).

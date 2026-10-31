@@ -9,7 +9,7 @@
 - Revérifié le 31/10/2026 : GBIF 3594939 → CR (iucnTaxonID 178883) ; WCVP sur GBIF 206945402 : accepté ; Species+ 65516 (API) : annexe II (05/03/2026), UE B (29/06/2026), India.
 - Notes de travail EN non reprises : « POWO could not be consulted directly », « The original description (Brittonia, 2006) could not be consulted », « it was not consulted » (Singh et al. 2007), « The Red List itself could not be consulted directly », annotations « not consulted (paywall) / page not consulted (access blocked) / full text consulted ». La description est présentée comme « la que recogen Lindström y Hill (2007) a partir de la descripción original ».
 - Cadre international : Rusticidad par types de climat (aucune donnée) ; « En jardines botánicos » (aucun). JZT : rien. Aucun nom espagnol.
-- Liens internes ES (200) : genre (intro), *circinalis* 24514, *beddomei* 24555, article *Aulacaspis* 23246, *revoluta* 24488 ; « Lee también » : semis 23153, guide 23142. Sans page ES (non liés, à lier à leur création) : *sphaerica* (CYC-ES23), *indica* (CYC-ES14).
+- Liens internes ES (200) : genre (intro), *circinalis* 24514, *beddomei* 24555, article *Aulacaspis* 23246, *revoluta* 24488 ; « Lee también » : semis 23153, guide 23142. Sans page ES (non liés, à lier à leur création) : *sphaerica* (CYC-ES23).
 - Index genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon genre aligné.
 - Lien entrant : *circinalis* ES 24514 (Confusiones posibles ; simulation puis application, 1) ; brouillon et note *circinalis* alignés.
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
@@ -18,3 +18,4 @@
 ## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
+- 31/10/2026 (lot CYC-ES14) : lien vers *Cycas indica* ES 38066 posé (Confusiones posibles) par remplacement ciblé (simulation 1, application 1) ; brouillon aligné (texte et liens identiques au contenu en ligne).
