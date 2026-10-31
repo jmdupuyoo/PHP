@@ -61,3 +61,4 @@
 - Rusticité : formules d'hybrides « × *guizhouensis* » (épithète seule) → « × *Cycas guizhouensis* » (2 occurrences). replace_in_content sur 1741 : simulation 2, application 2 ; brouillon aligné.
 
 - 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 1741 (7 remplacements, simulation puis application, REST contrôlé, brouillon aligné) ; meta Rank Math corrigée (« observations au gel en France (−6 °C) »). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

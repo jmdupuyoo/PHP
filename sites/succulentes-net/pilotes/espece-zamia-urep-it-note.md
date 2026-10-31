@@ -24,3 +24,4 @@
 - Liens entrants : hymenophyllidia 28016, lecointei 28117, lindosensis 28150, multidentata 28107, restrepoi 28235, urarinorum 28427.
 
 - Ritocco 25/10/2026 (lotto ZAM18, creazione EN 34430): note di lavoro visibili rimosse (3 sostituzioni: «non è stata consultata qui alcuna analisi genetica», «il dettaglio delle minacce non è stato letto», «che abbiamo potuto consultare»); simulazione poi applicazione; bozza allineata.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 28430 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

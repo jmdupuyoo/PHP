@@ -20,3 +20,4 @@
 
 ## FR/IT
 - FR 21780 (4) et IT 28257 (6) : notes de travail retirées (« dans les sources consultées / nelle fonti consultate » ×2, « n'a été trouvé(e) / non è stato trovato » ×2-3, IT « presenza attuale non è stata verificata » ×2, « Non è stato trovato alcun riscontro ») ; simulation puis application, brouillons alignés (verify : identiques).
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C (21 °F)** sur la page 32548 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

@@ -35,3 +35,4 @@
 
 ## Retouche du 25/10/2026 (lot ZAM14)
 - 7 remplacements (simulation puis application) : notes de travail retirées (« seule description chiffrée consultée », « sources consultées », « non consulté ici », « présence actuelle non vérifiée », « n'a été trouvée / non è stato trovato ») ; Index Seminum de Naples : n° 1495 confirmé (2012-13), absence dans les éditions 2014-15 à 2022-23 ajoutée ; collections ajoutées (BGCI 21 jardins, Montgomery 5 numéros + 12 aff., Jungle Music, Trebrown 9b commercial) avec leurs sources. Brouillon aligné, texte en ligne identique. Page EN créée : 32386.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 21767 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

@@ -1,0 +1,17 @@
+# Note — *Cycas fugax* (ES 38058), https://succulentes.net/es/orden-cycadales/cycas/fugax/
+
+## Création du 31/10/2026 (lot CYC-ES13, mode C)
+- Avant création : aucune page ES (REST slug `fugax` : FR 26663, IT 28622, EN 30586 seulement ; list_content es brouillons, privées, corbeille : rien ; /es/orden-cycadales/cycas/fugax/ en 404, sans redirection).
+- create_content : page, publish, langue es, parent 23432, slug `fugax`, titre « Cycas fugax », translation_of FR 26663 → id **38058**. Hreflang vérifiés : fr 26663, it 28622, en 30586, es 38058. Aucune image.
+- Brouillon `pilotes/espece-cycas-fugax-es.html` identique au texte en ligne (verify.py : seul le sommaire diffère ; 10 liens, même séquence). DSL : scratchpad `es13/fugax.dsl`. ≈ 2 840 mots (Rank Math).
+- SEO Rank Math : « Cycas fugax: cícada de Vietnam casi extinta en la naturaleza » (60) ; meta 148 ; mot-clé « Cycas fugax » ; aucun problème ; `<title>` vérifié.
+- Base : EN 30586 (21/10, balayage EN-2 du 31/10) et FR 26663 (retouche 0a du 21/10) et leurs notes (WLoC 126, GBIF, Crossref Nguyen 2023 / Osborne 2010, Species+ 14082, Recently Extinct Species, Fous de palmiers 2010-2013, BGCI, Montgomery).
+- Revérifié le 31/10/2026 : GBIF 2683263 → CR ; occurrences GBIF : 1 ; WCVP sur GBIF 206945555 : accepté, auteurs « K.D.Hill, N.H.Tuan & P.K.Lôc » (divergence avec WLoC « T.H.Nguyên » exposée) ; Species+ 14082 (API) : annexe II (05/03/2026), UE B (règlement 2026/1383), Viet Nam.
+- Notes de travail EN non reprises : « a paper behind a paywall that could not be consulted » (→ « un artículo de pago »), « the measurements of the original description could not be consulted » (→ « no se reproducen en las fuentes de acceso libre »), « the criteria of the new assessment could not be read, since the Red List itself could not be consulted » (→ « no se recogen en las fuentes de acceso libre »), « these two sources were not consulted » (POWO et Christenhusz & Govaerts présentés « según una compilación en línea »), « No report from an English-speaking grower could be read », « not described in the sources that could be consulted ».
+- FR non suivie sur un point : la FR place l'espèce dans la section *Stangerioides* « selon une clé relevée par extrait de recherche » ; l'ES, comme l'EN, ne l'affirme pas (seules *dolichophylla* et *balansae* sont placées dans cette section, d'après Hill 2008). FR à corriger (extrait de recherche visible, déjà signalé au balayage du 25/10).
+- Forums : Fous de palmiers cité de façon anonyme et datée (Belley/Montpellier, Nîmes ; 2010, 2011, 2013). JZT : rien de publié. Aucun nom espagnol attesté. Pas d'article Lavaud (espèce vietnamienne).
+- Liens internes ES (200) : genre (intro), *debaoensis* 24530, *dolichophylla* 37783, *balansae* 37341, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : semis 23153, arrosage 23175, toxicité 23195. Sans page ES (non lié) : *micholitzii*.
+- Index genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon `genre-cycas-es.html` aligné.
+- Liens entrants : aucune autre page ES ne cite l'espèce (balayage REST du 31/10/2026).
+- Points douteux (repris EN/FR) : aucune mesure botanique (description originale de pago) ; statut « éteinte à l'état sauvage » (POWO, Christenhusz & Govaerts 2024) connu seulement par compilation ; critères de l'évaluation 2023 inconnus.
+- Forums ES (InfoJardín, Club de Palmeras) : recherche web restreinte du 31/10/2026, aucun résultat sur l'espèce.

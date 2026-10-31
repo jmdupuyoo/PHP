@@ -20,3 +20,4 @@
 
 ## FR/IT
 - FR 21767 (7) et IT 28190 (7) : notes de travail retirées (« seule description chiffrée consultée », « sources consultées », « non consulté ici », « présence actuelle non vérifiée », « n'a été trouvée / non è stato trovato ») ; Index Seminum : n° 1495 confirmé en FR (rien de faux), absence de 2014-15 à 2022-23 ajoutée ; BGCI (21), Montgomery, Jungle Music, Trebrown ajoutés avec leurs sources. Brouillons alignés (verify : identiques).
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C (21 °F)** sur la page 32386 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

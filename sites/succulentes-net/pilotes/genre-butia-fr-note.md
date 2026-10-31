@@ -64,3 +64,4 @@ Aucun bloc image dans la page actuelle, pas d'image mise en avant.
 
 ## 5. Encadré
 - IUCN au niveau genre : remplacé par un champ « Conservation » renvoyant à la section.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 5410 (3 remplacements, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

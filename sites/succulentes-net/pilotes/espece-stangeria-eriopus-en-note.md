@@ -37,3 +37,4 @@
 - Zone USDA 10a/b : déclarée par le cultivateur corse lui-même (attribuée).
 - JZT : année de mise en pot et taille de la plante toujours inconnues (point déjà soumis au propriétaire, `cycadales-a-verifier.md`).
 - Aucun message de forum du compte JMDUPUYOO utilisé.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C (21 °F)** sur la page 35976 (4 remplacements, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

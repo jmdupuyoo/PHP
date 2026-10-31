@@ -26,3 +26,4 @@
 
 ## Fin de lot (25/10/2026)
 - Lien sortant vers *Zamia variegata* (EN 34441) posé (Possible confusion ; simulation 1, application 1, dans le lot des liens entrants de *variegata*) ; brouillon aligné, texte en ligne identique.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C (21 °F)** sur la page 34407 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

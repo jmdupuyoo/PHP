@@ -56,3 +56,4 @@
 - Statut inchangé (CR, 2022 ; version corrigée 2023 signalée). Index de la page genre IT 11879 : ligne conforme à l'index FR 3963 (non modifiée). SEO inchangé (toujours exact).
 - Contrôles (verify.py) : texte en ligne identique au brouillon, 14 liens identiques, liens internes IT en 200, URL 200, aucun commentaire de bloc visible, 150/150 blocs, hreflang fr/it/en. ≈ 5 380 mots.
 - Points douteux : Liste rouge et POWO non consultés (Cloudflare) ; Nazor 2005 non lu ; pot ou pleine terre non précisé pour le Roussillon en 2012.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 28383 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

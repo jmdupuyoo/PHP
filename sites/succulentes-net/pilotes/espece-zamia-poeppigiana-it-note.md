@@ -41,3 +41,4 @@
 
 ## Retouche del 25/10/2026 (lot ZAM14)
 - 13 remplacements (simulation puis application) : « consultati » (encadré), « conversione approssimativa nostra », « nessuna fonte consultata » ×3, « le fonti consultate » ×2, « minacce… non sono note », « che abbiamo potuto consultare », « ricerche dell'11 e del 17 ottobre », « non è stata trovata / non è stato trovato » reformulés ; source FdP sostituita dal filo t=12464 ; BGCI, Montgomery, Trebrown aggiunti. Brouillon aligné.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 28188 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

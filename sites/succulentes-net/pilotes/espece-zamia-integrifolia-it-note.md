@@ -25,3 +25,4 @@
 
 ## Retouche du 24/10/2026 (0d, lot ZAM02)
 - Mention d'extrait de recherche retirée : Meerow et al. 2018 (« connu(e) par un extrait », chapitre non accessible) remplacé par Salas-Leiva et al. 2017 (*Am. J. Bot.* 104 : 757-771, résumé lu sur OpenAlex : complexe *Zamia pumila* monophylétique) dans Hybrides, Taxonomie et Bibliographie ; « 2n = 16 » et « une à quatorze espèces selon les auteurs » (venus de l'extrait) retirés. 3 remplacements (simulation puis application) ; brouillon aligné.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 28030 (4 remplacements, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

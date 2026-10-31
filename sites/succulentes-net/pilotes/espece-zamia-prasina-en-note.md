@@ -20,3 +20,4 @@
 
 ## FR/IT
 - FR 22369 (7) et IT 28184 (9) : notes de travail retirées (« n'a pas été consultée / non è stato consultato », « dans les sources consultées / nelle fonti consultate » ×2, « n'a été trouvée / non è stato trovato » ×2, « lu lors de la fiche de cette espèce », IT « presenza attuale non verificata » ×2, « altre liste italiane consultate ») ; source « recherche » du forum remplacée par les fils t=5743 et t=9702 ; BGCI (21), Montgomery (13), Trebrown ajoutés ; IT : absence des Index Seminum 2007-2023. Brouillons alignés (verify : identiques).
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C (21 °F)** sur la page 32396 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

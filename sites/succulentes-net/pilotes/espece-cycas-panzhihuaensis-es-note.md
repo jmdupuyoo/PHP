@@ -25,3 +25,4 @@
 - Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Trebrown (« El vivero británico Trebrown », « Trebrown » ×2 ; source « Trebrown Nurseries, ficha Cycas panzhihuaensis »), retouche du 31/10 annulée.
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) rétabli.
 - replace_in_content simulé (5) puis appliqué (5) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 23604 (5 remplacements, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

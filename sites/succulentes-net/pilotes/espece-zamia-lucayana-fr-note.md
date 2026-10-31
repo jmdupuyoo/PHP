@@ -14,3 +14,4 @@
 - Points douteux : Abaco (WLoC 2026, source inconnue) ; protologue Britton 1907 non lu (BHL bloqué) ; Stevenson 1987 non lu (traitement en synonyme repris de WLoC) ; Lindstrom 2024 non relu ce jour (PMC derrière reCAPTCHA).
 
 - Retouche 24/10/2026 (0c avant ZAM05) : note de travail visible retirée du texte en ligne (renvoi à la fiche d’une autre langue ou d’une autre espèce comme origine de la consultation : « for the French page », « lors de la rédaction de la fiche italienne », « repris de la fiche … », etc.) ; replace_in_content, simulation puis application ; brouillon aligné.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 21788 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

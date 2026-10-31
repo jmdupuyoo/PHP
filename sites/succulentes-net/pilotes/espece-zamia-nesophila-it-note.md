@@ -27,3 +27,4 @@
 
 ## Pulizia del 25/10/2026 (lotto ZAM13, simulazione poi applicazione, 6 sostituzioni)
 - Impollinatore: frase « secondo Wikipedia » sostituita dalle fonti primarie lette (Tang et al. 2024; Skelley et al. 2026); « mutualismo obbligato » tolto; riga Wikipedia sostituita da Insecta Mundi; « non è stato trovato » → « pubblicato » (freddo, tossicità); « forum italiani consultati » → « forum italiani »; due riferimenti aggiunti. Bozza allineata.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 28119 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

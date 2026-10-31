@@ -20,3 +20,4 @@
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
 
 - 31/10/2026 (CYC-ES09, retouche 0) : lien vers *Cycas taiwaniana* 24565 demandé (« Signalé lors de CYC-ES07 ») : déjà présent à la première occurrence utile (Confusiones posibles, depuis CYC-ES02) ; la mention de Taxonomía (« el grupo de *Cycas balansae* y *Cycas taiwaniana* ») est une occurrence ultérieure, laissée sans lien (règle de la première occurrence). Aucun remplacement.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 24523 (7 remplacements, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

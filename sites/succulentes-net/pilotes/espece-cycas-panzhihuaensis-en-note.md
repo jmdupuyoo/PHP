@@ -39,3 +39,4 @@
 
 ## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
 - Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 10 remplacement(s) sur la page 16350, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C (21 °F)** sur la page 16350 (4 remplacements, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

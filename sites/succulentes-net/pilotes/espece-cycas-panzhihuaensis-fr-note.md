@@ -42,3 +42,4 @@
 - 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
 
 - Retouche 25/10/2026 (0 avant ZAM18) : brouillon local vérifié identique au texte en ligne (get_content ; seul écart, le rendu de l'intégration YouTube) ; reformulation « sources consultées » et « n'a été trouvé » appliquée (5 remplacements, simulation puis application) ; brouillon aligné.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 1670 (4 remplacements, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

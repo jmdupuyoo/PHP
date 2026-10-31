@@ -39,3 +39,4 @@
 
 ## Lien posé le 25/10/2026 (ZAM09)
 - Lien vers *inermis* EN 32113 (première occurrence, 1 remplacement, simulation puis application).
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C (21 °F)** sur la page 20366 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

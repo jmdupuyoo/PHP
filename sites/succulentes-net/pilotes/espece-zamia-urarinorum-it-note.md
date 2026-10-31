@@ -26,3 +26,4 @@
 - Liens entrants : hymenophyllidia 28016, multidentata 28107, poeppigiana 28188.
 
 - Ritocco 25/10/2026 (lotto ZAM18, creazione EN 34424): «che abbiamo potuto consultare» rimosso (1 sostituzione, simulazione poi applicazione); bozza allineata. Scheda EN collegata (hreflang fr/it/en).
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 28427 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

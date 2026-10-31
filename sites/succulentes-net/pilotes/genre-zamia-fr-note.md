@@ -148,3 +148,4 @@ Antilles 7 · Floride 1 (+ 2 variétés) · Mexique 18 · Amérique centrale 27 
 
 ## Retouche du 25/10/2026 (0a avant ZAM07)
 - Paragraphe Usages : méthylazoxyméthanol retiré de la liste des glycosides → « glycosides toxiques (cycasine, macrozamine), dont dérive le méthylazoxyméthanol » ; note de travail « cet usage n'a pas été vérifié dans la source d'origine » retirée (Schultes et Raffauf 1990 attribué comme cité par la Gymnosperm Database). Simulation puis application, 1 remplacement ; brouillon aligné.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 3963 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

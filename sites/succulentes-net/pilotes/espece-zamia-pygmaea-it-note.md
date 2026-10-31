@@ -56,3 +56,4 @@
 ## Retouche du 25/10/2026 (lot ZAM15)
 
 - Notes de travail visibles retirées (replace_in_content, simulation puis application : FR 4, IT 6) ; date de Lavaud 2023 harmonisée lors de la retouche 0 ; brouillon aligné. Page EN créée : 32548.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 28257 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

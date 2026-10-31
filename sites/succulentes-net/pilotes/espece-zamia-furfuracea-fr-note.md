@@ -53,3 +53,4 @@
 ## Hors lot à revoir
 - Article FR 14218 « Cycas gelé : que faire pour le sauver ? » : tableau de seuils non sourcé (*Z. furfuracea* 0/−2 °C, −4/−5 °C).
 - Article FR 15681 « Cycas en pot » : « carton cycad », « rarement plus de cinquante centimètres », « *Zamia integrifolia* la seule cycadale native des États-Unis » à vérifier.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 14461 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

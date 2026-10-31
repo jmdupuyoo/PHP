@@ -23,3 +23,4 @@
 
 ## Retouche du 25/10/2026 (0a avant ZAM07)
 - Paragraphe Usages : « Toxic glycosides (methylazoxymethanol, macrozamin, cycasin) » → « toxic glycosides (cycasin, macrozamin), from which methylazoxymethanol is derived » ; note de travail « this use has not been checked in the original source » retirée (Schultes & Raffauf 1990 attribué comme cité par la Gymnosperm Database). Simulation puis application, 1 remplacement ; brouillon aligné.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C (21 °F)** sur la page 16295 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

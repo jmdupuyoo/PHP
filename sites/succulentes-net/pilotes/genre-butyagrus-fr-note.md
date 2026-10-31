@@ -48,3 +48,4 @@ Aucun bloc image dans la page actuelle.
 
 ## 5. Encadré
 - IUCN : « non évalué » (hybrides exclus de la Liste rouge) ; « Port et dimensions » : taille dans Caractères.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 6541 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

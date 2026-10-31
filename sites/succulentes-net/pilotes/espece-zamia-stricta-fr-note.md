@@ -20,3 +20,4 @@
 
 ## Retouche du 25/10/2026 (lot ZAM17, création EN 32833)
 - Notes de travail retirées ou reformulées (simulation puis application, FR 6 / IT 8) : conversions « faites par nous / nostra », « détail des menaces non lu », « n'a été trouvé(e) / trovata / trovato », listes « consultées », IT « che abbiamo potuto consultare » et phrase de recherche Fous de palmiers (Agave/Cordyline stricta). Brouillon aligné, live = brouillon.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 21774 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.

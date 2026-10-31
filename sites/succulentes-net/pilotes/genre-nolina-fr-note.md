@@ -68,3 +68,4 @@ Aucun bloc image dans la page actuelle, pas d'image mise en avant. Le paragraphe
 ## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
 
 - Q24 : mention « Référence reprise de la page Dasylirion du site » retirée de l'annotation de Bogler & Simpson (1996) (fait conservé : place des nolines hors des agaves). 1 remplacement (page 1047), brouillon aligné, REST identique.
+- Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 1047 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
