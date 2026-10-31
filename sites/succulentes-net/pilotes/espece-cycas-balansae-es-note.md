@@ -1,0 +1,17 @@
+# Note — *Cycas balansae* (ES 37341), https://succulentes.net/es/orden-cycadales/cycas/balansae/
+
+## Création du 31/10/2026 (lot CYC-ES07, mode C)
+- Avant création : aucune page ES (list_content es « balansae », statut any : seules les pages qui la citent ; corbeille ES vide ; /es/orden-cycadales/cycas/balansae/ en 404, pas de redirection).
+- create_content : page, publish, langue es, parent 23432, slug `balansae`, titre « Cycas balansae », translation_of FR 21822 → id **37341**. Hreflang vérifiés : fr 21822, it 28478, en 18635, es 37341. Aucune image.
+- Brouillon `pilotes/espece-cycas-balansae-es.html` identique au texte en ligne (verify.py : texte identique, 10 liens même séquence) ; blocs 132/132. ≈ 4 370 mots (Rank Math).
+- SEO Rank Math : « Cycas balansae: la cícada de sombra de Guangxi y Vietnam » (56) ; meta 145 ; mot-clé « Cycas balansae » ; aucun problème ; `<title>` vérifié.
+- Base : EN 18635 et FR 21822 et leurs notes (Hill 2008, Hill et al. 2004, WLoC 65, Xiao & Gong 2006, Tao 2021, Zhang 2025, Nguyen 2010, Nguyen & Lindstrom 2023-1, Donaldson 2003 via Hill, Species+, RBG Sydney, Montgomery, BGCI, vivero britannique, Tropicamente Monza 2009, Fous de palmiers).
+- Revérifié le 31/10/2026 : GBIF 2683289 → EN (iucnTaxonID 42069) ; WCVP sur GBIF 206945440 : accepté, « Monsunia 1: 181 » (Hill/WLoC : p. 179 ; divergence exposée dans la Taxonomie et la ligne de source) ; Species+ 25061 (API) : annexe II (05/03/2026), UE B (29/06/2026), China, Viet Nam, nom vietnamien « Tue da voi ».
+- Pépiniériste anonymisé (consigne ES) : Trebrown → « un vivero británico » (URL gardée, entrée « Vivero especializado británico ») ; « Balansa’s sago » présenté comme nom commercial.
+- Notes de travail EN/FR non reprises : « POWO could not be consulted directly », « The Red List pages themselves could not be consulted directly », « The Chinese name could not be checked in a flora », annotations « not consulted / abstract consulted / full text consulted / page not consulted (access blocked) ». FR 21822 : phrase « Elle présentait également un hybride horticole, *Cycas* 'Cycad Waverider'… il est retiré » (provenance interne visible) non reprise.
+- Cadre international : Rusticidad (zone 9b commerciale convertie en °C seulement ; clima mediterráneo ; climas tropicales y subtropicales) ; « En jardines botánicos » (États-Unis, Australie, Royaume-Uni, Chine/Vietnam). JZT : rien. Aucun nom espagnol.
+- Liens internes ES (200) : genre (intro), *bifida* 37329, *changjiangensis* 24616, *tanqingii* 24610, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : semis 23153, arrosage 23175, guide 23142 (article toxicité 23195 non lié). Sans page ES : *dolichophylla*, *collina*, *ferruginea*, *siamensis*, *parvula*, *simplicipinna*, *tonkinensis*, *shiwandashanica*, *palmatifida*.
+- Index genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon genre aligné.
+- Liens entrants posés (simulation 4, application 4 ; brouillons alignés, verify.py identiques) : *aculeata* 37295 (Confusiones), *changjiangensis* 24616 (Híbridos, avec *bifida* dans le même remplacement), *tanqingii* 24610 (Confusiones ; 1re mention dans l'encadré, non liée), *guizhouensis* 24523.
+- Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
+- Points douteux (repris de l'EN/FR) : « Tue da voi » (Species+ seul) ; critères A2acd+4acd rattachés à 2010 ; points chinois de Zhang 2025 probablement *C. collina* (déduction) ; année d'entrée Montgomery inconnue ; page du protologue (179/181).
