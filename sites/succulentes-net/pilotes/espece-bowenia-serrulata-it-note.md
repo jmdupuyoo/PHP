@@ -22,3 +22,5 @@
 - Fichier `pilotes/espece-bowenia-serrulata-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, hors sommaire Easy TOC) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées (script) ; aucun lien vers une page FR ; liens internes IT tous en 200.
 - Aucune page IT ni redirection préexistante (list_content, list_redirects). Images : aucune (la FR n'en a pas).
 - Rien commité.
+
+- Ritocco del 31/10/2026 (lotto BOW01, pulizia FR/IT) : 31 + 1 sostituzioni (simulazione poi applicazione) : stesse correzioni della FR (Lista Rossa via GBIF/Crossref, WildNet «special least concern» senza EPBC, riscontro PalmTalk da estratto ritirato, Asmussen 2011 letto, POWO → WCVP su GBIF, riga WildNet e Internet Archive aggiunte, annotazioni di lettura riformulate, «pubblicazioni successive del giardino consultate» → senza «consultate»). Bozza allineata (0 scarti).

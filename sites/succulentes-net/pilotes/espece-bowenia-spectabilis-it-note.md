@@ -22,3 +22,5 @@
 - Fichier `pilotes/espece-bowenia-spectabilis-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, hors sommaire Easy TOC) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées (script) ; aucun lien vers une page FR ; liens internes IT tous en 200.
 - Aucune page IT ni redirection préexistante (list_content, list_redirects). Images : aucune (la FR n'en a pas).
 - Rien commité.
+
+- Ritocco del 31/10/2026 (lotto BOW01, pulizia FR/IT) : 36 sostituzioni (simulazione poi applicazione) : stesse correzioni della FR (UICN Bösenberg 2022, riscontro PalmTalk ritirato, storia secondo Hooker 1863, LLIFLE, WildNet, Asmussen 2011 letto, «radice simile a un igname» ora attribuita a Bailey 1883 tramite Asmussen invece di «non verificata», ANPSA riletta, POWO → WCVP, annotazioni di lettura riformulate, «riletto» e «letta» → date di consultazione). Bozza allineata (0 scarti).
