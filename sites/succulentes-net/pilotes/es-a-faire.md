@@ -10,9 +10,9 @@ Créé le 31/10/2026. Consignes : `prompts/consignes-es-cycadales.md`. Ordre dé
 ## Cycas — page genre EN 16282 ; 124 fiches EN
 
 - [x] CYC-ES01 (FAIT 31/10/2026 : ES 24555, 24616, 24596, 24514, 24591 réécrites, SEO, brouillons et notes) : beddomei (R ES24555, EN 16474), changjiangensis (R ES24616, EN 18627), chenii (R ES24596, EN 30226), circinalis (R ES24514, EN 16365), condaoensis (R ES24591, EN 30323)
-- [ ] CYC-ES02 : debaoensis (R ES24530, EN 16403), diannanensis (R ES24549, EN 18578), guizhouensis (R ES24523, EN 16451), hongheensis (R ES24602, EN 18581) (longipetiolula : ES 36907 créée le 31/10/2026, déjà au gabarit, hors lot)
+- [x] CYC-ES02 (FAIT 31/10/2026 : ES 24530, 24549, 24523, 24602 réécrites, SEO, brouillons et notes ; retouche 0 : longipetiolula ES 36907 mise au gabarit ES) : debaoensis (R ES24530, EN 16403), diannanensis (R ES24549, EN 18578), guizhouensis (R ES24523, EN 16451), hongheensis (R ES24602, EN 18581)
 - [ ] CYC-ES03 : panzhihuaensis (R ES23604, EN 16350), pectinata (R ES24583, EN 16415), revoluta (R ES24488, EN 16343), rumphii (R ES24535, EN 16371), szechuanensis (R ES24543, EN 18596)
-- [ ] CYC-ES04 : taitungensis (R ES24503, EN 16354), taiwaniana (R ES24565, EN 18603), tanqingii (R ES24610, EN 18728), thouarsii (R ES23603, EN 16378), tropophylla (R ES24578, EN 31028)
+- [x] CYC-ES04 (FAIT 31/10/2026 : ES 24503, 24565, 24610, 23603, 24578 réécrites, SEO, brouillons et notes ; *taiwaniana* alignée sur WLoC pour *changjiangensis*) : taitungensis (R ES24503, EN 16354), taiwaniana (R ES24565, EN 18603), tanqingii (R ES24610, EN 18728), thouarsii (R ES23603, EN 16378), tropophylla (R ES24578, EN 31028)
 - [ ] CYC-ES05 : aculeata (C, EN 30102), aenigma (C, EN 30105), andamanica (C, EN 30108), angulata (C, EN 30111), annaikalensis (C, EN 30118)
 - [ ] CYC-ES06 : apoa (C, EN 30128), arenicola (C, EN 30133), armstrongii (C, EN 16432), arnhemica (C, EN 30137), badensis (C, EN 30144)
 - [ ] CYC-ES07 : balansae (C, EN 18635), basaltica (C, EN 30148), bifida (C, EN 16481), bougainvilleana (C, EN 30163), brachycantha (C, EN 30169)
