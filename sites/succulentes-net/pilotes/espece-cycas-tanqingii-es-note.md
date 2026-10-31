@@ -18,3 +18,5 @@
 ## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
+
+- 31/10/2026 (CYC-ES09) : lien entrant vers *Cycas chevalieri* 37509 posé à la première occurrence (Confusiones posibles) ; replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

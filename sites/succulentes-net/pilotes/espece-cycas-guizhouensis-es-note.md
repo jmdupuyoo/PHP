@@ -18,3 +18,5 @@
 ## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01 ; lien vers l'article ES 23244 (méthode Simon Lavaud) ajouté (la fiche parle du greffage).
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
+
+- 31/10/2026 (CYC-ES09, retouche 0) : lien vers *Cycas taiwaniana* 24565 demandé (« Signalé lors de CYC-ES07 ») : déjà présent à la première occurrence utile (Confusiones posibles, depuis CYC-ES02) ; la mention de Taxonomía (« el grupo de *Cycas balansae* y *Cycas taiwaniana* ») est une occurrence ultérieure, laissée sans lien (règle de la première occurrence). Aucun remplacement.

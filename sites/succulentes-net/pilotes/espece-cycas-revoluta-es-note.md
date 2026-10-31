@@ -31,3 +31,5 @@
 - Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Cycadales.eu / Simon Lavaud, comme la FR : « (Cycadales.eu, vivero de Simon Lavaud, viverista especializado en cícadas) » (1re mention), « (Cycadales.eu) » ×7, « (Cycadales.eu; Universidad de Arkansas) », « Cycadales.eu recomienda », « Simon Lavaud injerta » ; source « Cycadales.eu (Simon Lavaud, viverista especializado en cícadas), «Les maladies des Cycas» » ; retouche du 31/10 annulée. « Cica » et « palma de sagú » (attribué) inchangés (question 31).
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) rétabli.
 - replace_in_content simulé (13) puis appliqué (13) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
+
+- 31/10/2026 (CYC-ES09) : lien entrant vers *Cycas clivicola* 37576 posé à la première occurrence (Taxonomía, néotype de *Cycas miquelii*) ; replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.

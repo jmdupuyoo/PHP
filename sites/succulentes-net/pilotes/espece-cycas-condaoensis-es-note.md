@@ -11,3 +11,5 @@
 - GBIF : URL d'occurrences remplacée par l'API (la page web renvoie 403 à curl). Forums ES : recherche web le 31/10/2026, rien.
 - Liens internes ES (200) : genre (intro), *pectinata* 24583, *beddomei* 24555, article *Aulacaspis*, *revoluta* 24488 ; « Lee también » : semis, toxicité. Sans page ES : *siamensis*, *clivicola*, *lindstromii*, *pranburiensis*, *pachypoda*.
 - Points douteux (repris de l'EN) : habitat, dimensions, effectifs inconnus ; collecteur « Pierre, L » = Louis Pierre (évident, non écrit par WLoC).
+
+- 31/10/2026 (CYC-ES09) : lien entrant vers *Cycas clivicola* 37576 posé à la première occurrence (Confusiones posibles) ; replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
