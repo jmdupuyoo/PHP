@@ -176,3 +176,5 @@ aenigma, angulata, annaikalensis, apoa, arenicola, arnhemica, badensis, basaltic
 
 ## Retouche du 24/10/2026 (0e avant CYC25)
 - Mentions « d’après un extrait de recherche » traitées (10 remplacements, simulation puis application) : POWO / *taitungensis* → WCVP de Kew (base de POWO) lu sur GBIF (https://www.gbif.org/species/206945281, version du 04/06/2026 : synonyme de *revoluta*) ; « en s’appuyant sur des travaux génétiques » retiré (non sourcé) ; noms français → fiche Hanbury / Val Rahmeh (lue), « sagoutier du Japon » présenté comme usage commercial non trouvé dans une source botanique ; Espace pour la vie retiré (redirection 429) ; Missouri Botanical Garden (−9 °C) retiré (TLS, 503) ; étude chinoise de 2024 → Ling et al. 2024 (*Plant Physiology and Biochemistry* 214 : 108907, résumé lu sur Europe PMC) ajoutée en Bibliographie ; annotation Fric et al. 2014 → « d’après le titre ; texte non consulté ». Brouillon aligné.
+
+- Retouche du 31/10/2026 (cas *longipetiolula*) : mention de *Cycas longipetiolula* liée vers la nouvelle page de même langue (replace_in_content, simulation 1 puis application 1) ; brouillon aligné (texte identique au contenu en ligne).

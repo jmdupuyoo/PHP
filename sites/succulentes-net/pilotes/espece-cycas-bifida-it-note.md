@@ -22,3 +22,5 @@
 
 ## Punti dubbi
 - Coltivazione del coltivatore di Ravenna (vaso o serra fredda) non precisata per *bifida*; causa del deperimento ipotizzata da lui stesso.
+
+- Retouche du 31/10/2026 (cas *longipetiolula*) : mention de *Cycas longipetiolula* liée vers la nouvelle page de même langue (replace_in_content, simulation 1 puis application 1) ; brouillon aligné (texte identique au contenu en ligne).

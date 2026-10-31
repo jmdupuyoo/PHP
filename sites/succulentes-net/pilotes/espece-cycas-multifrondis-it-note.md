@@ -32,3 +32,5 @@
 
 ## Punti dubbi
 - Località del coltivatore italiano che riferisce −2 °C sconosciuta.
+
+- Retouche du 31/10/2026 (cas *longipetiolula*) : mention de *Cycas longipetiolula* liée vers la nouvelle page de même langue (replace_in_content, simulation 1 puis application 1) ; brouillon aligné (texte identique au contenu en ligne).
