@@ -4,154 +4,154 @@ Balayage de la balise `<meta name="description">` des 890 contenus EN en ligne (
 
 ## Lot META-A — Agavoïdes (pages) (148)
 
-- [ ] 16217 (page) /en/agavoids/agave/americana/ — Agave americana
-- [ ] 15887 (page) /en/agavoids/agave/angustifolia/ — Agave angustifolia
-- [ ] 16222 (page) /en/agavoids/agave/attenuata/ — Agave attenuata
-- [ ] 16227 (page) /en/agavoids/agave/bracteosa/ — Agave bracteosa
-- [ ] 16230 (page) /en/agavoids/agave/celsii/ — Agave celsii
-- [ ] 16235 (page) /en/agavoids/agave/cerulata/ — Agave cerulata
-- [ ] 16242 (page) /en/agavoids/agave/chazaroi/ — Agave chazaroi
-- [ ] 16246 (page) /en/agavoids/agave/chrysantha/ — Agave chrysantha
-- [ ] 16253 (page) /en/agavoids/agave/decipiens/ — Agave decipiens
-- [ ] 16257 (page) /en/agavoids/agave/deserti/ — Agave deserti
-- [ ] 16261 (page) /en/agavoids/agave/filifera/ — Agave filifera
-- [ ] 16266 (page) /en/agavoids/agave/geminiflora/ — Agave geminiflora
-- [ ] 16271 (page) /en/agavoids/agave/gentryi/ — Agave gentryi
-- [ ] 19214 (page) /en/agavoids/agave/havardiana/ — Agave havardiana
-- [ ] 19256 (page) /en/agavoids/agave/montana/ — Agave montana
-- [ ] 19221 (page) /en/agavoids/agave/ovatifolia/ — Agave ovatifolia
-- [ ] 19271 (page) /en/agavoids/agave/parryi/truncata/ — Agave parryi var. truncata
-- [ ] 19208 (page) /en/agavoids/agave/sisalana/ — Agave sisalana
-- [ ] 19200 (page) /en/agavoids/agave/tequilana/ — Agave tequilana
-- [ ] 19266 (page) /en/agavoids/agave/toumeyana/ — Agave toumeyana
-- [ ] 19251 (page) /en/agavoids/agave/utahensis/ — Agave utahensis
-- [ ] 19227 (page) /en/agavoids/agave/victoriae-reginae/ — Agave victoriae-reginae
-- [ ] 16023 (page) /en/agavoids/beschorneria/albiflora/ — Beschorneria albiflora
-- [ ] 16043 (page) /en/agavoids/beschorneria/beschorneria-tubiflora/ — Beschorneria tubiflora
-- [ ] 16029 (page) /en/agavoids/beschorneria/calcicola/ — Beschorneria calcicola
-- [ ] 16056 (page) /en/agavoids/beschorneria/carolinae/ — Beschorneria carolinae
-- [ ] 16049 (page) /en/agavoids/beschorneria/dubia/ — Beschorneria dubia
-- [ ] 16018 (page) /en/agavoids/beschorneria/rigida/ — Beschorneria rigida
-- [ ] 16008 (page) /en/agavoids/beschorneria/septentrionalis/ — Beschorneria septentrionalis
-- [ ] 16036 (page) /en/agavoids/beschorneria/wrightii/ — Beschorneria wrightii
-- [ ] 15998 (page) /en/agavoids/beschorneria/yuccoides/ — Beschorneria yuccoides
-- [ ] 20875 (page) /en/agavoids/doryanthes/palmeri/ — Doryanthes palmeri
-- [ ] 22208 (page) /en/agavoids/dracaena/afromontana/ — Dracaena afromontana
-- [ ] 20489 (page) /en/agavoids/dracaena/aletriformis/ — Dracaena aletriformis
-- [ ] 20563 (page) /en/agavoids/dracaena/americana/ — Dracaena americana
-- [ ] 22173 (page) /en/agavoids/dracaena/arborea/ — Dracaena arborea
-- [ ] 20504 (page) /en/agavoids/dracaena/cambodiana/ — Dracaena cambodiana
-- [ ] 17464 (page) /en/agavoids/dracaena/cinnabari/ — Dracaena cinnabari
-- [ ] 20497 (page) /en/agavoids/dracaena/cochinchinensis/ — Dracaena cochinchinensis
-- [ ] 20557 (page) /en/agavoids/dracaena/cubensis/ — Dracaena cubensis
-- [ ] 20544 (page) /en/agavoids/dracaena/draco/caboverdeana/ — Dracaena draco subsp. caboverdeana
-- [ ] 22165 (page) /en/agavoids/dracaena/fragrans/ — Dracaena fragrans
-- [ ] 22743 (page) /en/agavoids/dracaena/inexpectata/ — Dracaena inexpectata
-- [ ] 20514 (page) /en/agavoids/dracaena/jayniana/ — Dracaena jayniana
-- [ ] 22146 (page) /en/agavoids/dracaena/kaweesakii/ — Dracaena kaweesakii
-- [ ] 22229 (page) /en/agavoids/dracaena/mannii/ — Dracaena mannii
-- [ ] 17476 (page) /en/agavoids/dracaena/ombet/ — Dracaena ombet
-- [ ] 22181 (page) /en/agavoids/dracaena/reflexa/ — Dracaena reflexa
-- [ ] 22188 (page) /en/agavoids/dracaena/sanderiana/ — Dracaena sanderiana
-- [ ] 17485 (page) /en/agavoids/dracaena/serrulata/ — Dracaena serrulata
-- [ ] 22201 (page) /en/agavoids/dracaena/steudneri/ — Dracaena steudneri
-- [ ] 22195 (page) /en/agavoids/dracaena/surculosa/ — Dracaena surculosa
-- [ ] 17453 (page) /en/agavoids/dracaena/tamaranae/ — Dracaena tamaranae 
-- [ ] 22221 (page) /en/agavoids/dracaena/transvaalensis/ — Dracaena transvaalensis
-- [ ] 22153 (page) /en/agavoids/dracaena/yuccifolia/ — Dracaena yuccifolia
-- [ ] 15941 (page) /en/agavoids/furcraea/andina/ — Furcraea andina
-- [ ] 15949 (page) /en/agavoids/furcraea/cabuya/ — Furcraea cabuya
-- [ ] 15900 (page) /en/agavoids/furcraea/foetida/ — Furcraea foetida
-- [ ] 15971 (page) /en/agavoids/furcraea/guerrerensis/ — Furcraea guerrerensis
-- [ ] 15926 (page) /en/agavoids/furcraea/hexapetala/ — Furcraea hexapetala
-- [ ] 15915 (page) /en/agavoids/furcraea/longaeva/ — Furcraea longaeva
-- [ ] 15919 (page) /en/agavoids/furcraea/macdougallii/ — Furcraea macdougallii
-- [ ] 15978 (page) /en/agavoids/furcraea/niquivilensis/ — Furcraea niquivilensis
-- [ ] 15904 (page) /en/agavoids/furcraea/parmentieri/ — Furcraea parmentieri
-- [ ] 15965 (page) /en/agavoids/furcraea/pubescens/ — Furcraea pubescens
-- [ ] 15957 (page) /en/agavoids/furcraea/quicheensis/ — Furcraea quicheensis
-- [ ] 15988 (page) /en/agavoids/furcraea/samalana/ — Furcraea samalana
-- [ ] 15933 (page) /en/agavoids/furcraea/tuberosa/ — Furcraea tuberosa
-- [ ] 16095 (page) /en/agavoids/hesperaloe/campanulata/ — Hesperaloe campanulata
-- [ ] 16111 (page) /en/agavoids/hesperaloe/chiangii/ — Hesperaloe chiangii
-- [ ] 16071 (page) /en/agavoids/hesperaloe/funifera/ — Hesperaloe funifera
-- [ ] 16119 (page) /en/agavoids/hesperaloe/malacophylla/ — Hesperaloe malacophylla
-- [ ] 16081 (page) /en/agavoids/hesperaloe/nocturna/ — Hesperaloe nocturna
-- [ ] 16065 (page) /en/agavoids/hesperaloe/parviflora/ — Hesperaloe parviflora
-- [ ] 17356 (page) /en/agavoids/hesperoyucca/newberryi/ — Hesperoyucca newberryi
-- [ ] 17350 (page) /en/agavoids/hesperoyucca/whipplei/ — Hesperoyucca whipplei
-- [ ] 16210 (page) /en/agavoids/nolina/atopocarpa/ — Nolina atopocarpa
-- [ ] 16196 (page) /en/agavoids/nolina/beldingii/ — Nolina beldingii
-- [ ] 16164 (page) /en/agavoids/nolina/bigelovii/ — Nolina bigelovii
-- [ ] 16179 (page) /en/agavoids/nolina/brittoniana/ — Nolina brittoniana
-- [ ] 16168 (page) /en/agavoids/nolina/cespitifera/ — Nolina cespitifera
-- [ ] 16202 (page) /en/agavoids/nolina/cismontana/ — Nolina cismontana
-- [ ] 16175 (page) /en/agavoids/nolina/georgiana/ — Nolina georgiana
-- [ ] 16137 (page) /en/agavoids/nolina/greenei/ — Nolina greenei
-- [ ] 16133 (page) /en/agavoids/nolina/hibernica/ — Nolina hibernica
-- [ ] 16183 (page) /en/agavoids/nolina/interrata/ — Nolina interrata
-- [ ] 16158 (page) /en/agavoids/nolina/longifolia/ — Nolina longifolia
-- [ ] 16155 (page) /en/agavoids/nolina/matapensis/ — Nolina matapensis
-- [ ] 16141 (page) /en/agavoids/nolina/microcarpa/ — Nolina microcarpa
-- [ ] 16129 (page) /en/agavoids/nolina/nelsonii/ — Nolina nelsonii
-- [ ] 16152 (page) /en/agavoids/nolina/parryi/ — Nolina parryi
-- [ ] 15319 (page) /en/agavoids/yucca/aloifolia/ — Yucca aloifolia
-- [ ] 17196 (page) /en/agavoids/yucca/angustissima/ — Yucca angustissima
-- [ ] 15513 (page) /en/agavoids/yucca/arizonica/ — Yucca arizonica
-- [ ] 17163 (page) /en/agavoids/yucca/arkansana/ — Yucca arkansana
-- [ ] 15422 (page) /en/agavoids/yucca/baccata/ — Yucca baccata
-- [ ] 17207 (page) /en/agavoids/yucca/baileyi/ — Yucca baileyi
-- [ ] 15373 (page) /en/agavoids/yucca/brevifolia/ — Yucca brevifolia
-- [ ] 17273 (page) /en/agavoids/yucca/campestris/ — Yucca campestris
-- [ ] 15462 (page) /en/agavoids/yucca/capensis/ — Yucca capensis
-- [ ] 15327 (page) /en/agavoids/yucca/carnerosana/ — Yucca carnerosana
-- [ ] 17260 (page) /en/agavoids/yucca/carrii/ — Yucca carrii
-- [ ] 17167 (page) /en/agavoids/yucca/cernua/ — Yucca cernua
-- [ ] 17282 (page) /en/agavoids/yucca/coahuilensis/ — Yucca coahuilensis
-- [ ] 17151 (page) /en/agavoids/yucca/constricta/ — Yucca constricta
-- [ ] 15367 (page) /en/agavoids/yucca/decipiens/ — Yucca decipiens
-- [ ] 17247 (page) /en/agavoids/yucca/declinata/ — Yucca declinata
-- [ ] 17173 (page) /en/agavoids/yucca/desmetiana/ — Yucca desmetiana
-- [ ] 15405 (page) /en/agavoids/yucca/elata/ — Yucca elata
-- [ ] 15352 (page) /en/agavoids/yucca/elephantipes/ — Yucca elephantipes
-- [ ] 17330 (page) /en/agavoids/yucca/endlichiana/ — Yucca endlichiana
-- [ ] 15334 (page) /en/agavoids/yucca/faxoniana/ — Yucca faxoniana
-- [ ] 15381 (page) /en/agavoids/yucca/filamentosa/ — Yucca filamentosa
-- [ ] 15361 (page) /en/agavoids/yucca/filifera/ — Yucca filifera
-- [ ] 17183 (page) /en/agavoids/yucca/flaccida/ — Yucca flaccida
-- [ ] 15412 (page) /en/agavoids/yucca/glauca/ — Yucca glauca
-- [ ] 15387 (page) /en/agavoids/yucca/gloriosa/ — Yucca gloriosa
-- [ ] 17287 (page) /en/agavoids/yucca/grandiflora/ — Yucca grandiflora
-- [ ] 15532 (page) /en/agavoids/yucca/harrimaniae/ — Yucca harrimaniae
-- [ ] 17215 (page) /en/agavoids/yucca/intermedia/ — Yucca intermedia
-- [ ] 17366 (page) /en/agavoids/yucca/jaegeriana/ — Yucca jaegeriana
-- [ ] 17299 (page) /en/agavoids/yucca/jaliscensis/ — Yucca jaliscensis
-- [ ] 15441 (page) /en/agavoids/yucca/lacandonica/ — Yucca lacandonica
-- [ ] 15285 (page) /en/agavoids/yucca/linearifolia/ — Yucca linearifolia
-- [ ] 17254 (page) /en/agavoids/yucca/louisianensis/ — Yucca louisianensis
-- [ ] 15490 (page) /en/agavoids/yucca/madrensis/ — Yucca madrensis
-- [ ] 15475 (page) /en/agavoids/yucca/mixtecana/ — Yucca mixtecana
-- [ ] 17381 (page) /en/agavoids/yucca/muscipula/ — Yucca muscipula
-- [ ] 17303 (page) /en/agavoids/yucca/necopina/ — Yucca necopina
-- [ ] 15524 (page) /en/agavoids/yucca/neomexicana/ — Yucca neomexicana
-- [ ] 17315 (page) /en/agavoids/yucca/periculosa/ — Yucca periculosa
-- [ ] 17373 (page) /en/agavoids/yucca/pinicola/ — Yucca pinicola
-- [ ] 17319 (page) /en/agavoids/yucca/potosina/ — Yucca potosina
-- [ ] 15302 (page) /en/agavoids/yucca/queretaroensis/ — Yucca queretaroensis
-- [ ] 21573 (page) /en/agavoids/yucca/quinnarjenii/ — Yucca × quinnarjenii
-- [ ] 17131 (page) /en/agavoids/yucca/reverchonii/ — Yucca reverchonii
-- [ ] 15312 (page) /en/agavoids/yucca/rigida-luminosa/ — Yucca rigida
-- [ ] 15277 (page) /en/agavoids/yucca/rostrata/ — Yucca rostrata
-- [ ] 17126 (page) /en/agavoids/yucca/rupicola/ — Yucca rupicola
-- [ ] 15396 (page) /en/agavoids/yucca/schidigera/ — Yucca schidigera
-- [ ] 15501 (page) /en/agavoids/yucca/schottii/ — Yucca schottii
-- [ ] 17232 (page) /en/agavoids/yucca/sterilis/ — Yucca sterilis
-- [ ] 17241 (page) /en/agavoids/yucca/tenuistyla/ — Yucca tenuistyla
-- [ ] 15293 (page) /en/agavoids/yucca/thompsoniana/ — Yucca thompsoniana
-- [ ] 15483 (page) /en/agavoids/yucca/torreyi/ — Yucca torreyi
-- [ ] 15345 (page) /en/agavoids/yucca/treculeana/ — Yucca treculeana
-- [ ] 17224 (page) /en/agavoids/yucca/utahensis/ — Yucca utahensis
-- [ ] 15455 (page) /en/agavoids/yucca/valida/ — Yucca valida
+- [x] 16217 (page) /en/agavoids/agave/americana/ — Agave americana — 154 car.
+- [x] 15887 (page) /en/agavoids/agave/angustifolia/ — Agave angustifolia — 154 car.
+- [x] 16222 (page) /en/agavoids/agave/attenuata/ — Agave attenuata — 144 car.
+- [x] 16227 (page) /en/agavoids/agave/bracteosa/ — Agave bracteosa — 155 car.
+- [x] 16230 (page) /en/agavoids/agave/celsii/ — Agave celsii — 145 car.
+- [x] 16235 (page) /en/agavoids/agave/cerulata/ — Agave cerulata — 150 car.
+- [x] 16242 (page) /en/agavoids/agave/chazaroi/ — Agave chazaroi — 155 car.
+- [x] 16246 (page) /en/agavoids/agave/chrysantha/ — Agave chrysantha — 139 car.
+- [x] 16253 (page) /en/agavoids/agave/decipiens/ — Agave decipiens — 153 car.
+- [x] 16257 (page) /en/agavoids/agave/deserti/ — Agave deserti — 153 car.
+- [x] 16261 (page) /en/agavoids/agave/filifera/ — Agave filifera — 153 car.
+- [x] 16266 (page) /en/agavoids/agave/geminiflora/ — Agave geminiflora — 151 car.
+- [x] 16271 (page) /en/agavoids/agave/gentryi/ — Agave gentryi — 150 car.
+- [x] 19214 (page) /en/agavoids/agave/havardiana/ — Agave havardiana — 154 car.
+- [x] 19256 (page) /en/agavoids/agave/montana/ — Agave montana — 147 car.
+- [x] 19221 (page) /en/agavoids/agave/ovatifolia/ — Agave ovatifolia — 150 car.
+- [x] 19271 (page) /en/agavoids/agave/parryi/truncata/ — Agave parryi var. truncata — 151 car.
+- [x] 19208 (page) /en/agavoids/agave/sisalana/ — Agave sisalana — 155 car.
+- [x] 19200 (page) /en/agavoids/agave/tequilana/ — Agave tequilana — 152 car.
+- [x] 19266 (page) /en/agavoids/agave/toumeyana/ — Agave toumeyana — 152 car.
+- [x] 19251 (page) /en/agavoids/agave/utahensis/ — Agave utahensis — 149 car.
+- [x] 19227 (page) /en/agavoids/agave/victoriae-reginae/ — Agave victoriae-reginae — 152 car.
+- [x] 16023 (page) /en/agavoids/beschorneria/albiflora/ — Beschorneria albiflora — 151 car.
+- [x] 16043 (page) /en/agavoids/beschorneria/beschorneria-tubiflora/ — Beschorneria tubiflora — 151 car.
+- [x] 16029 (page) /en/agavoids/beschorneria/calcicola/ — Beschorneria calcicola — 143 car.
+- [x] 16056 (page) /en/agavoids/beschorneria/carolinae/ — Beschorneria carolinae — 152 car.
+- [x] 16049 (page) /en/agavoids/beschorneria/dubia/ — Beschorneria dubia — 145 car.
+- [x] 16018 (page) /en/agavoids/beschorneria/rigida/ — Beschorneria rigida — 152 car.
+- [x] 16008 (page) /en/agavoids/beschorneria/septentrionalis/ — Beschorneria septentrionalis — 155 car.
+- [x] 16036 (page) /en/agavoids/beschorneria/wrightii/ — Beschorneria wrightii — 151 car.
+- [x] 15998 (page) /en/agavoids/beschorneria/yuccoides/ — Beschorneria yuccoides — 154 car.
+- [x] 20875 (page) /en/agavoids/doryanthes/palmeri/ — Doryanthes palmeri — 154 car.
+- [x] 22208 (page) /en/agavoids/dracaena/afromontana/ — Dracaena afromontana — 153 car.
+- [x] 20489 (page) /en/agavoids/dracaena/aletriformis/ — Dracaena aletriformis — 155 car.
+- [x] 20563 (page) /en/agavoids/dracaena/americana/ — Dracaena americana — 149 car.
+- [x] 22173 (page) /en/agavoids/dracaena/arborea/ — Dracaena arborea — 154 car.
+- [x] 20504 (page) /en/agavoids/dracaena/cambodiana/ — Dracaena cambodiana — 152 car.
+- [x] 17464 (page) /en/agavoids/dracaena/cinnabari/ — Dracaena cinnabari — 150 car.
+- [x] 20497 (page) /en/agavoids/dracaena/cochinchinensis/ — Dracaena cochinchinensis — 155 car.
+- [x] 20557 (page) /en/agavoids/dracaena/cubensis/ — Dracaena cubensis — 154 car.
+- [x] 20544 (page) /en/agavoids/dracaena/draco/caboverdeana/ — Dracaena draco subsp. caboverdeana — 154 car.
+- [x] 22165 (page) /en/agavoids/dracaena/fragrans/ — Dracaena fragrans — 151 car.
+- [x] 22743 (page) /en/agavoids/dracaena/inexpectata/ — Dracaena inexpectata — 154 car.
+- [x] 20514 (page) /en/agavoids/dracaena/jayniana/ — Dracaena jayniana — 151 car.
+- [x] 22146 (page) /en/agavoids/dracaena/kaweesakii/ — Dracaena kaweesakii — 148 car.
+- [x] 22229 (page) /en/agavoids/dracaena/mannii/ — Dracaena mannii — 152 car.
+- [x] 17476 (page) /en/agavoids/dracaena/ombet/ — Dracaena ombet — 152 car.
+- [x] 22181 (page) /en/agavoids/dracaena/reflexa/ — Dracaena reflexa — 153 car.
+- [x] 22188 (page) /en/agavoids/dracaena/sanderiana/ — Dracaena sanderiana — 154 car.
+- [x] 17485 (page) /en/agavoids/dracaena/serrulata/ — Dracaena serrulata — 155 car.
+- [x] 22201 (page) /en/agavoids/dracaena/steudneri/ — Dracaena steudneri — 150 car.
+- [x] 22195 (page) /en/agavoids/dracaena/surculosa/ — Dracaena surculosa — 152 car.
+- [x] 17453 (page) /en/agavoids/dracaena/tamaranae/ — Dracaena tamaranae — 152 car.
+- [x] 22221 (page) /en/agavoids/dracaena/transvaalensis/ — Dracaena transvaalensis — 145 car.
+- [x] 22153 (page) /en/agavoids/dracaena/yuccifolia/ — Dracaena yuccifolia — 150 car.
+- [x] 15941 (page) /en/agavoids/furcraea/andina/ — Furcraea andina — 147 car.
+- [x] 15949 (page) /en/agavoids/furcraea/cabuya/ — Furcraea cabuya — 150 car.
+- [x] 15900 (page) /en/agavoids/furcraea/foetida/ — Furcraea foetida — 151 car.
+- [x] 15971 (page) /en/agavoids/furcraea/guerrerensis/ — Furcraea guerrerensis — 150 car.
+- [x] 15926 (page) /en/agavoids/furcraea/hexapetala/ — Furcraea hexapetala — 150 car.
+- [x] 15915 (page) /en/agavoids/furcraea/longaeva/ — Furcraea longaeva — 154 car.
+- [x] 15919 (page) /en/agavoids/furcraea/macdougallii/ — Furcraea macdougallii — 151 car.
+- [x] 15978 (page) /en/agavoids/furcraea/niquivilensis/ — Furcraea niquivilensis — 147 car.
+- [x] 15904 (page) /en/agavoids/furcraea/parmentieri/ — Furcraea parmentieri — 152 car.
+- [x] 15965 (page) /en/agavoids/furcraea/pubescens/ — Furcraea pubescens — 151 car.
+- [x] 15957 (page) /en/agavoids/furcraea/quicheensis/ — Furcraea quicheensis — 151 car.
+- [x] 15988 (page) /en/agavoids/furcraea/samalana/ — Furcraea samalana — 149 car.
+- [x] 15933 (page) /en/agavoids/furcraea/tuberosa/ — Furcraea tuberosa — 151 car.
+- [x] 16095 (page) /en/agavoids/hesperaloe/campanulata/ — Hesperaloe campanulata — 153 car.
+- [x] 16111 (page) /en/agavoids/hesperaloe/chiangii/ — Hesperaloe chiangii — 155 car.
+- [x] 16071 (page) /en/agavoids/hesperaloe/funifera/ — Hesperaloe funifera — 148 car.
+- [x] 16119 (page) /en/agavoids/hesperaloe/malacophylla/ — Hesperaloe malacophylla — 153 car.
+- [x] 16081 (page) /en/agavoids/hesperaloe/nocturna/ — Hesperaloe nocturna — 150 car.
+- [x] 16065 (page) /en/agavoids/hesperaloe/parviflora/ — Hesperaloe parviflora — 152 car.
+- [x] 17356 (page) /en/agavoids/hesperoyucca/newberryi/ — Hesperoyucca newberryi — 154 car.
+- [x] 17350 (page) /en/agavoids/hesperoyucca/whipplei/ — Hesperoyucca whipplei — 155 car.
+- [x] 16210 (page) /en/agavoids/nolina/atopocarpa/ — Nolina atopocarpa — 153 car.
+- [x] 16196 (page) /en/agavoids/nolina/beldingii/ — Nolina beldingii — 144 car.
+- [x] 16164 (page) /en/agavoids/nolina/bigelovii/ — Nolina bigelovii — 152 car.
+- [x] 16179 (page) /en/agavoids/nolina/brittoniana/ — Nolina brittoniana — 150 car.
+- [x] 16168 (page) /en/agavoids/nolina/cespitifera/ — Nolina cespitifera — 151 car.
+- [x] 16202 (page) /en/agavoids/nolina/cismontana/ — Nolina cismontana — 153 car.
+- [x] 16175 (page) /en/agavoids/nolina/georgiana/ — Nolina georgiana — 152 car.
+- [x] 16137 (page) /en/agavoids/nolina/greenei/ — Nolina greenei — 148 car.
+- [x] 16133 (page) /en/agavoids/nolina/hibernica/ — Nolina hibernica — 148 car.
+- [x] 16183 (page) /en/agavoids/nolina/interrata/ — Nolina interrata — 153 car.
+- [x] 16158 (page) /en/agavoids/nolina/longifolia/ — Nolina longifolia — 155 car.
+- [x] 16155 (page) /en/agavoids/nolina/matapensis/ — Nolina matapensis — 155 car.
+- [x] 16141 (page) /en/agavoids/nolina/microcarpa/ — Nolina microcarpa — 145 car.
+- [x] 16129 (page) /en/agavoids/nolina/nelsonii/ — Nolina nelsonii — 155 car.
+- [x] 16152 (page) /en/agavoids/nolina/parryi/ — Nolina parryi — 155 car.
+- [x] 15319 (page) /en/agavoids/yucca/aloifolia/ — Yucca aloifolia — 152 car.
+- [x] 17196 (page) /en/agavoids/yucca/angustissima/ — Yucca angustissima — 154 car.
+- [x] 15513 (page) /en/agavoids/yucca/arizonica/ — Yucca arizonica — 155 car.
+- [x] 17163 (page) /en/agavoids/yucca/arkansana/ — Yucca arkansana — 154 car.
+- [x] 15422 (page) /en/agavoids/yucca/baccata/ — Yucca baccata — 150 car.
+- [x] 17207 (page) /en/agavoids/yucca/baileyi/ — Yucca baileyi — 152 car.
+- [x] 15373 (page) /en/agavoids/yucca/brevifolia/ — Yucca brevifolia — 154 car.
+- [x] 17273 (page) /en/agavoids/yucca/campestris/ — Yucca campestris — 154 car.
+- [x] 15462 (page) /en/agavoids/yucca/capensis/ — Yucca capensis — 148 car.
+- [x] 15327 (page) /en/agavoids/yucca/carnerosana/ — Yucca carnerosana — 155 car.
+- [x] 17260 (page) /en/agavoids/yucca/carrii/ — Yucca carrii — 151 car.
+- [x] 17167 (page) /en/agavoids/yucca/cernua/ — Yucca cernua — 151 car.
+- [x] 17282 (page) /en/agavoids/yucca/coahuilensis/ — Yucca coahuilensis — 145 car.
+- [x] 17151 (page) /en/agavoids/yucca/constricta/ — Yucca constricta — 152 car.
+- [x] 15367 (page) /en/agavoids/yucca/decipiens/ — Yucca decipiens — 154 car.
+- [x] 17247 (page) /en/agavoids/yucca/declinata/ — Yucca declinata — 153 car.
+- [x] 17173 (page) /en/agavoids/yucca/desmetiana/ — Yucca desmetiana — 153 car.
+- [x] 15405 (page) /en/agavoids/yucca/elata/ — Yucca elata — 148 car.
+- [x] 15352 (page) /en/agavoids/yucca/elephantipes/ — Yucca elephantipes — 150 car.
+- [x] 17330 (page) /en/agavoids/yucca/endlichiana/ — Yucca endlichiana — 152 car.
+- [x] 15334 (page) /en/agavoids/yucca/faxoniana/ — Yucca faxoniana — 142 car.
+- [x] 15381 (page) /en/agavoids/yucca/filamentosa/ — Yucca filamentosa — 152 car.
+- [x] 15361 (page) /en/agavoids/yucca/filifera/ — Yucca filifera — 155 car.
+- [x] 17183 (page) /en/agavoids/yucca/flaccida/ — Yucca flaccida — 153 car.
+- [x] 15412 (page) /en/agavoids/yucca/glauca/ — Yucca glauca — 150 car.
+- [x] 15387 (page) /en/agavoids/yucca/gloriosa/ — Yucca gloriosa — 154 car.
+- [x] 17287 (page) /en/agavoids/yucca/grandiflora/ — Yucca grandiflora — 144 car.
+- [x] 15532 (page) /en/agavoids/yucca/harrimaniae/ — Yucca harrimaniae — 151 car.
+- [x] 17215 (page) /en/agavoids/yucca/intermedia/ — Yucca intermedia — 154 car.
+- [x] 17366 (page) /en/agavoids/yucca/jaegeriana/ — Yucca jaegeriana — 152 car.
+- [x] 17299 (page) /en/agavoids/yucca/jaliscensis/ — Yucca jaliscensis — 152 car.
+- [x] 15441 (page) /en/agavoids/yucca/lacandonica/ — Yucca lacandonica — 153 car.
+- [x] 15285 (page) /en/agavoids/yucca/linearifolia/ — Yucca linearifolia — 154 car.
+- [x] 17254 (page) /en/agavoids/yucca/louisianensis/ — Yucca louisianensis — 151 car.
+- [x] 15490 (page) /en/agavoids/yucca/madrensis/ — Yucca madrensis — 155 car.
+- [x] 15475 (page) /en/agavoids/yucca/mixtecana/ — Yucca mixtecana — 155 car.
+- [x] 17381 (page) /en/agavoids/yucca/muscipula/ — Yucca muscipula — 155 car.
+- [x] 17303 (page) /en/agavoids/yucca/necopina/ — Yucca necopina — 153 car.
+- [x] 15524 (page) /en/agavoids/yucca/neomexicana/ — Yucca neomexicana — 151 car.
+- [x] 17315 (page) /en/agavoids/yucca/periculosa/ — Yucca periculosa — 149 car.
+- [x] 17373 (page) /en/agavoids/yucca/pinicola/ — Yucca pinicola — 152 car.
+- [x] 17319 (page) /en/agavoids/yucca/potosina/ — Yucca potosina — 149 car.
+- [x] 15302 (page) /en/agavoids/yucca/queretaroensis/ — Yucca queretaroensis — 148 car.
+- [x] 21573 (page) /en/agavoids/yucca/quinnarjenii/ — Yucca × quinnarjenii — 150 car.
+- [x] 17131 (page) /en/agavoids/yucca/reverchonii/ — Yucca reverchonii — 154 car.
+- [x] 15312 (page) /en/agavoids/yucca/rigida-luminosa/ — Yucca rigida — 146 car.
+- [x] 15277 (page) /en/agavoids/yucca/rostrata/ — Yucca rostrata — 153 car.
+- [x] 17126 (page) /en/agavoids/yucca/rupicola/ — Yucca rupicola — 154 car.
+- [x] 15396 (page) /en/agavoids/yucca/schidigera/ — Yucca schidigera — 153 car.
+- [x] 15501 (page) /en/agavoids/yucca/schottii/ — Yucca schottii — 150 car.
+- [x] 17232 (page) /en/agavoids/yucca/sterilis/ — Yucca sterilis — 153 car.
+- [x] 17241 (page) /en/agavoids/yucca/tenuistyla/ — Yucca tenuistyla — 151 car.
+- [x] 15293 (page) /en/agavoids/yucca/thompsoniana/ — Yucca thompsoniana — 153 car.
+- [x] 15483 (page) /en/agavoids/yucca/torreyi/ — Yucca torreyi — 154 car.
+- [x] 15345 (page) /en/agavoids/yucca/treculeana/ — Yucca treculeana — 152 car.
+- [x] 17224 (page) /en/agavoids/yucca/utahensis/ — Yucca utahensis — 151 car.
+- [x] 15455 (page) /en/agavoids/yucca/valida/ — Yucca valida — 155 car.
 
 ## Lot META-B — Aloïdes (pages) (72)
 

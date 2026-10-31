@@ -1974,3 +1974,20 @@ Pages EN du lot META-C ; rien n'a été modifié hors meta description.
   - *Fouquieria* (21211 *burragei* et d'autres fiches du genre) : cultures rapportées au « southeastern France » dans des fiches EN (règles 20 et 21 de `prompts/redaction-fiches.md`), à revoir.
   - Pages quasi vides : Campus 24691 (une phrase, 14 mots) et Botanical gardens 24688 (une phrase, 19 mots) ; descriptions rédigées à partir de cette seule phrase. Blog 15072 : page d'archive (description tirée de la liste d'articles).
 - **Technique** : pendant la lecture en parallèle (8 requêtes simultanées), plusieurs pages ont renvoyé « Database Error » en titre (18435, 18422, 23390, 19939) ; contrôle séquentiel ensuite normal.
+
+## Signalé lors de META-A (31/10/2026), hors lot
+
+Pages EN agavoïdes ; rien n'a été modifié hors meta description.
+
+- **Titres** :
+  - 17453 *Dracaena tamaranae* : espace final dans le titre de page (« Dracaena tamaranae  - Succulents » en `<title>`).
+  - 15501 *Yucca schottii* : le titre n'a pas le signe « × » alors que le contenu traite le taxon en nothospecies (*Yucca* × *schottii* Engelm., hybride stabilisé selon POWO) ; à harmoniser avec 21573 *Yucca* × *quinnarjenii*, dont le titre porte le « × ».
+- **Adresses** : 16043 `/en/agavoids/beschorneria/beschorneria-tubiflora/` (préfixe « beschorneria- » redondant) ; 15312 `/en/agavoids/yucca/rigida-luminosa/` pour une fiche intitulée *Yucca rigida*.
+- **Contenu** :
+  - Guillemets français « » dans le texte anglais de 132 des 148 pages du lot (ex. 16217 « agave », 16222 « foxtail », 22188 « lucky bamboo ») ; 19271 *Agave parryi* var. *truncata* : intertitre H2 au guillemet mal fermé (« Cold Hardiness: The Gap Between « parryi » and « truncata« »).
+  - Orthographe américaine dans 44 pages (color, fiber, meters, gray… ; ex. 19208 *Agave sisalana* : 38 occurrences, 19200 *tequilana* : 15).
+  - 22165 *Dracaena fragrans* : le contenu commence par « racaena fragrans » (D initial manquant dans le premier `<em>`).
+  - Intertitres H2 avec espace avant le point d'interrogation (typographie française, ex. « How to identify Dracaena afromontana ? ») dans 11 fiches *Dracaena* : 22208, 22173, 22165, 22743, 22146, 22229, 22181, 22201, 22195, 22221, 22153.
+  - Pages très courtes (moins de 300 mots selon l'outil) : *Beschorneria tubiflora* 16043, *calcicola* 16029, *dubia* 16049, *Hesperaloe chiangii* 16111, *malacophylla* 16119, *Nolina atopocarpa* 16210, *beldingii* 16196, *cismontana* 16202 ; descriptions prudentes, limitées à ce que la page dit.
+  - 17315 *Yucca periculosa* : aucun lien interne (outil SEO) ; hauteur donnée « according to Wikipedia » dans l'introduction.
+  - 22743 *Dracaena inexpectata* : nom absent de POWO selon la page elle-même (avertissement en tête) ; description écrite avec réserve (« caveats on its name »).
