@@ -16,3 +16,5 @@
 - Points douteux : état actuel du projet de carrière (2010) non documenté ; critère D2 (WLoC) non confronté à la Liste rouge.
 - Cadre international : Rusticidad par types de climat (clima mediterráneo y Europa ; climas tropicales y subtropicales), « En jardines botánicos ». JZT : rien de publié sur l'espèce. Aucun nom espagnol attesté.
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu pour l'espèce (InfoJardín 403 lors des lots précédents, non retenté ; aucune recherche fructueuse dans les lots CYC-ES05 à ES07).
+
+- 31/10/2026 (CYC-ES12) : lien vers *Cycas edentata* ES 37726 posé (Confusiones posibles, « hoy sinónimo de Cycas edentata ») (replace_in_content ciblé, simulation puis application, 1 remplacement par lien) ; brouillon aligné.

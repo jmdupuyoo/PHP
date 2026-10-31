@@ -12,3 +12,5 @@
 - Points douteux (repris de l'EN) : identité des plantes de jardin nommées *circinalis* ; flottaison des graines (Raju & Rao 2011 / L&H 2007, dL&A 1998) ; année Montgomery déduite du numéro ; date du message Au jardin inconnue.
 
 - 31/10/2026 (lot CYC-ES05) : lien entrant vers la nouvelle fiche ES *Cycas annaikalensis* 37318 posé (Confusiones posibles, replace_in_content : simulation 1 puis application 1) ; brouillon aligné (verify.py : texte identique, 10 liens).
+
+- 31/10/2026 (CYC-ES12) : lien vers *Cycas edentata* ES 37726 posé (« Malasia (Cycas edentata) ») (replace_in_content ciblé, simulation puis application, 1 remplacement par lien) ; brouillon aligné.

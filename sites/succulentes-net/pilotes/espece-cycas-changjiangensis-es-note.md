@@ -11,3 +11,5 @@
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web le 31/10/2026, rien sur l'espèce. Fous de palmiers : 503 le 31/10 (fil cité d'après l'EN, lu le 21/10).
 - Liens internes ES (200) : genre (intro), *szechuanensis* 24543, *taiwaniana* 24565, *beddomei* 24555, article *Aulacaspis*, *revoluta* 24488 ; « Lee también » : semis, arrosage (riego-cicadas-errores-frecuentes), toxicité. Sans page ES : *segmentifida*, *hainanensis*, *dolichophylla*, *bifida*, *balansae*, *siamensis*, *lingshuiensis*, *fairylakea*.
 - Points douteux (repris de l'EN) : statut taxonomique ; année Montgomery déduite du numéro ; niveau de protection chinois non vérifié ; sens de 葫芦 non expliqué par les sources.
+
+- 31/10/2026 (CYC-ES12) : lien vers *Cycas fairylakea* ES 37779 posé (Confusiones posibles) (replace_in_content ciblé, simulation puis application, 1 remplacement par lien) ; brouillon aligné.

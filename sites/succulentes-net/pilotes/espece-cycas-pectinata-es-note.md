@@ -22,3 +22,5 @@
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
 
 - 31/10/2026 (CYC-ES09) : lien entrant vers *Cycas clivicola* 37576 posé à la première occurrence (Confusiones posibles) ; replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
+
+- 31/10/2026 (CYC-ES12) : lien vers *Cycas elongata* ES 37769 posé (Confusiones posibles) (replace_in_content ciblé, simulation puis application, 1 remplacement par lien) ; brouillon aligné.

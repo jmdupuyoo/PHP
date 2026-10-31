@@ -17,3 +17,5 @@
 - Notes de travail EN non reprises : « POWO could not be consulted directly », « The Red List itself could not be consulted directly », annotations « not consulted / full text consulted / page not consulted (access blocked) ».
 - InfoJardín : une page « Cycas circinalis riuminiana variedad Curranii » (voyage aux Philippines, plantes de Guimaras) repérée par recherche web, non lue (403 connu, non contourné) ; identification douteuse (hors Palawan), non utilisée.
 - Points douteux : CR (Agoo 2014, Bösenberg 2023) contre NT recommandé par Lindström et al. 2008 (exposé) ; Mindoro non confirmé.
+
+- 31/10/2026 (CYC-ES12) : lien vers *Cycas edentata* ES 37726 posé (Confusiones posibles) (replace_in_content ciblé, simulation puis application, 1 remplacement par lien) ; brouillon aligné.

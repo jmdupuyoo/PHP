@@ -20,3 +20,5 @@
 ## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) rétabli.
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
+
+- 31/10/2026 (CYC-ES12) : lien vers *Cycas edentata* ES 37726 posé (Cómo distinguirla de las especies cercanas) (replace_in_content ciblé, simulation puis application, 1 remplacement par lien) ; brouillon aligné.

@@ -17,3 +17,5 @@
 - Points douteux (repris EN/FR) : taille du cône mâle (8-15 cm DOA contre 68 cm MyBIS) ; mise en synonymie de la subsp. *lutea* sans étude identifiée ; « Mountain Sago », « cliff cycad », « mountain cycad » présentés comme étiquettes.
 - Cadre international : Rusticidad par types de climat (clima mediterráneo y Europa ; climas tropicales y subtropicales), « En jardines botánicos ». JZT : rien de publié sur l'espèce. Aucun nom espagnol attesté.
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu pour l'espèce (InfoJardín 403 lors des lots précédents, non retenté ; aucune recherche fructueuse dans les lots CYC-ES05 à ES07).
+
+- 31/10/2026 (CYC-ES12) : liens vers *Cycas elongata* ES 37769 (Cómo reconocer) et *Cycas edentata* ES 37726 (Confusiones posibles) posés (replace_in_content ciblé, simulation puis application, 1 remplacement par lien) ; brouillon aligné.
