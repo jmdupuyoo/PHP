@@ -4,12 +4,12 @@ Créé le 31/10/2026. Consignes : `prompts/consignes-es-cycadales.md`. Ordre dé
 
 ## ES00 — pages ordre et genre existantes
 
-- [ ] Ordre Cycadales ES 23482 (R) — EN 15147
-- [ ] Genre *Cycas* ES 23432 (R) — EN 16282
+- [x] Ordre Cycadales ES 23482 (R) — EN 15147 — FAIT 31/10/2026 (réécrite, SEO, brouillon `ordre-cycadales-es.html`, note)
+- [x] Genre *Cycas* ES 23432 (R) — EN 16282 — FAIT 31/10/2026 (réécrite, index 118 espèces, 19 fiches ES liées + *longipetiolula* 36907 ; brouillon `genre-cycas-es.html`, note)
 
 ## Cycas — page genre EN 16282 ; 124 fiches EN
 
-- [ ] CYC-ES01 : beddomei (R ES24555, EN 16474), changjiangensis (R ES24616, EN 18627), chenii (R ES24596, EN 30226), circinalis (R ES24514, EN 16365), condaoensis (R ES24591, EN 30323)
+- [x] CYC-ES01 (FAIT 31/10/2026 : ES 24555, 24616, 24596, 24514, 24591 réécrites, SEO, brouillons et notes) : beddomei (R ES24555, EN 16474), changjiangensis (R ES24616, EN 18627), chenii (R ES24596, EN 30226), circinalis (R ES24514, EN 16365), condaoensis (R ES24591, EN 30323)
 - [ ] CYC-ES02 : debaoensis (R ES24530, EN 16403), diannanensis (R ES24549, EN 18578), guizhouensis (R ES24523, EN 16451), hongheensis (R ES24602, EN 18581) (longipetiolula : ES 36907 créée le 31/10/2026, déjà au gabarit, hors lot)
 - [ ] CYC-ES03 : panzhihuaensis (R ES23604, EN 16350), pectinata (R ES24583, EN 16415), revoluta (R ES24488, EN 16343), rumphii (R ES24535, EN 16371), szechuanensis (R ES24543, EN 18596)
 - [ ] CYC-ES04 : taitungensis (R ES24503, EN 16354), taiwaniana (R ES24565, EN 18603), tanqingii (R ES24610, EN 18728), thouarsii (R ES23603, EN 16378), tropophylla (R ES24578, EN 31028)
