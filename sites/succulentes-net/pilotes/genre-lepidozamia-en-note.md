@@ -16,3 +16,8 @@
 
 ## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
 - Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 1 remplacement(s) sur la page 16319, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).
+
+## Retouche 0 de LEP01 (31/10/2026)
+- Notes de travail et faits connus seulement par extraits retirés ou remplacés par des sources lisibles (52 paires, 60 remplacements sur 16319, simulation puis application, comptes identiques) : POWO → WLoC et WCVP (GBIF) ; sous-tribu retirée ; hauteurs et diamètres d'après la Flora of Australia (*hopei* 20 m × 50 cm ; *peroffskyana* 4 m, rarement 7 m, 80 cm) au lieu de Britannica (« plus de 17 m ») et de la Gymnosperm Database ; folioles 15-30 / 5-13 mm (FoA) ; cônes femelles de *peroffskyana* 40-90 cm (FoA) ou 50-75 cm (ANPSA), Britannica (90 cm, 45 kg) retirée ; étymologie *lepidos* (WLoC, FoA) ; UICN via GBIF ; WildNet par l'API publique ; retours PalmTalk (Texas) et pépinière californienne (extraits) retirés ; conseil ANPSA sur le gravier (introuvable) retiré ; annotations « consulted through snippets », « not consulted directly », « re-read » retirées ; références POWO, Cycad Pages et ancien profil du Queensland remplacées.
+- Bilan LEP01 (simulation 9/9 puis application 9/9) : °F ajoutés après 9 valeurs en °C (forums et sources).
+- Brouillon aligné (0 écart). Index : 2 lignes liées (17997, 18004).

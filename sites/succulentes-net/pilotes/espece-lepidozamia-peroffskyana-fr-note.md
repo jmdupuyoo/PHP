@@ -66,3 +66,6 @@ Retenus — B (3) : Roussillon −4 °C défoliation chez un ami (t=8427&start=4
 4. Cônes de 90 cm / 45 kg : Britannica seule (extrait) ; les sources australiennes donnent 50-75 cm.
 5. Messages de La Londe : si les semis de 2011 sont au Jardin zoologique tropical, une observation datée serait bienvenue.
 6. Will Kraa : lieu de la pépinière non précisé.
+
+
+- Nettoyage du 31/10/2026 (lot LEP01) : 41 remplacements (simulation puis application, comptes identiques) : POWO → WLoC, WCVP et APC ; cônes femelles 40-90 cm (Flora of Australia), Britannica retirée (points 4 ci-dessus réglé) ; étymologie *lepidos* (WLoC, ANPSA) ; Liste rouge via GBIF ; WildNet par l'API publique ; retour PalmTalk de Houston et Flora Grubb (extraits, témoignage indirect) retirés ; Canarius : minimale hivernale −5 à 5 °C (pépinière de Santa Cruz de Tenerife) ; Top Tropicals : zones USDA 9-10 (la « tolérance au sel moyenne » n'y figure plus) ; lignes WCVP et Flora of Australia ajoutées ; annotations de lecture retirées ; brouillon aligné.

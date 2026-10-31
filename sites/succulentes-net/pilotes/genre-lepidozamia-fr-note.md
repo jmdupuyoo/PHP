@@ -100,3 +100,5 @@ POWO, IUCN, Species+ non consultés directement.
 - Aucune image dans la page actuelle (featured_media vide) : pas de bloc image, pas d'alt à renseigner.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+- Retouche 0 de LEP01 (31/10/2026) : mêmes corrections que l'EN 16319 (59 remplacements sur 13803, simulation puis application, comptes identiques) : POWO → WLoC et WCVP, mesures d'après la Flora of Australia, Britannica et Gymnosperm Database retirées, Liste rouge via GBIF, WildNet par l'API publique, retours connus par extraits retirés, annotations de lecture retirées ; brouillon aligné.

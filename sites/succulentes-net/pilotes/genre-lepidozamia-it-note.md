@@ -26,3 +26,6 @@
 
 ## Liens externes non vérifiables
 Comme en FR : POWO, IUCN, PalmTalk, Britannica, conifers.org, certaines pages (403/409/500, Cloudflare ou anti-robots) laissées telles quelles ; les autres adresses répondent (200 ou redirection).
+
+## Retouche 0 de LEP01 (31/10/2026)
+Mêmes corrections que l'EN 16319 et la FR 13803 (52 remplacements sur 27374, simulation puis application, comptes identiques) : POWO → WLoC et WCVP, mesures d'après la Flora of Australia, Britannica et Gymnosperm Database retirées, Liste rouge via GBIF, WildNet par l'API publique, retours connus par extraits retirés, annotations de lecture retirées ; brouillon aligné.

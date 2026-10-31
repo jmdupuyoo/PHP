@@ -37,3 +37,5 @@
 - Rien commité.
 
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 3 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+- Nettoyage del 31/10/2026 (lotto MIC01) : 62 remplacements (simulation puis application, comptes identiques), mêmes corrections que la FR 13877 ; brouillon aligné. Laissés et signalés comme en FR : BMAA, zones USDA, La Jaiba.

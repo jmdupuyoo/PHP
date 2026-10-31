@@ -22,3 +22,5 @@
 - Fichier `pilotes/espece-lepidozamia-peroffskyana-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, hors sommaire Easy TOC) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées (script) ; aucun lien vers une page FR ; liens internes IT tous en 200.
 - Aucune page IT ni redirection préexistante (list_content, list_redirects). Images : aucune (la FR n'en a pas).
 - Rien commité.
+
+- Nettoyage del 31/10/2026 (lotto LEP01) : 36 + 2 remplacements (simulation puis application, comptes identiques), mêmes corrections que la FR 26141, plus « rilette sul forum Tropicamente nell'ottobre 2026 » et « messaggi letti » retirés ; brouillon aligné.
