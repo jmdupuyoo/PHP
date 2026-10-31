@@ -16,3 +16,8 @@
 - Liens entrants posés (simulation 3, application 3, avec l'index) : *arenicola* 37298 (Confusiones posibles), *armstrongii* 37307 (Confusiones posibles, série *Calcicolosae*) ; brouillons alignés et vérifiés.
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu sur l'espèce.
 - Points douteux (repris de l'EN/FR) : étude à l'origine de la synonymie des sous-espèces non identifiée ; « Bureia » (Hill 1996) conservé tel quel.
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Simon Lavaud (1re mention au format de la question 35, puis « Simon Lavaud clasifica » ; « del viverista citado » conservé ; source au format Simon Lavaud / Cycadales.eu (https://cycadales.eu/)).
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01 ; lien vers l'article ES 23244 (méthode Simon Lavaud) ajouté.
+- replace_in_content simulé (4) puis appliqué (4) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

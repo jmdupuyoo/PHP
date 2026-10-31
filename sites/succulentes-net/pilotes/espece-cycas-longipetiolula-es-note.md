@@ -28,3 +28,8 @@
 
 ## Hors lot (signalé)
 - Page genre ES 23432 : présente *Cycas* × *multifrondis* comme hybride naturel et « POWO acepta 117 especies y dos híbridos naturales » ; or le site suit WLoC, qui accepte *Cycas multifrondis* comme espèce (fiches FR/IT/EN « Cycas multifrondis ») ; page genre ES de l'ancienne génération (WLoC « abril de 2024 »).
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Canarius (« el vivero canario Canarius » aux quatre mentions nommées dans la FR ; source « Canarius, blog de un vivero de Canarias » ; encadré et FAQ restent anonymes comme dans la FR).
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
+- replace_in_content simulé (6) puis appliqué (6) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

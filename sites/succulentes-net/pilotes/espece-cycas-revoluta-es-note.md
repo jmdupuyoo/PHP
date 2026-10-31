@@ -26,3 +26,8 @@
 
 ## Retouche du 31/10/2026 (consigne ES : pépiniéristes non nommés)
 - « Cycadales.eu » et « Simon Lavaud » retirés du texte : « un vivero francés especializado en cícadas » (1re mention), puis « vivero francés citado » ; « un viverista francés injerta… » ; ligne de source « Vivero especializado francés, «Les maladies des Cycas» » (URL conservée). replace_in_content simulé (12) puis appliqué (12) ; brouillon aligné (comparaison stricte identique). Reste le titre de l'article du site « El método Simon Lavaud… » dans « Lee también » (titre de notre propre article, non modifié).
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Cycadales.eu / Simon Lavaud, comme la FR : « (Cycadales.eu, vivero de Simon Lavaud, viverista especializado en cícadas) » (1re mention), « (Cycadales.eu) » ×7, « (Cycadales.eu; Universidad de Arkansas) », « Cycadales.eu recomienda », « Simon Lavaud injerta » ; source « Cycadales.eu (Simon Lavaud, viverista especializado en cícadas), «Les maladies des Cycas» » ; retouche du 31/10 annulée. « Cica » et « palma de sagú » (attribué) inchangés (question 31).
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) rétabli.
+- replace_in_content simulé (13) puis appliqué (13) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

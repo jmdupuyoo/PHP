@@ -14,3 +14,7 @@
 - Liens entrants posés (simulation 2, application 2 ; brouillons alignés, verify.py identiques) : *apoa* 37289 (Taxonomía ; fiche du lot CYC-ES06, déjà livrée), *rumphii* 24535 (Híbridos, 1re mention hors intro/encadré).
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
 - Points douteux (repris de l'EN/FR) : description fondée sur les étiquettes d'herbier (protologue lu par son seul résumé) ; identifications GBIF hors aire WLoC (Bismarck, Milne Bay) non retenues ; habitat sur dunes coralliennes des sites amateurs non confirmé ; années des accessions Montgomery ; absence au catalogue en ligne de Sydney malgré les pliegos de 2016.
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
+- replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

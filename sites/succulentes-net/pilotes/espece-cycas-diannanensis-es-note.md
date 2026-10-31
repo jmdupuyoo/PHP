@@ -14,3 +14,8 @@
 - Index genre ES 23432 : ligne déjà liée et conforme (synonymes *parvula*, *multiovula* ; EN 2023) : non modifiée.
 - Liens entrants : *tanqingii* 24610 et *hongheensis* 24602 déjà liés, article 27314 lié ; *revoluta* 24488 (CYC-ES03) cite *diannanensis* sans lien (Rusticidad, retour de forum) : non modifié, signalé pour CYC-ES03.
 - Points douteux (repris) : dépôt de l'holotype (Chengdu / IBSC) ; lecture « sud du Yunnan » du nom chinois (non sourcée, signalée comme lecture) ; année du −7 °C de Sabaudia ; identité de la plante de Menton ; cônes « 1 m » (vivero, non confirmé).
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Trebrown (texte et source « Trebrown Nurseries ») et Cycadales.eu / Simon Lavaud (« Simon Lavaud, viverista especializado en cícadas (Cycadales.eu) », « Cycadales.eu, el vivero de Simon Lavaud » ; source « Cycadales.eu (Simon Lavaud, viverista especializado en cícadas) »).
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01 ; lien vers l'article ES 23244 (méthode Simon Lavaud) ajouté.
+- replace_in_content simulé (7) puis appliqué (7) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

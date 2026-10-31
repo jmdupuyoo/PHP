@@ -15,3 +15,7 @@
 - Ligne de l'index de la page genre ES 23432 : déjà liée et conforme, non modifiée.
 - Forums ES : recherche web le 31/10/2026 (InfoJardín, Club de Palmeras) ; une fiche InfoJardín « Cycas taitungensis » repérée, mais infojardin.com renvoie 403 (Cloudflare) à curl : non lue, non contournée, rien repris. Fous de palmiers : fils cités d'après l'EN/FR (lus en octobre).
 - Points douteux (repris de l'EN/FR) : protologue non consulté ; date de l'épisode à −7 °C au JZT non indiquée ; rusticité du feuillage / du tronc variable selon l'humidité ; identité des plantes vendues sous « taiwaniana ».
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
+- replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

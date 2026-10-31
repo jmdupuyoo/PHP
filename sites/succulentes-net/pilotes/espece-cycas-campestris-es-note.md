@@ -15,3 +15,7 @@
 - Liens entrants : aucune autre page ES ne cite l'espèce (recherche pages et articles ES).
 - Points douteux (repris de l'EN) : concept de l'espèce (Hill 1994 contre de Laubenfels & Adema 1998) ; déterminations des spécimens anciens non revérifiées ; description de Hill 1994 connue par son résumé.
 - FR/IT 26628 / 28502 : description fondée sur Wikipédia (Cycad Pages) à reprendre d'après les étiquettes, comme signalé en phase EN (hors lot, non modifiées).
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
+- replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

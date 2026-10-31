@@ -15,3 +15,7 @@
 - Liens entrants posés (simulation 5, application 5 ; brouillons alignés, verify.py identiques) : *longipetiolula* 36907 (« Cómo reconocer », 1re occurrence hors intro/encadré), *diannanensis* 24549, *debaoensis* 24530, *revoluta* 24488, *panzhihuaensis* 23604. *changjiangensis* 24616 : posé avec *balansae* (voir note *balansae*).
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
 - Points douteux (repris de l'EN/FR) : présence au Yunnan (un spécimen de Hekou selon Hill, hors aire WLoC) ; *multifrondis* (hybride pour Hill, espèce pour WLoC) ; culture (pot ou serre) non précisée dans le message de Ravenne.
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
+- replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

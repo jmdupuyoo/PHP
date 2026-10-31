@@ -16,3 +16,8 @@
 - Liens entrants : aucune autre page ES ne cite l'espèce (recherche pages et articles ES).
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu sur l'espèce.
 - Points douteux (repris de l'EN/FR) : holotype K ou U ; présence à Cobourg (Dixon 2004 non lu) ; dates de John Armstrong ; année Montgomery déduite du numéro 96290.
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Simon Lavaud (1re mention au format de la question 35, « Los consejos generales de Simon Lavaud », FAQ « Simon Lavaud, viverista especializado en cícadas » ; « el viverista citado » conservé ; source au format Simon Lavaud / Cycadales.eu (https://cycadales.eu/)).
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01 ; lien vers l'article ES 23244 (méthode Simon Lavaud) ajouté.
+- replace_in_content simulé (5) puis appliqué (5) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

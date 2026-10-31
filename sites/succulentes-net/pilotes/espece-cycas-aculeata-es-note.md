@@ -14,3 +14,7 @@
 - Liens entrants : aucune autre page ES ne cite l'espèce.
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
 - Points douteux (repris de l'EN/FR) : mesures, sol et parenté avec *balansae* d'après des sources secondaires (Wikipédia EN, Cycad Pages) ; protologue non lu ; date de récolte du type (WLoC 23/01/2000, IPNI 23/06/2000) ; critères UICN de WLoC (2010 ou 2023).
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
+- replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

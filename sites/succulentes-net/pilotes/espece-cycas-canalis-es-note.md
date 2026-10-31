@@ -15,3 +15,8 @@
 - Index de la page genre ES 23432 : ligne liée (simulation 1, application 1, avec les liens entrants) ; brouillon `genre-cycas-es.html` aligné.
 - Liens entrants posés (simulation 3, application 3 avec l'index ; brouillons alignés, verify.py identiques) : *arnhemica* 37313 (Taxonomía), *armstrongii* 37307 (Taxonomía, série *Armstrongianosae*), *calcicola* 37355 (Confusiones ; le DSL de travail est aligné). Aucune autre page ni article ES ne cite l'espèce.
 - Points douteux (repris de l'EN/FR) : étude à l'origine de la mise en synonymie de la subsp. *carinata* non identifiée ; année Montgomery (93913 → 1993) déduite du numéro ; saillance de la nervure médiane (Hill 1994 contre Flora of Australia : formulation commune).
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Simon Lavaud (1re mention au format de la question 35, puis « Simon Lavaud clasifica » ; source au format Simon Lavaud / Cycadales.eu (https://cycadales.eu/)). La collection du Gard reste anonyme.
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01 ; lien vers l'article ES 23244 (méthode Simon Lavaud) ajouté.
+- replace_in_content simulé (4) puis appliqué (4) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

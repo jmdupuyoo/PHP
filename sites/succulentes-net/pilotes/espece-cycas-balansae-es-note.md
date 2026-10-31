@@ -15,3 +15,8 @@
 - Liens entrants posés (simulation 4, application 4 ; brouillons alignés, verify.py identiques) : *aculeata* 37295 (Confusiones), *changjiangensis* 24616 (Híbridos, avec *bifida* dans le même remplacement), *tanqingii* 24610 (Confusiones ; 1re mention dans l'encadré, non liée), *guizhouensis* 24523.
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
 - Points douteux (repris de l'EN/FR) : « Tue da voi » (Species+ seul) ; critères A2acd+4acd rattachés à 2010 ; points chinois de Zhang 2025 probablement *C. collina* (déduction) ; année d'entrée Montgomery inconnue ; page du protologue (179/181).
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Trebrown (Nombres comunes, Reino Unido, Rusticidad ; source « Trebrown Nurseries, ficha Cycas balansae » ; encadré et FAQ restent anonymes comme l'EN).
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
+- replace_in_content simulé (5) puis appliqué (5) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

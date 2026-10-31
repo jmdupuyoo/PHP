@@ -20,3 +20,8 @@
 
 ## Retouche du 31/10/2026 (consigne ES : pépiniéristes non nommés)
 - « Trebrown » retiré du texte (« Un vivero británico… », « Ese vivero británico… ») et de la ligne de source (« Vivero especializado británico, ficha Cycas panzhihuaensis », URL conservée), comme en CYC-ES02 : replace_in_content simulé (4) puis appliqué (4) ; brouillon aligné (comparaison stricte identique).
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Trebrown (« El vivero británico Trebrown », « Trebrown » ×2 ; source « Trebrown Nurseries, ficha Cycas panzhihuaensis »), retouche du 31/10 annulée.
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) rétabli.
+- replace_in_content simulé (5) puis appliqué (5) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

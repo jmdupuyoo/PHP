@@ -15,3 +15,8 @@
 - Index de la page genre ES 23432 : ligne liée (simulation 1, application 1, avec les liens entrants) ; brouillon `genre-cycas-es.html` aligné.
 - Liens entrants posés (simulation 6, application 6 avec l'index ; brouillons alignés, verify.py identiques) : *arnhemica* 37313 (Confusiones), *armstrongii* 37307 (Confusiones, série *Calcicolosae*), *arenicola* 37298 (Confusiones ; mention de l'intro non liée), *pectinata* 24583 (Confusiones : « nunca se ha incluido en *Cycas pectinata* »), *beddomei* 24555 (Confusiones, de Laubenfels & Adema). Article de blog ES 23148 (agaves) : renvoyé par la recherche, sans mention de l'espèce.
 - Points douteux (repris de l'EN/FR) : substrat basaltique (note du pépiniériste) contre Hill/Flora of Australia ; protection du Territoire du Nord non documentée ; protologue Maconochie 1978 connu par ses références.
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Simon Lavaud (1re mention au format de la question 35, puis « Simon Lavaud, en su nota », « Los consejos de Simon Lavaud » ; « el viverista citado » conservé ; FAQ anonyme comme l'EN ; source au format Simon Lavaud / Cycadales.eu (https://cycadales.eu/)).
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01 ; lien vers l'article ES 23244 (méthode Simon Lavaud) ajouté.
+- replace_in_content simulé (5) puis appliqué (5) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

@@ -14,3 +14,7 @@
 - Index genre ES 23432 : ligne déjà liée et conforme (VU, 2022) : non modifiée.
 - Liens entrants : *chenii* 24596, *szechuanensis* 24543, *taiwaniana* 24565, *taitungensis* 24503 déjà liés.
 - Points douteux (repris) : identité de la plante du JZT ; année de l'épisode à −4 °C ; contradiction de Hill 2008 sur le type de *multiovula* ; climat (Whitelock / Jones-Feng).
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01 ; lien vers l'article ES 23244 (méthode Simon Lavaud) ajouté (la fiche parle du greffage).
+- replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

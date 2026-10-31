@@ -16,3 +16,8 @@
 - Liens entrants : aucune autre page ES ne cite l'espèce.
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
 - Points douteux (repris de l'EN/FR) : hauteur PACSOA (10 m en moyenne) contre Hill (5 m, rarement 12 m) ; années des accessions Montgomery déduites des numéros ; Lloyd et al. 2026 connu par son résumé.
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Top Tropicals (« El vivero estadounidense Top Tropicals » ; source « Top Tropicals, vivero especializado estadounidense ») et Simon Lavaud (« Simon Lavaud, viverista especializado en cícadas (Cycadales.eu) », « la nota de 2021 de Simon Lavaud » ; source « Simon Lavaud, viverista especializado en cícadas (2021), «Quelques données…», Cycadales.eu (https://cycadales.eu/) ») ; l'encadré reste « un vivero estadounidense », comme l'EN.
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01 ; lien vers l'article ES 23244 (méthode Simon Lavaud) ajouté.
+- replace_in_content simulé (6) puis appliqué (6) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

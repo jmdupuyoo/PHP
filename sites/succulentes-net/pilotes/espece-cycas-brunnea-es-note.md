@@ -14,3 +14,8 @@
 - Index de la page genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon `genre-cycas-es.html` aligné. Hors lot : la ligne d'index dit « Australia (Queensland) » (comme l'EN 16282), alors que la fiche cite aussi le Territoire du Nord (Wollogorang, traité sous *angulata* dans le NT) : non modifiée.
 - Lien entrant : *angulata* ES 37310 (Confusiones posibles, 1re occurrence ; simulation 1, application 1 ; brouillon aligné). Aucune autre page ES ne cite l'espèce.
 - Points douteux (repris de l'EN/FR) : origine du traitement sous *angulata* dans le NT (Dixon 2004 cité par iNaturalist) ; hauteurs d'étiquettes (6-8 m) supérieures à la description originale ; catégorie de l'évaluation Hill 2010 non indiquée.
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Simon Lavaud (1re mention au format de la question 35 ; « del viverista citado » / « el viverista citado » conservés ; source au format Simon Lavaud / Cycadales.eu (https://cycadales.eu/)).
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01 ; lien vers l'article ES 23244 (méthode Simon Lavaud) ajouté.
+- replace_in_content simulé (3) puis appliqué (3) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

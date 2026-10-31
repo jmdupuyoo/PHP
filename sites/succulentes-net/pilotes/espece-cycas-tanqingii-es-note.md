@@ -14,3 +14,7 @@
 - Ligne de l'index de la page genre ES 23432 : déjà liée et conforme (« … distrito de Lüchun … casi amenazada (NT, 2023) »), non modifiée.
 - Forums ES : rien sur l'espèce (recherche web du 31/10/2026 ; infojardin.com 403).
 - Points douteux (repris de l'EN/FR) : Hill, Nguyen & Loc 2004 non lu ; auteur « D.Y.Yang » chez Hill ; nom du dédicataire ; identité de la réserve (Hill vs Zheng) ; chiffres de Li 2025 = projections.
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
+- replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

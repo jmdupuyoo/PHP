@@ -15,3 +15,7 @@
 - Liens entrants : aucune autre page ES ne cite l'espèce.
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
 - Points douteux (repris de l'EN/FR) : écarts Gardner 1923 / Hill 1996 (diamètre du tronc, limbe du mégasporophylle) exposés sans arbitrage ; années des accessions de Sydney déduites des numéros ; nombre de plantes de S2015-1275.
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01 ; lien vers l'article ES 23244 (méthode Simon Lavaud) ajouté (présent dans « À lire aussi » de la FR).
+- replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

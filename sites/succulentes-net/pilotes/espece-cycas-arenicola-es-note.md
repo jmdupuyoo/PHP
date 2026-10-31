@@ -15,3 +15,8 @@
 - Liens entrants : aucune autre page ES ne cite l'espèce (hors page genre) ; *arnhemica* ES (même lot) la lie.
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu sur l'espèce.
 - Points douteux : statut UICN (voir ci-dessus) ; présence en jardin = photos 2016 (Darwin) et déclarations BGCI non datées.
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Simon Lavaud (1re mention au format de la question 35, puis « Simon Lavaud clasifica » ; « del viverista citado » conservé ; source « Simon Lavaud, viverista especializado en cícadas (2021), «Quelques données…», Cycadales.eu (https://cycadales.eu/) »).
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01 ; lien vers l'article ES 23244 (méthode Simon Lavaud) ajouté.
+- replace_in_content simulé (4) puis appliqué (4) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

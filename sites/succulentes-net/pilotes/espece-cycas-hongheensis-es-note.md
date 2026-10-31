@@ -13,3 +13,8 @@
 - Index genre ES 23432 : ligne déjà liée et conforme (sección Indosinenses ; CR, 2023) : non modifiée.
 - Liens entrants : *diannanensis* 24549 (lien posé dans la réécriture du même lot). Aucune autre page ES ne cite l'espèce.
 - Points douteux (repris) : écart Hill / Flora of China sur le tronc ; résultats de Liu et al. 2016 connus par le résumé seulement (non dit dans la page) ; population du mont Dawei (Zheng 2017) / Wu 2021 (Gejiu seulement) ; années Montgomery déduites des numéros.
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Trebrown (Nombres comunes, Rusticidad ; source « Trebrown Nurseries »).
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
+- replace_in_content simulé (4) puis appliqué (4) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

@@ -14,3 +14,7 @@
 - Ligne de l'index de la page genre ES 23432 : déjà liée et conforme (LC, 2024), non modifiée.
 - Forums ES : un fil InfoJardín « Cycas thouarsii se llama a cyca reina » repéré par recherche web le 31/10/2026, mais infojardin.com renvoie 403 (Cloudflare) : non lu, non contourné, rien repris.
 - Points douteux (repris de l'EN) : lecture de la phrase de Pedara ; identité des « circinalis » de Fuveau et Carcassonne ; dates Montgomery déduites des numéros ; remarque « Cycas glauca » de la base Montgomery ; dates de plantation du recensement de Melbourne.
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
+- replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

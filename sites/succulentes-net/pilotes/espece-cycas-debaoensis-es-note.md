@@ -17,3 +17,8 @@
 - Liens externes (31/10) : 200 sauf Fous de palmiers (503, forum indisponible, non contourné) et EUR-Lex (202).
 - Forums ES (InfoJardín, Club de Palmeras) : rien sur l'espèce dans les recherches des lots précédents ; non mentionnés dans la page.
 - Points douteux (repris FR/EN) : présence au Yunnan (Zheng 2017, Yang & Ferguson 2022) non retenue par WLoC ; écarts Hill / Flora of China (exposés) ; habitat brumeux du Ruth Bancroft Garden sans source ; années Montgomery déduites des numéros ; « −8,3 °C » de MSU de seconde main.
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Trebrown (« el vivero británico Trebrown », « Trebrown » ; source « Trebrown Nurseries, ficha… ») et Jungle Music (« el vivero californiano Jungle Music » ; source « Jungle Music, vivero especializado californiano… »).
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
+- replace_in_content simulé (6) puis appliqué (6) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

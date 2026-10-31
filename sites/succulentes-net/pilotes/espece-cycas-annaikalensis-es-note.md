@@ -14,3 +14,7 @@
 - Lien entrant : *circinalis* ES 24514 (Confusiones posibles ; simulation puis application, 1) ; brouillon et note *circinalis* alignés.
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
 - Points douteux (repris de l'EN/FR) : protologue et article de 2007 non lus ; statut taxonomique discuté (Lindström & Hill 2007) ; critères de la réévaluation 2023 inconnus.
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
+- replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

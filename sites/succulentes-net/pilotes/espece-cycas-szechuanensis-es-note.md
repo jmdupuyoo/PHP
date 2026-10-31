@@ -16,3 +16,7 @@
 
 ## Retouche du 31/10/2026 (consigne du coordinateur)
 - Lien « Lee también » vers l'article ES 23195 (titre avec « palma sagú », décision du propriétaire en attente) retiré : replace_in_content simulé (1) puis appliqué (1), commun aux pages 23604, 24583, 24535, 24543 ; brouillon aligné (comparaison stricte identique).
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) rétabli.
+- replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.

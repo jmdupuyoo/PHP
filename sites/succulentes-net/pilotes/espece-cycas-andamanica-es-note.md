@@ -15,3 +15,7 @@
 - Index genre ES 23432 : la mention « sinónimo: *Cycas andamanica* » de la ligne *pschannae* est liée (simulation 1, application 1) ; la mention de la section Taxonomía du genre (ligne « *Cycas andamanica*, descrita en 2015… ») n'est pas liée, comme dans l'EN ; brouillon genre aligné.
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
 - Points douteux (repris de l'EN/FR) : protologue d'*andamanica* et clé de Singh & Misra 2020 non lus ; présence aux Nicobar ; fascicule (9 selon IPNI/WCVP, 1 selon WLoC).
+
+## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
+- « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
+- replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
