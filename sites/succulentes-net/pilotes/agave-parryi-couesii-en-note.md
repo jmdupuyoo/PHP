@@ -38,3 +38,4 @@ Not applicable (EN page). No dated report was found for the Mediterranean Basin,
 - IUCN: "not evaluated at variety level". Species LC is given with a caveat (secondary source, year unknown).
 - CITES: "not listed according to the sources consulted" (Species+ not checked).
 - Hardiness: given as nursery ratings (USDA 6a–6b), with the caveat about wet cold. No hardiness measured in a scientific study.
+- Guillemets (31/10/2026) : 24 guillemets droits du texte (rendus « » en ligne) convertis en “ ” sur 25806 (13 remplacements ciblés, simulation = application = 13 ; attributs, URL et commentaires de blocs non touchés ; guillemets simples des cultivars et apostrophes inchangés) ; contrôle REST, brouillon aligné.

@@ -1,6 +1,6 @@
 # Pages EN sans meta description (relevé du 31/10/2026)
 
-Balayage de la balise `<meta name="description">` des 890 contenus EN en ligne (803 pages, 87 articles) : 372 sans description. Exclus : thank-you 22774 (noindex) et trois cas en attente du propriétaire (~~Bowenia tinaroo 17984~~ — **fait 31/10/2026** (lot BOW-T) : meta EN Rank Math posée, 148 car., titre SEO 54 car., voir `forme-bowenia-tinaroo-en-note.md` ; Cycas miqueli 16505, ~~Cycas x longipetiolula 18667~~ — **fait 31/10/2026** : meta EN posée lors de la réécriture de la fiche, 150 car., voir `espece-cycas-longipetiolula-en-note.md`). Consigne : `prompts/consignes-metas-en.md`.
+Balayage de la balise `<meta name="description">` des 890 contenus EN en ligne (803 pages, 87 articles) : 372 sans description. Exclus : thank-you 22774 (noindex) et trois cas en attente du propriétaire (~~Bowenia tinaroo 17984~~ — **fait 31/10/2026** (lot BOW-T) : meta EN Rank Math posée, 148 car., titre SEO 54 car., voir `forme-bowenia-tinaroo-en-note.md` ; ~~Cycas miqueli 16505~~ — **fait 31/10/2026** : page réécrite en page de nom « Cycas miquelii » (slug `miquelii`), meta EN Rank Math posée, 148 car., titre SEO 58 car., voir `nom-cycas-miquelii-en-note.md` ; ~~Cycas x longipetiolula 18667~~ — **fait 31/10/2026** : meta EN posée lors de la réécriture de la fiche, 150 car., voir `espece-cycas-longipetiolula-en-note.md`). Consigne : `prompts/consignes-metas-en.md`.
 
 ## Lot META-A — Agavoïdes (pages) (148)
 

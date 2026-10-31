@@ -37,3 +37,4 @@ Liens internes vérifiés (200, bon <title>, sans redirection) : /en/agavoids/ag
 4. Contexte national : sans objet (page EN, approche internationale).
 5. Encadré « Key facts » : IUCN renseigné au niveau de l'espèce avec réserve (non vérifié sur la Red List) ;
    CITES « aucune inscription trouvée » (Species+ non consulté). Tous les autres champs sont renseignés.
+- Guillemets (31/10/2026) : 30 guillemets droits du texte (rendus « » en ligne) convertis en “ ” sur 25804 (15 remplacements ciblés, simulation = application = 15 ; attributs, URL et commentaires de blocs non touchés ; guillemets simples des cultivars et apostrophes inchangés) ; contrôle REST, brouillon aligné.

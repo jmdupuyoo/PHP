@@ -29,3 +29,4 @@
 - CoP20 : approbation en comité (ENB, 27/11/2025), adoption plénière / entrée en vigueur / annotation non vérifiées sur Species+.
 - H1c décrit comme « plantes sous verre au Royaume-Uni » (définition RHS), valeur relevée par extrait.
 - Aucun résultat de culture en place daté hors Floride (zones) et Menton (collection du Val Rahmeh).
+- Guillemets (31/10/2026) : 32 guillemets droits du texte (rendus « » en ligne) convertis en “ ” sur 15212 (11 remplacements ciblés, simulation = application = 11 ; attributs, URL et commentaires de blocs non touchés ; guillemets simples des cultivars et apostrophes inchangés) ; contrôle REST, brouillon aligné.

@@ -21,7 +21,7 @@ Créé le 31/10/2026. Consignes : `prompts/consignes-es-cycadales.md`. Ordre dé
 - [x] CYC-ES10 (FAIT 31/10/2026 : ES 37443, 37455, 37582, 37515, 37473 créées, SEO, brouillons et notes ; index 23432 lié ; liens entrants posés ; décisions du 31/10 (Q31, Q34, Q35) appliquées : Trebrown et Simon Lavaud nommés, 23195 et 23244 liés) : collina (C ES37443, EN 30316), conferta (C ES37455, EN 30327), couttsiana (C ES37582, EN 30333), cupida (C ES37515, EN 30351), curranii (C ES37473, EN 30358)
 - [x] CYC-ES11 (FAIT 31/10/2026 : ES 37721, 37755, 37763, 37775, 37783 créées, SEO, brouillons et notes ; index 23432 lié ; liens entrants posés ; décisions du 31/10 (Q31, Q34, Q35) appliquées : Simon Lavaud nommé, 23195 et 23244 liés) : desolata (C ES37721, EN 30362), dharmrajii (C ES37755, EN 30369), distans (C ES37763, EN 30373), divyadarshanii (C ES37775, EN 30500), dolichophylla (C ES37783, EN 16497)
 - [x] CYC-ES12 (FAIT 31/10/2026 : ES 37726, 37759, 37769, 37779, 37781 créées, SEO, brouillons et notes ; index 23432 lié (*fairylakea* : synonyme lié dans la ligne *szechuanensis*) ; liens entrants posés ; Trebrown nommé (*fairylakea*), 23195 lié) : edentata (C ES37726, EN 30504), elephantipes (C ES37759, EN 18710), elongata (C ES37769, EN 18705), fairylakea (C ES37779, EN 30513), falcata (C ES37781, EN 30520)
-- [ ] CYC-ES13 : ferruginea (C, EN 18686), flabellata (C, EN 30524), fugax (C, EN 30586), furfuracea (C, EN 30589), glauca (C, EN 30596)
+- [x] CYC-ES13 (FAIT 31/10/2026 : ES 37883, 37967, 38058, 38068, 38114 créées, SEO, brouillons et notes ; index 23432 lié ; liens entrants posés (8) et notes des pages concernées mises à jour ; Trebrown nommé (*ferruginea*), Simon Lavaud nommé et 23244 lié (*furfuracea*), 23195 lié) : ferruginea (C ES37883, EN 18686), flabellata (C ES37967, EN 30524), fugax (C ES38058, EN 30586), furfuracea (C ES38068, EN 30589), glauca (C ES38114, EN 30596)
 - [ ] CYC-ES14 : hainanensis (C, EN 18613), hoabinhensis (C, EN 30600), indica (C, EN 30603), inermis (C, EN 30618), javana (C, EN 30623)
 - [ ] CYC-ES15 : lacrimans (C, EN 30628), lane-poolei (C, EN 30633), laotica (C, EN 30642), lindstromii (C, EN 18737), lingshuigensis (C, EN 30649)
 - [ ] CYC-ES16 : maconochiei (C, EN 30656), macrocarpa (C, EN 30667), media (C, EN 16423), megacarpa (C, EN 16520), micholitzii (C, EN 16443)
@@ -129,6 +129,6 @@ Créé le 31/10/2026. Consignes : `prompts/consignes-es-cycadales.md`. Ordre dé
 - [ ] Page genre *Microcycas* ES (C) — EN 16335
 - [ ] MIC-ES01 : calocoma (C, EN 18015)
 
-Exclus (décision du propriétaire en attente) : *Cycas miqueli* (EN 16505). *Cycas* × *longipetiolula* : ES déjà créée.
+Exclus : aucun. *Cycas* × *longipetiolula* : ES déjà créée. *Cycas miquelii* (page de nom, EN 16505) : ES 38081 créée le 31/10/2026 (décision du propriétaire, option B) ; à lier depuis la future ES *sexseminifera* (voir cycadales-a-verifier.md, « Signalé lors de miquelii »).
 
 Total : 389 fiches EN de référence.

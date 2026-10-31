@@ -38,3 +38,4 @@ none as <a> tags (URLs in Reference sites as plain text, not checked for status 
    - Dated reports for major European cold waves (e.g. 1985, 2012) on this species: not found in the searches made.
 4. National data (FR/IT): not applicable (EN page, international approach).
 5. "Key facts" fields: all filled. IUCN and CITES entries carry the caveats above (secondary sources / no listing found).
+- Guillemets (31/10/2026) : 32 guillemets droits du texte (rendus « » en ligne) convertis en “ ” sur 25811 (15 remplacements ciblés, simulation = application = 15 ; attributs, URL et commentaires de blocs non touchés ; guillemets simples des cultivars et apostrophes inchangés) ; contrôle REST, brouillon aligné.
