@@ -321,63 +321,63 @@ Balayage de la balise `<meta name="description">` des 890 contenus EN en ligne (
 
 ## Lot META-D — Articles (posts) (60)
 
-- [ ] 20104 (post) /en/aeonium-dormancy/ — Aeonium Dormancy
-- [ ] 19843 (post) /en/aloe-mite-aceria-aloinis/ — Aloe Mite (Aceria aloinis): How to Identify, Treat and Prevent the Most Destructive Alooid Pest
-- [ ] 19872 (post) /en/aloe-not-flowering/ — Aloe not flowering
-- [ ] 19863 (post) /en/aloe-root-rot/ — Aloe Root Rot: Pathogens, Diagnosis, Treatment and Prevention
-- [ ] 19855 (post) /en/aloe-thrips-hercinothrips-dimidiatus/ — Aloe Thrips (Hercinothrips dimidiatus): An Emerging Pest of Aloes in Europe — Identification, Damage and Control
-- [ ] 17749 (post) /en/aloe-vera-varieties/ — Aloe vera varieties: what exists, what doesn’t and what you actually bought
-- [ ] 17767 (post) /en/aphids-on-yuccas/ — Aphids on yuccas: how to protect and treat your plant
-- [ ] 17714 (post) /en/best-aloes-for-indoors-10-species-ranked-by-light-from-south-facing-windows-to-dim-offices/ — Best Aloes for Indoors: 10 Species Ranked by Light — From South-Facing Windows to Dim Offices
-- [ ] 18972 (post) /en/best-crassula-for-bonsai/ — The Best Crassula Species for Bonsai — A Practical Comparison
-- [ ] 18532 (post) /en/best-fertilizer-for-cycads-what-to-feed-your-sago-palm-when-and-how/ — Best Fertilizer for Cycads: What to Feed Your Sago Palm, When, and How
-- [ ] 15554 (post) /en/best-indoor-succulents-25-species-that-actually-thrive-indoors/ — Best Indoor Succulents: 25 Species That Actually Thrive Indoors
-- [ ] 21061 (post) /en/cactus-terrarium-the-guide/ — Cactus Terrarium: What Nobody Tells You Before You Start
-- [ ] 19900 (post) /en/cold-hardy-aloes-which-species-survive-frost-outdoors/ — Cold Hardy Aloes: Which Species Survive Frost Outdoors?
-- [ ] 18959 (post) /en/cold-hardy-crassulafrost/ — Cold-Hardy Crassula — Which Species Can Survive Frost?
-- [ ] 17566 (post) /en/cold-hardy-cycads/ — Cold Hardy Cycads: 5 Species That Survive Real Winters
-- [ ] 15560 (post) /en/cold-hardy-succulents-the-complete-guide-to-frost-resistant-species-for-outdoor-growing/ — Cold Hardy Succulents: The Complete Guide to Frost-Resistant Species for Outdoor Growing
-- [ ] 15574 (post) /en/cycad-care-the-complete-guide-to-growing-cycads-indoors-in-containers-and-in-the-ground/ — Cycad Care: The Complete Guide to Growing Cycads Indoors, in Containers and in the Ground
-- [ ] 18536 (post) /en/cycad-sago-palm-manganese-deficiency/ — Manganese Deficiency in Cycads: How to Diagnose, Treat and Prevent Frizzle Top
-- [ ] 18526 (post) /en/cycad-sago-palm-toxic-dog-cat-children/ — Is Sago Palm Toxic to Dogs, Cats & Children? What to Know
-- [ ] 17552 (post) /en/cycad-scale-aulacaspis-yasumatsui/ — Cycad Aulacaspis Scale (Aulacaspis yasumatsui): Identification, Treatment and Prevention
-- [ ] 15683 (post) /en/cycas-in-pot-complete-care/ — Cycas in Pots: Complete Care Guide, Watering, Winter Protection and Tropical Cycads You Can Grow
-- [ ] 18515 (post) /en/cycas-leaves-turning-yellow-how-to-fix-iron-chlorosis-with-chelated-iron-eddha/ — Cycas Leaves Turning Yellow? How to Fix Iron Chlorosis with Chelated Iron (EDDHA)
-- [ ] 21072 (post) /en/dracaena-vs-cordyline-why-two-lookalike-genera-are-botanically-worlds-apart/ — Dracaena vs Cordyline: Why Two Lookalike Genera Are Botanically Worlds Apart
-- [ ] 20528 (post) /en/dracaena-vs-yucca-identification-cultivation-and-key-differences/ — Dracaena vs Yucca: Identification, Cultivation and Key Differences
-- [ ] 17545 (post) /en/growing-agaves-in-pots/ — Growing Agaves in Pots: Substrate, Watering, Repotting and Winter Care
-- [ ] 18395 (post) /en/growing-pachypodium-from-seed-a-germination-guide-by-species/ — Growing Pachypodium from Seed: A Germination Guide by Species
-- [ ] 17771 (post) /en/hardiness-zones-every-system-in-the-world/ — Understanding hardiness zones: every system in the world
-- [ ] 17718 (post) /en/how-repot-aloe-vera/ — How to Repot Aloe vera: The Complete Step-by-Step Guide
-- [ ] 15548 (post) /en/how-to-care-for-succulents-the-complete-guide/ — How to Care for Succulents: The Complete Guide
-- [ ] 15612 (post) /en/how-to-care-for-yuccas-indoor-and-outdoor-growing-guide/ — How to Care for Yuccas: Indoor and Outdoor Growing Guide
-- [ ] 20092 (post) /en/how-to-grow-and-care-for-aeonium-the-complete-guide/ — How to Grow and Care for Aeonium: The Complete Guide
-- [ ] 17501 (post) /en/how-to-grow-and-care-for-agaves/ — How to Grow and Care for Agaves: The Complete Guide for Every Climate
-- [ ] 18968 (post) /en/how-to-grow-and-care-for-crassula/ — How to Grow and Care for Crassula — The Complete Guide
-- [ ] 17687 (post) /en/how-to-grow-care-aloe-vera/ — How to Grow and Care for Aloe vera — Indoors, Outdoors and Everything You Need to Know
-- [ ] 15581 (post) /en/how-to-grow-cycads-from-seed-germination-seedling-care-and-propagation-setup/ — How to Grow Cycads from Seed: Germination, Seedling Care and Propagation Setup
-- [ ] 20097 (post) /en/how-to-propagate-aeonium-stem-cuttings-offsets-beheading-and-seed/ — How to Propagate Aeonium: Stem Cuttings, Offsets, Beheading, and Seed
-- [ ] 17704 (post) /en/how-to-propagate-aloe-vera-from-offsets/ — How to Propagate Aloe vera from Offsets: The Complete Guide
-- [ ] 19869 (post) /en/how-to-propagate-aloes-offsets-cuttings-seeds-and-micropropagation/ — How to Propagate Aloes: Offsets, Cuttings, Seeds and Micropropagation
-- [ ] 18980 (post) /en/how-to-propagate-crassula-2/ — How to Propagate Crassula — Stem Cuttings, Leaf Cuttings, Division, and Seed
-- [ ] 19007 (post) /en/how-to-propagate-succulents/ — How to Propagate Succulents — The Complete Guide to Leaves, Cuttings, Offsets, and Seeds
-- [ ] 18542 (post) /en/magnesium-deficiency-cycad-sago-palm/ — Magnesium Deficiency in Cycads: Why Old Fronds Turn Yellow and How to Fix It
-- [ ] 15630 (post) /en/mealybug-yucca/ — Mealybugs on yuccas
-- [ ] 17117 (post) /en/my-cycas-is-producing-new-shoots/ — My Cycas Is Producing New Shoots
-- [ ] 16469 (post) /en/my-cycas-revoluta-has-brown-tips-why-causes-and-solutions/ — My Cycas revoluta Has Brown Tips, Why? Causes and Solutions
-- [ ] 16465 (post) /en/my-cycas-revoluta-has-cold-damage-why-assessment-recovery-and-winter-protection/ — My Cycas revoluta Has Cold Damage, Why? Assessment, Recovery, and Winter Protection
-- [ ] 16460 (post) /en/my-cycas-revoluta-has-root-rot-why-how-to-diagnose-treat-and-prevent-it/ — My Cycas revoluta Has Root Rot, Why? How to Diagnose, Treat, and Prevent It
-- [ ] 16459 (post) /en/my-cycas-revoluta-is-turning-yellow-why-a-diagnostic-guide/ — My Cycas revoluta Is Turning Yellow, Why? A Diagnostic Guide
-- [ ] 18409 (post) /en/my-pachypodium-is-losing-its-leaves-causes-decision-tree-solutions/ — My Pachypodium Is Losing Its Leaves: Causes, Decision Tree & Solutions
-- [ ] 19851 (post) /en/overwatered-aloe/ — Overwatered Aloe: How to Recognise the Signs, Rescue the Plant and Prevent It from Happening Again
-- [ ] 18403 (post) /en/pachypodium-pests-and-diseases-diagnosis-treatment-rescue-protocols/ — Pachypodium Pests and Diseases: Diagnosis, Treatment & Rescue Protocols
-- [ ] 18561 (post) /en/sago-palm-is-not-growing-new-leaves/ — My Sago Palm Is Not Growing New Leaves: 12 Causes, a Diagnostic Decision Tree, and How to Fix Each One
-- [ ] 15663 (post) /en/spider-mites-yucca/ — Spider Mites on Yuccas: Why They Spread and How to Save Your Plant
-- [ ] 17520 (post) /en/spineless-agaves/ — Spineless Agaves: Safe Alternatives for Gardens With Children
-- [ ] 16530 (post) /en/the-simon-lavaud-method-grafting-cycads/ — The Simon Lavaud Method: Grafting Cycads onto Cycas revoluta to Grow Difficult Species
-- [ ] 17738 (post) /en/types-of-aloe-20-species-every-grower-should-know/ — Types of aloes: 20 species every grower should know
-- [ ] 19001 (post) /en/types-of-succulents-the-complete-guide-to-over-100-species-and-varieties/ — Types of Succulents — The Complete Guide to Over 100 Species and Varieties
-- [ ] 17561 (post) /en/watering-cycads/ — Watering Cycads: Common Mistakes and How to Avoid Them
-- [ ] 17111 (post) /en/when-and-how-to-repot-a-yucca/ — When and How to Repot a Yucca — The Complete Guide to Containers, Substrates, and Timing
-- [ ] 15672 (post) /en/yucca-rostrata-in-pot/ — Yucca rostrata in Containers: How to Succeed with Pot Culture
-- [ ] 15644 (post) /en/yucca-rotting/ — My yucca is rotting : why and how to save it
+- [x] 20104 (post) /en/aeonium-dormancy/ — Aeonium Dormancy — 148 car.
+- [x] 19843 (post) /en/aloe-mite-aceria-aloinis/ — Aloe Mite (Aceria aloinis): How to Identify, Treat and Prevent the Most Destructive Alooid Pest — 152 car.
+- [x] 19872 (post) /en/aloe-not-flowering/ — Aloe not flowering — 148 car.
+- [x] 19863 (post) /en/aloe-root-rot/ — Aloe Root Rot: Pathogens, Diagnosis, Treatment and Prevention — 151 car.
+- [x] 19855 (post) /en/aloe-thrips-hercinothrips-dimidiatus/ — Aloe Thrips (Hercinothrips dimidiatus): An Emerging Pest of Aloes in Europe — Identification, Damage and Control — 144 car.
+- [x] 17749 (post) /en/aloe-vera-varieties/ — Aloe vera varieties: what exists, what doesn’t and what you actually bought — 149 car.
+- [x] 17767 (post) /en/aphids-on-yuccas/ — Aphids on yuccas: how to protect and treat your plant — 145 car.
+- [x] 17714 (post) /en/best-aloes-for-indoors-10-species-ranked-by-light-from-south-facing-windows-to-dim-offices/ — Best Aloes for Indoors: 10 Species Ranked by Light — From South-Facing Windows to Dim Offices — 151 car.
+- [x] 18972 (post) /en/best-crassula-for-bonsai/ — The Best Crassula Species for Bonsai — A Practical Comparison — 147 car.
+- [x] 18532 (post) /en/best-fertilizer-for-cycads-what-to-feed-your-sago-palm-when-and-how/ — Best Fertilizer for Cycads: What to Feed Your Sago Palm, When, and How — 153 car.
+- [x] 15554 (post) /en/best-indoor-succulents-25-species-that-actually-thrive-indoors/ — Best Indoor Succulents: 25 Species That Actually Thrive Indoors — 153 car.
+- [x] 21061 (post) /en/cactus-terrarium-the-guide/ — Cactus Terrarium: What Nobody Tells You Before You Start — 151 car.
+- [x] 19900 (post) /en/cold-hardy-aloes-which-species-survive-frost-outdoors/ — Cold Hardy Aloes: Which Species Survive Frost Outdoors? — 148 car.
+- [x] 18959 (post) /en/cold-hardy-crassulafrost/ — Cold-Hardy Crassula — Which Species Can Survive Frost? — 154 car.
+- [x] 17566 (post) /en/cold-hardy-cycads/ — Cold Hardy Cycads: 5 Species That Survive Real Winters — 150 car.
+- [x] 15560 (post) /en/cold-hardy-succulents-the-complete-guide-to-frost-resistant-species-for-outdoor-growing/ — Cold Hardy Succulents: The Complete Guide to Frost-Resistant Species for Outdoor Growing — 155 car.
+- [x] 15574 (post) /en/cycad-care-the-complete-guide-to-growing-cycads-indoors-in-containers-and-in-the-ground/ — Cycad Care: The Complete Guide to Growing Cycads Indoors, in Containers and in the Ground — 151 car.
+- [x] 18536 (post) /en/cycad-sago-palm-manganese-deficiency/ — Manganese Deficiency in Cycads: How to Diagnose, Treat and Prevent Frizzle Top — 139 car.
+- [x] 18526 (post) /en/cycad-sago-palm-toxic-dog-cat-children/ — Is Sago Palm Toxic to Dogs, Cats & Children? What to Know — 155 car.
+- [x] 17552 (post) /en/cycad-scale-aulacaspis-yasumatsui/ — Cycad Aulacaspis Scale (Aulacaspis yasumatsui): Identification, Treatment and Prevention — 149 car.
+- [x] 15683 (post) /en/cycas-in-pot-complete-care/ — Cycas in Pots: Complete Care Guide, Watering, Winter Protection and Tropical Cycads You Can Grow — 152 car.
+- [x] 18515 (post) /en/cycas-leaves-turning-yellow-how-to-fix-iron-chlorosis-with-chelated-iron-eddha/ — Cycas Leaves Turning Yellow? How to Fix Iron Chlorosis with Chelated Iron (EDDHA) — 151 car.
+- [x] 21072 (post) /en/dracaena-vs-cordyline-why-two-lookalike-genera-are-botanically-worlds-apart/ — Dracaena vs Cordyline: Why Two Lookalike Genera Are Botanically Worlds Apart — 153 car.
+- [x] 20528 (post) /en/dracaena-vs-yucca-identification-cultivation-and-key-differences/ — Dracaena vs Yucca: Identification, Cultivation and Key Differences — 139 car.
+- [x] 17545 (post) /en/growing-agaves-in-pots/ — Growing Agaves in Pots: Substrate, Watering, Repotting and Winter Care — 152 car.
+- [x] 18395 (post) /en/growing-pachypodium-from-seed-a-germination-guide-by-species/ — Growing Pachypodium from Seed: A Germination Guide by Species — 152 car.
+- [x] 17771 (post) /en/hardiness-zones-every-system-in-the-world/ — Understanding hardiness zones: every system in the world — 150 car.
+- [x] 17718 (post) /en/how-repot-aloe-vera/ — How to Repot Aloe vera: The Complete Step-by-Step Guide — 151 car.
+- [x] 15548 (post) /en/how-to-care-for-succulents-the-complete-guide/ — How to Care for Succulents: The Complete Guide — 154 car.
+- [x] 15612 (post) /en/how-to-care-for-yuccas-indoor-and-outdoor-growing-guide/ — How to Care for Yuccas: Indoor and Outdoor Growing Guide — 150 car.
+- [x] 20092 (post) /en/how-to-grow-and-care-for-aeonium-the-complete-guide/ — How to Grow and Care for Aeonium: The Complete Guide — 155 car.
+- [x] 17501 (post) /en/how-to-grow-and-care-for-agaves/ — How to Grow and Care for Agaves: The Complete Guide for Every Climate — 146 car.
+- [x] 18968 (post) /en/how-to-grow-and-care-for-crassula/ — How to Grow and Care for Crassula — The Complete Guide — 151 car.
+- [x] 17687 (post) /en/how-to-grow-care-aloe-vera/ — How to Grow and Care for Aloe vera — Indoors, Outdoors and Everything You Need to Know — 143 car.
+- [x] 15581 (post) /en/how-to-grow-cycads-from-seed-germination-seedling-care-and-propagation-setup/ — How to Grow Cycads from Seed: Germination, Seedling Care and Propagation Setup — 153 car.
+- [x] 20097 (post) /en/how-to-propagate-aeonium-stem-cuttings-offsets-beheading-and-seed/ — How to Propagate Aeonium: Stem Cuttings, Offsets, Beheading, and Seed — 135 car.
+- [x] 17704 (post) /en/how-to-propagate-aloe-vera-from-offsets/ — How to Propagate Aloe vera from Offsets: The Complete Guide — 152 car.
+- [x] 19869 (post) /en/how-to-propagate-aloes-offsets-cuttings-seeds-and-micropropagation/ — How to Propagate Aloes: Offsets, Cuttings, Seeds and Micropropagation — 155 car.
+- [x] 18980 (post) /en/how-to-propagate-crassula-2/ — How to Propagate Crassula — Stem Cuttings, Leaf Cuttings, Division, and Seed — 142 car.
+- [x] 19007 (post) /en/how-to-propagate-succulents/ — How to Propagate Succulents — The Complete Guide to Leaves, Cuttings, Offsets, and Seeds — 149 car.
+- [x] 18542 (post) /en/magnesium-deficiency-cycad-sago-palm/ — Magnesium Deficiency in Cycads: Why Old Fronds Turn Yellow and How to Fix It — 152 car.
+- [x] 15630 (post) /en/mealybug-yucca/ — Mealybugs on yuccas — 150 car.
+- [x] 17117 (post) /en/my-cycas-is-producing-new-shoots/ — My Cycas Is Producing New Shoots — 145 car.
+- [x] 16469 (post) /en/my-cycas-revoluta-has-brown-tips-why-causes-and-solutions/ — My Cycas revoluta Has Brown Tips, Why? Causes and Solutions — 147 car.
+- [x] 16465 (post) /en/my-cycas-revoluta-has-cold-damage-why-assessment-recovery-and-winter-protection/ — My Cycas revoluta Has Cold Damage, Why? Assessment, Recovery, and Winter Protection — 148 car.
+- [x] 16460 (post) /en/my-cycas-revoluta-has-root-rot-why-how-to-diagnose-treat-and-prevent-it/ — My Cycas revoluta Has Root Rot, Why? How to Diagnose, Treat, and Prevent It — 153 car.
+- [x] 16459 (post) /en/my-cycas-revoluta-is-turning-yellow-why-a-diagnostic-guide/ — My Cycas revoluta Is Turning Yellow, Why? A Diagnostic Guide — 142 car.
+- [x] 18409 (post) /en/my-pachypodium-is-losing-its-leaves-causes-decision-tree-solutions/ — My Pachypodium Is Losing Its Leaves: Causes, Decision Tree & Solutions — 151 car.
+- [x] 19851 (post) /en/overwatered-aloe/ — Overwatered Aloe: How to Recognise the Signs, Rescue the Plant and Prevent It from Happening Again — 154 car.
+- [x] 18403 (post) /en/pachypodium-pests-and-diseases-diagnosis-treatment-rescue-protocols/ — Pachypodium Pests and Diseases: Diagnosis, Treatment & Rescue Protocols — 141 car.
+- [x] 18561 (post) /en/sago-palm-is-not-growing-new-leaves/ — My Sago Palm Is Not Growing New Leaves: 12 Causes, a Diagnostic Decision Tree, and How to Fix Each One — 153 car.
+- [x] 15663 (post) /en/spider-mites-yucca/ — Spider Mites on Yuccas: Why They Spread and How to Save Your Plant — 152 car.
+- [x] 17520 (post) /en/spineless-agaves/ — Spineless Agaves: Safe Alternatives for Gardens With Children — 143 car.
+- [x] 16530 (post) /en/the-simon-lavaud-method-grafting-cycads/ — The Simon Lavaud Method: Grafting Cycads onto Cycas revoluta to Grow Difficult Species — 153 car.
+- [x] 17738 (post) /en/types-of-aloe-20-species-every-grower-should-know/ — Types of aloes: 20 species every grower should know — 151 car.
+- [x] 19001 (post) /en/types-of-succulents-the-complete-guide-to-over-100-species-and-varieties/ — Types of Succulents — The Complete Guide to Over 100 Species and Varieties — 149 car.
+- [x] 17561 (post) /en/watering-cycads/ — Watering Cycads: Common Mistakes and How to Avoid Them — 151 car.
+- [x] 17111 (post) /en/when-and-how-to-repot-a-yucca/ — When and How to Repot a Yucca — The Complete Guide to Containers, Substrates, and Timing — 142 car.
+- [x] 15672 (post) /en/yucca-rostrata-in-pot/ — Yucca rostrata in Containers: How to Succeed with Pot Culture — 148 car.
+- [x] 15644 (post) /en/yucca-rotting/ — My yucca is rotting : why and how to save it — 153 car.

@@ -1928,3 +1928,15 @@ Avancement (une ligne par paquet appliqué ; ne rien réappliquer : vérifier d'
 - **Sources** : WCVP et Liste rouge lues sur l'API GBIF ; ASPCA et Flora de Cuba lues. Aucune source nouvelle inaccessible ; POWO et la Liste rouge UICN n'ont pas été interrogées directement (règle d'accès).
 - **Hors périmètre, non vérifié** : zones USDA dans les pages genre *Dioon* FR et *Ceratozamia* IT (non signalées comme non attribuées).
 - **Pages genre hors cycadales, à traiter (liste seulement)** : 26 pages FR contiennent encore ces tournures : beaucarnea (2), beschorneria (3), butia (3), calibanus (1), chamaerops (1), copiapoa (2), cordyline (4), cylindropuntia (3), echinocereus (2), epiphyllum (1), espostoa (1), hesperaloe (4), livistona (1), lomandra (3), lophophora (1), marginatocereus (3), neobuxbaumia (2), nolina (1), pachycereus (1), pereskia (2), phoenix (3), rhapidophyllum (3), sansevieria (1), selenicereus (2), trachycarpus (5), trithrinax (1).
+
+## Signalé lors de META-D (31/10/2026), hors lot
+
+Articles EN (type post) ; rien n'a été modifié hors meta description.
+
+- **Titres** : *My yucca is rotting : why and how to save it* (15644) — espace avant le deux-points (typographie française), minuscules. Titres SEO par défaut jugés trop longs par l'outil sur 32 des 60 articles (titre de l'article repris tel quel, ex. 18561 : 102 car., 19855 : 112 car.).
+- **Adresses** : 18959 `/en/cold-hardy-crassulafrost/` (mots collés) ; 18980 `/en/how-to-propagate-crassula-2/` (suffixe « -2 »).
+- **Contenu** :
+  - 17545 *Growing Agaves in Pots* : « A Agave ovatifolia » dans l'introduction (→ « An »).
+  - 17738 *Types of aloes* : l'entrée « 13. Aloe striatula var. caesia — see #11 above » est une variété de l'entrée 11, la liste ne compte donc que 19 taxons distincts pour « 20 species » ; coquille « To learn more abour Aloe cameronii ».
+  - 17771 *Understanding hardiness zones* : article EN rédigé à la première personne autour du jardin de l'éditeur « in southern France », avec une section « USDA zones in France: city-by-city table » (contraire aux règles 20 et 21 de `prompts/redaction-fiches.md` pour l'EN).
+  - 16459, 16460, 16465, 16469, 16530 : aucun intertitre H2 dans le contenu (intertitres en H3).
