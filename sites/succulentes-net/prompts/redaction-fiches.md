@@ -80,7 +80,7 @@ En FR et IT, la section Rusticité s'organise en deux parties : (1) le contexte 
 ## Encadré « L'essentiel sur *Taxon* » (anciennement « En bref »)
 Placé APRÈS l'introduction et le sommaire (jamais avant l'introduction), sous un intertitre H2
 « L'essentiel sur <em>Nom du taxon</em> » (ex. « L'essentiel sur <em>Agave tequilana</em> »).
-Autres langues (à valider) : EN « Key facts about », IT « L'essenziale su », ES « Lo esencial sobre ».
+Autres langues : EN « Key facts about », IT « L'essenziale su », ES « Datos clave de » (décision du propriétaire du 31/10/2026 ; ex. « Datos clave de <em>Cycas revoluta</em> »).
 Liste simple (pas de tableau), collable dans WordPress, avec ces champs :
 - Nom accepté (POWO) et auteur(s)
 - Anciens noms et synonymes courants
