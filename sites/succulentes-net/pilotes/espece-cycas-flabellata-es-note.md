@@ -1,0 +1,16 @@
+# Note — *Cycas flabellata* (ES 37967), https://succulentes.net/es/orden-cycadales/cycas/flabellata/
+
+## Création du 31/10/2026 (lot CYC-ES13, mode C)
+- Avant création : aucune page ES (REST slug `flabellata` : FR 26661, IT 28619, EN 30524 seulement ; list_content es brouillons, privées, corbeille : rien ; /es/orden-cycadales/cycas/flabellata/ en 404, sans redirection).
+- create_content : page, publish, langue es, parent 23432, slug `flabellata`, titre « Cycas flabellata », translation_of FR 26661 → id **37967**. Hreflang vérifiés : fr 26661, it 28619, en 30524, es 37967. Aucune image.
+- Brouillon `pilotes/espece-cycas-flabellata-es.html` identique au texte en ligne (verify.py : seul le sommaire diffère ; 8 liens, même séquence). DSL : scratchpad `es13/flabellata.dsl`. ≈ 2 290 mots (Rank Math) : page courte, faute de description originale lisible (comme FR/IT/EN).
+- SEO Rank Math : « Cycas flabellata: cícada de Mindanao descrita en 2019 » (53) ; meta 149 ; mot-clé « Cycas flabellata » ; aucun problème ; `<title>` vérifié.
+- Base : EN 30524 (21/10, retouches 0b/0c, liens du 21 et 24/10) et FR 26661 et leurs notes (WLoC 902, IPNI, Crossref, Lindström et al. 2008, Montgomery, BGCI, GBIF).
+- Revérifié le 31/10/2026 : GBIF 10741532 → NE ; occurrences GBIF « Cycas flabellata » : 0 ; WCVP sur GBIF 206945084 : accepté (Mem. New York Bot. Gard. 117: 533, 2019) ; Species+ (auto-complétion API) : nom absent (protection par l'inscription de la famille).
+- Notes de travail EN non reprises : « which could not be consulted: no measurements are therefore given here », « As the original description could not be read », « The original publication could not be read », « No report from an English-speaking grower could be read ». Reformulé en ES par « las fuentes de acceso libre no… » (explique l'absence de mesures, de comparaisons et de statut proposé).
+- Cadre international ; JZT : rien de publié (dit). Aucun nom espagnol attesté. Pas d'article Lavaud (espèce philippine).
+- Liens internes ES (200) : genre (intro), *edentata* 37726, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : semis 23153, arrosage 23175, toxicité 23195. Sans page ES (non liés) : *lacrimans*, *sancti-lasallei*, *mindanaensis*.
+- Index genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon `genre-cycas-es.html` aligné. Mention du corps de la page genre (Taxonomía, « Cycas flabellata y Cycas mindanaensis ») non liée, comme pour les lots précédents.
+- Liens entrants : aucune autre page ES ne cite l'espèce (balayage REST des pages filles de 23432 et de 23482, 31/10/2026).
+- Points douteux (repris EN/FR) : description originale non lue (aucune mesure, espèces comparées et statut proposé inconnus) ; incohérence WLoC entre localité type (Bukidnon) et répartition (Davao Oriental, Misamis Oriental), exposée ; date 2019 (IPNI, WLoC) / chapitre en ligne de novembre 2018 (Crossref), exposée. Ligne d'index 23432 : autorité écrite « Agoo &amp; Madulid &amp; J.R.Callado » (la fiche suit la WCVP/EN : « Agoo, Madulid & J.R.Callado ») ; non modifiée.
+- Forums ES (InfoJardín, Club de Palmeras) : recherche web restreinte du 31/10/2026, aucun résultat sur l'espèce.
