@@ -310,7 +310,7 @@ Balayage de la balise `<meta name="description">` des 890 contenus EN en ligne (
 - [x] 21220 (page) /en/fouquieraceae/fouquieria/macdougalii/ — Fouquieria macdougalii — 154 car.
 - [x] 21231 (page) /en/fouquieraceae/fouquieria/ochoterenae/ — Fouquieria ochoterenae — 152 car.
 - [x] 21255 (page) /en/fouquieraceae/fouquieria/purpusii/ — Fouquieria purpusii — 154 car.
-- [ ] 21236 (page) /en/fouquieraceae/fouquieria/shrevei/ — Fouquieria shrevei — laissée : le contenu en ligne est celui de Fouquieria leonilae (voir cycadales-a-verifier.md)
+- [x] 21236 (page) /en/fouquieraceae/fouquieria/shrevei/ — Fouquieria shrevei — 155 car. (fiche réécrite le 31/10/2026, voir cycadales-a-verifier.md)
 - [x] 21206 (page) /en/fouquieraceae/fouquieria/splendens/ — Fouquieria splendens — 153 car.
 - [x] 24688 (page) /en/gardens/ — Botanical gardens — 143 car.
 - [x] 23915 (page) /en/malvaceae-2/adansonia/ — Adansonia — 153 car.
