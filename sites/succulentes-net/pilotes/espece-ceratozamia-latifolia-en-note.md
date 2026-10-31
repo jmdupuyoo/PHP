@@ -16,3 +16,4 @@
 - **Retouche 0 de CER06 (30/10/2026)** : couleur des jeunes feuilles de *Ceratozamia mexicana* nuancée (verte selon la monographie 2022, brun rougeâtre à El Mirador selon Vovides et al. 2016) dans Confusions et dans la FAQ « *latifolia* / *mexicana* » ; Vovides et al. 2016 ajouté en bibliographie (3 remplacements, simulation puis application). Brouillon aligné.
 
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *reesii* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+- **Bilan Ceratozamia CER09 (30/10/2026)** : « queried through its public API on » → « queried on » (source BGCI) ; °F ajoutés (FAQ et sources) ; néotype « on Route 70, 46 km west of Ciudad Valles » → « in San Luis Potosí » ; « El Mirador population » (3) → population de la municipalité de Totutla ; simulation puis application (appel commun de 47 remplacements sur 24 pages) ; brouillon identique au texte en ligne (cmp.py).

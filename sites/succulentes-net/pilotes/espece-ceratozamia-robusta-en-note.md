@@ -16,3 +16,6 @@
 - JZT : aucune observation publiée.
 
 - **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *sancheziae*, *subroseophylla* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+- **Retouche 0 de CER09 (30/10/2026)** : « of southern Veracruz and Tabasco » nuancé en « of southern Veracruz (the 2022 monograph also included plants from Tabasco, assigned to Ceratozamia gigantea since 2024) » (simulation puis application, 1) ; brouillon aligné.
+- **Bilan Ceratozamia CER09 (30/10/2026)** : °F ajouté (sources : −8.4 °C, 17 °F) ; simulation puis application (appel commun de 47 remplacements sur 24 pages) ; brouillon identique au texte en ligne (cmp.py).

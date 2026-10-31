@@ -12,3 +12,4 @@
 - Niveau de localité : « Sierra de Otontepec » (comme la page genre EN) et municipalité de Tepetzintla (monographie) ; aucune localité plus précise.
 - Divergences exposées : sexe de l'holotype (protologue et WLoC : mâle / monographie : femelle) ; date du paratype 2481 (1982 / 1981) ; mesures protologue / monographie.
 - Liens externes vérifiés le 30/10 : 200 sauf DOI d'éditeurs (Wiley, MDPI, IUCN : 403 ; Springer : 429), gbif.org/species (403, page web ; API en 200) et Fous de palmiers (503).
+- **Bilan Ceratozamia CER09 (30/10/2026)** : « queried through its public API on » → « queried on » (source BGCI) ; simulation puis application (appel commun de 47 remplacements sur 24 pages) ; brouillon identique au texte en ligne (cmp.py).

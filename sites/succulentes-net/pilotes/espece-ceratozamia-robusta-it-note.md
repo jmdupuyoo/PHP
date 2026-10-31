@@ -39,3 +39,6 @@
 
 ## Retouche 0 de CER08 (30/10/2026) : zone USDA 9b à 11 d'une « encyclopédie en ligne » non nommée retirée (Rusticité, repères internationaux ; FR 1 + IT 1, simulation puis application). La mention générale « des sites… donnent des zones de rusticité sans citer d'essais ; ils ne sont pas retenus » (Culture) est conservée.
 - Brouillon identique au texte en ligne (cmp.py).
+
+## Retouche 0 de CER09 (30/10/2026) : phrase sur les zones de rusticité données par des sites encyclopédiques retirée (Culture ; FR 1 + IT 1, simulation puis application). La formule « du sud du Veracruz et du Tabasco » est conservée (à nuancer comme en EN, signalé).
+- Brouillon identique au texte en ligne (cmp.py).

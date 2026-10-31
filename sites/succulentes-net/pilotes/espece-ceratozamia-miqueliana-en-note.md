@@ -16,3 +16,5 @@
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta*, *rosea* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
 
 - **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *sancheziae*, *santillanii* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+- **Liens CER09 (30/10/2026)** : lien(s) EN posé(s) vers *zoquorum* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

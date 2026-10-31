@@ -13,3 +13,5 @@
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
 
 - **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *subroseophylla* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+- **Retouche 0 de CER09 (30/10/2026)** : « of southern Veracruz and Tabasco » nuancé en « of southern Veracruz (the 2022 monograph also included plants from Tabasco, assigned to Ceratozamia gigantea since 2024) » (simulation puis application, 1) ; brouillon aligné.

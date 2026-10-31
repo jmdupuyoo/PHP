@@ -17,3 +17,6 @@
 - CER03 (30/10/2026) : lien sortant vers *fuscoviridis* 35622 (Taxonomy, sous-clade latifolia) ; première occurrence hors introduction, encadré, titres et sources ; simulation puis application (1) ; brouillon aligné.
 
 - **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *tenuis* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+- **Liens CER09 (30/10/2026)** : lien(s) EN posé(s) vers *totonacorum* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+- **Bilan Ceratozamia CER09 (30/10/2026)** : « queried through its public API on » → « queried on » (source BGCI) ; simulation puis application (appel commun de 47 remplacements sur 24 pages) ; brouillon identique au texte en ligne (cmp.py).

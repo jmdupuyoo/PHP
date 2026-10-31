@@ -12,3 +12,6 @@
 - Divergence exposée : habitat (forêt de chênes sur argile, monographie / forêt tropicale sempervirente, Habib et al. 2023).
 - Lien entrant : *alvarezii* 35549 (Taxonomy, première occurrence hors intro/encadré/titres/sources ; simulation 1/1 puis application ; brouillon aligné).
 - FR 26367 / IT 27415 nettoyées le 30/10/2026 (voir leurs notes).
+
+- **Liens CER09 (30/10/2026)** : lien(s) EN posé(s) vers *vovidesii* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+- **Bilan Ceratozamia CER09 (30/10/2026)** : « queried through its public API on » → « queried on » (source BGCI) ; simulation puis application (appel commun de 47 remplacements sur 24 pages) ; brouillon identique au texte en ligne (cmp.py).

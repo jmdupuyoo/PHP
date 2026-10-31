@@ -12,3 +12,5 @@
 - Confusion avec *becerrae* : formulée d'après la clé de 2009 relue (folioles subfalciformes oblongues à largement oblancéolées / oblancéolées non subfalciformes) ; la FR/IT cite en plus tronc et duvet du pédoncule (non repris en EN, source non relue).
 - Localités : EN limitée à la municipalité de Berriozábal (la monographie publie la route de Berriozábal à El Cairo, non reprise).
 - JZT : aucune observation publiée.
+
+- **Liens CER09 (30/10/2026)** : lien(s) EN posé(s) vers *zoquorum* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

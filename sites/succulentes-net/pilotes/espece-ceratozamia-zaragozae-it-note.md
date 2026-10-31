@@ -23,3 +23,9 @@
 ## Points douteux
 - Auteur « Medellín » (WLoC) / « Medellín-Leal » : forme WLoC retenue, l'autre signalée.
 - POWO non lu.
+
+
+## Nettoyage CER09 (30/10/2026)
+
+- FR 30 + IT 29 remplacements (simulation puis application, comptes identiques) : POWO → WCVP lue sur GBIF (encadré, Taxonomie, ligne de source) ; statut UICN confirmé par GBIF et DOI UICN ajouté ; annotations de consultation et extraits de recherche retirés ; BMAA retirée, toxicité au format imposé ; ligne « synthèse interne » retirée. GBIF 207874444. Extraits Castillo-Lara 2018 remplacés par le résumé qu'en donne la monographie 2022 (densités de 4 à 209 plantes / 2 500 m², faible croissance, proposition EN) ; extrait NOM-059 (UNAM) remplacé par le DOF du 14/11/2019 (P, endémique), ligne DOF ajoutée aux sources. Localités non modifiées. IT : « ricerche sui forum » reformulé.
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : voir `espece-ceratozamia-zaragozae-en-note.md`.

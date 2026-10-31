@@ -48,3 +48,9 @@
 - translation_of : aucun (aucune fiche dans une autre langue).
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Lien ajouté dans l'index de la page genre 9866 (dry_run puis application).
+
+
+## Nettoyage CER09 (30/10/2026)
+
+- FR 22 + IT 20 remplacements (simulation puis application, comptes identiques) : POWO → WCVP lue sur GBIF (encadré, Taxonomie, ligne de source) ; statut UICN confirmé par GBIF et DOI UICN ajouté ; annotations de consultation et extraits de recherche retirés ; BMAA retirée, toxicité au format imposé ; ligne « synthèse interne » retirée. GBIF 207874429. Localités plus précises que la municipalité non modifiées (décision du propriétaire en attente). À signaler : FR et IT « Tlapacoyan (Veracruz) » alors que la monographie donne « Mun. Tlapacoya » (Puebla), non corrigé (hors lot).
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : voir `espece-ceratozamia-totonacorum-en-note.md`.

@@ -12,3 +12,6 @@
 - Divergences exposées : couleur du cône femelle (lie-de-vin, monographie / vert olive à brun, protologue) ; tronc 9-20 cm (protologue) / 10-40 cm (monographie) ; paires de folioles 7-19 / 8-24 ; catégories successives (CR 2008, EN proposé 2022, EN UICN 2022, risque élevé 2025).
 - Liens entrants : *becerrae* 35553 (In the wild) et *brevifrons* 35555 (Taxonomy), première occurrence hors intro/encadré/titres/sources ; simulation puis application (1 + 1) ; brouillons alignés. *Zamia decumbens* 31983 ne cite pas l'espèce (seulement *Ceratozamia robusta*).
 - FR 26371 / IT 27423 nettoyées le 30/10/2026 (voir leurs notes).
+
+- **Liens CER09 (30/10/2026)** : lien(s) EN posé(s) vers *zoquorum* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+- **Bilan Ceratozamia CER09 (30/10/2026)** : « queried through its public API on » → « queried on » (source BGCI) ; simulation puis application (appel commun de 47 remplacements sur 24 pages) ; brouillon identique au texte en ligne (cmp.py).

@@ -11,3 +11,4 @@
 - Divergences exposées : date du type (22/06 protologue et WLoC, 21/06 monographie) ; sommet du cône femelle (mucroné, protologue / longue pointe jusqu'à 5 cm, monographie) ; dimensions (protologue / monographie) ; CR (monographie) / EN (UICN 2022).
 - Fous de palmiers (fil 2013, rareté et prix en Europe) : repris anonymement ; le site répondait 503 (« Backend fetch failed ») le 30/10 : lien non revérifié (vérifié par le lot FR). La rumeur de prélèvement massif n'est pas reprise en EN.
 - Liens entrants : *becerrae* 35553 (Taxonomy), *Zamia purpurea* 32534, *dominguezii* 35618 (Possible confusion).
+- **Bilan Ceratozamia CER09 (30/10/2026)** : « queried through its public API on » → « queried on » (source BGCI) ; simulation puis application (appel commun de 47 remplacements sur 24 pages) ; brouillon identique au texte en ligne (cmp.py).

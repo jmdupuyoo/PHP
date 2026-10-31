@@ -11,3 +11,5 @@
 - Sources : FR 26454 / IT 27478 nettoyées (CER05) ; protologue 2001 relu (PDF cycad.org, texte : La Sepultura, 950 m, *Quercus elliptica* / *Pinus oocarpa*, granites, 2n = 16, clé *kuesteriana* / *norstogii*, sécheresse et incendies de 1998) ; monographie 2022 (texte local) ; WLoC 37 (holotype retrouvé, Haynes 2023) ; WCVP via GBIF 207874461 ; GBIF (EN) ; Species+ 22217 ; Habib 2023 lu (sous-clade *norstogii*) ; protologue de *leptoceras* (*vovidesii* / *mirandae* séparés par l'ADN) ; BGCI 9 en deux fiches (US 7 ; MX 2) ; Montgomery 3 acc. ; Fairchild (inventaire du 19/10) ; Tropicamente relu (#post-46414, #post-38965, #post-40945).
 - Type ramené au niveau municipal (Villaflores ; la FR cite l'ejido).
 - Écarté : zone USDA 9a de seconde main (Tropicamente).
+
+- **Liens CER09 (30/10/2026)** : lien(s) EN posé(s) vers *vovidesii* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

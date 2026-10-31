@@ -11,3 +11,6 @@
 - Localités des spécimens de 1906 et 1942 (San Andrés, Catarina) non reprises en EN (plus précises que le niveau municipal) ; elles restent dans la FR/IT (« Étymologie et histoire »).
 
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+- **Liens CER09 (30/10/2026)** : lien(s) EN posé(s) vers *vovidesii* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+- **Bilan Ceratozamia CER09 (30/10/2026)** : « queried through its public API on » → « queried on » (source BGCI) ; simulation puis application (appel commun de 47 remplacements sur 24 pages) ; brouillon identique au texte en ligne (cmp.py).

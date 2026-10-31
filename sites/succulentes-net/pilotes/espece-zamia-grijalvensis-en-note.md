@@ -23,3 +23,5 @@
 ## Lien posé le 25/10/2026 (ZAM09)
 - Lien vers *katzeriana* EN 32132 (première occurrence, Hybrids, 1 remplacement, simulation puis application).
 - 30/10/2026 (lot CER01) : lien entrant posé vers la nouvelle page EN *Ceratozamia becerrae* (35553) sur « Ceratozamia becerrae » (corps, Dans la nature/conservation) ; simulation 1/1 puis application ; brouillon aligné (identique au texte en ligne).
+
+- **Liens CER09 (30/10/2026)** : lien(s) EN posé(s) vers *vovidesii*, *zoquorum* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

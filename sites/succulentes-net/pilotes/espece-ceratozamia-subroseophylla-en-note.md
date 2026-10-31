@@ -12,3 +12,5 @@
 - Divergences exposées : sens strict (protologue) / sens large (monographie) ; diagnose / description (folioles glauques ou non) ; WLoC / monographie et WCVP (*dominguezii*).
 - Localités : EN limitée aux municipalités (Santiago Tuxtla, Tatahuicapan de Juárez, Macuspana) ; « colline face à Sinapan », « Cerro El Vigía » et volcan San Martín Pajapan non repris (phrase corrigée après publication, simulation puis application, 1 remplacement).
 - JZT : aucune observation publiée.
+
+- **Liens CER09 (30/10/2026)** : lien(s) EN posé(s) vers *vovidesii* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

@@ -17,3 +17,4 @@
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
 
 - **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *tenuis* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+- **Bilan Ceratozamia CER09 (30/10/2026)** : « queried through its public API on » → « queried on » (source BGCI) ; « Palma Sola population » → population d'Alto Lucero (de Gutiérrez Barrios) ; « Palma Sola and Rancho Nuevo » → « two populations, including that of Alto Lucero » (texte et bibliographie) ; étiquette de provenance “Palma Sola” du JZT conservée ; simulation puis application (appel commun de 47 remplacements sur 24 pages) ; brouillon identique au texte en ligne (cmp.py).

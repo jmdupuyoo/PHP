@@ -54,3 +54,9 @@
 
 - Protologue lu en texte intégral (Pérez-Farrera, González-Astorga, Avendaño & Iglesias 2007, Bot. J. Linn. Soc. 153 : 393-400, copie de la Cycad Society). Ajouts : description chiffrée (tronc 15-85 cm parfois ramifié, 8-16 feuilles de 124-188 cm, 74-93 paires de folioles coriaces, cônes, graines, 2n = 16), écarts avec la monographie (nombre et texture des folioles), parenté avec C. matudae selon les auteurs et critères, découverte et culture expérimentale de six ans, spécimens de 1940 et 1951, localité omise, habitat du protologue (forêt de chênes sur granites et roches métamorphiques, 1 000-1 700 m, contre « rochers karstiques » dans la monographie), statut VU C2a proposé en 2007 (quatre populations).
 - replace_in_content sur 26428 (dry run puis application, 10 remplacements) ; brouillon identique au contenu en ligne ; URL 200.
+
+
+## Nettoyage CER09 (30/10/2026)
+
+- FR 23 + IT 21 remplacements (simulation puis application, comptes identiques) : POWO → WCVP lue sur GBIF (encadré, Taxonomie, ligne de source) ; statut UICN confirmé par GBIF et DOI UICN ajouté ; annotations de consultation et extraits de recherche retirés ; BMAA retirée, toxicité au format imposé ; ligne « synthèse interne » retirée. GBIF 207874531. L'extrait POWO est remplacé par la WCVP (sud-est du Mexique, Guatemala). À signaler : le choix « endémique du Chiapas, sous cette réserve » reste en FR/IT alors que la monographie et la WCVP citent le Guatemala ; non modifié (hors lot).
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : voir `espece-ceratozamia-vovidesii-en-note.md`.

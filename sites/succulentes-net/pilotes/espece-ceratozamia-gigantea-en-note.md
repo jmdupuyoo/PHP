@@ -11,3 +11,4 @@
 - Inaccessible : texte intégral du protologue (Springer redirige vers une page d'authentification ; OpenAlex : « closed », pas de résumé) : mesures, catégorie proposée, pollinisateurs et trois espèces du Tabasco non documentés.
 
 - **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *subroseophylla* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+- **Bilan Ceratozamia CER09 (30/10/2026)** : « queried through its public API on » → « queried on » (source BGCI) ; simulation puis application (appel commun de 47 remplacements sur 24 pages) ; brouillon identique au texte en ligne (cmp.py).

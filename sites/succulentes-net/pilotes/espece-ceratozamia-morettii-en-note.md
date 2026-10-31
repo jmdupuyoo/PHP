@@ -15,3 +15,4 @@
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *reesii*, *robusta* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
 
 - **Liens CER08 (30/10/2026)** : lien(s) EN posé(s) vers *tenuis* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+- **Bilan Ceratozamia CER09 (30/10/2026)** : « at La Estrella » retiré (municipalité de Chiconquiaco seule) ; simulation puis application (appel commun de 47 remplacements sur 24 pages) ; brouillon identique au texte en ligne (cmp.py).

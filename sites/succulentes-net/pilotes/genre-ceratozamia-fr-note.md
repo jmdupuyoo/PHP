@@ -112,3 +112,5 @@ Aucune donnée documentée pour la France, quelle que soit la zone (littoral mé
 - Ligne d'index *robusta* : « the most widespread and the largest species » → la monographie en fait l'espèce la plus répandue et qualifie son cône mâle (≤ 70 cm) de « the largest in the genus », tout en donnant 60-80 cm pour *osbornei*.
 - Bibliographie : annotations de lecture retirées (« abstract read on Crossref », « consulted through the abstract », « read on Plazi and Zenodo… not consulted », « text not read » → « as stated in its title » ; IT : « testo letto tramite Europe PMC, tabella delle località non consultata »).
 - Simulation puis application (EN 10, FR 10, IT 11 remplacements) ; brouillon identique au texte en ligne. Lignes d'index liées en CER07 (EN) : popolucana, reesii, robusta, rosea, sabatoi (35 sur 45).
+
+- **Retouche 0 de CER09 (30/10/2026)** : altitude de *tenuis* 1 850 → 1 920 m (monographie 2022) ; simulation puis application (1) ; brouillon aligné.

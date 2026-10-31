@@ -12,3 +12,6 @@
 - Écartés : les quatre retours PalmTalk connus par extraits (Texas −16 °C, Caroline du Sud −11 °C, Natchez −10 °C, Altamonte Springs −5 °C), le fil sur l'hybride *latifolia* × *hildae* (PalmTalk, non lu) ; témoignage indirect de Corse (−0,5 °C) et cônes sur jeunes mâles (Fous de palmiers, 503 le 30/10) non repris.
 - Divergence exposée : CR (WLoC, GBIF, 2022) / EN (monographie, Liste rouge antérieure) ; mesures protologue / monographie (feuilles, cône mâle). Adresse privée du type (rue) non reprise.
 - Liens externes vérifiés le 30/10 : 200 sauf DOI d'éditeurs (Wiley, MDPI, IUCN : 403 ; Springer : 429), gbif.org/species (403, page web ; API en 200) et Fous de palmiers (503).
+
+- **Liens CER09 (30/10/2026)** : lien(s) EN posé(s) vers *zaragozae* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+- **Bilan Ceratozamia CER09 (30/10/2026)** : « queried through its public API on » → « queried on » (source BGCI) ; °C placé avant les °F (UF/IFAS) et °F ajoutés (FAQ, sources) ; simulation puis application (appel commun de 47 remplacements sur 24 pages) ; brouillon identique au texte en ligne (cmp.py).

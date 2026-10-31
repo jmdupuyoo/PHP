@@ -12,3 +12,5 @@
 - Localités : EN limitée aux municipalités (la monographie publie « La Mojonera, 2 km on road San Joaquín-El Aguacate », non repris).
 - Révision régionale de 2018 (PhytoKeys 100) citée en FR/IT, non reprise en EN (non relue).
 - JZT : aucune observation publiée.
+
+- **Liens CER09 (30/10/2026)** : lien(s) EN posé(s) vers *zaragozae* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.

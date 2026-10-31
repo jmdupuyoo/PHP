@@ -23,3 +23,9 @@
 ## Points douteux
 - Guatemala : deux spécimens cités par la monographie sous *C. vovidesii* sont rattachés en 2024 à *C. guatemalensis* ; l'IT écrit « almeno questi due appartengono quindi oggi alla nuova specie. È probabile che lo stesso valga per le altre… ma nessuna fonte lo afferma per tutte » (déduction signalée comme telle).
 - Description originale (2007) non lue ; POWO non lu.
+
+
+## Nettoyage CER09 (30/10/2026)
+
+- FR 23 + IT 21 remplacements (simulation puis application, comptes identiques) : POWO → WCVP lue sur GBIF (encadré, Taxonomie, ligne de source) ; statut UICN confirmé par GBIF et DOI UICN ajouté ; annotations de consultation et extraits de recherche retirés ; BMAA retirée, toxicité au format imposé ; ligne « synthèse interne » retirée. GBIF 207874531. L'extrait POWO est remplacé par la WCVP (sud-est du Mexique, Guatemala). À signaler : le choix « endémique du Chiapas, sous cette réserve » reste en FR/IT alors que la monographie et la WCVP citent le Guatemala ; non modifié (hors lot). IT : « ricerche sui forum » reformulé.
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : voir `espece-ceratozamia-vovidesii-en-note.md`.

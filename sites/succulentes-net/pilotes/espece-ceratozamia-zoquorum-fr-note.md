@@ -55,3 +55,9 @@
 - Écart majeur exposé : cône femelle retombant (« decumbent ») dans le protologue, caractère diagnostique repris dans le protologue de C. santillanii ; la monographie le dit dressé. Autres écarts : 1-5 feuilles de 81-374 cm, tronc ramifié jusqu'à 48 cm, folioles espacées de 1,7-2,4 cm (protologue de santillanii) contre 4,6-11 cm (monographie).
 - Ajouts : rapprochement avec C. miqueliana, culture expérimentale (UNICACH, Clavijero), « C. zoquensis » employé par erreur dans le corps du protologue, « isotype » 905 (autre numéro et date), spécimen Breedlove 1981, habitat (520-1 200 m, falaises karstiques, rendzines et argiles rouges), statut CR proposé en 2001.
 - replace_in_content sur 26438 (dry run puis application, 9 remplacements) ; brouillon identique au contenu en ligne ; URL 200.
+
+
+## Nettoyage CER09 (30/10/2026)
+
+- FR 21 + IT 19 remplacements (simulation puis application, comptes identiques) : POWO → WCVP lue sur GBIF (encadré, Taxonomie, ligne de source) ; statut UICN confirmé par GBIF et DOI UICN ajouté ; annotations de consultation et extraits de recherche retirés ; BMAA retirée, toxicité au format imposé ; ligne « synthèse interne » retirée. GBIF 207874442. Liste rouge (GBIF) : *becerrae* traité comme synonyme de *zoquorum*, CR ; ligne de source GBIF *becerrae* (4000172) ajoutée ; encadré complété. Localités non modifiées.
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : voir `espece-ceratozamia-zoquorum-en-note.md`.

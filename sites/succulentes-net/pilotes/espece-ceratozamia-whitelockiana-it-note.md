@@ -23,3 +23,9 @@
 ## Points douteux
 - Altitude : 335-975 m (description 1995) contre 500-1 800 m (monographie), les deux données ; incohérence de la monographie sur le pédoncule du cône femelle exposée comme en FR.
 - POWO non lu.
+
+
+## Nettoyage CER09 (30/10/2026)
+
+- FR 22 + IT 20 remplacements (simulation puis application, comptes identiques) : POWO → WCVP lue sur GBIF (encadré, Taxonomie, ligne de source) ; statut UICN confirmé par GBIF et DOI UICN ajouté ; annotations de consultation et extraits de recherche retirés ; BMAA retirée, toxicité au format imposé ; ligne « synthèse interne » retirée. GBIF 207874446. Localités non modifiées. IT : « ricerche sui forum » reformulé.
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : voir `espece-ceratozamia-whitelockiana-en-note.md`.

@@ -24,3 +24,9 @@
 - Critères UICN divergents (WLoC A2acd ; monographie A2c+4c, B1ab(i,ii,iii,v)) ; catégorie CR certaine.
 - Tabasco (WLoC) : hypothèse d'un héritage de la période *becerrae* formulée « probabilmente… ma nessuna fonte lo conferma ».
 - Portement du cône femelle : retombant (description 2001) contre dressé (monographie), exposé ; POWO non lu.
+
+
+## Nettoyage CER09 (30/10/2026)
+
+- FR 21 + IT 19 remplacements (simulation puis application, comptes identiques) : POWO → WCVP lue sur GBIF (encadré, Taxonomie, ligne de source) ; statut UICN confirmé par GBIF et DOI UICN ajouté ; annotations de consultation et extraits de recherche retirés ; BMAA retirée, toxicité au format imposé ; ligne « synthèse interne » retirée. GBIF 207874442. Liste rouge (GBIF) : *becerrae* traité comme synonyme de *zoquorum*, CR ; ligne de source GBIF *becerrae* (4000172) ajoutée ; encadré complété. Localités non modifiées. IT : « ricerche sui forum » reformulé.
+- Brouillon identique au texte en ligne (cmp.py). Fiche EN créée : voir `espece-ceratozamia-zoquorum-en-note.md`.

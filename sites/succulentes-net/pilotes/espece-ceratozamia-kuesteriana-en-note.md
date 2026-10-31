@@ -14,3 +14,4 @@
 - Liens externes vérifiés le 30/10 : 200 sauf DOI d'éditeurs (Wiley, MDPI, IUCN : 403 ; Springer : 429), gbif.org/species (403, page web ; API en 200) et Fous de palmiers (503).
 
 - **Liens CER07 (30/10/2026)** : lien(s) EN posé(s) vers *sabatoi* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+- **Bilan Ceratozamia CER09 (30/10/2026)** : « queried through its public API on » → « queried on » (source BGCI) ; °F ajoutés (FAQ et sources, 3) ; simulation puis application (appel commun de 47 remplacements sur 24 pages) ; brouillon identique au texte en ligne (cmp.py).

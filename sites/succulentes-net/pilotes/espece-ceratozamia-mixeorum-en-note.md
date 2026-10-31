@@ -10,3 +10,5 @@
 - Sources : FR 26456 / IT 27481 nettoyées (CER06) ; protologue relu (PDF cycad.org, image lue page à page : Phytologia 83(1) : 47-52, daté de juillet 1997 ; tronc 34-125 cm, 20-25 % des adultes fourchus, feuilles 1,46-1,98 m vert petit pois, folioles « moderately coriaceous », cône femelle horizontal à la réceptivité puis pendant, 500-1 000 plantes, « carrete », parenté *matudae*, HNT) ; monographie 2022 (texte local) ; Habib 2023 (clade *Matudae*) ; WLoC 38 (« 1997 publ. 1998 », type « May 1999 ») ; WCVP via GBIF 207874459 (Phytologia 83 : 47 (1997), Mexico Southwest) ; GBIF (EN) ; Species+ 16337 (« Carrete ») ; BGCI 134313 (2 jardins, Mexique seulement) ; Montgomery 0.
 - Divergences exposées : date de publication 1997/1998 (WCVP/WLoC), date du type (WLoC « May 1999 »), texture des folioles (papyracées/coriaces).
 - Localité du type : « près de Juquila Mixes » (niveau de la localité-type publiée par WLoC et la monographie ; pas de coordonnées).
+
+- **Liens CER09 (30/10/2026)** : lien(s) EN posé(s) vers *whitelockiana*, *zaragozae* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
