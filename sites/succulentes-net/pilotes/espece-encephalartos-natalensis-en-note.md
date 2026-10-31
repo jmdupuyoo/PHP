@@ -38,3 +38,4 @@
 ## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
 
 - Q3 : le message d'Agen (janvier 2011) n'est pas utilisé pour *Encephalartos lebomboensis* : la mention du *lebomboensis* mort à −4 °C a été retirée de la phrase (le reste du retour, *altensteinii*, *munchii*, *natalensis*, est conservé). 1 remplacement, brouillon aligné, REST vérifié.
+- Q38 suite (31/10/2026) : conversion du −6 °C du JZT harmonisée en « 21 °F » (4 remplacements : introduction, Documented hardiness, puce « Var », FAQ). Simulation puis application, REST contrôlé, brouillon aligné.

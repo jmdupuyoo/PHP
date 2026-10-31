@@ -27,3 +27,4 @@ Aucune observation JZT ; trois messages JMDUPUYOO sur l'espèce, aucun retour de
 ### Points douteux
 - Fertilisation : divergence PACSOA / ANBG, exposée.
 - Cônes femelles : 40-90 cm (Flora of Australia) ou 50-75 cm (ANPSA) ; exposé.
+- Pépiniéristes nommés (décision du propriétaire du 31/10/2026, question 36) : Top Tropicals (zones USDA 9-10) et Canarius (minimale −5 à 5 °C, pépinière de Santa Cruz de Tenerife) nommés dans « Cold hardiness » ; lignes de source inchangées (déjà nommées, avec URL) ; simulation puis application, contrôle REST, brouillon aligné.

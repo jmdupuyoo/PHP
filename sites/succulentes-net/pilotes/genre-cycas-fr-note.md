@@ -179,3 +179,4 @@ aenigma, angulata, annaikalensis, apoa, arenicola, arnhemica, badensis, basaltic
 
 - Retouche du 31/10/2026 (cas *longipetiolula*) : mention de *Cycas longipetiolula* liée vers la nouvelle page de même langue (replace_in_content, simulation 1 puis application 1) ; brouillon aligné (texte identique au contenu en ligne).
 - Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 1256 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
+- Q38 suite (31/10/2026, Q33) : phrase *taitungensis* du JZT (« jusqu'à −7 °C avec dégel dans la journée ») → « −6 °C en février 2012, avec dégel dans la journée » sur FR 1256 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné).

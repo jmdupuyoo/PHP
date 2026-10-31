@@ -62,3 +62,4 @@
 
 - Retouche du 31/10/2026 (cas *longipetiolula*) : mention de *Cycas longipetiolula* liée vers la nouvelle page de même langue (replace_in_content, simulation 1 puis application 1) ; brouillon aligné (texte identique au contenu en ligne).
 - Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 11549 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
+- Q38 suite (31/10/2026, Q33) : frase *taitungensis* del JZT → « fino a −6 °C nel febbraio 2012, con disgelo durante il giorno » su IT 11549 (1 sostituzione, simulazione poi applicazione, REST controllato, bozza allineata).

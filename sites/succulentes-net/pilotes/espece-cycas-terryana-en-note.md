@@ -29,3 +29,4 @@
 
 ## FR/IT (à reprendre, facultatif)
 - FR 26753 / IT 28982 : la mention Rare Palm Seeds (« gelées légères ») repose sur un extrait de moteur de recherche (page inaccessible) → à retirer ou à présenter comme non lue ; ajouter WildNet (Vulnerable au Queensland, 2025 ; aire protégée) ; JCU (BGCI). IT 28982 FAQ « Si può innestare? » : « L'innesto … è stato sperimentato in Francia su altre Cycas australiane » → plutôt « un vivaio francese propone altre Cycas australiane innestate ».
+- Pépiniéristes nommés (décision du propriétaire du 31/10/2026, question 36) : FAQ greffage : « A French nursery offers… » → « Simon Lavaud, a French nurseryman specialising in cycads (Cycadales.eu, lien https://cycadales.eu/), offers… » (format Q35) ; simulation puis application, contrôle REST, brouillon aligné.

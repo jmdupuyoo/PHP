@@ -23,3 +23,4 @@
 - FR 26352 (8) et IT 27845 (8), simulation 8 + 8 puis application : évaluation UICN 2024 en vigueur (encadré, Dans la nature, Statut, FAQ, Sites de référence, bibliographie 2024 ajoutée) ; POWO (×2) et « Liste rouge non consultée » retirés. Brouillons alignés (0 écart).
 - **À signaler** : FR/IT gardent deux passages tirés de Wikipédia (écarts de description, altitude 1 800-2 000 m « non vérifiée »).
 - Compléments facultatifs FR/IT : PDF public cycad.org du protologue.
+- Pépiniéristes nommés (décision du propriétaire du 31/10/2026, question 36) : Jungle Music nommée à la 1re mention pertinente (jeunes plantes semblables à celles d'*E. septentrionalis*, observation de culture) ; reprises neutres (« the Californian nursery already mentioned », « the Encinitas nursery ») et encadré inchangés ; simulation puis application, contrôle REST, brouillon aligné.

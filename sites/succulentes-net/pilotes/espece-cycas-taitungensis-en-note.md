@@ -43,3 +43,4 @@
 ## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
 
 - Q33 : observation du JZT corrigée de −7 °C (19.4 °F) en **−6 °C (21.2 °F), February 2012** (introduction, Key facts, Cold hardiness, puce « South of France, Var coast ») ; 4 remplacements, brouillon aligné, REST identique. Meta sans valeur : inchangée.
+- Q38 suite (31/10/2026) : conversion du −6 °C du JZT harmonisée en « 21 °F » (4 remplacements : introduction, Documented hardiness, Cold hardiness, puce « South of France, Var coast » ; la valeur du Béarn « −6 °C (21.2 °F) » et les plages « 23 to 21.2 °F » ne concernent pas le JZT, inchangées) ; article source 339 aligné (−6 °C, février 2012). Simulation puis application, REST contrôlé, brouillon aligné.

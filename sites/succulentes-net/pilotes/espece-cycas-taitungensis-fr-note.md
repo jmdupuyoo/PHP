@@ -57,3 +57,4 @@
 ## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
 
 - Q33 : observation du JZT corrigée de −7 °C en **−6 °C, février 2012** (introduction, encadré, Rusticité, puce « Littoral méditerranéen, Var », FAQ) ; 5 remplacements, brouillon aligné, REST identique. Les −7 °C du Roussillon et la synthèse « −5/−7 °C » restent (autres retours). Meta Rank Math (« rusticité en France (−7 °C) ») non modifiée : elle ne cite pas le JZT et reste exacte pour le Roussillon. L'article de blog 339 (« Culture de Cycas taitungensis ») dit encore « – 7 °C » : non modifié (hors consigne).
+- Q38 suite (31/10/2026) : l'article source 339 « Culture de Cycas taitungensis » est aligné sur Q33 (« jusqu'à −6 °C en février 2012, avec dégel durant la journée », 1 remplacement) ; la date de l'épisode n'est plus un point douteux.

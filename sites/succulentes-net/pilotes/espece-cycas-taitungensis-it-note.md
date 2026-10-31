@@ -31,3 +31,4 @@
 ## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
 
 - Q33 : osservazione del JZT corretta da −7 °C a **−6 °C, febbraio 2012** (introduzione, sintesi, Rusticità, voce «costa del Var», descrizione della fonte articolo 339) ; 5 sostituzioni, bozza allineata, REST identico. Meta non modificata (non cita il JZT).
+- Q38 suite (31/10/2026) : l'article source 339 est aligné sur Q33 (−6 °C, février 2012, 1 remplacement).

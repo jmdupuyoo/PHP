@@ -28,3 +28,4 @@ Aucune observation JZT publiée ; aucun message JMDUPUYOO. Retours des Fous de p
 - Auteur : « Regel » seul (WLoC) ou « (W.Hill) Regel » (WCVP, IPNI, APC) ; exposé, nom accepté inchangé.
 - Pages de *Gartenflora* 25 : 5 (WCVP), 5-6 (IPNI), 6 (WLoC) ; exposé.
 - WLoC ne liste plus *Macrozamia hopei* C.Moore en synonyme ; Miquel 1863 non vérifié (voir cycadales-a-verifier.md, « Signalé lors de LEP01 »).
+- Pépiniéristes nommés (décision du propriétaire du 31/10/2026, question 36) : Jungle Music nommée pour le classement de rusticité commercial (« The Californian nursery Jungle Music rates… ») ; Will Kraa déjà nommé ; simulation puis application, contrôle REST, brouillon aligné.
