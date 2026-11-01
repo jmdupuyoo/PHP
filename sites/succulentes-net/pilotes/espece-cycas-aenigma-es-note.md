@@ -10,7 +10,7 @@
 - Notes de travail EN non reprises : annotations « full text consulted », « consulted (open access) » de la bibliographie ; « no publication consulted » (FAQ) reformulé.
 - Mention non sourcée de trois populations sur sols ultramafiques à Palawan (note FR) : non reprise (comme FR/EN).
 - Cadre international : Rusticidad par types de climat (aucune donnée) ; « En jardines botánicos » (aucun). JZT : rien. Aucun nom espagnol.
-- Liens internes ES (200) : genre (intro), *circinalis* 24514, *beddomei* 24555, article *Aulacaspis* 23246, *revoluta* 24488 ; « Lee también » : semis 23153, guide de culture 23142. Sans page ES (non liés, à lier à leur création) : *riuminiana*, *sancti-lasallei*, *saxatilis* (CYC-ES21), *curranii* (CYC-ES10).
+- Liens internes ES (200) : genre (intro), *circinalis* 24514, *beddomei* 24555, article *Aulacaspis* 23246, *revoluta* 24488 ; « Lee también » : semis 23153, guide de culture 23142. Sans page ES (non liés, à lier à leur création) : *curranii* (CYC-ES10).
 - Index genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon genre aligné.
 - Liens entrants : aucune autre page ES ne cite l'espèce.
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
@@ -21,3 +21,6 @@
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
 - 01/11/2026 (CYC-ES15) : lien vers *Cycas lacrimans* ES 38168 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES20) : lien vers *Cycas pranburiensis* ES 38365 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES21) : lien vers *Cycas riuminiana* ES 38369 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES21) : lien vers *Cycas sancti-lasallei* ES 38379 posé (Taxonomía ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES21) : lien vers *Cycas saxatilis* ES 38404 posé (Plagas y enfermedades ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

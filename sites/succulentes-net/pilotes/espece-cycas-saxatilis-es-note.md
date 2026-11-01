@@ -14,3 +14,4 @@
 - Pas de Lavaud (espèce philippine), pas de pépiniériste. JZT : rien de publié (dit). °C seulement ; aucune zone USDA.
 - Liens internes ES (200) : genre (intro), *curranii* 37473 (Confusiones), *aenigma* 37299, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* ; « Lee también » : semis, arrosage, toxicité 23195. Sans page ES (non liés) : *wadei* (CYC-ES24).
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web restreinte du 01/11/2026, rien sur l'espèce.
+- Liens entrants posés le 01/11/2026 (même appel groupé, 1 par page) : *nitida* 38302, *lacrimans* 38168 (Taxonomía), *curranii* 37473 (Confusiones posibles), *aenigma* 37299 (Plagas y enfermedades).

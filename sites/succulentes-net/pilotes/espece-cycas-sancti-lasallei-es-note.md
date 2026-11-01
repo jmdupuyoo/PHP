@@ -14,3 +14,4 @@
 - Liens internes ES (200) : genre (intro), *edentata* 37726, *lacrimans* 38168, *flabellata* 37967, *mindanaensis* 38281, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* ; « Lee también » : semis, arrosage, toxicité 23195. Sans page ES (non liés) : *vespertilio* (CYC-ES24).
 - Points douteux (repris EN) : graine « 45-50 mm » (tableau du protologue) / « 50 × 35-45 mm » (description) → « de unos 50 mm » ; aucun rattachement infragénérique publié ; plante de Burpengary d'identité non confirmée.
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web restreinte du 01/11/2026, rien sur l'espèce.
+- Liens entrants posés le 01/11/2026 (même appel groupé, 1 par page) : *mindanaensis* 38281, *lacrimans* 38168, *flabellata* 37967 (Confusiones posibles), *aenigma* 37299 (Taxonomía). *saxatilis* 38404 (même lot) ne la cite qu'en Bibliografía : non lié.
