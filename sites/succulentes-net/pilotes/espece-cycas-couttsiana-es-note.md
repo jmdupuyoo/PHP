@@ -16,3 +16,5 @@
 - Statut : NT (UICN 2023-1) et Vulnerable au Queensland (Flora of Australia, Nature Conservation (Plants) Regulation 2020).
 - Notes de travail EN non reprises : « POWO could not be consulted directly », « could not be confirmed » (Pentland, gardé : fait de Hill), « No report … could be read », « No English vernacular name … could be verified » (formulation honnête), annotations « full text consulted / text not consulted / page not consulted (access blocked) ».
 - Points douteux : hauteurs PACSOA (11,60 m) non vérifiées (signalées) ; 8 m sur une étiquette de 1995 ; croisements avec *thouarsii* (FdP 2013) non recoupés.
+
+- 01/11/2026 (décision du propriétaire Q41, greffe → Simon Lavaud nommé, formule « Simon Lavaud, viverista especializado en cícadas », lien vers l'article ES 23244) : intro (formule + lien), resumen (lien), Cultivo (lien), Multiplicación (nom + lien), Rusticidad (lien), FAQ (formule + lien) ; replace_in_content simulé (7) puis appliqué (7) ; contrôle REST (texte identique, liens identiques) ; brouillon aligné.

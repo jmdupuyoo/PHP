@@ -49,3 +49,4 @@
 - Rimossi i fatti tratti dalla sola Wikipedia : nome vietnamita, aree protette nominate, raccolta per l'ornamento ad Hanoi (intro, encadré, Nomi comuni, In natura, Stato, Coltivazione, Usi, FAQ ×2). Restano : almeno un'area protetta (piano d'azione IUCN 2003) ; sfruttamento tra le cause del declino secondo i criteri (WLoC). Riferimenti Wikipedia EN e VI eliminati.
 - Aggiunti i giardini BGCI (Royal Botanic Garden Sydney, San Diego Botanic Garden), come dichiarazioni (ricerca del 21/10/2026).
 - replace_in_content simulato (14 attesi, 14) poi applicato (14) ; bozza allineata.
+- **Retouche 01/11/2026** : divergence d'auteurs WCVP (« L.K.Phan & N.H.Tuan ») / WLoC (« P.K.Lôc & T.H.Nguyên ») exposée en Tassonomia ; ligne de source GBIF précisée (2 remplacements).

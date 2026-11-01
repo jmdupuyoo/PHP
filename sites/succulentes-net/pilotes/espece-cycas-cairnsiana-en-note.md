@@ -45,3 +45,5 @@
 - replace_in_content : simulation puis application, 4 remplacement(s) ; brouillon aligné.
 
 - Lien entrant vers *wadei* EN 31069 posé le 24/10/2026 (lot CYC25, replace_in_content : simulation puis application, 1 remplacement) ; brouillon aligné.
+
+- 01/11/2026 (décision du propriétaire Q41, greffe → Simon Lavaud nommé, formule « Simon Lavaud, a French nurseryman specialising in cycads », lien vers l'article EN 16530) : Growing (formule + lien) et FAQ « Can it be grafted? » (pépinière anonyme → Simon Lavaud, formule, lien ; « its » → « his ») ; replace_in_content simulé (2) puis appliqué (2) ; contrôle REST (texte identique, liens identiques) ; brouillon aligné.

@@ -30,3 +30,4 @@
 - Aggiunta la rivalutazione IUCN di T.H. Nguyen (Lista rossa 2023-1, e.T42039A68901336, DOI verificato su Crossref ; GBIF : CR). Valutazione Osborne et al. 2010-3 presentata come precedente. Encadré, Stato, FAQ e Bibliografia corretti.
 - Wikipedia rimossa (unica fonte su Hanoi e sulla coltivazione nella capitale) : frase di « In natura » e riferimento eliminati.
 - replace_in_content simulato (6 attesi, 6) poi applicato (6) ; bozza allineata. Indice IT 11549 : « (CR, 2010) » → « (CR, 2023) » (1/1 ; bozza genre-cycas-it.html allineata).
+- **Retouche 01/11/2026** : estratto di ricerca déjà retiré le 31/10/2026 (en ligne vérifié) ; annotation Hill 2008 « ; testo integrale consultato » retirée, *Stangerioides* en italique (1 remplacement).

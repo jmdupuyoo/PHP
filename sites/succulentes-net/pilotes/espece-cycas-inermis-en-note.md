@@ -30,3 +30,4 @@
 
 ## Renvoi posé le 25/10/2026 (ZAM09)
 - Étymologie : phrase « not to be confused » vers l'homonyme *Zamia inermis* EN 32113 (/en/cycads/zamia/inermis/), 1 remplacement (simulation puis application).
+- **Retouche 01/11/2026** : « The descriptions and figures found elsewhere online could not be checked against it and have not been used » retiré ; « The Red List itself could not be consulted, and the specific threats are not detailed in the sources read » → « The specific threats are not detailed in the sources cited here » (2 remplacements). Gardés (absence de données) : révision 2004 payante, noms vernaculaires non confirmés.

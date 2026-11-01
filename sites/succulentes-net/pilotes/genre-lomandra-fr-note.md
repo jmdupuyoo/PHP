@@ -46,3 +46,4 @@ Image : 6666 (inflorescence de Lomandra longifolia) ; alt vide en médiathèque,
 ## 5. Encadré « L'essentiel sur Lomandra »
 - Statut IUCN : champ supprimé. CITES : « aucune inscription connue (non vérifié sur Species+) ». Toxicité : « aucune donnée fiable ».
 - Rusticité : qualitative uniquement, faute de mesure fiable.
+- **Retouche 01/11/2026 (décision du propriétaire, question 40)** : minimum du Jardin zoologique tropical −7 °C → −6 °C (encadré, Culture, FAQ ; 3 remplacements) ; nuance « la température la plus basse relevée au jardin, qui varie selon les zones du parc » ajoutée en Culture.

@@ -30,3 +30,5 @@
 - Statut au Queensland : « vulnérable (liste de novembre 2022) » → en danger critique d’extinction (Critically Endangered) depuis le 24/05/2026 d’après WildNet (taxon 5937, API lue le 24/10/2026), plante à régime restreint, taxon confidentiel, présence en aire protégée, aucune inscription EPBC (intro, encadré, Statut, FAQ, ligne WildNet ajoutée aux sources).
 - Confusions *yorkiana* / *badensis* : « mégasporophylles bien plus longs » retiré (non conforme à la clé de Hill 1996, apex de *badensis* 50-55 mm) → couronne et cataphylles densément laineux orangés contre un très court duvet soyeux gris à blanc (clé de Hill 1996, comme l’EN 31036).
 - replace_in_content : simulation puis application, 6 remplacements ; brouillon aligné.
+
+- 01/11/2026 (décision du propriétaire Q41, greffe → Simon Lavaud nommé, formule « Simon Lavaud, vivaista francese specializzato in cicadee », lien vers l'article IT 16534) : FAQ innesto (Simon Lavaud nommé, formule, lien ; « (vedi «Leggi anche») » retiré) ; replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (texte identique, liens identiques) ; brouillon aligné.

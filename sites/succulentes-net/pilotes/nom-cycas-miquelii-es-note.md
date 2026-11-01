@@ -10,3 +10,4 @@
 
 ## Liens entrants ES (dry_run puis application, 1 remplacement chacun ; brouillons alignés)
 - Page genre 23432, index, ligne *revoluta* (« Cycas miquelii es sinónimo ») ; *revoluta* 24488 (« Cycas miquelii, descrita en 1900 ») ; *clivicola* 37576 (« en torno al nombre Cycas miquelii. Warburg »).
+- **Retouche 01/11/2026** : première mention de *Cycas inermis* (« identificado por error como… ») liée vers /es/orden-cycadales/cycas/inermis/ (1 remplacement ciblé ; la seconde mention reste sans lien).

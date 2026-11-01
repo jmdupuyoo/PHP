@@ -15,3 +15,4 @@
 - Index 23432 : ligne liée. Liens entrants : aucune page ES ne cite l'espèce (REST du 31/10/2026).
 - Points douteux (repris FR/EN) : aucune mesure, aucun habitat, section inconnue (protologue non lu) ; aire protégée non nommée (plan 2003).
 - Cadre international ; JZT : rien de publié ; aucun nom espagnol attesté. Forums ES : non retentés, rien de connu.
+- **Retouche 01/11/2026** : divergence d'auteurs WCVP (« L.K.Phan & N.H.Tuan ») / WLoC (« P.K.Lôc & T.H.Nguyên ») exposée en Taxonomía ; ligne de source GBIF précisée (2 remplacements ciblés).

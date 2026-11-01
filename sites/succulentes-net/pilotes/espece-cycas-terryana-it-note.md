@@ -31,3 +31,5 @@
 - WildNet (taxon 34314, API letta il 24/10/2026) aggiunto: vulnerabile nel Queensland dal 10/04/2025, pianta soggetta a restrizioni, taxon riservato, presenza in area protetta (divergenza con Forster 2011), nessuna iscrizione EPBC.
 - FAQ «Si può innestare?»: «l’innesto … è stato sperimentato in Francia» → «un vivaio francese propone altre Cycas australiane innestate … senza pubblicare il protocollo» (articolo Lavaud ricalibrato 16534).
 - replace_in_content: simulazione poi applicazione, 8 + 1 sostituzioni (FAQ minacciata: riserva secondo Forster 2011 / area protetta secondo WildNet); bozza allineata.
+
+- 01/11/2026 (décision du propriétaire Q41, greffe → Simon Lavaud nommé, formule « Simon Lavaud, vivaista francese specializzato in cicadee », lien vers l'article IT 16534) : FAQ innesto (vivaio anonimo → Simon Lavaud, formule, lien ; « (vedi «Leggi anche») » retiré) ; replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (texte identique, liens identiques) ; brouillon aligné.

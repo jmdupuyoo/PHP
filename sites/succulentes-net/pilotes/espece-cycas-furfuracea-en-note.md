@@ -25,3 +25,4 @@
 
 ## Retouche du 24/10/2026 (0e avant CYC23)
 - Further reading, article Lavaud EN 16530 : « how the French nurseryman grafts them onto *Cycas revoluta* » (protocole non publié) → « presents the grafted plants that the French nurseryman offers on a *Cycas revoluta* rootstock » ; simulé puis appliqué ; brouillon aligné.
+- **Retouche 01/11/2026** : « category not read » retiré de la Bibliographie (Hill 2010) (1 remplacement). Gardé : spécimen NYBG de Floride « which could not be checked » (réserve sur une donnée).

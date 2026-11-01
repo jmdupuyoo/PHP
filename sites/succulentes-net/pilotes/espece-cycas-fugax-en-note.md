@@ -20,3 +20,4 @@
 
 ## FR/IT à reprendre (hors lot)
 - FR 26663 / IT 28622 : ajouter la réévaluation 2023-1 (T.H. Nguyen, CR) ; index FR 1256 (et IT 11549) « (CR, 2010) » → « (CR, 2023) » ; retirer ou signaler Wikipédia (Hanoï) comme non fiable.
+- **Retouche 01/11/2026** : « the criteria of the new assessment could not be read, since the Red List itself could not be consulted » → « the GBIF data do not give the criteria of the new assessment » ; « these two sources were not consulted » retiré (attribution « According to an online compilation » gardée) (2 remplacements). Gardés (absence de mesures) : « a paper behind a paywall that could not be consulted », encadré et FAQ « measurements of the original description could not be consulted ».

@@ -63,3 +63,5 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Retouche du 24/10/2026 (0d avant CYC25)
 - Mentions de l’article Lavaud recalées sur l’article (FR 16529 / IT 16534 / EN 16530, relus le 24/10/2026) : plantes greffées proposées = *couttsiana*, *siamensis* « Silver », *cairnsiana*, *arnhemica*, *candida* ; « cinq fois plus vite » attribué à Lavaud (fiches de vente, comparaison non publiée) ; « le plus éprouvé », « candidats à de futurs essais », « greffes réussies », « caudex en deux ou trois ans au lieu d’une décennie » retirés (absents de l’article) ; protocole de greffe non publié.
 - replace_in_content : simulation puis application, 5 remplacement(s) ; brouillon aligné.
+
+- 01/11/2026 (décision du propriétaire Q41, greffe → Simon Lavaud nommé, formule « Simon Lavaud, pépiniériste spécialisé dans les cycadales », lien vers l'article FR 16529) : intro (pépinière anonyme → Simon Lavaud, formule, lien), Culture (lien), Multiplication (nom + lien), Rusticité (lien), FAQ greffe/rusticité (formule + lien) ; replace_in_content simulé (5) puis appliqué (5) ; contrôle REST (texte identique, liens identiques) ; brouillon aligné.

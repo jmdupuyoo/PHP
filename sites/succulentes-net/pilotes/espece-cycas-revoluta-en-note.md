@@ -51,3 +51,5 @@
 - Page EN *Cycas miqueli* 16505 et redirections : **non touchées** (décision du propriétaire).
 
 - 24/10/2026 (CYC24) : lien vers *Cycas tropophylla* EN 31028 posé (1 remplacement simulé puis appliqué).
+
+- 01/11/2026 (décision du propriétaire Q41, greffe → Simon Lavaud nommé, formule « Simon Lavaud, a French nurseryman specialising in cycads », lien vers l'article EN 16530) : Propagation (« the French nurseryman Simon Lavaud » → formule + lien) ; replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (texte identique, liens identiques) ; brouillon aligné.

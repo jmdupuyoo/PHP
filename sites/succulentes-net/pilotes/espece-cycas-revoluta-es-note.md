@@ -33,3 +33,5 @@
 - replace_in_content simulé (13) puis appliqué (13) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
 
 - 31/10/2026 (CYC-ES09) : lien entrant vers *Cycas clivicola* 37576 posé à la première occurrence (Taxonomía, néotype de *Cycas miquelii*) ; replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
+
+- 01/11/2026 (décision du propriétaire Q41, greffe → Simon Lavaud nommé, formule « Simon Lavaud, viverista especializado en cícadas », lien vers l'article ES 23244) : Multiplicación (formule + lien) ; replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (texte identique, liens identiques) ; brouillon aligné.

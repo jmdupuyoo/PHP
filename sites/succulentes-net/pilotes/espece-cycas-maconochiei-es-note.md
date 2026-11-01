@@ -1,0 +1,18 @@
+# Note — *Cycas maconochiei* (ES 38153), https://succulentes.net/es/orden-cycadales/cycas/maconochiei/
+
+## Création du 01/11/2026 (lot CYC-ES16, mode C)
+- Avant création (01/11, reprise après redémarrage) : aucune page ES (REST slug `maconochiei` : FR 26682, IT 28690, EN 30656 seules ; list_content es brouillons, privées, corbeille : rien ; /es/orden-cycadales/cycas/maconochiei/ en 404, sans redirection).
+- create_content : page, publish, langue es, parent 23432, slug `maconochiei`, titre « Cycas maconochiei », translation_of FR 26682 → id **38153**. Hreflang vérifiés : fr 26682, it 28690, en 30656, es 38153. Aucune image (ni en FR/IT/EN).
+- Brouillon `pilotes/espece-cycas-maconochiei-es.html` identique au texte en ligne (verify.py : seul le sommaire diffère ; 14 liens, même séquence). DSL : scratchpad `es16/maconochiei.dsl`. ≈ 4 680 mots (Rank Math).
+- SEO Rank Math : « Cycas maconochiei: la cícada lanosa del Territorio del Norte » (60) ; meta 150 ; mot-clé « Cycas maconochiei » ; aucun problème ; `<title>` vérifié.
+- Base : EN 30656 (21/10, retouche 24/10, balayage EN-2 du 31/10) et FR 26682 (03/10, nettoyée le 13/10) et leurs notes (Hill 1996 en entier, WLoC 154, Flora of Australia, Crossref, GBIF, PACSOA wiki, Lavaud 2021, Montgomery, BGCI, Trebrown, Fous de palmiers p=254363).
+- Revérifié le 01/11/2026 : GBIF 2683241 → LC (iucnTaxonID 42027) ; WCVP sur GBIF 206945369 : accepté, Telopea 7: 48 (1996).
+- Note de travail EN non reprise : « The Red List itself could not be consulted, so this discrepancy remains to be checked at source » (→ divergence Flora of Australia NT 2022 / Liste rouge LC exposée, « sin que se haya encontrado ninguna evaluación publicada que corresponda »).
+- Nom non repris : « the Australian grower Bret Dalziel » (EN) → « un cultivador australiano » (cultivateurs particuliers non nommés).
+- Simon Lavaud (Q35, Q41) : nommé une fois (classement « muy difícil », seule donnée pratique), avec la greffe des *Cycas* australiens sur *Cycas revoluta* et le lien vers l'article ES 23244 dans la phrase ; conseils de culture en pot attribués à « la nota de 2021 » ; FAQ sans nom ; site cycadales.eu en source. L'article 23244 n'est donc plus répété dans « Lee también » (arrosage 23175, semis 23153, toxicité 23195).
+- Cadre international ; JZT : rien de publié (dit). Retour Fous de palmiers 2013 (Belley/Montpellier, perte sans détail) cité anonymement. Aucun nom espagnol attesté. Toxicité *Cycas* : cicasina → metilazoximetanol, BMAA.
+- Liens internes ES (200) : genre (intro), *arnhemica* 37313, *armstrongii* 37307, *calcicola* 37355, *angulata* 37310, *arenicola* 37298, *canalis* 37374, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis*, article Lavaud 23244. Sans page ES (non liés) : *lane-poolei* (CYC-ES15, en cours ; 404 le 01/11 à la création).
+- Index genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon `genre-cycas-es.html` aligné.
+- Liens entrants posés (simulation 6, application 6 ; brouillons alignés, REST : texte et liens identiques ; notes mises à jour) : *canalis* 37374 (Confusiones posibles), *calcicola* 37355 (Confusiones posibles), *arnhemica* 37313 (Confusiones posibles), *angulata* 37310 (Taxonomía), *armstrongii* 37307 (Híbridos), *arenicola* 37298 (Taxonomía).
+- Points douteux (repris EN/FR) : NT 2022 de la Flora of Australia pour la sous-espèce type sans évaluation retrouvée ; *lanata* acceptée par WLoC mais rangée sous la sous-espèce type (Flora of Australia, Liste rouge) ; mesures PACSOA 1987 antérieures à la délimitation de l'espèce ; prénom de Chirgwin non repris.
+- Forums ES (InfoJardín, Club de Palmeras) : non retentés (recherches des lots précédents sans résultat pour les *Cycas* australiennes).

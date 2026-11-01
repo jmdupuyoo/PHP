@@ -24,3 +24,4 @@
 - 21/10/2026 (CYC18) : lien vers *Cycas montana* EN (montana) posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
 
 - Lien sortant vers *Cycas scratchleyana* EN 30858 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).
+- **Retouche 01/11/2026** : « since the Red List could not be consulted and » retiré (« could not be checked » → « could not be determined », raison GBIF gardée) ; « ; category not verified at source » retiré de la Bibliographie (2 remplacements). Gardé : encadré « year of the assessment not verified » (absence de donnée).

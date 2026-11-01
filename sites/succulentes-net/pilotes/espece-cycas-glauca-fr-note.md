@@ -63,3 +63,4 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 
 ## Retouche du 21/10/2026 (0b avant CYC17, signalé lors de CYC16)
 - Culture : « Son milieu, une forêt tropicale à saison sèche marquée, indique une plante de serre chaude en France, sur un substrat drainant » (non sourcé ; retiré de l'IT le 18/10) remplacé par une déduction explicite : îles tropicales, récoltes jusque vers 415 m (Lindström et al. 2009) → serre chaude « déduction qu'aucune source n'énonce » ; aucun substrat recommandé (argile dans la nature). Simulé 1, appliqué 1 ; brouillon aligné.
+- **Retouche 01/11/2026** : divergence d'autorité WCVP (« Cycas glauca Miq. », 1842) / WLoC (« Hort. ex Miq. », 1840) exposée en Taxonomie ; ligne de source GBIF précisée (2 remplacements).

@@ -21,3 +21,4 @@
 - FR 22042 / IT 28639 : informations tirées de Wikipédia seule (aires protégées, prélèvements à Hanoï, nom vietnamien) à retirer ou à remplacer par une source primaire, comme pour *curranii* (CYC14) ; ajouter les jardins BGCI (Sydney, Encinitas).
 
 - 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sexseminifera* 30907 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+- **Retouche 01/11/2026** : « which could not be consulted » retiré après Osborne et al. 2006 (1) ; divergence d'auteurs exposée en Taxonomie : WCVP via GBIF 206945401 « L.K.Phan & N.H.Tuan » contre WLoC 136 « P.K.Lôc & T.H.Nguyên » (relus le 01/11/2026), ligne de source GBIF précisée (2). Gardés (absence de données) : description originale payante, section, substrat, FAQ.

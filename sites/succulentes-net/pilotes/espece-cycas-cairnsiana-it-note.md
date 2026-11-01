@@ -46,3 +46,5 @@
 ## Ritocco del 24/10/2026 (0d prima di CYC25)
 - Menzioni dell’articolo Lavaud ricalibrate sull’articolo (IT 16534 / FR 16529 / EN 16530, riletti il 24/10/2026): piante innestate proposte = *couttsiana*, *siamensis* «Silver», *cairnsiana*, *arnhemica*, *candida*; «cinque volte più veloce» attribuito a Lavaud (schede di vendita, confronto non pubblicato); «sperimentato più a lungo», «candidati a futuri innesti», «innesto riuscito», «caudice in due o tre anni invece di un decennio» ritirati (assenti dall’articolo); protocollo di innesto non pubblicato.
 - replace_in_content: simulazione poi applicazione, 4 sostituzione/i; bozza allineata.
+
+- 01/11/2026 (décision du propriétaire Q41, greffe → Simon Lavaud nommé, formule « Simon Lavaud, vivaista francese specializzato in cicadee », lien vers l'article IT 16534) : Coltivazione (formule + lien) et FAQ « Si può innestare? » (vivaio anonimo → Simon Lavaud, formule, lien) ; replace_in_content simulé (2) puis appliqué (2) ; contrôle REST (texte identique, liens identiques) ; brouillon aligné.

@@ -11,7 +11,7 @@
 - Pépiniériste nommé (Simon Lavaud, Cycadales.eu) : anonymisé, comme pour *arenicola* et *armstrongii* ; l'article ES « injerto-cicadas-cycas-revoluta-metodo-lavaud » n'est pas proposé en « Lee también » (l'EN le cite en tête de Further reading : à trancher par le propriétaire pour la version ES, titre nommant le pépiniériste). °F supprimés.
 - Cadre international : Rusticité par types de climat (aucune donnée ; Canberra = déclaration BGCI sans précision serre/plein air). JZT : rien de publié.
 - Noms communs : aucun nom espagnol ni anglais ; « muninga » et « natja » (transcriptions aborigènes, Hill 1996).
-- Liens internes ES (200) : genre (intro seule), *arenicola* 37298, *armstrongii* 37307, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : semis 23153, guide de culture 23142, arrosage 23175. Sans page ES : *maconochiei*, *orientis*, *calcicola*, *canalis* ; *angulata* (créée par CYC-ES05 pendant ce lot, ES 37310) : lien posé en fin de lot (voir ci-dessous).
+- Liens internes ES (200) : genre (intro seule), *arenicola* 37298, *armstrongii* 37307, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : semis 23153, guide de culture 23142, arrosage 23175. Sans page ES : *orientis*, *calcicola*, *canalis* ; *angulata* (créée par CYC-ES05 pendant ce lot, ES 37310) : lien posé en fin de lot (voir ci-dessous).
 - Index de la page genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon `genre-cycas-es.html` aligné.
 - Liens entrants posés (simulation 3, application 3, avec l'index) : *arenicola* 37298 (Confusiones posibles), *armstrongii* 37307 (Confusiones posibles, série *Calcicolosae*) ; brouillons alignés et vérifiés.
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu sur l'espèce.
@@ -21,3 +21,4 @@
 - Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Simon Lavaud (1re mention au format de la question 35, puis « Simon Lavaud clasifica » ; « del viverista citado » conservé ; source au format Simon Lavaud / Cycadales.eu (https://cycadales.eu/)).
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01 ; lien vers l'article ES 23244 (méthode Simon Lavaud) ajouté.
 - replace_in_content simulé (4) puis appliqué (4) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
+- 01/11/2026 (CYC-ES16) : lien vers *Cycas maconochiei* ES 38153 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
