@@ -17,3 +17,4 @@
 - Points douteux (repris EN/FR) : date de collecte du lectotype donnée par WLoC (1841) manifestement fausse ; attribution des critères UICN (2010 ou 2023) ; « Cây ngen » non confirmé par une source vietnamienne récente.
 - Cadre international : Rusticidad par types de climat (clima mediterráneo y Europa ; climas tropicales y subtropicales), « En jardines botánicos ». JZT : rien de publié sur l'espèce. Aucun nom espagnol attesté.
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu pour l'espèce (InfoJardín 403 lors des lots précédents, non retenté ; aucune recherche fructueuse dans les lots CYC-ES05 à ES07).
+- 01/11/2026 (CYC-ES16) : lien vers *Cycas micholitzii* ES 38259 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; espèce absente de la liste « sans page ES » de cette note.

@@ -9,7 +9,7 @@
 - Revérifié le 31/10/2026 : GBIF 2683216 → NT (iucnTaxonID 42070) ; WCVP sur GBIF 206945462 : accepté (Austral. Syst. Bot. 7: 557) ; Species+ 27033 (API) : annexe II (05/03/2026), UE B (29/06/2026), Papua New Guinea, Solomon Islands.
 - Notes de travail EN non reprises : « its original description could not be consulted », « POWO could not be consulted directly », « Hill's key could not be consulted », « figures… could not be checked… so they are not used here », « The Red List itself could not be consulted directly », « unreachable on 21 October 2026 », annotations « only the abstract could be consulted (paywalled) / not consulted (access blocked) ». Formulé à la place : description tirée des étiquettes d'herbier, « no se han cotejado con la descripción original… provisionales » (comme *aculeata* 37295).
 - Cadre international : Rusticidad (Europe : rien ; climats tropicaux et subtropicaux : Darwin, Sydney sans données) ; « En jardines botánicos » (Royaume-Uni, États-Unis, Australie, Asie). JZT : rien. Aucun nom espagnol ; nom local « Diduna » (étiquette du type).
-- Liens internes ES (200) : genre (intro), *rumphii* 24535, *apoa* 37289 (page du lot CYC-ES06), *circinalis* 24514, *thouarsii* 23603, *beddomei* 24555, article *Aulacaspis* 23246, *revoluta* 24488 ; « Lee también » : semis 23153, guide 23142, arrosage 23175. Sans page ES : *seemannii*, *micronesica*.
+- Liens internes ES (200) : genre (intro), *rumphii* 24535, *apoa* 37289 (page du lot CYC-ES06), *circinalis* 24514, *thouarsii* 23603, *beddomei* 24555, article *Aulacaspis* 23246, *revoluta* 24488 ; « Lee también » : semis 23153, guide 23142, arrosage 23175. Sans page ES : *seemannii*.
 - Index genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon genre aligné.
 - Liens entrants posés (simulation 2, application 2 ; brouillons alignés, verify.py identiques) : *apoa* 37289 (Taxonomía ; fiche du lot CYC-ES06, déjà livrée), *rumphii* 24535 (Híbridos, 1re mention hors intro/encadré).
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
@@ -18,3 +18,4 @@
 ## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
+- 01/11/2026 (CYC-ES17) : lien vers *Cycas micronesica* ES 38261 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
