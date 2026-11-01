@@ -11,7 +11,7 @@
 - Pépiniéristes anonymisés (consigne ES) : Simon Lavaud / Cycadales.eu → « un viverista francés especializado en cícadas » (URL du PDF gardée dans les sources, entrée « Vivero especializado francés ») ; Top Tropicals → « un vivero estadounidense ». Nong Nooch (jardin) nommé.
 - Cadre international : « En jardines botánicos » (États-Unis, Australie, Asie : Nong Nooch d'après la note de 2021, Royaume-Uni : rien) ; Rusticidad : clima mediterráneo (avis Tropicamente sur les *Cycas* australiennes en Italie) et climas tropicales/subtropicales (Darwin, Katherine, Sunshine Coast) ; aucune mesure de froid, aucune zone USDA. JZT : rien. Aucun nom espagnol ; « Angular Cycas » = nom commercial anglais.
 - FAQ « ¿Es la mayor cícada de Australia? » : *Lepidozamia hopei* cité sans lien (pas de page ES).
-- Liens internes ES (200) : genre (intro), *beddomei* 24555, article *Aulacaspis* 23246, *revoluta* 24488 ; « Lee también » : semis 23153, guide 23142, arrosage 23175. Sans page ES (non liés, à lier à leur création) : *brunnea*, *megacarpa*, *media*, *ophiolitica*, *platyphylla*, *couttsiana*, *arnhemica*, *orientis*, *desolata*, *badensis*, *semota*, *tuckeri*, *yorkiana*, *Lepidozamia hopei*.
+- Liens internes ES (200) : genre (intro), *beddomei* 24555, article *Aulacaspis* 23246, *revoluta* 24488 ; « Lee también » : semis 23153, guide 23142, arrosage 23175. Sans page ES (non liés, à lier à leur création) : *brunnea*, *megacarpa*, *ophiolitica*, *platyphylla*, *couttsiana*, *arnhemica*, *orientis*, *desolata*, *badensis*, *semota*, *tuckeri*, *yorkiana*, *Lepidozamia hopei*.
 - Index genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon genre aligné.
 - Liens entrants : aucune autre page ES ne cite l'espèce.
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
@@ -22,3 +22,4 @@
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01 ; lien vers l'article ES 23244 (méthode Simon Lavaud) ajouté.
 - replace_in_content simulé (6) puis appliqué (6) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
 - 01/11/2026 (CYC-ES16) : lien vers *Cycas maconochiei* ES 38153 posé (Taxonomía ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES16) : lien vers *Cycas media* ES 38236 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

@@ -11,8 +11,10 @@
 - Pépiniériste : Simon Lavaud présenté comme « viverista especializado en cícadas » (Q35), lien vers https://cycadales.eu dans la source ; article ES 23244 lié en « Lee también » (article général sur les *Cycas* australiennes, qui ne cite pas l'espèce, comme en EN). Températures en °C seulement.
 - Homonymie : *Zamia furfuracea* sans page ES (non liée) ; « cardboard palm » donné comme nom anglais de cette *Zamia* ; aucun nom espagnol attribué.
 - Cadre international ; JZT : rien de publié (dit). Aucun nom espagnol attesté pour *Cycas furfuracea*.
-- Liens internes ES (200) : genre (intro), *basaltica* 37352, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : Lavaud 23244, semis 23153, toxicité 23195. Sans page ES (non liés) : *media*, *pruinosa*, *lane-poolei*, *Zamia furfuracea*.
+- Liens internes ES (200) : genre (intro), *basaltica* 37352, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : Lavaud 23244, semis 23153, toxicité 23195. Sans page ES (non liés) : *pruinosa*, *Zamia furfuracea*.
 - Index genre ES 23432 : ligne liée (simulation 1, application 1, avec les deux liens entrants : 3/3) ; brouillon `genre-cycas-es.html` aligné.
 - Liens entrants posés (simulation puis application, 1 par page ; brouillons alignés, notes complétées) : *basaltica* 37352 (Confusiones posibles), *arenicola* 37298 (Taxonomía ; l'occurrence de l'encadré laissée sans lien).
 - Points douteux (repris EN/FR) : hauteur du tronc, Hill 1996 (1,5 m, rarement 2,5 m) contre Flora of Australia (2 (–4) m), les deux donnés ; spécimen GBIF de Floride d'origine non précisée ; protologue (Fitzgerald 1918) cité d'après Hill 1996.
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web restreinte du 31/10/2026 : seulement des fils sur *Zamia furfuracea* ; rien sur l'espèce.
+- 01/11/2026 (CYC-ES15) : lien vers *Cycas lane-poolei* ES 38184 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES16) : lien vers *Cycas media* ES 38236 posé (Taxonomía ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

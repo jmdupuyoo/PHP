@@ -11,7 +11,7 @@
 - Divergence exposée (reprise de l'EN) : UICN 2023 LC (GBIF, Crossref) contre Flora of Australia « Near Threatened, 2022 ».
 - Cadre international : Rusticité par types de climat (aucune donnée) ; « En jardines botánicos » : aucun registre (liste des catalogues consultés par l'EN). JZT : rien de publié.
 - Noms communs : aucun, dans aucune langue.
-- Liens internes ES (200) : genre (intro seule), *angulata* 37310 (créée par CYC-ES05 pendant ce lot ; Taxonomie), *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : semis 23153, guide de culture 23142, arrosage 23175. Sans page ES : *yorkiana*, *tuckeri*, *semota*, *media*.
+- Liens internes ES (200) : genre (intro seule), *angulata* 37310 (créée par CYC-ES05 pendant ce lot ; Taxonomie), *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : semis 23153, guide de culture 23142, arrosage 23175. Sans page ES : *yorkiana*, *tuckeri*, *semota*.
 - Index de la page genre ES 23432 : ligne liée (simulation puis application, 1) ; brouillon `genre-cycas-es.html` aligné.
 - Lien entrant : *angulata* ES 37310 (Taxonomie, synonymie de Laubenfels & Adema ; demande du coordinateur) : simulation 1, application 1 ; brouillon `espece-cycas-angulata-es.html` aligné.
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu sur l'espèce.
@@ -20,3 +20,4 @@
 ## Retouche du 31/10/2026 (décisions du propriétaire, questions 31, 34, 35)
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01 ; lien vers l'article ES 23244 (méthode Simon Lavaud) ajouté (présent dans « À lire aussi » de la FR).
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
+- 01/11/2026 (CYC-ES16) : lien vers *Cycas media* ES 38236 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

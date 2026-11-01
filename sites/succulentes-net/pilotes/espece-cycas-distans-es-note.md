@@ -11,7 +11,8 @@
 - Notes de travail EN non reprises : « No report from a private grower in these countries could be read ».
 - Pépiniériste : Simon Lavaud nommé (Q35) pour dire que l'espèce ne figure pas dans sa note de 2021 ; source avec lien vers https://cycadales.eu.
 - « Lee también » : article 23244 (méthode Lavaud, article général sur les *Cycas* australiennes, ne cite pas l'espèce, comme en EN), arrosage 23175, semis 23153, toxicité 23195.
-- Liens internes ES (200) : genre, *beddomei* 24555, *revoluta* 24488, *Aulacaspis* 23246. Sans page ES : *platyphylla*, *media*, *tuckeri*.
+- Liens internes ES (200) : genre, *beddomei* 24555, *revoluta* 24488, *Aulacaspis* 23246. Sans page ES : *platyphylla*, *tuckeri*.
 - Liens entrants : aucune page ES ne cite l'espèce hors index genre (recherche REST du 31/10/2026).
 - Points douteux (repris EN/FR) : deux versions Crossref de l'évaluation UICN 2022 ; origine de la population (transport par crue ou extinction d'intermédiaires) non tranchée par une étude génétique.
 - Cadre international ; JZT : rien de publié. Aucun nom espagnol attesté. Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026 sans résultat.
+- 01/11/2026 (CYC-ES16) : lien vers *Cycas media* ES 38236 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
