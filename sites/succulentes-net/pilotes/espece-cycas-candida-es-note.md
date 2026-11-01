@@ -12,10 +12,11 @@
 - Notes de travail EN non reprises : « POWO could not be consulted directly », « The Red List itself could not be consulted directly », annotations « full text consulted / not consulted / page not consulted (access blocked) », « the original publication has been followed here » (reformulé).
 - Pépiniériste : d'abord anonymisé (« viverista francés especializado »), puis rétabli le jour même selon la décision du propriétaire (questions 34-35) : « Simon Lavaud, viverista especializado en cícadas (Cycadales.eu, 2021) » ; source avec https://cycadales.eu (simulation 3 / application 3, avec « Lee también »).
 - « Lee también » : article Lavaud 23244 (cite *candida* parmi les plantes greffées proposées, vérifié dans le texte ES), semis 23153, toxicité 23195.
-- Liens internes ES (200) : genre, *cairnsiana* 37348, *beddomei*, *revoluta*, *Aulacaspis* 23246. Sans page ES (non liés) : *ophiolitica*, *yorkiana*.
+- Liens internes ES (200) : genre, *cairnsiana* 37348, *beddomei*, *revoluta*, *Aulacaspis* 23246. Sans page ES (non liés) : *yorkiana*.
 - Liens entrants : aucune page ES ne cite l'espèce (hors index genre) ; article de blog 23244 la cite sans lien (non modifié).
 - Points douteux (repris EN/FR) : date et substrat du type (protologue 15/10/2001 vs base NSW 05/08/2001) ; Hill donne l'épithète comme grecque.
 - Cadre international : Rusticidad par types de climat (clima mediterráneo y Europa ; climas tropicales y subtropicales), « En jardines botánicos ». JZT : rien de publié sur l'espèce. Aucun nom espagnol attesté.
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu pour l'espèce (InfoJardín 403 lors des lots précédents, non retenté ; aucune recherche fructueuse dans les lots CYC-ES05 à ES07).
 - 01/11/2026 (CYC-ES16) : lien vers *Cycas media* ES 38236 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES16) : lien vers *Cycas megacarpa* ES 38252 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES19) : lien vers *Cycas ophiolitica* ES 38304 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
