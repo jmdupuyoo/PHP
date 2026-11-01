@@ -12,6 +12,7 @@
 - Notes de travail EN non reprises : « its criteria could not be checked, the Red List itself being inaccessible » → « sin indicar los criterios de esta nueva evaluación » ; « nor in the British, American and Australian catalogues checked », « Trebrown has no page for it » (règle 3) → omis.
 - Contradictions du protologue exposées (clé 10-14 mm / description 9-12 mm ; diagnose latine citant des mégasporophylles non vus). Statut VU (2010, maintenu en 2023) contre LC recommandé par les descripteurs, exposé. Conseils de culture présentés comme déductions.
 - Pas de Lavaud (espèce philippine), pas de pépiniériste. JZT : rien de publié (dit). °C seulement ; aucune zone USDA.
-- Liens internes ES (200) : genre (intro), *curranii* 37473 (Confusiones), *aenigma* 37299, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* ; « Lee también » : semis, arrosage, toxicité 23195. Sans page ES (non liés) : *wadei* (CYC-ES24).
+- Liens internes ES (200) : genre (intro), *curranii* 37473 (Confusiones), *aenigma* 37299, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* ; « Lee también » : semis, arrosage, toxicité 23195. Sans page ES (non liés) : aucune.
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web restreinte du 01/11/2026, rien sur l'espèce.
 - Liens entrants posés le 01/11/2026 (même appel groupé, 1 par page) : *nitida* 38302, *lacrimans* 38168 (Taxonomía), *curranii* 37473 (Confusiones posibles), *aenigma* 37299 (Plagas y enfermedades).
+- 01/11/2026 (CYC-ES24) : lien vers *Cycas wadei* ES 38529 posé (Cómo reconocer Cycas saxatilis ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

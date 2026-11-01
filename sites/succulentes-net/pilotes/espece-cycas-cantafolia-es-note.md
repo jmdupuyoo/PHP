@@ -11,7 +11,7 @@
 - *Cycas litoralis* traité comme synonyme d'*edentata* (WLoC), comme EN/IT.
 - Notes de travail EN non reprises : « POWO could not be consulted directly », « The Red List itself could not be consulted », annotations « full text consulted / not consulted / page not consulted (access blocked) ».
 - Aucun pépiniériste ; « Lee también » : semis 23153, guide de culture 23142, toxicité 23195 (ajouté après la décision du propriétaire du 31/10, simulation 1 / application 1).
-- Liens internes ES (200) : genre, *beddomei*, *revoluta*, *Aulacaspis* ; posés après création des fiches du lot : *clivicola* 37576 et *chamaoensis* 37471 (Confusiones posibles, 1re occurrence ; simulation puis application). Sans page ES : *edentata*, *tansachana*.
+- Liens internes ES (200) : genre, *beddomei*, *revoluta*, *Aulacaspis* ; posés après création des fiches du lot : *clivicola* 37576 et *chamaoensis* 37471 (Confusiones posibles, 1re occurrence ; simulation puis application). Sans page ES : *edentata*.
 - Liens entrants : *chamaoensis* 37471 (Cómo reconocer) et *clivicola* 37576 (Cómo reconocer) liés dès leur création.
 - Points douteux : état actuel du projet de carrière (2010) non documenté ; critère D2 (WLoC) non confronté à la Liste rouge.
 - Cadre international : Rusticidad par types de climat (clima mediterráneo y Europa ; climas tropicales y subtropicales), « En jardines botánicos ». JZT : rien de publié sur l'espèce. Aucun nom espagnol attesté.
@@ -19,3 +19,4 @@
 
 - 31/10/2026 (CYC-ES12) : lien vers *Cycas edentata* ES 37726 posé (Confusiones posibles, « hoy sinónimo de Cycas edentata ») (replace_in_content ciblé, simulation puis application, 1 remplacement par lien) ; brouillon aligné.
 - 01/11/2026 (CYC-ES16) : lien vers *Cycas macrocarpa* ES 38207 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES24) : lien vers *Cycas tansachana* ES 38513 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

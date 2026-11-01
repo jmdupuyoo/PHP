@@ -12,7 +12,7 @@
 - Notes de travail EN non reprises : « POWO could not be consulted directly », « could not be read », « The Red List page itself could not be consulted directly », « The transliteration is our own » (reformulé : « transcripción aproximada, no normalizada »), annotations « text not consulted (paywalled) / page not consulted (access blocked) ».
 - Pépiniériste : Trebrown d'abord anonymisé, puis rétabli le jour même (décision du propriétaire, question 34) : « el vivero británico Trebrown Nurseries » ×4 + source (simulation 6 / application 6, avec « Lee también »). Zone USDA 9b présentée comme classement commercial, °F supprimés.
 - « Lee también » : semis 23153, arrosage 23175, toxicité 23195.
-- Liens internes ES (200) : genre, *cantafolia* 37445, *pectinata* 24583, *beddomei*, *revoluta*, *Aulacaspis* ; *clivicola* 37576 posé après sa création (simulation puis application). Sans page ES : *tansachana*, *elephantipes*.
+- Liens internes ES (200) : genre, *cantafolia* 37445, *pectinata* 24583, *beddomei*, *revoluta*, *Aulacaspis* ; *clivicola* 37576 posé après sa création (simulation puis application). Sans page ES : *elephantipes*.
 - Liens entrants : *cantafolia* 37445 (Confusiones posibles) et *clivicola* 37576 (Confusiones posibles).
 - Points douteux : province Rayong (type, DOA, PACSOA) contre Chanthaburi (WLoC), exposé ; années Montgomery déduites des numéros ; Species+ donne aussi le nom thaï « Prong » (générique, non repris).
 - Cadre international : Rusticidad par types de climat (clima mediterráneo y Europa ; climas tropicales y subtropicales), « En jardines botánicos ». JZT : rien de publié sur l'espèce. Aucun nom espagnol attesté.
@@ -20,3 +20,4 @@
 
 - 31/10/2026 (CYC-ES12) : lien vers *Cycas elephantipes* ES 37759 posé (Confusiones posibles) (replace_in_content ciblé, simulation puis application, 1 remplacement par lien) ; brouillon aligné.
 - 01/11/2026 (CYC-ES23) : lien vers *Cycas siamensis* ES 38436 posé (Estado de conservación y normativa ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES24) : lien vers *Cycas tansachana* ES 38513 posé (Cómo reconocer Cycas chamaoensis ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

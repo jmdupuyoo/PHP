@@ -11,7 +11,7 @@
 - Pépiniériste nommé (Simon Lavaud, Cycadales.eu) : anonymisé (« un viverista francés especializado » ; source « Vivero especializado francés (2021) », URL conservée). Article de blog ES 36xxx « injerto-cicadas-cycas-revoluta-metodo-lavaud » non proposé en « Lee también » (ne cite pas l'espèce, titre nommant le pépiniériste). °F supprimés.
 - Cadre international : Rusticité par types de climat (méditerranéen/tempéré : aucun résultat ; tropical/subtropical : Darwin, Floride, Hawaï, Sunshine Coast d'après la note du pépiniériste). Ajout « litoral mediterráneo de España » dans la déduction sur les climats à pluies d'hiver (déduction signalée comme telle, comme l'EN). JZT : rien de publié.
 - Noms communs : aucun nom espagnol ; *fire fern* (anglais, PACSOA/Butt 1990, étiquette RBG Sydney), traduit littéralement entre guillemets comme glose, pas comme nom espagnol.
-- Liens internes ES (200) : genre (intro seule), *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : arrosage 23175, guide de culture 23142, semis 23153. Sans page ES (non liés) : *conferta*, *calcicola*, *canalis*, *xipholepis*, *angulata* (lot CYC-ES05 : à lier quand la page existera) ; *arnhemica* : lien posé après sa création (même lot).
+- Liens internes ES (200) : genre (intro seule), *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : arrosage 23175, guide de culture 23142, semis 23153. Sans page ES (non liés) : *conferta*, *calcicola*, *canalis*, *angulata* (lot CYC-ES05 : à lier quand la page existera) ; *arnhemica* : lien posé après sa création (même lot).
 - Index de la page genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon `genre-cycas-es.html` aligné.
 - Liens entrants : aucune autre page ES ne cite l'espèce (recherche pages et articles ES).
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu sur l'espèce.
@@ -26,3 +26,4 @@
 - 01/11/2026 (CYC-ES16) : lien vers *Cycas media* ES 38236 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES19) : lien vers *Cycas orientis* ES 38321 posé (Taxonomía ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES19) : lien vers *Cycas papuana* ES 38332 posé (Taxonomía ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES25) : lien vers *Cycas xipholepis* ES 38521 posé (Taxonomía ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

@@ -12,7 +12,7 @@
 - Llifle (secondaire) repris avec attribution systématique ; Araflora (commerce en ligne) nommé, −4 °C présenté comme argument de vente.
 - Jardins : ajout du Jardim Botânico da Madeira (déclaré dans BGCI d'après l'EN) dans l'encadré et la rusticité européenne.
 - « Lee también » : semis 23153, guide de culture 23142, toxicité 23195.
-- Liens internes ES (200) : genre, *cantafolia* 37445, *pectinata* 24583, *rumphii* 24535, *chamaoensis* 37471, *revoluta* 24488, *beddomei*, *Aulacaspis*. Sans page ES : *elongata*, *tansachana*, *edentata* ; *miquelii* non lié (aucune page ES ; EN 16505 en attente de décision).
+- Liens internes ES (200) : genre, *cantafolia* 37445, *pectinata* 24583, *rumphii* 24535, *chamaoensis* 37471, *revoluta* 24488, *beddomei*, *Aulacaspis*. Sans page ES : *elongata*, *edentata* ; *miquelii* non lié (aucune page ES ; EN 16505 en attente de décision).
 - Liens entrants (simulation puis application, brouillons alignés) : *condaoensis* 24591, *pectinata* 24583 (Confusiones posibles), *revoluta* 24488 (Taxonomía), *cantafolia* 37445, *chamaoensis* 37471.
 - Points douteux (repris EN/FR) : taille du cône mâle (8-15 cm DOA contre 68 cm MyBIS) ; mise en synonymie de la subsp. *lutea* sans étude identifiée ; « Mountain Sago », « cliff cycad », « mountain cycad » présentés comme étiquettes.
 - Cadre international : Rusticidad par types de climat (clima mediterráneo y Europa ; climas tropicales y subtropicales), « En jardines botánicos ». JZT : rien de publié sur l'espèce. Aucun nom espagnol attesté.
@@ -22,3 +22,4 @@
 - 01/11/2026 (CYC-ES16) : lien vers *Cycas macrocarpa* ES 38207 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES22) : lien vers *Cycas sexseminifera* ES 38439 posé (Taxonomía ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES23) : lien vers *Cycas siamensis* ES 38436 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES24) : lien vers *Cycas tansachana* ES 38513 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

@@ -20,3 +20,4 @@
 - **Retouche 01/11/2026** : ligne d'index *flabellata* : « Agoo, Madulid & J.R.Callado » (comme EN 16282, FR 1256, IT 11549) ; remplacement ciblé, rien d'autre modifié.
 
 - 01/11/2026 (décision du propriétaire Q41, greffe → Simon Lavaud nommé, formule « Simon Lavaud, viverista especializado en cícadas », lien vers l'article ES 23244) : Cultivo (formule déjà présente ; lien ajouté, « (véase Lee también) » retiré) ; replace_in_content simulé (2) puis appliqué (2) ; contrôle REST (texte identique, liens identiques) ; brouillon aligné.
+- 01/11/2026 (CYC-ES24) : index — lignes *Cycas tansachana* 38513, *terryana* 38515, *tuckeri* 38517, *vespertilio* 38519, *wadei* 38529 liées (simulation 5 / application 5, 1 par ligne, appel limité à l'id 23432) ; mentions du corps non liées (*wadei* dans la section *Wadeae*) ; brouillon `genre-cycas-es.html` aligné (cmpall : texte et 128 liens identiques).
