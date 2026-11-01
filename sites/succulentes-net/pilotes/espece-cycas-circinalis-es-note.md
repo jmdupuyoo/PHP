@@ -8,7 +8,7 @@
 - Cadre international : « En jardines botánicos » (Europe : Édimbourg, Palerme, Naples — Index Seminum 2012-2013 et ovules sous serre d'après l'article ES 27314 ; États-Unis ; Australie). Retours méditerranéens (Fuveau 2019, Carcassonne, Latium 2014, Sicile 2009/2013, Ravenne 2009) repris anonymement ; °F supprimés ; zones USDA 10-11 (UF/IFAS) avec équivalent °C ; JZT : rien.
 - Noms communs : aucun nom espagnol documenté (l'ancienne ES n'en sourçait pas) ; *queen sago* (anglais, horticole), *falso sagù* (italien, Palerme), noms indiens (Lindstrom & Hill 2007).
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web le 31/10/2026, rien de pertinent. Fous de palmiers : 503 le 31/10 (fils cités d'après l'EN/FR, lus en octobre).
-- Liens internes ES (200) : genre (intro), *thouarsii* 23603, *revoluta* 24488, *rumphii* 24535, *beddomei* 24555, article *Aulacaspis* ; « Lee también » : jardins italiens (27314), semis, toxicité. Sans page ES : *edentata*, *sphaerica*, *annaikalensis*.
+- Liens internes ES (200) : genre (intro), *thouarsii* 23603, *revoluta* 24488, *rumphii* 24535, *beddomei* 24555, article *Aulacaspis* ; « Lee también » : jardins italiens (27314), semis, toxicité. Sans page ES : *edentata*, *annaikalensis*.
 - Points douteux (repris de l'EN) : identité des plantes de jardin nommées *circinalis* ; flottaison des graines (Raju & Rao 2011 / L&H 2007, dL&A 1998) ; année Montgomery déduite du numéro ; date du message Au jardin inconnue.
 
 - 31/10/2026 (lot CYC-ES05) : lien entrant vers la nouvelle fiche ES *Cycas annaikalensis* 37318 posé (Confusiones posibles, replace_in_content : simulation 1 puis application 1) ; brouillon aligné (verify.py : texte identique, 10 liens).
@@ -19,3 +19,4 @@
 - 01/11/2026 (CYC-ES18) : lien vers *Cycas nathorstii* ES 38298 posé («Cycas circinalis» en cultivo ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES19) : lien vers *Cycas papuana* ES 38332 posé (Taxonomía ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES22) : lien vers *Cycas seemannii* ES 38414 posé («Cycas circinalis» en cultivo: un nombre mal aplicado ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES23) : lien vers *Cycas sphaerica* ES 38468 posé (Cómo distinguirla de las especies cercanas ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

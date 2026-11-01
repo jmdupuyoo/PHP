@@ -10,7 +10,7 @@
 - Notes de travail de l'EN non reprises : « POWO could not be consulted directly / protected against automated access », « The Red List could not be consulted directly », « according to the abstract of their article », « no institution consulted » (→ « ninguna institución »), annotations « not consulted », « full text read/consulted », « page not consulted ».
 - Noms communs : aucun nom espagnol ni anglais documenté ; chinois 四川苏铁 (Flora of China, sens large).
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web le 31/10/2026, rien sur l'espèce.
-- Liens internes ES (200) : genre 23432 (intro), *taiwaniana* 24565 (lot CYC-ES04), *rumphii* 24535, *taitungensis* 24503 (lot CYC-ES04), *changjiangensis* 24616, *guizhouensis* 24523 (lot CYC-ES02), *revoluta* 24488, *diannanensis* 24549 (lot CYC-ES02), *beddomei* 24555, article *Aulacaspis* (23246) ; « Lee también » : semis (23153). Sans page ES : *siamensis*, *dolichophylla*, *fairylakea*, *hainanensis*, *longlinensis*.
+- Liens internes ES (200) : genre 23432 (intro), *taiwaniana* 24565 (lot CYC-ES04), *rumphii* 24535, *taitungensis* 24503 (lot CYC-ES04), *changjiangensis* 24616, *guizhouensis* 24523 (lot CYC-ES02), *revoluta* 24488, *diannanensis* 24549 (lot CYC-ES02), *beddomei* 24555, article *Aulacaspis* (23246) ; « Lee también » : semis (23153). Sans page ES : *dolichophylla*, *fairylakea*, *hainanensis*, *longlinensis*.
 - Index de la page genre ES 23432 : ligne déjà liée et conforme (Fujian, Guangdong ; sinónimo *fairylakea* ; *Stangerioides* ; CR 2024) : rien à modifier.
 - Points douteux (repris de l'EN) : identité des plantes cultivées (confusion possible avec *guizhouensis*) ; statut de la forme type dans la nature (Hill 2008 contre Zheng 2017) ; Feng et al. 2021 connu par son résumé.
 
@@ -23,3 +23,4 @@
 
 - 31/10/2026 (CYC-ES12) : lien vers *Cycas fairylakea* ES 37779 posé (Confusiones posibles, « separada de Cycas fairylakea ») (replace_in_content ciblé, simulation puis application, 1 remplacement par lien) ; brouillon aligné.
 - 31/10/2026 (lot CYC-ES14) : lien vers *Cycas hainanensis* ES 38057 posé (première occurrence du corps) par remplacement ciblé (simulation 1, application 1) ; brouillon aligné (texte et liens identiques au contenu en ligne).
+- 01/11/2026 (CYC-ES23) : lien vers *Cycas siamensis* ES 38436 posé (Cómo reconocer Cycas szechuanensis ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

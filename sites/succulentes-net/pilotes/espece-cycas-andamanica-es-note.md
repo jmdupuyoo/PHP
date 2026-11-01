@@ -11,7 +11,7 @@
 - Notes de travail EN non reprises : « POWO could not be consulted directly », « This article could not be read… no archived copy », « Only the abstract of this revision could be read », « key… could not be read », « The criteria and threats could not be read… Red List itself could not be consulted », « unreachable on 21 October 2026 », annotations « full text consulted / abstract only read / not consulted » ; paragraphe « Some sources attach… *Rumphiae*… not repeated here » omis.
 - Ajout prudent : « En la India, el tipo de *Cycas pschannae* se tomó de un árbol cultivado en el jardín botánico de Howrah (Srivastava y Singh, 2015) » (fait du protologue, au passé).
 - Cadre international : Rusticidad par types de climat (aucune donnée ; USDA 10b-11 non sourcées signalées comme telles) ; JZT : rien. Aucun nom espagnol.
-- Liens internes ES (200) : genre (intro), article *Aulacaspis* 23246, *revoluta* 24488 ; « Lee también » : semis 23153, guide 23142. Sans page ES (non liés, à lier à leur création) : *dharmrajii* (CYC-ES11), *sphaerica*, *zeylanica* (CYC-ES23/ES25).
+- Liens internes ES (200) : genre (intro), article *Aulacaspis* 23246, *revoluta* 24488 ; « Lee también » : semis 23153, guide 23142. Sans page ES (non liés, à lier à leur création) : *dharmrajii* (CYC-ES11), *zeylanica* (CYC-ES23/ES25).
 - Index genre ES 23432 : la mention « sinónimo: *Cycas andamanica* » de la ligne *pschannae* est liée (simulation 1, application 1) ; la mention de la section Taxonomía du genre (ligne « *Cycas andamanica*, descrita en 2015… ») n'est pas liée, comme dans l'EN ; brouillon genre aligné.
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
 - Points douteux (repris de l'EN/FR) : protologue d'*andamanica* et clé de Singh & Misra 2020 non lus ; présence aux Nicobar ; fascicule (9 selon IPNI/WCVP, 1 selon WLoC).
@@ -20,3 +20,4 @@
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
 - 01/11/2026 (CYC-ES20) : lien vers *Cycas pschannae* ES 38372 posé (Una cuestión de nomenclatura ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES23) : lien vers *Cycas sphaerica* ES 38468 posé (Una cuestión de nomenclatura ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

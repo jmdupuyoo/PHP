@@ -12,9 +12,10 @@
 - Pépiniériste : Trebrown nommé (décision du propriétaire du 31/10, question 34) ; zone 9b présentée comme classement commercial.
 - Jardins : Marimurtra (Blanes, España) et Fairy Lake (Shenzhen), d'après BGCI ; aucun jardin US/AU/UK.
 - « Lee también » : semis 23153, guide de culture 23142, toxicité 23195.
-- Liens internes ES (200) : genre, *balansae* 37341, *beddomei*, *revoluta*, *Aulacaspis*. Sans page ES : *simplicipinna*.
+- Liens internes ES (200) : genre, *balansae* 37341, *beddomei*, *revoluta*, *Aulacaspis*. Sans page ES :.
 - Lien entrant : *tanqingii* 24610 (Confusiones posibles, 1re occurrence ; simulation puis application, brouillon aligné).
 - Points douteux (repris EN/FR) : date de collecte du lectotype donnée par WLoC (1841) manifestement fausse ; attribution des critères UICN (2010 ou 2023) ; « Cây ngen » non confirmé par une source vietnamienne récente.
 - Cadre international : Rusticidad par types de climat (clima mediterráneo y Europa ; climas tropicales y subtropicales), « En jardines botánicos ». JZT : rien de publié sur l'espèce. Aucun nom espagnol attesté.
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu pour l'espèce (InfoJardín 403 lors des lots précédents, non retenté ; aucune recherche fructueuse dans les lots CYC-ES05 à ES07).
 - 01/11/2026 (CYC-ES16) : lien vers *Cycas micholitzii* ES 38259 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; espèce absente de la liste « sans page ES » de cette note.
+- 01/11/2026 (CYC-ES23) : lien vers *Cycas simplicipinna* ES 38464 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

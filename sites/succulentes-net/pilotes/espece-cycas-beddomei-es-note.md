@@ -10,5 +10,6 @@
 - Noms communs : aucun nom espagnol documenté (l'ancienne ES proposait « cica de Beddome », non sourcé : retiré) ; anglais (Species+, Rao 2015) et télougou (Rao 2015 ; Lindström & Hill 2007).
 - Retiré de l'ancienne ES (non sourcé ou contraire aux FR/EN vérifiées) : « buena parte del tronco queda bajo tierra », nom commun inventé, intro « Esta ficha reúne… », H3 seuls.
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web le 31/10/2026, aucun fil sur l'espèce (non mentionné dans la page).
-- Liens internes ES (200) : genre 23432 (intro), *pectinata* 24583, *circinalis* 24514, *revoluta* 24488 ; « Lee también » : semis (cicadas-desde-semilla), toxicité. Sans page ES : *sphaerica*, *orixensis*, *calcicola*.
+- Liens internes ES (200) : genre 23432 (intro), *pectinata* 24583, *circinalis* 24514, *revoluta* 24488 ; « Lee también » : semis (cicadas-desde-semilla), toxicité. Sans page ES : *orixensis*, *calcicola*.
 - Points douteux (repris de l'EN) : dents des mégasporophylles (< 6 mm dans la clé, 5-9 mm dans la description) ; période de reproduction (avril-août / septembre-novembre) ; interdiction de culture en Inde (Lindström & Hill seuls) ; double permis CITES (règle générale de la Convention).
+- 01/11/2026 (CYC-ES23) : lien vers *Cycas sphaerica* ES 38468 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
