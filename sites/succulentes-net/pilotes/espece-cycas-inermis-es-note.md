@@ -11,7 +11,8 @@
 - Citation de Loureiro : traduite en espagnol d'après la traduction anglaise de Hill & Stanberg (signalé dans le texte).
 - *Zamia inermis* (homonyme, Mexique) cité en Etimología sans lien (pas de page ES ; lot ZAM-ES06).
 - Notes de travail EN non reprises : « could not be consulted », « The descriptions and figures found elsewhere online could not be checked against it and have not been used », « the Vietnamese names that circulate online could not be checked » (→ « no se ha podido comprobar en una flora vietnamita »), « The Red List itself could not be consulted », « No report from an English-speaking grower could be read ».
-- Liens internes ES (200) : genre, *revoluta* 24488, *circinalis* 24514, *beddomei* 24555, article *Aulacaspis* ; « Lee también » : semis, arrosage, toxicité 23195. Sans page ES (non liés) : *macrocarpa* (CYC-ES16), *sexseminifera* (CYC-ES22), *siamensis* (CYC-ES23), *riuminiana* (CYC-ES21).
+- Liens internes ES (200) : genre, *revoluta* 24488, *circinalis* 24514, *beddomei* 24555, article *Aulacaspis* ; « Lee también » : semis, arrosage, toxicité 23195. Sans page ES (non liés) : (CYC-ES16), *sexseminifera* (CYC-ES22), *siamensis* (CYC-ES23), *riuminiana* (CYC-ES21).
 - Index 23432 : ligne liée. Lien entrant : *elongata* 37769 (demandé lors de CYC-ES12), simulation 1 / application 1, brouillon et note alignés. Page ES « nom » *Cycas miquelii* 38081 (autre chantier) : cite *Cycas inermis* deux fois sans lien, non modifiée (voir cycadales-a-verifier.md).
 - Points douteux (repris FR/EN) : aucune mesure (révision 2004 de pago) ; date du protologue 1790/1793.
 - Cadre international ; JZT : rien ; aucun nom espagnol. Forums ES : non retentés, rien de connu.
+- 01/11/2026 (CYC-ES16) : lien vers *Cycas macrocarpa* ES 38207 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

@@ -12,10 +12,11 @@
 - Llifle (secondaire) repris avec attribution systématique ; Araflora (commerce en ligne) nommé, −4 °C présenté comme argument de vente.
 - Jardins : ajout du Jardim Botânico da Madeira (déclaré dans BGCI d'après l'EN) dans l'encadré et la rusticité européenne.
 - « Lee también » : semis 23153, guide de culture 23142, toxicité 23195.
-- Liens internes ES (200) : genre, *cantafolia* 37445, *pectinata* 24583, *rumphii* 24535, *chamaoensis* 37471, *revoluta* 24488, *beddomei*, *Aulacaspis*. Sans page ES : *elongata*, *siamensis*, *tansachana*, *edentata*, *macrocarpa*, *sexseminifera* ; *miquelii* non lié (aucune page ES ; EN 16505 en attente de décision).
+- Liens internes ES (200) : genre, *cantafolia* 37445, *pectinata* 24583, *rumphii* 24535, *chamaoensis* 37471, *revoluta* 24488, *beddomei*, *Aulacaspis*. Sans page ES : *elongata*, *siamensis*, *tansachana*, *edentata*, *sexseminifera* ; *miquelii* non lié (aucune page ES ; EN 16505 en attente de décision).
 - Liens entrants (simulation puis application, brouillons alignés) : *condaoensis* 24591, *pectinata* 24583 (Confusiones posibles), *revoluta* 24488 (Taxonomía), *cantafolia* 37445, *chamaoensis* 37471.
 - Points douteux (repris EN/FR) : taille du cône mâle (8-15 cm DOA contre 68 cm MyBIS) ; mise en synonymie de la subsp. *lutea* sans étude identifiée ; « Mountain Sago », « cliff cycad », « mountain cycad » présentés comme étiquettes.
 - Cadre international : Rusticidad par types de climat (clima mediterráneo y Europa ; climas tropicales y subtropicales), « En jardines botánicos ». JZT : rien de publié sur l'espèce. Aucun nom espagnol attesté.
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu pour l'espèce (InfoJardín 403 lors des lots précédents, non retenté ; aucune recherche fructueuse dans les lots CYC-ES05 à ES07).
 
 - 31/10/2026 (CYC-ES12) : liens vers *Cycas elongata* ES 37769 (Cómo reconocer) et *Cycas edentata* ES 37726 (Confusiones posibles) posés (replace_in_content ciblé, simulation puis application, 1 remplacement par lien) ; brouillon aligné.
+- 01/11/2026 (CYC-ES16) : lien vers *Cycas macrocarpa* ES 38207 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

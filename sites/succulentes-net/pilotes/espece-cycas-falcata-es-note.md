@@ -8,7 +8,8 @@
 - Base : EN 30520 (21/10, balayage du 31/10) et FR 26659 (03/10) et leurs notes (Lindström, Hill & Stanberg 2009 et 2008, WLoC 124, Species+ 18205, Crossref Bösenberg 2022 / Hill 1999, GBIF).
 - Revérifié le 31/10/2026 : GBIF 2683293 → VU ; 26 occurrences (API) ; Species+ 18205 (API) : II, UE B, Indonésie.
 - Notes de travail EN non reprises : « No report from an English-speaking grower could be read ». Ajout ES : FAQ « ¿Cómo se distingue de Cycas edentata? » (faits de la section Confusiones).
-- Liens internes ES (200) : genre, *rumphii* 24535, *edentata* 37726, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* ; « Lee también » : semis, riego, toxicité 23195. Sans page ES : *macrocarpa*, *riuminiana*.
+- Liens internes ES (200) : genre, *rumphii* 24535, *edentata* 37726, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* ; « Lee también » : semis, riego, toxicité 23195. Sans page ES : *riuminiana*.
 - Index 23432 : ligne liée. Lien entrant : *edentata* 37726 (Confusiones posibles, même lot).
 - Points douteux (repris EN/FR) : protologue non lu ; cônes mâles inconnus en 2009 ; spécimens GBIF du Sulawesi du Nord d'identité non vérifiée (signalé dans le texte).
 - Forums ES : rien de connu (non retentés).
+- 01/11/2026 (CYC-ES16) : lien vers *Cycas macrocarpa* ES 38207 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
