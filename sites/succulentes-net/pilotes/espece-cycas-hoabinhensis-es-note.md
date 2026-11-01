@@ -11,8 +11,9 @@
 - Protologue (Bot. Rev. 2004) de pago : dit dans la page comme origine de l'absence de mesures (« es de pago »), comme le gabarit ES.
 - Trebrown Nurseries nommé (Q34) : USDA 9b avec équivalent °C, classement commercial ; « none known ».
 - Notes de travail EN non reprises : « could not be read », « Its place among the sections of the genus could not be checked » (→ « depende de la descripción original y no se indica en las demás fuentes »), « which could not be consulted » (Osborne et al. 2006), « No report from an English-speaking grower could be read ».
-- Liens internes ES (200) : genre, *dolichophylla* 37783, *fugax* 38058, *beddomei* 24555, article *Aulacaspis*, *revoluta* 24488 ; « Lee también » : semis, toxicité 23195. *fugax* 38058 (CYC-ES13, publiée pendant le lot : lien posé ensuite dans Confusiones posibles, simulation 1 / application 1, brouillon aligné). Sans page ES (non liés) : *sexseminifera* (CYC-ES22).
+- Liens internes ES (200) : genre, *dolichophylla* 37783, *fugax* 38058, *beddomei* 24555, article *Aulacaspis*, *revoluta* 24488 ; « Lee también » : semis, toxicité 23195. *fugax* 38058 (CYC-ES13, publiée pendant le lot : lien posé ensuite dans Confusiones posibles, simulation 1 / application 1, brouillon aligné). Sans page ES (non liés) : aucune.
 - Index 23432 : ligne liée. Liens entrants : aucune page ES ne cite l'espèce (REST du 31/10/2026).
 - Points douteux (repris FR/EN) : aucune mesure, aucun habitat, section inconnue (protologue non lu) ; aire protégée non nommée (plan 2003).
 - Cadre international ; JZT : rien de publié ; aucun nom espagnol attesté. Forums ES : non retentés, rien de connu.
 - **Retouche 01/11/2026** : divergence d'auteurs WCVP (« L.K.Phan & N.H.Tuan ») / WLoC (« P.K.Lôc & T.H.Nguyên ») exposée en Taxonomía ; ligne de source GBIF précisée (2 remplacements ciblés).
+- 01/11/2026 (CYC-ES22) : lien vers *Cycas sexseminifera* ES 38439 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

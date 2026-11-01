@@ -10,7 +10,7 @@
 - Cadre international : Rusticité « Clima mediterráneo » (aucun résultat ; question Côte Bleue 2012 ; JZT rien ; Marimurtra à Blanes sans observation publiée) et « Otros climas » (zone 9b de Trebrown, commerciale, avec équivalent °C −3,9 à −1,1 °C). « En jardines botánicos » : États-Unis, Australie, Europe (Marimurtra, Espagne ; Royaume-Uni : aucun).
 - Noms communs : aucun nom espagnol ni vietnamien documenté.
 - Ancienne ES : réécrite entièrement ; rien de non sourcé repris (anciennes affirmations écartées par la FR : description chiffrée, USDA 10-11, « strict calcicole », *Luthrodes pandava*, NT 2010…).
-- Liens internes ES (200) : genre (intro), *revoluta* 24488, *beddomei* 24555, article *Aulacaspis* 23246 ; « Lee también » : 23142, 23153, 23175 ; article toxicité non lié (titre « palma sagú »). Sans page ES : *sexseminifera*, *dolichophylla* (à lier lors des lots qui les créeront : CYC-ES16, ES22, ES11).
+- Liens internes ES (200) : genre (intro), *revoluta* 24488, *beddomei* 24555, article *Aulacaspis* 23246 ; « Lee también » : 23142, 23153, 23175 ; article toxicité non lié (titre « palma sagú »). Sans page ES : *dolichophylla* (à lier lors des lots qui les créeront : CYC-ES16, ES22, ES11).
 - Ligne de l'index de la page genre ES 23432 : déjà liée et conforme (« Vietnam (bahía de Ha Long e isla de Cát Bà); vulnerable (VU, 2023) »), non modifiée.
 - Forums ES : rien sur l'espèce (recherche web du 31/10/2026 ; infojardin.com 403).
 - Points douteux (repris de l'EN/FR) : protologue non lu (aucune mesure) ; section (Hill 2004 non lu) ; catégorie UICN 2010 ; identité des plantes et de l'hybride du commerce.
@@ -20,3 +20,4 @@
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
 - 31/10/2026 (CYC-ES13) : lien vers *Cycas ferruginea* ES 37883 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES16) : lien vers *Cycas micholitzii* ES 38259 posé (Híbridos ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES22) : lien vers *Cycas sexseminifera* ES 38439 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
