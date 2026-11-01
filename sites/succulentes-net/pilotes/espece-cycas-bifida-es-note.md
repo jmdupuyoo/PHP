@@ -10,7 +10,7 @@
 - Repris de la FR (absent de l'EN) : échec de Ravenne (Tropicamente, mai 2014), hybrides *bifida* × *revoluta* évoqués sur Fous de palmiers, spécimen de Hekou dans l'encadré.
 - Notes de travail EN non reprises : « POWO could not be consulted directly », « the Red List itself could not be consulted », « not consulted directly / text not consulted / abstract consulted / full text consulted / page not consulted (access blocked) ».
 - Cadre international : Rusticidad (laboratoire ; clima mediterráneo ; climas tropicales y subtropicales), « En jardines botánicos » (États-Unis, Australie, Royaume-Uni, Chine/Vietnam). JZT : rien de publié. Aucun nom espagnol ; noms chinois de Hill.
-- Liens internes ES (200) : genre (intro), *revoluta* 24488, *longipetiolula* 36907, *diannanensis* 24549, *debaoensis* 24530, *beddomei* 24555, article *Aulacaspis* 23246, *panzhihuaensis* 23604 ; « Lee también » : froid (cicadas-resistentes-frio-5-especies), semis 23153, arrosage 23175 (article toxicité 23195 non lié). Sans page ES : *multipinnata*, *dolichophylla*, *multifrondis*, *rumphii* (intro).
+- Liens internes ES (200) : genre (intro), *revoluta* 24488, *longipetiolula* 36907, *diannanensis* 24549, *debaoensis* 24530, *beddomei* 24555, article *Aulacaspis* 23246, *panzhihuaensis* 23604 ; « Lee también » : froid (cicadas-resistentes-frio-5-especies), semis 23153, arrosage 23175 (article toxicité 23195 non lié). Sans page ES : *multipinnata*, *dolichophylla*, *rumphii* (intro).
 - Index genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon genre aligné.
 - Liens entrants posés (simulation 5, application 5 ; brouillons alignés, verify.py identiques) : *longipetiolula* 36907 (« Cómo reconocer », 1re occurrence hors intro/encadré), *diannanensis* 24549, *debaoensis* 24530, *revoluta* 24488, *panzhihuaensis* 23604. *changjiangensis* 24616 : posé avec *balansae* (voir note *balansae*).
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
@@ -20,3 +20,4 @@
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
 - 01/11/2026 (CYC-ES16) : lien vers *Cycas micholitzii* ES 38259 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES17) : lien vers *Cycas multifrondis* ES 38290 posé (Híbridos ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

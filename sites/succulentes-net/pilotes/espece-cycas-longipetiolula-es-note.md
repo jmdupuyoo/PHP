@@ -10,7 +10,7 @@
 ## Conventions ES suivies à la création (périmées : voir « Mise au gabarit ES du 31/10/2026 » ; fiches cycadales ES en ligne : circinalis 24514, debaoensis 24530, tanqingii 24610, diannanensis 24549, panzhihuaensis 23604, revoluta 24488 ; API REST)
 - Intertitres H3 ; pas d'encadré « Lo esencial » ; ordre : intro (lien « Género *Cycas* » avec data-type/data-id), Cómo reconocerla, Híbridos, Confusiones, Taxonomía (avec étymologie et paragraphe « **Nombres comunes.** »), En la naturaleza (avec conservation et CITES), Cultivo … en pleno suelo, Cultivo … en maceta, Multiplicación, Enfermedades y plagas, Rusticidad, Usos tradicionales y toxicidad, Preguntas frecuentes (question en gras + `<br>`), Sitios de referencia et Bibliografía en paragraphes, guillemets « ».
 - Écarts volontaires aux pages ES existantes, dictés par les règles du propriétaire : pas de première personne ni d'avertissement sur les sources (« Aviso sobre las fuentes », « no he podido… ») ; aucun nom commun proposé (les pages ES en proposent : « cica de Tan Qing ») ; URL en texte brut dans Sitios de referencia (les pages ES utilisent des `<a>`) ; pas de section « Lee también » (absente des fiches ES).
-- Liens internes ES seulement : genre, *debaoensis* 24530, *revoluta* 24488 (pas de page ES *bifida*, *multipinnata*, *multifrondis*, *dolichophylla*).
+- Liens internes ES seulement : genre, *debaoensis* 24530, *revoluta* 24488 (pas de page ES *bifida*, *multipinnata*, *dolichophylla* à cette date ; *multifrondis* ES 38290 liée le 01/11/2026, CYC-ES17).
 - Contexte international (règle 20) : Canarias (Canarius), Italie (Rávena), BGCI (Chine, Madère).
 
 ## Mise au gabarit ES du 31/10/2026 (retouche 0 du lot CYC-ES02, consigne `prompts/consignes-es-cycadales.md`)
@@ -33,3 +33,4 @@
 - Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Canarius (« el vivero canario Canarius » aux quatre mentions nommées dans la FR ; source « Canarius, blog de un vivero de Canarias » ; encadré et FAQ restent anonymes comme dans la FR).
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
 - replace_in_content simulé (6) puis appliqué (6) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
+- 01/11/2026 (CYC-ES17) : lien vers *Cycas multifrondis* ES 38290 posé (Híbridos ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « pas de page ES » (ligne Liens internes) mise à jour.
