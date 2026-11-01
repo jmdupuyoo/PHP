@@ -11,7 +11,7 @@
 - Retiré de l'ancienne ES (28/09/2026) : nom commun inventé « cica de Debao », H3 seuls, faits non sourcés.
 - Noms communs : aucun nom espagnol documenté ; anglais (RBG Sydney, MSU, vivero) et chinois (Flora of China).
 - JZT : aucune observation publiée (dit). Messages du compte JMDUPUYOO exclus (voir note FR).
-- Liens internes ES (200) : genre (intro), *revoluta* 24488, *panzhihuaensis* 23604, *longipetiolula* 36907, *beddomei* 24555, article *Aulacaspis* 23246 ; « Lee también » : pourriture des racines (23218), semis (23153). Sans page ES : *multipinnata*, *bifida*.
+- Liens internes ES (200) : genre (intro), *revoluta* 24488, *panzhihuaensis* 23604, *longipetiolula* 36907, *beddomei* 24555, article *Aulacaspis* 23246 ; « Lee también » : pourriture des racines (23218), semis (23153). Sans page ES : *bifida*.
 - Index genre ES 23432 : ligne déjà liée et conforme (« China (Guangxi); sección Stangerioides; en peligro crítico (CR, 2023) ») : non modifiée.
 - Liens entrants : *longipetiolula* 36907 (déjà lié) ; *revoluta* 24488 (lot CYC-ES03) cite *debaoensis* sans lien (« cruce entre Cycas revoluta y Cycas debaoensis ») : non modifié, signalé pour CYC-ES03.
 - Liens externes (31/10) : 200 sauf Fous de palmiers (503, forum indisponible, non contourné) et EUR-Lex (202).
@@ -22,3 +22,4 @@
 - Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Trebrown (« el vivero británico Trebrown », « Trebrown » ; source « Trebrown Nurseries, ficha… ») et Jungle Music (« el vivero californiano Jungle Music » ; source « Jungle Music, vivero especializado californiano… »).
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
 - replace_in_content simulé (6) puis appliqué (6) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
+- 01/11/2026 (CYC-ES18) : lien vers *Cycas multipinnata* ES 38296 posé (Cómo reconocer ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

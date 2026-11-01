@@ -9,7 +9,7 @@
 - Pépiniériste non nommé : Trebrown → « un vivero británico especializado ».
 - Notes de travail de l'EN non reprises : « POWO could not be consulted directly », « the abstract of that study, the only part that could be read » (→ « Según estos autores »), « The Red List itself could not be consulted », « not consulted », « abstract consulted, full text not read », « text not consulted ».
 - Retiré de l'ancienne ES (28/09/2026) : nom inventé « cica del río Rojo » (« cícada del río Rojo » subsiste seulement comme traduction attribuée du nom chinois *hong-he su-tie*, Hill 2008), « En las fuentes consultadas », Wikipédia, POWO, World Flora Online.
-- Liens internes ES (200) : genre, *revoluta*, *taitungensis*, *pectinata*, *diannanensis*, *panzhihuaensis*, *beddomei*, article *Aulacaspis* ; « Lee también » : semis (23153), riego (23175). Sans page ES : *multipinnata*.
+- Liens internes ES (200) : genre, *revoluta*, *taitungensis*, *pectinata*, *diannanensis*, *panzhihuaensis*, *beddomei*, article *Aulacaspis* ; « Lee también » : semis (23153), riego (23175). Sans page ES : aucune (*multipinnata* ES 38296 liée le 01/11/2026, CYC-ES18).
 - Index genre ES 23432 : ligne déjà liée et conforme (sección Indosinenses ; CR, 2023) : non modifiée.
 - Liens entrants : *diannanensis* 24549 (lien posé dans la réécriture du même lot). Aucune autre page ES ne cite l'espèce.
 - Points douteux (repris) : écart Hill / Flora of China sur le tronc ; résultats de Liu et al. 2016 connus par le résumé seulement (non dit dans la page) ; population du mont Dawei (Zheng 2017) / Wu 2021 (Gejiu seulement) ; années Montgomery déduites des numéros.
@@ -18,3 +18,4 @@
 - Pépiniéristes nommés (décisions du propriétaire du 31/10/2026, questions 34 et 35) : Trebrown (Nombres comunes, Rusticidad ; source « Trebrown Nurseries »).
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
 - replace_in_content simulé (4) puis appliqué (4) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
+- 01/11/2026 (CYC-ES18) : lien vers *Cycas multipinnata* ES 38296 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
