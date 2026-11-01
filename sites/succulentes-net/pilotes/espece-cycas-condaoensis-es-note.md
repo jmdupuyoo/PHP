@@ -9,9 +9,10 @@
 - Cadre international : « En jardines botánicos » (Nong Nooch, Montgomery 2016, Francfort, Prague ; aucun jardin australien) ; zone USDA 9b de Trebrown attribuée, équivalent °C ; JZT : rien.
 - Noms communs : aucun (espagnol, anglais, vietnamien).
 - GBIF : URL d'occurrences remplacée par l'API (la page web renvoie 403 à curl). Forums ES : recherche web le 31/10/2026, rien.
-- Liens internes ES (200) : genre (intro), *pectinata* 24583, *beddomei* 24555, article *Aulacaspis*, *revoluta* 24488 ; « Lee también » : semis, toxicité. Sans page ES : *siamensis*, *clivicola*, *pranburiensis*.
+- Liens internes ES (200) : genre (intro), *pectinata* 24583, *beddomei* 24555, article *Aulacaspis*, *revoluta* 24488 ; « Lee también » : semis, toxicité. Sans page ES : *siamensis*, *clivicola*.
 - Points douteux (repris de l'EN) : habitat, dimensions, effectifs inconnus ; collecteur « Pierre, L » = Louis Pierre (évident, non écrit par WLoC).
 
 - 31/10/2026 (CYC-ES09) : lien entrant vers *Cycas clivicola* 37576 posé à la première occurrence (Confusiones posibles) ; replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
 - 01/11/2026 (CYC-ES15) : lien vers *Cycas lindstromii* ES 38218 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES19) : lien vers *Cycas pachypoda* ES 38329 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES20) : lien vers *Cycas pranburiensis* ES 38365 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

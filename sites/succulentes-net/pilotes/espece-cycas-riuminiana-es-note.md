@@ -1,0 +1,17 @@
+# Note — *Cycas riuminiana* (ES 38369), https://succulentes.net/es/orden-cycadales/cycas/riuminiana/
+
+## Création du 01/11/2026 (lot CYC-ES21, mode C)
+- Avant création : aucune page ES (REST slug `riuminiana` : FR 26728, IT 28841, EN 30820 seulement ; list_content es (any) : seules des pages qui la citent ; corbeille ES vide ; /es/orden-cycadales/cycas/riuminiana/ en 404, aucune redirection).
+- create_content : page, publish, langue es, parent 23432, slug `riuminiana`, titre « Cycas riuminiana », translation_of FR 26728 → id **38369**. Hreflang vérifiés : fr 26728, it 28841, en 30820, es 38369. Aucune image (ni en FR/IT/EN).
+- Brouillon `pilotes/espece-cycas-riuminiana-es.html` identique au texte en ligne (verify.py : seul le sommaire diffère ; liens identiques, 15). DSL : scratchpad `es21/riuminiana.dsl`. ≈ 3 720 mots (Rank Math).
+- SEO Rank Math : « Cycas riuminiana: el pitogo de Luzón, en Filipinas » (50) ; meta 143 ; mot-clé « Cycas riuminiana » ; aucun problème ; `<title>` vérifié.
+- Revérifié le 01/11/2026 : GBIF (API) 2683249 → EN (iucnTaxonID 239047689) ; WCVP 206945258 : accepté, « M.Porte ex Regel », Gartenflora 12: 16 (1863) (graphie WCVP de l'auteur signalée dans l'encadré).
+- Index genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon `genre-cycas-es.html` aligné.
+- Base : EN 30820 (24/10, lien *zambalensis* CYC25) et FR 26728 (03/10, retouche 0a du 24/10) et leurs notes (Lindström, Hill & Stanberg 2008 ; Hill & Stanberg 2009 ; De Laubenfels & Adema 1998 ; WLoC 196 ; Crossref ; GBIF ; Species+ ; Makiling ; Montgomery ; BGCI ; Trebrown).
+- Notes de travail EN non reprises : « its criteria could not be checked, the Red List itself being inaccessible » → « sin indicar los criterios de esta nueva evaluación » (GBIF) ; « the French forum Fous de palmiers and the Italian forum Tropicamente gave no usable growing report » (forums sans résultat, règle 3) → omis.
+- Typification : trois positions exposées (lectotype K, néotype selon Lindström et al. 2008, holotype LE selon WLoC) ; synonyme *Cycas circinalis* var. *curranii* (WLoC contre Lindström et al. 2008) : divergence exposée, non tranchée.
+- Statut : EN (2010, réévalué 2023-1, critères non donnés par GBIF) contre LC recommandé par Lindström et al. 2008, exposé.
+- Pépiniériste nommé (Q34) : Trebrown (aucun nom commun connu ; zone USDA 9b = −3,9 à −1,1 °C, classement commercial attribué) ; °C seulement. Pas de Lavaud (espèce philippine). JZT : rien de publié (dit). Retour FdP de Bicol (identification douteuse) non repris, comme EN.
+- Liens internes ES (200) : genre (intro), *lacrimans* 38168, *nitida* 38302, *edentata* 37726, *rumphii* 24535, *circinalis* 24514, *falcata* 37781, *inermis* 38090, *curranii* 37473, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* ; « Lee también » : semis, arrosage, toxicité 23195. Sans page ES (non liés) : *zambalensis* (CYC-ES25).
+- Points douteux (repris EN/FR) : année de l'accession Montgomery 77963 déduite de la numérotation (« probablemente ») ; présence à Mindoro non confirmée ; usages (Makiling) non sourcés.
+- Forums ES (InfoJardín, Club de Palmeras) : voir le suivi du lot (recherche web restreinte du 01/11/2026).

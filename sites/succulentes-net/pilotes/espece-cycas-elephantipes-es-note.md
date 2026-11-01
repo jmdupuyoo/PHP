@@ -9,8 +9,9 @@
 - Revérifié le 31/10/2026 : GBIF 2683223 → EN ; Species+ 15795 (API) : II, UE B, Thaïlande, aucun nom commun.
 - Notes de travail EN non reprises : « The original description … could not be consulted » (→ « La descripción original se publicó en Brittonia »), « No report from a private grower … could be read », « a question that no publication consulted answers » (→ « ninguna publicación ha resuelto »).
 - Ajout ES : FAQ « yuca pie de elefante » (nom attesté sur la page ES *Yucca elephantipes* 23464, liée dans Confusiones posibles) ; rien affirmé sur l'origine de la yucca.
-- Liens internes ES (200) : genre, *Yucca elephantipes* 23464, article *Aulacaspis* ; « Lee también » : semis, guide de culture, toxicité 23195. Sans page ES (non liés) : *siamensis*, *petraea*. *chamaoensis* non cité (aucune source comparative, comme l'EN).
+- Liens internes ES (200) : genre, *Yucca elephantipes* 23464, article *Aulacaspis* ; « Lee también » : semis, guide de culture, toxicité 23195. Sans page ES (non liés) : *siamensis*. *chamaoensis* non cité (aucune source comparative, comme l'EN).
 - Index 23432 : ligne liée. Lien entrant : *chamaoensis* 37471 (Confusiones posibles ; simulation puis application, brouillon aligné).
 - Points douteux (repris EN/FR) : protologue non lu, description d'après Hill (The Cycad Pages via Llifle) ; section non documentée ; relation avec *Cycas pachypoda* non tranchée.
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu (non retentés).
 - 01/11/2026 (CYC-ES19) : lien vers *Cycas pachypoda* ES 38329 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES20) : lien vers *Cycas petraea* ES 38360 posé (Taxonomía ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

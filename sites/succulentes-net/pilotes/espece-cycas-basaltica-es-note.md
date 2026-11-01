@@ -10,7 +10,7 @@
 - Notes de travail EN non reprises : « POWO could not be consulted directly », « The Red List itself could not be consulted directly », « No first-hand report… could be read », annotations « not consulted (directly) / full text consulted / page not consulted (access blocked) ».
 - Article Lavaud (« À lire aussi » FR) non repris : titre avec nom de pépiniériste ; ne cite pas l'espèce.
 - Cadre international : Rusticidad (Europa/clima mediterráneo : question FdP 2022 sans réponse ; climas tropicales y subtropicales : Sydney sans données) ; « En jardines botánicos » (Australie seule). JZT : rien. Aucun nom espagnol ; « Zamia Palm » = étiquette générique du RBG Sydney.
-- Liens internes ES (200) : genre (intro), *armstrongii* 37307 (Nombres comunes ; page du lot CYC-ES06), *beddomei* 24555, article *Aulacaspis* 23246, *revoluta* 24488 ; « Lee también » : semis 23153, guide 23142, arrosage 23175. Sans page ES : *cairnsiana*, *pruinosa*, *normanbyana* (synonyme).
+- Liens internes ES (200) : genre (intro), *armstrongii* 37307 (Nombres comunes ; page du lot CYC-ES06), *beddomei* 24555, article *Aulacaspis* 23246, *revoluta* 24488 ; « Lee también » : semis 23153, guide 23142, arrosage 23175. Sans page ES : *cairnsiana*, *normanbyana* (synonyme).
 - Index genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon genre aligné.
 - Liens entrants : aucune autre page ES ne cite l'espèce.
 - Forums ES (InfoJardín, Club de Palmeras) : recherche web du 31/10/2026, aucun résultat.
@@ -22,3 +22,4 @@
 - 31/10/2026 (CYC-ES13) : lien vers *Cycas furfuracea* ES 38068 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné (espèce absente de la liste « sans page ES » de cette note).
 - 01/11/2026 (CYC-ES15) : lien vers *Cycas lane-poolei* ES 38184 posé (Híbridos ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES16) : lien vers *Cycas media* ES 38236 posé (Cómo reconocer ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES20) : lien vers *Cycas pruinosa* ES 38367 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
