@@ -13,7 +13,8 @@
 - Pépiniéristes nommés (Q34) : Cycadales.eu, Jungle Music. Simon Lavaud non nommé (non nécessaire) : de l'article 2023, seuls le classement de l'espèce (groupe Mexique-Amérique centrale du Nord, difficulté « moyenne ») et les deux traits du groupe utiles à la divergence de rusticité (nuits d'hiver 5-10 °C substrat sec ; 4 à 6 mois de températures estivales) sont repris ; consignes générales de substrat/eau non reprises (esprit de Q42). Jay Vannini cité comme auteur d'un article publié, sans mention de ses collections.
 - Divergence exposée sans trancher : groupe Cycadales.eu (nuits 5-10 °C) / fiche produit « tropical », plantules ≥ 20 °C / Jungle Music « very tropical ». Chiapas : WLoC seule (Nicolalde-Morejón 2014 : Tabasco seulement), attribué.
 - Localités : États seulement (Tabasco, Chiapas) ; type cité comme dans l'EN (Tabasco, Magaña 343).
-- Liens internes ES (200) : genre (intro), « Lee también » 23153, 23175, 23195. Sans page ES : *purpurea*, *splendens*, *meermanii*, *restrepoi*, *furfuracea*.
+- Liens internes ES (200) : genre (intro), « Lee también » 23153, 23175, 23195. Sans page ES : *purpurea*, *splendens*, *restrepoi*, *furfuracea*.
 - Points douteux (repris) : protologue relu par la FR seulement ; POWO et Liste rouge non consultés directement ; « clade Purpurea » non repris (comme l'EN).
 
 - 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
+- 02/11/2026 (ZAM-ES09) : lien vers *Zamia meermanii* ES 38961 posé (Confusiones, « como Zamia meermanii de Belice ») ; « sans page ES » retiré ; replace_in_content limité aux id, simulation puis application, 1 remplacement par lien ; brouillon aligné par remplacement ciblé (cmpall : identique hors sommaire, liens identiques).

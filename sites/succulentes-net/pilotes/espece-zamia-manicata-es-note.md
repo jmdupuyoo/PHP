@@ -1,0 +1,18 @@
+# Note — *Zamia manicata* (ES 38940), https://succulentes.net/es/orden-cycadales/zamia/manicata/
+
+## Création du 02/11/2026 (lot ZAM-ES09, mode C)
+- Avant création : aucune page ES (list_content ES tous statuts ; corbeille « Zamia » vide ; aucune redirection ; REST slug `manicata` : en 32212, it 28089, fr 26523 seulement ; /es/orden-cycadales/zamia/manicata/ en 404).
+- create_content : page, publish, langue es, parent 38672, slug `manicata`, titre « Zamia manicata », translation_of FR 26523 → id **38940**. Hreflang vérifiés sur les quatre langues (fr 26523, it 28089, en 32212, es 38940). Aucune image.
+- Brouillon `pilotes/espece-zamia-manicata-es.html` identique au texte en ligne (cmpall : seul le sommaire diffère ; liens internes identiques, 9). DSL : scratchpad `zes09/manicata.dsl`. Rank Math : 4 563 mots.
+- SEO Rank Math : « Zamia manicata: la cícada de pinnas con manga de Colombia » (57) ; meta 153 car. ; mot-clé « Zamia manicata » ; aucun problème ; `<title>` vérifié (curl, 200).
+- Index genre ES 38672 : ligne liée (chaîne « <li><em>Zamia manicata</em> Linden ex Regel » unique, 1) ; brouillon genre aligné.
+- Liens entrants posés (simulation puis application, 1 chacun ; brouillons et notes alignés) : *macrochiera* 38929 (même lot, Cómo reconocer), *disodon* 38712 (Confusiones, puce), *dressleri* 38718 (Cultivo, « La cuenta, con »), *imbricata* 38845 (Taxonomía, « El grupo reúne »), *melanorrhachis* 38950 (même lot, Confusiones). *incognita* 38851 ne cite que le « clado manicata » (pas de lien).
+- Liens sortants : genre, *disodon*, *imbricata*, *macrochiera*, *melanorrhachis* 38950 (posé après sa création, Confusiones), *furfuracea*, « Lee también » (3). Sans page ES : *sinuensis*, *restrepoi*, *obliqua*.
+- GBIF revérifié le 02/11/2026 : NT (clé 5284159). Species+ revérifié (API publique) : **fiche propre 23158** (Annexe II, UE B ; synonyme *Zamia madida* ; Colombia, Panama) et **quota d'exportation nul du Panama pour les spécimens sauvages depuis le 19/06/2025** (notification CITES 2025/079, mesure nationale plus stricte ; ancienne suspension de 2023 close) → ajouté en ES (encadré, Estado de conservación, source) ; absent des EN/FR/IT (l'EN cite Species+ au 03/10 sans le quota).
+- Base : EN 32212 (25/10 ; Flora de Colombia 2001, protologue Regel 1876, Calonje et al. 2021, Lindstrom 2024, Taborda-López 2025, López-Gallego 2025, Vannini 2019, Jungle Music, Lavaud 2023, Trebrown, BGCI, Garden Explorer) et FR 26523, et leurs notes. Rien de Wikipédia.
+- Simon Lavaud nommé pour le seul classement de groupe (« difícil » en clima templado, Q44) et sa justification brève ; **non repris** : recette de groupe de l'EN (substrat/eau neutres à acides, 22/15/28-30 °C, 70-90 %).
+- Rusticité : Trebrown 9b avec sa plage (−3,9 à −1,1 °C), classement commercial jugé optimiste (comme l'EN) ; °C seulement (pieds/pouces de Jungle Music convertis : 5 cm, 30 cm, 0,9-1,8 m, 900 m). JZT : rien de publié (dit).
+- *Baryphthengus martii* : nom vernaculaire espagnol non repris (non attesté dans les sources lues) ; « el momoto *Baryphthengus martii* ».
+- Jardins : Fairchild, Huntington (US), RBG Sydney (AU), et, d'après la note EN (BGCI, 25/10), jardins de Bogotá, Medellín, Xalapa et Prague (noms exacts des jardins non relevés dans la note EN : villes seulement).
+- Divergences exposées : couleur des cônes mâles (Flora : jaunâtres / Calonje 2021 : brun rouge foncé) ; néotype (Flora, Calonje) / lectotype (WLoC) ; altitude 100-1 000 m / dès 10 m.
+- Toxicité : formule imposée, BMAA attribuée à l'ASPCA (Q15). FAQ : 8 questions.
