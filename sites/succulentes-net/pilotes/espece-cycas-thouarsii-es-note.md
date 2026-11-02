@@ -20,3 +20,4 @@
 - replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
 - 01/11/2026 (CYC-ES22) : lien vers *Cycas seemannii* ES 38414 posé (Cómo distinguirla de las especies cercanas ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES25) : lien vers *Cycas zeylanica* ES 38560 posé (Cómo distinguirla de las especies cercanas ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (bilan *Cycas* ES) : note de travail « No se ha podido leer ningún testimonio directo… » → « No se ha documentado ningún testimonio directo… » (Rusticidad, Climas subtropicales y tropicales). Simulation puis application (1 remplacement) ; brouillon aligné.

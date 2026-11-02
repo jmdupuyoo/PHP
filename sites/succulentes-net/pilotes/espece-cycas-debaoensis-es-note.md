@@ -23,3 +23,4 @@
 - « Lee también » : lien vers l'article ES 23195 (toxicité, « palma sagú », question 31) ajouté, comme dans le gabarit CYC-ES01.
 - replace_in_content simulé (6) puis appliqué (6) ; contrôle REST (lien(s) présents une fois, plus de mention anonymisée hors encadré/FAQ restés anonymes dans la FR/EN) ; brouillon aligné.
 - 01/11/2026 (CYC-ES18) : lien vers *Cycas multipinnata* ES 38296 posé (Cómo reconocer ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (bilan *Cycas* ES) : °F retirés (consigne ES : °C seulement) : « descensos «into the mid-twenties» °F, es decir, hasta unos −4 °C » → « descensos de hasta unos −4 °C » ; « (17 °F) » supprimé ; source MSU « «reportedly hardy to 17°F» » → « resistencia citada «según se dice» de unos −8,3 °C ». Simulation puis application (3 remplacements) ; brouillon aligné.
