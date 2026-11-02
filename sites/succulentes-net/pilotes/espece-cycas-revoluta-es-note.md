@@ -38,3 +38,4 @@
 - 01/11/2026 (CYC-ES16) : lien vers *Cycas micholitzii* ES 38259 posé (Híbridos ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES22) : lien vers *Cycas sexseminifera* ES 38439 posé (Taxonomía ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (bilan *Cycas* ES) : FAQ « ¿Cycas revoluta es una palmera? » : « nombres como palma de sagú » → « nombres como «palma de sagú», que emplea la prensa divulgativa, » (nom attribué, comme dans Nombres comunes ; Q31). Simulation puis application (1 remplacement) ; brouillon aligné.
+- 02/11/2026 (page genre *Zamia* ES) : « la ASPCA aplica también sago palm a las Zamia » (Nombres comunes) → *Zamia* lié vers la page genre ES 38672 (simulation puis application, 1 remplacement) ; brouillon aligné (cmpall : liens identiques, 22).

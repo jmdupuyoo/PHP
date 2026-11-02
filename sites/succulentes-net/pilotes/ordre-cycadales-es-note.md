@@ -12,3 +12,4 @@
 - Retiré de l'ancienne ES : « más de 350 especies », « unas 117 especies aceptadas por POWO », effectifs approximatifs par genre, « Honduras y Nicaragua » (*Dioon*), « Pinar del Río », *Zamia integrifolia* « única cícada autóctona » (non sourcés dans la FR/EN), « cica o palma de sagú », phrase « tratados en la versión francesa del sitio ».
 - Liens (200) : intro → guía ES ; genre *Cycas* 23432 ; fiches ES *debaoensis* 24530, *revoluta* 24488, *beddomei* 24555 ; articles ES toxicité, jardins italiens (27314), greffe Lavaud.
 - Sources inaccessibles aux robots (non contournées, citées comme bases officielles) : POWO, Liste rouge UICN, cites.org (403) ; Wikipédia ES (429) non utilisée ; DLE (403).
+- 02/11/2026 (page genre *Zamia* ES) : ligne *Zamia* de l'index des genres liée vers la page genre ES 38672 (replace_in_content limité à l'id 23482, simulation 1 / application 1) ; brouillon aligné (cmpall : texte identique hors sommaire, 9 liens identiques).

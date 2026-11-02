@@ -18,3 +18,4 @@
 - 01/11/2026 (CYC-ES19) : lien vers *Cycas ophiolitica* ES 38304 posé (Híbridos ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES23) : lien vers *Cycas siamensis* ES 38436 posé (En maceta ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES23) : lien vers *Cycas silvestris* ES 38441 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 02/11/2026 (Q42, option a, note Lavaud 2021 → données propres à l'espèce seulement) : annotation de la source PDF 2021 → « (Cycas megacarpa en la clase de dificultad «media») », conseils et « no específica » retirés ; 1 remplacement (comme l'EN 16520). État en ligne vérifié avant (texte = brouillon), simulation puis application avec le même nombre, contrôle REST séquentiel = brouillon ; brouillon aligné.
