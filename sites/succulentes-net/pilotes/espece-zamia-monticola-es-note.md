@@ -1,0 +1,16 @@
+# Note — *Zamia monticola* (ES 38994), https://succulentes.net/es/orden-cycadales/zamia/monticola/
+
+## Création du 02/11/2026 (lot ZAM-ES10, mode C)
+- Avant création : aucune page ES (list_content ES tous statuts ; corbeille « Zamia » vide ; aucune redirection ; hreflang de l'EN 32244 : fr 22382, it 28103, en ; /es/orden-cycadales/zamia/monticola/ en 404, revérifié après la reprise).
+- create_content : page, publish, langue es, parent 38672, slug `monticola`, titre « Zamia monticola », translation_of FR 22382 → id **38994**. Hreflang vérifiés (fr 22382, it 28103, en 32244, es 38994). Aucune image.
+- Brouillon `pilotes/espece-zamia-monticola-es.html` identique au texte en ligne (verify/cmpall). DSL : `zes10/monticola.dsl`. Rank Math : 4 203 mots.
+- SEO : « Zamia monticola: la enigmática cícada descrita en 1926 » (54) ; meta 154 ; mot-clé « Zamia monticola » ; aucun problème ; `<title>` vérifié.
+- Index genre ES 38672 : ligne liée (« <li><em>Zamia monticola</em> Chamb. (1926): », simulation 1 puis application 1) ; brouillon genre aligné.
+- Base : EN 32244 (25/10) et FR 22382 (protologue Chamberlain 1926 lu sur archive.org, Calonje et al. 2009, plan UICN 2003, WLoC 517, GBIF occurrences, Vannini 2019, Lindstrom 2024, Lavaud 2023, BGCI, Trebrown) et leurs notes. GBIF revérifié le 02/11 : CR (5284083). Species+ revérifié le 02/11 : fiche 14340 (II / UE B), sans synonyme, Guatemala.
+- Simon Lavaud nommé : classement propre à l'espèce (sortie du groupe Mexique-Guatemala vers le groupe des forêts de basse altitude, « difícil en clima templado », Q44) et justification brève du groupe ; **non repris** : recette de l'EN (22 °C la nuit, 15 °C brièvement, 28-30 °C, 70-90 %, substrat/eau neutres à acides) ni conseil de groupe sur la pourriture (phrase générique).
+- **Localités (CR, Q47)** : origine du type ramenée à « une pente à l'ouest de Xalapa » (l'EN : « six à huit milles à l'ouest de Xalapa, face au cratère éteint de Naolinco ») ; Guatemala au niveau du département (Alta Verapaz, Izabal). Jardin Wilson (Las Cruces, Costa Rica) et Nong Nooch nommés (institutions).
+- Divergences exposées : holotype MO (WLoC) / lectotype NY (étiquettes GBIF) ; identité des plantes guatémaltèques (Vannini) ; « près de onze ans » contre récolte 1906 (incohérence du protologue).
+- Toxicité : formule imposée ; BMAA attribuée à l'ASPCA (*furfuracea*). Trebrown 10a = −1,1 à 1,7 °C.
+- FAQ : 7 questions.
+- Liens internes ES (200) : genre, *decumbens* 38764, *fairchildiana* 38793, *gomeziana* 38807, *onan-reyesii* 39032 (lot parallèle ZAM-ES11, posé après sa publication : simulation 1 puis application 1 ; brouillon et DSL alignés), *furfuracea* 38780 ; « Lee también » 23153, riego, 23195. Sans page ES : *Ceratozamia mexicana* (pas de pages ES *Ceratozamia*), *tuerckheimii*, *pseudomonticola*, *sylvatica* (citée dans le titre du protologue, sans page ES), *restrepoi*.
+- Liens entrants posés le 02/11/2026 (simulation groupée 17 = attendu) : *decumbens* 38764 (Confusiones posibles), *gomeziana* 38807 (Taxonomía). Page genre : ligne d'index seule liée.

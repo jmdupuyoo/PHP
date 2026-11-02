@@ -17,5 +17,6 @@
 - JZT : rien de publié (dit).
 - FAQ : 8 questions.
 - Toxicité : formule imposée (glucósidos tóxicos…) ; BMAA seulement attribuée à l'ASPCA pour *Zamia furfuracea* (Q15). °C seulement ; zones USDA avec leur plage (9b = −3,9 à −1,1 °C).
-- Liens internes ES (200) : genre (intro), *chigua* 38715, *furfuracea* 38780, « Lee también » 23153, riego, 23195. Sans page ES : *skinneri*, *montana*, *oligodonta*, *wallisii*, *restrepoi*.
+- Liens internes ES (200) : genre (intro), *chigua* 38715, *furfuracea* 38780, « Lee también » 23153, riego, 23195. Sans page ES : *skinneri*, *oligodonta*, *wallisii*, *restrepoi*.
 - Liens entrants posés le 02/11/2026 (première occurrence hors introduction, encadré, titres et sources ; une seule simulation groupée limitée aux 17 id, 18 remplacements attendus = 18, puis application ; brouillons alignés, cmpall identiques hors sommaire ; notes des pages mises à jour) : *chigua* 38715 (Confusiones posibles). Aucune fiche ES *Cycas* ni page ordre ne cite l'espèce ; page genre 38672 : ligne d'index seule liée (mentions du corps non liées, comme aux lots précédents).
+- 02/11/2026 (ZAM-ES10) : lien posé vers *Zamia montana* ES 38988 (Cultivo de Zamia lindleyi, « … de bosque nuboso de Panamá y Colombia, con Zamia montana »), première occurrence hors introduction, encadré, titres et sources ; « sans page ES » retiré ; replace_in_content limité aux id (simulation groupée 17 = attendu, puis application) ; brouillon aligné, cmpall : texte et liens identiques.

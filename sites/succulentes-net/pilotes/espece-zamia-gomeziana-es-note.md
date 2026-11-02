@@ -13,6 +13,7 @@
 - Base : EN 32039 (25/10) et FR 26491 (protologue Acuña-Castillo 2010, *Brenesia*, et mémoire UCR lus) et leurs notes ; WLoC 472, Vannini 2019 (Grayum & Hammel 2011 cités d'après lui), Lindstrom 2024 (non échantillonnée), BGCI/Montgomery (aucun), FdP 2014. Rien de Wikipédia.
 - Species+ revérifié le 02/11/2026 : fiche propre 65541 (Annexe II, UE B ; Costa Rica) — l'EN/FR disent « pas de fiche séparée » (signalé).
 - Lavaud/Cycadales.eu : seul le classement (« difícil ») ; liste de consignes de l'EN non reprise ; « En maceta » : conditions du seul habitat (chaleur sans gel, humidité constante).
-- Liens internes ES (200) : genre, *fairchildiana* 38793, *chigua* 38715, *furfuracea* 38780 ; Lee también 23153, 23175, 23195. Sans page ES : *skinneri*, *pseudomonticola*, *monticola*, *onan-reyesii*, *restrepoi*.
+- Liens internes ES (200) : genre, *fairchildiana* 38793, *chigua* 38715, *furfuracea* 38780 ; Lee también 23153, 23175, 23195. Sans page ES : *skinneri*, *pseudomonticola*, *onan-reyesii*, *restrepoi*.
 - Points douteux (repris) : validité de l'espèce (un seul spécimen) ; cône 20 × 8 / 17 × 8 cm et 13-24 / 13 paires (divergences internes au protologue) ; graines orange (protologue) / roses (mémoire).
 - FAQ : 6 questions.
+- 02/11/2026 (ZAM-ES10) : lien posé vers *Zamia monticola* ES 38994 (Taxonomía, « … guatemalteca no descrita, cercana a Zamia monticola »), première occurrence hors introduction, encadré, titres et sources ; « sans page ES » retiré ; replace_in_content limité aux id (simulation groupée 17 = attendu, puis application) ; brouillon aligné, cmpall : texte et liens identiques.
