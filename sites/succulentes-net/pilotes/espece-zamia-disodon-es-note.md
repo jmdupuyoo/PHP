@@ -17,3 +17,5 @@
 
 - 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
 - 02/11/2026 (lot ZAM-ES05) : lien entrant posé vers *hymenophyllidia* 38834 (Cómo reconocer, « Con Zamia hymenophyllidia es también la única con pinnas membranosas », première occurrence ; replace_in_content limité à 38712, simulation 1 puis application 1) ; brouillon aligné par remplacement ciblé (cmpall : identique hors sommaire). Mention suivante (Confusiones) non liée.
+
+- 02/11/2026 (ZAM-ES06) : lien vers *Zamia imbricata* ES 38845 posé (Confusiones posibles, puce « Zamia imbricata, descrita en 2021… ») (replace_in_content limité à 38712, simulation 1 puis application 1 ; brouillon aligné) ; mention « sans page ES » de *imbricata* caduque.
