@@ -14,7 +14,7 @@
 - Forums : Fous de palmiers cités anonymement (Côte Bleue, Gard, Dordogne, Nantes, Ain/Hérault ; correspondant grec de seconde main) ; titres des fils non repris (l'un contient un pseudonyme). Côte Bleue : Marignane −3,0 °C le 10/02/2015 (station non côtière, valeur subie inconnue), comme l'EN.
 - Pas de Lavaud (l'EN/FR ne le citent pas pour cette espèce). Vannini cité comme auteur d'un article publié (collection privée du Queensland non nommée).
 - Notes de travail EN non reprises : aucune visible dans l'EN 32060.
-- Liens internes ES (200) : genre (intro), « Lee también » 23153, 23175, 23195. Sans page ES : *skinneri*, *imperialis*, *manicata*, *restrepoi*, *furfuracea*.
+- Liens internes ES (200) : genre (intro), « Lee también » 23153, 23175, 23195. Sans page ES : *imperialis*, *manicata*, *furfuracea*.
 - Divergences exposées : répartition (île selon MiAmbiente / péninsule et îlots selon Vannini / protologue sans localités) ; CR proposé en 2008 / VU en 2022 ; aucun prélèvement constaté en 2008 / saisie de 2022.
 
 - 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
@@ -23,3 +23,5 @@
 
 - 02/11/2026 (ZAM-ES08) : lien vers *Zamia lindenii* ES 38926 posé (Multiplicación, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.
 - 02/11/2026 (ZAM-ES11) : lien(s) posé(s) vers *Zamia nesophila* ES 38991 (« …Zamia nesophila, otra esp »); *Zamia neurophyllidia* ES 38997 (« …Zamia neurophyllidia, de pinna »), première occurrence hors introduction, encadré, titres et sources ; « sans page ES » retiré ; replace_in_content limité aux id (simulation groupée 23 remplacements sur 16 pages = attendu, puis application) ; brouillon aligné, cmpall : texte et liens identiques.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES15) : lien(s) posé(s) vers *skinneri* ES 39143 (Cómo reconocer Zamia hamannii) — première occurrence du corps, simulation puis application (replace_in_content ciblé, un lot de 36 pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

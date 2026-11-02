@@ -14,7 +14,9 @@
 - Divergences exposées : pétiole « inerme » (1863) / armé (2011) ; Équateur (WLoC) sans récolte citée ; holotype (WLoC) / lectotype (2011) ; auteur de *Zamia baraquiniana* (Mast. / T.Moore & Mast.).
 - Toxicité : formule imposée ; BMAA attribuée à l'ASPCA.
 - FAQ : 8 questions.
-- Liens internes ES (200) : genre, *lindenii* 38926, *multidentata* 39000, *hymenophyllidia* 38834, *muricata* 39003, *furfuracea* 38780 ; « Lee también » 23153, 23195. Sans page ES : *tolimensis*, *urarinorum*, *skinneri*, *roezlii*, *restrepoi*.
+- Liens internes ES (200) : genre, *lindenii* 38926, *multidentata* 39000, *hymenophyllidia* 38834, *muricata* 39003, *furfuracea* 38780 ; « Lee también » 23153, 23195. Sans page ES : *tolimensis*, *urarinorum*.
 - Liens entrants posés le 02/11/2026 : *lindenii* 38926, *macrochiera* 38929, *lindosensis* 38937, *lecointei* 38914, *incognita* 38851, *huilensis* 38803 (Confusiones posibles) ; *multidentata* 39000, *hymenophyllidia* 38834 (Taxonomía).
 - Sources non relues le 02/11 (lectures EN/FR des 03-25/10) : protologues, WLoC, BGCI, Montgomery, Fairchild, RBG Sydney, Trebrown, Jungle Music, Vannini, Lindstrom 2024. POWO, Liste rouge UICN : non retentés (Cloudflare). Forums ES (InfoJardín, Club de Palmeras) : rien de connu pour l'espèce.
 - 02/11/2026 (lot ZAM-ES13) : lien(s) posé(s) vers *Zamia pseudoparasitica* ES 39096 (Taxonomía) — première occurrence du corps, simulation puis application (replace_in_content ciblé), brouillon aligné (cmpall : identique) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa), *roezlii* ES 39140 (Taxonomía) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES15) : lien(s) posé(s) vers *skinneri* ES 39143 (Confusiones posibles) — première occurrence du corps, simulation puis application (replace_in_content ciblé, un lot de 36 pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

@@ -14,6 +14,7 @@
 - Divergences exposées : 2-18 folioles (description) / 2-20 (tableau) ; auteur « Calonje » seul (WLoC, WCVP) / article à trois auteurs.
 - Toxicité : formule imposée ; BMAA attribuée à l'ASPCA.
 - FAQ : 7 questions. Aucune image.
-- Liens internes ES (200) : genre, *chigua* 38715, *ipetiensis* 38840, *cunaria* 38733, *dressleri* 38718, *imperialis* 38863, *amplifolia* 38699, *obliqua* 39004 (ZAM-ES11), *furfuracea* 38780 ; « Lee también » 23153, 23195. Sans page ES : *pyrophylla*, *roezlii*, *wallisii*, *restrepoi*.
+- Liens internes ES (200) : genre, *chigua* 38715, *ipetiensis* 38840, *cunaria* 38733, *dressleri* 38718, *imperialis* 38863, *amplifolia* 38699, *obliqua* 39004 (ZAM-ES11), *furfuracea* 38780 ; « Lee también » 23153, 23195. Sans page ES : *wallisii*.
 - Liens entrants posés le 02/11/2026 : *ipetiensis* 38840 (Confusiones posibles), *cunaria* 38733 (Taxonomía).
 - Sources non relues le 02/11 (lectures EN/FR des 03-25/10) : protologues, WLoC, BGCI, Montgomery, Fairchild, RBG Sydney, Trebrown, Jungle Music, Vannini, Lindstrom 2024. POWO, Liste rouge UICN : non retentés (Cloudflare). Forums ES (InfoJardín, Club de Palmeras) : rien de connu pour l'espèce.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *pyrophylla* ES 39135 (Confusiones posibles), *restrepoi* ES 39126 (Estado de conservación y normativa), *roezlii* ES 39140 (Híbridos) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

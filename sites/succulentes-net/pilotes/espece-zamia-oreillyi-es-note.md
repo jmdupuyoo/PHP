@@ -14,6 +14,8 @@
 - Non repris de l'EN : « the Red List page, which could not be consulted » (note de travail) ; « checked on Crossref » (bibliographie).
 - Toxicité : formule imposée ; BMAA attribuée à l'ASPCA ; réputation des « camotillos » (Rivera García 2016).
 - FAQ : 8 questions. Aucune image (FR/IT/EN : aucune).
-- Liens internes ES (200) : genre, *onan-reyesii* 39032 (ZAM-ES11), *furfuracea* 38780 ; « Lee también » 23153 (semis), 23195. Sans page ES : *sandovalii*, *standleyi*, *purpurea*, *restrepoi*, *Ceratozamia hondurensis* (pas de pages ES *Ceratozamia*).
+- Liens internes ES (200) : genre, *onan-reyesii* 39032 (ZAM-ES11), *furfuracea* 38780 ; « Lee también » 23153 (semis), 23195. Sans page ES : *standleyi*, *Ceratozamia hondurensis* (pas de pages ES *Ceratozamia*).
 - Lien entrant posé le 02/11/2026 : *onan-reyesii* 39032 (lot parallèle ZAM-ES11, Confusiones posibles ; brouillon `espece-zamia-onan-reyesii-es.html` aligné, DSL `zes11/onan-reyesii.dsl` non modifié).
 - Sources non relues le 02/11 (lectures EN/FR des 03-25/10) : protologues, WLoC, BGCI, Montgomery, Fairchild, RBG Sydney, Trebrown, Jungle Music, Vannini, Lindstrom 2024. POWO, Liste rouge UICN : non retentés (Cloudflare). Forums ES (InfoJardín, Club de Palmeras) : rien de connu pour l'espèce.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *purpurea* ES 39129 (Taxonomía), *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES15) : lien(s) posé(s) vers *sandovalii* ES 39138 (Confusiones posibles) — première occurrence du corps, simulation puis application (replace_in_content ciblé, un lot de 36 pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

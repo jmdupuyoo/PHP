@@ -14,7 +14,8 @@
 - Espèce LC : localités au niveau des États (Venezuela) et de la serranía de Macuira (Colombie, seule localité colombienne, donnée par WLoC) ; Puerto Cabello (type, municipio).
 - Toxicité : formule imposée ; BMAA attribuée à l'ASPCA.
 - FAQ : 8 questions.
-- Liens internes ES (200) : genre, *huilensis* 38803, *melanorrhachis* 38950 (ZAM-ES09), *lecointei* 38914, *amazonum* 38696, *furfuracea* 38780 ; « Lee también » 23153, riego, 23195. Sans page ES : *ulei*, *restrepoi*.
+- Liens internes ES (200) : genre, *huilensis* 38803, *melanorrhachis* 38950 (ZAM-ES09), *lecointei* 38914, *amazonum* 38696, *furfuracea* 38780 ; « Lee también » 23153, riego, 23195. Sans page ES : *ulei*.
 - Liens entrants posés le 02/11/2026 (simulation groupée 17 = attendu) : *amazonum* 38696 (Confusiones), *cunaria* 38733 (En la naturaleza), *huilensis* 38803 (Confusiones), *ipetiensis* 38840 (Taxonomía), *incognita* 38851 (Confusiones), *lecointei* 38914 (Confusiones), *melanorrhachis* 38950 (Confusiones). **Non liés** : *furfuracea* 38780 (seules mentions : synonyme « *Zamia muricata* var. *obtusifolia* », autre taxon) ; *encephalartoides* 38761 (« *Zamia* cf. *muricata* », identification douteuse de planches anciennes). Page genre : ligne d'index seule liée.
 
 - 02/11/2026 (lot ZAM-ES12) : lien entrant posé vers *orinoquiensis* 39059 (Confusiones posibles) (replace_in_content, simulation groupée 21 puis application 21, chaîne unique) ; brouillon aligné ; « sans page ES » mis à jour.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

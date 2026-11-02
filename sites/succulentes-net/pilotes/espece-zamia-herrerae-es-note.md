@@ -13,7 +13,7 @@
 - Pas de Lavaud (non cité par l'EN/FR pour cette espèce). Trebrown nommé (Q34). Vannini cité comme auteur d'un article publié ; collection privée du Guatemala non nommée.
 - Conseil générique de l'EN pour la culture en pot (« general advice for lowland tropical Zamia… less water during a dry rest period ») non repris : remplacé par « aucun conseil plus précis publié ; sous verre et hors gel en climat tempéré ».
 - Localités (VU) : départements et États (niveau de WLoC) ; type « alrededores de Sonsonate ».
-- Liens internes ES (200) : genre (intro), *grijalvensis* 38783, « Lee también » 23153, 23175, 23195. Sans page ES : *soconuscensis*, *restrepoi*, *furfuracea*.
+- Liens internes ES (200) : genre (intro), *grijalvensis* 38783, « Lee también » 23153, 23175, 23195. Sans page ES : *furfuracea*.
 - Divergences exposées : épaisseur des pinnas (Standley « gruesas » / clé de 2012 « finas como el papel ») ; Nicaragua (Vannini) absent de WLoC.
 
 - 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
@@ -21,3 +21,5 @@
 - 02/11/2026 (ZAM-ES08) : lien vers *Zamia loddigesii* ES 38947 posé (Confusiones posibles, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.
 
 - 02/11/2026 (lot ZAM-ES12) : lien entrant posé vers *paucijuga* 39068 (Confusiones posibles) (replace_in_content, simulation groupée 21 puis application 21, chaîne unique) ; brouillon aligné ; « sans page ES » mis à jour.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES15) : lien(s) posé(s) vers *soconuscensis* ES 39209 (Confusiones posibles) — première occurrence du corps, simulation puis application (replace_in_content ciblé, un lot de 36 pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

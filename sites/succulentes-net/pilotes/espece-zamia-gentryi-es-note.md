@@ -14,10 +14,11 @@
 - Species+ revérifié le 02/11/2026 : fiche propre 18287 (Annexe II, UE B ; Ecuador) — l'EN/FR disent « pas de fiche séparée » (signalé).
 - Lavaud/Cycadales.eu : seul le classement (« difícil ») ; consignes générales non reprises ; « En maceta » : seules les conditions données par Jungle Music (chaleur, humidité, circulation d'air).
 - Ajout d'une ligne « Ecuador » (Río Palenque, d'après Dodson 1998) dans « En jardines botánicos ».
-- Liens internes ES (200) : genre, *furfuracea* 38780 ; Lee también 23153, 23175, 23195. Sans page ES : *roezlii*, *restrepoi*.
+- Liens internes ES (200) : genre, *furfuracea* 38780 ; Lee también 23153, 23175, 23195. Sans page ES : aucune.
 - Points douteux (repris) : longueur des pinnas 40 cm (Dodson) / 15-20 cm (Jungle Music) ; présence en Colombie supposée, non confirmée.
 - FAQ : 6 questions.
 
 - 02/11/2026 (ZAM-ES08) : lien vers *Zamia lindenii* ES 38926 posé (En la naturaleza, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.
 - 02/11/2026 (ZAM-ES10) : lien posé vers *Zamia montana* ES 38988 (Taxonomía, « …. Se cita en una revisión de 2015 de Zamia montana »), première occurrence hors introduction, encadré, titres et sources ; « sans page ES » retiré ; replace_in_content limité aux id (simulation groupée 17 = attendu, puis application) ; brouillon aligné, cmpall : texte et liens identiques.
 - 02/11/2026 (ZAM-ES11) : lien(s) posé(s) vers *Zamia oligodonta* ES 39009 (« …ana y Zamia oligodonta »), première occurrence hors introduction, encadré, titres et sources ; « sans page ES » retiré ; replace_in_content limité aux id (simulation groupée 23 remplacements sur 16 pages = attendu, puis application) ; brouillon aligné, cmpall : texte et liens identiques.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa), *roezlii* ES 39140 (Híbridos) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

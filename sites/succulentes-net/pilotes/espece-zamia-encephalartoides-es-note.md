@@ -13,7 +13,7 @@
 - Localités : « près d'Umpalá » (LLIFLE, sous-municipal) retiré ; « deux localités » et canyon du Chicamocha (grand ensemble géographique) gardés.
 - Jardins : ajout des déclarations BGCI hors US/AU/UK relevées dans la note EN (Bogotá, Cartagena, Medellín, Fairy Lake, Marimurtra (Espagne), Lyon, Blijdenstein, Prague), avec la réserve BGCI.
 - Notes de travail EN non reprises : « as the Red List itself could not be consulted », « reference checked on Crossref », « full references not recorded » (Díaz-Piedrahita, Sabato), « the publications consulted mention no cross ».
-- Liens internes ES (200) : genre (intro), *boliviana* 38705 et *brasiliensis* 38709 (Confusiones), « Lee también » 23153, 23175, 23195. Sans page ES : *Encephalartos* (genre), *inermis*, *muricata*, *huilensis*, *tolimensis*, *restrepoi*, *furfuracea*.
+- Liens internes ES (200) : genre (intro), *boliviana* 38705 et *brasiliensis* 38709 (Confusiones), « Lee también » 23153, 23175, 23195. Sans page ES : *Encephalartos* (genre), *inermis*, *muricata*, *huilensis*, *tolimensis*, *furfuracea*.
 - Divergences exposées : altitude 500-760 m (pliegos) contre 500-1000 m (visiteur, estimation) ; effectifs LLIFLE sans source ; « hace unos quince años » de Jungle Music non daté ; Jungle Music « tolérance au froid inconnue » mais « soupçonne » une tolérance au gel.
 - 02/11/2026 (lot ZAM-ES05) : lien entrant posé vers *huilensis* 38803 (Taxonomía, groupe de culture de Lavaud 2023, seule occurrence ; replace_in_content limité à 38761, simulation 1 puis application 1) ; brouillon aligné par remplacement ciblé (cmpall : identique hors sommaire).
 
@@ -22,3 +22,4 @@
 - 02/11/2026 (ZAM-ES06) : lien vers *Zamia inermis* ES 38873 posé (Cómo reconocer, « La diagnosis latina la compara con Zamia inermis ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques) ; mention « sans page ES » de *Zamia inermis* caduque.
 
 - 02/11/2026 (ZAM-ES08) : lien vers *Zamia lindenii* ES 38926 posé (Cultivo de Zamia encephalartoides, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

@@ -7,7 +7,7 @@
 - SEO Rank Math : « Zamia pseudomonticola: cícada de montaña de Costa Rica » (54) ; meta 155 car. ; mot-clé « Zamia pseudomonticola » ; aucun problème ; `<title>` vérifié (curl, 200).
 - Index genre ES 38672 : ligne liée (chaîne « <li><em>Zamia pseudomonticola</em> L.D.Gómez », simulation 1 puis application 1) ; brouillon genre aligné.
 - Liens entrants posés (lot ZAM-ES13, simulation puis application, 1 chacun) : *elegantissima* 38730 (Confusiones), *fairchildiana* 38793 (Híbridos), *gomeziana* 38807 (Confusiones), *monticola* 38994 (Confusiones).
-- Liens sortants : genre, *fairchildiana* 38793, *pseudoparasitica* 39096 (Conos y semillas, posé après sa création : replace_in_content 1), *acuminata* 38693, *gomeziana* 38807, *elegantissima* 38730, *monticola* 38994, *furfuracea* 38780, « Lee también » (semis, cochinilla, toxicité). Sans page ES : *stevensonii*, *skinneri*, *restrepoi*.
+- Liens sortants : genre, *fairchildiana* 38793, *pseudoparasitica* 39096 (Conos y semillas, posé après sa création : replace_in_content 1), *acuminata* 38693, *gomeziana* 38807, *elegantissima* 38730, *monticola* 38994, *furfuracea* 38780, « Lee también » (semis, cochinilla, toxicité). Sans page ES : *stevensonii*.
 
 ## Sources et choix
 - Base : EN 32523 (25/10 ; protologue Gómez 1982, WLoC, Acuña-Castillo 2010, Lindström et al. 2013, Taylor Blake & Holzman 2012, Taylor et al. 2012, Schutzman et al. 1998, Vannini 2019, Lavaud 2023, Species+, Fous de palmiers, BGCI, Montgomery, Trebrown, OEPP, Gymnosperm Database, ASPCA) et FR 29463, et leurs notes. Rien de Wikipédia.
@@ -17,3 +17,5 @@
 - Simon Lavaud nommé : groupe des *Zamia* des forêts de basse altitude « difícil » en clima templado (Q44), classement « surprenant » pour une espèce de 800-1600 m (dit) ; **non repris** : recette de groupe de l'EN (substrat neutre à acide, 22 °C la nuit, 15 °C, 28-30 °C, 70-90 %) et remarque sur les minimales de Montpellier ; « within the range advised by Cycadales.eu » (pot) retiré.
 - Note de travail EN « its category could not be checked » (évaluation 2010) non reprise ; référence 2010 retirée de la bibliographie.
 - Trebrown 9b = −3,9 à −1,1 °C (commercial). JZT : aucune observation (dit). Toxicité : formule imposée (glycosides d'après la Gymnosperm Database), BMAA attribuée à l'ASPCA. FAQ : 6 questions.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES15) : lien(s) posé(s) vers *skinneri* ES 39143 (Etimología e historia) — première occurrence du corps, simulation puis application (replace_in_content ciblé, un lot de 36 pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

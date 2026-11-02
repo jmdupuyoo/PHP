@@ -7,7 +7,7 @@
 - SEO Rank Math : « Zamia neurophyllidia: la cícada de pinnas muy plegadas » (54 ; un premier titre de 47 car. corrigé) ; meta 151 car. ; mot-clé « Zamia neurophyllidia » ; aucun problème ; `<title>` vérifié.
 - Index genre ES 38672 : ligne liée (« <li><em>Zamia neurophyllidia</em> D.W.Stev. », 1) ; brouillon genre aligné.
 - Liens entrants posés (simulation groupée puis application, 1 chacun) : *acuminata* 38693 (Taxonomía), *cunaria* 38733 (Taxonomía), *dressleri* 38718 (Confusiones), *hamannii* 38789 (Confusiones), *imperialis* 38863 (Confusiones), *nesophila* 38991 (Híbridos, même lot). *obliqua* 39004 et *oligodonta* 39009 (même lot) la lient dès leur création.
-- Liens sortants : genre, *nesophila* 38991, *imperialis*, *hamannii*, *furfuracea*, « Lee también » (3). Sans page ES : *skinneri*, *restrepoi*.
+- Liens sortants : genre, *nesophila* 38991, *imperialis*, *hamannii*, *furfuracea*, « Lee también » (3). Sans page ES : aucune.
 
 ## Sources et choix
 - Base : EN 20393 (24/10 ; Stevenson 1993 et Taylor et al. 2008 lus, plan UICN 2003, Lavaud 2023, NParks, BGCI, Montgomery, Trebrown, Rare Palm Seeds, Messine, Tropicamente, Fous de palmiers) et FR 22328, et leurs notes.
@@ -17,3 +17,5 @@
 - Trebrown 10b avec sa plage (1,7 à 4,4 °C), classement commercial. °C seulement. JZT : rien de publié (dit). « Corrugated Zamia » : nom commercial anglais, non traduit.
 - Localités : espèce LC ; « distrito de Changuinola » / río Changuinola (niveau district), comme l'EN. Pedara (Catane) = lieu de culture.
 - Toxicité : formule imposée, BMAA attribuée à l'ASPCA. FAQ : 7 questions.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES15) : lien(s) posé(s) vers *skinneri* ES 39143 (Híbridos) — première occurrence du corps, simulation puis application (replace_in_content ciblé, un lot de 36 pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

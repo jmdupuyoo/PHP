@@ -14,6 +14,7 @@
 - Divergence non exposée dans le texte (reprise de l'EN telle quelle) : nombre de sacs polliniques 23-36 (description) / 22-32 (diagnose).
 - Toxicité : formule imposée ; BMAA attribuée à l'ASPCA.
 - FAQ : 8 questions. Aucune image.
-- Liens internes ES (200) : genre, *muricata* 39003, *melanorrhachis* 38950, *lecointei* 38914, *furfuracea* 38780 ; « Lee también » 23153, 23195. Sans page ES : *restrepoi*.
+- Liens internes ES (200) : genre, *muricata* 39003, *melanorrhachis* 38950, *lecointei* 38914, *furfuracea* 38780 ; « Lee también » 23153, 23195. Sans page ES : aucune.
 - Liens entrants posés le 02/11/2026 : *muricata* 39003 (Confusiones posibles), *melanorrhachis* 38950 (Taxonomía), *lecointei* 38914 (Confusiones posibles), *huilensis* 38803 (Confusiones posibles).
 - Sources non relues le 02/11 (lectures EN/FR des 03-25/10) : protologues, WLoC, BGCI, Montgomery, Fairchild, RBG Sydney, Trebrown, Jungle Music, Vannini, Lindstrom 2024. POWO, Liste rouge UICN : non retentés (Cloudflare). Forums ES (InfoJardín, Club de Palmeras) : rien de connu pour l'espèce.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

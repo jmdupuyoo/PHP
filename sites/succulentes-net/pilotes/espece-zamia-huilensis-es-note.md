@@ -12,7 +12,7 @@
 - Toxicité : formule imposée ; BMAA seulement attribuée à l'ASPCA pour *Zamia furfuracea* au niveau du genre (Q15). °C seulement (°F de l'EN retirés) ; aucune zone USDA. JZT : rien de publié (dit).
 - Lavaud 2023 : repris le classement du groupe où il range l'espèce (*Zamia* sudamericanas de ecosistemas estacionalmente secos, difficulté « media » en climat tempéré, Q44) et sa justification brève (sans problème en serre hors gel du sud de la France, car gardées au sec l'hiver), comme la fiche ES *encephalartoides* ; Simon Lavaud nommé une fois. Non repris : la recette (5-10 / 20-25 / 15-20 / 25-30 °C, durée de l'été), le conseil « substrat plus sec l'hiver contre les pourritures » (Plagas) et la FAQ « Lavaud’s advice… starting point » de l'EN (consignes générales).
 - Localités (EN) : municipalités (Algeciras, Garzón, Hobo, Pitalito, Altamira) comme le protologue et l'EN ; rien de plus précis.
-- Liens internes ES (200) : genre (intro), *encephalartoides* 38761, « Lee también » 23153, 23175, 23195. Sans page ES : *tolimensis*, *restrepoi*, *furfuracea*.
+- Liens internes ES (200) : genre (intro), *encephalartoides* 38761, « Lee también » 23153, 23175, 23195. Sans page ES : *tolimensis*, *furfuracea*.
 - Divergences exposées : CR proposé (2012) / EN (2022) ; ancienne circonscription de *Zamia muricata* (Stevenson 2001, 2004 ; séparation d'*orinoquiensis* en 2022).
 
 - 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
@@ -21,3 +21,4 @@
 - 02/11/2026 (ZAM-ES10) : lien posé vers *Zamia muricata* ES 39003 (Confusiones posibles, « …, que los autores daban como nativa de Venezuela y del nores »), première occurrence hors introduction, encadré, titres et sources ; « sans page ES » retiré ; replace_in_content limité aux id (simulation groupée 17 = attendu, puis application) ; brouillon aligné, cmpall : texte et liens identiques.
 
 - 02/11/2026 (lot ZAM-ES12) : lien entrant posé vers *orinoquiensis* 39059 (Confusiones posibles), *poeppigiana* 39074 (Confusiones posibles) (replace_in_content, simulation groupée 21 puis application 21, chaîne unique) ; brouillon aligné ; « sans page ES » mis à jour.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

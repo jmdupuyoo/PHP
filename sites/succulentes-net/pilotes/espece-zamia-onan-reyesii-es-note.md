@@ -7,7 +7,7 @@
 - SEO Rank Math : « Zamia onan-reyesii: la cícada con tronco de Honduras » (52) ; meta 139 car. ; mot-clé « Zamia onan-reyesii » ; aucun problème ; `<title>` vérifié.
 - Index genre ES 38672 : ligne liée (« <li><em>Zamia onan-reyesii</em> C.Nelson », 1) ; brouillon genre aligné.
 - Liens entrants posés (simulation groupée puis application, 1 chacun) : *decumbens* 38764 (Confusiones), *gomeziana* 38807 (Una especie discutida). *monticola* 38994 : lien posé par le lot parallèle ZAM-ES10.
-- Liens sortants : genre, *decumbens*, *fairchildiana*, *monticola* 38994 (ZAM-ES10, « Zamia cf. monticola »), *furfuracea*, « Lee también » (3). Sans page ES : *tuerckheimii*, *standleyi*, *sandovalii*, *restrepoi*.
+- Liens sortants : genre, *decumbens*, *fairchildiana*, *monticola* 38994 (ZAM-ES10, « Zamia cf. monticola »), *furfuracea*, « Lee también » (3). Sans page ES : *tuerckheimii*, *standleyi*.
 
 ## Sources et choix
 - Base : EN 32318 (25/10 ; protologue *Ceiba* 2008, Calonje et al. 2009, Nicolalde-Morejón et al. 2009, CICY 2016, García et al. 2026, Skelley et al. 2026, Lindstrom 2024, Vannini 2019, Lavaud 2023, Montgomery, Garden Explorer, BGCI) et FR 26558, et leurs notes.
@@ -18,3 +18,5 @@
 - Toxicité : formule imposée, BMAA attribuée à l'ASPCA ; réputation des « camotillos » (CICY) au niveau des *Zamia* du pays. FAQ : 8 questions.
 
 - 02/11/2026 (lot ZAM-ES12) : lien entrant posé vers *oreillyi* 39053 (Confusiones posibles) (replace_in_content, simulation groupée 21 puis application 21, chaîne unique) ; brouillon aligné ; « sans page ES » mis à jour.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES15) : lien(s) posé(s) vers *sandovalii* ES 39138 (Confusiones posibles) — première occurrence du corps, simulation puis application (replace_in_content ciblé, un lot de 36 pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

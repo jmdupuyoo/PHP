@@ -7,7 +7,7 @@
 - SEO Rank Math : « Zamia portoricensis: cícada endémica de Puerto Rico » (51) ; meta 145 car. ; mot-clé « Zamia portoricensis » ; aucun problème ; `<title>` vérifié (curl, 200).
 - Index genre ES 38672 : ligne liée (chaîne « <li><em>Zamia portoricensis</em> Urb. », simulation 1 puis application 1) ; brouillon genre aligné.
 - Liens entrants posés (lot ZAM-ES13, simulation puis application, 1 chacun) : *angustifolia* 38702 (Confusiones), *erosa* 38773 (Híbridos), *lucayana* 38958 (Cultivo) ; *pumila* 39099 (même lot) la lie dès sa création.
-- Liens sortants : genre, *angustifolia* 38702, *erosa* 38773 (Confusiones ; pas dans l'introduction), *pumila* 39099 (Híbridos, posé après sa création : replace_in_content 1), *integrifolia* 38918, *furfuracea* 38780, « Lee también » (3). Sans page ES : *restrepoi*.
+- Liens sortants : genre, *angustifolia* 38702, *erosa* 38773 (Confusiones ; pas dans l'introduction), *pumila* 39099 (Híbridos, posé après sa création : replace_in_content 1), *integrifolia* 38918, *furfuracea* 38780, « Lee también » (3). Sans page ES : aucune.
 
 ## Sources et choix
 - Base : EN 32386 (25/10 ; protologue Urban 1899, Lazcano-Lara & Ackerman 2018, Krieg et al. 2023, Meerow et al. 2012, Pagán-Jiménez & Lazcano-Lara 2013, plan UICN 2003, WLoC, BGCI, Montgomery, Fairchild, Index Seminum de Naples, Jungle Music, Trebrown, Lavaud 2023) et FR 21767, et leurs notes. Rien de Wikipédia.
@@ -16,3 +16,4 @@
 - Simon Lavaud nommé : groupe des *Zamia* de Floride et des Caraïbes « fácil » en clima templado (Q44) et justification brève (tolérance proche de 0, hivers méditerranéens, sols calcaires) ; **non repris** : recette de groupe de l'EN (compost 80 % minéral calcaire, 1-10 / 15-20 / 25-30 °C, 4-6 mois ; conseil d'hivernage « cool and on the dry side » ; pourriture racinaire attribuée à Cycadales.eu, remplacée par une phrase générale).
 - Trebrown 9b = −3,9 à −1,1 °C (commercial). JZT : aucune observation pour l'espèce ; repère *integrifolia* −6 °C (février 2012), non transposé. °C seulement.
 - Bibliographie : « reference checked on Crossref » non repris. Toxicité : formule imposée, BMAA attribuée à l'ASPCA (Q15). FAQ : 8 questions.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

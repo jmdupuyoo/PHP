@@ -8,7 +8,7 @@
 - Index genre ES 38672 : ligne liée (chaîne « <li><em>Zamia pseudoparasitica</em> J.Yates », simulation 1 puis application 1) ; brouillon genre aligné.
 - Liens entrants posés (lot ZAM-ES13, simulation puis application, 1 chacun) : *acuminata* 38693, *dressleri* 38718, *elegantissima* 38730, *imperialis* 38863, *obliqua* 39004, *nana* 39012, *poeppigiana* 39074 (lot parallèle ZAM-ES12, publiée pendant le lot ; sa note mise à jour) ; *pseudomonticola* 39071 (même lot).
 - Création : fin du HTML (sources et bibliographie) transmise à la main à partir du brouillon généré ; texte et liens vérifiés identiques en ligne (verify).
-- Liens sortants : genre, *dressleri* 38718 (Hojas y pinnas), *obliqua* 39004, *imperialis* 38863, *elegantissima* 38730 (Confusiones), *neurophyllidia* 38997, *acuminata* 38693, *lindleyi* 38934, *furfuracea* 38780, « Lee también » (semis, toxicité, cochinilla). Sans page ES : *skinneri*, *stevensonii*, genre *Ceratozamia*.
+- Liens sortants : genre, *dressleri* 38718 (Hojas y pinnas), *obliqua* 39004, *imperialis* 38863, *elegantissima* 38730 (Confusiones), *neurophyllidia* 38997, *acuminata* 38693, *lindleyi* 38934, *furfuracea* 38780, « Lee también » (semis, toxicité, cochinilla). Sans page ES : *stevensonii*, genre *Ceratozamia*.
 
 ## Sources et choix
 - Base : EN 20068 (19-25/10 ; protologue Seemann/Yates 1854, Taylor et al. 2008 et 2012, Monteza-Moreno et al. 2022, Bell-Doyon et al. 2020, Rodríguez-Castro et al. 2025, Lindstrom et al. 2024, Gymnosperm Database/Jones 1993, Lavaud 2023 (fiche de culture de l'espèce et article général), Vannini 2019, Fous de palmiers, Species+, BGCI, Montgomery, OEPP, ASPCA) et FR 14482, et leurs notes. Rien de Wikipédia.
@@ -19,3 +19,4 @@
 - Espèce NT, non très localisée : parcs nationaux des sites d'étude (Palo Seco, Santa Fe, Omar Torrijos) gardés comme dans l'EN (règle Q47 limitée aux VU/EN/CR).
 - Note de travail EN « category could not be rechecked » (évaluation 2010) non reprise ; référence 2010 retirée.
 - Forum Fous de palmiers : cultivateur anonyme, sans lieu, daté (2015-2017) ; fil cité sans titre. °C seulement. Toxicité : formule imposée + irritation cutanée par la sève des cônes (Monteza-Moreno 2022), BMAA attribuée à l'ASPCA. FAQ : 8 questions.
+- 02/11/2026 (lot ZAM-ES15) : lien(s) posé(s) vers *skinneri* ES 39143 (Confusiones posibles) — première occurrence du corps, simulation puis application (replace_in_content ciblé, un lot de 36 pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

@@ -13,5 +13,7 @@
 - Toxicité : formule imposée ; BMAA seulement attribuée à l'ASPCA pour *Zamia furfuracea* (Q15). °C seulement (°F de l'EN retirés). JZT : rien de publié (dit). Aucun forum (rien de connu).
 - Localités : municipalité de La Dorada (niveau municipal, comme le protologue) ; rien de plus précis. *Zamia* « Cogollo » (Puerto Berrío) : taxon non décrit, repris du protologue.
 - Statut : CR seulement recommandé par les descripteurs (2021) ; UICN : NE (WLoC, GBIF), exposé.
-- Sans page ES (non liés) : *vazquezii*, *sinuensis*, *restrepoi*.
+- Sans page ES (non liés) : *vazquezii*.
 - 02/11/2026 (ZAM-ES09) : liens vers *Zamia manicata* ES 38940 (Taxonomía, « El grupo reúne ») et *Zamia melanorrhachis* ES 38950 (Taxonomía, après *disodon*) posés ; « sans page ES » retiré ; replace_in_content limité aux id, simulation puis application, 1 remplacement par lien ; brouillon aligné par remplacement ciblé (cmpall : identique hors sommaire, liens identiques).
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Taxonomía) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES15) : lien(s) posé(s) vers *sinuensis* ES 39162 (Taxonomía) — première occurrence du corps, simulation puis application (replace_in_content ciblé, un lot de 36 pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

@@ -13,9 +13,10 @@
 - Simon Lavaud nommé (« viverista especializado en cícadas », Cycadales.eu) pour le seul classement du groupe (« difícil » en clima templado, Q44) et sa justification brève ; la recommandation de groupe de l'EN (serre, véranda, pièce chauffée, chambre de culture) n'est pas reprise.
 - Notes de travail EN non reprises : « The Red List itself could not be consulted, and no other source details the threats », « (reference checked on Crossref) ».
 - Localités : espèce EN ; Ipetí cité seulement pour l'étymologie (nom de l'épithète) ; comarque de Wargandí (provenance d'un spécimen photographié, niveau comarque) gardée comme l'EN.
-- Liens internes ES (200) : genre (intro), *cunaria* 38733, *dressleri* 38718, *furfuracea* 38780, « Lee también » 23153, 23175, 23195. Sans page ES : *pyrophylla*, *restrepoi*.
+- Liens internes ES (200) : genre (intro), *cunaria* 38733, *dressleri* 38718, *furfuracea* 38780, « Lee también » 23153, 23175, 23195. Sans page ES : aucune.
 - Divergences exposées : tige non ramifiée (Calonje 2018) / « ramificado » (Vannini 2019) ; cônes femelles et graines du protologue recopiés de *cunaria* ; folioles 20-40 × 5-8 cm (1993) / 22-49,7 × 3,5-7 cm (2018) ; Ipetí dans le Darién (WLoC/Haynes) / répartition Panamá et Guna Yala ; fusion avec *cunaria* (Calonje 2018, Vannini) non suivie par WLoC.
 - FAQ : 7 questions.
 - 02/11/2026 (ZAM-ES10) : lien posé vers *Zamia muricata* ES 39003 (Taxonomía, « …lemente separadas por vicarianza, próximas a Zamia muricata »), première occurrence hors introduction, encadré, titres et sources ; « sans page ES » retiré ; replace_in_content limité aux id (simulation groupée 17 = attendu, puis application) ; brouillon aligné, cmpall : texte et liens identiques.
 
 - 02/11/2026 (lot ZAM-ES12) : lien entrant posé vers *paucifoliolata* 39062 (Confusiones posibles) (replace_in_content, simulation groupée 21 puis application 21, chaîne unique) ; brouillon aligné ; « sans page ES » mis à jour.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *pyrophylla* ES 39135 (Confusiones posibles), *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
