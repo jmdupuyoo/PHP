@@ -1,0 +1,17 @@
+# Note — *Zamia acuminata* (ES 38693), https://succulentes.net/es/orden-cycadales/zamia/acuminata/
+
+## Création du 02/11/2026 (lot ZAM-ES01, mode C, 1/5)
+- Avant création : aucune page ES (list_content ES tous statuts « Zamia » : aucune fiche *Zamia* ; corbeille vide ; REST slug `acuminata` : FR 26470, IT 28004, EN 31210 seulement ; /es/orden-cycadales/zamia/acuminata/ en 404, aucune redirection).
+- create_content : page, publish, langue es, parent 38672 (page genre ES), slug `acuminata`, titre « Zamia acuminata », translation_of FR 26470 → id **38693**. Hreflang vérifiés : fr 26470, it 28004, en 31210, es 38693. Aucune image (ni FR/IT/EN).
+- Brouillon `pilotes/espece-zamia-acuminata-es.html` identique au texte en ligne (verify : seul le sommaire diffère ; liens internes identiques, 3). DSL : scratchpad `zes01/acuminata.dsl`. ≈ 3 800 mots (Rank Math 3 788).
+- SEO Rank Math : « Zamia acuminata: la cícada mal conocida de Costa Rica » (53) ; meta 133 ; mot-clé « Zamia acuminata » ; aucun problème signalé.
+- Index genre ES 38672 : ligne liée (simulation puis application, 1 remplacement) ; brouillon `genre-zamia-es.html` aligné (régénéré, liens identiques).
+- Base : EN 31210 (24/10) et FR 26470 et leurs notes (WLoC 436, Lindström et al. 2013, Bramblett 2013, Acuña-Castillo 2010, Lindstrom et al. 2024, Taylor et al. 2008, GBIF, BGCI, Montgomery, Fous de palmiers t=5302 et t=14274).
+- Species+ revérifié le 02/11/2026 : la fiche *Zamia acuminata* existe désormais (taxon 19934 ; Annexe II, UE B ; Costa Rica, Panama) → lien 19934 en source (l'EN disait « pas de fiche séparée », 3/10/2026). Distribution Species+ « Costa Rica, Panama » : reflète l'ancienne acception (plantes panaméennes = *Zamia nana*), non reprise.
+- Cadre international : section EN « In cultivation in the UK, US and Australia » → « En jardines botánicos » (mêmes données) ; FAQ « outdoors in the UK » → « en un clima mediterráneo ». °C seulement (aucune valeur de froid). JZT : rien de publié (dit). Aucun pépiniériste nommé ; Lavaud non cité (espèce américaine, sans greffe).
+- Toxicité : formule imposée « glucósidos tóxicos (cicasina, macrozamina), de los que deriva el metilazoximetanol » ; BMAA citée seulement d'après l'ASPCA pour *Zamia furfuracea* (au niveau du genre, comme FR/EN ; décision Q15).
+- Notes de travail EN non reprises : « (first page) » de la source Phytotaxa ; « reference as given by Lindstrom and colleagues (2024) », « reference taken from The World List of Cycads and Crossref ».
+- Liens internes ES (200) : genre (intro), articles « Lee también » semis 23153 et toxicité 23195. Sans page ES (non liés) : *Zamia nana*, *fairchildiana*, *vazquezii*, *fischeri*, *neurophyllidia*, *skinneri*, *obliqua*, *pseudoparasitica*, *restrepoi*, *furfuracea*.
+- Liens entrants : aucune page ES ne cite l'espèce (fiches ES *Cycas*, articles ES, page ordre : aucune mention), en dehors de l'index du genre.
+- Points douteux (repris EN/FR) : protologue lu tel que reproduit par Lindström et al. 2013 ; aire WLoC (San José) contre Acuña-Castillo 2010 (aussi Puntarenas), exposé ; identité des accessions de Montgomery et des déclarations BGCI ; *Eumaeus* « sur d'autres espèces costariciennes » sans source précise (repris de la FR/EN).
+- Forums ES (InfoJardín, Club de Palmeras) : rien de connu pour l'espèce ; non interrogés (aucune donnée attendue pour une espèce absente du commerce espagnol).

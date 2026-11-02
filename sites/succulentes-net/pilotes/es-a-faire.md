@@ -44,8 +44,8 @@ Créé le 31/10/2026. Consignes : `prompts/consignes-es-cycadales.md`. Ordre dé
 
 ## Zamia — page genre EN 16295 ; 88 fiches EN
 
-- [ ] Page genre *Zamia* ES (C) — EN 16295
-- [ ] ZAM-ES01 : acuminata (C, EN 31210), amazonum (C, EN 20459), amplifolia (C, EN 31215), angustifolia (C, EN 31224), boliviana (C, EN 20410)
+- [x] Page genre *Zamia* ES (C) — EN 16295 — FAIT 02/11/2026 : ES **38672** « El género Zamia » créée (parent 23482, slug `zamia`, translation_of FR 3963 ; index 88 espèces WLoC, lignes du lot liées ; SEO ; brouillon `genre-zamia-es.html`, note) ; liens entrants depuis l'ordre ES 23482, le genre *Cycas* ES 23432 et *Cycas revoluta* ES 24488
+- [x] ZAM-ES01 (FAIT 02/11/2026 : ES 38693, 38696, 38699, 38702, 38705 créées, parent 38672, SEO, brouillons et notes ; index 38672 lié (5 lignes) ; lien entrant *amazonum* → *boliviana* ; Trebrown et Jungle Music nommés ; Wikipédia attribué et provisoire (*boliviana*, Q32) ; pas de Lavaud (espèces américaines)) : acuminata (C ES38693, EN 31210), amazonum (C ES38696, EN 20459), amplifolia (C ES38699, EN 31215), angustifolia (C ES38702, EN 31224), boliviana (C ES38705, EN 20410)
 - [ ] ZAM-ES02 : brasiliensis (C, EN 20416), chigua (C, EN 31231), cremnophila (C, EN 31239), cunaria (C, EN 31979), decumbens (C, EN 31983)
 - [ ] ZAM-ES03 : disodon (C, EN 31987), dressleri (C, EN 31990), elegantissima (C, EN 32001), encephalartoides (C, EN 20399), erosa (C, EN 32018)
 - [ ] ZAM-ES04 : fairchildiana (C, EN 32024), fischeri (C, EN 32029), furfuracea (C, EN 20366), gentryi (C, EN 32035), gomeziana (C, EN 32039)

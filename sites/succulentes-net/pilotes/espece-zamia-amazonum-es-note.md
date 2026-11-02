@@ -1,0 +1,17 @@
+# Note — *Zamia amazonum* (ES 38696), https://succulentes.net/es/orden-cycadales/zamia/amazonum/
+
+## Création du 02/11/2026 (lot ZAM-ES01, mode C, 2/5)
+- Avant création : aucune page ES (list_content ES tous statuts « Zamia » : aucune fiche *Zamia* ; corbeille vide ; REST slug `amazonum` : FR 22275, IT 28006, EN 20459 seulement ; /es/orden-cycadales/zamia/amazonum/ en 404, aucune redirection).
+- create_content : page, publish, langue es, parent 38672, slug `amazonum`, titre « Zamia amazonum », translation_of FR 22275 → id **38696**. Hreflang vérifiés : fr 22275, it 28006, en 20459, es 38696. Aucune image (ni FR/IT/EN).
+- Brouillon `pilotes/espece-zamia-amazonum-es.html` identique au texte en ligne (verify : seul le sommaire diffère ; liens internes identiques, 3). DSL : scratchpad `zes01/amazonum.dsl`. ≈ 2 900 mots (Rank Math 2 886).
+- SEO Rank Math : « Zamia amazonum: la cícada del sotobosque amazónico » (50) ; meta 129 ; mot-clé « Zamia amazonum » ; aucun problème signalé.
+- Index genre ES 38672 : ligne liée (simulation puis application, 1 remplacement) ; brouillon `genre-zamia-es.html` aligné.
+- Base : EN 20459 (24/10) et FR 22275 et leurs notes (protologue Stevenson 2001, Flora de Colombia en ligne ; WLoC 438 ; GBIF ; Crossref ; Segalla et al. 2023 ; Flora e Funga do Brasil via GBIF ; BGCI ; Montgomery ; Trebrown).
+- Species+ revérifié le 02/11/2026 : fiche *Zamia amazonum* 20297 (Annexe II, UE B ; Brésil, Colombie, Équateur, Pérou, Venezuela) → lien 20297 en source.
+- Zone USDA : Trebrown (vivero nommé, décision Q34), zone 10b donnée comme classement commercial, avec son équivalent °C (−1,1 °C de minimale moyenne annuelle et au-delà). °C seulement. JZT : rien de publié (dit).
+- Toxicité : formule imposée (glucósidos tóxicos… metilazoximetanol) ; ASPCA pour *Zamia furfuracea* au niveau du genre, sans BMAA (comme l'EN de l'espèce).
+- Notes de travail EN non reprises : « the checklist's own page could not be opened », « as the Red List itself could not be consulted », « this review is known only from a summary and was not read », « known from a summary », « reference checked on Crossref ». L'usage chayahuita reste attribué à la revue d'El-Seadaway et al. (2023).
+- Cadre international : « In cultivation in the UK, US and Australia » → « En jardines botánicos » ; FAQ « hardy in the UK » → « ¿Resiste el frío? ».
+- Liens internes ES (200) : genre (intro), « Lee también » semis 23153 et toxicité 23195. *Zamia boliviana* (même lot) citée en Taxonomía : lien posé après la création de la fiche *boliviana* (voir plus bas). Sans page ES : *ulei*, *lecointei*, *muricata*, *hymenophyllidia*, *macrochiera*, *brasiliensis*, *restrepoi*, *furfuracea*.
+- Points douteux (repris EN/FR) : noms portugais (Acre, hors aire WLoC ; « batata de paca » aussi donné pour *Zamia ulei*) présentés avec réserve ; étymologie WLoC/Haynes (haut bassin amazonien) contre protologue (département d'Amazonas), les deux données ; POWO et Liste rouge non consultés directement ; usage chayahuita d'après une revue.
+- 02/11/2026 (lot ZAM-ES01) : lien vers *Zamia boliviana* ES 38705 posé (Taxonomía, « junto a Zamia boliviana y Zamia brasiliensis » ; simulation puis application, 1 remplacement) ; brouillon aligné (cmpall : liens identiques, 4).

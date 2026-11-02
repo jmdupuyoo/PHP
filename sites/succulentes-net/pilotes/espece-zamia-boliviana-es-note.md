@@ -1,0 +1,19 @@
+# Note — *Zamia boliviana* (ES 38705), https://succulentes.net/es/orden-cycadales/zamia/boliviana/
+
+## Création du 02/11/2026 (lot ZAM-ES01, mode C, 5/5)
+- Avant création : aucune page ES (list_content ES tous statuts « Zamia » : aucune fiche *Zamia* ; corbeille vide ; REST slug `boliviana` : FR 22283, IT 28014, EN 20410 seulement ; /es/orden-cycadales/zamia/boliviana/ en 404, aucune redirection).
+- create_content : page, publish, langue es, parent 38672, slug `boliviana`, titre « Zamia boliviana », translation_of FR 22283 → id **38705**. Hreflang vérifiés : fr 22283, it 28014, en 20410, es 38705. Aucune image (ni FR/IT/EN).
+- Brouillon `pilotes/espece-zamia-boliviana-es.html` identique au texte en ligne (verify/cmpall : seul le sommaire diffère ; liens internes identiques, 4). DSL : scratchpad `zes01/boliviana.dsl`. ≈ 3 200 mots (Rank Math 3 160).
+- SEO Rank Math : « Zamia boliviana: la cícada de las sabanas del Cerrado » (53) ; meta 145 ; mot-clé « Zamia boliviana » ; aucun problème signalé.
+- Index genre ES 38672 : ligne liée (simulation puis application, 1 remplacement) ; brouillon `genre-zamia-es.html` aligné.
+- Base : EN 20410 (24/10) et FR 22283 et leurs notes (Segalla & Calonje 2019, résumés Segalla et al. 2021 et 2022 via Crossref, Segalla et al. 2021 *Plant Ecology* (titre), Segalla et al. 2023, Flora e Funga do Brasil via GBIF, WLoC 444, GBIF, BGCI, Montgomery, Trebrown).
+- Species+ revérifié le 02/11/2026 : fiche *Zamia boliviana* 16765 (Annexe II, UE B ; Bolivie, Brésil ; synonyme *Ceratozamia boliviana*) → lien 16765 en source.
+- **Wikipédia (décision Q32)** : département de La Paz et altitude 130-450 m, connus seulement par la Wikipédia anglaise (qui cite Segalla et al. 2022) : gardés, attribués et présentés comme provisoires (Datos clave, En la naturaleza, FAQ, source « datos provisionales »). Retirés de la section Rusticidad (où l'EN donnait l'altitude sans attribution).
+- *Eumaeus* : note de Segalla & Morellato (2019, *Cycads*) présentée « según su título » (non lue ; la mention de note de travail de l'EN, « known only from its title and was not read », n'est pas reprise).
+- Zone USDA : Trebrown (vivero nommé, Q34), zone 9b donnée comme classement commercial avec son équivalent °C (−3,9 à −1,1 °C) ; « USDA 10 » d'internet dit non fondé. JZT : rien de publié (dit).
+- Toxicité : formule imposée ; ASPCA pour *Zamia furfuracea* au niveau du genre, sans BMAA (comme l'EN de l'espèce).
+- Notes de travail EN non reprises : « as the Red List itself could not be consulted », « have no identifiable source and are not repeated here » (reformulé), « is not repeated here », « Title and bibliographic data checked; abstract not available », « reference checked on Crossref ».
+- Cadre international : « In cultivation in the UK, US and Australia » → « En jardines botánicos » (Munich-Nymphenburg ajouté en point « Alemania », donnée BGCI déjà citée par l'EN) ; FAQ « hardy in the UK » → « ¿Resiste las heladas? » ; FAQ « ¿Está amenazada? » ajoutée (7 questions).
+- Liens internes ES (200) : genre (intro), *Zamia amazonum* 38696 (Taxonomía, même lot), « Lee también » semis 23153 et toxicité 23195. Sans page ES : *brasiliensis*, *ulei*, *encephalartoides*, *restrepoi*, *furfuracea* ; genre *Ceratozamia* (pas de page ES).
+- Lien entrant posé le 02/11/2026 : *Zamia amazonum* 38696 (Taxonomía, « junto a Zamia boliviana ») ; simulation puis application, 1 remplacement ; brouillon et note d'*amazonum* alignés.
+- Points douteux (repris EN) : largeur des pinnes 1,1-2 cm (tableau) contre 0,8-2 cm (texte), exposé ; La Paz et altitude (Wikipédia, provisoire) ; *Zamia brongniartii* synonyme pour Flora e Funga do Brasil, absent de WLoC (exposé) ; POWO et Liste rouge non consultés directement.
