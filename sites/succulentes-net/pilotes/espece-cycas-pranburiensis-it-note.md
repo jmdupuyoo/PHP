@@ -26,3 +26,5 @@
 - Description d'après un rapport thaï traduit, sans mesures ; statut CR (UICN 2010) contre VU (liste thaïlandaise) ; mention du Vietnam (ONEP) non confirmée ; position phylogénétique discutée.
 
 - Retouche du 24/10/2026 (avant CYC22, 0a) : rivalutazione J.D. Bösenberg (Lista rossa 2023-1, Crossref ; CR via GBIF, criteri non letti) aggiunta al riquadro, alla sezione Stato e alla Bibliografia (3 sostituzioni, simulate poi applicate). Indice IT 11549 : « (CR, 2023) ».
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : type Kerr 10972 (1926) et citation sous C. circinalis par Smitinand 1971 ajoutés (Étymologie, d'après l'EN 30800 et sa note : WLoC 188, PDF Siam Society). Simulation = application (2 paire(s)), contrôle REST, brouillon aligné.

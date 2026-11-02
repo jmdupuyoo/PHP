@@ -31,3 +31,5 @@
 
 ## Retouche du 21/10/2026 (0c, signalé lors de CYC15)
 - Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 8 remplacement(s) sur la page 18655, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : critères/menaces Liste rouge « could not be checked/read » → « these data do not give… » ; annotation « criteria not checked » retirée. Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

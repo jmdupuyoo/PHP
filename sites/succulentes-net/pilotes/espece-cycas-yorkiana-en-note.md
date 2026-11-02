@@ -32,3 +32,5 @@
 ## Points douteux
 - Hauteur : « rarement 3 m » (Hill) contre 4 m (Flora), les deux donnés.
 - Années des accessions Montgomery déduites de la numérotation.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : notes de recherche des jardins (« catalogues checked in October 2026 », « Trebrown has no page for it ») reformulées ou retirées. Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

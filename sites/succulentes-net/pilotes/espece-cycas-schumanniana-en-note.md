@@ -36,3 +36,5 @@
 - Ajouts possibles : jardins (Cambridge 20173419, Montgomery 4 accessions, BGCI), Trebrown 9b (commercial), référence Hill 1994 p. 536 fig. 3B, 8.
 
 - Lien sortant vers *Cycas scratchleyana* EN 30858 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : notes de recherche des jardins (« catalogues checked in October 2026 », « Trebrown has no page for it ») reformulées ou retirées ; grainetier anonyme non sourcé retiré (non identifiable dans les notes). Simulation = application (2 paire(s)), contrôle REST, brouillon aligné.

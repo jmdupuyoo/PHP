@@ -37,3 +37,5 @@
 - Further reading, article Lavaud EN 16530 : « how the French nurseryman grafts them onto *Cycas revoluta* » (protocole non publié) → « presents the grafted plants that the French nurseryman offers on a *Cycas revoluta* rootstock » ; simulé puis appliqué ; brouillon aligné.
 
 - 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas silvestris* 30917 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : Q42 (définitive) : consignes générales de la note Lavaud 2021 (arrosage, substrat, lumière) retirées ; données propres à l'espèce gardées, attribuées ; annotation de source alignée. Simulation = application (2 paire(s)), contrôle REST, brouillon aligné.

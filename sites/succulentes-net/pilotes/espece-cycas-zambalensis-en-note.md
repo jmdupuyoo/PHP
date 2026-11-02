@@ -28,3 +28,5 @@
 
 ## Points douteux
 - Longueur des feuilles : 105 cm au plus (protologue) contre 100-190 cm (Lindström et al. 2008), les deux donnés ; graines « to 3.5 by 3 cm » au protologue contre 43 × 36 mm (Lindström et al.) : la valeur la plus grande est donnée, comme en FR/IT.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : notes de recherche des jardins (« catalogues checked in October 2026 », « Trebrown has no page for it ») reformulées ou retirées. Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

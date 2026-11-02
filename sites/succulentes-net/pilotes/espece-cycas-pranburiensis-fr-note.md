@@ -49,3 +49,5 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 4. Position phylogénétique (Indosinenses selon Liu 2018, reprise de la page genre) non relue dans l'article.
 
 - Retouche du 24/10/2026 (avant CYC22, 0a) : réévaluation J.D. Bösenberg (Liste rouge 2023-1, doi 10.2305/IUCN.UK.2023-1.RLTS.T42063A69155175.en, Crossref ; date d'évaluation 12/11/2020 selon Crossref ; CR via GBIF, critères non lus) ajoutée à l'encadré, à la section Statut et à la Bibliographie (3 remplacements, simulés puis appliqués). Index FR 1256 : « (CR, 2023) ».
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : type Kerr 10972 (1926) et citation sous C. circinalis par Smitinand 1971 ajoutés (Étymologie, d'après l'EN 30800 et sa note : WLoC 188, PDF Siam Society). Simulation = application (2 paire(s)), contrôle REST, brouillon aligné.

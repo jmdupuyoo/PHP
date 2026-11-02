@@ -27,3 +27,5 @@
 - 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sphaerica* 30927 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
 
 - Lien entrant vers *zeylanica* EN 31096 posé le 24/10/2026 (lot CYC25, replace_in_content : simulation puis application, 1 remplacement) ; brouillon aligné.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : critères/menaces Liste rouge « could not be checked/read » → « these data do not give… » ; annotation « criteria not checked » retirée ; note de travail retirée ou reformulée : « The key to the cycads of the archipelago in the revision by Singh and Misra (2020) could n » ; note de travail retirée ou reformulée : « found online rest on no identifiable source and are not repeated here. » ; notes de recherche des jardins (« catalogues checked in October 2026 », « Trebrown has no page for it ») reformulées ou retirées. Simulation = application (4 paire(s)), contrôle REST, brouillon aligné.

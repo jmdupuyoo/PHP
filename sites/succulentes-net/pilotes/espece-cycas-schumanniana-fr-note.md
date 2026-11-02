@@ -54,3 +54,5 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 - Contrôles : verify.py texte identique au rendu, 11 liens, URL 200, aucun commentaire visible, blocs 92/92, hreflang FR/IT conservés, liens internes 200.
 - Index genre 1256 : « Papouasie-Nouvelle-Guinée ; quasi menacée (NT, 2010) » → « Papouasie-Nouvelle-Guinée (Madang, Morobe, Hautes-Terres orientales) ; Indonésie selon Species+, non confirmée ; quasi menacée (NT, 2023) ».
 - À signaler pour l'IT 28865 : statut UICN à mettre à jour (Bösenberg 2020, Liste rouge 2023-1, au lieu de Hill 2010) ; Lindström et al. 2009 (pas de *schumanniana* en Indonésie) permet d'étayer la divergence Species+ déjà signalée ; date 1901 chez de Laubenfels & Adema.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : grainetier anonyme non sourcé retiré (non identifiable dans les notes). Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

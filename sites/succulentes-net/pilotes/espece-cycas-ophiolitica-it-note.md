@@ -49,3 +49,5 @@
 - Altitude 80-620 m : sourcée par la fiche WildNet du gouvernement du Queensland (taxon 8437, d'après Halford 1995), au lieu du plan 2007 « noto da un estratto ».
 - 5 remplacements (simulation 5, application 5) ; brouillon aligné.
 - 24/10/2026 (retouche 0d avant CYC24) : « À lire aussi » / « Leggi anche », article Lavaud : formule « comment Lavaud les greffe » (protocole non publié) remplacée par une présentation fidèle de l'article recalé (article général sur les Cycas australiens et la greffe sur porte-greffe de Cycas revoluta ; plantes greffées proposées ; protocole non publié) ; « candidats à de futurs essais de greffe » (retiré de l'article) → classement « moyenne » de la note 2021 ; 1 remplacement(s) simulé(s) puis appliqué(s).
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : « Lyn Stanberg » → « Leonie Stanberg » (Hill 1996 ; WLoC « Stanberg, L ») ; Q42 (définitive) : consignes générales de la note Lavaud 2021 (arrosage, substrat, lumière) retirées ; données propres à l'espèce gardées, attribuées ; annotation de source alignée. Simulation = application (4 paire(s)), contrôle REST, brouillon aligné.

@@ -34,3 +34,5 @@
 - FR 26745 / IT 28902 : ajouter WildNet (EPBC Vulnerable depuis 2022, aire protégée), classement Lavaud 2021 (classe « moyenne »), BGCI (4 jardins dont Château Pérouse en France), graines et plantules sur le marché avant 1996 (Forster). FR : « À lire aussi » Lavaud dit « comment le pépiniériste Simon Lavaud les greffe » (protocole non publié) → à reformuler comme en EN.
 
 - Retouche 24/10/2026 (0c avant ZAM05) : note de travail visible retirée du texte en ligne (renvoi à la fiche d’une autre langue ou d’une autre espèce comme origine de la consultation : « for the French page », « lors de la rédaction de la fiche italienne », « repris de la fiche … », etc.) ; replace_in_content, simulation puis application ; brouillon aligné.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : note de travail retirée ou reformulée : « The Red List itself could not be consulted to settle the question, so both are given here. ». Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

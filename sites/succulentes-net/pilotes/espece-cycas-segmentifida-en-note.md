@@ -37,3 +37,5 @@
 - Notes de rédaction visibles retirées ou réduites à leur contenu utile (« previous version of this page », « earlier English version », « for the French page ») : 8 remplacement(s) sur la page 18691, replace_in_content simulé puis appliqué (nombre attendu vérifié) ; brouillon aligné sur le contenu en ligne. Fond inchangé ; affirmations écartées de l'ancienne page toujours non reprises (voir plus haut).
 
 - 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sexseminifera* 30907 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : note de travail retirée ou reformulée : « A more recent assessment, by J. D. Bösenberg (dated 2020 and published in version 2023-1 o ». Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

@@ -38,3 +38,5 @@
 - Contrôles : verify.py (texte identique, 9 liens internes en 200, blocs 102/102, hreflang fr/it/en, aucun commentaire visible) ; User-Agent curl et Chrome : 200, `<title>` « Cycas lindstromii: cicadea a fusto sotterraneo del Vietnam », nouveau texte servi.
 
 - 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo, BMAA) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : note de travail retirée ou reformulée : « Le misure della revisione vietnamita di Hill, Nguyen e Loc (2004, pp. 179-180) non hanno p ». Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

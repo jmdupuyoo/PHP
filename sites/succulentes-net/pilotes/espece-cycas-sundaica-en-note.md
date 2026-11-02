@@ -29,3 +29,5 @@
 
 ## FR/IT (à reprendre, facultatif)
 - FR 26749 : « année non indiquée » pour l'UICN → évaluation Stanberg & Lindström 2023-1 (déjà dans l'IT). IT 28945 : FAQ « le citazioni di Giava che circolano sono errate » non sourcée → reformuler.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : notes de recherche des jardins (« catalogues checked in October 2026 », « Trebrown has no page for it ») reformulées ou retirées. Simulation = application (2 paire(s)), contrôle REST, brouillon aligné.

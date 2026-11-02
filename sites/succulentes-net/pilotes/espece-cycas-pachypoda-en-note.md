@@ -25,3 +25,5 @@
 
 ## Points douteux
 - Tout ce qui dépend du protologue (description, habitat, altitude, section, menaces).
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : critères/menaces Liste rouge « could not be checked/read » → « these data do not give… » ; annotation « criteria not checked » retirée ; note de travail retirée ou reformulée : « The Vietnam National University repository that lists a copy could not be reached on 13, 1 ». Simulation = application (2 paire(s)), contrôle REST, brouillon aligné.

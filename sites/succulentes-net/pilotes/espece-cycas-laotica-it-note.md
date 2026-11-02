@@ -40,3 +40,5 @@
 - Contrôles fiche : verify.py — texte identique au brouillon (2 943 mots), 17 liens (tous IT, 200), URL 200, aucun commentaire visible, 105/105 blocs, hreflang fr/it ; User-Agent curl et Chrome : 200, même taille, `<title>` « Cycas laotica: la cicadea endemica dei calcari del Laos » ; aucune page de spam.
 - Hors lot, à corriger en FR 22052 : même phrase « Son inscription à la CITES et l'étroitesse de son aire excluent… tout prélèvement » (Usages traditionnels).
 - Points douteux maintenus : incohérence du protologue sur l'épine terminale ; graines de 1-1,5 cm ; critère D2 face aux critères B proposés en 2014 (texte de l'évaluation non lu).
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : note de travail retirée ou reformulée : « , e la sua posizione nelle analisi filogenetiche non è stata verificata. ». Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

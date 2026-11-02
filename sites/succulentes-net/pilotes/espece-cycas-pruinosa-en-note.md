@@ -30,3 +30,5 @@
 
 ## FR/IT (facultatif)
 - Ajouts possibles : isotypes, sarcotesta 2-3 mm, photos mal étiquetées (Krempin 1990, Jones 1993), Montgomery (2014, 2015), BGCI Kings Park.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : Q42 (définitive) : consignes générales de la note Lavaud 2021 (arrosage, substrat, lumière) retirées ; données propres à l'espèce gardées, attribuées ; annotation de source alignée. Simulation = application (2 paire(s)), contrôle REST, brouillon aligné.

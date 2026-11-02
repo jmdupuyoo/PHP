@@ -27,3 +27,5 @@
 
 ## FR/IT
 - FR : rien à reprendre. IT 29000 : titre SEO « Cycas vespertilio: la cicadea «pipistrello» delle Filippine » présente « pipistrello » comme un nom alors qu'aucun nom commun n'est attesté (la FR a retiré « le cycas chauve-souris » pour cette raison) → à reformuler ; index IT 11549 : déjà « (VU, 2023) » (vérifié le 24/10), rien à faire.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : notes de recherche des jardins (« catalogues checked in October 2026 », « Trebrown has no page for it ») reformulées ou retirées. Simulation = application (2 paire(s)), contrôle REST, brouillon aligné.

@@ -22,3 +22,5 @@
 - Aucune correction de fond. Ajouts possibles : PACSOA (habitat, conseil de culture), GBIF, BGCI (jardins américains), nom commercial Trebrown.
 
 - 24/10/2026 (CYC20) : lien vers *Cycas petraea* EN 30777 posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : note de travail retirée ou reformulée : « ; other dimensions not documented in the sources read ». Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

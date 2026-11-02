@@ -32,3 +32,5 @@
 
 ## FR/IT (facultatif, non modifiées)
 - Ajouts possibles : Forster & Gray 2017 (taille réelle, altitude 500-840 m, comparaison avec *distans* — la FR ne cite pas *distans*), graines 27-38 mm de diamètre, de Laubenfels & Adema 1998 désormais lu (p. 363), Montgomery 2025, jardins BGCI.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : Q42 (définitive) : consignes générales de la note Lavaud 2021 (arrosage, substrat, lumière) retirées ; données propres à l'espèce gardées, attribuées ; annotation de source alignée. Simulation = application (2 paire(s)), contrôle REST, brouillon aligné.

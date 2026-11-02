@@ -33,3 +33,5 @@
 - FR 26732 / IT 28858 : ajouter la réévaluation A. Lindström (Liste rouge 2023-1, VU via GBIF) ; index FR 1256, IT 11549 et EN 16282 « (VU, 2010) » → « (VU, 2023) » (non modifié en EN : consigne « 1 remplacement » limitée au lien) ; facultatif : contradiction de la diagnose latine, écart 10-14 / 9-12 mm.
 
 - Lien entrant vers *wadei* EN 31069 posé le 24/10/2026 (lot CYC25, replace_in_content : simulation puis application, 1 remplacement) ; brouillon aligné.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : critères/menaces Liste rouge « could not be checked/read » → « these data do not give… » ; annotation « criteria not checked » retirée ; notes de recherche des jardins (« catalogues checked in October 2026 », « Trebrown has no page for it ») reformulées ou retirées. Simulation = application (4 paire(s)), contrôle REST, brouillon aligné.

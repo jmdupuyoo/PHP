@@ -31,3 +31,5 @@
 
 - 24/10/2026 (CYC20) : lien vers *Cycas orientis* EN 30745 posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
 - 24/10/2026 (retouche 0b avant ZAM01, signalé lors de CYC25) : « Further reading » : article EN 16530 (méthode Simon Lavaud) ajouté en tête, présenté selon l'article recalé (article général ; *arnhemica* parmi les plantes greffées proposées, catalogue consulté le 24/10/2026, sans résultat propre ; protocole non publié ; cite la note de 2021 utilisée dans la page) ; il remplace le guide général « Cycad Care » pour rester à 3 liens, comme les autres fiches EN de Cycas australiens ; 1 remplacement (simulation puis application) ; brouillon aligné. Aucun lien interne posé dans le corps (règle : liens internes du corps sur les noms scientifiques seulement).
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : Q42 (définitive) : consignes générales de la note Lavaud 2021 (arrosage, substrat, lumière) retirées ; données propres à l'espèce gardées, attribuées ; annotation de source alignée. Simulation = application (2 paire(s)), contrôle REST, brouillon aligné.

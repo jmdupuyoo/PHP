@@ -41,3 +41,5 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 ## Points à valider par le propriétaire
 1. Le protologue indique un sarcotesta de « 40-50 mm » d'épaisseur (coquille évidente, la graine mesurant 33-38 mm) : valeur non reprise.
 2. Nom absent de Species+ : protection CITES par l'inscription de la famille (même formulation que pour les autres espèces récentes).
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : graines : 33-38 mm de long et 35-39 mm de diamètre (protologue, comme l'EN et l'ES). Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

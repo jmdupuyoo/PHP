@@ -31,3 +31,5 @@
 
 ## Points douteux
 - Liste rouge non consultée directement ; périmètre de l’évaluation CR (Sri Lanka seul ou aussi Andaman) inconnu ; « 2005 tsunami » dans Telopea ; clé de Singh & Misra 2020 non lue ; Novon 2002 non consulté.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : notes de recherche des jardins (« catalogues checked in October 2026 », « Trebrown has no page for it ») reformulées ou retirées. Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

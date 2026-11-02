@@ -20,3 +20,5 @@
 - Come in FR (descrizione di *C. celebica* sensu dL&A; testi di Keppel e Hill non letti integralmente).
 
 - 21/10/2026 (ritocco 0b, prima di CYC13): sezione Tossicità armonizzata (catena cicasina → metilazossimetanolo, BMAA aggiunta; mancava: metilazossimetanolo) con replace_in_content mirato (simulazione 1, applicazione 1); bozza allineata.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : annotation bibliographique « résumé / riassunto » (note de lecture) retirée. Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

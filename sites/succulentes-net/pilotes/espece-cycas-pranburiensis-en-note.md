@@ -32,3 +32,5 @@
 - Ajouts possibles : type Kerr 10972 (1926) et sa citation sous *C. circinalis* par Smitinand 1971 ; BGCI.
 
 - 24/10/2026 (CYC24) : lien vers *Cycas tansachana* EN 31017 posé (1 remplacement simulé puis appliqué).
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : note de travail retirée ou reformulée : « (“Focus on Cycas pranburiensis”), which could not be consulted. » ; critères/menaces Liste rouge « could not be checked/read » → « these data do not give… » ; annotation « criteria not checked » retirée. Simulation = application (3 paire(s)), contrôle REST, brouillon aligné.

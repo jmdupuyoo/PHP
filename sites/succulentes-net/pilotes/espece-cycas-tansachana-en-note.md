@@ -30,3 +30,5 @@
 
 ## FR/IT
 - Rien à reprendre (FR et IT saines). Facultatif : jardins BGCI hors Italie/France ; nom commercial Trebrown.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : note de travail retirée ou reformulée : « (Tang 1999), which could not be consulted. ». Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

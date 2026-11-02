@@ -45,3 +45,5 @@
 - Identifiant UICN : deux DOI 2022 coexistent.
 
 - 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : annotation bibliographique « résumé / riassunto » (note de lecture) retirée. Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

@@ -60,3 +60,5 @@ Aucune page dans aucune langue : pas de fiche EN à corriger.
 - SEO : titre « Cycas vespertilio : le cycas aux mégasporophylles ailés » (au lieu de « le cycas chauve-souris », nom français non attesté) ; meta inchangée (125).
 - Contrôles : verify.py texte identique au brouillon, 14 liens internes en 200, page 200, aucun commentaire de bloc visible, blocs 98/98, hreflang fr + it.
 - Index de la page genre 1256 : « Philippines ; vulnérable (VU, année non indiquée) » → « Philippines (Visayas et sud de Luçon, aussi Mindoro et Marinduque) ; vulnérable (VU, 2023) ».
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : annotation bibliographique « résumé / riassunto » (note de lecture) retirée. Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

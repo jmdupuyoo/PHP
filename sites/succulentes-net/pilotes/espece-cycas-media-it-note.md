@@ -44,3 +44,5 @@ Page : https://succulentes.net/it/piante/cycadales/cycas/media/ — parent 11549
 - Messine : présence actuelle non vérifiée ; pleine terre ou pot inconnu.
 - Liste rouge UICN non consultée directement (Cloudflare, non contourné) ; catégorie LC par GBIF et Crossref, comme en FR.
 - 24/10/2026 (retouche 0d avant CYC24) : « À lire aussi » / « Leggi anche », article Lavaud : formule « comment Lavaud les greffe » (protocole non publié) remplacée par une présentation fidèle de l'article recalé (article général sur les Cycas australiens et la greffe sur porte-greffe de Cycas revoluta ; plantes greffées proposées ; protocole non publié) ; « candidats à de futurs essais de greffe » (retiré de l'article) → classement « moyenne » de la note 2021 ; 3 remplacement(s) simulé(s) puis appliqué(s).
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : Q42 (définitive) : consignes générales de la note Lavaud 2021 (arrosage, substrat, lumière) retirées ; données propres à l'espèce gardées, attribuées ; annotation de source alignée. Simulation = application (2 paire(s)), contrôle REST, brouillon aligné.

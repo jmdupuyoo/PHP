@@ -28,3 +28,5 @@
 
 ## FR/IT
 - Rien à reprendre (FR réécrite le 17/10 ; IT cohérente). Facultatif : jardins BGCI (aucun en France ni en Italie ; Marimurtra en Espagne).
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : notes de recherche des jardins (« catalogues checked in October 2026 », « Trebrown has no page for it ») reformulées ou retirées. Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

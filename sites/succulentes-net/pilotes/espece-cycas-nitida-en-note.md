@@ -27,3 +27,5 @@
 - 24/10/2026 (CYC24) : lien vers *Cycas vespertilio* EN 31043 posé (1 remplacement simulé puis appliqué).
 
 - Retouche 24/10/2026 (0c avant ZAM05) : note de travail visible retirée du texte en ligne (renvoi à la fiche d’une autre langue ou d’une autre espèce comme origine de la consultation : « for the French page », « lors de la rédaction de la fiche italienne », « repris de la fiche … », etc.) ; replace_in_content, simulation puis application ; brouillon aligné.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : note de travail retirée ou reformulée : « No container-growing report has been published: searches of the French forum Fous de palmi ». Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

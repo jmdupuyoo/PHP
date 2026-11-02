@@ -36,3 +36,5 @@
 - Inchangés : toxicité (formulation existante), Lavaud (espèce de PNG seulement : aucun lien), In Italia, SEO (titre 54, meta 154, toujours exacts).
 - Index genre IT 11549 : « Papua Nuova Guinea; quasi minacciata (NT, 2010) » → « Papua Nuova Guinea (Madang, Morobe, Altopiani Orientali); Indonesia secondo Species+, non confermata; quasi minacciata (NT, 2023) » (simulation 1 puis application 1), aligné sur l'index FR 1256 ; brouillon genre aligné.
 - Contrôles : verify.py (texte identique, 11 liens internes en 200, blocs 96/96, hreflang fr/it, aucun commentaire visible, aucun lien FR) ; User-Agent curl et Chrome : 200, `<title>` « Cycas schumanniana: la cicadea delle praterie di Papua », nouveau texte servi.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : grainetier anonyme non sourcé retiré (non identifiable dans les notes). Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

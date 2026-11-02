@@ -39,3 +39,5 @@
 - replace_in_content : simulation puis application, 7 remplacement(s) ; brouillon aligné.
 
 - 01/11/2026 (décision du propriétaire Q41, greffe → Simon Lavaud nommé, formule « Simon Lavaud, a French nurseryman specialising in cycads », lien vers l'article EN 16530) : intro (pépinière anonyme → Simon Lavaud, formule, lien), « In short » (nurseryman anonyme → Simon Lavaud, lien), Growing (lien), Propagation (nom + lien), Pests (lien), Cold hardiness (lien), FAQ (formule + lien) ; replace_in_content simulé (7) puis appliqué (7) ; contrôle REST (texte identique, liens identiques) ; brouillon aligné.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : Q42 (définitive) : consignes générales de la note Lavaud 2021 (arrosage, substrat, lumière) retirées ; données propres à l'espèce gardées, attribuées ; annotation de source alignée. Simulation = application (3 paire(s)), contrôle REST, brouillon aligné.

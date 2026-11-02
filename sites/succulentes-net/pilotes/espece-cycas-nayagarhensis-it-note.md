@@ -28,3 +28,5 @@
 - Sarcotesta « 40-50 mm » du protologue non repris (coquille évidente). POWO et Liste rouge non consultés (Cloudflare).
 
 - 13/10/2026 (lot orixensis–petraea) : lien(s) posé(s) vers *Cycas orixensis* (28774) à la première occurrence hors intro/encadré/titres/fonti (replace_in_content ciblé, dry run puis application) ; brouillon aligné (verify.py 0 bloc manquant).
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : graines : 33-38 mm de long et 35-39 mm de diamètre (protologue, comme l'EN et l'ES). Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

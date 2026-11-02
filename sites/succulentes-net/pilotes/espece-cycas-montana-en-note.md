@@ -23,3 +23,5 @@
 - Lien sortant vers *Cycas scratchleyana* EN 30858 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).
 
 - 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sundaica* 30940 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : note de travail retirée ou reformulée : « has been published. Searches of the French forum Fous de palmiers and the Italian forum Tr » ; note de travail retirée ou reformulée : « ; their nature (cultivated plants or mislabelled records) was not checked. ». Simulation = application (2 paire(s)), contrôle REST, brouillon aligné.

@@ -25,3 +25,5 @@
 - 24/10/2026 (CYC20) : lien vers *Cycas pachypoda* EN 30759 posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
 
 - 24/10/2026 (CYC20) : lien vers *Cycas petraea* EN 30777 posé sur la première occurrence dans le corps du texte (replace_in_content, simulation 1, application 1) ; brouillon aligné.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : note de travail retirée ou reformulée : « , and its position in phylogenetic analyses has not been checked. ». Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.

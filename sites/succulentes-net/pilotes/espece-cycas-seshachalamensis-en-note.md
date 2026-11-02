@@ -34,3 +34,5 @@
 - Rien à reprendre (FR/IT fondées sur le protologue). Facultatif : ajouter les valeurs du tableau de comparaison listées ci-dessus.
 
 - 24/10/2026 (CYC23) : lien vers la nouvelle fiche EN *Cycas sphaerica* 30927 posé à la première occurrence hors intro/encadré/titres/sources (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : notes de recherche des jardins (« catalogues checked in October 2026 », « Trebrown has no page for it ») reformulées ou retirées. Simulation = application (3 paire(s)), contrôle REST, brouillon aligné.

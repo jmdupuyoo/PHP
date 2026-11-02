@@ -32,3 +32,5 @@
 - Pépiniéristes nommés (décision du propriétaire du 31/10/2026, question 36) : FAQ greffage : « A French nursery offers… » → « Simon Lavaud, a French nurseryman specialising in cycads (Cycadales.eu, lien https://cycadales.eu/), offers… » (format Q35) ; simulation puis application, contrôle REST, brouillon aligné.
 
 - 01/11/2026 (décision du propriétaire Q41, greffe → Simon Lavaud nommé, formule « Simon Lavaud, a French nurseryman specialising in cycads », lien vers l'article EN 16530) : FAQ greffe (formule déjà présente ; lien ajouté, « (see Further reading) » retiré) ; replace_in_content simulé (1) puis appliqué (1) ; contrôle REST (texte identique, liens identiques) ; brouillon aligné.
+
+- **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : notes de recherche des jardins (« catalogues checked in October 2026 », « Trebrown has no page for it ») reformulées ou retirées. Simulation = application (2 paire(s)), contrôle REST, brouillon aligné.
