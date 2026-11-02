@@ -27,3 +27,5 @@
 - 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
 - 02/11/2026 (lot ZAM-ES15) : lien(s) posé(s) vers *skinneri* ES 39143 (Al aire libre y en pleno suelo) — première occurrence du corps, simulation puis application (replace_in_content ciblé, un lot de 36 pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
 - 02/11/2026 (lot ZAM-ES16) : lien entrant posé vers *stricta* ES 39280 (première mention du corps ; replace_in_content limité aux id, simulation puis application ; brouillon aligné, cmpall identique hors sommaire, liens identiques).
+
+- 02/11/2026 (bilan *Zamia* ES, lot ZAM-ES18) : équivalent °C ajouté à une zone USDA citée sans conversion (« como las zonas USDA 9b a 10 (mínimas medias anuales de −3,9 a 4,4 °C), no se basa… ») ; simulation puis application (1) ; brouillon aligné.

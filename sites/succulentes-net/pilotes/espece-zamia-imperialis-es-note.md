@@ -16,8 +16,9 @@
 - Jardins : BGCI 9 jardins (dont Bochum, Lyon, Prague, d'après la note EN) ; Montgomery 14 accessions ; aucun UK/AU.
 - Localités : provinces seulement ; parc national non nommé (comme l'EN).
 - Divergences exposées : EN 2006 sous *skinneri* / CR proposé en 2008 / EN 2022.
-- Sans page ES (non liés) : *wallisii*.
+- Sans page ES (non liés) : aucune (espèces désormais liées, voir la ligne ZAM-ES18).
 - 02/11/2026 (ZAM-ES11) : lien(s) posé(s) vers *Zamia nesophila* ES 38991 (« …Zamia nesophila (islas de »); *Zamia neurophyllidia* ES 38997 (« …Zamia neurophyllidia, de Nicar »); *Zamia obliqua* ES 39004 (« …bergan también Zamia obliqua »), première occurrence hors introduction, encadré, titres et sources ; « sans page ES » retiré ; replace_in_content limité aux id (simulation groupée 23 remplacements sur 16 pages = attendu, puis application) ; brouillon aligné, cmpall : texte et liens identiques.
 - 02/11/2026 (lot ZAM-ES13) : lien(s) posé(s) vers *Zamia pseudoparasitica* ES 39096 (Confusiones posibles) — première occurrence du corps, simulation puis application (replace_in_content ciblé), brouillon aligné (cmpall : identique) ; « sans page ES » retiré.
 - 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
 - 02/11/2026 (lot ZAM-ES15) : lien(s) posé(s) vers *skinneri* ES 39143 (Hojas y pinnas) — première occurrence du corps, simulation puis application (replace_in_content ciblé, un lot de 36 pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES18) : lien(s) ES entrant(s) posé(s) vers *wallisii* 39393 (Confusiones posibles) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.

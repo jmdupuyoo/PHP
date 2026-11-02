@@ -6,7 +6,7 @@
 - Brouillon `pilotes/espece-zamia-stenophyllidia-es.html` identique au texte en ligne (comparaison stricte : 0 différence hors sommaire). DSL : scratchpad `zes16/stenophyllidia.dsl`.
 - SEO : « Zamia stenophyllidia: rara cícada de Michoacán, México » (54 ; pas de faux nom commun) ; meta 148 ; mot-clé « Zamia stenophyllidia » ; aucun problème ; `<title>` vérifié.
 - Index genre ES 38672 : ligne liée (appel groupé).
-- Liens sortants : genre, *paucijuga* 39068, *herrerae* 38796, *spartea* 39211, *lawsoniana* 38875, *loddigesii* 38947, *restrepoi* 39126, *furfuracea* 38780, « Lee también » (3). Sans page ES : *variegata* (ZAM-ES18), *Dioon stevensonii* (genre *Dioon* ES : 301 vers la FR).
+- Liens sortants : genre, *paucijuga* 39068, *herrerae* 38796, *spartea* 39211, *lawsoniana* 38875, *loddigesii* 38947, *restrepoi* 39126, *furfuracea* 38780, « Lee también » (3). Sans page ES : *Dioon stevensonii* (genre *Dioon* ES : 301 vers la FR).
 - Liens entrants posés (première mention du corps, simulation puis application) : *lawsoniana* 38875, *loddigesii* 38947, *paucijuga* 39068, *spartea* 39211. Aucune fiche ES *Cycas* ne cite l'espèce.
 
 ## Sources et choix
@@ -19,3 +19,4 @@
 - JZT : aucune observation (dit). FAQ : 7 questions. ≈ 2 560 mots avant les sources.
 - Divergence exposée : altitude 450-600 m (texte de 2024) / spécimen à 675 m.
 - Sources non relues le 02/11 : Crossref, Acta Bot. Mex. 2024, Lindstrom, BGCI, Montgomery (lectures EN/FR des 03-25/10). POWO, Liste rouge UICN : non retentés. Forums ES : rien de connu.
+- 02/11/2026 (lot ZAM-ES18) : lien(s) ES entrant(s) posé(s) vers *variegata* 39345 (Confusiones posibles) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.

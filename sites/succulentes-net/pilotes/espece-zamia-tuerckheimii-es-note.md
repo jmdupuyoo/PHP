@@ -6,7 +6,7 @@
 - Brouillon `pilotes/espece-zamia-tuerckheimii-es.html` identique au texte en ligne (verify : seul le sommaire diffère ; 15 liens identiques). DSL : `zes17/tuerckheimii.dsl`.
 - SEO : « Zamia tuerckheimii: cícada de los acantilados de Guatemala » (58) ; meta 154 ; mot-clé « Zamia tuerckheimii » ; aucun problème ; `<title>` vérifié. Rank Math : 5225 mots.
 - Index genre ES 38672 : ligne liée (simulation 1 puis application 1) ; brouillon genre aligné.
-- Liens sortants : genre, *meermanii* 38961, *standleyi* 39265 (lot parallèle ZAM-ES16, page publiée pendant ce lot, 200), *decumbens* 38764, *onan-reyesii* 39032, *monticola* 38994, *soconuscensis* 39209, *inermis* 38873, *acuminata* 38693, *restrepoi* 39126, *integrifolia* 38918, *furfuracea* 38780, « Lee también » (3). **Sans page ES : *variegata*** (Confusiones posibles) → lot ZAM-ES18 ; *Ceratozamia hondurensis* (pas de pages ES *Ceratozamia*).
+- Liens sortants : genre, *meermanii* 38961, *standleyi* 39265 (lot parallèle ZAM-ES16, page publiée pendant ce lot, 200), *decumbens* 38764, *onan-reyesii* 39032, *monticola* 38994, *soconuscensis* 39209, *inermis* 38873, *acuminata* 38693, *restrepoi* 39126, *integrifolia* 38918, *furfuracea* 38780, « Lee también » (3). *variegata* (Confusiones posibles) liée par ZAM-ES18 (39345) ; sans page ES : *Ceratozamia hondurensis* (pas de pages ES *Ceratozamia*).
 - Liens entrants posés (lot ZAM-ES17) : *decumbens* 38764, *elegantissima* 38730, *inermis* 38873, *monticola* 38994, *onan-reyesii* 39032, *soconuscensis* 39209, *standleyi* 39265 (lot parallèle ZAM-ES16 ; sa note `-es-note.md` n'existait pas encore : à mentionner par ZAM-ES16).
 
 ## Sources et choix
@@ -20,3 +20,4 @@
 - Non repris de l'EN : « reference checked on Crossref ; category not verified » (bibliographie).
 - FAQ : 8 questions.
 - Sources non relues le 02/11 (lectures EN/FR du 25/10) : protologue (cycad.org), Calonje 2009, Nicolalde-Morejón 2011, Lindstrom 2024, Vannini 2019, WLoC, BGCI, Montgomery, Garden Explorer, Trebrown ; Lavaud 2023 d'après `zes09/lavaud.txt`. POWO, Liste rouge UICN : non retentés. Forums ES : rien de connu.
+- 02/11/2026 (lot ZAM-ES18) : lien(s) ES entrant(s) posé(s) vers *variegata* 39345 (Confusiones posibles) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.

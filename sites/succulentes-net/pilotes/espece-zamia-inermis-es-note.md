@@ -15,9 +15,10 @@
 - Rusticité : Jungle Music −7 à −4 °C (« mid to low twenties F », estimation commerciale) / Trebrown 10a (−1,1 à 1,7 °C) : divergence exposée ; °C seulement.
 - Corrections par rapport à l'EN : « The same authors estimate… 300 to 700 » rattaché explicitement à Octavio-Aguilar et al. 2017 (Cuadernos, d'après la note EN) au lieu de Gómez Díaz.
 - JZT : rien de publié (dit). Toxicité : formule imposée, BMAA attribuée à l'ASPCA (Q15).
-- Sans page ES (non liés) : *vazquezii*.
+- Sans page ES (non liés) : aucune (espèces désormais liées, voir la ligne ZAM-ES18).
 
 - 02/11/2026 (ZAM-ES08) : lien vers *Zamia loddigesii* ES 38947 posé (Confusiones posibles, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.
 - 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
 - 02/11/2026 (lot ZAM-ES15) : lien(s) posé(s) vers *soconuscensis* ES 39209 (Cómo reconocer Zamia inermis) — première occurrence du corps, simulation puis application (replace_in_content ciblé, un lot de 36 pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
 - 02/11/2026 (lot ZAM-ES17) : lien(s) ES entrant(s) posé(s) vers *tuerckheimii* 39277 (Cómo reconocer Zamia inermis) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.
+- 02/11/2026 (lot ZAM-ES18) : lien(s) ES entrant(s) posé(s) vers *vazquezii* 39347 (Híbridos) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.

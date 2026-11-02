@@ -6,7 +6,7 @@
 - Brouillon `pilotes/espece-zamia-tolimensis-es.html` identique au texte en ligne (verify : seul le sommaire diffère ; 12 liens identiques). DSL : `zes17/tolimensis.dsl`.
 - SEO : « Zamia tolimensis: palma de yuca, cícada gigante del Tolima » (58 ; nom espagnol attesté « palma de yuca », plan d'action colombien 2015) ; meta 151 ; mot-clé « Zamia tolimensis » ; aucun problème ; `<title>` vérifié. Rank Math : 4749 mots.
 - Index genre ES 38672 : ligne liée (simulation 1 puis application 1) ; brouillon genre aligné.
-- Liens sortants : genre, *huilensis* 38803, *lindenii* 38926, *poeppigiana* 39074, *incognita* 38851, *encephalartoides* 38761, *montana* 38988, *restrepoi* 39126, *furfuracea* 38780, « Lee también » (3). **Sans page ES : *wallisii*** (En la naturaleza) → lot ZAM-ES18.
+- Liens sortants : genre, *huilensis* 38803, *lindenii* 38926, *poeppigiana* 39074, *incognita* 38851, *encephalartoides* 38761, *montana* 38988, *restrepoi* 39126, *furfuracea* 38780, « Lee también » (3). *wallisii* (En la naturaleza) liée par ZAM-ES18 (39393).
 - Liens entrants posés (lot ZAM-ES17) : *encephalartoides* 38761, *huilensis* 38803, *lindenii* 38926, *poeppigiana* 39074.
 
 ## Sources et choix
@@ -21,3 +21,4 @@
 - Non repris de l'EN : « reference checked on Crossref, category confirmed by GBIF » (devenu « categoría confirmada por GBIF »).
 - FAQ : 8 questions.
 - Sources non relues le 02/11 (lectures EN/FR des 10-25/10) : protologue, Caldasia 2012, plan colombien, WLoC, BGCI, Montgomery, Lindstrom 2024 ; Lavaud 2023 d'après `zes09/lavaud.txt`. POWO, Liste rouge UICN : non retentés. Forums ES : rien de connu.
+- 02/11/2026 (lot ZAM-ES18) : lien(s) ES entrant(s) posé(s) vers *wallisii* 39393 (En la naturaleza) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.

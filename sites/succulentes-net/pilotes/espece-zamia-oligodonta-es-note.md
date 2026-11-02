@@ -7,7 +7,7 @@
 - SEO Rank Math : « Zamia oligodonta: cícada en peligro crítico de Risaralda » (56) ; meta 149 car. ; mot-clé « Zamia oligodonta » ; aucun problème ; `<title>` vérifié.
 - Index genre ES 38672 : ligne liée (« <li><em>Zamia oligodonta</em> E.Calderón », 1) ; brouillon genre aligné.
 - Liens entrants posés (simulation groupée puis application, 1 chacun) : *amplifolia* 38699 (Cómo reconocer, « original de … (2003) »), *dressleri* 38718 (Taxonomía), *gentryi* 38800 (Lugar en el género), *lindleyi* 38934 (Cultivo). *montana* 38988 : lien posé par le lot parallèle ZAM-ES10.
-- Liens sortants : genre, *montana* 38988 (ZAM-ES10), *amplifolia*, *cunaria*, *amazonum*, *dressleri*, *neurophyllidia* 38997, *furfuracea*, « Lee también » (2). Sans page ES : *wallisii*.
+- Liens sortants : genre, *montana* 38988 (ZAM-ES10), *amplifolia*, *cunaria*, *amazonum*, *dressleri*, *neurophyllidia* 38997, *furfuracea*, « Lee también » (2). Sans page ES : aucune (espèces désormais liées, voir la ligne ZAM-ES18).
 
 ## Sources et choix
 - Base : EN 20447 (24/10 ; protologue Calderón-Sáenz & Stevenson 2003, révision Calonje et al. 2015 via Plazi, WLoC, BGCI, Montgomery, Lavaud 2023) et FR 22321, et leurs notes.
@@ -18,3 +18,4 @@
 - Toxicité : formule imposée, BMAA attribuée à l'ASPCA. FAQ : 6 questions.
 - 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *purpurea* ES 39129 (Confusiones posibles), *restrepoi* ES 39126 (Estado de conservación y normativa), *roezlii* ES 39140 (Confusiones posibles) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
 - 02/11/2026 (lot ZAM-ES15) : lien(s) posé(s) vers *skinneri* ES 39143 (Confusiones posibles) — première occurrence du corps, simulation puis application (replace_in_content ciblé, un lot de 36 pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES18) : lien(s) ES entrant(s) posé(s) vers *wallisii* 39393 (Confusiones posibles) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.

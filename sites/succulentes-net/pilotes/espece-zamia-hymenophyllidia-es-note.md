@@ -22,3 +22,5 @@
 - 02/11/2026 (lot ZAM-ES12) : lien entrant posé vers *poeppigiana* 39074 (Taxonomía) (replace_in_content, simulation groupée 21 puis application 21, chaîne unique) ; brouillon aligné ; « sans page ES » mis à jour.
 - 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
 - 02/11/2026 (lot ZAM-ES17) : lien(s) ES entrant(s) posé(s) vers *ulei* 39255 (Taxonomía) ; *urarinorum* 39261 (Confusiones posibles) ; *urep* 39258 (Confusiones posibles) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.
+
+- 02/11/2026 (bilan *Zamia* ES, lot ZAM-ES18) : équivalent °C ajouté à une zone USDA citée sans conversion (« con la zona de rusticidad USDA 10a (mínima media anual de −1,1 a 1,7 °C), una clasificación comercial sin base… ») ; simulation puis application (1) ; brouillon aligné.
