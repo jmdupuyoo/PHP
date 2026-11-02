@@ -14,5 +14,6 @@
 - *Encephalartos horridus* : pas de page ES (404) → non lié (lié en EN).
 - Toxicité : formule imposée ; BMAA attribuée à l'ASPCA. *Aulacaspis yasumatsui* : EPPO (genre *Zamia* hôte).
 - FAQ : 8 questions.
-- Liens internes ES (200) : genre, *acuminata* 38693, *cunaria* 38733, *ipetiensis* 38840, *dressleri* 38718, *furfuracea* 38780 ; « Lee también » 23153, 23195, cochinilla-cycas. Sans page ES : *pseudoparasitica*, *stevensonii*, *restrepoi*, *Encephalartos horridus*.
+- Liens internes ES (200) : genre, *acuminata* 38693, *cunaria* 38733, *ipetiensis* 38840, *dressleri* 38718, *furfuracea* 38780 ; « Lee también » 23153, 23195, cochinilla-cycas. Sans page ES : *stevensonii*, *restrepoi*, *Encephalartos horridus*.
 - Liens entrants posés le 02/11/2026 (simulation groupée 17 = attendu) : *acuminata* 38693 (Confusiones posibles), *obliqua* 39004 (lot parallèle ZAM-ES11, En la naturaleza ; brouillon `espece-zamia-obliqua-es.html` aligné ; sa note n'existait pas encore). Page genre : ligne d'index seule liée.
+- 02/11/2026 (lot ZAM-ES13) : lien(s) posé(s) vers *Zamia pseudoparasitica* ES 39096 (Lugar en el género) — première occurrence du corps, simulation puis application (replace_in_content ciblé), brouillon aligné (cmpall : identique) ; « sans page ES » retiré.

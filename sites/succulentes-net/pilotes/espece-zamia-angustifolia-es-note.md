@@ -12,7 +12,7 @@
 - Noms communs : *Eleuthera coontie* (Leon Levy) ; noms espagnols cubains « yuquilla de ratón », « guayacancillo », « camarón guayaru » d'après LLIFLE seul, donnés avec réserve (comme l'EN).
 - Cadre international : « In cultivation in the UK, US and Australia » → « En jardines botánicos » (Italie et Bahamas en points séparés) ; FAQ « In the UK, a heated glasshouse… » → formulation générale.
 - Notes de travail EN non reprises : « rest on no identifiable source and are not repeated here », « is not adopted here » (reformulés sans la note) ; « reference taken from The World List of Cycads and Crossref ». Retiré à la rédaction : « ni en España » (aucune recherche espagnole documentée).
-- Liens internes ES (200) : genre (intro), « Lee también » semis 23153, arrosage 23175, toxicité 23195. Sans page ES : *integrifolia*, *pumila*, *portoricensis*, *stricta*, *furfuracea*, *skinneri*, *restrepoi*. Aucune page ES ne cite l'espèce (hors page genre).
+- Liens internes ES (200) : genre (intro), « Lee también » semis 23153, arrosage 23175, toxicité 23195. Sans page ES : *integrifolia*, *stricta*, *furfuracea*, *skinneri*, *restrepoi*. Aucune page ES ne cite l'espèce (hors page genre).
 - Points douteux (repris EN) : unité de la longueur de la tige (Leon Levy) ; identité des plantes cubaines ; remarques contradictoires du catalogue de Montgomery ; noms cubains (LLIFLE seul) ; protologue (Jacquin 1791) non lu ; POWO et Liste rouge non consultés directement.
 - 02/11/2026 (lot ZAM-ES03) : lien vers *Zamia erosa* ES 38773 posé (Confusiones posibles, « Zamia portoricensis o Zamia erosa, tienen pinnas más anchas » ; simulation puis application, 1 remplacement) ; brouillon aligné (cmpall : liens identiques) ; DSL `zes01/angustifolia.dsl` mis à jour. *erosa* retirée de la liste « sans page ES ».
 
@@ -23,3 +23,4 @@
 - 02/11/2026 (ZAM-ES08) : lien vers *Zamia loddigesii* ES 38947 posé (Cultivo de Zamia angustifolia, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.
 
 - 02/11/2026 (ZAM-ES08) : lien vers *Zamia lucayana* ES 38958 posé (Confusiones posibles, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.
+- 02/11/2026 (lot ZAM-ES13) : lien(s) posé(s) vers *Zamia portoricensis* ES 39056 (Confusiones posibles) ; *Zamia pumila* ES 39099 (Confusiones posibles) — première occurrence du corps, simulation puis application (replace_in_content ciblé), brouillon aligné (cmpall : identique) ; « sans page ES » retiré.

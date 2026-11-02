@@ -16,5 +16,6 @@
 - Jardins : BGCI 9 jardins (dont Bochum, Lyon, Prague, d'après la note EN) ; Montgomery 14 accessions ; aucun UK/AU.
 - Localités : provinces seulement ; parc national non nommé (comme l'EN).
 - Divergences exposées : EN 2006 sous *skinneri* / CR proposé en 2008 / EN 2022.
-- Sans page ES (non liés) : *skinneri*, *pseudoparasitica*, *wallisii*, *restrepoi*.
+- Sans page ES (non liés) : *skinneri*, *wallisii*, *restrepoi*.
 - 02/11/2026 (ZAM-ES11) : lien(s) posé(s) vers *Zamia nesophila* ES 38991 (« …Zamia nesophila (islas de »); *Zamia neurophyllidia* ES 38997 (« …Zamia neurophyllidia, de Nicar »); *Zamia obliqua* ES 39004 (« …bergan también Zamia obliqua »), première occurrence hors introduction, encadré, titres et sources ; « sans page ES » retiré ; replace_in_content limité aux id (simulation groupée 23 remplacements sur 16 pages = attendu, puis application) ; brouillon aligné, cmpall : texte et liens identiques.
+- 02/11/2026 (lot ZAM-ES13) : lien(s) posé(s) vers *Zamia pseudoparasitica* ES 39096 (Confusiones posibles) — première occurrence du corps, simulation puis application (replace_in_content ciblé), brouillon aligné (cmpall : identique) ; « sans page ES » retiré.

@@ -13,3 +13,4 @@
 - Liens (200) : intro → guía ES ; genre *Cycas* 23432 ; fiches ES *debaoensis* 24530, *revoluta* 24488, *beddomei* 24555 ; articles ES toxicité, jardins italiens (27314), greffe Lavaud.
 - Sources inaccessibles aux robots (non contournées, citées comme bases officielles) : POWO, Liste rouge UICN, cites.org (403) ; Wikipédia ES (429) non utilisée ; DLE (403).
 - 02/11/2026 (page genre *Zamia* ES) : ligne *Zamia* de l'index des genres liée vers la page genre ES 38672 (replace_in_content limité à l'id 23482, simulation 1 / application 1) ; brouillon aligné (cmpall : texte identique hors sommaire, 9 liens identiques).
+- 02/11/2026 (lot ZAM-ES13) : lien(s) posé(s) vers *Zamia pumila* ES 39099 (Familia Zamiaceae) — première occurrence du corps, simulation puis application (replace_in_content ciblé), brouillon aligné (cmpall : identique) ; « sans page ES » retiré.
