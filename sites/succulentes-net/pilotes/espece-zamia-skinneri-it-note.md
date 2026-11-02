@@ -54,3 +54,5 @@
 - Encadré, statut (EN 2022), SEO : inchangés. Index de la page genre IT 11879 : ligne conforme (non modifiée).
 - Contrôles (verify.py) : texte en ligne identique au brouillon, 16 liens identiques, liens internes IT tous en 200, URL 200, aucun commentaire de bloc visible, 127/127 blocs, hreflang fr/it/en. ≈ 3 800 mots.
 - Hors lot : *Zamia obliqua* toujours sans page IT (404) → laissée sans lien.
+
+- Retouche du 02/11/2026 (question 47, localités de *Zamia hamannii*, espèce VU) : dans la liste des espèces du groupe, île nommée remplacée par « di un'isola al largo di Bocas del Toro » (1 remplacement, simulation puis application ; brouillon aligné ; contrôle REST).

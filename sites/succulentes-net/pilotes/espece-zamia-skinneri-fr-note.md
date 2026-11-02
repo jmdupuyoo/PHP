@@ -12,3 +12,5 @@
 - SEO Rank Math (vide auparavant) : titre « Zamia skinneri : la cycadale à folioles plissées du Panama » (58 car.) ; meta 154 car. ; mot-clé `Zamia skinneri`.
 - Vérifications : URL 200 ; aucun commentaire de bloc visible ; 123 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-zamia-skinneri-fr.html` (hors sommaire automatique), même séquence de liens ; liens internes en 200.
 - Points douteux : autorité (« Warsz. » selon WLoC, « Warsz. ex A.Dietr. » selon Taylor et Species+) ; écart entre NT proposé en 2008 et EN 2022 (évaluation non lue) ; répartition au sens large de Species+ ; populations costariciennes non attribuées ; Holzman 2009 et Haynes 2009 non consultés ; fiche EN 20387 non vérifiée (probablement fondée sur l'ancienne FR).
+
+- Retouche du 02/11/2026 (question 47, localités de *Zamia hamannii*, espèce VU) : dans la liste des espèces du groupe, île nommée remplacée par « d'une île au large de Bocas del Toro » (1 remplacement, simulation puis application ; brouillon aligné ; contrôle REST).

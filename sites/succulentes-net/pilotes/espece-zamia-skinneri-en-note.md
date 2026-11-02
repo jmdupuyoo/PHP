@@ -26,3 +26,5 @@
 - Autorité (« Warsz. » WLoC / « Warsz. ex A.Dietr. » Taylor, Species+, GBIF) ; NT proposé en 2008 contre EN 2022 (évaluation non lue) ; abondance : « common and widespread » (Taylor 2008) contre « relatively uncommon in nature » (Vannini 2019), exposé comme divergence ; populations costariciennes non attribuées ; Holzman 2009 non consulté ; identité des plantes déclarées à BGCI.
 - FR/IT : rien à reprendre (ajouts possibles : Vannini 2019, Montgomery 2001-2011, déclarations BGCI).
 - Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia dressleri* EN 31990, sur la première mention sourcée ; simulation puis application (1) ; brouillon aligné.
+
+- Retouche du 02/11/2026 (question 47, localités de *Zamia hamannii*, espèce VU) : dans la liste des espèces du groupe, île nommée remplacée par « from an island off the coast of Bocas del Toro » (1 remplacement, simulation puis application ; brouillon aligné ; contrôle REST).
