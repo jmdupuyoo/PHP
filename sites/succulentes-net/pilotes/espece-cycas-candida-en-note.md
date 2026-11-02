@@ -32,3 +32,5 @@
 - replace_in_content : simulation puis application, 1 remplacement(s) ; brouillon aligné.
 
 - **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : Q42 (définitive) : consignes générales de la note Lavaud 2021 (arrosage, substrat, lumière) retirées ; données propres à l'espèce gardées, attribuées ; annotation de source alignée. Simulation = application (2 paire(s)), contrôle REST, brouillon aligné.
+
+- **02/11/2026 — nom anglais Species+ (décision du propriétaire, Q45)** : Species+ (API publique, taxon 25130, relue le 02/11/2026 ; convention_language) donne le nom anglais « White seed sago » ; ajouté, attribué à Species+, dans l'encadré, la section des noms communs et la ligne de source Species+ (date de consultation ajoutée), à la place de « aucun nom attesté », comme dans l'ES 37417. Pas de nom commun « officiel », titre SEO inchangé. replace_in_content : simulation 3 / application 3 ; REST vérifié ; brouillon aligné.

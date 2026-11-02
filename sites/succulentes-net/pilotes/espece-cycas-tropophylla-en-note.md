@@ -30,3 +30,5 @@
 - Rien à reprendre (FR réécrite le 17/10 ; IT cohérente). Facultatif : jardins BGCI (aucun en France ni en Italie ; Marimurtra en Espagne).
 
 - **02/11/2026 — nettoyage résiduel Cycas EN/FR/IT (après lots ES)** : notes de recherche des jardins (« catalogues checked in October 2026 », « Trebrown has no page for it ») reformulées ou retirées. Simulation = application (1 paire(s)), contrôle REST, brouillon aligné.
+
+- **02/11/2026 — nom anglais Species+ (décision du propriétaire, Q45)** : Species+ (API publique, taxon 21918, relue le 02/11/2026 ; convention_language) donne le nom anglais « Ha long cycad » ; ajouté, attribué à Species+, dans l'encadré, la section des noms communs et la ligne de source Species+ (date de consultation ajoutée), à la place de « aucun nom attesté », comme dans l'ES 24578. Pas de nom commun « officiel », titre SEO inchangé. replace_in_content : simulation 3 / application 3 ; REST vérifié ; brouillon aligné.

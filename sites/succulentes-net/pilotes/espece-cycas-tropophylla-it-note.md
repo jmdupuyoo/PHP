@@ -31,3 +31,5 @@
 
 ## Points douteux
 - Nom de l'auteur (Lôc / Phan) ; avis « pas en danger » du collectionneur (2010) contredit par l'UICN, présenté comme opinion personnelle.
+
+- **02/11/2026 — nom anglais Species+ (décision du propriétaire, Q45)** : Species+ (API publique, taxon 21918, relue le 02/11/2026 ; convention_language) donne le nom anglais « Ha long cycad » ; ajouté, attribué à Species+, dans l'encadré, la section des noms communs et la ligne de source Species+ (date de consultation ajoutée), à la place de « aucun nom attesté », comme dans l'ES 24578. Pas de nom commun « officiel », titre SEO inchangé. replace_in_content : simulation 3 / application 3 ; REST vérifié ; brouillon aligné.
