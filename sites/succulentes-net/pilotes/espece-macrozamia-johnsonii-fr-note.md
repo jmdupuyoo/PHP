@@ -88,3 +88,5 @@ Mentions (non chiffrées) : classement d'Ironmonger relayé (t=17538 #p323061) ;
 ## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
 
 - Q6 : nom du pépiniériste australien (Bruce Ironmonger) retiré du classement de rusticité relayé sur Fous de palmiers (#p323061) ; le fait reste attribué à « un spécialiste australien des cycadales ». 1 remplacement, brouillon aligné, REST identique. La référence bibliographique Ironmonger & Ironmonger (2003, *Cycad Newsletter*, citée par WLoC), qui est une publication, n'a pas été touchée.
+
+- 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « « CYCADALES EN EUROPE » et « …par <pseudonyme> » : » → « « CYCADALES EN EUROPE » et un fil de 2013 sur la germination de graines de Zamia : » (page 26275, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).

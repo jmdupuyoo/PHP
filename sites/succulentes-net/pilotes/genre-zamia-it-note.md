@@ -37,3 +37,5 @@
 ## Ritocco del 25/10/2026 (0a prima di ZAM07)
 - Paragrafo Usi: «glicosidi tossici (cicasina, macrozamina), da cui deriva il metilazossimetanolo» (il metilazossimetanolo non è più elencato tra i glicosidi); nota di lavoro «questo uso non è stato verificato nella fonte originale» tolta (Schultes e Raffauf 1990 attribuito come citato dalla Gymnosperm Database). Simulazione poi applicazione, 1 sostituzione; bozza allineata.
 - Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 11879 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
+
+- 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « «Photos de l'hiver 09/10 chez <pseudonyme>» » → « una discussione di foto dell'inverno 2009-2010 » (page 11879, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).

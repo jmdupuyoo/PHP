@@ -16,3 +16,5 @@
 - Côte Bleue : température subie inconnue (Marignane −3,0 °C, station non côtière) ; Grèce : seconde main.
 - « chemical differences » (séparation de *skinneri*) d'après le résumé d'Acuña 2010 cité par la FR, non relu.
 - Montgomery : accessions antérieures à la description (2001) ; numéro 9643 (*aff.*) sans année lisible.
+
+- 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « thread “…par <pseudonyme>” (2013-2016): » → « thread from 2013 to 2016 on the germination of Zamia seeds: » (page 32291, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).

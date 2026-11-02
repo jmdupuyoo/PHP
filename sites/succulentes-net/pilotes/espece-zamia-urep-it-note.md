@@ -25,3 +25,5 @@
 
 - Ritocco 25/10/2026 (lotto ZAM18, creazione EN 34430): note di lavoro visibili rimosse (3 sostituzioni: «non è stata consultata qui alcuna analisi genetica», «il dettaglio delle minacce non è stato letto», «che abbiamo potuto consultare»); simulazione poi applicazione; bozza allineata.
 - Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 28430 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
+
+- 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « e «…par <pseudonyme>»: » → « e una discussione del 2013 sulla germinazione di semi di Zamia: » (page 28430, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).

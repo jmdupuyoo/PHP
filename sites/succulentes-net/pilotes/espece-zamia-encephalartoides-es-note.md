@@ -18,3 +18,5 @@
 - 02/11/2026 (lot ZAM-ES05) : lien entrant posé vers *huilensis* 38803 (Taxonomía, groupe de culture de Lavaud 2023, seule occurrence ; replace_in_content limité à 38761, simulation 1 puis application 1) ; brouillon aligné par remplacement ciblé (cmpall : identique hors sommaire).
 
 - 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
+
+- 02/11/2026 (ZAM-ES06) : lien vers *Zamia inermis* ES 38873 posé (Cómo reconocer, « La diagnosis latina la compara con Zamia inermis ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques) ; mention « sans page ES » de *Zamia inermis* caduque.

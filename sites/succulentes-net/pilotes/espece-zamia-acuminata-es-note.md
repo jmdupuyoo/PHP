@@ -17,3 +17,5 @@
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu pour l'espèce ; non interrogés (aucune donnée attendue pour une espèce absente du commerce espagnol).
 
 - 02/11/2026 (ZAM-ES04) : liens vers *Zamia fairchildiana* ES 38793 (Confusiones posibles), *Zamia fischeri* ES 38786 (Confusiones, « Zamia vazquezii o Zamia fischeri mexicanas ») et *Zamia furfuracea* ES 38780 (Toxicidad) posés ; 3 remplacements (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
+
+- 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « hilo «…par <pseudonyme>»: » → « hilo de 2013 sobre la germinación de semillas de Zamia: » (page 38693, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).

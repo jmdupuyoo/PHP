@@ -17,3 +17,5 @@
 - 02/11/2026 (lot ZAM-ES03) : lien vers *Zamia erosa* ES 38773 posé (Confusiones posibles, « Zamia portoricensis o Zamia erosa, tienen pinnas más anchas » ; simulation puis application, 1 remplacement) ; brouillon aligné (cmpall : liens identiques) ; DSL `zes01/angustifolia.dsl` mis à jour. *erosa* retirée de la liste « sans page ES ».
 
 - 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Cultivo, première occurrence : « con Zamia furfuracea y Zamia loddigesii ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
+
+- 02/11/2026 (ZAM-ES06) : lien vers *Zamia integrifolia* ES 38918 posé (Cómo reconocer, « los conos femeninos de la cercana Zamia integrifolia ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques) ; mention « sans page ES » de *integrifolia* caduque.

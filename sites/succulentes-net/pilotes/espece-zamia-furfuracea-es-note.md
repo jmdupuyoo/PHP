@@ -19,3 +19,7 @@
 - Divergences exposées : NOM-059 Pr (2014) / P (2025) ; échauffement des cônes 2,5 °C (Salzman 2020) / ≈ 25,6 °C (Harvard Gazette) ; citation d’auteur L.f. (WLoC, IPNI) / « L. f. ex Aiton » (Enciclovida) ; *Zamia vestita*, *Zamia crassifolia* non rattachés.
 - Liens internes ES (200) : genre (intro), *Cycas revoluta* 24488, *Cycas furfuracea* 38068, *Zamia fischeri* 38786 (posé après création, Taxonomía) ; « Lee también » 23175, 23195, 27314. Sans page ES : *integrifolia*, *pumila*, *loddigesii*, *spartea*, *vazquezii*, *inermis*, *restrepoi*, *Dioon spinulosum*.
 - FAQ : 8 questions.
+
+- 02/11/2026 (ZAM-ES06) : lien vers *Zamia inermis* ES 38873 posé (Estado de conservación y normativa, « con Zamia vazquezii y Zamia inermis » (Gómez Díaz 2025)) (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques) ; mention « sans page ES » de *Zamia inermis* caduque.
+
+- 02/11/2026 (ZAM-ES06) : lien vers *Zamia integrifolia* ES 38918 posé (Confusiones posibles, « se confunde a menudo con Zamia integrifolia, la coontie » (première occurrence hors intertitre H3)) (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques) ; mention « sans page ES » de *integrifolia* caduque.

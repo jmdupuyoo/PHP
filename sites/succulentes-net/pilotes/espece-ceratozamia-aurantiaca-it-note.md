@@ -30,3 +30,5 @@
 
 - Complément 11/10/2026 (lot IT sabatoi → zoquorum) : liens ajoutés à la première occurrence hors intro/encadré/titres/Fonti vers *Ceratozamia subroseophylla* 27501, *Ceratozamia whitelockiana* 27534 (replace_in_content ciblé, simulation puis application ; brouillon aligné et recomparé au texte et aux liens en ligne).
 - 30/10/2026 (lot CER01, création de la page EN) : notes de travail retirées (6 remplacements, simulation puis application, brouillon aligné et identique au texte en ligne) : « POWO n'a pas pu être consulté » → WCVP lue sur GBIF ; annotations « consultée directement » retirées ; BMAA retirée de la toxicité (format des genres hors *Cycas*) ; Repères internationaux : extrait de recherche « zone USDA 9b » retiré.
+
+- 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « discussione «…par <pseudonyme>»: » → « discussione del 2014 sulla germinazione di semi di Zamia: » (page 27401, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).

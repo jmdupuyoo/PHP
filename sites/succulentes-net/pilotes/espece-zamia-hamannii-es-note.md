@@ -18,3 +18,5 @@
 - Divergences exposées : répartition (île selon MiAmbiente / péninsule et îlots selon Vannini / protologue sans localités) ; CR proposé en 2008 / VU en 2022 ; aucun prélèvement constaté en 2008 / saisie de 2022.
 
 - 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
+
+- 02/11/2026 (ZAM-ES06) : lien vers *Zamia imperialis* ES 38863 posé (Cómo reconocer, « a diferencia de muchas Zamia imperialis (Vannini, 2019) ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné) ; mention « sans page ES » de *imperialis* caduque.

@@ -1,0 +1,17 @@
+# Note — *Zamia lawsoniana* (ES 38875), https://succulentes.net/es/orden-cycadales/zamia/lawsoniana/
+
+## Création du 02/11/2026 (lot ZAM-ES07, mode C)
+- Avant création : aucune page ES (list_content ES tous statuts « Zamia » : aucune fiche du lot ; corbeille « Zamia » vide ; aucune redirection ; hreflang de l'EN 32150 : fr 26501, it 28113, en seulement ; /es/orden-cycadales/zamia/lawsoniana/ en 404).
+- create_content : page, publish, langue es, parent 38672, slug `lawsoniana`, titre « Zamia lawsoniana », translation_of FR 26501 → id **38875**. Hreflang vérifiés sur les quatre langues (fr 26501, it 28113, en 32150, es 38875). Aucune image (ni FR/IT/EN).
+- Brouillon `pilotes/espece-zamia-lawsoniana-es.html` identique au texte en ligne (verify : seul le sommaire diffère ; liens internes identiques, 7). DSL : scratchpad `zes07/lawsoniana.dsl`. Rank Math : 3 265 mots.
+- SEO Rank Math : « Zamia lawsoniana: cícada mexicana restablecida en 2024 » (54) ; meta 143 car. ; mot-clé « Zamia lawsoniana » ; aucun problème signalé ; `<title>` vérifié (curl, 200).
+- Index genre ES 38672 : ligne liée (replace_in_content limité aux id, chaîne « <li><em>Zamia lawsoniana</em> Dyer (1884) » unique, simulation 1 puis application 1) ; brouillon `genre-zamia-es.html` aligné (cmpall : identique hors sommaire). Mention du corps de la page genre (Taxonomía, « una especie puede volver ») non liée, comme aux lots précédents.
+- Lien entrant posé : *katzeriana* 38859 (même lot, Confusiones) ; simulation 1 puis application 1 ; brouillon régénéré depuis le DSL (cmpall : identique hors sommaire, 10 liens).
+- GBIF revérifié le 02/11/2026 : `species/match` renvoie *Zamia lawsoniana* comme SYNONYM de *Zamia loddigesii* (backbone suivant la WCVP) ; la catégorie UICN affichée par GBIF (NT) est celle de *loddigesii* : non reprise. Species+ revérifié le 02/11/2026 (API publique) : pas de fiche propre ; *Zamia lawsoniana* parmi les synonymes de *Zamia loddigesii* 24113 (II / UE B).
+- Base : EN 32150 (25/10) et FR 26501 (Nicolalde-Morejón et al. 2024, texte intégral ; WLoC ; WCVP via GBIF ; BGCI ; Montgomery ; Trebrown) et leurs notes. Rien de Wikipédia.
+- Nom commun : « pozol agrio » (Nicolalde-Morejón et al. 2024, seul nom attesté) ; mis dans la meta SEO, pas dans le titre SEO.
+- Toxicité : formule imposée ; BMAA seulement attribuée à l'ASPCA pour *Zamia furfuracea* (Q15). °C seulement ; zone USDA 9b de Trebrown avec sa plage (−3,9 à −1,1 °C), classement commercial. JZT : rien de publié (dit). Pas de Lavaud (l'EN/FR ne le citent pas pour cette espèce).
+- Localités : espèce non évaluée (EN proposé) ; municipalités du spécimen examiné (Huimanguillo, Macuspana, Las Choapas, Moloacán, Juárez, Ocozocoautla) gardées, niveau municipal (règle respectée) ; « Bursera simaruba » sans nom vernaculaire (le « gumbo-limbo » de l'EN n'a pas d'équivalent sourcé repris).
+- Liens internes ES (200) : genre (intro), *katzeriana* 38859, *cremnophila* 38721, *furfuracea* 38780, « Lee también » 23153, 23175, 23195. Sans page ES : *loddigesii*, *spartea*, *stenophyllidia*, *prasina*, *restrepoi*.
+- Divergences exposées : nom accepté par WLoC / synonyme de *loddigesii* pour la WCVP (POWO) et Species+ ; statut EN proposé par les auteurs / non évalué par l'UICN.
+- FAQ : 8 questions.

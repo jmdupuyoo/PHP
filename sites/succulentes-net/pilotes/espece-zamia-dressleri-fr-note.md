@@ -54,3 +54,5 @@
 
 ## Retouche du 25/10/2026 (0e avant ZAM07)
 - Intertitre « Repères internationaux » vide rempli : culture difficile, chaleur constante jour et nuit, drainage (Vannini 2019) ; Montgomery 2 numéros (dont 2014), 7 jardins BGCI (Montgomery, Selby, Huntington, San Diego, Atlanta, New York ; interrogé le 25/10/2026), aucun au Royaume-Uni ni en Australie ; réserve sur les déclarations BGCI. Vannini, BGCI et Montgomery ajoutés aux Sites de référence, Vannini à la Bibliographie. 3 remplacements (simulation puis application) ; brouillon aligné ; faits repris de l'EN 31990.
+
+- 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « et « …par <pseudonyme> » : » → « et un fil de 2013 sur la germination de graines de Zamia : » (page 26480, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).

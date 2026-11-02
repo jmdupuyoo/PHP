@@ -18,3 +18,7 @@
 - Liens internes ES (200) : genre (intro), *Zamia furfuracea* 38780, *Zamia erosa* 38773 ; Lee también 23153, 23175, 23195. Sans page ES : *vazquezii*, *inermis*, *loddigesii*, *integrifolia*, *restrepoi*.
 - Points douteux (repris) : identité des plantes BGCI et du classement Trebrown (risque *vazquezii*) ; *Zamia tenuifolia*/*forsteri* non confirmés ; identité de la plante séquencée par Lei 2018.
 - FAQ : 7 questions.
+
+- 02/11/2026 (ZAM-ES06) : lien vers *Zamia inermis* ES 38873 posé (Confusiones posibles, rubrique « Con otras Zamia mexicanas ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques) ; mention « sans page ES » de *Zamia inermis* caduque.
+
+- 02/11/2026 (ZAM-ES06) : lien vers *Zamia integrifolia* ES 38918 posé (Lugar en el género, « Zamia erosa y Zamia integrifolia ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques) ; mention « sans page ES » de *integrifolia* caduque.

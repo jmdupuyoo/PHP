@@ -23,3 +23,5 @@
 
 ## Lien posé le 25/10/2026 (ZAM09)
 - Lien vers *ipetiensis* EN 32125 (première occurrence, 1 remplacement, simulation puis application).
+
+- 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « and “…par <pseudonyme>”: » → « and a thread from 2013 on the germination of Zamia seeds: » (page 31990, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).

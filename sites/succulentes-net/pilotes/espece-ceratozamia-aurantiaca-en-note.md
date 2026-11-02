@@ -20,3 +20,5 @@
 
 - **Liens CER09 (30/10/2026)** : lien(s) EN posé(s) vers *whitelockiana* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
 - **Bilan Ceratozamia CER09 (30/10/2026)** : « queried through its public API on » → « queried on » (source BGCI) ; simulation puis application (appel commun de 47 remplacements sur 24 pages) ; brouillon identique au texte en ligne (cmp.py).
+
+- 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « thread “…par <pseudonyme>”: » → « thread from 2014 on the germination of Zamia seeds: » (page 35551, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).

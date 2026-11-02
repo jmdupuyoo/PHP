@@ -37,3 +37,5 @@
 ## Retouche du 31/10/2026 (décisions du propriétaire du 31/10/2026)
 
 - Q6 : nome del vivaista australiano (Bruce Ironmonger) tolto dalla classifica di rusticità riferita su Fous de palmiers; resta «uno specialista australiano delle cicadee». 1 sostituzione, bozza allineata, REST identico. Riferimento bibliografico Ironmonger & Ironmonger (2003) non toccato.
+
+- 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « «CYCADALES EN EUROPE» e «…par <pseudonyme>»: » → « «CYCADALES EN EUROPE» e una discussione del 2013 sulla germinazione di semi di Zamia: » (page 27670, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).

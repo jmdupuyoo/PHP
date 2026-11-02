@@ -16,3 +16,5 @@
 - Liens internes ES (200) : genre (intro), *cremnophila* 38721, *furfuracea* 38780, *herrerae* 38796, *grijalvensis* 38783, « Lee también » 23153, 23175, 23195. Sans page ES : *splendens*, *loddigesii*, *purpurea*, *prasina*, *restrepoi*. *lacandona* et *lawsoniana* (même lot) : voir ci-dessous.
 - Divergences exposées : notation × (WCVP/POWO) / espèce (WLoC, étude de 2023) ; répartition Chiapas (WLoC) / Chiapas, Tabasco, Veracruz (2011, 2024) ; BGCI affiche EN (2010) / CR 2022 ; *splendens* synonyme (Montgomery, Species+) / espèce (WLoC).
 - FAQ : 8 questions.
+
+- 02/11/2026 (ZAM-ES07, même lot) : liens vers *Zamia lacandona* ES 38868 (Cómo reconocer, groupe) et *Zamia lawsoniana* ES 38875 (Confusiones) posés après leur création (replace_in_content limité aux id, simulation puis application, 1 + 1) ; brouillon régénéré depuis le DSL (cmpall : identique hors sommaire, 10 liens).

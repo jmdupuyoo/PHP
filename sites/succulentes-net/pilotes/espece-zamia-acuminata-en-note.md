@@ -30,3 +30,5 @@
 ## FR/IT
 - Retouches du 24/10/2026 (décision éditoriale) : FR « Repères internationaux » (recherche Tropicamente / web sans résultat) reformulée (1) ; IT : recherche Tropicamente sans résultat retirée (« In Italia » et Fonti) et « ricerche sul web » reformulé (3). Aucune mention d'extrait de recherche (relevé du 24/10).
 - FR/IT à compléter (facultatif) : protologue tel que reproduit par Lindström 2013, Bramblett 2013 (itinéraire d'Ørsted, ~100 km), Montgomery (2 accessions), BGCI (12 jardins).
+
+- 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « thread “…par <pseudonyme>”: » → « thread from 2013 on the germination of Zamia seeds: » (page 31210, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).

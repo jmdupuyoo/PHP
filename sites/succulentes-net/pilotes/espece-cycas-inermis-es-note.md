@@ -19,3 +19,5 @@
 - 01/11/2026 (CYC-ES21) : lien vers *Cycas riuminiana* ES 38369 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES22) : lien vers *Cycas sexseminifera* ES 38439 posé (Cómo reconocer Cycas inermis ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
 - 01/11/2026 (CYC-ES23) : lien vers *Cycas siamensis* ES 38436 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+
+- 02/11/2026 (ZAM-ES06) : lien vers *Zamia inermis* ES 38873 posé (Etimología e historia, « una cícada mexicana sin parentesco cercano, Zamia inermis » (homonymie : renvoi dans les deux sens, la fiche Zamia renvoie vers 38090 dans Confusiones posibles)) (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques) ; mention « sans page ES » de *Zamia inermis* caduque.

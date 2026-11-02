@@ -16,3 +16,5 @@
 - Divergences exposées : couleur des jeunes feuilles (vert pomme / vert clair à jaunâtre / crème) ; plantules à 3-4 ou 6 folioles ; rusticité « pleinement tropicale » (Vannini), dégâts au gel (Jungle Music) contre zone 9b (Trebrown, −3,9 à −1,1 °C) ; identité incertaine des accessions Montgomery (« cf. ») ; travaux de Taylor 2002 peut-être sur *stevensonii*.
 
 - 02/11/2026 (ZAM-ES04) : liens vers *Zamia fairchildiana* ES 38793 (Cómo reconocer, « las pinnas de Zamia fairchildiana ») et *Zamia furfuracea* ES 38780 (Toxicidad) posés ; 2 remplacements (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
+
+- 02/11/2026 (ZAM-ES06) : lien vers *Zamia inermis* ES 38873 posé (Lugar en el género, énumération « Zamia inermis, Zamia obliqua ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques) ; mention « sans page ES » de *Zamia inermis* caduque.

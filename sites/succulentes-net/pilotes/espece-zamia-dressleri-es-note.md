@@ -20,3 +20,5 @@
 - 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
 
 - 02/11/2026 (ZAM-ES07) : lien vers *Zamia ipetiensis* ES 38840 posé (Taxonomía, « junto con Zamia cunaria, Zamia ipetiensis y Zamia neurophyllidia ») ; « sans page ES » retiré pour cette espèce (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
+
+- 02/11/2026 (ZAM-ES06) : lien vers *Zamia imperialis* ES 38863 posé (Confusiones posibles, groupe de *Zamia skinneri*) (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné) ; mention « sans page ES » de *imperialis* caduque.

@@ -52,3 +52,5 @@
 - Liens croisés posés après publication vers les fiches du lot : fairchildiana (première occurrence hors introduction et encadré).
 
 - Retouche 24/10/2026 (lot ZAM05, décision éditoriale du 24/10) : « Repères internationaux » : mention de recherche sans résultat (Tropicamente, recherche web) remplacée par « Aucun retour de culture n’est documenté hors de France. » (1 remplacement, simulation puis application) ; brouillon aligné.
+
+- 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « fil « …par <pseudonyme> » : » → « fil de 2013 sur la germination de graines de Zamia : » (page 26470, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).

@@ -46,3 +46,5 @@ Fichier : `pilotes/espece-zamia-urep-fr.html` (blocs Gutenberg contrôlés par s
 - Liens internes du corps : 1re occurrence des *Zamia* ayant une fiche FR publiée (200 sans redirection), y compris les fiches de ce lot.
 
 - Retouche 25/10/2026 (lot ZAM18, création EN 34430) : notes de travail visibles retirées (3 remplacements : analyse génétique « consultée ici », détail des menaces « pas été lu », mention de « l'ancienne liste de la page du genre sur ce site ») ; simulation puis application ; brouillon aligné. Fiche EN liée (hreflang fr/it/en).
+
+- 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « et « …par <pseudonyme> » : » → « et un fil de 2013 sur la germination de graines de Zamia : » (page 26568, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).

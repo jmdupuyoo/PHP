@@ -56,3 +56,5 @@ Fiche : `pilotes/espece-zamia-muricata-fr.html` (blocs Gutenberg contrôlés par
 
 ## Retouche 0 avant ZAM13 (25/10/2026, simulation puis application, 4 remplacements)
 - Évaluation NT de 2010 attribuée à Stevenson (Crossref) ; paragraphe Lindstrom 2024 (paire avec *lecointei*, sœur d'*orinoquiensis*) ; collections BGCI (27 jardins, dont Kew, Cairns, 11 aux États-Unis, Lyon) et Montgomery (1999) ; Stevenson 2010 et Lindstrom 2024 en bibliographie. Repris de l'EN 32258. Brouillon aligné.
+
+- 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « fil « …par <pseudonyme> » (2013) : » → « fil de 2013 sur la germination de graines de Zamia : » (page 26548, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).
