@@ -2723,3 +2723,22 @@ Règle du propriétaire (`prompts/redaction-fiches.md`, consignes) : forums cit�
 - ***vazquezii*, noms** : « chamalillo » (Enciclovida, repris avec réserve dans *fischeri* ES 38786, signalé ZAM-ES04) non repris pour *vazquezii* ; à arbitrer avec le point *fischeri*.
 - **Liens ES à poser plus tard** : aucun pour le genre *Zamia* (88/88 pages ES) ; *Ceratozamia* (genre et espèces) depuis les fiches qui les citent quand les pages ES existeront (voir sections précédentes).
 - **Sources** : Species+ (API publique), GBIF (API IUCN : EN 5284084, CR 5284024, CR 5284016) relus le 02/11/2026 ; URL internes des trois fiches en 200. Protologues, WLoC, Flora de Colombia, Calonje 2009/2018, Nicolalde-Morejón, Gómez Díaz 2025, Lindstrom 2024, Vannini 2019, Sibilio 2019, Palm Beach, GardenDrum, BGCI, Montgomery, Trebrown, forums : non relus (lectures EN/FR des 12-25/10) ; Lavaud 2023 d'après `zes09/lavaud.txt`. POWO, Liste rouge UICN : non retentés. Forums ES (InfoJardín, Club de Palmeras) : rien de connu pour ces espèces.
+
+## Signalé lors de ENC-ES01 (page genre *Encephalartos* ES 39595 et lot ENC-ES01, 02/11/2026), hors lot
+
+- **Localités (Q47), EN/FR/IT à aligner sur l'ES (non touchées)** :
+  - *Encephalartos arenarius* (EN) — EN 16779, FR 26215, IT 27778 : vallée de la Kaba, Woody Cape (« about 4 miles from Woody Cape »), « Kaba valley population », rive droite de la Bushmans (population hybride), route N2, noms « Kwa Qaba cycad » et « uMphanga wakwa Qaba » (formés sur une localité). Réduits en ES 39722 (district d'Alexandria ; noms décrits sans être cités).
+  - *Encephalartos altensteinii* (VU) — EN 16587 / FR 2436 / IT 11965 : vallées des rivières Bushmans, Great Fish et Buffalo (zones d'hybridation), « rive ouest de la Bushmans » ; en ES 39679, gardé seulement le río Bushmans comme limite d'aire (comme WLoC/PlantZAfrica/Dyer), le reste généralisé. À arbitrer : une rivière servant de limite d'aire relève-t-elle de Q47 ?
+  - Pages genre EN 16289 / FR 14229 / IT 11663 (index) : *cerinus* « a single gorge near Tugela Ferry » (CR), *whitelockii* « Mpanga Falls » (CR), *inopinus* « a farm called Onverwagt » (CR) ; retirés dans l'index et l'étymologie de l'ES 39595.
+- **Agen** : messages d'un collectionneur d'Agen repris des EN dans *afer* (jeune plante, 2009), *altensteinii* (deux pousses par été, 2011) et *arenarius* (substrat sableux, 2009) — ce ne sont pas le message sur *lebomboensis* (jamais utilisé). Pour *aplanatus*, l'ouï-dire de janvier 2011 (« la plus rustique des Encephalartos verts », sans mesure, EN 17050 et sans doute FR/IT) n'a pas été repris en ES : à arbitrer (retirer aussi des EN/FR/IT ?).
+- **Liens ES à poser plus tard** (espèces citées dans les pages ES sans page ES à ce jour, non liées) :
+  - page genre 39595 : toutes les mentions du corps (hors index) des espèces de l'index ; à lier au fil des lots (comme pour *Zamia* au bilan) ;
+  - *aemulans* 39597 : *lebomboensis*, *msinganus*, *natalensis*, *senticosus*, *horridus* ;
+  - *afer* 39599 : *trispinosus*, *latifrons*, *ferox*, *longifolius*, *ngoyanus*, *villosus*, *horridus* ;
+  - *altensteinii* 39679 : *trispinosus*, *villosus*, *latifrons*, *natalensis*, *lebomboensis*, *longifolius*, *woodii*, *horridus* ;
+  - *aplanatus* 39696 : *villosus*, *umbeluziensis*, *horridus* ;
+  - *arenarius* 39722 : *latifrons*, *lehmannii*, *horridus*, *trispinosus*, *ferox*, *laurentianus*, *transvenosus*, *woodii* ;
+  - fiches ES *Zamia* : *Zamia nana* 39012 (*Encephalartos horridus*, sous un homonyme invalide) ; mentions du genre *Encephalartos* dans *Zamia encephalartoides* 38761 (Confusiones, Etimología, Cultivo, FAQ) et *fairchildiana* 38793 — non liées (consigne limitée aux pages genre) : à décider.
+- **Species+ (02/11/2026, API publique)** : *Encephalartos* 13006 I / UE A ; *aemulans* 18824, *caffer* 29245 (pas de fiche *afer*), *altensteinii* 24330, *aplanatus* 21176, *arenarius* 23660 : I / A. Aucun nom espagnol (noms anglais seulement).
+- **EN 16289 (genre)** : « zone 8a/8b according to him » (Ravenne) et « zone 9b according to him » (Roussillon) cités sans équivalent °C ; non repris en ES. À convertir ou retirer en EN.
+- **Sources inaccessibles (non contournées)** : POWO, Liste rouge UICN, cites.org, redlist.sanbi.org ; PlantZAfrica non relu le 02/11 (lectures EN du 25-26/10) ; aucune donnée de culture espagnole ou latino-américaine trouvée dans les FR/EN (InfoJardín, Club de Palmeras non consultés pour ce lot).
