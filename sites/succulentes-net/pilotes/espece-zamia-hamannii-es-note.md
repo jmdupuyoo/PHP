@@ -14,9 +14,11 @@
 - Forums : Fous de palmiers cités anonymement (Côte Bleue, Gard, Dordogne, Nantes, Ain/Hérault ; correspondant grec de seconde main) ; titres des fils non repris (l'un contient un pseudonyme). Côte Bleue : Marignane −3,0 °C le 10/02/2015 (station non côtière, valeur subie inconnue), comme l'EN.
 - Pas de Lavaud (l'EN/FR ne le citent pas pour cette espèce). Vannini cité comme auteur d'un article publié (collection privée du Queensland non nommée).
 - Notes de travail EN non reprises : aucune visible dans l'EN 32060.
-- Liens internes ES (200) : genre (intro), « Lee también » 23153, 23175, 23195. Sans page ES : *skinneri*, *imperialis*, *nesophila*, *neurophyllidia*, *lindenii*, *manicata*, *restrepoi*, *furfuracea*.
+- Liens internes ES (200) : genre (intro), « Lee también » 23153, 23175, 23195. Sans page ES : *skinneri*, *imperialis*, *nesophila*, *neurophyllidia*, *manicata*, *restrepoi*, *furfuracea*.
 - Divergences exposées : répartition (île selon MiAmbiente / péninsule et îlots selon Vannini / protologue sans localités) ; CR proposé en 2008 / VU en 2022 ; aucun prélèvement constaté en 2008 / saisie de 2022.
 
 - 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
 
 - 02/11/2026 (ZAM-ES06) : lien vers *Zamia imperialis* ES 38863 posé (Cómo reconocer, « a diferencia de muchas Zamia imperialis (Vannini, 2019) ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné) ; mention « sans page ES » de *imperialis* caduque.
+
+- 02/11/2026 (ZAM-ES08) : lien vers *Zamia lindenii* ES 38926 posé (Multiplicación, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.

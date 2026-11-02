@@ -12,6 +12,8 @@
 - Nom commun : « pozol agrio » (Nicolalde-Morejón et al. 2024, seul nom attesté) ; mis dans la meta SEO, pas dans le titre SEO.
 - Toxicité : formule imposée ; BMAA seulement attribuée à l'ASPCA pour *Zamia furfuracea* (Q15). °C seulement ; zone USDA 9b de Trebrown avec sa plage (−3,9 à −1,1 °C), classement commercial. JZT : rien de publié (dit). Pas de Lavaud (l'EN/FR ne le citent pas pour cette espèce).
 - Localités : espèce non évaluée (EN proposé) ; municipalités du spécimen examiné (Huimanguillo, Macuspana, Las Choapas, Moloacán, Juárez, Ocozocoautla) gardées, niveau municipal (règle respectée) ; « Bursera simaruba » sans nom vernaculaire (le « gumbo-limbo » de l'EN n'a pas d'équivalent sourcé repris).
-- Liens internes ES (200) : genre (intro), *katzeriana* 38859, *cremnophila* 38721, *furfuracea* 38780, « Lee también » 23153, 23175, 23195. Sans page ES : *loddigesii*, *spartea*, *stenophyllidia*, *prasina*, *restrepoi*.
+- Liens internes ES (200) : genre (intro), *katzeriana* 38859, *cremnophila* 38721, *furfuracea* 38780, « Lee también » 23153, 23175, 23195. Sans page ES : *spartea*, *stenophyllidia*, *prasina*, *restrepoi*.
 - Divergences exposées : nom accepté par WLoC / synonyme de *loddigesii* pour la WCVP (POWO) et Species+ ; statut EN proposé par les auteurs / non évalué par l'UICN.
 - FAQ : 8 questions.
+
+- 02/11/2026 (ZAM-ES08) : lien vers *Zamia loddigesii* ES 38947 posé (Confusiones posibles, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.

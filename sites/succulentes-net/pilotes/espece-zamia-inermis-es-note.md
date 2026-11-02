@@ -15,4 +15,6 @@
 - Rusticité : Jungle Music −7 à −4 °C (« mid to low twenties F », estimation commerciale) / Trebrown 10a (−1,1 à 1,7 °C) : divergence exposée ; °C seulement.
 - Corrections par rapport à l'EN : « The same authors estimate… 300 to 700 » rattaché explicitement à Octavio-Aguilar et al. 2017 (Cuadernos, d'après la note EN) au lieu de Gómez Díaz.
 - JZT : rien de publié (dit). Toxicité : formule imposée, BMAA attribuée à l'ASPCA (Q15).
-- Sans page ES (non liés) : *tuerckheimii*, *soconuscensis*, *vazquezii*, *loddigesii*, *restrepoi*.
+- Sans page ES (non liés) : *tuerckheimii*, *soconuscensis*, *vazquezii*, *restrepoi*.
+
+- 02/11/2026 (ZAM-ES08) : lien vers *Zamia loddigesii* ES 38947 posé (Confusiones posibles, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.

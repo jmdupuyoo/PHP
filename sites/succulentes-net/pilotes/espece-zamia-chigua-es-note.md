@@ -13,7 +13,9 @@
 - Nom espagnol : « zamia helecho » (Flora de Colombia, usage horticole) — repris dans l'intro, l'encadré, Nombres comunes et le titre SEO ; « chigua » = nom général des cycadales au Chocó.
 - Notes de travail EN non reprises : « have no identifiable source and are not repeated here » (reformulé : « no tienen ninguna fuente identificable »), « reference taken from The World List of Cycads and Crossref ».
 - Zone USDA 11 citée seulement comme seuil non mesuré lu en ligne (comme FR/EN), avec équivalent °C (≥ 4,4 °C).
-- Liens internes ES (200) : genre (intro), *amplifolia* 38699 (Confusiones), « Lee también » 23153 et 23195. Sans page ES : *roezlii*, *lindleyi*, *restrepoi*, *furfuracea*.
+- Liens internes ES (200) : genre (intro), *amplifolia* 38699 (Confusiones), « Lee también » 23153 et 23195. Sans page ES : *roezlii*, *restrepoi*, *furfuracea*.
 - Points douteux (repris) : nombre chromosomique propre inconnu (comptages Norstog = *roezlii*) ; présence ancienne en collections européennes = déduction, dite comme telle ; protologue (Seemann 1854) non lu ; POWO et Liste rouge non consultés directement.
 
 - 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
+
+- 02/11/2026 (ZAM-ES08) : lien vers *Zamia lindleyi* ES 38934 posé (Confusiones posibles, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.

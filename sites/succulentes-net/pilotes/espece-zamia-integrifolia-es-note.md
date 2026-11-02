@@ -16,4 +16,6 @@
 - Divergences exposées : deux variétés (WLoC, Griffith 2022) / cinq (NC State) ; répartition WLoC / fiche UF 2010.
 - Sel : l'EN suit UF (« good ») et NC State ; la FR dit « bonne dans une fiche, moyenne dans une autre » : divergence FR/EN non tranchée ici (EN suivie).
 - Forums cités anonymement : Roussillon, Vendée, Chimay, Ravenne, cultivateur de l'Ain et de l'Hérault (profil). Toxicité : formule imposée ; BMAA attribuée à NC State pour l'espèce (source précise).
-- Sans page ES (non liés) : *pumila*, *lucayana*, *restrepoi*.
+- Sans page ES (non liés) : *pumila*, *restrepoi*.
+
+- 02/11/2026 (ZAM-ES08) : lien vers *Zamia lucayana* ES 38958 posé (Confusiones posibles, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.

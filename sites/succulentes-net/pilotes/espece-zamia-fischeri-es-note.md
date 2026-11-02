@@ -15,10 +15,12 @@
 - Noms communs : Enciclovida (CONABIO, id 155553) donne « chamalillo » (principal), « amigo del maíz », « mazorca », « palmita », sans source ni région ; repris avec la réserve qu'ils peuvent concerner d'anciennes *Zamia fischeri* = *vazquezii* ; noms huastèques non repris (comme FR/EN).
 - Lavaud/Cycadales.eu : groupe « Mexique et nord de l'Amérique centrale », difficulté moyenne, saison sèche marquée (caractérisation du groupe) ; consignes (substrat neutre à légèrement calcaire, températures d'hiver/été, arrosage) non reprises, y compris dans l'encadré (« Exposición y sustrato » : « ningún dato publicado verificado ») et en Ravageurs.
 - Italie : Naples (plantes authentiques à la fin des années 1990, Index Seminum 2012-13) en ligne propre du chapitre « En jardines botánicos ».
-- Liens internes ES (200) : genre (intro), *Zamia furfuracea* 38780, *Zamia erosa* 38773 ; Lee también 23153, 23175, 23195. Sans page ES : *vazquezii*, *inermis*, *loddigesii*, *integrifolia*, *restrepoi*.
+- Liens internes ES (200) : genre (intro), *Zamia furfuracea* 38780, *Zamia erosa* 38773 ; Lee también 23153, 23175, 23195. Sans page ES : *vazquezii*, *inermis*, *integrifolia*, *restrepoi*.
 - Points douteux (repris) : identité des plantes BGCI et du classement Trebrown (risque *vazquezii*) ; *Zamia tenuifolia*/*forsteri* non confirmés ; identité de la plante séquencée par Lei 2018.
 - FAQ : 7 questions.
 
 - 02/11/2026 (ZAM-ES06) : lien vers *Zamia inermis* ES 38873 posé (Confusiones posibles, rubrique « Con otras Zamia mexicanas ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques) ; mention « sans page ES » de *Zamia inermis* caduque.
 
 - 02/11/2026 (ZAM-ES06) : lien vers *Zamia integrifolia* ES 38918 posé (Lugar en el género, « Zamia erosa y Zamia integrifolia ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques) ; mention « sans page ES » de *integrifolia* caduque.
+
+- 02/11/2026 (ZAM-ES08) : lien vers *Zamia loddigesii* ES 38947 posé (Confusiones posibles, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.

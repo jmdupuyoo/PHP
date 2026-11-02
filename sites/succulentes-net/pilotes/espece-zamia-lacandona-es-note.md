@@ -13,8 +13,10 @@
 - Simon Lavaud nommé (« viverista especializado en cícadas ») pour le seul classement du groupe (Mexique, Guatemala, Salvador, Honduras : « media » en clima templado, Q44) ; **non repris** : les températures de groupe de l'EN (5-10 °C l'hiver, 15-20/25-30 °C l'été, 4 à 6 mois).
 - « Lee también » : article ES « Cochinillas en el cycas » (/es/cochinilla-cycas/, 200, cite *Aulacaspis yasumatsui*) à la place de l'article EN sur *Aulacaspis* ; semis 23153 et toxicité 23195.
 - Localités : espèce EN ; Selva Lacandona (région), État, nord-ouest du Guatemala (pays) seulement ; « ruinas mayas » sans nom, comme l'EN.
-- Liens internes ES (200) : genre (intro), *grijalvensis* 38783, *cremnophila* 38721, *katzeriana* 38859, *furfuracea* 38780, « Lee también » (3). Sans page ES : *splendens*, *loddigesii*, *standleyi*, *purpurea*, *paucijuga*, *meermanii*, *soconuscensis*, *restrepoi*.
+- Liens internes ES (200) : genre (intro), *grijalvensis* 38783, *cremnophila* 38721, *katzeriana* 38859, *furfuracea* 38780, « Lee también » (3). Sans page ES : *splendens*, *standleyi*, *purpurea*, *paucijuga*, *meermanii*, *soconuscensis*, *restrepoi*.
 - Divergences exposées : auteurs (IPNI : Schutzman seul ; WLoC et article : deux auteurs) ; Guatemala (Vannini) absent de WLoC ; feuille 30-100 cm (protologue) / jusqu'à 1,85 m (Vannini).
 - FAQ : 8 questions.
 
 - 02/11/2026 (ZAM-ES07) : lien sortant vers *Zamia inermis* ES 38873 (lot parallèle ZAM-ES06, publiée pendant le lot) posé (En la naturaleza, « como Zamia inermis o Zamia soconuscensis ») ; replace_in_content limité à 38868, simulation 1 puis application 1 ; brouillon régénéré depuis le DSL (cmpall : identique hors sommaire, 9 liens).
+
+- 02/11/2026 (ZAM-ES08) : lien vers *Zamia loddigesii* ES 38947 posé (Híbridos, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.

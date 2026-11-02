@@ -14,6 +14,8 @@
 - Species+ revérifié le 02/11/2026 : fiche propre 18287 (Annexe II, UE B ; Ecuador) — l'EN/FR disent « pas de fiche séparée » (signalé).
 - Lavaud/Cycadales.eu : seul le classement (« difícil ») ; consignes générales non reprises ; « En maceta » : seules les conditions données par Jungle Music (chaleur, humidité, circulation d'air).
 - Ajout d'une ligne « Ecuador » (Río Palenque, d'après Dodson 1998) dans « En jardines botánicos ».
-- Liens internes ES (200) : genre, *furfuracea* 38780 ; Lee también 23153, 23175, 23195. Sans page ES : *roezlii*, *montana*, *oligodonta*, *lindenii*, *restrepoi*.
+- Liens internes ES (200) : genre, *furfuracea* 38780 ; Lee también 23153, 23175, 23195. Sans page ES : *roezlii*, *montana*, *oligodonta*, *restrepoi*.
 - Points douteux (repris) : longueur des pinnas 40 cm (Dodson) / 15-20 cm (Jungle Music) ; présence en Colombie supposée, non confirmée.
 - FAQ : 6 questions.
+
+- 02/11/2026 (ZAM-ES08) : lien vers *Zamia lindenii* ES 38926 posé (En la naturaleza, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.
