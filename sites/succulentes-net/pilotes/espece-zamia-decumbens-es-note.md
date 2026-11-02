@@ -13,7 +13,7 @@
 - Pépiniériste nommé (Q34) : Cycadales.eu ; Simon Lavaud non nommé ; classement de l'espèce (groupe des basses terres, « difícil ») et caractérisation brève du groupe repris ; divergence calcaire de l'habitat / substrat « neutre à acide » du groupe exposée sans trancher.
 - Localités : districts (niveau administratif le plus bas au Belize rural) ; « deux dolines du district de Toledo », sans coordonnées ni nom de site ; le texte rappelle que les localités précises ne sont pas publiées.
 - Nom espagnol : aucun ; noms anglais *sinkhole cycad* et *corn palm* en italique, traduits entre « ».
-- Liens internes ES (200) : genre (intro), « Lee también » 23153, 23175, 23195. Sans page ES : *variegata*, *tuerckheimii*, *furfuracea*, *Ceratozamia robusta*, *Ceratozamia osbornei* (aucune page ES *Ceratozamia*).
+- Liens internes ES (200) : genre (intro), « Lee también » 23153, 23175, 23195. Sans page ES : *variegata*, *furfuracea*, *Ceratozamia robusta*, *Ceratozamia osbornei* (aucune page ES *Ceratozamia*).
 - Points douteux (repris) : accessions Montgomery de 2001 antérieures à la description (non commentées) ; plein air ou abri en Floride non documenté ; proposition de sous-espèce de *tuerckheimii* = opinion d'un auteur.
 
 - 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
@@ -21,3 +21,4 @@
 - 02/11/2026 (ZAM-ES11) : lien(s) posé(s) vers *Zamia onan-reyesii* ES 39032 (« …ii y como Zamia onan-reyesii »), première occurrence hors introduction, encadré, titres et sources ; « sans page ES » retiré ; replace_in_content limité aux id (simulation groupée 23 remplacements sur 16 pages = attendu, puis application) ; brouillon aligné, cmpall : texte et liens identiques.
 - 02/11/2026 (lot ZAM-ES13) : lien(s) posé(s) vers *Zamia prasina* ES 39065 (Confusiones posibles) — première occurrence du corps, simulation puis application (replace_in_content ciblé), brouillon aligné (cmpall : identique) ; « sans page ES » retiré.
 - 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES17) : lien(s) ES entrant(s) posé(s) vers *tuerckheimii* 39277 (Confusiones posibles) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.

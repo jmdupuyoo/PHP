@@ -7,7 +7,7 @@
 - SEO Rank Math : « Zamia pumila: especie tipo del género, a menudo confundida » (58) ; meta 151 car. ; mot-clé « Zamia pumila » ; aucun problème ; `<title>` vérifié (curl, 200).
 - Index genre ES 38672 : ligne liée (chaîne « <li><em>Zamia pumila</em> L. (1763) », simulation 1 puis application 1) ; brouillon genre aligné.
 - Liens entrants posés (lot ZAM-ES13, simulation puis application, 1 chacun) : ordre ES 23482 (section Familia Zamiaceae, « especie tipo »), *angustifolia* 38702 (Confusiones), *erosa* 38773 (Híbridos), *furfuracea* 38780, *integrifolia* 38918, *lucayana* 38958 (Confusiones), *portoricensis* 39056 (même lot, Híbridos). Page genre 38672 : seule la ligne d'index liée (mentions du corps non liées, comme aux lots précédents).
-- Liens sortants : genre, *portoricensis* 39056, *erosa* 38773, *integrifolia* 38918, *angustifolia* 38702, *furfuracea* 38780, *lucayana* 38958, « Lee también » (3). Sans page ES : *stricta*.
+- Liens sortants : genre, *portoricensis* 39056, *erosa* 38773, *integrifolia* 38918, *angustifolia* 38702, *furfuracea* 38780, *lucayana* 38958, « Lee también » (3). Sans page ES : aucune.
 - Création : HTML transmis à la main à partir du brouillon généré (texte et 41 espaces insécables vérifiés identiques en ligne).
 
 ## Sources et choix
@@ -18,3 +18,4 @@
 - Simon Lavaud nommé : groupe Floride/Caraïbes « fácil » en clima templado (Q44), justification brève ; **non repris** : recette de groupe de l'EN (compost, eau, 1-10 / 15-20 / 25-30 °C, 4-6 mois ; « winter 1 to 10 °C » en pot ; pourriture racinaire attribuée à Cycadales.eu). Donnée −5 °C propre à *integrifolia* gardée (Rusticidad).
 - Trebrown 9b = −3,9 à −1,1 °C (commercial). JZT : repère *integrifolia* −6 °C (février 2012), explicitement non transposé. Forums anonymes et datés (Fous de palmiers 2009-2010, Tropicamente 2009). Toxicité : formule imposée, BMAA attribuée à l'ASPCA ; témoignages historiques (Abbad y Lasierra, Roig). FAQ : 8 questions.
 - 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *pygmaea* ES 39132 (Confusiones posibles), *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES16) : lien entrant posé vers *stricta* ES 39280 (première mention du corps ; replace_in_content limité aux id, simulation puis application ; brouillon aligné, cmpall identique hors sommaire, liens identiques).

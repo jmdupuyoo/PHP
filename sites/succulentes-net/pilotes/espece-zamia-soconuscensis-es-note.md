@@ -6,7 +6,7 @@
 - Brouillon `pilotes/espece-zamia-soconuscensis-es.html` identique au texte en ligne (verify/cmpall : seul le sommaire diffère ; liens internes identiques, 10). DSL : scratchpad `zes15/soconuscensis.dsl`.
 - SEO Rank Math : « Zamia soconuscensis: cícada en peligro de Chiapas, México » (57) ; meta 135 car. ; mot-clé « Zamia soconuscensis » ; aucun problème ; `<title>` vérifié (curl, 200).
 - Index genre ES 38672 : ligne liée (chaîne « <li><em>Zamia soconuscensis</em> … », simulation puis application, appel groupé de 5 limité à 38672) ; brouillon genre aligné (cmpall identique).
-- Liens sortants : genre, *inermis* 38873, *monticola* 38994, *cremnophila* 38721, *loddigesii* 38947, *restrepoi* 39126, *furfuracea* 38780, « Lee también » (3). Sans page ES : *tuerckheimii* ; *Ceratozamia matudae* et genre *Ceratozamia* (pas de pages ES).
+- Liens sortants : genre, *inermis* 38873, *monticola* 38994, *cremnophila* 38721, *loddigesii* 38947, *restrepoi* 39126, *furfuracea* 38780, « Lee también » (3). Sans page ES : *Ceratozamia matudae* et genre *Ceratozamia* (pas de pages ES).
 - Liens entrants posés (lot ZAM-ES15, simulation puis application, 1 chacun) : *elegantissima* 38730 (Lugar en el género), *grijalvensis* 38783, *herrerae* 38796, *lacandona* 38868, *inermis* 38873.
 
 ## Sources et choix
@@ -15,3 +15,4 @@
 - Localités : sierra del Soconusco (= sierra Madre de Chiapas, étymologie) gardée ; aucune localité précise (le protologue ne les publie pas).
 - Simon Lavaud nommé : groupe Mexique-Guatemala-Salvador-Honduras « media » en clima templado (Q44), justification brève, et classement « difícil » de *tuerckheimii* / *monticola* ; **non repris** : recette de groupe de l'EN (substrat, 5-10 / 20-25 / 15-20 / 25-30 / 40 °C, 4-6 mois) ni le « 5 to 10 °C » de l'encadré EN (rusticité), du pot et de Cold hardiness ; conseil Cycadales.eu en Pests remplacé par une phrase générale.
 - Toxicité : formule imposée, BMAA attribuée à l'ASPCA. Note EN « category not verified » (évaluation 2010) non reprise. FAQ : 7 questions. JZT : aucune observation (dit).
+- 02/11/2026 (lot ZAM-ES17) : lien(s) ES entrant(s) posé(s) vers *tuerckheimii* 39277 (Confusiones posibles) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.

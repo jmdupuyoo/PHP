@@ -12,7 +12,7 @@
 - Toxicité : formule imposée ; BMAA seulement attribuée à l'ASPCA pour *Zamia furfuracea* (Q15). °C seulement (°F de l'EN retirés) ; zone USDA 10b de Trebrown avec sa plage (1,7 à 4,4 °C), classement commercial. JZT : rien de publié (dit).
 - Simon Lavaud nommé (« viverista especializado en cícadas ») pour le seul classement du groupe (selves basses d'Amérique centrale et du Sud : « difícil » en clima templado, Q44) et sa justification brève ; **non repris** : les consignes de groupe de l'EN (substrat et eau neutres à acides, nuits ~22 °C, 15 °C toléré, jours 28-30 °C, 70-90 % d'humidité) ni le « compost neutre à acide » de la culture en pot.
 - Notes de travail EN non reprises : « Ducke's original description (1915) and the paper "Cycads of Colombia" (Stevenson, 2004) could not be consulted », « reference checked on Crossref ». Titres des fils Fous de palmiers non repris (fils cités sans titre, comme aux lots précédents).
-- Liens internes ES (200) : genre (intro), *amazonum* 38696, *boliviana* 38705, *brasiliensis* 38709, *hymenophyllidia* 38834, *furfuracea* 38780, « Lee también » 23153, 23175, 23195. Sans page ES : *ulei*, *urep* ; genre *Ceratozamia* (page ES absente : /es/orden-cycadales/ceratozamia/ répond 301).
+- Liens internes ES (200) : genre (intro), *amazonum* 38696, *boliviana* 38705, *brasiliensis* 38709, *hymenophyllidia* 38834, *furfuracea* 38780, « Lee también » 23153, 23175, 23195. Sans page ES : genre *Ceratozamia* (page ES absente : /es/orden-cycadales/ceratozamia/ répond 301).
 - Divergences exposées : répartition (WLoC : Pará, Amazonas colombien et vénézuélien ; *Flora* : aussi Bolívar, centre et sud de la Colombie) ; page de *Zamia obidensis* (19 WLoC / 20 *Flora*) ; 2n = 16 cité par la *Flora* sans référence complète.
 - FAQ : 8 questions.
 
@@ -22,3 +22,4 @@
 
 - 02/11/2026 (lot ZAM-ES12) : lien entrant posé vers *orinoquiensis* 39059 (Confusiones posibles), *poeppigiana* 39074 (Confusiones posibles) (replace_in_content, simulation groupée 21 puis application 21, chaîne unique) ; brouillon aligné ; « sans page ES » mis à jour.
 - 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES17) : lien(s) ES entrant(s) posé(s) vers *ulei* 39255 (Cómo reconocer Zamia lecointei) ; *urep* 39258 (Confusiones posibles) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.

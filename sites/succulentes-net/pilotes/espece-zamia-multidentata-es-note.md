@@ -12,8 +12,9 @@
 - Divergences exposées : plaine alluviale (protologue) / terre ferme drainée (Calonje 2026) ; pédoncule femelle 15-19 / 12-17,5 cm ; Huánuco et San Martín (WLoC) sans donnée publiée.
 - Toxicité : formule imposée ; BMAA attribuée à l'ASPCA. °C seulement.
 - FAQ : 8 questions.
-- Liens internes ES (200) : genre, *hymenophyllidia* 38834, *furfuracea* 38780 ; « Lee también » 23153, riego, 23195. Sans page ES : *urep*, *urarinorum*.
+- Liens internes ES (200) : genre, *hymenophyllidia* 38834, *furfuracea* 38780 ; « Lee también » 23153, riego, 23195. Sans page ES : aucune (espèces désormais liées, voir la ligne ZAM-ES17).
 - Liens entrants posés le 02/11/2026 (simulation groupée 17 = attendu) : *brasiliensis* 38709 (Etimología e historia), *hymenophyllidia* 38834 (Confusiones posibles). Mentions en bibliographie/sources seulement (non liées) : *amazonum* 38696, *boliviana* 38705, *lecointei* 38914, *macrochiera* 38929, *lindosensis* 38937. Page genre : ligne d'index seule liée.
 
 - 02/11/2026 (lot ZAM-ES12) : lien entrant posé vers *poeppigiana* 39074 (Taxonomía) (replace_in_content, simulation groupée 21 puis application 21, chaîne unique) ; brouillon aligné ; « sans page ES » mis à jour.
 - 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES17) : lien(s) ES entrant(s) posé(s) vers *urarinorum* 39261 (Confusiones posibles) ; *urep* 39258 (Confusiones posibles) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.

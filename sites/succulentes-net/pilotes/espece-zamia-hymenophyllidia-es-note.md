@@ -12,7 +12,7 @@
 - Toxicité : formule imposée ; BMAA seulement attribuée à l'ASPCA pour *Zamia furfuracea* au niveau du genre (Q15). °C seulement (°F de l'EN retirés). Zone USDA 10a de Trebrown (classement commercial) avec son équivalent exact : −1,1 à 1,7 °C. JZT : rien de publié (dit).
 - Lavaud 2023 : repris le classement du groupe (*Zamia* des forêts basses d'Amérique du Sud, « difícil » en climat tempéré, Q44), sa justification brève (climats européens trop frais et trop secs, nuits de Montpellier ~19 °C), l'illustration de l'espèce parmi les *Zamia* colombiennes réputées difficiles et le climat d'Iquitos (habitat de l'espèce) ; Simon Lavaud nommé une fois. Non repris : la recette du groupe (substrat et eau neutres à acides, nuits ~22 °C / 15 °C, jours 28-30 °C, hygrométrie 70-90 %, serre/véranda/pièce chauffée/chambre de culture) ni « following the advice above » (En maceta) — consignes générales.
 - Localités (LC) : municipalités de l'Amazonas colombien (Tarapacá, La Chorrera, La Pedrera, Leticia, Puerto Nariño), comme l'EN.
-- Liens internes ES (200) : genre (intro), *disodon* 38712, *amazonum* 38696, « Lee también » 23153, 23175, 23195. Sans page ES : *urarinorum*, *urep*, *ulei*, *furfuracea*.
+- Liens internes ES (200) : genre (intro), *disodon* 38712, *amazonum* 38696, « Lee también » 23153, 23175, 23195. Sans page ES : *furfuracea*.
 - Divergences exposées : mesures du protologue (2001) / mesures de 2023-2026 ; tige souterraine (2001) / tige aérienne parfois (2023) ; regroupement de Calonje et al. 2019 non retrouvé par Lindstrom et al. 2024.
 
 - 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité à l’id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
@@ -21,3 +21,4 @@
 
 - 02/11/2026 (lot ZAM-ES12) : lien entrant posé vers *poeppigiana* 39074 (Taxonomía) (replace_in_content, simulation groupée 21 puis application 21, chaîne unique) ; brouillon aligné ; « sans page ES » mis à jour.
 - 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES17) : lien(s) ES entrant(s) posé(s) vers *ulei* 39255 (Taxonomía) ; *urarinorum* 39261 (Confusiones posibles) ; *urep* 39258 (Confusiones posibles) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.

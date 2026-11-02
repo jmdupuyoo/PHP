@@ -13,9 +13,10 @@
 - Toxicité : formule imposée ; BMAA attribuée à l'ASPCA (Q15). °C seulement. JZT : rien de publié (dit).
 - Localités : départements seulement (Antioquia, Boyacá, Caldas, Santander), La Dorada (municipalité) pour la coexistence avec *imbricata*.
 - Divergence exposée : VU proposé (2009) / EN (2022).
-- Sans page ES (non liés) : *ulei* (et synonyme *cupatiensis*).
+- Sans page ES (non liés) : aucune (espèces désormais liées, voir la ligne ZAM-ES17).
 - 02/11/2026 (ZAM-ES09) : lien vers *Zamia melanorrhachis* ES 38950 posé (Confusiones, puce « limitada al norte » ; la mention de l'encadré n'est pas liée) ; « sans page ES » retiré ; replace_in_content limité aux id, simulation puis application, 1 remplacement par lien ; brouillon aligné par remplacement ciblé (cmpall : identique hors sommaire, liens identiques).
 - 02/11/2026 (ZAM-ES10) : lien posé vers *Zamia muricata* ES 39003 (Confusiones posibles, « …: conocida en Colombia solo en el extremo noreste, y present »), première occurrence hors introduction, encadré, titres et sources ; « sans page ES » retiré ; replace_in_content limité aux id (simulation groupée 17 = attendu, puis application) ; brouillon aligné, cmpall : texte et liens identiques.
 
 - 02/11/2026 (lot ZAM-ES12) : lien entrant posé vers *poeppigiana* 39074 (Confusiones posibles) (replace_in_content, simulation groupée 21 puis application 21, chaîne unique) ; brouillon aligné ; « sans page ES » mis à jour.
 - 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES17) : lien(s) ES entrant(s) posé(s) vers *ulei* 39255 (Confusiones posibles) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.
