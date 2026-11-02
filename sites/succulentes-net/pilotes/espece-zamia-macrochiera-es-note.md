@@ -7,7 +7,7 @@
 - SEO Rank Math : « Zamia macrochiera: cícada amazónica del Perú y Colombia » (55) ; meta 153 car. ; mot-clé « Zamia macrochiera » ; aucun problème ; `<title>` vérifié (curl, 200).
 - Index genre ES 38672 : ligne liée (chaîne « <li><em>Zamia macrochiera</em> D.W.Stev. » unique, simulation 1 puis application 1) ; brouillon `genre-zamia-es.html` aligné (cmpall identique hors sommaire).
 - Liens entrants posés (simulation puis application) : *amazonum* 38696 et *lecointei* 38914 (Confusiones, liste des dix *Zamia* amazoniennes), brouillons et notes alignés ; *manicata* 38940 (même lot, Confusiones). *lindosensis* 38937 (lot parallèle ZAM-ES08) : lien posé par ZAM-ES08.
-- Liens sortants : genre, *amazonum*, *boliviana*, *brasiliensis*, *hymenophyllidia*, *lecointei*, *furfuracea*, *manicata* 38940 (posé après sa création, Cómo reconocer), *lindosensis* 38937 (posé par ZAM-ES08 à 17:51, brouillon régénéré avec ce lien), « Lee también » 23153, riego, 23195 (200). Sans page ES : *poeppigiana*, *ulei*, *urep*, *restrepoi*.
+- Liens sortants : genre, *amazonum*, *boliviana*, *brasiliensis*, *hymenophyllidia*, *lecointei*, *furfuracea*, *manicata* 38940 (posé après sa création, Cómo reconocer), *lindosensis* 38937 (posé par ZAM-ES08 à 17:51, brouillon régénéré avec ce lien), « Lee también » 23153, riego, 23195 (200). Sans page ES : *ulei*, *urep*, *restrepoi*.
 - GBIF revérifié le 02/11/2026 : EN (clé 5284071), accepté. Species+ revérifié (API publique) : **fiche propre 65550** (Annexe II, UE B) ; répartition Species+ « Peru » seul (non exposé). Aucun nom commun dans Species+.
 - Base : EN 32198 (25/10, protologue Stevenson 2004 relu, étiquettes GBIF, León 2006, Segalla 2023, Lindstrom 2024, Lavaud 2023) et FR 26521, et leurs notes. Rien de Wikipédia (localités, CR 2010, « & Sabato » écartés comme en EN/FR).
 - **Localités (espèce EN, règle Q47)** : en ES, Loreto, « alrededores de Pebas » (district/municipalité), province de Maynas (type), bassins du Napo et du Putumayo, département d'Amazonas ; **non repris** : Pucaurquillo (village), río Ampiyacu, Quebrada Sucusarí, río Alegría (EN/FR/IT les citent : à aligner, hors lot). « (AMAZ, Iquitos) » non ajouté (la ville du herbier n'est pas dans les sources).
@@ -16,3 +16,5 @@
 - Toxicité : formule imposée ; BMAA attribuée à l'ASPCA (*furfuracea*, Q15). °C seulement. JZT : rien de publié (dit). Trebrown : page vide (non cité).
 - Divergences exposées : altitude 100-300 m (protologue, León) / 70-250 m (herbiers) ; auteur « D.W.Stev. » / « & Sabato » (sites secondaires).
 - FAQ : 8 questions.
+
+- 02/11/2026 (lot ZAM-ES12) : lien entrant posé vers *poeppigiana* 39074 (Confusiones posibles) (replace_in_content, simulation groupée 21 puis application 21, chaîne unique) ; brouillon aligné ; « sans page ES » mis à jour.

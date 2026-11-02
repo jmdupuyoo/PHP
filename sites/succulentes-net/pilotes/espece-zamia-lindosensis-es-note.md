@@ -14,6 +14,8 @@
 - JZT : rien de publié (dit).
 - FAQ : 8 questions.
 - Toxicité : formule imposée (glucósidos tóxicos…) ; BMAA seulement attribuée à l'ASPCA pour *Zamia furfuracea* (Q15). °C seulement ; zones USDA avec leur plage (9b = −3,9 à −1,1 °C).
-- Liens internes ES (200) : genre (intro), *amazonum* 38696, *boliviana* 38705, *brasiliensis* 38709, *hymenophyllidia* 38834, *lecointei* 38914, *macrochiera* 38929, *furfuracea* 38780, « Lee también » 23153, riego, 23195. Sans page ES : *poeppigiana*, *ulei*, *urep*, *restrepoi*.
+- Liens internes ES (200) : genre (intro), *amazonum* 38696, *boliviana* 38705, *brasiliensis* 38709, *hymenophyllidia* 38834, *lecointei* 38914, *macrochiera* 38929, *furfuracea* 38780, « Lee también » 23153, riego, 23195. Sans page ES : *ulei*, *urep*, *restrepoi*.
 - Liens entrants posés le 02/11/2026 (première occurrence hors introduction, encadré, titres et sources ; une seule simulation groupée limitée aux 17 id, 18 remplacements attendus = 18, puis application ; brouillons alignés, cmpall identiques hors sommaire ; notes des pages mises à jour) : *macrochiera* 38929 (Confusiones posibles), *lecointei* 38914 (Confusiones posibles). Aucune fiche ES *Cycas* ni page ordre ne cite l'espèce ; page genre 38672 : ligne d'index seule liée (mentions du corps non liées, comme aux lots précédents).
 - 02/11/2026 (ZAM-ES08) : lien sortant vers *Zamia macrochiera* ES 38929 (lot parallèle ZAM-ES09, publiée pendant le lot ; 200) posé (Confusiones posibles, liste des *Zamia* amazoniennes) ; replace_in_content limité à 38937, simulation 1 puis application 1 ; brouillon régénéré depuis le DSL (cmpall : identique hors sommaire).
+
+- 02/11/2026 (lot ZAM-ES12) : lien entrant posé vers *poeppigiana* 39074 (Confusiones posibles) (replace_in_content, simulation groupée 21 puis application 21, chaîne unique) ; brouillon aligné ; « sans page ES » mis à jour.

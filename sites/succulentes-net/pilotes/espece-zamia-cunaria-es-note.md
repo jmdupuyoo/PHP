@@ -13,7 +13,7 @@
 - Pépiniéristes nommés (Q34) : Cycadales.eu, Trebrown (zone 10a = classement commercial, équivalent °C −1,1 à 1,7 °C). Simon Lavaud non nommé (non nécessaire) ; de l'article 2023 : classement de l'espèce (groupe Costa Rica-Panamá-basses terres, « difícil ») et caractérisation brève du groupe (nuits ~22 °C, brèves baisses à 15 °C, humidité 70-90 %), comparaison avec Montpellier attribuée au pépiniériste sans détail personnel ; consignes générales de substrat/eau non reprises. Vannini cité comme auteur, sans « ses collections ».
 - Divergences exposées : altitude 400-800 m (protologue) / « forêt côtière » (Vannini) ; cône femelle 15-20 cm (description) / 20-30 cm (clé) ; statut d'*ipetiensis* (réunion proposée en 2018, non formalisée).
 - Localités : provinces et comarcas seulement ; aucune localité précise (le protologue n'en publiait pas).
-- Liens internes ES (200) : genre (intro), *dressleri* 38718 (lot ZAM-ES03, déjà publiée), « Lee también » 23153, 23175, 23195. Sans page ES : *paucifoliolata*, *pyrophylla*, *restrepoi*, *furfuracea*.
+- Liens internes ES (200) : genre (intro), *dressleri* 38718 (lot ZAM-ES03, déjà publiée), « Lee también » 23153, 23175, 23195. Sans page ES : *pyrophylla*, *restrepoi*, *furfuracea*.
 - FAQ : 7 questions.
 
 - 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
@@ -21,3 +21,5 @@
 - 02/11/2026 (ZAM-ES07) : lien vers *Zamia ipetiensis* ES 38840 posé (Cómo reconocer, « comparten Zamia cunaria y Zamia ipetiensis », première occurrence hors introduction) ; « sans page ES » retiré pour cette espèce (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
 - 02/11/2026 (ZAM-ES10) : lien posé vers *Zamia muricata* ES 39003 (En la naturaleza, « …dividido por vicarianza; las relacionaba con Zamia muricata »), première occurrence hors introduction, encadré, titres et sources ; « sans page ES » retiré ; replace_in_content limité aux id (simulation groupée 17 = attendu, puis application) ; brouillon aligné, cmpall : texte et liens identiques.
 - 02/11/2026 (ZAM-ES11) : lien(s) posé(s) vers *Zamia neurophyllidia* ES 38997 (« …leri, Zamia ipetiensis y Zamia neurophyllidia »), première occurrence hors introduction, encadré, titres et sources ; « sans page ES » retiré ; replace_in_content limité aux id (simulation groupée 23 remplacements sur 16 pages = attendu, puis application) ; brouillon aligné, cmpall : texte et liens identiques.
+
+- 02/11/2026 (lot ZAM-ES12) : lien entrant posé vers *paucifoliolata* 39062 (Taxonomía) (replace_in_content, simulation groupée 21 puis application 21, chaîne unique) ; brouillon aligné ; « sans page ES » mis à jour.
