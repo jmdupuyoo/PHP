@@ -16,3 +16,5 @@
 - Notes de travail EN non reprises : « reference checked on Crossref », « Known from a bibliographic summary / from the abstract » (gardé seulement « según el resumen » dans le texte, comme l'EN).
 - Liens internes ES (200) : genre (intro), « Lee también » 23153, 23175, 23195. Sans page ES : *pumila*, *portoricensis*, *pygmaea*, *stricta*, *integrifolia*, *furfuracea*, *restrepoi*.
 - Divergences exposées : drageonnement (Jungle Music) contre tige rarement ramifiée (Flore de Cuba) et 7 % de plantes ramifiées (1989) ; Trebrown 9b/10a ; République dominicaine (citée parfois, absente de WLoC).
+
+- 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).

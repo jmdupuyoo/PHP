@@ -15,3 +15,5 @@
 - Points douteux (repris EN/FR) : hauteur du tronc inconnue (« 2,5 cm » de la Flora en ligne, coquille probable, exposé) ; forme de l'apex des folioles (Flora contre protologue d'*oligodonta*, exposé) ; parenté non établie ; protologue (Gardeners' Chronicle 1878) non lu.
 - 02/11/2026 (lot ZAM-ES02) : lien vers *Zamia chigua* ES 38715 posé sur la première occurrence (Confusiones posibles, « Zamia chigua, de la misma región pacífica » ; simulation puis application, 1 remplacement) ; brouillon aligné par remplacement ciblé (cmpall : liens identiques, 4).
 - 02/11/2026 (lot ZAM-ES03) : lien vers *Zamia dressleri* ES 38718 posé (Confusiones posibles, « y Zamia dressleri, del centro de Panamá », première occurrence ; simulation puis application, 1 remplacement, appel limité aux id) ; brouillon aligné (cmpall : liens identiques) ; DSL `zes01/amplifolia.dsl` mis à jour. À conserver si le brouillon est régénéré.
+
+- 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).

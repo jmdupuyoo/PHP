@@ -19,3 +19,5 @@
 - Points douteux (repris EN) : largeur des pinnes 1,1-2 cm (tableau) contre 0,8-2 cm (texte), exposé ; La Paz et altitude (Wikipédia, provisoire) ; *Zamia brongniartii* synonyme pour Flora e Funga do Brasil, absent de WLoC (exposé) ; POWO et Liste rouge non consultés directement.
 - 02/11/2026 (lot ZAM-ES02) : lien vers *Zamia brasiliensis* ES 38709 posé sur la première occurrence hors introduction et encadré (« al describir la cercana Zamia brasiliensis: », Cómo reconocer ; simulation puis application, 1 remplacement) ; brouillon aligné par remplacement ciblé (cmpall : liens identiques, 5).
 - 02/11/2026 (lot ZAM-ES03) : lien vers *Zamia encephalartoides* ES 38761 posé (« en Sudamérica solo se conocen en Zamia encephalartoides, Zamia boliviana… » ; simulation puis application, 1 remplacement) ; brouillon aligné (cmpall : liens identiques) ; DSL `zes01/boliviana.dsl` mis à jour.
+
+- 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « la ASPCA clasifica Zamia furfuracea ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).

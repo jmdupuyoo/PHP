@@ -15,3 +15,5 @@
 - Nom espagnol : aucun ; noms anglais *sinkhole cycad* et *corn palm* en italique, traduits entre « ».
 - Liens internes ES (200) : genre (intro), « Lee también » 23153, 23175, 23195. Sans page ES : *prasina*, *variegata*, *tuerckheimii*, *onan-reyesii*, *monticola*, *restrepoi*, *furfuracea*, *Ceratozamia robusta*, *Ceratozamia osbornei* (aucune page ES *Ceratozamia*).
 - Points douteux (repris) : accessions Montgomery de 2001 antérieures à la description (non commentées) ; plein air ou abri en Floride non documenté ; proposition de sous-espèce de *tuerckheimii* = opinion d'un auteur.
+
+- 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).

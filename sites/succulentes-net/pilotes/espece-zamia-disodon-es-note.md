@@ -14,3 +14,6 @@
 - Liens internes ES (200) : genre (intro), « Lee también » semis 23153, arrosage 23175, toxicité 23195. Sans page ES (non liées) : *hymenophyllidia*, *obliqua*, *skinneri*, *manicata*, *restrepoi*, *melanorrhachis*, *sinuensis*, *imbricata*, *furfuracea*. Aucune page ES ne cite l'espèce (hors page genre).
 - Divergences exposées (non tranchées) : altitude 400-800 m (Flora 2001) contre 30-300 m (récoltes citées par Calonje et al. 2021 ; type à 200 m) ; présence au Panama supposée en 2001, non retenue par WLoC. Localités au niveau municipal (Dabeiba, Apartadó, Carepa, Necoclí, San Pedro de Urabá), comme la FR/EN.
 - Zone USDA 10a : −1,1 à 1,7 °C.
+
+- 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
+- 02/11/2026 (lot ZAM-ES05) : lien entrant posé vers *hymenophyllidia* 38834 (Cómo reconocer, « Con Zamia hymenophyllidia es también la única con pinnas membranosas », première occurrence ; replace_in_content limité à 38712, simulation 1 puis application 1) ; brouillon aligné par remplacement ciblé (cmpall : identique hors sommaire). Mention suivante (Confusiones) non liée.

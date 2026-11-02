@@ -15,3 +15,5 @@
 - Localités : États seulement (Tabasco, Chiapas) ; type cité comme dans l'EN (Tabasco, Magaña 343).
 - Liens internes ES (200) : genre (intro), « Lee también » 23153, 23175, 23195. Sans page ES : *purpurea*, *splendens*, *meermanii*, *restrepoi*, *furfuracea*.
 - Points douteux (repris) : protologue relu par la FR seulement ; POWO et Liste rouge non consultés directement ; « clade Purpurea » non repris (comme l'EN).
+
+- 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).

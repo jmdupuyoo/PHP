@@ -15,3 +15,5 @@
 - Cycadales.eu nommé (pépiniériste, Q34), sans nommer Simon Lavaud (non nécessaire : classement de groupe seulement).
 - Liens internes ES (200) : genre (intro), *boliviana* 38705, *amazonum* 38696, *encephalartoides* 38761 (lot ZAM-ES03, lien posé le 02/11 après sa création, simulation puis application, 1), « Lee también » 23153 et 23195. Sans page ES : *ulei*, *multidentata*, *furfuracea*, *restrepoi*.
 - Points douteux (repris FR/EN) : incohérences internes du protologue (1-6 / 1-4 feuilles ; 9-10 / 8-14 rangées ; *boliviana* 0,8-2 / 1,1-2 cm), exposées sans trancher ; températures « basses » 18,9-20,6 °C (variable CHELSA non précisée) ; « seule *Zamia* endémique du Brésil » daté de 2019 ; POWO et Liste rouge non consultés directement.
+
+- 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « la ASPCA clasifica Zamia furfuracea ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).

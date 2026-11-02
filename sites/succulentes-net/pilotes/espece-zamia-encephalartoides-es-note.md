@@ -15,3 +15,6 @@
 - Notes de travail EN non reprises : « as the Red List itself could not be consulted », « reference checked on Crossref », « full references not recorded » (Díaz-Piedrahita, Sabato), « the publications consulted mention no cross ».
 - Liens internes ES (200) : genre (intro), *boliviana* 38705 et *brasiliensis* 38709 (Confusiones), « Lee también » 23153, 23175, 23195. Sans page ES : *Encephalartos* (genre), *inermis*, *muricata*, *lindenii*, *huilensis*, *tolimensis*, *restrepoi*, *furfuracea*.
 - Divergences exposées : altitude 500-760 m (pliegos) contre 500-1000 m (visiteur, estimation) ; effectifs LLIFLE sans source ; « hace unos quince años » de Jungle Music non daté ; Jungle Music « tolérance au froid inconnue » mais « soupçonne » une tolérance au gel.
+- 02/11/2026 (lot ZAM-ES05) : lien entrant posé vers *huilensis* 38803 (Taxonomía, groupe de culture de Lavaud 2023, seule occurrence ; replace_in_content limité à 38761, simulation 1 puis application 1) ; brouillon aligné par remplacement ciblé (cmpall : identique hors sommaire).
+
+- 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).

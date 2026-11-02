@@ -15,3 +15,5 @@
 - Localités : provinces et comarcas seulement ; aucune localité précise (le protologue n'en publiait pas).
 - Liens internes ES (200) : genre (intro), *dressleri* 38718 (lot ZAM-ES03, déjà publiée), « Lee también » 23153, 23175, 23195. Sans page ES : *ipetiensis*, *neurophyllidia*, *paucifoliolata*, *pyrophylla*, *muricata*, *restrepoi*, *furfuracea*.
 - FAQ : 7 questions.
+
+- 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).

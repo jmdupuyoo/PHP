@@ -1,0 +1,20 @@
+# Note — *Zamia hamannii* (ES 38789), https://succulentes.net/es/orden-cycadales/zamia/hamannii/
+
+## Création du 02/11/2026 (lot ZAM-ES05, mode C)
+- Avant création : aucune page ES (list_content ES tous statuts « Zamia » : aucune fiche du lot ; corbeille « Zamia » vide ; hreflang de l'EN 32060 : fr 26495, it 28075, en seulement ; /es/orden-cycadales/zamia/hamannii/ en 404).
+- create_content : page, publish, langue es, parent 38672, slug `hamannii`, titre « Zamia hamannii », translation_of FR 26495 → id **38789**. Hreflang vérifiés sur les quatre langues (fr 26495, it 28075, en 32060, es 38789). Aucune image (ni FR/IT/EN).
+- Brouillon `pilotes/espece-zamia-hamannii-es.html` identique au texte en ligne (verify : seul le sommaire diffère ; liens internes identiques, 4). DSL : scratchpad `zes05/hamannii.dsl`. Rank Math : 4 784 mots.
+- SEO Rank Math : « Zamia hamannii: cícada costera de Bocas del Toro (Panamá) » (57) ; meta 152 car. ; mot-clé « Zamia hamannii » ; aucun problème signalé ; `<title>` vérifié (curl, 200).
+- Index genre ES 38672 : ligne liée (replace_in_content limité à 38672, chaîne « <li><em>Zamia hamannii</em> A.S.Taylor » unique, simulation 1 puis application 1) ; brouillon `genre-zamia-es.html` aligné par remplacement ciblé (cmpall : identique hors sommaire).
+- Lien entrant posé : *dressleri* 38718 (Confusiones, groupe de *Zamia skinneri*) ; simulation 1 puis application 1 ; brouillon et note de *dressleri* alignés.
+- GBIF revérifié le 02/11/2026 : VU (clé 5638609), accepté. Species+ revérifié le 02/11/2026 (API publique) : **fiche propre 65543** (Annexe II en vigueur depuis le 05/03/2026, UE B depuis le 29/06/2026), Panama ; **quota d'exportation nul du Panama pour les spécimens sauvages depuis le 19/06/2025** (mesure nationale plus stricte, notification CITES 2025/079) → ajoutés (encadré, Estado de conservación, source 65543). L'EN/FR disent encore « pas de fiche séparée, couvert par *Zamia* spp. » (à actualiser, hors lot).
+- Base : EN 32060 (25/10) et FR 26495 (protologue Taylor, Haynes & Holzman 2008 lu en entier ; TVN 18/04/2022 ; Fous de palmiers 2012-2015 ; Vannini 2019) et leurs notes.
+- Toxicité : formule imposée (« glucósidos tóxicos (cicasina, macrozamina), de los que deriva el metilazoximetanol ») ; BMAA seulement attribuée à l'ASPCA pour *Zamia furfuracea* au niveau du genre (Q15). °C seulement (°F de l'EN retirés) ; aucune zone USDA. JZT : rien de publié (dit).
+- **Localités (espèce VU, règle « municipalité au plus »)** : l'EN/FR nomment l'île Escudo de Veraguas (MiAmbiente/TVN), l'aire protégée « Escudo de Veraguas-Degó », la péninsule de Valiente (Vannini) et le nom de graines « *Zamia* sp. Punta Valiente » ; en ES : « una isla protegida frente a la costa caribeña » (comarca Ngäbe-Buglé), « una península y los islotes cercanos », « un nombre provisional de localidad », « el área protegida ». Le titre de l'article TVN (« área protegida de Veraguas ») est gardé en source.
+- Forums : Fous de palmiers cités anonymement (Côte Bleue, Gard, Dordogne, Nantes, Ain/Hérault ; correspondant grec de seconde main) ; titres des fils non repris (l'un contient un pseudonyme). Côte Bleue : Marignane −3,0 °C le 10/02/2015 (station non côtière, valeur subie inconnue), comme l'EN.
+- Pas de Lavaud (l'EN/FR ne le citent pas pour cette espèce). Vannini cité comme auteur d'un article publié (collection privée du Queensland non nommée).
+- Notes de travail EN non reprises : aucune visible dans l'EN 32060.
+- Liens internes ES (200) : genre (intro), « Lee también » 23153, 23175, 23195. Sans page ES : *skinneri*, *imperialis*, *nesophila*, *neurophyllidia*, *lindenii*, *manicata*, *restrepoi*, *furfuracea*.
+- Divergences exposées : répartition (île selon MiAmbiente / péninsule et îlots selon Vannini / protologue sans localités) ; CR proposé en 2008 / VU en 2022 ; aucun prélèvement constaté en 2008 / saisie de 2022.
+
+- 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).

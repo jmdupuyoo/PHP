@@ -15,3 +15,5 @@
 - Liens entrants : aucune page ES ne cite l'espèce (fiches ES *Cycas*, articles ES, page ordre : aucune mention), en dehors de l'index du genre.
 - Points douteux (repris EN/FR) : protologue lu tel que reproduit par Lindström et al. 2013 ; aire WLoC (San José) contre Acuña-Castillo 2010 (aussi Puntarenas), exposé ; identité des accessions de Montgomery et des déclarations BGCI ; *Eumaeus* « sur d'autres espèces costariciennes » sans source précise (repris de la FR/EN).
 - Forums ES (InfoJardín, Club de Palmeras) : rien de connu pour l'espèce ; non interrogés (aucune donnée attendue pour une espèce absente du commerce espagnol).
+
+- 02/11/2026 (ZAM-ES04) : liens vers *Zamia fairchildiana* ES 38793 (Confusiones posibles), *Zamia fischeri* ES 38786 (Confusiones, « Zamia vazquezii o Zamia fischeri mexicanas ») et *Zamia furfuracea* ES 38780 (Toxicidad) posés ; 3 remplacements (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
