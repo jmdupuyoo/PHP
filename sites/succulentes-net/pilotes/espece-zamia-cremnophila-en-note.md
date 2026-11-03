@@ -32,5 +32,5 @@
 ## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
 - annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
 - Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
-- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 4 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
 - Méthode : simulation puis application (replace_in_content, page 31239), REST contrôlé = brouillon, brouillon aligné.
