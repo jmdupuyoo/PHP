@@ -1,0 +1,258 @@
+# Fiches FR manquantes, ordre Cycadales (référence : The World List of Cycads v. 2026.08.15)
+
+Statut : à faire / brouillon / publiée. Source existante : langue d'une fiche déjà publiée sur le site (à vérifier, pas à traduire).
+
+| Genre | Espèce | Source existante | UICN (WLoC) | Statut |
+|---|---|---|---|---|
+| Bowenia | *Bowenia serrulata* | EN | Least Concern | publiée (26126) |
+| Bowenia | *Bowenia spectabilis* | EN | Least Concern | publiée (26130) |
+| Cycas | *Cycas dolichophylla* | EN | Near Threatened | publiée (26146) |
+| Cycas | *Cycas elephantipes* | EN | Endangered | publiée (26150) |
+| Cycas | *Cycas elongata* | EN | Endangered | publiée (26154) |
+| Cycas | *Cycas lindstromii* | EN | Endangered | publiée (26158) |
+| Cycas | *Cycas micronesica* | EN | Endangered | publiée (26163) |
+| Cycas | *Cycas pectinata* | EN | Vulnerable | publiée (26165) |
+| Dioon | *Dioon argenteum* | EN | Vulnerable | publiée (26124) |
+| Dioon | *Dioon caputoi* | EN | Endangered | publiée (26128) |
+| Dioon | *Dioon oaxacensis* | EN | Not Evaluated | publiée (26133) |
+| Dioon | *Dioon planifolium* | EN | Vulnerable | publiée (26137) |
+| Dioon | *Dioon purpusii* | EN | Endangered | publiée (26139) |
+| Dioon | *Dioon rzedowskii* | EN | Endangered | publiée (26144) |
+| Dioon | *Dioon salas-moralesiae* | EN | Not Evaluated | publiée (26148) |
+| Dioon | *Dioon stevensonii* | EN | Endangered | publiée (26152) |
+| Dioon | *Dioon tomasellii* | EN | Vulnerable | publiée (26156) |
+| Dioon | *Dioon vovidesii* | EN | Not Evaluated | publiée (26160) |
+| Encephalartos | *Encephalartos aemulans* | EN | Critically Endangered | publiée (26207) |
+| Encephalartos | *Encephalartos aplanatus* | EN | Vulnerable | publiée (26211) |
+| Encephalartos | *Encephalartos arenarius* | EN | Endangered | publiée (26215) |
+| Encephalartos | *Encephalartos barteri* | EN | Vulnerable | publiée (26219) |
+| Encephalartos | *Encephalartos brevifoliolatus* | EN | Extinct in the Wild | publiée (26223) |
+| Encephalartos | *Encephalartos bubalinus* | EN | Vulnerable | publiée (26227) |
+| Encephalartos | *Encephalartos cerinus* | EN | Critically Endangered | publiée (26181) |
+| Encephalartos | *Encephalartos chimanimaniensis* | EN | Endangered | publiée (26190) |
+| Encephalartos | *Encephalartos concinnus* | EN | Critically Endangered | publiée (26197) |
+| Encephalartos | *Encephalartos cupidus* | EN | Critically Endangered | publiée (26230) |
+| Encephalartos | *Encephalartos cycadifolius* | EN | Least Concern | publiée (26205) |
+| Encephalartos | *Encephalartos dolomiticus* | EN | Critically Endangered | publiée (26209) |
+| Encephalartos | *Encephalartos dyerianus* | EN | Critically Endangered | publiée (26170) |
+| Encephalartos | *Encephalartos equatorialis* | EN | Critically Endangered | publiée (26176) |
+| Encephalartos | *Encephalartos eugene-maraisii* | EN | Endangered | publiée (26184) |
+| Encephalartos | *Encephalartos ghellinckii* | EN | Vulnerable | publiée (26192) |
+| Encephalartos | *Encephalartos heenanii* | EN | Extinct in the Wild | publiée (26198) |
+| Encephalartos | *Encephalartos hirsutus* | EN | Critically Endangered | publiée (26194) |
+| Encephalartos | *Encephalartos humilis* | EN | Vulnerable | publiée (26213) |
+| Encephalartos | *Encephalartos laevifolius* | EN | Critically Endangered | publiée (26217) |
+| Encephalartos | *Encephalartos lanatus* | EN | Vulnerable | publiée (26221) |
+| Encephalartos | *Encephalartos latifrons* | EN | Critically Endangered | publiée (26225) |
+| Encephalartos | *Encephalartos macrostrobilus* | EN | Critically Endangered | publiée (26229) |
+| Encephalartos | *Encephalartos manikensis* | EN | Vulnerable | publiée (26178) |
+| Encephalartos | *Encephalartos ngoyanus* | EN | Vulnerable | publiée (26196) |
+| Encephalartos | *Encephalartos nubimontanus* | EN | Extinct in the Wild | publiée (26171) |
+| Encephalartos | *Encephalartos pterogonus* | EN | Critically Endangered | publiée (26186) |
+| Encephalartos | *Encephalartos relictus* | EN | Extinct in the Wild | publiée (26168) |
+| Encephalartos | *Encephalartos schaijesii* | EN | Vulnerable | publiée (26174) |
+| Encephalartos | *Encephalartos septentrionalis* | EN | Least Concern | publiée (26195) |
+| Encephalartos | *Encephalartos tegulaneus* | EN | Least Concern | publiée (26180) |
+| Encephalartos | *Encephalartos turneri* | EN | Least Concern | publiée (26187) |
+| Lepidozamia | *Lepidozamia hopei* | EN | Least Concern | publiée (26135) |
+| Lepidozamia | *Lepidozamia peroffskyana* | EN | Least Concern | publiée (26141) |
+| Macrozamia | *Macrozamia concinna* | EN | Least Concern | publiée (26242) |
+| Macrozamia | *Macrozamia diplomera* | EN | Least Concern | publiée (26250) |
+| Macrozamia | *Macrozamia dyeri* | EN | Least Concern | publiée (26282) |
+| Macrozamia | *Macrozamia elegans* | EN | Endangered | publiée (26257) |
+| Macrozamia | *Macrozamia fearnsidei* | EN | Least Concern | publiée (26264) |
+| Macrozamia | *Macrozamia flexuosa* | EN | Near Threatened | publiée (26278) |
+| Macrozamia | *Macrozamia fraseri* | EN | Least Concern | publiée (26273) |
+| Macrozamia | *Macrozamia glaucophylla* | EN | Least Concern | publiée (26252) |
+| Macrozamia | *Macrozamia heteromera* | EN | Least Concern | publiée (26245) |
+| Macrozamia | *Macrozamia johnsonii* | EN | Vulnerable | publiée (26275) |
+| Macrozamia | *Macrozamia lucida* | EN | Least Concern | publiée (26268) |
+| Macrozamia | *Macrozamia macdonnellii* | EN | Least Concern | publiée (26261) |
+| Macrozamia | *Macrozamia montana* | EN | Least Concern | publiée (26238) |
+| Macrozamia | *Macrozamia mountperriensis* | EN | Least Concern | publiée (26254) |
+| Macrozamia | *Macrozamia pauli-guilielmi* | EN | Endangered | publiée (26246) |
+| Macrozamia | *Macrozamia reducta* | EN | Least Concern | publiée (26259) |
+| Macrozamia | *Macrozamia riedlei* | EN | Least Concern | publiée (26236) |
+| Macrozamia | *Macrozamia spiralis* | EN | Endangered | publiée (26239) |
+| Macrozamia | *Macrozamia stenomera* | EN | Near Threatened | publiée (26266) |
+| Ceratozamia | *Ceratozamia alba* | — | Not Evaluated | publiée (26355) |
+| Ceratozamia | *Ceratozamia alvarezii* | — | Endangered | publiée (26357) |
+| Ceratozamia | *Ceratozamia aurantiaca* | — | Not Evaluated | publiée (26359) |
+| Ceratozamia | *Ceratozamia becerrae* | — | Not Evaluated | publiée (26361) |
+| Ceratozamia | *Ceratozamia brevifrons* | — | Endangered | publiée (26363) |
+| Ceratozamia | *Ceratozamia chamberlainii* | — | Endangered | publiée (26365) |
+| Ceratozamia | *Ceratozamia chimalapensis* | — | Endangered | publiée (26367) |
+| Ceratozamia | *Ceratozamia chinantlensis* | — | Not Evaluated | publiée (26369) |
+| Ceratozamia | *Ceratozamia decumbens* | — | Endangered | publiée (26371) |
+| Ceratozamia | *Ceratozamia delucana* | — | Endangered | publiée (26375) |
+| Ceratozamia | *Ceratozamia dominguezii* | — | Not Evaluated | publiée (26379) |
+| Ceratozamia | *Ceratozamia euryphyllidia* | — | Endangered | publiée (26377) |
+| Ceratozamia | *Ceratozamia gigantea* | — | Not Evaluated | publiée (26413) |
+| Ceratozamia | *Ceratozamia guatemalensis* | — | Not Evaluated | publiée (26410) |
+| Ceratozamia | *Ceratozamia hildae* | — | Critically Endangered | publiée (26418) |
+| Ceratozamia | *Ceratozamia hondurensis* | — | Critically Endangered | publiée (26383) |
+| Ceratozamia | *Ceratozamia huastecorum* | — | Critically Endangered | publiée (26391) |
+| Ceratozamia | *Ceratozamia kuesteriana* | — | Critically Endangered | publiée (26400) |
+| Ceratozamia | *Ceratozamia latifolia* | — | Vulnerable | publiée (26422) |
+| Ceratozamia | *Ceratozamia leptoceras* | — | Not Evaluated | publiée (26404) |
+| Ceratozamia | *Ceratozamia matudae* | — | Endangered | publiée (26408) |
+| Ceratozamia | *Ceratozamia mexicana* | — | Critically Endangered | publiée (26426) |
+| Ceratozamia | *Ceratozamia miqueliana* | — | Endangered | publiée (26452) |
+| Ceratozamia | *Ceratozamia mirandae* | — | Endangered | publiée (26454) |
+| Ceratozamia | *Ceratozamia mixeorum* | — | Endangered | publiée (26456) |
+| Ceratozamia | *Ceratozamia morettii* | — | Endangered | publiée (26458) |
+| Ceratozamia | *Ceratozamia norstogii* | — | Endangered | publiée (26460) |
+| Ceratozamia | *Ceratozamia oliversacksii* | — | Not Evaluated | publiée (26462) |
+| Ceratozamia | *Ceratozamia osbornei* | — | Not Evaluated | publiée (26464) |
+| Ceratozamia | *Ceratozamia popolucana* | — | Not Evaluated | publiée (26466) |
+| Ceratozamia | *Ceratozamia reesii* | — | Not Evaluated | publiée (26468) |
+| Ceratozamia | *Ceratozamia robusta* | — | Endangered | publiée (26472) |
+| Ceratozamia | *Ceratozamia rosea* | — | Not Evaluated | publiée (26476) |
+| Ceratozamia | *Ceratozamia sabatoi* | — | Endangered | publiée (26373) |
+| Ceratozamia | *Ceratozamia sancheziae* | — | Not Evaluated | publiée (26416) |
+| Ceratozamia | *Ceratozamia santillanii* | — | Critically Endangered | publiée (26420) |
+| Ceratozamia | *Ceratozamia schiblii* | — | Not Evaluated | publiée (26424) |
+| Ceratozamia | *Ceratozamia subroseophylla* | — | Endangered | publiée (26381) |
+| Ceratozamia | *Ceratozamia tenuis* | — | Endangered | publiée (26397) |
+| Ceratozamia | *Ceratozamia totonacorum* | — | Vulnerable | publiée (26402) |
+| Ceratozamia | *Ceratozamia vovidesii* | — | Vulnerable | publiée (26428) |
+| Ceratozamia | *Ceratozamia whitelockiana* | — | Endangered | publiée (26406) |
+| Ceratozamia | *Ceratozamia zaragozae* | — | Endangered | publiée (26412) |
+| Ceratozamia | *Ceratozamia zoquorum* | — | Critically Endangered | publiée (26438) |
+| Cycas | *Cycas aenigma* | — | Endangered | publiée (26570) |
+| Cycas | *Cycas angulata* | — | Least Concern | publiée (26591) |
+| Cycas | *Cycas annaikalensis* | — | Critically Endangered | publiée (26601) |
+| Cycas | *Cycas apoa* | — | Least Concern | publiée (26605) |
+| Cycas | *Cycas arenicola* | — | Least Concern | publiée (26609) |
+| Cycas | *Cycas arnhemica* | — | Least Concern | publiée (26613) |
+| Cycas | *Cycas badensis* | — | Least Concern | publiée (26618) |
+| Cycas | *Cycas basaltica* | — | Least Concern | publiée (26620) |
+| Cycas | *Cycas bougainvilleana* | — | Near Threatened | publiée (26622) |
+| Cycas | *Cycas brunnea* | — | Near Threatened | publiée (26624) |
+| Cycas | *Cycas cairnsiana* | — | Near Threatened | publiée (26626) |
+| Cycas | *Cycas campestris* | — | Near Threatened | publiée (26628) |
+| Cycas | *Cycas canalis* | — | Least Concern | publiée (26630) |
+| Cycas | *Cycas candida* | — | Endangered | publiée (26632) |
+| Cycas | *Cycas cantafolia* | — | Vulnerable | publiée (26634) |
+| Cycas | *Cycas clivicola* | — | Least Concern | publiée (26636) |
+| Cycas | *Cycas conferta* | — | Vulnerable | publiée (26638) |
+| Cycas | *Cycas couttsiana* | — | Near Threatened | publiée (26640) |
+| Cycas | *Cycas cupida* | — | Near Threatened | publiée (26642) |
+| Cycas | *Cycas curranii* | — | Critically Endangered | publiée (26644) |
+| Cycas | *Cycas desolata* | — | Near Threatened | publiée (26649) |
+| Cycas | *Cycas dharmrajii* | — | Not Evaluated | publiée (26651) |
+| Cycas | *Cycas distans* | — | Endangered | publiée (26653) |
+| Cycas | *Cycas divyadarshanii* | — | Not Evaluated | publiée (26655) |
+| Cycas | *Cycas edentata* | — | Endangered | publiée (26657) |
+| Cycas | *Cycas falcata* | — | Vulnerable | publiée (26659) |
+| Cycas | *Cycas flabellata* | — | Not Evaluated | publiée (26661) |
+| Cycas | *Cycas fugax* | — | Critically Endangered | publiée (26663) |
+| Cycas | *Cycas furfuracea* | — | Least Concern | publiée (26680) |
+| Cycas | *Cycas glauca* | — | Critically Endangered | publiée (26684) |
+| Cycas | *Cycas indica* | — | Endangered | publiée (26683) |
+| Cycas | *Cycas inermis* | — | Vulnerable | publiée (26699) |
+| Cycas | *Cycas javana* | — | Critically Endangered | publiée (26687) |
+| Cycas | *Cycas lacrimans* | — | Endangered | publiée (26690) |
+| Cycas | *Cycas lane-poolei* | — | Least Concern | publiée (26681) |
+| Cycas | *Cycas maconochiei* | — | Least Concern | publiée (26682) |
+| Cycas | *Cycas macrocarpa* | — | Vulnerable | publiée (26696) |
+| Cycas | *Cycas mindanaensis* | — | Not Evaluated | publiée (26692) |
+| Cycas | *Cycas montana* | — | Least Concern | publiée (26685) |
+| Cycas | *Cycas nathorstii* | — | Vulnerable | publiée (26688) |
+| Cycas | *Cycas nayagarhensis* | — | Critically Endangered | publiée (26697) |
+| Cycas | *Cycas nitida* | — | Endangered | publiée (26691) |
+| Cycas | *Cycas nongnoochiae* | — | Vulnerable | publiée (26717) |
+| Cycas | *Cycas ophiolitica* | — | Vulnerable | publiée (26715) |
+| Cycas | *Cycas orientis* | — | Least Concern | publiée (26700) |
+| Cycas | *Cycas orixensis* | — | Critically Endangered | publiée (26694) |
+| Cycas | *Cycas papuana* | — | Least Concern | publiée (26712) |
+| Cycas | *Cycas petraea* | — | Endangered | publiée (26719) |
+| Cycas | *Cycas platyphylla* | — | Endangered | publiée (26721) |
+| Cycas | *Cycas pranburiensis* | — | Critically Endangered | publiée (26724) |
+| Cycas | *Cycas pruinosa* | — | Least Concern | publiée (26726) |
+| Cycas | *Cycas riuminiana* | — | Endangered | publiée (26728) |
+| Cycas | *Cycas sancti-lasallei* | — | Critically Endangered | publiée (26730) |
+| Cycas | *Cycas saxatilis* | — | Vulnerable | publiée (26732) |
+| Cycas | *Cycas schumanniana* | — | Near Threatened | publiée (26734) |
+| Cycas | *Cycas scratchleyana* | — | Least Concern | publiée (26736) |
+| Cycas | *Cycas semota* | — | Vulnerable | publiée (26738) |
+| Cycas | *Cycas seshachalamensis* | — | Not Evaluated | publiée (26740) |
+| Cycas | *Cycas silvestris* | — | Near Threatened | publiée (26745) |
+| Cycas | *Cycas sphaerica* | — | Endangered | publiée (26747) |
+| Cycas | *Cycas sundaica* | — | Least Concern | publiée (26749) |
+| Cycas | *Cycas tansachana* | — | Critically Endangered | publiée (26751) |
+| Cycas | *Cycas terryana* | — | Vulnerable | publiée (26753) |
+| Cycas | *Cycas tuckeri* | — | Vulnerable | publiée (26755) |
+| Cycas | *Cycas vespertilio* | — | Vulnerable | publiée (26757) |
+| Cycas | *Cycas wadei* | — | Critically Endangered | publiée (26759) |
+| Cycas | *Cycas xipholepis* | — | Least Concern | publiée (26761) |
+| Cycas | *Cycas yorkiana* | — | Near Threatened | publiée (26763) |
+| Cycas | *Cycas zambalensis* | — | Critically Endangered | publiée (26765) |
+| Encephalartos | *Encephalartos afer* | — | Near Threatened | publiée (26313) |
+| Encephalartos | *Encephalartos delucanus* | — | Endangered | publiée (26346) |
+| Encephalartos | *Encephalartos mackenziei* | — | Critically Endangered | publiée (26352) |
+| Encephalartos | *Encephalartos marunguensis* | — | Vulnerable | publiée (26335) |
+| Encephalartos | *Encephalartos poggei* | — | Least Concern | publiée (26328) |
+| Encephalartos | *Encephalartos schmitzii* | — | Vulnerable | publiée (26341) |
+| Macrozamia | *Macrozamia cardiacensis* | — | Vulnerable | publiée (26291) |
+| Macrozamia | *Macrozamia conferta* | — | Vulnerable | publiée (26295) |
+| Macrozamia | *Macrozamia cranei* | — | Endangered | publiée (26311) |
+| Macrozamia | *Macrozamia crassifolia* | — | Vulnerable | publiée (26299) |
+| Macrozamia | *Macrozamia douglasii* | — | Least Concern | publiée (26289) |
+| Macrozamia | *Macrozamia fawcettii* | — | Near Threatened | publiée (26305) |
+| Macrozamia | *Macrozamia humilis* | — | Critically Endangered | publiée (26307) |
+| Macrozamia | *Macrozamia lomandroides* | — | Endangered | publiée (26316) |
+| Macrozamia | *Macrozamia longispina* | — | Near Threatened | publiée (26303) |
+| Macrozamia | *Macrozamia machinii* | — | Vulnerable | publiée (26327) |
+| Macrozamia | *Macrozamia macleayi* | — | Least Concern | publiée (26297) |
+| Macrozamia | *Macrozamia occidua* | — | Vulnerable | publiée (26333) |
+| Macrozamia | *Macrozamia parcifolia* | — | Endangered | publiée (26340) |
+| Macrozamia | *Macrozamia platyrhachis* | — | Endangered | publiée (26337) |
+| Macrozamia | *Macrozamia plurinervia* | — | Endangered | publiée (26309) |
+| Macrozamia | *Macrozamia polymorpha* | — | Least Concern | publiée (26301) |
+| Macrozamia | *Macrozamia secunda* | — | Vulnerable | publiée (26293) |
+| Macrozamia | *Macrozamia serpentina* | — | Near Threatened | publiée (26331) |
+| Macrozamia | *Macrozamia viridis* | — | Endangered | publiée (26318) |
+| Zamia | *Zamia acuminata* | — | Vulnerable | publiée (26470) |
+| Zamia | *Zamia cunaria* | — | Endangered | publiée (26474) |
+| Zamia | *Zamia disodon* | — | Endangered | publiée (26477) |
+| Zamia | *Zamia dressleri* | — | Endangered | publiée (26480) |
+| Zamia | *Zamia fairchildiana* | — | Near Threatened | publiée (26484) |
+| Zamia | *Zamia gentryi* | — | Endangered | publiée (26487) |
+| Zamia | *Zamia gomeziana* | — | Near Threatened | publiée (26491) |
+| Zamia | *Zamia hamannii* | — | Vulnerable | publiée (26495) |
+| Zamia | *Zamia herrerae* | — | Vulnerable | publiée (26499) |
+| Zamia | *Zamia huilensis* | — | Endangered | publiée (26503) |
+| Zamia | *Zamia hymenophyllidia* | — | Least Concern | publiée (26507) |
+| Zamia | *Zamia imbricata* | — | Not Evaluated | publiée (26483) |
+| Zamia | *Zamia incognita* | — | Endangered | publiée (26488) |
+| Zamia | *Zamia ipetiensis* | — | Endangered | publiée (26492) |
+| Zamia | *Zamia katzeriana* | — | Critically Endangered | publiée (26497) |
+| Zamia | *Zamia lawsoniana* | — | Not Evaluated | publiée (26501) |
+| Zamia | *Zamia lecointei* | — | Least Concern | publiée (26505) |
+| Zamia | *Zamia lindenii* | — | Endangered | publiée (26510) |
+| Zamia | *Zamia lindleyi* | — | Endangered | publiée (26517) |
+| Zamia | *Zamia lindosensis* | — | Not Evaluated | publiée (26519) |
+| Zamia | *Zamia macrochiera* | — | Endangered | publiée (26521) |
+| Zamia | *Zamia manicata* | — | Near Threatened | publiée (26523) |
+| Zamia | *Zamia meermanii* | — | Endangered | publiée (26542) |
+| Zamia | *Zamia melanorrhachis* | — | Endangered | publiée (26556) |
+| Zamia | *Zamia multidentata* | — | Not Evaluated | publiée (26550) |
+| Zamia | *Zamia muricata* | — | Least Concern | publiée (26548) |
+| Zamia | *Zamia nesophila* | — | Critically Endangered | publiée (26544) |
+| Zamia | *Zamia onan-reyesii* | — | Endangered | publiée (26558) |
+| Zamia | *Zamia oreillyi* | — | Critically Endangered | publiée (26562) |
+| Zamia | *Zamia orinoquiensis* | — | Not Evaluated | publiée (26546) |
+| Zamia | *Zamia paucifoliolata* | — | Not Evaluated | publiée (26552) |
+| Zamia | *Zamia paucijuga* | — | Near Threatened | publiée (26566) |
+| Zamia | *Zamia pyrophylla* | — | Critically Endangered | publiée (26554) |
+| Zamia | *Zamia restrepoi* | — | Critically Endangered | publiée (26560) |
+| Zamia | *Zamia sandovalii* | — | Endangered | publiée (26603) |
+| Zamia | *Zamia sinuensis* | — | Not Evaluated | publiée (26564) |
+| Zamia | *Zamia spartea* | — | Critically Endangered | publiée (26596) |
+| Zamia | *Zamia standleyi* | — | Least Concern | publiée (26607) |
+| Zamia | *Zamia stenophyllidia* | — | Not Evaluated | publiée (26611) |
+| Zamia | *Zamia stevensonii* | — | Endangered | publiée (26614) |
+| Zamia | *Zamia tolimensis* | — | Endangered | publiée (26599) |
+| Zamia | *Zamia urarinorum* | — | Not Evaluated | publiée (26590) |
+| Zamia | *Zamia urep* | — | Endangered | publiée (26568) |

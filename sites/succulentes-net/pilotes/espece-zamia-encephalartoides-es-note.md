@@ -1,0 +1,28 @@
+# Note — *Zamia encephalartoides* (ES 38761), https://succulentes.net/es/orden-cycadales/zamia/encephalartoides/
+
+## Création du 02/11/2026 (lot ZAM-ES03, mode C)
+- Avant création : aucune page ES (list_content ES tous statuts « Zamia » : aucune fiche du lot ; corbeille « Zamia » vide ; REST slug `encephalartoides` : FR 22294, IT 28029, EN 20399 seulement ; /es/orden-cycadales/zamia/encephalartoides/ en 404, aucune redirection).
+- create_content : page, publish, langue es, parent 38672, slug `encephalartoides`, titre « Zamia encephalartoides », translation_of FR 22294 → id **38761**. Hreflang vérifiés sur les quatre langues (fr 22294, it 28029, en 20399, es 38761). Aucune image (ni FR/IT/EN).
+- Brouillon `pilotes/espece-zamia-encephalartoides-es.html` identique au texte en ligne (verify/cmpall : seul le sommaire diffère ; liens internes identiques, 6). DSL : scratchpad `zes03/encephalartoides.dsl` (outil `mkz.py` de ZAM-ES01). Rank Math : 4 115 mots.
+- SEO Rank Math : « Zamia encephalartoides: la Zamia con tronco del Chicamocha » (58) ; meta 148 car. ; mot-clé « Zamia encephalartoides » ; aucun problème signalé ; `<title>` vérifié (curl, 200).
+- Index genre ES 38672 : ligne liée (replace_in_content limité à 38672, simulation 1 puis application 1) ; brouillon `genre-zamia-es.html` aligné par remplacement ciblé (cmpall : identique hors sommaire).
+- GBIF revérifié le 02/11/2026 : EN ; WCVP : accepté. Species+ revérifié le 02/11/2026 (API publique) : fiche propre 23145 (Annexe II, UE B en vigueur depuis le 29/06/2026) ; Colombie ; l'EN/FR disent « pas de fiche séparée » (à actualiser, hors lot) → lien 23145 en source.
+- Toxicité : formule imposée (« glucósidos tóxicos (cicasina, macrozamina), de los que deriva el metilazoximetanol ») ; BMAA seulement attribuée à l'ASPCA pour *Zamia furfuracea* au niveau du genre, comme dans la FR et l'EN (décision Q15). °C seulement ; zones USDA de Trebrown données comme classement commercial avec leur équivalent °C. JZT : rien de publié (dit).
+- Base : EN 20399 (24/10, protologue *Flora de Colombia* 21, LLIFLE, Jungle Music, Cycadales.eu, Fous de palmiers, WLoC, Crossref, BGCI, Montgomery, Trebrown) et FR 22294 et leurs notes ; rien des anciennes affirmations écartées par la note EN.
+- Lavaud : classement de l'espèce (groupe sud-américain des écosystèmes saisonnièrement secs, difficulté « moyenne ») et sa justification (serre hors gel, sec en hiver) repris ; consignes générales du groupe mexicain (5-10 °C, 20-25 °C, 15-20 °C, 25-30 °C) non reprises (Q42 par analogie).
+- Localités : « près d'Umpalá » (LLIFLE, sous-municipal) retiré ; « deux localités » et canyon du Chicamocha (grand ensemble géographique) gardés.
+- Jardins : ajout des déclarations BGCI hors US/AU/UK relevées dans la note EN (Bogotá, Cartagena, Medellín, Fairy Lake, Marimurtra (Espagne), Lyon, Blijdenstein, Prague), avec la réserve BGCI.
+- Notes de travail EN non reprises : « as the Red List itself could not be consulted », « reference checked on Crossref », « full references not recorded » (Díaz-Piedrahita, Sabato), « the publications consulted mention no cross ».
+- Liens internes ES (200) : genre (intro), *boliviana* 38705 et *brasiliensis* 38709 (Confusiones), « Lee también » 23153, 23175, 23195. Sans page ES : *Encephalartos* (genre), *inermis*, *muricata*, *huilensis*, *furfuracea*.
+- Divergences exposées : altitude 500-760 m (pliegos) contre 500-1000 m (visiteur, estimation) ; effectifs LLIFLE sans source ; « hace unos quince años » de Jungle Music non daté ; Jungle Music « tolérance au froid inconnue » mais « soupçonne » une tolérance au gel.
+- 02/11/2026 (lot ZAM-ES05) : lien entrant posé vers *huilensis* 38803 (Taxonomía, groupe de culture de Lavaud 2023, seule occurrence ; replace_in_content limité à 38761, simulation 1 puis application 1) ; brouillon aligné par remplacement ciblé (cmpall : identique hors sommaire).
+
+- 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
+
+- 02/11/2026 (ZAM-ES06) : lien vers *Zamia inermis* ES 38873 posé (Cómo reconocer, « La diagnosis latina la compara con Zamia inermis ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques) ; mention « sans page ES » de *Zamia inermis* caduque.
+
+- 02/11/2026 (ZAM-ES08) : lien vers *Zamia lindenii* ES 38926 posé (Cultivo de Zamia encephalartoides, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES17) : lien(s) ES entrant(s) posé(s) vers *tolimensis* 39270 (Cultivo de Zamia encephalartoides) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.
+
+- 02/11/2026 (bilan *Zamia* ES, lot ZAM-ES18) : équivalent °C ajouté à une zone USDA citée sans conversion (« una clasificación en la zona USDA 10a (mínima media anual de −1,1 a 1,7 °C), propia y comercial… ») ; simulation puis application (1) ; brouillon aligné.

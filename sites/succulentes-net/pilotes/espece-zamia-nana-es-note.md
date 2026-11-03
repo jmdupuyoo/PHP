@@ -1,0 +1,20 @@
+# Note — *Zamia nana* (ES 39012), https://succulentes.net/es/orden-cycadales/zamia/nana/
+
+## Création du 02/11/2026 (lot ZAM-ES10, mode C)
+- Avant création : aucune page ES (list_content ES tous statuts ; corbeille vide ; aucune redirection ; hreflang de l'EN 32271 : fr 29452, it 29493, en ; URL ES en 404, revérifiée après la reprise).
+- create_content : page, publish, es, parent 38672, slug `nana`, titre « Zamia nana », translation_of FR 29452 → id **39012**. Hreflang vérifiés (fr 29452, it 29493, en 32271, es 39012). Aucune image.
+- Brouillon `pilotes/espece-zamia-nana-es.html` identique au texte en ligne (verify). DSL : `zes10/nana.dsl`. Rank Math : 5 541 mots.
+- SEO : « Zamia nana: la cícada enana panameña, antes Zamia acuminata » (59 ; premier essai à 44 car. corrigé) ; meta 154 ; mot-clé « Zamia nana » ; aucun problème ; `<title>` vérifié.
+- Index genre ES 38672 : ligne liée (« <li><em>Zamia nana</em> A.Lindstr. », simulation 1 puis application 1) ; brouillon genre aligné ; contrôle REST : les cinq lignes du lot liées.
+- Base : EN 32271 (25/10) et FR 29452 / IT 29493 (protologue Lindström et al. 2013 lu sur cycad.org, Taylor et al. 2012, Vannini 2019, Lavaud 2023, IPNI, WCVP, Bramblett 2013, Lindstrom 2024, Montgomery, BGCI, EPPO) et leurs notes. GBIF revérifié le 02/11 : EN (8211340). Species+ revérifié le 02/11 : fiche 65537 (II / UE B), **cupo de exportación nulo du Panama pour les spécimens sauvages depuis le 19/06/2025** (notification 2025/079, suspension « stricter domestic measures » en vigueur ; celle de 2023 terminée) — déjà dans l'EN.
+- Simon Lavaud nommé : données propres à l'espèce (« idéale pour la culture en pot », températures moyennes ~25 °C) et classement de groupe (« difícil en clima templado », Q44) ; **non repris** : recette de groupe de l'EN (22 °C la nuit, 15 °C, 28-30 °C, 70-90 %, substrat/eau neutres à acides).
+- **Localités (EN, Q47)** : ramenées à la provincia de Coclé et au distrito de Antón (« el cráter de un volcán extinto », « un cerro vecino ») ; **retirés** par rapport à l'EN/FR/IT : El Valle de Antón (localité/corregimiento), Cerro Turega, « jardin d'orchidées d'El Valle » (« de la zona »). Le titre de l'article Montgomery et le titre du protologue (« Coclé Province ») sont inchangés. **La fiche ES *acuminata* 38693 (ZAM-ES01, antérieure à Q47) nomme encore El Valle de Antón (encadré, Confusiones, Taxonomía, source forum)** : à arbitrer. À aligner aussi en EN/FR/IT (titre EN « the dwarf cycad of El Valle de Antón »).
+- Forum Fous de palmiers : messages de 2013-2014 cités de façon anonyme et datée (liens par numéro de message, sans pseudonyme).
+- Divergences exposées : dimensions (description / tableau du même article) ; graines (Taylor 2012 / protologue) ; maturation 8 mois (nature) / 9-11 mois (culture) ; avis d'amateur (population à l'abri, 2013) / EN.
+- *Encephalartos horridus* : pas de page ES (404) → non lié (lié en EN).
+- Toxicité : formule imposée ; BMAA attribuée à l'ASPCA. *Aulacaspis yasumatsui* : EPPO (genre *Zamia* hôte).
+- FAQ : 8 questions.
+- Liens internes ES (200) : genre, *acuminata* 38693, *cunaria* 38733, *ipetiensis* 38840, *dressleri* 38718, *furfuracea* 38780 ; « Lee también » 23153, 23195, cochinilla-cycas. Sans page ES : *stevensonii*, *Encephalartos horridus*.
+- Liens entrants posés le 02/11/2026 (simulation groupée 17 = attendu) : *acuminata* 38693 (Confusiones posibles), *obliqua* 39004 (lot parallèle ZAM-ES11, En la naturaleza ; brouillon `espece-zamia-obliqua-es.html` aligné ; sa note n'existait pas encore). Page genre : ligne d'index seule liée.
+- 02/11/2026 (lot ZAM-ES13) : lien(s) posé(s) vers *Zamia pseudoparasitica* ES 39096 (Lugar en el género) — première occurrence du corps, simulation puis application (replace_in_content ciblé), brouillon aligné (cmpall : identique) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.

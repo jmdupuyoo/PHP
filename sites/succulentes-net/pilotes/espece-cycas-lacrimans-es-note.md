@@ -1,0 +1,22 @@
+# Note — *Cycas lacrimans* (ES 38168), https://succulentes.net/es/orden-cycadales/cycas/lacrimans/
+
+## Création du 01/11/2026 (lot CYC-ES15, mode C)
+- Avant création : aucune page ES (REST slug `lacrimans` : FR 26690, IT 28664, EN 30628 seulement ; list_content es brouillons, privées, corbeille : rien ; /es/orden-cycadales/cycas/lacrimans/ en 404, aucune redirection).
+- create_content : page, publish, langue es, parent 23432, slug `lacrimans`, titre « Cycas lacrimans », translation_of FR 26690 → id **38168**. Hreflang vérifiés : fr 26690, it 28664, en 30628, es 38168. Aucune image (ni en FR/IT/EN).
+- Brouillon `pilotes/espece-cycas-lacrimans-es.html` identique au texte en ligne (verify.py : seul le sommaire diffère ; liens identiques). DSL : scratchpad `es15/lacrimans.dsl`. ≈ 3110 mots (Rank Math).
+- SEO Rank Math : « Cycas lacrimans: cícada de hojas colgantes de Mindanao » (54) ; meta 146 ; mot-clé « Cycas lacrimans » ; aucun problème ; `<title>` vérifié.
+- Base : EN 30628 (21/10, liens des 21-24/10, balayage EN-2 du 31/10) et FR 26690 (03/10, retouches 21 et 24/10) et leurs notes (Lindström, Hill & Stanberg 2008 lu en entier, Hill & Stanberg 2009, Agoo & Madulid 2012, WLoC 145, GBIF, Crossref Lindström & Agoo 2022, Species+ 65522, Montgomery, BGCI).
+- Revérifié le 01/11/2026 : GBIF (API : catégorie UICN, WCVP, nombre d'occurrences). WLoC, protologues, Species+, Montgomery, BGCI, Crossref : non relus (lectures EN/FR des 03-24/10). POWO, Liste rouge UICN : non retentés (403 connus, non contournés). Forums ES (InfoJardín, Club de Palmeras) : rien de connu pour l'espèce (non retentés). GBIF 3595064 → EN, 1 occurrence ; WCVP 206945411 : accepté (Telopea 12: 136).
+- Notes de travail EN non reprises : « their original descriptions could not be read, so the characters that separate them from *Cycas lacrimans* cannot be given here » (*flabellata*, *mindanaensis*) → « ninguna fuente de acceso libre compara sus caracteres con los de *Cycas lacrimans* » ; « No report from an English-speaking grower has been published » (non repris). Mention UNESCO du mont Hamiguitan (extrait, retirée en FR) : non reprise.
+- Cadre international ; JZT : rien de publié (dit). Aucun nom espagnol attesté. Espèce philippine : pas de Lavaud. Aucune image (ni en FR/IT/EN). °C seulement ; aucune zone USDA.
+- Liens internes ES (200) : genre (intro), *aenigma* 37299, *edentata* 37726, *flabellata* 37967, *circinalis* 24514, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* 23246 ; « Lee también » : semis 23153, arrosage 23175, toxicité 23195. Sans page ES (non liés) : aucune.
+- Index genre ES 23432 : ligne liée (simulation 1, application 1). Brouillon `genre-cycas-es.html` aligné.
+- Liens entrants posés (simulation puis application, 1 remplacement par page ; brouillons alignés, notes mises à jour) : *aenigma* 37299 (Confusiones posibles), *flabellata* 37967 (Confusiones posibles).
+- Points douteux (repris EN/FR) : prénoms des collecteurs de 1927 (noms seuls) ; état de l'accession Montgomery 20250374 ; caractères séparant *flabellata* et *mindanaensis* (protologues 2019 non lus).
+- 01/11/2026 (CYC-ES17) : lien vers *Cycas mindanaensis* ES 38281 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES18) : lien vers *Cycas nitida* ES 38302 posé (Taxonomía ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES21) : lien vers *Cycas riuminiana* ES 38369 posé (Cómo reconocer Cycas lacrimans ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES21) : lien vers *Cycas sancti-lasallei* ES 38379 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES21) : lien vers *Cycas saxatilis* ES 38404 posé (Taxonomía ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES23) : lien vers *Cycas silvestris* ES 38441 posé (Taxonomía ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES24) : lien vers *Cycas vespertilio* ES 38519 posé (Taxonomía ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

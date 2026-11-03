@@ -1,0 +1,17 @@
+# Note — *Cycas schumanniana* (ES 38410), https://succulentes.net/es/orden-cycadales/cycas/schumanniana/
+
+## Création du 01/11/2026 (lot CYC-ES21, mode C)
+- Avant création : aucune page ES (REST slug `schumanniana` : FR 26734, IT 28865, EN 30854 seulement ; list_content es : seules des pages qui la citent ; corbeille ES vide ; /es/orden-cycadales/cycas/schumanniana/ en 404, aucune redirection).
+- create_content : page, publish, langue es, parent 23432, slug `schumanniana`, titre « Cycas schumanniana », translation_of FR 26734 → id **38410**. Hreflang vérifiés : fr 26734, it 28865, en 30854, es 38410. Aucune image (ni en FR/IT/EN).
+- Brouillon `pilotes/espece-cycas-schumanniana-es.html` identique au texte en ligne (verify.py : seul le sommaire diffère ; liens identiques, 12). DSL : scratchpad `es21/schumanniana.dsl`. ≈ 3 300 mots (Rank Math).
+- SEO Rank Math : « Cycas schumanniana: la cícada de los herbazales de Papúa » (56) ; meta 150 ; mot-clé « Cycas schumanniana » ; aucun problème ; `<title>` vérifié.
+- Revérifié le 01/11/2026 : GBIF (API) 2683251 → NT (iucnTaxonID 42082) ; WCVP 206945242 : accepté, Fl. Schutzgeb. Südsee: 154 (1900).
+- Index genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon `genre-cycas-es.html` aligné. Mention du corps de la page genre (Montgomery, « *Cycas schumanniana* (2017) ») non liée.
+- Base : EN 30854 (24/10) et FR 26734 (nettoyage C9b du 17/10) et leurs notes (de Laubenfels & Adema 1998 en texte intégral, WLoC 204, Species+, Crossref, GBIF, Lindström et al. 2009, Hill 1992, Cambridge, Montgomery, BGCI, Trebrown).
+- Notes de travail EN non reprises : « Lauterbach's original description and Hill's account of 1994 could not be read » → « La descripción siguiente es la de De Laubenfels y Adema (1998) » ; « The typification can only be settled in Hill (1994), which could not be read » → « Las fuentes citadas aquí no resuelven esta divergencia » ; « Only the abstract of that paper was read, so the exact series… » → « La serie exacta… no está documentada en las fuentes citadas aquí » ; « nor in the Australian garden catalogues checked » → simple absence. Grainetier anonyme de la FR/EN (« a specialist seed merchant has listed seed… availability could not be checked ») : non repris (non nommé, non sourcé).
+- Divergences exposées : date 1900 (WLoC, WCVP) / 1901 (De Laubenfels & Adema) ; lectotype WRSL (WLoC) / néotype réclamé (De Laubenfels & Adema) ; présence en Indonésie (Species+) non confirmée par WLoC ni Lindström et al. 2009.
+- Pépiniériste nommé (Q34) : Trebrown (aucun nom commun ; zone 9b = −3,9 à −1,1 °C, commercial). Pas de Lavaud (espèce de Papouasie-Nouvelle-Guinée). JZT : rien de publié (dit). °C seulement.
+- Liens internes ES (200) : genre (intro), *armstrongii* 37307, *papuana* 38332, *scratchleyana* 38407 (même lot), *media* 38236, *campestris* 37368, *beddomei* 24555, *revoluta* 24488, article *Aulacaspis* ; « Lee también » : semis, arrosage, toxicité 23195. Aucune espèce citée sans page ES.
+- Points douteux (repris EN) : année de l'accession Montgomery 69402 déduite de la numérotation ; Lotusland (plein air) sans emplacement documenté des plantes de l'espèce.
+- Forums ES (InfoJardín, Club de Palmeras) : recherche web restreinte du 01/11/2026, rien sur l'espèce.
+- Liens entrants posés le 01/11/2026 (même appel groupé) : *campestris* 37368 (Confusiones posibles) ; *scratchleyana* 38407 (même lot, Híbridos).

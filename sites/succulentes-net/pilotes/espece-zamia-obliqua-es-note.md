@@ -1,0 +1,24 @@
+# Note — *Zamia obliqua* (ES 39004), https://succulentes.net/es/orden-cycadales/zamia/obliqua/
+
+## Création du 02/11/2026 (lot ZAM-ES11, mode C)
+- Avant création : aucune page ES (list_content ES tous statuts ; corbeille vide ; aucune redirection ; URL ES en 404 ; hreflang EN 32301 : fr, it, en).
+- create_content : page, publish, langue es, parent 38672, slug `obliqua`, titre « Zamia obliqua », translation_of FR 29441 → id **39004**. Hreflang vérifiés sur les quatre langues (fr 29441, it 29481, en 32301, es 39004). Aucune image.
+- Brouillon `pilotes/espece-zamia-obliqua-es.html` identique au texte en ligne (cmpall : seul le sommaire diffère ; liens internes identiques, 15). DSL : scratchpad `zes11/obliqua.dsl`. Rank Math : 5 975 mots.
+- SEO Rank Math : « Zamia obliqua: cícada de tronco esbelto de Panamá y Colombia » (60) ; meta 146 car. ; mot-clé « Zamia obliqua » ; aucun problème ; `<title>` vérifié.
+- Index genre ES 38672 : ligne liée (« <li><em>Zamia obliqua</em> A.Braun (1875) », 1) ; brouillon genre aligné.
+- Liens entrants posés (simulation groupée puis application, 1 chacun) : *acuminata* 38693, *amplifolia* 38699 (Taxonomía), *disodon* 38712 (Cómo reconocer), *elegantissima* 38730 (Lugar en el género), *fairchildiana* 38793 (Confusiones), *imperialis* 38863 (Híbridos), *manicata* 38940 (Confusiones), *nesophila* 38991 (Cultivo, même lot).
+- Liens sortants : genre, *imperialis*, *dressleri*, *manicata*, *fairchildiana*, *elegantissima*, *neurophyllidia* 38997, *montana* 38988 (ZAM-ES10), *chigua*, *nesophila* 38991, *furfuracea*, « Lee también » (semis, toxicité, cochinille *Aulacaspis* ES). **Lien vers *nana* 39012 (En la naturaleza, liste des *Zamia* partageant *Pharaxonotha panamensis*) posé par le lot parallèle ZAM-ES10 le 02/11/2026 (brouillon aligné par ZAM-ES10) ; conservé et reporté dans le DSL (régénération identique).** Sans page ES : *restrepoi*.
+
+## Sources et choix
+- Base : EN 32301 (25/10 ; protologue Braun 1875, Flora de Colombia 2001, Taylor et al. 2012, Tang et al. 2024, Acuña-Castillo 2010, Lindström 2013, Lindstrom 2024, Vannini 2019, Lavaud 2023, Jungle Music, Montgomery, Garden Explorer, BGCI, Trebrown, Species+, Gymnosperm Database, EPPO) et FR 29441, et leurs notes.
+- Revérifiés le 02/11/2026 : GBIF (LC, clé 5284082) ; Species+ 23534 : II / UE B, noms espagnols « Chigua macho, Maicito », Colombia/Panama, quota nul du Panama depuis le 19/06/2025 (déjà dans l'EN).
+- Simon Lavaud nommé : classement de groupe « difícil » en clima templado (Q44) et donnée propre à l'espèce (« disponible régulièrement, culture assez facile », avec *nesophila*) ; **non repris** : recette de groupe de l'EN (substrat/eau, 22/15/28-30 °C, 34-35 °C, 70-90 %).
+- Trebrown 10a avec sa plage (−1,1 à 1,7 °C), classement commercial. °C seulement. JZT : rien (dit).
+- Divergences exposées : base des pinnes (Flora : oblique / « symétriques » dans le commentaire) ; protologue (pétiole inerme, 2-6 paires) / Flora 2001 ; présence au Costa Rica (WLoC, Acuña-Castillo / Lindström 2013, Taylor 2012, Species+, Vannini) ; étymologie (Haynes / Flora).
+- Localités : espèce LC ; collection costaricienne réduite à « golfe Dulce / Puntarenas » (localité précise et numéros de collection de l'EN non repris). Note de travail EN « its category could not be checked » (évaluation 2010) non reprise.
+- Toxicité : formule imposée (avec The Gymnosperm Database), BMAA attribuée à l'ASPCA. FAQ : 8 questions.
+- 02/11/2026 (lot ZAM-ES13) : lien(s) posé(s) vers *Zamia pseudoparasitica* ES 39096 (Híbridos) — première occurrence du corps, simulation puis application (replace_in_content ciblé), brouillon aligné (cmpall : identique) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES15) : lien(s) posé(s) vers *skinneri* ES 39143 (Confusiones posibles) — première occurrence du corps, simulation puis application (replace_in_content ciblé, un lot de 36 pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES17) : lien(s) ES entrant(s) posé(s) vers *ulei* 39255 (Cómo reconocer Zamia obliqua) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.
+- 02/11/2026 (lot ZAM-ES16) : lien entrant posé vers *stevensonii* ES 39275 (première mention du corps ; replace_in_content limité aux id, simulation puis application ; brouillon aligné, cmpall identique hors sommaire, liens identiques).
+- 02/11/2026 (lot ZAM-ES18) : lien(s) ES entrant(s) posé(s) vers *wallisii* 39393 (Cómo reconocer Zamia obliqua) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.

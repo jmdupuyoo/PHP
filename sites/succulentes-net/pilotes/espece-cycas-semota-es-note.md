@@ -1,0 +1,18 @@
+# Note — *Cycas semota* (ES 38432), https://succulentes.net/es/orden-cycadales/cycas/semota/
+
+## Création du 01/11/2026 (lot CYC-ES22, mode C)
+- Avant création : aucune page ES (hreflang de l'EN 30868 : fr 26738, it 28881, en seulement ; list_content es, tous statuts, et corbeille ES : rien ; pas de redirection).
+- create_content : page, publish, langue es, parent 23432, slug `semota`, titre « Cycas semota », translation_of FR 26738 → id **38432**. Hreflang vérifiés : fr 26738, it 28881, en 30868, es 38432. Aucune image.
+- Brouillon `pilotes/espece-cycas-semota-es.html` identique au texte en ligne (cmpall : seul le sommaire diffère ; 11 liens). DSL : scratchpad `es22/semota.dsl`. ≈ 3 360 mots (Rank Math).
+- SEO Rank Math : « Cycas semota: la cícada apartada del Cabo York, en Australia » (60) ; meta 143 ; mot-clé « Cycas semota » ; aucun problème ; `<title>` vérifié.
+- Revérifié le 01/11/2026 : GBIF 2683253 → VU (iucnTaxonID 41975) ; WCVP 206945218 : accepté, Telopea 7: 23 (1996).
+- Base : EN 30868 (24/10, retouche 0d du 24/10) et FR 26738 et leurs notes (Hill 1996, Flora of Australia, WildNet 5936, WLoC 208, Bösenberg 2022, Hill 2010, Species+ 20754, Montgomery, BGCI, Trebrown). Sept isotypes (BRI, CANB, DNA, K, L, MEL, NY), comme l'EN (la FR dit « huit », signalé par la note EN). Divergence des mégasporophylles exposée (description de 1996 contre clé et FoA), comme l'EN.
+- Notes de travail EN non reprises : « nor in the British catalogues checked in October 2026 » → « ningún registro en BGCI ni en los catálogos británicos » ; « the oldest accession found » → « la accesión más antigua conocida ».
+- Règle provisoire Lavaud (note 2021) : la note ne nomme pas l'espèce (note EN) → rien repris. Q41 : Simon Lavaud nommé une fois (« viverista especializado en cícadas ») pour la greffe des *Cycas* australiens sur *Cycas revoluta*, lien 23244 dans la phrase (« El artículo no menciona *Cycas semota* ») ; site cycadales.eu en source ; 23244 hors « Lee también ». Trebrown nommé (Q34) : aucun nom commun, zone 9b (commerciale, −3,9 à −1,1 °C). JZT : rien de publié (dit). Toxicité *Cycas* : cicasina → metilazoximetanol, BMAA.
+- Liens internes ES (200) : genre (intro), *media* 38236, *badensis* 37322, *angulata* 37310, *beddomei* 24555, *revoluta* 24488, article Lavaud 23244, article *Aulacaspis* ; « Lee también » : semis, arrosage, toxicité 23195. Sans page ES (non liés) : aucune ; *normanbyana* (synonyme de *media*, pas de fiche).
+- Liens entrants posés (simulation puis application, 1 par page ; brouillons alignés ; notes mises à jour) : *badensis* 37322 (Confusiones posibles), *angulata* 37310 (Taxonomía).
+- Index genre ES 23432 : ligne liée (avec les 4 autres lignes du lot) ; brouillon genre aligné.
+- Points douteux (repris EN) : mesures des mégasporophylles (coquille probable dans la description de 1996) ; année de l'accession Montgomery tirée du numéro.
+- Revérifié le 01/11/2026 (API GBIF, requêtes séquentielles) : catégorie UICN et statut WCVP (voir ci-dessus). WLoC, protologues, Species+, Montgomery, BGCI, floras, forums FdP/Tropicamente : non relus (lectures EN/FR des 03-24/10). POWO, Liste rouge UICN : non retentés (403 connus, non contournés). Forums ES (InfoJardín, Club de Palmeras) : non retentés (rien de connu pour ces espèces).
+- 01/11/2026 (CYC-ES24) : lien vers *Cycas tuckeri* ES 38517 posé (Cómo reconocer Cycas semota ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.
+- 01/11/2026 (CYC-ES25) : lien vers *Cycas yorkiana* ES 38547 posé (Confusiones posibles ; simulation puis application, 1 remplacement) ; brouillon aligné ; mention « sans page ES » mise à jour.

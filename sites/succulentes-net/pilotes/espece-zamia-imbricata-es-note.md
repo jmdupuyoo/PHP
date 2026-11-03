@@ -1,0 +1,20 @@
+# Note — *Zamia imbricata* (ES 38845), https://succulentes.net/es/orden-cycadales/zamia/imbricata/
+
+## Création du 02/11/2026 (lot ZAM-ES06, mode C)
+- Avant création : aucune page ES (list_content ES tous statuts « imbricata » : rien ; corbeille ES « Zamia » vide ; hreflang de l'EN 32101 : fr 26483, it 28018, en seulement ; /es/orden-cycadales/zamia/imbricata/ en 404).
+- create_content : page, publish, langue es, parent 38672, slug `imbricata`, titre « Zamia imbricata », translation_of FR 26483 → id **38845**. Hreflang vérifiés sur les quatre langues (fr 26483, it 28018, en 32101, es 38845). Aucune image (ni FR/IT/EN).
+- Brouillon `pilotes/espece-zamia-imbricata-es.html` identique au texte en ligne (cmpall : seul le sommaire diffère ; liens internes identiques, 7). DSL : scratchpad `zes06/imbricata.dsl`. Rank Math : 3 405 mots.
+- SEO Rank Math : « Zamia imbricata: cícada de pinnas imbricadas de Caldas » (54) ; meta 150 car. ; mot-clé « Zamia imbricata » ; aucun problème signalé ; `<title>` vérifié (curl, 200).
+- Index genre ES 38672 : ligne liée (chaîne « <li><em>Zamia imbricata</em> Calonje » unique, simulation 1 puis application 1) ; brouillon `genre-zamia-es.html` aligné.
+- Lien entrant posé : *disodon* 38712 (Confusiones posibles, puce « Zamia imbricata, descrita en 2021… ») ; simulation 1 puis application 1 ; brouillon et note alignés. Liens sortants : *disodon* 38712 (Taxonomía), *furfuracea* 38780 (Toxicidad), *incognita* 38851 (Híbridos, posé après création d'*incognita* : simulation 1 puis application 1, brouillon et DSL alignés).
+- GBIF revérifié le 02/11/2026 : NE (clé 12222249), accepté. Species+ (API publique, 02/11/2026) : toujours **absente** (couverte par *Zamia* spp., fiche 13387).
+- Base : EN 32101 (25/10) et FR 26483 (protologue Calonje et al. 2021, *Phytotaxa* 497, lu en entier) et leurs notes.
+- Lavaud 2023 relu le 02/11/2026 (page publique cycadales.eu, curl) : *imbricata* dans le groupe 4 (forêts de basse altitude d'Amérique centrale et du Sud, « Difficile ») ; repris : classement « difícil » en clima templado (Q44) et justification brève (climats européens trop frais et secs) ; non repris : recette du groupe (températures, hygrométrie, serre/véranda/chambre de culture) de l'EN (Q42 par analogie).
+- Toxicité : formule imposée ; BMAA seulement attribuée à l'ASPCA pour *Zamia furfuracea* (Q15). °C seulement (°F de l'EN retirés). JZT : rien de publié (dit). Aucun forum (rien de connu).
+- Localités : municipalité de La Dorada (niveau municipal, comme le protologue) ; rien de plus précis. *Zamia* « Cogollo » (Puerto Berrío) : taxon non décrit, repris du protologue.
+- Statut : CR seulement recommandé par les descripteurs (2021) ; UICN : NE (WLoC, GBIF), exposé.
+- Sans page ES (non liés) : aucune (espèces désormais liées, voir la ligne ZAM-ES18).
+- 02/11/2026 (ZAM-ES09) : liens vers *Zamia manicata* ES 38940 (Taxonomía, « El grupo reúne ») et *Zamia melanorrhachis* ES 38950 (Taxonomía, après *disodon*) posés ; « sans page ES » retiré ; replace_in_content limité aux id, simulation puis application, 1 remplacement par lien ; brouillon aligné par remplacement ciblé (cmpall : identique hors sommaire, liens identiques).
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Taxonomía) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES15) : lien(s) posé(s) vers *sinuensis* ES 39162 (Taxonomía) — première occurrence du corps, simulation puis application (replace_in_content ciblé, un lot de 36 pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES18) : lien(s) ES entrant(s) posé(s) vers *vazquezii* 39347 (Confusiones posibles) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.

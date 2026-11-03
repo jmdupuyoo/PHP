@@ -1,0 +1,15 @@
+# Note — *Cycas simplicipinna* (ES 38464), https://succulentes.net/es/orden-cycadales/cycas/simplicipinna/
+
+## Création du 01/11/2026 (lot CYC-ES23, mode C)
+- Avant création : aucune page ES (REST slug `simplicipinna` : FR 21897, IT 28926, EN 18642 seulement ; corbeille ES vide ; /es/orden-cycadales/cycas/simplicipinna/ en 404, aucune redirection).
+- create_content : page, publish, langue es, parent 23432, slug `simplicipinna`, titre « Cycas simplicipinna », translation_of FR 21897 → id **38464**. Hreflang vérifiés : fr 21897, it 28926, en 18642, es 38464. Aucune image (ni en FR/IT/EN).
+- Brouillon `pilotes/espece-cycas-simplicipinna-es.html` identique au texte en ligne (verify.py : seul le sommaire diffère ; liens identiques, 15). DSL : scratchpad `es23/simplicipinna.dsl`. ≈ 4 700 mots (Rank Math 4 691).
+- SEO Rank Math : « Cycas simplicipinna: cícada de pinnas enteras de Indochina » (58) ; meta 150 ; mot-clé « Cycas simplicipinna » ; aucun problème ; `<title>` vérifié.
+- Revérifié le 01/11/2026 : GBIF (API) 2683276 → NT (iucnTaxonID 42085) ; WCVP 206945184 : accepté, P.Vorster (ed.), Proc. Third Internat. Conf. Cycad Biol.: 150 (1995).
+- Index genre ES 23432 : ligne liée (simulation 1, application 1) ; brouillon `genre-cycas-es.html` aligné. Autre mention du corps (section *Stangerioides*) non liée.
+- Base : EN 18642 (21/10, retouches 21/10) et FR 21897 (31/10) et leurs notes (Smitinand 1971, de Laubenfels & Adema 1998, FoC, Hill 2008, Feng et al. 2014, Zheng et al. 2017 et 2025, DOA Thaïlande 2019, LLIFLE, WLoC 216, IPNI, Species+ 21168, GBIF, Crossref, Montgomery, BGCI, RBG Sydney, PACSOA, Fous de palmiers, Tropicamente). Italie (jardins sans l'espèce) repris de la FR ; retour de Barcelone (FdP 2015) gardé.
+- Notes de travail EN non reprises : « The description by Hill and Yang (1999), the source of these figures, could not be consulted; only Smitinand's figures have been checked » → omis (les chiffres sont attribués à LLIFLE d'après les pages de Ken Hill ; Hill & Yang 1999 en bibliographie « referencia tomada de WLoC ») ; « which no flora consulted confirms » → « que no recoge ninguna de las floras citadas aquí » ; « online catalogues consulted » → « catálogos en línea ».
+- Lavaud : non cité (espèce non australienne ; aucune donnée propre dans sa note 2021 ; aucune greffe documentée). JZT : rien de publié (dit). Aucun pépiniériste nommé (aucun dans EN/FR).
+- Liens internes ES (200) : genre (intro), *pectinata* 24583, *micholitzii* 38259, *bifida* 37329, *multipinnata* 38296, *debaoensis* 24530, *balansae* 37341, *collina* 37443, *chamaoensis* 37471, *siamensis* 38436 (même lot), *beddomei* 24555, *revoluta* 24488 ; « Lee también » : semis, arrosage, toxicité 23195. Aucune espèce citée sans page ES.
+- Points douteux (repris EN) : Hill & Yang 1999 et Hill et al. 2004 cités d'après WLoC ; présence en Chine (Hill 2008 contre WLoC/Kunming ; Species+ sans la Chine) ; conseils de culture de LLIFLE seuls ; nom chinois de LLIFLE non confirmé.
+- Forums ES (InfoJardín, Club de Palmeras) : recherche web restreinte du 01/11/2026 : rien sur la culture de l'espèce (une fiche InfoJardín « Cycas sp. » la nomme seulement).

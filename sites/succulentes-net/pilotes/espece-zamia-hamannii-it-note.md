@@ -1,0 +1,45 @@
+# Note — *Zamia hamannii* (IT) (11/10/2026)
+
+- Page : https://succulentes.net/it/piante/cycadales/zamia/hamannii/ — id **28075**, parent 11879 (genre IT *Zamia*), langue it, `translation_of` FR 26495. Publiée par `create_content` (publish), slug `hamannii`, titre « Zamia hamannii ».
+- Sources : Fiche FR 26495 en ligne (modifiée le 10/10/2026), WLoC 476, Taylor, Haynes & Holzman 2008 (via la fiche FR), TVN Noticias 18/04/2022 (MiAmbiente), Cycadales.eu 2023 (groupe 4).
+- Longueur : 3374 mots (texte rendu, sources comprises, hors sommaire).
+- SEO Rank Math : titre « Zamia hamannii: cicadea dell'isola Escudo de Veraguas » (53 car.) ; meta 137 car. ; mot-clé `zamia hamannii`.
+- Polylang : traductions de la FR 26495 après publication : it (vérifié par get_content).
+
+## Liens internes
+- Intro → genre IT 11879. Corps : imperialis 28020, furfuracea 14474 ; liens entrants : dressleri 28025 et imperialis 28020 (posés par ce lot), genre 11879.
+- « Leggi anche » : articles IT semis (15579), arrosage (12252), toxicité (15593), tous en 200.
+- Index de la page genre IT 11879 : entrée liée (replace_in_content ciblé, dry run puis application) ; brouillon `genre-zamia-it.html` aligné.
+
+## Italie
+- Aucun retour. Tropicamente : aucun résultat. Jardins italiens : aucune présence documentée.
+- Expériences françaises : Graines distribuées sur Fous de palmiers en novembre 2012 ; germinations Gard (7/01/2013, 28-29 °C), Dordogne, région nantaise ; culture en serre ou véranda chauffée.
+
+## Choix / points douteux
+- Témoignage de seconde main sur une culture en pleine terre en Grèce (2015) écarté. Hypothèses d'hybrides d'amateur signalées comme telles. Phrase Cycadales.eu (groupe 4) ajoutée en Coltivazione.
+- POWO, Liste rouge UICN, BHL non consultés (Cloudflare / accès bloqué) ; statut UICN repris de WLoC.
+
+## Contrôles
+- Brouillon `pilotes/espece-zamia-hamannii-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé, hors sommaire Easy TOC ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés ; aucun lien vers une page FR.
+- Vérifié avant création : aucune page IT ni redirection pour l'espèce.
+- Rien commité.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
+
+- **Retouche 25/10/2026 (ZAM08)** : note de recherche (nom vernaculaire « non trouvé ») reformulée ; Repères internationaux / Riferimenti internazionali : note « témoignage écarté » remplacée par Vannini 2019 (croissance, besoin de chaleur, plantes multipliées), Montgomery (5 numéros de 2004) et BGCI (San Diego, Hawaï, Sydney) ; 3 sources ajoutées. Simulation puis application ; brouillon aligné. Page EN 32060 créée et liée.
+
+## Retouche du 25/10/2026 (avant ZAM09)
+- Distribuzione secondo Vannini 2019 (penisola di Valiente e isolotti vicini) accanto a MiAmbiente (isola Escudo de Veraguas), divergenza esposta : introduzione, riquadro, In natura, Possibili confusioni, Coltivazione, Rusticità, FAQ (3), fonte Vannini. 10 sostituzioni (simulazione poi applicazione). SEO : « Zamia hamannii: cicadea costiera di Bocas del Toro (Panama) » (59) ; meta 141.
+
+## Retouche du 25/10/2026 (avant ZAM14)
+- Plantation en pleine terre sur la Côte Bleue ajoutée (encadré, culture, rusticité, FAQ, sources) : le cultivateur liste ses quatre espèces le 3 mars 2013 (*hamannii*, *nesophila*, *lindenii*, *encephalartoides* ; fil t=14274, p. 75), les plante en terre à l'été 2014, à l'ombre sauf *encephalartoides* (24 janvier 2015, #p355516), hiver 2014-2015 « sans encombre » (28 septembre 2015, t=19109, #p383064). Marignane −3,0 °C le 10/02/2015 (station non côtière ; valeur subie inconnue). Aucun message ultérieur sur leur devenir. Témoignage indirect de Grèce (10 février 2015, t=19109 p. 15) : *nesophila* et *hamannii* en terre, minimales −2 à −2,5 °C, défoliées l'hiver, repousse au printemps sous canopée. Pages lues en cache local (Fous de palmiers en 503 le 25/10). Messages du compte JMDUPUYOO : aucun.
+
+## Retouche du 02/11/2026 (décision du propriétaire, question 47 : localités d'espèce menacée)
+- Localités précises retirées, formulation alignée sur l'ES 38789 : introduzione e riquadro (« un'isola protetta al largo della costa », « una penisola litoranea e gli isolotti vicini »), Possibili confusioni (« diffusi con un nome provvisorio tratto da una località… la penisola in questione »), In natura (« un'isola al largo della costa caraibica », « una penisola »), Stato di conservazione (« nell'area protetta »), FAQ, fonte Vannini (« distribuzione »). 8 remplacements (simulation puis application) ; contrôle REST : 0 occurrence des lieux ; brouillon identique au texte en ligne (hors sommaire). SEO actuel sans localité (titre « Zamia hamannii: cicadea costiera di Bocas del Toro (Panama) ») : inchangé ; la valeur SEO de création ci-dessus est historique.
+- Non modifiés : titre de l'article TVN (« … área protegida de Veraguas ») ; titre de fil contenant le pseudonyme d'un membre dans la source forum, hors consigne (signalé) [FAIT 02/11/2026 : source citée « deux fils de 2012 à 2015 », comme l'EN].
+
+- 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « discussioni «Noël en avance pour les fous de Cycadales» e «…par <pseudonyme>»: » → « due discussioni dal 2012 al 2015: » (page 28075, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28075), REST contrôlé = brouillon, brouillon aligné.

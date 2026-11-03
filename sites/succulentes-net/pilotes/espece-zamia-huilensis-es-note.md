@@ -1,0 +1,25 @@
+# Note — *Zamia huilensis* (ES 38803), https://succulentes.net/es/orden-cycadales/zamia/huilensis/
+
+## Création du 02/11/2026 (lot ZAM-ES05, mode C)
+- Avant création : aucune page ES (list_content ES tous statuts « Zamia » : aucune fiche du lot ; corbeille « Zamia » vide ; hreflang de l'EN 32077 : fr 26503, it 28013, en seulement ; /es/orden-cycadales/zamia/huilensis/ en 404).
+- create_content : page, publish, langue es, parent 38672, slug `huilensis`, titre « Zamia huilensis », translation_of FR 26503 → id **38803**. Hreflang vérifiés sur les quatre langues (fr 26503, it 28013, en 32077, es 38803). Aucune image (ni FR/IT/EN).
+- Brouillon `pilotes/espece-zamia-huilensis-es.html` identique au texte en ligne (verify : seul le sommaire diffère ; liens internes identiques, 5). DSL : scratchpad `zes05/huilensis.dsl`. Rank Math : 3 279 mots.
+- SEO Rank Math : « Zamia huilensis: palma de monte del Huila (Colombia) » (52) ; meta 153 car. ; mot-clé « Zamia huilensis » ; aucun problème signalé ; `<title>` vérifié (curl, 200). « palma de monte » (nom espagnol attesté par le protologue, municipio de Hobo) dans le titre SEO, comme la FR.
+- Index genre ES 38672 : ligne liée (replace_in_content limité à 38672, chaîne « <li><em>Zamia huilensis</em> Calonje » unique, simulation 1 puis application 1) ; brouillon `genre-zamia-es.html` aligné par remplacement ciblé.
+- Lien entrant posé : *encephalartoides* 38761 (Taxonomía, groupe de Lavaud) ; simulation 1 puis application 1 ; brouillon et note alignés. Lien sortant : *encephalartoides* 38761 (Taxonomía).
+- GBIF revérifié le 02/11/2026 : EN (clé 7447872), accepté. Species+ revérifié le 02/11/2026 (API publique) : **fiche propre 65544** (Annexe II en vigueur depuis le 05/03/2026, UE B depuis le 29/06/2026), Colombie → source 65544 (l'EN/FR disent « pas de fiche séparée », à actualiser hors lot).
+- Base : EN 32077 (25/10) et FR 26503 (protologue Calonje et al. 2012 lu en entier ; actualité Montgomery 05/12/2012 ; Calonje et al. 2022 *orinoquiensis*) et leurs notes.
+- Toxicité : formule imposée ; BMAA seulement attribuée à l'ASPCA pour *Zamia furfuracea* au niveau du genre (Q15). °C seulement (°F de l'EN retirés) ; aucune zone USDA. JZT : rien de publié (dit).
+- Lavaud 2023 : repris le classement du groupe où il range l'espèce (*Zamia* sudamericanas de ecosistemas estacionalmente secos, difficulté « media » en climat tempéré, Q44) et sa justification brève (sans problème en serre hors gel du sud de la France, car gardées au sec l'hiver), comme la fiche ES *encephalartoides* ; Simon Lavaud nommé une fois. Non repris : la recette (5-10 / 20-25 / 15-20 / 25-30 °C, durée de l'été), le conseil « substrat plus sec l'hiver contre les pourritures » (Plagas) et la FAQ « Lavaud’s advice… starting point » de l'EN (consignes générales).
+- Localités (EN) : municipalités (Algeciras, Garzón, Hobo, Pitalito, Altamira) comme le protologue et l'EN ; rien de plus précis.
+- Liens internes ES (200) : genre (intro), *encephalartoides* 38761, « Lee también » 23153, 23175, 23195. Sans page ES : *furfuracea*.
+- Divergences exposées : CR proposé (2012) / EN (2022) ; ancienne circonscription de *Zamia muricata* (Stevenson 2001, 2004 ; séparation d'*orinoquiensis* en 2022).
+
+- 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
+
+- 02/11/2026 (ZAM-ES08) : lien vers *Zamia lindenii* ES 38926 posé (Taxonomía, première occurrence hors introduction et encadré) ; replace_in_content limité aux id, simulation puis application (1) ; brouillon aligné (cmpall : identique hors sommaire). « Sans page ES » mis à jour.
+- 02/11/2026 (ZAM-ES10) : lien posé vers *Zamia muricata* ES 39003 (Confusiones posibles, « …, que los autores daban como nativa de Venezuela y del nores »), première occurrence hors introduction, encadré, titres et sources ; « sans page ES » retiré ; replace_in_content limité aux id (simulation groupée 17 = attendu, puis application) ; brouillon aligné, cmpall : texte et liens identiques.
+
+- 02/11/2026 (lot ZAM-ES12) : lien entrant posé vers *orinoquiensis* 39059 (Confusiones posibles), *poeppigiana* 39074 (Confusiones posibles) (replace_in_content, simulation groupée 21 puis application 21, chaîne unique) ; brouillon aligné ; « sans page ES » mis à jour.
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES17) : lien(s) ES entrant(s) posé(s) vers *tolimensis* 39270 (Confusiones posibles) (première mention du corps ; simulation puis application, 1 par espèce) ; brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré pour ces espèces.

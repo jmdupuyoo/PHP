@@ -1,0 +1,35 @@
+# Note — *Cycas aenigma* (EN 30105), https://succulentes.net/en/cycads/cycas/aenigma/
+
+## Création du 21/10/2026 (lot CYC09, 2/5, fiche « C »)
+
+- Avant création : aucune page EN (list_content en, statut any + corbeille), aucun synonyme, aucune redirection.
+- create_content : page, publish, langue en, parent 16282, slug `aenigma`, titre « Cycas aenigma », translation_of FR 26570 → id **30105**. Groupe Polylang vérifié par hreflang : fr 26570, it 28448, en 30105 (pas d'ES). La FR garde l'IT.
+- Brouillon `pilotes/espece-cycas-aenigma-en.html` (DSL scratchpad/cyc08/aenigma-en.dsl) identique au contenu en ligne (post.py : texte identique, 8 liens) ; blocs 107/107 ; aucun commentaire visible ; aucun « » ni guillemet droit ; aucun nom abrégé. ≈ 2 500 mots (Rank Math 2 461 ; espèce très peu documentée).
+- SEO Rank Math : « Cycas aenigma: the enigma cycad of Palawan, Philippines » (55) ; meta 149 ; mot-clé « Cycas aenigma » ; aucun problème. `<title>` vérifié (UA Chrome et curl : 200). Aucune image.
+
+## Fiche FR source
+- FR 26570 du 03/10/2026 (génération d'octobre, sourcée : protologue Lindström, Hill & Stanberg 2008 lu en entier, Agoo & Madulid 2012, WLoC 54, Species+ 65515, Crossref) ; pas de nettoyage ultérieur, mais rien d'ancien à corriger (fiche créée sur sources primaires). Texte en ligne identique au brouillon FR (cmp du 21/10). IT 28448 (12/10) alignée.
+- Revérifié le 21/10 : GBIF 3594949 → EN (iucnTaxonID 187353) ; Crossref : évaluation Agoo & Lindström « issued » 12/05/2020, version 2023-1 ; aucune publication nouvelle (recherche Crossref) ; OpenAlex : limite de requêtes atteinte.
+
+## Jardins UK/US/AU
+- Aucun (inventaire, catalogues, BGCI GB/US/AU). PACSOA : page inexistante (404).
+- Retours anglophones : aucun. JZT : aucune observation (dit dans la page).
+
+## Liens
+- Internes EN (200) : genre (intro), *circinalis*, *beddomei*, *Aulacaspis yasumatsui* 17552, *revoluta* ; Further reading : semis, *Aulacaspis* 17552, toxicité 18526. Sans page EN (non liés) : *pranburiensis*, *riuminiana*, *lacrimans*, *sancti-lasallei*, *curranii*, *saxatilis*.
+- Index genre EN 16282 : ligne liée (simulation 1, application 1) ; brouillon genre aligné (identique).
+- Pages EN citant l'espèce sans lien : aucune.
+
+## Points douteux
+- Populations sauvages : seule une mention non sourcée (trois populations sur ultramafiques à Palawan), présentée comme non vérifiée ; fiche UICN non lue.
+- 21/10/2026 (CYC14) : lien vers *Cycas curranii* (EN 30358) posé à la première occurrence du corps (Pests and diseases ; replace_in_content, simulation puis application, 1) ; brouillon aligné.
+
+- 24/10/2026 (CYC21) : lien EN *Cycas pranburiensis* 30800 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- 24/10/2026 (CYC21) : lien EN *Cycas riuminiana* 30820 posé à la première occurrence dans le corps (replace_in_content simulé puis appliqué, 1 remplacement) ; brouillon aligné.
+
+- Lien sortant vers *Cycas sancti-lasallei* EN 30840 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).
+
+- Lien sortant vers *Cycas saxatilis* EN 30847 posé le 24/10/2026 (lot CYC22, simulation puis application, 1 remplacement).
+- 26/10/2026 (retouche 0 de DIO04) : FAQ « has been consulted » → « is documented » ; Ng et al. 2015 read in full (open access): first chemical study of the species, no toxicity analysis → Toxicity sentence and bibliography annotation rewritten (3 replacements, dry run then applied) ; draft aligned.
+- 30/10/2026 (retouche 0 de CER01) : mentions « POWO / la Liste rouge n'a pas pu être consulté(e) directement » retirées (encadré, Taxonomie, Conservation, bibliographie) ; remplacées par la donnée lue : WCVP sur GBIF (https://api.gbif.org/v1/species/206945409 : nom accepté, Telopea 12 : 130 (2008)) et catégorie UICN EN relayée par GBIF (3594949/iucnRedListCategory) ; DOI Crossref de l'évaluation 2023 vérifié le 30/10 (recherche bibliographique). Annotations « consultée directement / non consulté directement » retirées (WLoC, Haynes 2022). Lignes de sources GBIF ajoutées. 7 remplacements par langue (21 au total, simulation puis application), brouillon aligné (comparé au texte en ligne).

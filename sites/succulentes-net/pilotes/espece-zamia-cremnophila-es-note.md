@@ -1,0 +1,22 @@
+# Note — *Zamia cremnophila* (ES 38721), https://succulentes.net/es/orden-cycadales/zamia/cremnophila/
+
+## Création du 02/11/2026 (lot ZAM-ES02, mode C, 3/5)
+- Avant création : aucune page ES (list_content ES tous statuts « Zamia » : aucune fiche du lot ; corbeille « Zamia » vide ; REST slug `cremnophila` : FR 22338, IT 28026, EN 31239 seulement ; /es/orden-cycadales/zamia/cremnophila/ en 404 ; aucune redirection Pont MCP).
+- create_content : page, publish, langue es, parent 38672, slug `cremnophila`, titre « Zamia cremnophila », translation_of FR 22338 → id **38721**. Hreflang vérifiés : fr 22338, it 28026, en 31239, es 38721. Aucune image (ni FR/IT/EN).
+- Brouillon `pilotes/espece-zamia-cremnophila-es.html` identique au texte en ligne (verify/cmpall : seul le sommaire diffère ; liens internes identiques, 4). DSL : scratchpad `zes02/cremnophila.dsl`. ≈ 3 470 mots (Rank Math).
+- SEO Rank Math : « Zamia cremnophila: la cícada de los acantilados de Tabasco » (58) ; meta 146 ; mot-clé « Zamia cremnophila » ; aucun problème signalé.
+- Index genre ES 38672 : ligne liée (replace_in_content limité à 38672, simulation puis application, 1 remplacement) ; brouillon `genre-zamia-es.html` aligné par remplacement ciblé (cmpall : liens identiques).
+- Species+ revérifié le 02/11/2026 (API publique) : fiche propre 24982 (Annexe II, UE B ; Mexique) → lien 24982 en source.
+- Toxicité : formule imposée « glucósidos tóxicos (cicasina, macrozamina), de los que deriva el metilazoximetanol » (Gymnosperm Database) ; BMAA seulement attribuée à l'ASPCA pour *Zamia furfuracea*, au niveau du genre, comme la FR/EN (décision Q15). °C seulement. JZT : rien de publié (dit) ; aucun minimum JZT cité.
+- Cadre international : section EN « In cultivation in the UK, US and Australia » → « En jardines botánicos » ; FAQ « hardy in the UK » → formulation générale.
+- Base : EN 31239 (24/10) et FR 22338 (protologue Schutzman, Vovides & Dehgan 1988) et leurs notes ; Nicolalde-Morejón et al. 2014 (NOM-059 P, 50-150 m), Lindstrom 2024, Vannini 2019, Cycadales.eu (article 2023 et fiche produit), Jungle Music, GBIF (EN), BGCI (8 jardins), Montgomery (6 accessions). Rien de Wikipédia.
+- Pépiniéristes nommés (Q34) : Cycadales.eu, Jungle Music. Simon Lavaud non nommé (non nécessaire) : de l'article 2023, seuls le classement de l'espèce (groupe Mexique-Amérique centrale du Nord, difficulté « moyenne ») et les deux traits du groupe utiles à la divergence de rusticité (nuits d'hiver 5-10 °C substrat sec ; 4 à 6 mois de températures estivales) sont repris ; consignes générales de substrat/eau non reprises (esprit de Q42). Jay Vannini cité comme auteur d'un article publié, sans mention de ses collections.
+- Divergence exposée sans trancher : groupe Cycadales.eu (nuits 5-10 °C) / fiche produit « tropical », plantules ≥ 20 °C / Jungle Music « very tropical ». Chiapas : WLoC seule (Nicolalde-Morejón 2014 : Tabasco seulement), attribué.
+- Localités : États seulement (Tabasco, Chiapas) ; type cité comme dans l'EN (Tabasco, Magaña 343).
+- Liens internes ES (200) : genre (intro), « Lee también » 23153, 23175, 23195. Sans page ES : *furfuracea*.
+- Points douteux (repris) : protologue relu par la FR seulement ; POWO et Liste rouge non consultés directement ; « clade Purpurea » non repris (comme l'EN).
+
+- 02/11/2026 (ZAM-ES04) : lien vers *Zamia furfuracea* ES 38780 posé (Toxicidad, « y para Zamia furfuracea la ASPCA ») (replace_in_content limité aux id, simulation puis application, 1 remplacement ; brouillon aligné ; cmpall : texte et liens identiques).
+- 02/11/2026 (ZAM-ES09) : lien vers *Zamia meermanii* ES 38961 posé (Confusiones, « como Zamia meermanii de Belice ») ; « sans page ES » retiré ; replace_in_content limité aux id, simulation puis application, 1 remplacement par lien ; brouillon aligné par remplacement ciblé (cmpall : identique hors sommaire, liens identiques).
+- 02/11/2026 (lot ZAM-ES14) : lien(s) posé(s) vers *purpurea* ES 39129 (Híbridos), *restrepoi* ES 39126 (Estado de conservación y normativa) — première occurrence du corps, simulation puis application (replace_in_content ciblé, lots de pages), brouillon aligné (cmpall : identique hors sommaire, liens identiques) ; « sans page ES » retiré.
+- 02/11/2026 (lot ZAM-ES16) : lien entrant posé vers *splendens* ES 39267 (première mention du corps ; replace_in_content limité aux id, simulation puis application ; brouillon aligné, cmpall identique hors sommaire, liens identiques).

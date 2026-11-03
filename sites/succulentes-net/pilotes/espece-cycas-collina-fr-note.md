@@ -1,0 +1,24 @@
+# Note — *Cycas collina* (FR), id 22067
+
+## Nettoyage FR du 13/10/2026
+
+- Page : https://succulentes.net/cycadales/cycas/collina/ — id **22067**, slug `collina`, parent 1256, titre « Cycas collina » inchangés. Polylang : IT 28536 toujours liée (hreflang fr/it vérifiés ; pas d'EN ni d'ES, comme avant). Aucune image. Rien commité. Ancien contenu rendu sauvegardé (scratchpad c2/old-22067.json).
+- Choix : **réécriture complète** (fiche du 03/10/2026 sans brouillon ni encadré ; « endémique du Vietnam », « tronc dressé ou court », aucune description chiffrée, culture et USDA 10-11 non sourcés, ravageurs génériques, lien /cycadales/ superflu dans l'intro), d'après la fiche IT 28536 et des sources relues ce jour :
+  - Hill 2008 (*Telopea* 12(1), texte intégral local, relu) : description complète, clé (6*, 16*, 17*, 19*), histoire du nom (Cheng 1975 *siamensis* ; Wang 1996 et Chen & Stevenson 1999 *simplicipinna*/*balansae*), noms chinois, répartition (Xishuangbanna, Sơn La, probablement Laos et Myanmar), habitat, statut VU (Donaldson 2003), spécimens (Cavalerie 1913, Rock 1922, Nanning), intergradation avec *dolichophylla* (Mộc Châu, Chieng Hac/Chieng Pan ≈ 500 m).
+  - WLoC 109 (HTML, 13/10) : CR A2ace+4ace ; **cite Nguyen HT 2010 en référence mais renvoie au lien de l'évaluation 2023 (67340335)** ; distribution Vietnam (Son La).
+  - **Crossref (13/10) : réévaluation UICN de T.H. Nguyen & A. Lindstrom, version 2023-1, doi 10.2305/IUCN.UK.2023-1.RLTS.T42051A67340335.en** ; GBIF API : catégorie actuelle **CR** (iucnTaxonID 42051).
+  - Trebrown (13/10) : zone 9b, « None known ».
+  - Repris de la fiche IT : Species+ 26626 (Chine + Viet Nam), IPNI 60436305-2, Xi et al. 2022 (protection de première classe), Tropicamente et Fous de palmiers (aucun message sur l'espèce). Protologue (Hill et al. 2004) et Liste rouge non lus. JZT : aucune observation.
+- Corrigé : répartition (Vietnam et Yunnan, non endémique du Vietnam ; divergence WLoC/Species+ exposée), tige acaule (et non tronc dressé), statut (CR maintenu par la réévaluation 2023-1 ; attribution des critères avec réserve ; VU chez Hill 2008), affinités (comparaison de Hill avec *simplicipinna* et *balansae*).
+- Retiré : lien /cycadales/ de l'intro, « populations de transition » généralisées, culture déduite (exposition lumineuse, tolérance au frais liée à l'altitude, arrosages), USDA 10-11, *Luthrodes pandava*, cochenilles farineuses, araignées rouges, pollinisation manuelle, POWO cité sans contenu, Osborne 2012.
+- Ajouté : encadré, description de Hill 2008 et place dans sa clé, intergradation sourcée, confusions (*simplicipinna*, *balansae*, *dolichophylla*, *ferruginea*, *micholitzii*, *multipinnata*), histoire du nom et spécimens anciens, noms chinois avec réserve, localités, statut détaillé, protection chinoise, CITES/UE datés, Nanning, France (aucune donnée ; JZT rien), rusticité (Trebrown 9b, commercial), Toxicité, FAQ (7 questions), « À lire aussi » (semis, toxicité).
+- Liens internes (200, 13/10/2026) : genre (intro), *dolichophylla*, *simplicipinna*, *balansae*, *ferruginea*, *micholitzii*, *multipinnata*, *siamensis*, *beddomei*, *Aulacaspis yasumatsui* (article), *revoluta* ; « À lire aussi » : 2 articles.
+- SEO Rank Math : titre « Cycas collina : le cycas acaule de Sơn La et du Yunnan » (54 car.) ; meta 154 car. ; mot-clé `cycas collina`. Rank Math : aucun problème.
+- Vérifications (verify.py) : URL 200 ; aucun commentaire de bloc visible ; 108 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-cycas-collina-fr.html`, même séquence de 13 liens.
+- **À signaler pour l'IT 28536 (non modifiée)** : réévaluation UICN 2023-1 (T.H. Nguyen & A. Lindström, CR) absente de la fiche IT, qui présente la valutazione 2010 comme seule ; zone USDA 9b de Trebrown (fiche existante) non citée en IT.
+- À signaler pour la page genre FR 1256 (non modifiée, hors lot) : l'index donne pour *collina* « Vietnam ; … CR, 2010 » (il faudrait Chine (Yunnan) et Vietnam ; réévaluation 2023) et pour *chenii* « sans évaluation datée » (évaluation Zhou & Gong 2023-1).
+- Points douteux : attribution des critères A2ace+4ace (2010 ou 2023) ; noms chinois rattachés par déduction de la taxonomie de Hill ; protologue non lu.
+
+- 21/10/2026 (retouche 0b, avant CYC13) : section Toxicité harmonisée (chaîne cycasine → méthylazoxyméthanol, BMAA ajoutée ; manquait : méthylazoxyméthanol, BMAA) par replace_in_content ciblé (simulation 1, application 1) ; brouillon aligné.
+
+- Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 5 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « l'ancienne version de cette page », de la « version anglaise de cette fiche » ou de la « fiche anglaise du site ») ; seules les informations utiles au lecteur sont conservées, fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.

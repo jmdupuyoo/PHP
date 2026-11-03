@@ -1,0 +1,1579 @@
+[
+ {
+  "id": 23780,
+  "title": "La famille Cactaceae",
+  "link": "https://succulentes.net/famille-cactaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "groupes de plantes succulentes les plus",
+    "to": "groupes de <a href=\"https://succulentes.net/plantes/\">plantes succulentes</a> les plus"
+   }
+  ],
+  "note": "Intro sans aucun lien. Texte sans aucun lien : genres cités non liés (Mammillaria, Echinocactus, Opuntia, Pereskia, Lophophora…), y compris la liste finale des 18 genres."
+ },
+ {
+  "id": 23856,
+  "title": "La famille Anacardiaceae",
+  "link": "https://succulentes.net/famille-anacardiaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "amateurs de plantes succulentes et xérophytes",
+    "to": "amateurs de <a href=\"https://succulentes.net/plantes/\">plantes succulentes</a> et xérophytes"
+   }
+  ],
+  "note": "DOUTEUX : la page commence par un intertitre H2 « Présentation générale » (pas de paragraphe avant le 1er intertitre) ; on traite le 1er paragraphe comme intro. « plantes succulentes » est en 2e phrase. Aucun lien dans toute la page : Operculicarya, Pachycormus, Burseraceae, Commiphora, Bursera non liés."
+ },
+ {
+  "id": 23902,
+  "title": "La famille Apocynaceae",
+  "link": "https://succulentes.net/famille-apocynaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "grandes familles de plantes à fleurs",
+    "to": "grandes familles de <a href=\"https://succulentes.net/plantes/\">plantes</a> à fleurs"
+   }
+  ],
+  "note": "Intro sans lien et sans « plantes succulentes » ; ancre « plantes » (1re phrase, « plantes à fleurs ») — un peu générique. Alternative : 2e paragraphe « plantes grasses », mais hors intro. Aucun lien dans la page : Adenium, Pachypodium, Fockea, Plumeria non liés."
+ },
+ {
+  "id": 23852,
+  "title": "La famille Burseraceae",
+  "link": "https://succulentes.net/famille-burseraceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "genres. Ces plantes se distinguent",
+    "to": "genres. Ces <a href=\"https://succulentes.net/plantes/\">plantes</a> se distinguent"
+   }
+  ],
+  "note": "DOUTEUX : page ouverte par un H2 « Présentation générale » ; 1er paragraphe traité comme intro. Pas de « plantes succulentes » dans l'intro : ancre « plantes » en 2e phrase. Aucun lien dans la page : Commiphora, Boswellia, Bursera non liés."
+ },
+ {
+  "id": 21182,
+  "title": "Famille des Fouquieracées",
+  "link": "https://succulentes.net/famille-fouquieriaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/famille-fouquieriaceae/fouquieria/\"><em>Fouquieria</em></a>",
+    "to": "<em>Fouquieria</em>"
+   }
+  ],
+  "note": "Intro : 2 liens (Plantes sur « famille de plantes » = OK ; genre Fouquieria = en trop, à retirer). Le genre reste lié plus bas (« genre Fouquieria », section Diversité). Page très longue : fichier de vérification partiel (intro + paragraphes à liens)."
+ },
+ {
+  "id": 23900,
+  "title": "La famille Malvaceae",
+  "link": "https://succulentes.net/famille-malvaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "diversifiées des plantes à fleurs",
+    "to": "diversifiées des <a href=\"https://succulentes.net/plantes/\">plantes</a> à fleurs"
+   }
+  ],
+  "note": "Intro sans lien ni « plantes succulentes » ; ancre « plantes » (1re phrase). Aucun lien dans la page : Adansonia (page genre existante) non lié ; Brachychiton, Chorisia, Pseudobombax (pages existantes) non cités."
+ },
+ {
+  "id": 23898,
+  "title": "La famille Moringaceae",
+  "link": "https://succulentes.net/famille-moringaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "<strong>famille monogénérique</strong>, ne comportant",
+    "to": "<strong>famille monogénérique</strong> de <a href=\"https://succulentes.net/plantes/\">plantes</a>, ne comportant"
+   }
+  ],
+  "note": "DOUTEUX : aucune ancre naturelle dans l'intro (ni « plantes », ni « végétaux ») ; ajout de 3 mots « de plantes » en 1re phrase. Aucun lien dans la page : Moringa (page genre) non lié."
+ },
+ {
+  "id": 23895,
+  "title": "La famille Pedaliaceae",
+  "link": "https://succulentes.net/famille-pedaliaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "réunit à la fois des plantes alimentaires",
+    "to": "réunit à la fois des <a href=\"https://succulentes.net/plantes/\">plantes</a> alimentaires"
+   }
+  ],
+  "note": "Intro sans lien ni « plantes succulentes » ; ancre « plantes » en dernière phrase de l'intro (« plantes alimentaires ») — DOUTEUX, l'ancre serait meilleure sur « plantes grasses » du 2e paragraphe (hors intro stricte). Aucun lien dans la page : Uncarina et Pterodiscus (pages genres) non liés ; Didiereaceae/Euphorbiaceae/Vitaceae non liés."
+ },
+ {
+  "id": 23893,
+  "title": "La famille Vitaceae",
+  "link": "https://succulentes.net/famille-vitaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "<strong>900 espèces</strong> réparties",
+    "to": "<strong>900 espèces</strong> de <a href=\"https://succulentes.net/plantes/\">plantes</a> réparties"
+   }
+  ],
+  "note": "DOUTEUX : 1er paragraphe sans aucun mot « plantes/végétaux » ; ajout de « de plantes » après « 900 espèces ». Alternative : lier « plantes remarquablement adaptées à la sécheresse » du 2e paragraphe (hors intro stricte). Cyphostemma déjà lié dans le corps."
+ },
+ {
+  "id": 24878,
+  "title": "Les aloïdes",
+  "link": "https://succulentes.net/aloides/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "l'ensemble des plantes succulentes apparentées",
+    "to": "l'ensemble des <a href=\"https://succulentes.net/plantes/\">plantes succulentes</a> apparentées"
+   }
+  ],
+  "note": "Intro sans lien. Corps : Aloe, Haworthiopsis, Xanthorrhoea liés dans la liste finale ; Aloe/Haworthiopsis/Xanthorrhoea non liés dans le texte courant (acceptable)."
+ },
+ {
+  "id": 24880,
+  "title": "La famille Crassulaceae",
+  "link": "https://succulentes.net/famille-crassulaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "grandes familles de plantes succulentes",
+    "to": "grandes familles de <a href=\"https://succulentes.net/plantes/\">plantes succulentes</a>"
+   }
+  ],
+  "note": "Intro sans lien. Corps : les 5 genres (Aeonium, Crassula, Echeveria, Kalanchoe, Sedum) liés dans la liste finale mais pas dans le texte courant (Classification, Culture) — acceptable."
+ },
+ {
+  "id": 24887,
+  "title": "La famille Euphorbiaceae",
+  "link": "https://succulentes.net/famille-euphorbiaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "vastes familles de plantes à fleurs",
+    "to": "vastes familles de <a href=\"https://succulentes.net/plantes/\">plantes</a> à fleurs"
+   }
+  ],
+  "note": "Intro sans lien ni « plantes succulentes » ; ancre « plantes » en 1re phrase. Corps : Euphorbia et Jatropha liés dans la liste finale seulement."
+ },
+ {
+  "id": 24888,
+  "title": "La famille Didiereaceae",
+  "link": "https://succulentes.net/famille-didieraceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "petites familles de plantes succulentes",
+    "to": "petites familles de <a href=\"https://succulentes.net/plantes/\">plantes succulentes</a>"
+   }
+  ],
+  "note": "Intro sans lien. Corps non liés : Fouquieria (genre, page existante), Cactaceae (famille), Alluaudia/Didierea dans le texte courant (liés seulement dans la liste finale)."
+ },
+ {
+  "id": 24889,
+  "title": "La famille Bromeliaceae",
+  "link": "https://succulentes.net/famille-bromeliaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "<strong>3 000 espèces</strong> réparties",
+    "to": "<strong>3 000 espèces</strong> de <a href=\"https://succulentes.net/plantes/\">plantes</a> réparties"
+   }
+  ],
+  "note": "DOUTEUX : aucun mot « plantes/végétaux » dans le 1er paragraphe ; ajout de « de plantes ». Alternative : lier « plantes xérophytes » du 2e paragraphe. Corps : « agaves » non lié (page Agave existe) ; genres liés seulement dans la liste finale."
+ },
+ {
+  "id": 24890,
+  "title": "La famille Fabaceae",
+  "link": "https://succulentes.net/famille-fabaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "grande famille de plantes à fleurs",
+    "to": "grande famille de <a href=\"https://succulentes.net/plantes/\">plantes</a> à fleurs"
+   }
+  ],
+  "note": "Intro sans lien ; ancre « plantes » en 1re phrase. Corps : Acacia, Erythrina liés seulement dans la liste finale ; « astéracées » non lié (page famille Asteraceae existe)."
+ },
+ {
+  "id": 24864,
+  "title": "La famille Proteaceae",
+  "link": "https://succulentes.net/famille-proteaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "rassemble des arbres et des arbustes parmi",
+    "to": "rassemble des <a href=\"https://succulentes.net/plantes/\">arbres et des arbustes</a> parmi"
+   }
+  ],
+  "note": "DOUTEUX : aucun mot « plantes/végétaux » dans l'intro ; ancre « arbres et des arbustes » (1re phrase). Corps : Banksia, Grevillea, Hakea liés seulement dans la liste finale."
+ },
+ {
+  "id": 24866,
+  "title": "La famille Myrtaceae",
+  "link": "https://succulentes.net/famille-myrtaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "familles d'arbres et d'arbustes ligneux",
+    "to": "familles d'<a href=\"https://succulentes.net/plantes/\">arbres et d'arbustes ligneux</a>"
+   }
+  ],
+  "note": "DOUTEUX : aucun mot « plantes » dans l'intro ; ancre « arbres et d'arbustes ligneux ». Alternative : « plantes » au début du 2e paragraphe. Corps : Callistemon lié seulement dans la liste finale."
+ },
+ {
+  "id": 24867,
+  "title": "La famille Cyatheaceae",
+  "link": "https://succulentes.net/famille-cyatheaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "<strong>fougères arborescentes</strong> du monde",
+    "to": "<strong><a href=\"https://succulentes.net/plantes/\">fougères arborescentes</a></strong> du monde"
+   }
+  ],
+  "note": "DOUTEUX : seule occurrence de « plantes » dans l'intro est négative (« Il ne s'agit pas de plantes à fleurs ») ; ancre proposée « fougères arborescentes » (1re phrase). Corps : Cyathea lié seulement dans la liste finale ; le 2e paragraphe cite Cyathea sans lien."
+ },
+ {
+  "id": 24876,
+  "title": "La famille Lamiaceae",
+  "link": "https://succulentes.net/famille-lamiaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "importantes familles de plantes à fleurs",
+    "to": "importantes familles de <a href=\"https://succulentes.net/plantes/\">plantes</a> à fleurs"
+   }
+  ],
+  "note": "Intro sans lien ; ancre « plantes » en 1re phrase. Corps : Leonotis lié seulement dans la liste finale."
+ },
+ {
+  "id": 24877,
+  "title": "La famille Nymphaeaceae",
+  "link": "https://succulentes.net/famille-nymphaeaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "plantes aquatiques emblématiques",
+    "to": "<a href=\"https://succulentes.net/plantes/\">plantes</a> aquatiques emblématiques"
+   }
+  ],
+  "note": "Intro sans lien ; ancre « plantes » (1re phrase). À NOTER : une page « Les plantes aquatiques » (ID 21650) existe — si le propriétaire la considère comme niveau au-dessus, cibler plutôt celle-ci avec l'ancre « plantes aquatiques ». Corps : Nymphaea lié seulement dans la liste finale."
+ },
+ {
+  "id": 24879,
+  "title": "La famille Menyanthaceae",
+  "link": "https://succulentes.net/famille-menyanthaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "petite famille de plantes aquatiques",
+    "to": "petite famille de <a href=\"https://succulentes.net/plantes/\">plantes</a> aquatiques"
+   }
+  ],
+  "note": "Intro sans lien ; ancre « plantes » (1re phrase). Même remarque que Nymphaeaceae sur la page « Les plantes aquatiques » (21650). Corps : Asteraceae (famille, page existante) et « nénuphars »/Nymphaea non liés ; Nymphoides lié seulement dans la liste finale."
+ },
+ {
+  "id": 24859,
+  "title": "La famille Papaveraceae",
+  "link": "https://succulentes.net/famille-papaveraceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "réunit des plantes surtout herbacées",
+    "to": "réunit des <a href=\"https://succulentes.net/plantes/\">plantes</a> surtout herbacées"
+   }
+  ],
+  "note": "Intro sans lien ; ancre « plantes » (1re phrase). Corps : Romneya coulteri cité dans le texte sans lien (lié seulement dans la liste finale)."
+ },
+ {
+  "id": 24860,
+  "title": "La famille Strelitziaceae",
+  "link": "https://succulentes.net/famille-strelitziaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "petite famille de monocotylédones spectaculaires",
+    "to": "petite famille de <a href=\"https://succulentes.net/plantes/\">monocotylédones</a> spectaculaires"
+   }
+  ],
+  "note": "DOUTEUX : pas de « plantes » dans l'intro (paragraphe unique avant le 1er H2) ; ancre « monocotylédones ». Corps : Strelitzia (genre) cité plusieurs fois sans lien, lié seulement dans la liste finale."
+ },
+ {
+  "id": 24861,
+  "title": "La famille Asteraceae",
+  "link": "https://succulentes.net/famille-asteraceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "grandes familles de plantes à fleurs",
+    "to": "grandes familles de <a href=\"https://succulentes.net/plantes/\">plantes</a> à fleurs"
+   }
+  ],
+  "note": "Intro sans lien ; ancre « plantes » (1re phrase). Corps : Tagetes cité dans le texte sans lien (lié seulement dans la liste finale)."
+ },
+ {
+  "id": 24862,
+  "title": "La famille Araucariaceae",
+  "link": "https://succulentes.net/famille-araucariaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "une famille de conifères très ancienne",
+    "to": "une famille de <a href=\"https://succulentes.net/plantes/\">conifères</a> très ancienne"
+   }
+  ],
+  "note": "DOUTEUX : pas de « plantes » dans l'intro ; ancre « conifères ». Corps : Wollemia cité dans la liste des genres et dans le texte sans lien (lié seulement dans la liste finale)."
+ },
+ {
+  "id": 24863,
+  "title": "La famille Phytolaccaceae",
+  "link": "https://succulentes.net/famille-phytolaccaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "petite famille de plantes à fleurs",
+    "to": "petite famille de <a href=\"https://succulentes.net/plantes/\">plantes</a> à fleurs"
+   }
+  ],
+  "note": "Intro sans lien ; ancre « plantes » (1re phrase). Corps/intro : Cactaceae (famille, page existante) non lié ; Phytolacca cité dans le texte sans lien (lié seulement dans la liste finale)."
+ },
+ {
+  "id": 24865,
+  "title": "La famille Araliaceae",
+  "link": "https://succulentes.net/famille-araliaceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "réunit des arbres, des arbustes, des lianes",
+    "to": "réunit des <a href=\"https://succulentes.net/plantes/\">arbres, des arbustes, des lianes</a>"
+   }
+  ],
+  "note": "DOUTEUX : pas de « plantes » dans l'intro ; ancre « arbres, des arbustes, des lianes ». La 1re occurrence de « plantes succulentes » est dans la section Cussonia (hors intro). Corps : Cussonia cité dans le texte sans lien (lié seulement dans la liste finale)."
+ },
+ {
+  "id": 24868,
+  "title": "La famille Passifloraceae",
+  "link": "https://succulentes.net/famille-passifloraceae/",
+  "target": "https://succulentes.net/plantes/",
+  "replacements": [
+   {
+    "from": "genres de caudiciformes les plus",
+    "to": "genres de <a href=\"https://succulentes.net/plantes/\">caudiciformes</a> les plus"
+   }
+  ],
+  "note": "DOUTEUX : pas de « plantes » dans l'intro ; ancre « caudiciformes » (2e phrase). Intro : Adenia et Euphorbiaceae cités sans lien (normal, un seul lien en intro). Corps : Adenia cité sans lien dans le texte (lié seulement dans la liste finale)."
+ },
+ {
+  "id": 5098,
+  "title": "Le genre Copiapoa",
+  "link": "https://succulentes.net/famille-cactaceae/copiapoa/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes succulentes</a>",
+    "to": "<a href=\"https://succulentes.net/famille-cactaceae/\">plantes succulentes</a>"
+   }
+  ],
+  "note": "Intro : seul lien = /plantes/ ; ni famille ni « cactées » dans le 1er § → on garde l'ancre existante « plantes succulentes » et on change seulement la cible (famille Cactaceae). Alternative : remplacer l'ancre par « cactées »."
+ },
+ {
+  "id": 3630,
+  "title": "Le genre Cylindropuntia",
+  "link": "https://succulentes.net/famille-cactaceae/cylindropuntia/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [
+   {
+    "from": "<p>Les cactées du genre",
+    "to": "<p>Les <a href=\"https://succulentes.net/famille-cactaceae/\">cactées</a> du genre"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>",
+    "to": "plantes succulentes"
+   }
+  ],
+  "note": "Intro : lien /plantes/ sur « plantes succulentes » retiré, lien famille ajouté sur « cactées » (1re phrase). Alternative à 1 remplacement : garder l'ancre « plantes succulentes » et changer seulement le href. Corps : Opuntia déjà lié."
+ },
+ {
+  "id": 5309,
+  "title": "Le genre Echinocereus",
+  "link": "https://succulentes.net/famille-cactaceae/echinocereus/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [
+   {
+    "from": "<p>Les cactées du genre",
+    "to": "<p>Les <a href=\"https://succulentes.net/famille-cactaceae/\">cactées</a> du genre"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes succulentes</a>",
+    "to": "plantes succulentes"
+   }
+  ],
+  "note": "Intro : lien /plantes/ retiré, lien famille sur « cactées ». ERREUR DE CONTENU repérée : le 3e paragraphe dit « La cactées du genre Echinocactus » (devrait être « Les cactées du genre Echinocereus »)."
+ },
+ {
+  "id": 5107,
+  "title": "Le genre Epiphyllum",
+  "link": "https://succulentes.net/famille-cactaceae/epiphyllum/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [
+   {
+    "from": "regroupe des cactées originaires",
+    "to": "regroupe des <a href=\"https://succulentes.net/famille-cactaceae/\">cactées</a> originaires"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes succulentes</a>",
+    "to": "plantes succulentes"
+   }
+  ],
+  "note": "Intro : lien famille sur « cactées » (1re phrase), lien /plantes/ retiré. Page d'un seul paragraphe."
+ },
+ {
+  "id": 5124,
+  "title": "Le genre Espostoa",
+  "link": "https://succulentes.net/famille-cactaceae/espostoa/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [
+   {
+    "from": "regroupe des cactées originaires",
+    "to": "regroupe des <a href=\"https://succulentes.net/famille-cactaceae/\">cactées</a> originaires"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes succulentes</a>",
+    "to": "plantes succulentes"
+   }
+  ],
+  "note": "Intro : lien famille sur « cactées », lien /plantes/ retiré. Page d'un seul paragraphe ; balise parasite <meta charset> et coquilles (« colonaires », « régions d'attitudes »)."
+ },
+ {
+  "id": 5330,
+  "title": "Le genre Hylocereus",
+  "link": "https://succulentes.net/famille-cactaceae/hylocereus/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [
+   {
+    "from": "regroupe des cactées lianescentes",
+    "to": "regroupe des <a href=\"https://succulentes.net/famille-cactaceae/\">cactées</a> lianescentes"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes succulentes</a>",
+    "to": "plantes succulentes"
+   }
+  ],
+  "note": "Intro : lien famille sur « cactées », lien /plantes/ retiré. Corps : Hylocereus undatus = Selenicereus undatus ; page genre Selenicereus existante non liée."
+ },
+ {
+  "id": 5115,
+  "title": "Le genre Lophophora",
+  "link": "https://succulentes.net/famille-cactaceae/lophophora/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [
+   {
+    "from": "espèces de cactées globulaires",
+    "to": "espèces de <a href=\"https://succulentes.net/famille-cactaceae/\">cactées</a> globulaires"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes succulentes</a>",
+    "to": "plantes succulentes"
+   }
+  ],
+  "note": "Intro : lien famille sur « cactées », lien /plantes/ retiré. Page d'un seul paragraphe."
+ },
+ {
+  "id": 2819,
+  "title": "Le genre Neobuxbaumia",
+  "link": "https://succulentes.net/famille-cactaceae/neobuxbaumia/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [
+   {
+    "from": "par des cactus colonnaires",
+    "to": "par des <a href=\"https://succulentes.net/famille-cactaceae/\">cactus</a> colonnaires"
+   }
+  ],
+  "note": "Intro sans lien : ajout du lien famille sur « cactus ». Page très courte (paragraphe vide final)."
+ },
+ {
+  "id": 3716,
+  "title": "Le genre Pachycereus",
+  "link": "https://succulentes.net/famille-cactaceae/pachycereus/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [
+   {
+    "from": "rassemble des cactées originaires",
+    "to": "rassemble des <a href=\"https://succulentes.net/famille-cactaceae/\">cactées</a> originaires"
+   }
+  ],
+  "note": "Intro sans lien : ajout du lien famille sur « cactées ». Espèces marginatus et pringlei déjà liées."
+ },
+ {
+  "id": 5153,
+  "title": "Le Pereskia",
+  "link": "https://succulentes.net/famille-cactaceae/pereskia/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [
+   {
+    "from": "la famille des cactées",
+    "to": "la <a href=\"https://succulentes.net/famille-cactaceae/\">famille des cactées</a>"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes succulentes</a>",
+    "to": "plantes succulentes"
+   }
+  ],
+  "note": "Intro : lien /plantes/ retiré ; lien famille sur « famille des cactées » (1re phrase)."
+ },
+ {
+  "id": 1018,
+  "title": "Le genre Agave",
+  "link": "https://succulentes.net/agavoides/agave/",
+  "target": "https://succulentes.net/agavoides/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>",
+    "to": "<a href=\"https://succulentes.net/agavoides/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>"
+   }
+  ],
+  "note": "Intro : seul lien = /plantes/ ; groupe non cité dans l'intro → ancre existante « plantes succulentes » conservée, cible changée vers /agavoides/ (alternative : ancre « agavoïdes »). Corps : yuccas, furcrées, dracénas, Cactaceae cités sans lien ; ANOMALIE : dans le tableau, Agave parryi var. truncata pointe vers la version anglaise (/en/agavoids/agave/parryi/truncata/)."
+ },
+ {
+  "id": 871,
+  "title": "Le genre Yucca",
+  "link": "https://succulentes.net/agavoides/yucca/",
+  "target": "https://succulentes.net/agavoides/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes emblématiques</a>",
+    "to": "<a href=\"https://succulentes.net/agavoides/\" data-type=\"page\" data-id=\"594\">plantes emblématiques</a>"
+   }
+  ],
+  "note": "Intro : lien /plantes/ sur « plantes emblématiques » → même ancre, cible /agavoides/ (alternative : « agavoïdes emblématiques »). Corps : Agavoideae (2e §) non lié ; Hesperoyucca sans page."
+ },
+ {
+  "id": 1047,
+  "title": "Genre Nolina",
+  "link": "https://succulentes.net/agavoides/nolina/",
+  "target": "https://succulentes.net/agavoides/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>",
+    "to": "plantes succulentes"
+   },
+   {
+    "from": "il s'agit de plantes xérophytes",
+    "to": "il s'agit de <a href=\"https://succulentes.net/agavoides/\">plantes xérophytes</a>"
+   }
+  ],
+  "note": "Intro : le lien /plantes/ porte sur une négation (« ne sont pas à proprement parlé des plantes succulentes ») → retiré ; lien groupe ajouté sur « plantes xérophytes » (phrase suivante). Coquille « parlé » (→ parler). Corps : « agaves » non lié (page Agave)."
+ },
+ {
+  "id": 2563,
+  "title": "Le genre Dasylirion",
+  "link": "https://succulentes.net/agavoides/dasylirion/",
+  "target": "https://succulentes.net/agavoides/",
+  "replacements": [
+   {
+    "from": "parmi les plantes architecturales les plus",
+    "to": "parmi les <a href=\"https://succulentes.net/agavoides/\">plantes architecturales</a> les plus"
+   }
+  ],
+  "note": "DOUTEUX : intro (1er §) sans aucun lien et sans mention du groupe ; ancre existante « plantes architecturales » vers /agavoides/ (alternative : remplacer par « agavoïdes architecturales »). Texte truffé de &nbsp; (entités) — fragment choisi sans espace insécable. Corps : Nolina, Beaucarnea, Calibanus, Dracaena, Sansevieria, Agave, Yucca, Hesperaloe cités sans lien."
+ },
+ {
+  "id": 3093,
+  "title": "Le genre Beaucarnea",
+  "link": "https://succulentes.net/agavoides/beaucarnea/",
+  "target": "https://succulentes.net/agavoides/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes xérophytes</a>",
+    "to": "<a href=\"https://succulentes.net/agavoides/\" data-type=\"page\" data-id=\"594\">plantes xérophytes</a>"
+   }
+  ],
+  "note": "Intro : lien /plantes/ sur « plantes xérophytes » → même ancre, cible /agavoides/. Intro/corps : Nolina (page genre) non lié (dans l'intro il doit rester sans lien)."
+ },
+ {
+  "id": 2851,
+  "title": "Le genre Beschorneria",
+  "link": "https://succulentes.net/agavoides/beschorneria/",
+  "target": "https://succulentes.net/agavoides/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>",
+    "to": "<a href=\"https://succulentes.net/agavoides/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>"
+   }
+  ],
+  "note": "Intro : lien /plantes/ sur « plantes succulentes » → même ancre, cible /agavoides/. Page courte."
+ },
+ {
+  "id": 5182,
+  "title": "Le genre Furcraea",
+  "link": "https://succulentes.net/agavoides/furcraea/",
+  "target": "https://succulentes.net/agavoides/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/agavoides/agave/\" data-type=\"page\" data-id=\"1018\">agaves</a>",
+    "to": "agaves"
+   },
+   {
+    "from": "de grandes plantes en rosette",
+    "to": "de grandes <a href=\"https://succulentes.net/agavoides/\">plantes en rosette</a>"
+   }
+  ],
+  "note": "DOUTEUX : l'intro a 1 lien mais vers le genre frère Agave (« cousins agaves »), pas vers le groupe. Proposition : retirer ce lien et lier « plantes en rosette » (1re phrase) vers /agavoides/. Le lien Agave pourrait être replacé dans « Position taxonomique » (Agave, Yucca, Beschorneria, Nolina, Dasylirion, Beaucarnea cités sans lien)."
+ },
+ {
+  "id": 5227,
+  "title": "Le genre Calibanus",
+  "link": "https://succulentes.net/agavoides/calibanus/",
+  "target": "https://succulentes.net/agavoides/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes xérophytes</a>",
+    "to": "<a href=\"https://succulentes.net/agavoides/\">plantes xérophytes</a>"
+   }
+  ],
+  "note": "Intro : lien /plantes/ sur « plantes xérophytes » → même ancre, cible /agavoides/. « nolines » (page Nolina) non lié (intro)."
+ },
+ {
+  "id": 4782,
+  "title": "Le genre Cordyline",
+  "link": "https://succulentes.net/agavoides/cordyline/",
+  "target": "https://succulentes.net/agavoides/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes ornementales</a>",
+    "to": "<a href=\"https://succulentes.net/agavoides/\">plantes ornementales</a>"
+   }
+  ],
+  "note": "Intro : lien /plantes/ sur « plantes ornementales » → même ancre, cible /agavoides/ (ancre peu parlante, à revoir). « yuccas » (page Yucca) non lié (intro)."
+ },
+ {
+  "id": 3381,
+  "title": "Le genre Dracaena",
+  "link": "https://succulentes.net/agavoides/dracaena/",
+  "target": "https://succulentes.net/agavoides/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>",
+    "to": "<a href=\"https://succulentes.net/agavoides/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>"
+   }
+  ],
+  "note": "Intro : lien /plantes/ sur « plantes succulentes » → même ancre, cible /agavoides/. Corps : Sansevieria (page genre existante), Yucca, Aloe, cactées cités sans lien."
+ },
+ {
+  "id": 5193,
+  "title": "Le genre Sansevieria",
+  "link": "https://succulentes.net/agavoides/sansevieria/",
+  "target": "https://succulentes.net/agavoides/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">espèces succulentes</a>",
+    "to": "<a href=\"https://succulentes.net/agavoides/\">espèces succulentes</a>"
+   },
+   {
+    "from": "<em><a href=\"https://succulentes.net/agavoides/dracaena/\">Dracaena</a></em>",
+    "to": "<em>Dracaena</em>"
+   }
+  ],
+  "note": "Intro : 2 liens (/plantes/ sur « espèces succulentes » → cible /agavoides/ ; genre Dracaena → retiré). Page d'un seul paragraphe : Dracaena n'est plus lié nulle part (DOUTEUX : ce lien est utile vu la synonymie — à ajouter hors intro si un 2e paragraphe est créé)."
+ },
+ {
+  "id": 6637,
+  "title": "Le genre Lomandra",
+  "link": "https://succulentes.net/agavoides/lomandra/",
+  "target": "https://succulentes.net/agavoides/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes exotiques</a>",
+    "to": "<a href=\"https://succulentes.net/agavoides/\">plantes exotiques</a>"
+   }
+  ],
+  "note": "Intro : lien /plantes/ sur « plantes exotiques » → même ancre, cible /agavoides/ (ancre peu parlante). Coquilles : « à leur portée attention », « La rusticités », « le plante se développent »."
+ },
+ {
+  "id": 6727,
+  "title": "Le genre Doryanthes",
+  "link": "https://succulentes.net/agavoides/doryanthes/",
+  "target": "https://succulentes.net/agavoides/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes xérophytes</a>",
+    "to": "<a href=\"https://succulentes.net/agavoides/\" data-type=\"page\" data-id=\"594\">plantes xérophytes</a>"
+   }
+  ],
+  "note": "Intro : lien /plantes/ sur « plantes xérophytes » → même ancre, cible /agavoides/. Corps : Agave, Yucca, Dracaena, Furcraea, Xanthorrhoea (pages existantes) cités sans lien ; restes de gabarit « [lien vers la fiche espèce] » dans la liste finale ; « Taxonomie et position botanique » est un paragraphe au lieu d'un H2."
+ },
+ {
+  "id": 996,
+  "title": "Le genre Aloe",
+  "link": "https://succulentes.net/aloides/aloe/",
+  "target": "https://succulentes.net/aloides/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes grasses</a>",
+    "to": "plantes grasses"
+   },
+   {
+    "from": "famille des Aloacées",
+    "to": "famille des <a href=\"https://succulentes.net/aloides/\">Aloacées</a>"
+   }
+  ],
+  "note": "Intro : lien /plantes/ sur « plantes grasses » retiré ; lien vers /aloides/ sur « Aloacées » (famille citée). DOUTEUX : « Aloacées » est un nom de famille obsolète (aujourd'hui Asphodelaceae) — alternative : garder « plantes grasses » et changer seulement la cible. Coquilles : « Aloe verra », « l'intérêt ornementale ». Corps : Aloe arborescens / striatula cités sans lien ni italique (pages espèces existantes)."
+ },
+ {
+  "id": 6885,
+  "title": "Le genre Xanthorrhoea",
+  "link": "https://succulentes.net/aloides/xanthorrhoea/",
+  "target": "https://succulentes.net/aloides/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes xérophytes</a>",
+    "to": "<a href=\"https://succulentes.net/aloides/\">plantes xérophytes</a>"
+   }
+  ],
+  "note": "Intro : lien /plantes/ sur « plantes xérophytes » → même ancre, cible /aloides/. Orthographe « Xanthorrhoeae » (au lieu de Xanthorrhoea) dans l'intro et un H2. Corps : Acacia (page genre) non lié ; Dasylirion longissimum lié."
+ },
+ {
+  "id": 3897,
+  "title": "Le genre Aeonium",
+  "link": "https://succulentes.net/famille-crassulaceae/aeonium/",
+  "target": "https://succulentes.net/famille-crassulaceae/",
+  "replacements": [
+   {
+    "from": "(Crassulaceae, sous-famille",
+    "to": "(<a href=\"https://succulentes.net/famille-crassulaceae/\">Crassulaceae</a>, sous-famille"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes succulentes</a>",
+    "to": "plantes succulentes"
+   }
+  ],
+  "note": "Intro : lien /plantes/ retiré ; lien famille sur « Crassulaceae » (1re phrase). Contenu complet enregistré (exact). ANOMALIE : liens vers les versions anglaises pour Aeonium balsamiferum et lindleyi (/en/crassulaceae/aeonium/...). Corps : Echeveria, Sedum, Crassula cités sans lien (pages existantes)."
+ },
+ {
+  "id": 14642,
+  "title": "Genre Crassula",
+  "link": "https://succulentes.net/famille-crassulaceae/crassula/",
+  "target": "https://succulentes.net/famille-crassulaceae/",
+  "replacements": [
+   {
+    "from": "(Crassulacées) réunit",
+    "to": "(<a href=\"https://succulentes.net/famille-crassulaceae/\">Crassulacées</a>) réunit"
+   }
+  ],
+  "note": "Intro sans aucun lien : ajout du lien famille sur « Crassulacées » (1re phrase). La page n'a aucun lien interne (espèces ovata, arborescens, perforata… sans lien — vérifier s'il existe des fiches)."
+ },
+ {
+  "id": 21587,
+  "title": "Le genre Echeveria",
+  "link": "https://succulentes.net/famille-crassulaceae/echeveria/",
+  "target": "https://succulentes.net/famille-crassulaceae/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>",
+    "to": "<a href=\"https://succulentes.net/famille-crassulaceae/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>"
+   }
+  ],
+  "note": "Intro : famille non citée → ancre existante « plantes succulentes » conservée, cible changée vers la famille. Corps : Sedum, Sempervivum (page /genre-sempervivum/), Crassulaceae cités sans lien."
+ },
+ {
+  "id": 5202,
+  "title": "Le genre Kalanchoe",
+  "link": "https://succulentes.net/famille-crassulaceae/kalanchoe/",
+  "target": "https://succulentes.net/famille-crassulaceae/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes succulentes</a>",
+    "to": "<a href=\"https://succulentes.net/famille-crassulaceae/\">plantes succulentes</a>"
+   }
+  ],
+  "note": "Intro (1er §) : famille non citée → ancre « plantes succulentes » conservée, cible famille. (« Crassulacées » n'apparaît qu'au 2e § ; alternative : y placer le lien.) Coquilles : « très ornementale », « intéressante »."
+ },
+ {
+  "id": 5382,
+  "title": "Le genre Sedum",
+  "link": "https://succulentes.net/famille-crassulaceae/sedum/",
+  "target": "https://succulentes.net/famille-crassulaceae/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes succulentes</a>",
+    "to": "<a href=\"https://succulentes.net/famille-crassulaceae/\">plantes succulentes</a>"
+   }
+  ],
+  "note": "Intro : famille non citée → ancre « plantes succulentes » conservée, cible famille. Page d'un seul paragraphe ; coquille « de nombreux régions »."
+ },
+ {
+  "id": 3326,
+  "title": "Le genre Euphorbia",
+  "link": "https://succulentes.net/famille-euphorbiaceae/euphorbia/",
+  "target": "https://succulentes.net/famille-euphorbiaceae/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>",
+    "to": "<a href=\"https://succulentes.net/famille-euphorbiaceae/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>"
+   }
+  ],
+  "note": "Intro : famille non citée → ancre « plantes succulentes » conservée, cible famille Euphorbiaceae. Corps : « cactées » non lié ; nombreuses espèces liées dans la liste."
+ },
+ {
+  "id": 3621,
+  "title": "Le genre Jatropha",
+  "link": "https://succulentes.net/famille-euphorbiaceae/jatropha/",
+  "target": "https://succulentes.net/famille-euphorbiaceae/",
+  "replacements": [
+   {
+    "from": "la famille des Euphorbiacées",
+    "to": "la <a href=\"https://succulentes.net/famille-euphorbiaceae/\">famille des Euphorbiacées</a>"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>",
+    "to": "plantes succulentes"
+   }
+  ],
+  "note": "Intro : lien famille ajouté sur « famille des Euphorbiacées » (2e phrase), lien /plantes/ retiré. Page d'un seul paragraphe ; coquilles « propriété médicinales », « médiniciers »."
+ },
+ {
+  "id": 3594,
+  "title": "Le genre Alluaudia",
+  "link": "https://succulentes.net/famille-didieraceae/alluaudia/",
+  "target": "https://succulentes.net/famille-didieraceae/",
+  "replacements": [
+   {
+    "from": "au sein de la même famille botanique",
+    "to": "au sein de la même <a href=\"https://succulentes.net/famille-didieraceae/\">famille botanique</a>"
+   }
+  ],
+  "note": "Intro sans lien ; famille non nommée dans l'intro → lien sur « famille botanique » (dernière phrase). La famille Didiereaceae est déjà liée au § Taxinomie (doublon acceptable). Corps : Didierea, Fouquieria (pages genres) non liés ; « cactées » non lié."
+ },
+ {
+  "id": 5244,
+  "title": "Le genre Didierea",
+  "link": "https://succulentes.net/famille-didieraceae/didierea/",
+  "target": "https://succulentes.net/famille-didieraceae/",
+  "replacements": [
+   {
+    "from": "de la famille des <em>Didiereaceae</em>. Pour",
+    "to": "de la <a href=\"https://succulentes.net/famille-didieraceae/\">famille des <em>Didiereaceae</em></a>. Pour"
+   }
+  ],
+  "note": "Intro sans lien : ajout du lien famille sur « famille des Didiereaceae ». Famille déjà liée au § Taxinomie (doublon acceptable). Corps : Alluaudia, Adansonia, Euphorbia (pages genres) non liés."
+ },
+ {
+  "id": 6392,
+  "title": "Le genre Aechmea",
+  "link": "https://succulentes.net/famille-bromeliaceae/aechmea/",
+  "target": "https://succulentes.net/famille-bromeliaceae/",
+  "replacements": [
+   {
+    "from": "la famille des Broméliacées",
+    "to": "la <a href=\"https://succulentes.net/famille-bromeliaceae/\">famille des Broméliacées</a>"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes xérophytes</a>",
+    "to": "plantes xérophytes"
+   }
+  ],
+  "note": "Intro : lien famille ajouté sur « famille des Broméliacées » (1re phrase), lien /plantes/ retiré."
+ },
+ {
+  "id": 7762,
+  "title": "Le genre Fascicularia",
+  "link": "https://succulentes.net/famille-bromeliaceae/fascicularia/",
+  "target": "https://succulentes.net/famille-bromeliaceae/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">broméliacées</a>",
+    "to": "<a href=\"https://succulentes.net/famille-bromeliaceae/\">broméliacées</a>"
+   }
+  ],
+  "note": "Intro : l'ancre est déjà « broméliacées » mais pointe vers /plantes/ → changer seulement la cible. Coquilles : « taxons endémique », « risqué ». Ochagavia déjà lié."
+ },
+ {
+  "id": 7613,
+  "title": "Le genre Hechtia",
+  "link": "https://succulentes.net/famille-bromeliaceae/hechtia/",
+  "target": "https://succulentes.net/famille-bromeliaceae/",
+  "replacements": [
+   {
+    "from": "rassemble des Broméliacées",
+    "to": "rassemble des <a href=\"https://succulentes.net/famille-bromeliaceae/\">Broméliacées</a>"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes xérophytes</a>",
+    "to": "plantes xérophytes"
+   }
+  ],
+  "note": "Intro : lien famille ajouté sur « Broméliacées » (1re phrase), lien /plantes/ retiré. Titre avec espace final (« Le genre Hechtia »). Coquille « dénuée »."
+ },
+ {
+  "id": 7696,
+  "title": "Genre Ochagavia",
+  "link": "https://succulentes.net/famille-bromeliaceae/ochagavia/",
+  "target": "https://succulentes.net/famille-bromeliaceae/",
+  "replacements": [
+   {
+    "from": "appartient à la famille des Broméliacées",
+    "to": "appartient à la <a href=\"https://succulentes.net/famille-bromeliaceae/\">famille des Broméliacées</a>"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes xérophytes</a>",
+    "to": "plantes xérophytes"
+   }
+  ],
+  "note": "Intro : lien famille sur « famille des Broméliacées » (1re phrase), lien /plantes/ retiré. Corps : Fascicularia (proche, page existante) non cité."
+ },
+ {
+  "id": 6299,
+  "title": "Le genre Puya",
+  "link": "https://succulentes.net/famille-bromeliaceae/puya/",
+  "target": "https://succulentes.net/famille-bromeliaceae/",
+  "replacements": [
+   {
+    "from": "appartient à la famille des Broméliacées",
+    "to": "appartient à la <a href=\"https://succulentes.net/famille-bromeliaceae/\">famille des Broméliacées</a>"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes xérophytes</a>",
+    "to": "plantes xérophytes"
+   }
+  ],
+  "note": "Intro : lien famille sur « famille des Broméliacées », lien /plantes/ retiré. Corps : « Agavacées » et « Cactacées » non liés (pages Les Agavoïdes / famille Cactaceae) ; « plantes succulentes » non lié (page Plantes)."
+ },
+ {
+  "id": 8281,
+  "title": "Le genre Acacia",
+  "link": "https://succulentes.net/famille-fabaceae/acacia/",
+  "target": "https://succulentes.net/famille-fabaceae/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">espèces ornementales</a>",
+    "to": "<a href=\"https://succulentes.net/famille-fabaceae/\">espèces ornementales</a>"
+   }
+  ],
+  "note": "Intro : famille non citée → ancre existante « espèces ornementales » conservée, cible famille Fabaceae (ancre peu parlante ; alternative : ajouter « (Fabacées) » après Acacia)."
+ },
+ {
+  "id": 8200,
+  "title": "Le genre Erythrina",
+  "link": "https://succulentes.net/famille-fabaceae/erythrina/",
+  "target": "https://succulentes.net/famille-fabaceae/",
+  "replacements": [
+   {
+    "from": "la famille des Fabacées",
+    "to": "la <a href=\"https://succulentes.net/famille-fabaceae/\">famille des Fabacées</a>"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes ornementales</a>",
+    "to": "plantes ornementales"
+   }
+  ],
+  "note": "Intro : lien famille sur « famille des Fabacées » (1re phrase), lien /plantes/ retiré. Coquille « fait parti »."
+ },
+ {
+  "id": 7933,
+  "title": "Le genre Banksia",
+  "link": "https://succulentes.net/famille-proteaceae/banksia/",
+  "target": "https://succulentes.net/famille-proteaceae/",
+  "replacements": [
+   {
+    "from": "à la famille des Protéacées. Ces",
+    "to": "à la <a href=\"https://succulentes.net/famille-proteaceae/\">famille des Protéacées</a>. Ces"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes ornementales</a>",
+    "to": "plantes ornementales"
+   }
+  ],
+  "note": "Intro : lien famille sur « famille des Protéacées » (1re phrase), lien /plantes/ retiré. Coquilles : « peu connu », « vont de ces végétaux » (→ font), « naturellement adaptée »."
+ },
+ {
+  "id": 8122,
+  "title": "Le genre Grevillea",
+  "link": "https://succulentes.net/famille-proteaceae/grevillea/",
+  "target": "https://succulentes.net/famille-proteaceae/",
+  "replacements": [
+   {
+    "from": "à la famille des Protéacées",
+    "to": "à la <a href=\"https://succulentes.net/famille-proteaceae/\">famille des Protéacées</a>"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes ornementales</a>",
+    "to": "plantes ornementales"
+   }
+  ],
+  "note": "Intro : lien famille sur « famille des Protéacées » (3e phrase), lien /plantes/ retiré. Corps : noms d'espèces de la liste sans italique."
+ },
+ {
+  "id": 8624,
+  "title": "Le genre Hakea",
+  "link": "https://succulentes.net/famille-proteaceae/hakea/",
+  "target": "https://succulentes.net/famille-proteaceae/",
+  "replacements": [
+   {
+    "from": "à la famille des Protéacées",
+    "to": "à la <a href=\"https://succulentes.net/famille-proteaceae/\">famille des Protéacées</a>"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">arbustes ou des arbres ornementaux</a>",
+    "to": "arbustes ou des arbres ornementaux"
+   }
+  ],
+  "note": "Intro : lien famille sur « famille des Protéacées » (1re phrase), lien /plantes/ retiré. Coquilles dans le corps (« à l'acclimater », « menacer », « pose », « semis spontanées »)."
+ },
+ {
+  "id": 8556,
+  "title": "Le genre Callistemon",
+  "link": "https://succulentes.net/famille-myrtaceae/callistemon/",
+  "target": "https://succulentes.net/famille-myrtaceae/",
+  "replacements": [
+   {
+    "from": "De la famille des Myrtacées",
+    "to": "De la <a href=\"https://succulentes.net/famille-myrtaceae/\">famille des Myrtacées</a>"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes ornementales</a>",
+    "to": "plantes ornementales"
+   }
+  ],
+  "note": "Intro : lien famille sur « famille des Myrtacées » (2e phrase), lien /plantes/ retiré. Coquilles « rinces-bouteilles », « jardins éloignées ». Page très courte."
+ },
+ {
+  "id": 9895,
+  "title": "Le genre Cyathea",
+  "link": "https://succulentes.net/famille-cyatheaceae/cyathea/",
+  "target": "https://succulentes.net/famille-cyatheaceae/",
+  "replacements": [
+   {
+    "from": "de la famille des Cyatheacées",
+    "to": "de la <a href=\"https://succulentes.net/famille-cyatheaceae/\">famille des Cyatheacées</a>"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">espèces ornementales</a>",
+    "to": "espèces ornementales"
+   }
+  ],
+  "note": "Intro : lien famille sur « famille des Cyatheacées » (2e phrase), lien /plantes/ retiré. Orthographe usuelle « Cyathéacées ». Coquilles corps : « côtés occidentales », « Côté d'Azur », « une fougères »."
+ },
+ {
+  "id": 9534,
+  "title": "Le genre Leonotis",
+  "link": "https://succulentes.net/famille-lamiaceae/leonotis/",
+  "target": "https://succulentes.net/famille-lamiaceae/",
+  "replacements": [
+   {
+    "from": "de la famille des Lamiacées",
+    "to": "de la <a href=\"https://succulentes.net/famille-lamiaceae/\">famille des Lamiacées</a>"
+   }
+  ],
+  "note": "Intro sans aucun lien : ajout du lien famille sur « famille des Lamiacées » (1re phrase). Coquilles : « de part le monde », « modifie »."
+ },
+ {
+  "id": 10030,
+  "title": "Le genre Nymphaea",
+  "link": "https://succulentes.net/famille-nymphaeaceae/nymphaea/",
+  "target": "https://succulentes.net/famille-nymphaeaceae/",
+  "replacements": [
+   {
+    "from": "De la famille des Nymphéacées",
+    "to": "De la <a href=\"https://succulentes.net/famille-nymphaeaceae/\">famille des Nymphéacées</a>"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes-aquatiques/\" data-type=\"page\" data-id=\"21650\">plantes aquatiques</a>",
+    "to": "plantes aquatiques"
+   }
+  ],
+  "note": "DOUTEUX : l'intro lie « plantes aquatiques » vers la page hub « Les plantes aquatiques » (21650), pas vers /plantes/. Règle appliquée : lien famille sur « famille des Nymphéacées » et retrait du lien plantes-aquatiques (à replacer ailleurs dans la page si souhaité, ex. § « Comment bien cultiver » : « Les nénuphars sont des plantes aquatiques »)."
+ },
+ {
+  "id": 10307,
+  "title": "Genre Nymphoides",
+  "link": "https://succulentes.net/famille-menyanthaceae/nymphoides/",
+  "target": "https://succulentes.net/famille-menyanthaceae/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes</a>",
+    "to": "plantes"
+   },
+   {
+    "from": "à la famille des Nymphéacées",
+    "to": "à la <a href=\"https://succulentes.net/famille-menyanthaceae/\">famille des Ményanthacées</a>"
+   }
+  ],
+  "note": "ERREUR DE CONTENU : l'intro dit « appartient à la famille des Nymphéacées » alors que Nymphoides est une Menyanthaceae (page parente famille-menyanthaceae). Proposition : corriger en « famille des Ményanthacées » avec le lien famille, et retirer le lien /plantes/. Le texte « Il s'agit de nénuphars » est aussi inexact (faux nénuphars). Coquilles : « moins spectaculaire », « Nympheae » (→ Nymphaea, page existante)."
+ },
+ {
+  "id": 8773,
+  "title": "Le genre Romneya",
+  "link": "https://succulentes.net/famille-papaveraceae/romneya/",
+  "target": "https://succulentes.net/famille-papaveraceae/",
+  "replacements": [
+   {
+    "from": "dans la famille des Papaveracées",
+    "to": "dans la <a href=\"https://succulentes.net/famille-papaveraceae/\">famille des Papaveracées</a>"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/famille-papaveraceae/romneya/coulteri%ef%bf%bc/\">Romneya coulteri</a>",
+    "to": "Romneya coulteri"
+   }
+  ],
+  "note": "DOUTEUX : intro = page entière (1 paragraphe) ; seul lien = espèce Romneya coulteri (enfant). Proposition : lien famille sur « famille des Papaveracées » + retrait du lien espèce (qui disparaîtrait de la page ; alternative : ajouter une liste d'espèces sous un intertitre). ANOMALIE : le href de coulteri contient « %ef%bf%bc » (caractère parasite U+FFFC) — URL probablement cassée."
+ },
+ {
+  "id": 4616,
+  "title": "Le genre Strelitzia",
+  "link": "https://succulentes.net/famille-strelitziaceae/strelitzia/",
+  "target": "https://succulentes.net/famille-strelitziaceae/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes ornementales</a>",
+    "to": "<a href=\"https://succulentes.net/famille-strelitziaceae/\">plantes ornementales</a>"
+   }
+  ],
+  "note": "Intro : famille non citée → ancre « plantes ornementales » conservée, cible famille Strelitziaceae (alternative : ajouter « (Strelitziacées) »). Coquille « Côté d'Azur ». Corps : « plantes succulentes » non lié."
+ },
+ {
+  "id": 7906,
+  "title": "Le genre Tagetes",
+  "link": "https://succulentes.net/famille-asteraceae/tagetes/",
+  "target": "https://succulentes.net/famille-asteraceae/",
+  "replacements": [
+   {
+    "from": "la famille des Astéracées",
+    "to": "la <a href=\"https://succulentes.net/famille-asteraceae/\">famille des Astéracées</a>"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">plantes exotiques</a>",
+    "to": "plantes exotiques"
+   }
+  ],
+  "note": "Intro : lien famille sur « famille des Astéracées », lien /plantes/ retiré. Coquilles : « Tagetes padula » (→ patula), « perennes », « oeillet »."
+ },
+ {
+  "id": 7631,
+  "title": "Wollemia nobilis",
+  "link": "https://succulentes.net/famille-araucariaceae/wollemia/",
+  "target": "https://succulentes.net/famille-araucariaceae/",
+  "replacements": [
+   {
+    "from": "Cet arbre de la famille des Araucariacées",
+    "to": "Cet arbre de la <a href=\"https://succulentes.net/famille-araucariaceae/\">famille des Araucariacées</a>"
+   }
+  ],
+  "note": "Intro sans lien : ajout du lien famille sur « famille des Araucariacées ». Corps : lien /plantes/ sur « plante xérophyte » (hors intro, OK) ; « araucarias » non lié (pas de page genre). Titre de page = nom d'espèce, pas « Le genre Wollemia »."
+ },
+ {
+  "id": 8702,
+  "title": "Le genre Phytolacca",
+  "link": "https://succulentes.net/famille-phytolaccaceae/phytolacca/",
+  "target": "https://succulentes.net/famille-phytolaccaceae/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">espèces ornementales</a>",
+    "to": "<a href=\"https://succulentes.net/famille-phytolaccaceae/\">espèces ornementales</a>"
+   },
+   {
+    "from": "<em><a href=\"https://succulentes.net/famille-phytolaccaceae/phytolacca/dioica/\">Phytolocca dioica</a></em>",
+    "to": "<em>Phytolacca dioica</em>"
+   }
+  ],
+  "note": "DOUTEUX : page d'un seul paragraphe avec 2 liens (/plantes/ sur « espèces ornementales » → cible famille ; espèce dioica → retiré, ce qui supprime le seul lien vers la fiche espèce). La proposition corrige aussi la coquille « Phytolocca » → « Phytolacca ». Famille non citée ; alternative : ajouter une phrase de présentation du genre. Coquille « Le seconde »."
+ },
+ {
+  "id": 12476,
+  "title": "Le genre Cussonia",
+  "link": "https://succulentes.net/famille-araliaceae/cussonia/",
+  "target": "https://succulentes.net/famille-araliaceae/",
+  "replacements": [
+   {
+    "from": "la famille des <em>Araliaceae</em>, une grande",
+    "to": "la <a href=\"https://succulentes.net/famille-araliaceae/\">famille des <em>Araliaceae</em></a>, une grande"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">genres horticoles</a>",
+    "to": "genres horticoles"
+   }
+  ],
+  "note": "Intro : lien famille sur « famille des Araliaceae » (1re phrase), lien /plantes/ (« genres horticoles ») retiré. Corps : aucun lien interne ; « agaves, aloès, yuccas, protéacées » (pages existantes) non liés ; Polyscias sans page."
+ },
+ {
+  "id": 6859,
+  "title": "Le genre Adenia",
+  "link": "https://succulentes.net/famille-passifloraceae/adenia/",
+  "target": "https://succulentes.net/famille-passifloraceae/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>",
+    "to": "<a href=\"https://succulentes.net/famille-passifloraceae/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>"
+   }
+  ],
+  "note": "Intro (1er §) : famille non citée → ancre « plantes succulentes » conservée, cible famille Passifloraceae (« Passifloracées » n'apparaît qu'au 2e § ; alternative : y placer le lien). Coquilles corps : « produises », « utiliser pour », « dont pousser », « pèche » ; puce de liste vide."
+ },
+ {
+  "id": 3548,
+  "title": "Le genre Adansonia",
+  "link": "https://succulentes.net/famille-malvaceae/adansonia/",
+  "target": "https://succulentes.net/famille-malvaceae/",
+  "replacements": [],
+  "note": "Conforme : 1er paragraphe = un seul lien, vers la famille Malvaceae. NB : le 2e paragraphe (encore avant le 1er intertitre) contient un lien /plantes/ sur « plantes succulentes » — à retirer si l'on considère tout le bloc avant l'intertitre comme introduction."
+ },
+ {
+  "id": 4398,
+  "title": "Le genre Brachychiton",
+  "link": "https://succulentes.net/famille-malvaceae/brachychiton/",
+  "target": "https://succulentes.net/famille-malvaceae/",
+  "replacements": [
+   {
+    "from": "les Malvacées (sous-famille",
+    "to": "les <a href=\"https://succulentes.net/famille-malvaceae/\">Malvacées</a> (sous-famille"
+   }
+  ],
+  "note": "Intro sans lien : ajout du lien famille sur la 1re occurrence de « Malvacées ». Corps : espèces liées ; aucun autre genre à page cité. Structure : un H1 « Espèces remarquables » au milieu de la page."
+ },
+ {
+  "id": 7435,
+  "title": "Le genre Chorisia",
+  "link": "https://succulentes.net/famille-malvaceae/chorisia/",
+  "target": "https://succulentes.net/famille-malvaceae/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">arbres pachycaules</a>",
+    "to": "<a href=\"https://succulentes.net/famille-malvaceae/\">arbres pachycaules</a>"
+   }
+  ],
+  "note": "Intro : famille non citée → ancre « arbres pachycaules » conservée, cible famille Malvaceae (alternative : ajouter « (Malvacées) »). NB : Chorisia est aujourd'hui inclus dans Ceiba. Coquille « cultivé »."
+ },
+ {
+  "id": 5255,
+  "title": "Le genre Pseudobombax",
+  "link": "https://succulentes.net/famille-malvaceae/pseudobombax/",
+  "target": "https://succulentes.net/famille-malvaceae/",
+  "replacements": [
+   {
+    "from": "la famille des Bombacacées",
+    "to": "la <a href=\"https://succulentes.net/famille-malvaceae/\">famille des Bombacacées</a>"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">espèces xérophytes</a>",
+    "to": "espèces xérophytes"
+   }
+  ],
+  "note": "DOUTEUX : l'intro cite la famille obsolète « Bombacacées » (aujourd'hui Malvaceae) ; proposition : lien famille sur « famille des Bombacacées » + retrait du lien /plantes/ — idéalement réécrire « famille des Malvacées (anciennement Bombacacées) ». Alternative minimale : changer seulement la cible de « espèces xérophytes ». « baobabs » (Adansonia) non lié (intro)."
+ },
+ {
+  "id": 3512,
+  "title": "Le genre Adenium",
+  "link": "https://succulentes.net/famille-apocynaceae/adenium/",
+  "target": "https://succulentes.net/famille-apocynaceae/",
+  "replacements": [],
+  "note": "Conforme : 1er paragraphe = un seul lien, vers la famille Apocynaceae. NB : le 2e paragraphe (avant le 1er intertitre) contient un lien /plantes/ sur « plantes succulentes » et répète « fait partie de la famille des Apocynacées » (redondance avec le 1er §). Corps : Pachypodium, Fockea (pages genres) non liés."
+ },
+ {
+  "id": 3174,
+  "title": "Le genre Pachypodium",
+  "link": "https://succulentes.net/famille-apocynaceae/pachypodium/",
+  "target": "https://succulentes.net/famille-apocynaceae/",
+  "replacements": [
+   {
+    "from": "(Apocynaceae) sont des",
+    "to": "(<a href=\"https://succulentes.net/famille-apocynaceae/\">Apocynaceae</a>) sont des"
+   },
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>",
+    "to": "plantes succulentes"
+   }
+  ],
+  "note": "Intro : lien famille sur « Apocynaceae » (1re phrase), lien /plantes/ retiré. ANOMALIE liste : « Pachypodium bispinosium » (coquille, em imbriqués). Corps : « cactus » non lié."
+ },
+ {
+  "id": 3605,
+  "title": "Le genre Plumeria",
+  "link": "https://succulentes.net/famille-apocynaceae/plumeria/",
+  "target": "https://succulentes.net/famille-apocynaceae/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>",
+    "to": "<a href=\"https://succulentes.net/famille-apocynaceae/\" data-type=\"page\" data-id=\"594\">plantes succulentes</a>"
+   }
+  ],
+  "note": "Intro (1er §) : famille non citée → ancre « plantes succulentes » conservée, cible famille Apocynaceae (« famille des Apocynacées » est au 2e § ; alternative : y déplacer le lien). Corps : pachypodes et roses du désert déjà liés ; « lauriers roses » sans page."
+ },
+ {
+  "id": 3745,
+  "title": "Le genre Moringa",
+  "link": "https://succulentes.net/famille-moringaceae/moringa/",
+  "target": "https://succulentes.net/famille-moringaceae/",
+  "replacements": [],
+  "note": "Conforme : 1er paragraphe = un seul lien, vers la famille Moringaceae. NB : le 2e paragraphe (avant le 1er intertitre) contient un lien /plantes/ sur « plantes succulentes »."
+ },
+ {
+  "id": 4845,
+  "title": "Le genre Uncarina",
+  "link": "https://succulentes.net/famille-pedaliaceae/uncarina/",
+  "target": "https://succulentes.net/famille-pedaliaceae/",
+  "replacements": [],
+  "note": "Conforme : 1er paragraphe = un seul lien, vers la famille Pedaliaceae. NB : le 2e paragraphe (avant le 1er intertitre) contient un lien /plantes/ (« plantes xérophytes ») et répète « appartiennent à la famille des Pédaliacées ». Pterodiscus (page genre) cité sans lien."
+ },
+ {
+  "id": 4125,
+  "title": "Le genre Fouquieria",
+  "link": "https://succulentes.net/famille-fouquieriaceae/fouquieria/",
+  "target": "https://succulentes.net/famille-fouquieriaceae/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">plantes xérophytes </a>",
+    "to": "plantes xérophytes "
+   }
+  ],
+  "note": "Intro : 2 liens ; celui vers la famille Fouquieriaceae est correct, celui vers /plantes/ (« plantes xérophytes ») est à retirer. Corps : « Didiéréacées » (famille Didiereaceae, page existante) non lié ; nom « Pierre-Édouard Fouquier » incohérent avec « Pierre Éloi Fouquier » de la page famille."
+ },
+ {
+  "id": 6541,
+  "title": "Le genre Butyagrus",
+  "link": "https://succulentes.net/palmiers/butyagrus/",
+  "target": "https://succulentes.net/palmiers/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">palmiers</a>",
+    "to": "<a href=\"https://succulentes.net/palmiers/\">palmiers</a>"
+   }
+  ],
+  "note": "Intro : l'ancre est déjà « palmiers » mais pointe vers /plantes/ → changer seulement la cible (/palmiers/). Syagrus (page genre) cité sans lien (intro). Butia lié plus bas."
+ },
+ {
+  "id": 6019,
+  "title": "Le genre Chamaedorea",
+  "link": "https://succulentes.net/palmiers/chamaedorea/",
+  "target": "https://succulentes.net/palmiers/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">palmiers</a>",
+    "to": "<a href=\"https://succulentes.net/palmiers/\">palmiers</a>"
+   }
+  ],
+  "note": "Intro : ancre « palmiers » déjà adaptée, pointe vers /plantes/ → changer seulement la cible (/palmiers/). Coquilles corps : « se demandent pas », « lattitudes », « cette article »."
+ },
+ {
+  "id": 5391,
+  "title": "Le genre Chamaerops",
+  "link": "https://succulentes.net/palmiers/chamaerops/",
+  "target": "https://succulentes.net/palmiers/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">palmier</a>",
+    "to": "<a href=\"https://succulentes.net/palmiers/\">palmier</a>"
+   }
+  ],
+  "note": "Intro : ancre « palmier » déjà adaptée, pointe vers /plantes/ → changer seulement la cible (/palmiers/). Phrase incomplète « Ce palmier qui pousse sur le pourtour méditerranéen. » Corps : Trachycarpus (page genre) cité sans lien."
+ },
+ {
+  "id": 7739,
+  "title": "Le genre Livistona",
+  "link": "https://succulentes.net/palmiers/livistona/",
+  "target": "https://succulentes.net/palmiers/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">palmiers</a>",
+    "to": "<a href=\"https://succulentes.net/palmiers/\">palmiers</a>"
+   }
+  ],
+  "note": "Intro : ancre « palmiers » → changer seulement la cible (/palmiers/). Washingtonia déjà lié."
+ },
+ {
+  "id": 6804,
+  "title": "Le genre Nannorrhops",
+  "link": "https://succulentes.net/palmiers/nannorrhops/",
+  "target": "https://succulentes.net/palmiers/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">palmier</a>",
+    "to": "<a href=\"https://succulentes.net/palmiers/\">palmier</a>"
+   }
+  ],
+  "note": "Intro : ancre « palmier » → changer seulement la cible (/palmiers/). Corps : Brahea (page genre) cité sans lien ; yuccas et agaves liés."
+ },
+ {
+  "id": 4693,
+  "title": "Le genre Phoenix",
+  "link": "https://succulentes.net/palmiers/phoenix/",
+  "target": "https://succulentes.net/palmiers/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">palmiers</a>",
+    "to": "<a href=\"https://succulentes.net/palmiers/\">palmiers</a>"
+   }
+  ],
+  "note": "Intro : ancre « palmiers » → changer seulement la cible (/palmiers/). Corps : charançon rouge du palmier (article existant /charancon-rouge-palmier/) non lié ; coquille « Côté d'Azur »."
+ },
+ {
+  "id": 9784,
+  "title": "Le genre Rhapidophyllum",
+  "link": "https://succulentes.net/palmiers/rhapidophyllum/",
+  "target": "https://succulentes.net/palmiers/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">espèce de palmier</a>",
+    "to": "<a href=\"https://succulentes.net/palmiers/\">espèce de palmier</a>"
+   },
+   {
+    "from": "<em><a href=\"https://succulentes.net/palmiers/rhapidophyllum/hystrix/\">Rhapidophyllum hystrix</a></em>",
+    "to": "<em>Rhapidophyllum hystrix</em>"
+   }
+  ],
+  "note": "DOUTEUX : page d'un seul paragraphe avec 2 liens : /plantes/ (« espèce de palmier ») → cible /palmiers/ ; espèce R. hystrix → retiré, ce qui supprime le seul lien vers la fiche espèce (alternative : garder ce lien et ajouter un paragraphe/intertitre)."
+ },
+ {
+  "id": 6517,
+  "title": "Le genre Syagrus",
+  "link": "https://succulentes.net/palmiers/syagrus/",
+  "target": "https://succulentes.net/palmiers/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\" data-type=\"page\" data-id=\"594\">palmiers</a>",
+    "to": "<a href=\"https://succulentes.net/palmiers/\" data-type=\"page\" data-id=\"594\">palmiers</a>"
+   }
+  ],
+  "note": "Intro : ancre « palmiers » → changer seulement la cible (/palmiers/). Corps : Butia (page genre) et × Butiagrus (page genre « Butyagrus ») cités sans lien. Structure : intertitres H3 sans H2."
+ },
+ {
+  "id": 5402,
+  "title": "Le genre Trachycarpus",
+  "link": "https://succulentes.net/palmiers/trachycarpus/",
+  "target": "https://succulentes.net/palmiers/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">espèces de palmiers</a>",
+    "to": "<a href=\"https://succulentes.net/palmiers/\">espèces de palmiers</a>"
+   }
+  ],
+  "note": "Intro : ancre « espèces de palmiers » → changer seulement la cible (/palmiers/). Page courte, sans intertitre ni liste d'espèces."
+ },
+ {
+  "id": 4512,
+  "title": "le genre Trithrinax",
+  "link": "https://succulentes.net/palmiers/trithrinax/",
+  "target": "https://succulentes.net/palmiers/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">palmiers</a>",
+    "to": "<a href=\"https://succulentes.net/palmiers/\">palmiers</a>"
+   }
+  ],
+  "note": "Intro : ancre « palmiers » → changer seulement la cible (/palmiers/). Titre en minuscule (« le genre Trithrinax »). Coquilles : « De fait de », « Des milliers spécimens »."
+ },
+ {
+  "id": 5410,
+  "title": "Le genre Butia",
+  "link": "https://succulentes.net/palmiers/butia/",
+  "target": "https://succulentes.net/palmiers/",
+  "replacements": [
+   {
+    "from": "<a href=\"https://succulentes.net/plantes/\">palmiers</a>",
+    "to": "<a href=\"https://succulentes.net/palmiers/\">palmiers</a>"
+   }
+  ],
+  "note": "Intro : ancre « palmiers » → changer seulement la cible (/palmiers/). Page courte ; Butyagrus/Syagrus (pages genres) non cités. Coquilles : « trop intense », « devrait nommé »."
+ },
+ {
+  "id": 23797,
+  "title": "Le genre Astrophytum",
+  "link": "https://succulentes.net/famille-cactaceae/astrophytum/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [],
+  "note": "Conforme : un seul lien en intro, vers la famille Cactaceae (ancre « famille Cactaceae »). Corps sans liens (pas d'autre genre à page cité)."
+ },
+ {
+  "id": 23785,
+  "title": "Le genre Cereus",
+  "link": "https://succulentes.net/famille-cactaceae/cereus/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [],
+  "note": "Conforme (lien unique « famille Cactaceae »). Corps : Echinopsis, Pilosocereus, Stenocereus cités sans lien (pages existantes)."
+ },
+ {
+  "id": 23804,
+  "title": "Le genre Cleistocactus",
+  "link": "https://succulentes.net/famille-cactaceae/cleistocactus/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [],
+  "note": "Conforme (lien unique « famille Cactaceae »). Corps : aucun autre genre à page cité."
+ },
+ {
+  "id": 23789,
+  "title": "Le genre Echinocactus",
+  "link": "https://succulentes.net/famille-cactaceae/echinocactus/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [],
+  "note": "Conforme (lien unique « famille Cactaceae »). Corps : Ferocactus, Astrophytum, Lophophora cités sans lien (pages existantes) ; espèces grusonii/platyacanthus liées."
+ },
+ {
+  "id": 23786,
+  "title": "Le genre Echinopsis",
+  "link": "https://succulentes.net/famille-cactaceae/echinopsis/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [],
+  "note": "Conforme (lien unique « famille Cactaceae »). Corps : pas d'autre genre à page cité ; espèces liées dans la liste finale."
+ },
+ {
+  "id": 23788,
+  "title": "Le genre Ferocactus",
+  "link": "https://succulentes.net/famille-cactaceae/ferocactus/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [],
+  "note": "Conforme (lien unique « famille Cactaceae »). Corps : espèces liées dans la liste finale ; pilosus, stainesii, robustus cités dans le texte sans lien."
+ },
+ {
+  "id": 23787,
+  "title": "Le genre Mammillaria",
+  "link": "https://succulentes.net/famille-cactaceae/mammillaria/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [],
+  "note": "Conforme (lien unique « famille Cactaceae »). Corps sans lien interne."
+ },
+ {
+  "id": 23805,
+  "title": "Le genre Melocactus",
+  "link": "https://succulentes.net/famille-cactaceae/melocactus/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [],
+  "note": "Conforme (lien unique « famille Cactaceae »). Corps sans lien interne ; aucun autre genre à page cité."
+ },
+ {
+  "id": 23806,
+  "title": "Le genre Myrtillocactus",
+  "link": "https://succulentes.net/famille-cactaceae/myrtillocactus/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [],
+  "note": "Conforme (lien unique « famille Cactaceae »). Corps sans lien interne."
+ },
+ {
+  "id": 23784,
+  "title": "Le genre Opuntia",
+  "link": "https://succulentes.net/famille-cactaceae/opuntia/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [],
+  "note": "Conforme (lien unique « famille Cactaceae »). Corps : Cylindropuntia cité sans lien (page existante) ; espèces ficus-indica, microdasys, robusta, humifusa, engelmannii citées dans le texte sans lien (liées seulement dans la liste finale)."
+ },
+ {
+  "id": 23790,
+  "title": "Le genre Schlumbergera",
+  "link": "https://succulentes.net/famille-cactaceae/schlumbergera/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [],
+  "note": "Conforme (lien unique « famille Cactaceae »). Corps : « broméliacées » non lié (page famille Bromeliaceae existante)."
+ },
+ {
+  "id": 23791,
+  "title": "Le genre Selenicereus",
+  "link": "https://succulentes.net/famille-cactaceae/selenicereus/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [],
+  "note": "Conforme (lien unique « famille Cactaceae »). Corps : Hylocereus cité plusieurs fois sans lien (page genre Hylocereus existante)."
+ },
+ {
+  "id": 23807,
+  "title": "Le genre Stenocereus",
+  "link": "https://succulentes.net/famille-cactaceae/stenocereus/",
+  "target": "https://succulentes.net/famille-cactaceae/",
+  "replacements": [],
+  "note": "Conforme (lien unique « famille Cactaceae »). Corps sans lien interne ; aucun autre genre à page cité."
+ }
+]

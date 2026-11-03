@@ -1,0 +1,54 @@
+# Note de livraison — *Ceratozamia huastecorum* (FR)
+
+Brouillon : `pilotes/espece-ceratozamia-huastecorum-fr.html` (blocs Gutenberg contrôlés par script : blocs appariés, balises équilibrées, aucun lien EN/IT/ES, aucune image, aucun utm_source). Longueur : 2157 mots au total, 1776 avant « Sites de référence ».
+
+## Publication
+
+- Titre : Ceratozamia huastecorum (aucun nom français attesté)
+- Slug : huastecorum
+- Parent : 9866 (page genre FR *Ceratozamia*)
+- translation_of : aucune traduction (aucune fiche dans une autre langue)
+- URL attendue : https://succulentes.net/cycadales/ceratozamia/huastecorum/
+- Titre SEO (49 car.) : Ceratozamia huastecorum : cycadale de la Huasteca
+- Meta (151 car.) : Ceratozamia huastecorum, petite cycadale de la Sierra de Otontepec (Veracruz) : identification, différence avec latifolia, habitat, statut UICN, CITES.
+- Mot-clé : Ceratozamia huastecorum
+
+## Sources
+
+- Monographie 2022 (texte intégral), WLoC, Species+, protologue (Bot. J. Linn. Soc. 141, 2003 ; titre vérifié sur Crossref).
+- Auteurs du nom : Avendaño, Vovides & Cast.-Campos (consigne du propriétaire et WLoC).
+- The World List of Cycads (cycadlist.org, version 2026.08.15) : page espèce et export XLSX lus directement (auteurs, protologue, type, aire, statut UICN 2022 et critères, étymologie).
+- Species+ (API JSON) interrogée le 02-03/10/2026 : annexe I CITES (inscription du genre, 01/08/1985), annexe A UE (règlement (UE) 2026/1383).
+- Crossref : DOI des évaluations UICN 2022 (pages de la Liste rouge non consultées, accès bloqué).
+- POWO, UICN, PalmTalk : bloqués (Cloudflare) ; rien n'a été contourné. Tout ce qui vient de PalmTalk est signalé « par extrait de recherche ».
+- Forum des Fous de palmiers (recherche phpBB sans compte, fils parcourus) et Tropicamente (curl) : recherche par épithète.
+- Sources asiatiques (Nong Nooch, BGO, Nanagarden, ameblo, planchu, KIB) : non consultées pour cette fiche (reprise après interruption, consigne d’économie) ; à compléter si besoin.
+
+## Fiche EN
+
+- Aucune fiche EN : rien à corriger.
+
+## Retours de culture
+
+- Aucun retour de culture (forums : aucun résultat).
+
+## Points à valider par le propriétaire
+
+- La page du genre parle d'un « plateau isolé de la Huasteca » ; la fiche dit « Sierra de Otontepec » (monographie).
+- POWO non consulté (bloqué) : le nom accepté repose sur The World List of Cycads.
+- Liens internes du corps : posés seulement vers des fiches *Ceratozamia* publiées et vérifiées (200, sans redirection) au moment de la publication.
+
+## Publication effectuée
+
+- Publiée le 03/10/2026 : id 26391, https://succulentes.net/cycadales/ceratozamia/huastecorum/ (200, sans redirection ; aucune redirection ancienne trouvée). SEO Rank Math appliqué. Lien ajouté dans l'index de la page genre 9866.
+
+## Complément du 10/10/2026 (protologue lu)
+
+- Protologue lu en texte intégral (Avendaño, Vovides & Castillo-Campos 2003, Bot. J. Linn. Soc. 141 : 395-398, copie de la Cycad Society). Ajouts : description chiffrée du protologue (tronc 12-13 cm, 3-5 feuilles de 50-73 cm, folioles 6,5-21 × 3,2-6,5 cm, cônes, graines, 2n = 16), parenté avec C. morettii et complexe de C. latifolia, première identification comme C. microstrobila, habitat détaillé (tepui, 900-1 300 m, crête basaltique ventée).
+- Correction : la fiche disait l'holotype femelle (d'après la monographie) ; le protologue donne Castillo-Campos et al. 2567 « male ». Les deux versions sont exposées. Écart de date pour le paratype 2481 (1982 dans l'article, 1981 dans la monographie).
+- Page genre 9866 (800-1 300 m) non modifiée : la borne de 800 m vient de spécimens à 820 m (monographie), le protologue donne 900-1 300 m sans contredire ces récoltes.
+- replace_in_content sur 26391 (dry run puis application, 7 remplacements) ; brouillon identique au contenu en ligne ; URL 200.
+
+## Nettoyage CER04 (30/10/2026)
+- Notes de travail retirées (simulation puis application, 13 remplacements ; brouillon identique au texte en ligne) : POWO non consulté → WCVP lue sur GBIF (207874511, acceptée, Bot. J. Linn. Soc. 141 : 395, « Mexico Gulf ») ; « Liste rouge non consultée » → catégorie CR confirmée par GBIF (30/10) ; « forums » / « tableau des espèces non consulté » reformulés ; BMAA retirée ; annotations « texte intégral lu/consulté », « consultée directement » retirées.
+- Vérifié le 30/10 : WLoC 26 (HT XAL, Castillo-Campos et al. 2567 « male » ; CR B1ab(iii,v)), protologue (copie cycad.org, texte), Species+ 65509 ; BGCI : seul le jardin Clavijero (Xalapa) ; absent de Montgomery.
