@@ -22,3 +22,9 @@
 ## FR/IT corrigées au passage (25/10/2026, simulation puis application)
 - FR 26497 (18) et IT 28036 (19) : « d'après un extrait de recherche » (encadré, Taxonomie) remplacé par WCVP via GBIF ; Wikipédia retiré (Dans la nature, source) ; « dans les sources consultées », « n'ont pas pu être consultées… sources lues », « le détail des menaces n'est pas connu ici », « forums consultés », « Aucun relevé de froid n'a été trouvé… », « nessuna rilevazione… in nessun paese » retirés ou réécrits ; phrase « ne pousse pas au Costa Rica » remplacée (Veracruz, 2011) ; caractères distinctifs (pédoncule, folioles, complexe) et lectotype LE ajoutés ; Lindstrom 2024 en Taxonomie ; Culture/Repères internationaux : BGCI Xalapa, Montgomery, Lavaud 2023 ; 5 sources et 2 (FR) / 2 (IT) références ajoutées.
 - Reste : rien de bloquant ; la FR *splendens* 22343 dit encore *katzeriana* hybride (2016) → signalé hors lot.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 1 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32132), REST contrôlé = brouillon, brouillon aligné.

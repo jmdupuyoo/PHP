@@ -27,3 +27,7 @@
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
 
 - 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « e «…par <pseudonyme>»: » → « e una discussione del 2013 sulla germinazione di semi di Zamia: » (page 28025, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28025), REST contrôlé = brouillon, brouillon aligné.

@@ -27,3 +27,7 @@
 
 ## Complément du 24/10/2026 (ZAM04)
 - Liens entrants reposés sur des phrases sourcées : depuis *wallisii* 20474 (clé de la Flora de Colombia : *montana* d'Antioquia, 1 750-2 080 m).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 20442), REST contrôlé = brouillon, brouillon aligné.

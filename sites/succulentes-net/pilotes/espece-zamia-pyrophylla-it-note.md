@@ -33,3 +33,8 @@
 ## Retouche du 25/10/2026 (lot ZAM15)
 
 - Notes de travail visibles retirées (« n'a été trouvé(e) / non è stato trovato » ×2 ; simulation puis application, 2 remplacements) ; brouillon aligné. Page EN créée : 32559 (y figurent en plus Lindstrom et al. 2024 et le classement de Lavaud 2023, groupe 4).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- BMAA/glycosides (formule Q15, BMAA attribuée), mécènes privés anonymisés (pyrophylla), membre de forum anonymisé (lindenii) : 1 remplacement(s).
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28233), REST contrôlé = brouillon, brouillon aligné.

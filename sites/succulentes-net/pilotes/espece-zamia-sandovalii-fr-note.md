@@ -47,3 +47,9 @@ Fichier : `pilotes/espece-zamia-sandovalii-fr.html` (blocs Gutenberg contrôlés
 ## Retouche du 25/10/2026 (lot ZAM16)
 
 - Balayage « sources consultées » (retouche 0) : 2 tournures reformulées. Puis 6 remplacements (simulation puis application) : date du protologue (version de la revue, copie The Cycad Society « Ceiba, 2006, 46(1) : 41-44 », WCVP « 2005 publ. 2007 ») ; « détail des menaces non lu » retiré ; culture : « aucun retour trouvé : ne semble pas cultivée en Europe » remplacé par « aucun retour documenté » + Jardin botanique de Lyon (BGCI, déclaration non datée) ; « aucun relevé trouvé » reformulé ; phrase de toxicité en double fusionnée ; sources : cycad.org, WCVP, BGCI ajoutés. Brouillon aligné. Page EN créée : 32740.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 7 remplacement(s).
+- SEO Rank Math (titre et/ou méta) sans localité précise (Q47).
+- Méthode : simulation puis application (replace_in_content, page 26603), REST contrôlé = brouillon, brouillon aligné.

@@ -22,3 +22,8 @@
 - Écarts de mesures entre Jones, la Flora de Colombia et Dodson ; type (néotype de la Flora / holotype K de WLoC) ; Amazonie (Flora) et Panama (Species+) absents de WLoC ; phénologie (Dodson / Jones) ; Lindström 2009 non lu ; POWO et Liste rouge non consultés.
 - FR/IT : rien à reprendre (ajouts possibles : Montgomery 1994/2003, déclarations BGCI).
 - Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia dressleri* EN 31990, sur la première mention sourcée ; simulation puis application (1) ; brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 3 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 20467), REST contrôlé = brouillon, brouillon aligné.

@@ -47,3 +47,8 @@
 ## Ritocco del 25/10/2026 (lotto ZAM16)
 
 - 5 remplacements (simulation puis application) : « che non ha potuto essere letta » → « pubblicata nel 2010 » ; ligne de source Tropicamente (rien de pertinent) retirée ; « trovata / trovato » ×2 reformulés ; « negli altri elenchi consultati (Hanbury, BGCI) » → « negli elenchi dei Giardini Hanbury, né, per l'Italia, in BGCI PlantSearch ». Brouillon aligné. Page EN : 32761.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28266), REST contrôlé = brouillon, brouillon aligné.

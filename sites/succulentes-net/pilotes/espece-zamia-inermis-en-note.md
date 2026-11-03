@@ -26,3 +26,11 @@
 
 ## Retouche 25/10/2026 (avant ZAM11)
 - Altitude 150-300 m ajoutée d'après Nicolalde-Morejón et al. 2014 (*Rev. Mex. Biodiv.* suppl. 85, tableau, texte intégral relu : « Z. inermis … Veracruz … 150-300 … P … GM ») : encadré, In the wild (avec la province biogéographique du golfe du Mexique), FAQ, Sites de référence et Bibliographie (5 remplacements, simulation puis application ; brouillon aligné, texte en ligne identique).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 4 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 4 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32113), REST contrôlé = brouillon, brouillon aligné.

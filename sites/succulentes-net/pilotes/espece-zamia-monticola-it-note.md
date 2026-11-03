@@ -40,3 +40,7 @@
 
 ## Ritocco 0 prima di ZAM13 (25/10/2026, simulazione poi applicazione, 6 sostituzioni)
 - Divergenza sul tipo (olotipo MO secondo WLoC; lectotipo NY secondo le etichette GBIF); identità delle piante guatemalteche (Vannini 2019; Lindstrom 2024, *aff. monticola*); dichiarazione BGCI del Wilson Botanical Garden; Lindstrom 2024 in bibliografia; note di lavoro « che abbiamo potuto consultare » e « Lo stesso vale per il forum francese Fous de palmiers » tolte. Bozza allineata.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28103), REST contrôlé = brouillon, brouillon aligné.

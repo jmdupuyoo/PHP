@@ -25,3 +25,8 @@
 
 ## Lien posé le 25/10/2026 (ZAM09)
 - Lien vers *inermis* EN 32113 (première occurrence, 1 remplacement, simulation puis application).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32029), REST contrôlé = brouillon, brouillon aligné.

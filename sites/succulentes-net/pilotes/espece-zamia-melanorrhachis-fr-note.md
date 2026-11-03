@@ -49,3 +49,8 @@ Fiche : `pilotes/espece-zamia-melanorrhachis-fr.html` (blocs Gutenberg contrôl�
 
 ## Nettoyage du 25/10/2026 (lot ZAM12, simulation puis application)
 - 4 remplacements : notes de travail retirées (« dans les sources consultées » ×2, « n'a été trouvé(e) » ×2) ; brouillon aligné. Fiche EN créée : 32233.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26556), REST contrôlé = brouillon, brouillon aligné.

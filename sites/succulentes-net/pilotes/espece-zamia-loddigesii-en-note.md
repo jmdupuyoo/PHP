@@ -36,3 +36,7 @@
 ## Lien posé le 25/10/2026 (ZAM09)
 - Lien vers *katzeriana* EN 32132 (première occurrence, Hybrids, 1 remplacement, simulation puis application).
 - CER03 (30/10/2026) : lien sortant vers *fuscoviridis* 35622 (Traditional uses) ; première occurrence hors introduction, encadré, titres et sources ; simulation puis application (1) ; brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- BMAA/glycosides (formule Q15, BMAA attribuée), mécènes privés anonymisés (pyrophylla), membre de forum anonymisé (lindenii) : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 20373), REST contrôlé = brouillon, brouillon aligné.

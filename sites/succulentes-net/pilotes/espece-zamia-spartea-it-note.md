@@ -32,3 +32,8 @@
 ## Ritocco del 25/10/2026 (lotto ZAM16)
 
 - 10 remplacements (simulation puis application) : ibrido artificiale *spartea* × *purpurea* di Cycadales.eu ajouté (+ source) ; « fonti scientifiche consultate », « pubblicazione consultata », « articolo non letto », « fonte moderna consultata », « dettaglio delle minacce non letto », « che abbiamo potuto consultare », « trovata / trovato » ×3 reformulés. Brouillon aligné. Page EN : 32771.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28245), REST contrôlé = brouillon, brouillon aligné.

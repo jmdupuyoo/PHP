@@ -34,3 +34,9 @@
 
 ## Correction du 25/10/2026 (lot ZAM11, création EN 32198)
 - Éléments tirés de Wikipédia retirés ou resourcés : localités (étiquettes d'herbier GBIF : type au nord de Pucaurquillo, Plowman et al. 1977, Quebrada Sucusarí 1991, récoltes colombiennes COAH 1999 et 2019), catégorie CR de 2010 (non vérifiable, retirée), auteur « D.W.Stev. & Sabato » (WCVP ajoutée) ; WCVP, GBIF et Lavaud 2023 ajoutés aux sources ; notes de travail retirées. Simulation puis application (FR 9 / IT 12), brouillon aligné, texte en ligne identique.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 5 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28155), REST contrôlé = brouillon, brouillon aligné.

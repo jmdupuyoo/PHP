@@ -25,3 +25,8 @@
 ## FR/IT
 - Retouche du 24/10/2026 : FR « le forum italien Tropicamente ne la cite pas » retiré (1) ; IT recherche Tropicamente (seul résultat : le genre *Chigua*, 2009) retirée du texte et des Fonti (2).
 - FR/IT à compléter (facultatif) : Gymnosperm Database (Jones 1993) pour la distinction avec *roezlii* ; ligne Wikipédia des Sites de référence à retirer (aucun fait qui en dépende).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 31231), REST contrôlé = brouillon, brouillon aligné.

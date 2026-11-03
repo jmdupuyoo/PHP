@@ -50,3 +50,7 @@
 - Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).
 
 - **Retouche 25/10/2026 (ZAM08)** : protologue (Stevenson 2001, *Flora de Colombia* 21, p. 43-47, texte numérisé du dépôt de l'université nationale de Colombie) réellement lu et intégré : mesures originales (bien plus petites que celles de 2023/2026, les deux données), comparaison avec *Z. melanorrhachis* et *Z. disodon*, type Cárdenas et al. 10089 (COAH, isotype NY), trois petites populations en 2001 ; groupe « difficile » de basse altitude de Lavaud 2023 et climat d'Iquitos ajoutés ; liste complète des auteurs de Calonje et al. 2026 ; notes de travail retirées (« sources consultées », « PDF indisponible », « liste des auteurs non recopiée », forums consultés). FR 26507 : 12 remplacements + 1 (annotation italienne entrée par erreur dans la bibliographie FR, corrigée) ; IT 28016 : 14. Simulation puis application ; brouillons alignés (texte et liens identiques en ligne). Page EN 32084 créée et liée.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26507), REST contrôlé = brouillon, brouillon aligné.

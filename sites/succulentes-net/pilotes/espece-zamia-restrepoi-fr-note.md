@@ -54,3 +54,8 @@ Fichier : `pilotes/espece-zamia-restrepoi-fr.html` (blocs Gutenberg contrôlés 
 ## Retouche du 25/10/2026 (lot ZAM15)
 
 - Notes de travail visibles retirées (simulation puis application, 5 remplacements) ; brouillon aligné. Page EN créée : 32569 (y figurent en plus Lindstrom et al. 2024, Lavaud 2023 et les collections BGCI/Montgomery).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26560), REST contrôlé = brouillon, brouillon aligné.

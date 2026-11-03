@@ -39,3 +39,8 @@
 ## Retouche du 25/10/2026 (avant ZAM15)
 
 - Tournures de travail « sources consulted / sources consultées / fonti consultate » (et apparentées) reformulées ou supprimées sans changer les faits (replace_in_content, simulation puis application, nombre attendu vérifié) ; date de Lavaud 2023 harmonisée (6 janvier 2023, mis à jour le 27 mai 2023) dans la ligne de source ; brouillon aligné, texte en ligne identique.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 14493), REST contrôlé = brouillon, brouillon aligné.

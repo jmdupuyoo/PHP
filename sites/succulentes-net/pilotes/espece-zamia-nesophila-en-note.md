@@ -18,3 +18,9 @@
 - Montgomery : accessions antérieures à la description (2001) ; numéro 9643 (*aff.*) sans année lisible.
 
 - 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « thread “…par <pseudonyme>” (2013-2016): » → « thread from 2013 to 2016 on the germination of Zamia seeds: » (page 32291, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32291), REST contrôlé = brouillon, brouillon aligné.

@@ -28,3 +28,8 @@
 - Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia dressleri* EN 31990, sur la première mention sourcée ; simulation puis application (1) ; brouillon aligné.
 
 - Retouche du 02/11/2026 (question 47, localités de *Zamia hamannii*, espèce VU) : dans la liste des espèces du groupe, île nommée remplacée par « from an island off the coast of Bocas del Toro » (1 remplacement, simulation puis application ; brouillon aligné ; contrôle REST).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 3 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 20387), REST contrôlé = brouillon, brouillon aligné.

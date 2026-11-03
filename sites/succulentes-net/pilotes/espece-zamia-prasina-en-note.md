@@ -21,3 +21,9 @@
 ## FR/IT
 - FR 22369 (7) et IT 28184 (9) : notes de travail retirées (« n'a pas été consultée / non è stato consultato », « dans les sources consultées / nelle fonti consultate » ×2, « n'a été trouvée / non è stato trovato » ×2, « lu lors de la fiche de cette espèce », IT « presenza attuale non verificata » ×2, « altre liste italiane consultate ») ; source « recherche » du forum remplacée par les fils t=5743 et t=9702 ; BGCI (21), Montgomery (13), Trebrown ajoutés ; IT : absence des Index Seminum 2007-2023. Brouillons alignés (verify : identiques).
 - Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C (21 °F)** sur la page 32396 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 1 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32396), REST contrôlé = brouillon, brouillon aligné.

@@ -30,3 +30,9 @@
 ## Ritocco del 25/10/2026 (lotto ZAM16)
 
 - Balayage « fonti consultate » (retouche 0) : 2 tournures reformulées. Puis 6 remplacements (simulation puis application) : encadré « forum italiani consultati » ; date du protologue (version cycad.org, WCVP) ; « dettaglio delle minacce non letto » retiré ; culture : « non trovato… non sembra coltivata in Europa » → « non documentato » + giardino botanico di Lione (BGCI) ; « che abbiamo potuto consultare » retiré ; « non è stata trovata alcuna rilevazione » reformulé ; sources cycad.org, WCVP, BGCI ajoutées. Brouillon aligné. Page EN : 32740.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 7 remplacement(s).
+- SEO Rank Math (titre et/ou méta) sans localité précise (Q47).
+- Méthode : simulation puis application (replace_in_content, page 28241), REST contrôlé = brouillon, brouillon aligné.

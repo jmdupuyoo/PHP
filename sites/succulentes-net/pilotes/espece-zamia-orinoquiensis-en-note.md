@@ -18,3 +18,7 @@
 
 ## FR/IT
 - FR 26546 (5) et IT 28156 (7) : « aucun relevé… trouvé hors de France, ni sur les forums ni dans les jardins botaniques » remplacé (rien de publié hors de Colombie ; BGCI et Montgomery : aucune plante) ; « n'a été trouvée » → « publiée » ; paragraphe Lindstrom 2024 ajouté en Taxonomie ; sources (PMC, Montgomery, BGCI) et référence Lindstrom ajoutées ; IT : « consultati » et « che abbiamo potuto consultare » retirés. Brouillons alignés (verify : identiques).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32333), REST contrôlé = brouillon, brouillon aligné.

@@ -20,3 +20,9 @@
 
 ## FR/IT corrigées (25/10/2026, simulation puis application, nombre attendu vérifié)
 - FR 26523 (17) et IT 28089 (18) : Wikipédia remplacée par la Flora de Colombia (encadré, description, cônes mâles, confusion avec *obliqua*, répartition), protologue désormais lu (description latine, pépinière de Linden), néotype/lectotype exposé, Vannini daté 2019 (et non 2024) et complété, Lavaud ajouté, Taborda-López publié en 2025 et López-Gallego 2025 ajouté, Stevenson 2004 (*Bot. Rev.*, non lu) remplacé par Stevenson 2001 ; notes de travail retirées (« n'a été trouvé », « forums consultés », « In assenza di dati, qualsiasi valore… sarebbe inventato »).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32212), REST contrôlé = brouillon, brouillon aligné.

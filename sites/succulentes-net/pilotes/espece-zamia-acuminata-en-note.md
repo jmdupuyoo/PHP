@@ -32,3 +32,8 @@
 - FR/IT à compléter (facultatif) : protologue tel que reproduit par Lindström 2013, Bramblett 2013 (itinéraire d'Ørsted, ~100 km), Montgomery (2 accessions), BGCI (12 jardins).
 
 - 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « thread “…par <pseudonyme>”: » → « thread from 2013 on the germination of Zamia seeds: » (page 31210, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 31210), REST contrôlé = brouillon, brouillon aligné.

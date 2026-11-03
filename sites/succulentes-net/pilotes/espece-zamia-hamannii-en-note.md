@@ -31,3 +31,7 @@
 ## Retouche du 02/11/2026 (décision du propriétaire, question 47 : localités d'espèce menacée)
 - Localités précises retirées, formulation alignée sur l'ES 38789 : introduction (« endemic to a protected offshore island »), encadré (« a protected offshore island… a coastal peninsula and nearby offshore islets »), Possible confusion (nom commercial remplacé par « distributed under an informal name based on a locality… the plants of the peninsula concerned »), In the wild (« an island off the Caribbean coast », « along the length of a peninsula »), Conservation (« during a patrol in the protected area »), FAQ (« on a protected island… along a peninsula »). Source forum citée anonymement et datée (« two threads from 2012 to 2015 », titres de fil retirés, dont celui qui contenait un pseudonyme). 8 remplacements (simulation puis application) ; contrôle REST : 0 occurrence des lieux et du pseudonyme ; brouillon identique au texte en ligne (hors sommaire). SEO inchangé (sans localité).
 - Non modifié (titre d'article cité) : TVN Noticias, « Levantan proceso administrativo por extracción de plantas en área protegida de Veraguas » (nom de l'aire dans le titre et l'URL).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32060), REST contrôlé = brouillon, brouillon aligné.

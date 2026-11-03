@@ -18,3 +18,10 @@
 
 ## FR/IT
 - FR 26560 (5) et IT 28235 (5) : « n'a pas été vérifiée / non è stata verificata », « titre relevé…, article non lu / articolo non letto », « n'a été trouvé(e) / non è stato trovato » ×3 reformulés ; simulation puis application, brouillons alignés. Ajouts facultatifs non faits en FR/IT : Lindstrom 2024 (autapomorphie), Lavaud 2023, jardins BGCI/Montgomery.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- BMAA/glycosides (formule Q15, BMAA attribuée), mécènes privés anonymisés (pyrophylla), membre de forum anonymisé (lindenii) : 2 remplacement(s).
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 5 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32569), REST contrôlé = brouillon, brouillon aligné.

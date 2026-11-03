@@ -22,3 +22,7 @@
 ## Retouche 0 de CER07 (30/10/2026)
 
 - Toxicité : BMAA retirée ; formulation imposée pour *Zamia* (glycosides toxiques (cycasine, macrozamine), dont dérive le méthylazoxyméthanol). IT : la phrase ASPCA (*Zamia furfuracea*) garde les symptômes, sans la BMAA. Simulation puis application (1 remplacement) ; brouillon identique au texte en ligne.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 22376), REST contrôlé = brouillon, brouillon aligné.

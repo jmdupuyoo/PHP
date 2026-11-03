@@ -19,3 +19,9 @@
 ## FR/IT corrigées au passage (25/10/2026, simulation puis application)
 - FR 26492 (6) et IT 28034 (7) : Vannini « 2024 » → article de 2019 (mis à jour en 2026), « collectionneur américain » → « naturaliste », avis complété (sympatrie, cônes mâles, pointe des folioles) ; « dans les sources consultées », « le détail des menaces n'est pas connu ici », « forum italiani consultati », « Aucun relevé de froid n'a été trouvé… » retirés ou réécrits (Jungle Music, Trebrown, BGCI 5 jardins, Montgomery, Lavaud 2023) ; 4 sources ajoutées.
 - Reste à reprendre (signalé) : phrase et ligne Wikipédia (Kuna de Madugandí, deux sous-populations) dans « Dans la nature » / « In natura » et Sites de référence.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32125), REST contrôlé = brouillon, brouillon aligné.

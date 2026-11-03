@@ -32,3 +32,7 @@
 
 ## Retouche del 25/10/2026 (lot ZAM14)
 - 6 remplacements (simulation puis application) : « che abbiamo potuto consultare », « Non è stata trovata… né sui forum né negli orti botanici », « Non è stato trovato » reformulés ; BGCI et Montgomery (aucune plante, 25/10) ; paragraphe WCVP et Lindstrom 2024 ; lignes WCVP et PMC aux sources, Lindstrom 2024 en bibliographie. Brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28159), REST contrôlé = brouillon, brouillon aligné.

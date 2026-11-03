@@ -19,3 +19,8 @@
 
 ## FR/IT
 - FR 26562 (10) et IT 28152 (13) corrigées : « sources consultées » ×2 retirés, phrase « détail des menaces n'est pas connu ici » reformulée, « aucune plante cultivée hors du Honduras / en France » et « aucun retour… trouvé » remplacés par Montgomery, BGCI (Lyon, Amsterdam, Hilo) et Vannini ; version cycad.org du protologue ajoutée à la taxonomie ; FR : paragraphe Lavaud (comme en IT) ; IT : « che abbiamo potuto consultare » et « consultati » retirés, titre Lavaud corrigé (« Comment cultiver les Zamia en climat tempéré ») ; sources et références ajoutées. Brouillons alignés (verify : identiques).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 5 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32327), REST contrôlé = brouillon, brouillon aligné.

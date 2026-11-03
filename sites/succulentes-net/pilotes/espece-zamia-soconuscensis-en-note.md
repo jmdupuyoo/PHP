@@ -22,3 +22,9 @@
 - FR 22308 (4) : chiffre de Wikipédia et sa ligne de source retirés ; « n'a pas pu être lue » reformulé ; « trouvé(e) » ×2 reformulés (plus 2 tournures « sources consultées » au balayage de la retouche 0).
 - IT 28266 (4 + 1) : « non ha potuto essere letta » reformulé ; ligne de source Tropicamente (question de 2009 sans réponse, rien de pertinent) retirée ; « trovata / trovato » ×2 reformulés ; « elenchi consultati » précisé (Hanbury, et BGCI pour l'Italie) (plus 2 tournures « fonti consultate » au balayage).
 - Retouche du 25/10/2026 (fin de lot) : lien *loddigesii* (EN 20373) posé à sa première occurrence du corps (Matuda, 1937) ; 1 remplacement simulé puis appliqué ; brouillon aligné, live = brouillon.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- BMAA/glycosides (formule Q15, BMAA attribuée), mécènes privés anonymisés (pyrophylla), membre de forum anonymisé (lindenii) : 2 remplacement(s).
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32761), REST contrôlé = brouillon, brouillon aligné.

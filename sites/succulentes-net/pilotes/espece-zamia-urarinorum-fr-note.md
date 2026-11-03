@@ -45,3 +45,7 @@ Fichier : `pilotes/espece-zamia-urarinorum-fr.html` (blocs Gutenberg contrôlés
 - Liens internes du corps : 1re occurrence des *Zamia* ayant une fiche FR publiée (200 sans redirection), y compris les fiches de ce lot.
 
 - 25/10/2026 (lot ZAM18) : fiche EN créée (34424) et liée (hreflang fr/it/en) ; aucune note de recherche visible à corriger dans la FR.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 11 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26590), REST contrôlé = brouillon, brouillon aligné.

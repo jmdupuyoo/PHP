@@ -21,3 +21,7 @@
 
 ## FR/IT corrigées au passage (25/10/2026, simulation puis application)
 - FR 22356 (8) et IT 28095 (9) : phrases Wikipédia (Palenque/Agua Azul ; brûlis « menace principale ») remplacées par Vannini 2019 (Guatemala) et retirées ; ligne Wikipédia des sources remplacée par Vannini, BGCI, Montgomery, Trebrown ; notes de travail retirées (« aucune expérience documentée n'a été trouvée », « forums consultés, y compris italiens », « dans les sources consultées », « non consulté », « secondo le fonti consultate », « è stata trovata ») ; Repères internationaux / Riferimenti internazionali réécrits (Trebrown 10b, BGCI, Montgomery).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32143), REST contrôlé = brouillon, brouillon aligné.

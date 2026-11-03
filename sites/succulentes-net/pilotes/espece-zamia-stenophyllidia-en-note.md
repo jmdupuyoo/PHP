@@ -19,3 +19,8 @@
 
 ## FR/IT (25/10/2026)
 - FR 26611 (7) / IT 28243 (9) : « résumé relevé par extrait de recherche / riassunto rilevato da un estratto di ricerca » (corps, sources, bibliographie) remplacés par la lecture du résumé (Crossref) ; ajout des quatre espèces de la plaine pacifique et de la clé (Taxonomie) et de la sympatrie avec *Dioon stevensonii* (Dans la nature, lien FR 26152 / IT 27444) ; « n'a été trouvé(e) / è stato trovato » ×3-4 → « documenté / publié » ; BGCI et Montgomery (aucune entrée) ajoutés en Culture ; IT « forum italiani consultati », « che abbiamo potuto consultare » retirés. Points de cycadales-a-verifier.md (FR 26611 et IT 28243, extraits de recherche) traités.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- BMAA/glycosides (formule Q15, BMAA attribuée), mécènes privés anonymisés (pyrophylla), membre de forum anonymisé (lindenii) : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32813), REST contrôlé = brouillon, brouillon aligné.

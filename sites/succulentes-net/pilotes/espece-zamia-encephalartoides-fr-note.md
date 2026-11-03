@@ -16,3 +16,8 @@
 
 ## Retouche du 24/10/2026 (0b avant ZAM02)
 - Noms communs : note de rédaction visible retirée (« La forme « cacao d'Indien », donnée jusqu'ici sur cette page… ») ; remplacée par « « Cacao d'Indien » n'en est qu'une traduction littérale, sans usage attesté en français, et aucune source n'explique l'origine du nom espagnol. » (replace_in_content, simulation puis 1 remplacement ; brouillon aligné).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 3 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 22294), REST contrôlé = brouillon, brouillon aligné.

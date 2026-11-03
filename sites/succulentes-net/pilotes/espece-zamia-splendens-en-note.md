@@ -20,3 +20,10 @@
 - Divergence WCVP (*Z. verschaffeltii*) / Montgomery et CITES (*Z. katzeriana*) / WLoC (accepté) : exposée, WLoC suivie.
 
 - **Retouche 0 avant ZAM17 (25/10/2026)** : aiguillons « 0.4 mm » vérifiés sur le fac-similé du protologue (cycad.org, Zamia-splendens.pdf, p. 1 : « prickles when present to 0.4mm in length ») ; « according to the digitised text » retiré (« up to 0.4 mm long »).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- BMAA/glycosides (formule Q15, BMAA attribuée), mécènes privés anonymisés (pyrophylla), membre de forum anonymisé (lindenii) : 2 remplacement(s).
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 2 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32783), REST contrôlé = brouillon, brouillon aligné.

@@ -31,3 +31,8 @@
 - *Pharaxonotha thomasi* (Skelley e Tang 2020; Skelley et al. 2026) al posto di « fonti consultate »; collezioni fuori dall'Honduras (Montgomery 2003 e 2019; BGCI 7 giardini, tra cui Lione) e Vannini 2019 al posto di « non è stato trovato »; tossicità « pubblicato »; « forum italiani consultati » → « forum italiani »; 3 fonti e 3 riferimenti aggiunti. Bozza allineata.
 
 - 25/10/2026 (ZAM13) : titre de Lavaud 2023 corrigé en bibliographie (« Comment cultiver les Zamia en climat tempéré », et non « Notes sur la culture… ») ; 1 remplacement, brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 8 remplacement(s).
+- SEO Rank Math (titre et/ou méta) sans localité précise (Q47).
+- Méthode : simulation puis application (replace_in_content, page 28123), REST contrôlé = brouillon, brouillon aligné.

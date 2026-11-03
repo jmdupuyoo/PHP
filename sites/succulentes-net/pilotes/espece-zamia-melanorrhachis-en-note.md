@@ -18,3 +18,9 @@
 - Folioles « no surcados » (protologue) contre « pli longitudinal saillant » (clé 2021) : les deux exposés.
 - Spécimens GBIF hors aire WLoC (Amazonie, Llanos) : identité non revue ; noms communs et usage alimentaire peut-être liés à d'autres espèces (exposé).
 - Climat de Lavaud (4 600 mm) contre étiquettes « bosque seco tropical » (Córdoba 1991) : données exposées sans conclusion.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 2 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32233), REST contrôlé = brouillon, brouillon aligné.

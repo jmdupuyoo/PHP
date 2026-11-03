@@ -31,3 +31,7 @@
 
 ## Retouche du 25/10/2026 (lot ZAM17, création EN 32842)
 - Simulation puis application (FR 5 / IT 7) : notes de travail retirées (« n'a été trouvé(e) / trovato / trovata », IT « forum italiani consultati », « che abbiamo potuto consultare ») ; ajouts : Lavaud 2023 (groupe des Zamia sud-américains d'écosystèmes à saison sèche, sans problème en serre hors gel dans le sud de la France, divergence avec l'habitat humide du protologue exposée), BGCI (Longwood Gardens, université d'Hawaï à Hilo ; Bogotá, Medellín) ; deux sources et une entrée bibliographique. Brouillon aligné, live = brouillon.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28367), REST contrôlé = brouillon, brouillon aligné.

@@ -55,3 +55,8 @@
 
 ## Retouche 0 avant ZAM13 (25/10/2026, simulation puis application, 3 remplacements)
 - « des plaines orientales de Colombie » (circonscription d'avant 2022) remplacé par la formulation du protologue (Venezuela et nord-est de la Colombie, pédoncules 16-28 cm), circonscription de Stevenson (2001, 2004), séparation d'*orinoquiensis* en 2022 (lien FR 26546) et aire actuelle (WLoC) ; « deux espèces colombiennes » → « deux espèces » ; Calonje et al. 2022 ajouté à la bibliographie. Brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26503), REST contrôlé = brouillon, brouillon aligné.

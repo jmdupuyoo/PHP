@@ -22,3 +22,7 @@
 
 ## FR/IT corrigées (25/10/2026, simulation puis application, nombre attendu vérifié)
 - FR 26542 (12) et IT 28091 (13) : « l'un des trois seuls » → trois connus en 2009, quatre depuis *magnifica* (2023) ; WCVP/GBIF ajoutés au nom accepté ; paragraphe *magnifica* (lien FR/IT) ; paragraphe Parenté (Lindstrom 2024) ; Vannini (habitat, culture) ; culture réécrite (Montgomery, BGCI, Lavaud) ; « Repères internationaux » et IT « Riferimenti internazionali » réécrits ; notes de travail retirées (« n'a été trouvé(e) », « che abbiamo potuto consultare », « forum italiani consultati », « Non è stato trovato ») ; sources et bibliographie complétées (Pérez-Farrera 2023, Lindstrom 2024, Vannini, Lavaud, BG-BASE, BGCI, WCVP).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32221), REST contrôlé = brouillon, brouillon aligné.

@@ -54,3 +54,7 @@
 
 ## Retouche du 25/10/2026 (avant ZAM09)
 - Divergence sur l'épaisseur des folioles ajoutée (Comment reconnaître) : « épaisses » (Standley 1924) contre « papyraceous » dans la clé des *Zamia* du Chiapas du protologue de *Z. grijalvensis* (Pérez-Farrera et al. 2012, PDF local relu) ; référence ajoutée en bibliographie. 2 remplacements.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26499), REST contrôlé = brouillon, brouillon aligné.

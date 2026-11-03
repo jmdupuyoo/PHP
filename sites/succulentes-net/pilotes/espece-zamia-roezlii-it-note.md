@@ -56,3 +56,8 @@
 - Liens internes ajoutés (200) : *oligodonta*, *montana* (premières occurrences). 16 liens internes IT en 200, aucun lien FR.
 - Contrôles (verify.py) : URL 200, aucun commentaire de bloc visible, 131 blocs appariés, texte rendu identique au brouillon `espece-zamia-roezlii-it.html`, même séquence de liens ; hreflang fr/it/en conservés ; ≈ 4 170 mots.
 - SEO Rank Math inchangé (exact). Index de la page genre IT 11879 : ligne conforme (LC 2022 ; répartition WLoC), non modifiée — le Panama de Species+ n'y est pas ajouté (non retenu par WLoC).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 3 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28260), REST contrôlé = brouillon, brouillon aligné.

@@ -19,3 +19,9 @@
 
 ## FR/IT corrigées (25/10/2026, simulation puis application, nombre attendu vérifié)
 - FR 26519 (16) et IT 28150 (18) : données Wikipédia seules retirées (mensurations de la tige, des feuilles, des folioles et des cônes, sols sableux, 120 km², « entre les bassins de l'Amazone et de l'Orénoque », menaces agricoles, actions du SINCHI) ; ligne Wikipédia des Sites de référence remplacée par GBIF (spécimens COAH), Field Museum 1607 et Lavaud 2023 (+ Lindstrom 2024 en FR) ; habitat et altitudes resourcés sur les étiquettes d'herbier ; Lavaud ajouté en Culture ; notes de travail retirées (« ne sont pas repris ici », « nous ne savons pas si… », « dans les sources consultées », « aucun retour de culture n'a été trouvé », « secondo le fonti consultate », « è stata trovata ») ; FAQ alignées.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 5 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32192), REST contrôlé = brouillon, brouillon aligné.

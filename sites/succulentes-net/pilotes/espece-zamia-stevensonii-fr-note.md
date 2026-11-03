@@ -46,3 +46,9 @@ Fichier : `pilotes/espece-zamia-stevensonii-fr.html` (blocs Gutenberg contrôlé
 
 ## Retouche du 25/10/2026 (lot ZAM17, création EN 32822)
 - Simulation puis application (6 + 1 remplacements) : notes de travail retirées (« détail des menaces non lu », « messages trouvés », « n'a été trouvé(e) / trovata / trovato », IT « che abbiamo potuto consultare ») ; « aucune recommandation de culture publiée » (corps et encadré) remplacé par les conditions données par la fiche produit Cycadales.eu (20-32 °C, humidité 70-90 %, espèce purement tropicale) et par Lavaud 2023 (groupe « difficile », sensibilité des nouvelles feuilles aux pics de chaleur) ; deux sources et une entrée bibliographique ajoutées. Brouillon aligné, live = brouillon.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 3 remplacement(s).
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26614), REST contrôlé = brouillon, brouillon aligné.

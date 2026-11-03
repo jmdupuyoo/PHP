@@ -30,3 +30,8 @@
 - Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 28119 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
 
 - 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « discussione «…par <pseudonyme>» (2013-2016): » → « discussione del 2013-2016 sulla germinazione di semi di Zamia: » (page 28119, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28119), REST contrôlé = brouillon, brouillon aligné.

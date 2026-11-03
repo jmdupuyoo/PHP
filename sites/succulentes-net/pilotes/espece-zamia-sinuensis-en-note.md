@@ -18,3 +18,10 @@
 
 ## FR/IT
 - FR 26564 (7) et IT 28237 (7) : « position non étudiée par des analyses génétiques » corrigée (Lindstrom et al. 2024 l'a échantillonnée et confirme le sous-groupe) ; FR : divergence de type WLoC ajoutée ; IT : « segnaliamo la divergenza » retiré ; culture : « aucun retour trouvé / ne semble pas cultivée en Europe » → aucun jardin déclarant dans BGCI ; « trouvé(e) » ×2 reformulés ; « che abbiamo potuto consultare » retiré ; Lindstrom 2024 ajouté (source et bibliographie).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- BMAA/glycosides (formule Q15, BMAA attribuée), mécènes privés anonymisés (pyrophylla), membre de forum anonymisé (lindenii) : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 4 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- SEO Rank Math (titre et/ou méta) sans localité précise (Q47).
+- Méthode : simulation puis application (replace_in_content, page 32750), REST contrôlé = brouillon, brouillon aligné.

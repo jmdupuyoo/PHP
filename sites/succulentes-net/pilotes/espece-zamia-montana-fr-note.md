@@ -12,3 +12,7 @@
 - SEO Rank Math : titre « Zamia montana : cycadale des montagnes de Colombie » (50 car.) ; meta 141 car. ; mot-clé `zamia montana` (champs vides auparavant).
 - Vérifications : URL 200 sans redirection ; aucun commentaire de bloc visible ; 103 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-zamia-montana-fr.html`, même séquence de liens (verify.py) ; environ 3 400 mots.
 - Points douteux : répartition (Risaralda selon WLoC, sans source expliquée) ; protologue de Braun non consulté (BHL, Cloudflare) ; Species+ garde *Z. oligodonta* et « *Z. kalbreyeri* » en synonymie ; Liste rouge UICN et POWO non consultés.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 22316), REST contrôlé = brouillon, brouillon aligné.

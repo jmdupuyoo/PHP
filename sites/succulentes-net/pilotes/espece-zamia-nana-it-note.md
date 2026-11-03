@@ -28,3 +28,8 @@
 
 ## Ritocco 0 prima di ZAM13 (25/10/2026, simulazione poi applicazione, 4 sostituzioni)
 - Omonimo invalido *Zamia nana* hort. ex Miq. (1844, IPNI); citazione di Calonje (Bramblett 2013); righe IPNI e Bramblett 2013 aggiunte. Bozza allineata.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 29493), REST contrôlé = brouillon, brouillon aligné.

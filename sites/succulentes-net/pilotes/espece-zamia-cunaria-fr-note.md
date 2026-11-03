@@ -53,3 +53,7 @@
 
 ## Retouche du 25/10/2026 (0b avant ZAM07)
 - Intertitre « Repères internationaux » vide rempli (Montgomery 11 numéros, Selby, Cairns d'après BGCI 25/10/2026 ; culture en pot de Vannini 2019) ; paragraphe Culture et réponse FAQ « Peut-on le cultiver ? » corrigés (culture documentée par Vannini 2019 : réussite en pot, graines sauvages sur le marché) ; Vannini 2019, BGCI et Montgomery ajoutés aux Sites de référence, Vannini à la Bibliographie. 5 remplacements (simulation puis application) ; brouillon aligné ; faits repris de l'EN 31979.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26474), REST contrôlé = brouillon, brouillon aligné.

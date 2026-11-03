@@ -19,3 +19,9 @@
 
 ## FR/IT
 - FR 26596 (10) et IT 28245 (10) : hybride artificiel *spartea* × *purpurea* de Cycadales.eu ajouté (Hybrides + source) ; « sources scientifiques consultées », « publication consultée », « article non lu / articolo non letto », « source moderne consultée », « détail des menaces non lu », « n'a été trouvé(e) / trovata » ×4, « che abbiamo potuto consultare » reformulés ou retirés.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- BMAA/glycosides (formule Q15, BMAA attribuée), mécènes privés anonymisés (pyrophylla), membre de forum anonymisé (lindenii) : 2 remplacement(s).
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 3 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32771), REST contrôlé = brouillon, brouillon aligné.

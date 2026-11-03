@@ -19,3 +19,10 @@
 
 ## FR/IT
 - FR 26603 (6) et IT 28241 (6) : notes de travail retirées (« tiré à part consulté / estratto consultato », « détail des menaces non lu », « aucun retour trouvé : ne semble pas cultivée en Europe », « aucun relevé trouvé », phrase de toxicité en double en FR, « che abbiamo potuto consultare », « forum italiani consultati ») ; ajouts : version cycad.org du protologue, WCVP, Lyon (BGCI) en Europe, trois lignes de sources. Les tournures « sources consultées / fonti consultate » (2 + 2) avaient été reformulées par le balayage de la retouche 0.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- BMAA/glycosides (formule Q15, BMAA attribuée), mécènes privés anonymisés (pyrophylla), membre de forum anonymisé (lindenii) : 2 remplacement(s).
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 7 remplacement(s).
+- SEO Rank Math (titre et/ou méta) sans localité précise (Q47).
+- Méthode : simulation puis application (replace_in_content, page 32740), REST contrôlé = brouillon, brouillon aligné.

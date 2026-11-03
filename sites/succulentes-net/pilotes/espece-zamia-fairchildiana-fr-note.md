@@ -51,3 +51,8 @@
 - Liens croisés posés après publication vers les fiches du lot : gomeziana, acuminata (première occurrence hors introduction et encadré).
 
 - **Retouche 25/10/2026 (0b avant ZAM08)** : 2 remplacements — intertitre « Repères internationaux » rempli (Vannini 2019 : embruns sur Osa, plantes largement cultivées ; BGCI 25 jardins dont 13 US, NBG Wales, Sydney, Cairns, Lyon ; Montgomery 7 numéros « cf. elegantissima ») ; 3 sources ajoutées. Brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 4 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 3 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26484), REST contrôlé = brouillon, brouillon aligné.

@@ -34,3 +34,8 @@
 
 ## Retouche du 25/10/2026 (lot ZAM10, création EN 32157)
 - Simulation puis application (FR 11 / IT 11) : plus rien de Wikipédia seule (Pérou et catégorie NT 2010 retirés ; l'évaluation 2010 reste citée sans catégorie ; ligne Wikipédia retirée) ; notes de travail visibles retirées ; Repères internationaux (FR) / Riferimenti internazionali (IT) remplis : Trebrown 10b (commercial), Lavaud 2023 (groupe des forêts de basse altitude), BGCI 8 jardins ; sources BGCI, Trebrown, Cycadales.eu ajoutées. Brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28117), REST contrôlé = brouillon, brouillon aligné.

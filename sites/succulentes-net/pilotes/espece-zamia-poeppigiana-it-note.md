@@ -42,3 +42,8 @@
 ## Retouche del 25/10/2026 (lot ZAM14)
 - 13 remplacements (simulation puis application) : « consultati » (encadré), « conversione approssimativa nostra », « nessuna fonte consultata » ×3, « le fonti consultate » ×2, « minacce… non sono note », « che abbiamo potuto consultare », « ricerche dell'11 e del 17 ottobre », « non è stata trovata / non è stato trovato » reformulés ; source FdP sostituita dal filo t=12464 ; BGCI, Montgomery, Trebrown aggiunti. Brouillon aligné.
 - Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 28188 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 1 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28188), REST contrôlé = brouillon, brouillon aligné.

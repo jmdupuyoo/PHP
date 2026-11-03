@@ -19,3 +19,7 @@
 
 ## FR/IT
 - FR 26566 (19) et IT 28181 (18) : « sources consultées / fonti consultate » ×3, « n'a pu être consultée / non è stato possibile consultare », « NOM-059 n'a pas pu être vérifié », « aucun retour… trouvé », « non è stata trovata / non è stato trovato » reformulés ; protologue (cycad.org), WCVP, Lindstrom 2024, altitude (2014, 2026), NOM-059 « Pr », Jungle Music, BGCI et Montgomery ajoutés ; FR : Lavaud 2023, Bonta 2019 (usages, noms) et Napolitano 2006 ajoutés (comme en IT) ; « jeune plante » corrigé. Brouillons alignés (verify : identiques).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 3 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32364), REST contrôlé = brouillon, brouillon aligné.

@@ -21,3 +21,8 @@
 ## Points douteux
 - Collecteur du type (Correa et al. / Béliz) ; nombres chromosomiques avec la réserve de Taylor et al. ; aire réelle « à préciser » (Taylor et al. 2008) ; plantes cultivées sous ce nom avant 2008 peut-être d'autres espèces du complexe.
 - FR/IT : rien à reprendre sur le fond (ajouts possibles : Montgomery 1986/2008, nom commercial « Corrugated Zamia », NParks).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 20393), REST contrôlé = brouillon, brouillon aligné.

@@ -16,3 +16,8 @@
 - Costa Rica : divergence non tranchée (WLoC, Acuña-Castillo contre Lindström 2013, Taylor 2012, Species+, Vannini).
 - Catégorie UICN 2010 (Stevenson) non vérifiée.
 - Hors lot : la FR *pseudoparasitica* 14482 donnait « VU » et « A.Dietr. » pour *obliqua* (note FR du 18/10) ; l'EN *pseudoparasitica* 20068 contient « sources consulted ».
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32301), REST contrôlé = brouillon, brouillon aligné.

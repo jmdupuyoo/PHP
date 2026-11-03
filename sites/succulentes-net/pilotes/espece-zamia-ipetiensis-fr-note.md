@@ -67,3 +67,8 @@ Brouillon : `pilotes/espece-zamia-ipetiensis-fr.html` (blocs Gutenberg contrôl�
 
 ## Retouche 25/10/2026 (avant ZAM11)
 - Divergence sur la tige exposée comme dans l'EN 32125 : Calonje et al. 2018 (tige non ramifiée) contre Vannini 2019 (« subterranean, branched caudex with a solitary leaf to 3'/95 cm carrying few leaflets », texte relu) : liste des caractères de 2018 et paragraphe Vannini de la Taxonomie (2 remplacements, simulation puis application ; brouillon aligné, texte en ligne identique).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26492), REST contrôlé = brouillon, brouillon aligné.

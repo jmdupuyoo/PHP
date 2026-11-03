@@ -48,3 +48,8 @@ Brouillon : `pilotes/espece-zamia-imbricata-fr.html` (blocs Gutenberg contrôlé
 
 ## Retouche du 25/10/2026 (ZAM09)
 - Notes de travail visibles corrigées (3 remplacements, simulation puis application) : Culture (« aucun retour de culture n'a été trouvé » → « n'est documenté ») ; Repères internationaux (« Aucun relevé de froid n'a été trouvé hors de France, ni sur les forums ni dans les jardins botaniques » → Lavaud 2023, groupe des Zamia des forêts de basse altitude, difficile, serre ou intérieur chauffé) ; source Cycadales.eu ajoutée. Page EN créée : 32101.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26483), REST contrôlé = brouillon, brouillon aligné.

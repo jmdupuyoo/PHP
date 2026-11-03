@@ -39,3 +39,7 @@
 - Vérifié avant création : aucune page IT de l'espèce ni de ses synonymes (API REST, recherche par épithète et synonymes, enfants de 11879) ; aucune redirection visant l'URL (list_redirects).
 - Liens externes contrôlés le 11/10/2026 (200), sauf EUR-Lex (202, page de contrôle anti-robot) et, selon la fiche, Authorea (403) ou data.gouv (délai dépassé).
 - Rien commité.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28097), REST contrôlé = brouillon, brouillon aligné.

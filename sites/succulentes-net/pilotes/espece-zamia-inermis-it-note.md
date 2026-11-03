@@ -29,3 +29,10 @@
 
 ## Ritocco del 25/10/2026 (prima di ZAM10)
 - 21 sostituzioni (simulazione poi applicazione, numero atteso verificato) : morfologia senza fonte (« grigio cenere », fusto ~30 cm, 27-32 paia, coni, semi 1,7-2,5 cm) e 2n = 16 (Vovides 1983, riassunto che non nomina la specie) ritirati, con il riferimento Vovides 1983 ; suoli basaltici/vulcanici, Actopan, « squilibrio tra i sessi », sottobosco ritirati ; al loro posto Nicolalde-Morejón et al. 2011 e 2014 (150-300 m), Gómez Díaz 2025, Octavio-Aguilar et al. 2017, Jungle Music (descrizione di coltivazione, esposizione). Link IT *fischeri* spostato nelle Possibili confusioni. Bibliografia : 2009 sostituito da 2011, 2014 e Gómez Díaz 2025.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 4 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28027), REST contrôlé = brouillon, brouillon aligné.

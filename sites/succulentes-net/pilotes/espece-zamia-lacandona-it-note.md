@@ -47,3 +47,7 @@ FR ancienne : non repris faute de source vérifiable :
 
 ## Retouche du 25/10/2026 (lot ZAM10, création EN 32143)
 - Simulation puis application (FR 8 / IT 9) : plus rien de Wikipédia seule (Palenque/Agua Azul, brûlis comme menace principale retirés ; ligne Wikipédia retirée) ; ajout de Vannini 2019 (signalement fiable à l'extrême nord-ouest du Guatemala ; culture peu répandue) ; notes de travail visibles retirées ; Repères internationaux (FR) / Riferimenti internazionali (IT) remplis : Trebrown 10b (commercial), BGCI 5 jardins, Montgomery 4 numéros ; sources Vannini, BGCI, Montgomery, Trebrown ajoutées. Brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28095), REST contrôlé = brouillon, brouillon aligné.

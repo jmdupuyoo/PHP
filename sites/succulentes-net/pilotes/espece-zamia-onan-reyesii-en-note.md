@@ -16,3 +16,9 @@
 - Texture des folioles : subcoriaces (protologue) contre papyracées (Calonje 2009, Vannini 2019) ; exposé.
 - La recherche BGCI sur « onan-reyesii » ne renvoie rien ; la fiche existe sous « onanreyesii » (piège d'outil).
 - FR/IT corrigées (« aucune plante cultivée en France » : Lyon la déclare à BGCI).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 7 remplacement(s).
+- SEO Rank Math (titre et/ou méta) sans localité précise (Q47).
+- Méthode : simulation puis application (replace_in_content, page 32318), REST contrôlé = brouillon, brouillon aligné.

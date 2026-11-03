@@ -32,3 +32,8 @@
 
 ## Correction du 25/10/2026 (lot ZAM11, création EN 32192)
 - Fiche jusque-là appuyée sur Wikipédia pour la description et l'habitat : mensurations, sols sableux, 120 km², bassins Amazone/Orénoque, menaces et actions du SINCHI retirés ; habitat et altitudes (290-490 m, affleurements rocheux, savane de sable blanc) resourcés sur les spécimens COAH/SINCHI (GBIF) ; guide Field Museum 1607 (2023) ; Lavaud 2023 (groupe des forêts de basse altitude) ; Lindstrom 2024 (non échantillonnée) ; notes de travail retirées. Simulation puis application (FR 16 / IT 18 remplacements), brouillon aligné, texte en ligne identique.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 4 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28150), REST contrôlé = brouillon, brouillon aligné.

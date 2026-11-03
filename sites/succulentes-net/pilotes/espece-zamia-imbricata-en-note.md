@@ -18,3 +18,7 @@
 ## FR/IT corrigées au passage (25/10/2026, simulation puis application)
 - FR 26483 (3) : « aucun retour de culture n'a été trouvé » → « n'est documenté » ; « Repères internationaux » (« Aucun relevé de froid n'a été trouvé… ni sur les forums ni dans les jardins ») remplacé par Lavaud 2023 (groupe des forêts de basse altitude) ; source Cycadales.eu ajoutée.
 - IT 28018 (5) : « forum italiani consultati », « non è stato trovato alcun riscontro », « che abbiamo potuto consultare », « Non è stata trovata alcuna rilevazione di freddo… » corrigés ; Lavaud 2023 et source ajoutés.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32101), REST contrôlé = brouillon, brouillon aligné.

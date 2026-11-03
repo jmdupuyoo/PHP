@@ -27,3 +27,7 @@
 
 ## Retouche du 24/10/2026 (0a avant ZAM04)
 - Phrase visible sur PalmTalk / Dave’s Garden « could not be consulted » (ou variante) retirée du texte (le site ne commente pas ses limites de recherche) : replace_in_content, simulation puis application, 1 remplacement(s) ; brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 20416), REST contrôlé = brouillon, brouillon aligné.

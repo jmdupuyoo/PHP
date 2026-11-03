@@ -32,3 +32,7 @@
 - Valutazione NT 2010 attribuita a Stevenson; paragrafo Lindstrom 2024; collezioni BGCI (27) e Montgomery (1999); Stevenson 2010 e Lindstrom 2024 in bibliografia. Bozza allineata (primo tentativo interrotto da un errore 502, nulla applicato; ripetuto dopo simulazione).
 
 - 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « discussione «…par <pseudonyme>» (2013): » → « discussione del 2013 sulla germinazione di semi di Zamia: » (page 28111, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28111), REST contrôlé = brouillon, brouillon aligné.

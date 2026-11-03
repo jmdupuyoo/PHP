@@ -23,3 +23,9 @@
 
 ## FR/IT
 - FR 18304 (11) et IT 28188 (13) : « conversion approximative faite par nous / nostra », « aucune source consultée / nessuna fonte consultata » ×3, « les sources consultées / le fonti consultate », « menaces éventuellement relevées ne sont pas connues », « recherche « zamia poeppigiana », 13 octobre 2026 » et IT « ricerche dell'11 e del 17 ottobre », « che abbiamo potuto consultare », « consultati » (encadré IT), « n'a été trouvée / non è stata trovata / non è stato trovato » reformulés ; ligne de source « recherche » remplacée par le fil t=12464 (message du 10/12/2014) ; BGCI (7 jardins), Montgomery (aucune) et Trebrown (9b, commercial) ajoutés ; FR : usages (Martius & Eichler 1863, comme en IT). Brouillons alignés (verify : identiques).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 1 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32373), REST contrôlé = brouillon, brouillon aligné.

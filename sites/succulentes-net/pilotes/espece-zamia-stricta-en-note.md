@@ -24,3 +24,11 @@
 - FR 21774 (6) / IT 28370 (8) : « conversions… faites par nous / è nostra » reformulé ; « le détail des menaces n'a pas pu être lu / non ha potuto essere letto » retiré ; FR « statut UICN relevé sur… » simplifié ; « n'a été trouvé(e) / trovata / trovato » → « documenté / publié(e) / pubblicata / pubblicato » ; « liste… consultée / forum consultati / che abbiamo potuto consultare » retirés ; IT : phrase de recherche Fous de palmiers (« la stessa ricerca porta soltanto a messaggi su Agave stricta e Cordyline stricta ») retirée.
 - Ajouts facultatifs FR/IT (présents en EN seulement) : Montgomery (remarques croisées), BGCI (2), Trebrown 9b, évaluation UICN 2010.
 - Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C (21 °F)** sur la page 32833 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 3 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- noms et usages selon la Flora de la República de Cuba (liste des noms rendue à Z. angustifolia ; amidon, mort-aux-rats) : 3 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32833), REST contrôlé = brouillon, brouillon aligné.

@@ -28,3 +28,6 @@
 
 ## 02/11/2026 (lot ENC-ES01)
 - Lignes d'index liées : *aemulans* 39597, *afer* 39599, *altensteinii* 39679, *aplanatus* 39696, *arenarius* 39722 (replace_in_content limité à 39595, chaînes « <li><em>Encephalartos X</em> auteur » uniques, simulation 5 puis application 5) ; brouillon régénéré depuis le contenu en ligne (cmpall identique). Mentions du corps non liées (comme pour *Zamia* à ce stade).
+
+## 03/11/2026 (lot ENC-ES02)
+- Lignes d'index liées : *barteri* 39767, *brevifoliolatus* 39790, *bubalinus* 39812, *cerinus* 39849, *chimanimaniensis* 39900 (replace_in_content limité à 39595, chaînes « <li><em>Encephalartos X</em> auteur » uniques, simulation 1 puis application 1 pour chaque fiche, au fil des créations) ; brouillon aligné par les mêmes remplacements (texte identique au texte en ligne, liens identiques, y compris ceux du lot parallèle ENC-ES03). Mentions du corps non liées.

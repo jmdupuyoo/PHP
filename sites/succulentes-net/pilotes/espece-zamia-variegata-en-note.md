@@ -26,3 +26,9 @@
 - FR 21795 (2) : « Le détail des menaces n'a pas pu être lu » retiré ; « (recherche « zamia variegata », 13 octobre 2026) » retiré. IT 28395 (5) : « il dettaglio delle minacce… » retiré ; « nessuna fonte consultata » → « pubblicata » ; « che abbiamo potuto consultare » retiré ; « è stato trovato » → « è documentato » ; « Le misure che circolano in rete non sono quindi riprese qui » retiré. Simulation puis application ; brouillons alignés, texte en ligne identique.
 - **À reprendre en FR/IT** : la FR dit « Les sources publiées ne disent pas où ni quand Józef Warszewicz a récolté la plante décrite en 1845 » et « la description originale de 1845 n'a pas été lue » ; l'IT « la descrizione originale del 1845 non è stata letta ». Le protologue est désormais lu (lettre de Santo Tomás, mars 1845, publiée le 9 août 1845) : à intégrer. Ajouts facultatifs : Vannini 2019, Montgomery (8), BGCI, Trebrown, évaluation UICN 2010.
 - Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C (21 °F)** sur la page 34441 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 34441), REST contrôlé = brouillon, brouillon aligné.

@@ -39,3 +39,7 @@
 - Non modifiés : titre de l'article TVN (« … área protegida de Veraguas ») ; titre de fil contenant le pseudonyme d'un membre dans la source forum, hors consigne (signalé) [FAIT 02/11/2026 : source citée « deux fils de 2012 à 2015 », comme l'EN].
 
 - 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « discussioni «Noël en avance pour les fous de Cycadales» e «…par <pseudonyme>»: » → « due discussioni dal 2012 al 2015: » (page 28075, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28075), REST contrôlé = brouillon, brouillon aligné.

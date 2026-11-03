@@ -11,3 +11,7 @@
 - SEO Rank Math : titre « Zamia imperialis : la cycadale aux feuilles rouges du Panama » (60 car.) ; meta 151 car. ; mot-clé `zamia imperialis`.
 - Vérifications : URL 200 sans redirection ; aucun commentaire de bloc visible ; 117 blocs ouvrants/fermants appariés, balises équilibrées ; texte rendu (API REST) identique au brouillon `pilotes/espece-zamia-imperialis-fr.html` et même séquence de liens (comparaison par script, sommaire Easy TOC exclu) ; environ 3 800 mots.
 - Points douteux : sympatrie avec *Zamia obliqua* non revérifiée ; Calonje 2019, Lindstrom 2024 et Stevenson 1993 non consultés directement ; POWO et Liste rouge UICN non consultés (Cloudflare).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 3 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 21802), REST contrôlé = brouillon, brouillon aligné.

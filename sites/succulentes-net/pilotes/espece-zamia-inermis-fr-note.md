@@ -19,3 +19,10 @@
 ## Retouche du 25/10/2026 (avant ZAM10)
 - 18 remplacements (simulation puis application, nombre attendu vérifié) : plus rien de Wikipédia seule. Mesures de la révision de 2009 (connues par Wikipédia), 2n = 16, graines « rose puis rouge », sols volcaniques, pentes raides, altitude 200-300 m et municipalité d'Actopan retirés ; à la place : Nicolalde-Morejón et al. 2011 (*Revista Mexicana de Biodiversidad* 82 : groupe à tige épigée et folioles entières avec *tuerckheimii* et *soconuscensis*, confusion possible des parts d'herbier avec *encephalartoides*, forêt tropicale caducifoliée « BTC »), Nicolalde-Morejón et al. 2014 (*RMB* supl. 85, tableau 1 : 150-300 m, province du golfe du Mexique, NOM-059 P), Gómez Díaz 2025 (une localité, une municipalité, EOO 50 km²), Octavio-Aguilar et al. 2017 (pâturages et forêt saisonnièrement sèche fragmentée ; sierra de Manuel Díaz, Monzomboa), Jungle Music (description de culture, plantules dentées, sol sec et pauvre sous les arbres, mi-soleil). FAQ alignées (« incendies » retiré, non sourcé). Ligne Wikipédia retirée ; 2009 remplacée en bibliographie par 2011, 2014 et Gómez Díaz 2025.
 - Reste : protologue (*Flora de Veracruz* 26) et révision de 2009 (*Brittonia*) non consultés ; aucune mesure botanique publiée lue.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 4 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 21714), REST contrôlé = brouillon, brouillon aligné.

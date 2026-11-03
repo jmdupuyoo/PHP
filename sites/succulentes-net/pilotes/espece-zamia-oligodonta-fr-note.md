@@ -12,3 +12,7 @@
 - SEO Rank Math : titre « Zamia oligodonta : cycadale andine du Risaralda (Colombie) » (58 car.) ; meta 139 car. ; mot-clé `zamia oligodonta` (champs vides auparavant).
 - Vérifications : URL 200 ; aucun commentaire de bloc visible ; 104 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-zamia-oligodonta-fr.html`, même séquence de liens (verify.py) ; environ 3 000 mots.
 - Points douteux : écart entre la recommandation EN de 2015 et le classement CR de 2022 (critères de l'évaluation 2022 non lus, Liste rouge inaccessible) ; Species+ maintient la synonymie avec *Z. montana* ; POWO non consulté.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 22321), REST contrôlé = brouillon, brouillon aligné.

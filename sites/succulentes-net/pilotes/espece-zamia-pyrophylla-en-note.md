@@ -17,3 +17,9 @@
 
 ## FR/IT
 - FR 26554 (2) et IT 28233 (2) : « n'a été trouvé(e) / non è stato trovato » ×2 reformulés ; simulation puis application, brouillons alignés. Ajout facultatif non fait : Lavaud 2023 (groupe 4, légende) en FR/IT.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- BMAA/glycosides (formule Q15, BMAA attribuée), mécènes privés anonymisés (pyrophylla), membre de forum anonymisé (lindenii) : 3 remplacement(s).
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32559), REST contrôlé = brouillon, brouillon aligné.

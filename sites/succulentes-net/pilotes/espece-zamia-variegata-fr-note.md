@@ -22,3 +22,8 @@
 ## Retouche du 25/10/2026 (avant ENC01) : protologue de 1845
 - Protologue (copie cycad.org Zamia-variegata.pdf, lu pour l'EN 34441) intégré : lettre de Warszewicz écrite à Santo Tomás (Guatemala) en mars 1845, publiée dans l'Allgemeine Gartenzeitung du 9 août 1845, p. 252-253 (« eine Zamia variegata Nob., mit hübschen bunten Blättern », aucune autre description ; collecte pour Van Houtte ; arrivée à Santo Tomás le 1er février 1845 sur la Minerva ; ~2 000 spécimens envoyés ; lieu de récolte non précisé). Phrases « description originale non lue » et « Les sources publiées ne disent pas où ni quand… » remplacées ; bibliographie mise à jour (lue) ; source cycad.org ajoutée. Volume « 32 » laissé comme citation de WLoC (la page de titre indique la 13e année). Simulation puis application (5 remplacements), brouillon aligné.
 - Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 21795 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 21795), REST contrôlé = brouillon, brouillon aligné.

@@ -21,3 +21,10 @@
 ## FR/IT (25/10/2026)
 - FR 26614 (7) / IT 28247 (7) : « le détail des menaces n'a donc pas été lu » retiré ; « messages trouvés / messaggi trovati » → « publiés / pubblicati » ; « aucune recommandation de culture publiée » remplacé par les conditions de Cycadales.eu (fiche produit) et de Lavaud 2023 (groupe 4, sensibilité à la chaleur), y compris dans l'encadré ; « n'a été trouvé(e) / trovata / trovato » → « publié(e) / pubblicata / pubblicato » ; IT « che abbiamo potuto consultare » retiré ; sources (fiche produit, Lavaud) et bibliographie (Lavaud 2023) ajoutées.
 - Ajouts facultatifs FR/IT (présents en EN seulement) : Lindstrom 2024, BGCI (5), Montgomery (20 numéros).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- BMAA/glycosides (formule Q15, BMAA attribuée), mécènes privés anonymisés (pyrophylla), membre de forum anonymisé (lindenii) : 2 remplacement(s).
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 3 remplacement(s).
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32822), REST contrôlé = brouillon, brouillon aligné.

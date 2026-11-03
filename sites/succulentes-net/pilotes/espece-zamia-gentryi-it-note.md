@@ -27,3 +27,8 @@
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
 
 - **Retouche 25/10/2026 (0d avant ZAM08)** : 2 remplacements — « Non è stato trovato alcun altro riscontro con le ricerche sul web » remplacé par BGCI (San Diego Botanic Garden, interrogé le 25/10) ; source BGCI ajoutée. Brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 7 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28052), REST contrôlé = brouillon, brouillon aligné.

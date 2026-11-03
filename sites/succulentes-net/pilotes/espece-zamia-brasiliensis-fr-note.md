@@ -33,3 +33,7 @@
 
 ## Page EN 20416 (non modifiée) : erreurs relevées
 - « 16 to 40 leaflets » (ce sont les chiffres de *Z. boliviana* ; *Z. brasiliensis* : 2-24, 10-24 chez l'adulte) ; « leaflets elliptic to oblong » (protologue : lancéolées à obovales) ; « known from two populations » (≥ 10 localités, 2 populations étudiées) ; habitat réduit à la forêt semi-décidue ; « Female plants produce a single megastrobilus » (en général un, jusqu'à cinq) ; « *Pharaxonotha* known pollinators of *Z. boliviana* » (observés chez *Z. brasiliensis* à Itaúba) ; « Amazonian Clade » attribué à Calonje 2019 et Lindstrom 2024 (non vérifié ; liste incluant *urep*) ; « *Z. ulei* … arborescent » ; « *Z. boliviana* LC » non vérifié ; « *boliviana* to the west » ; USDA 10a-10b « cautious estimate » (inventé) ; « over 80 species » ; menaces (soja, exploitation forestière) et recommandations (jardins de Rio et São Paulo) non sourcées ; « only Zamia endemic to Brazil » présenté comme fait actuel ; POWO cité sans consultation.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 22303), REST contrôlé = brouillon, brouillon aligné.

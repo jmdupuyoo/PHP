@@ -25,3 +25,8 @@
 - 30/10/2026 (lot CER01) : lien entrant posé vers la nouvelle page EN *Ceratozamia becerrae* (35553) sur « Ceratozamia becerrae » (corps, Dans la nature/conservation) ; simulation 1/1 puis application ; brouillon aligné (identique au texte en ligne).
 
 - **Liens CER09 (30/10/2026)** : lien(s) EN posé(s) vers *vovidesii*, *zoquorum* (première occurrence hors introduction, encadré, titres et sources ; simulation puis application) ; brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32054), REST contrôlé = brouillon, brouillon aligné.

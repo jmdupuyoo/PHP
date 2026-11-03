@@ -14,3 +14,7 @@
 
 ## Retouche du 24/10/2026 (0c avant ZAM02)
 - Noms communs (encadré, section, ligne GBIF des sources) : les deux noms portugais de Flora e Funga do Brasil pour l'Acre (« batata-de-paca », « palmeirinha-espinhosa », lus via l'API GBIF le 24/10, liste officielle non ouverte : protection Anubis) sont désormais présentés avec la même réserve que l'EN 20459 (application incertaine : WLoC ne cite pas l'Acre ; « batata de paca » aussi pour *Zamia ulei* sur une étiquette d'herbier), au lieu de « aucune source fiable ». 3 remplacements (simulation puis application) ; brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 22275), REST contrôlé = brouillon, brouillon aligné.

@@ -37,3 +37,8 @@
 
 ## Retouche 0 avant ZAM13 (25/10/2026, simulation puis application, 4 remplacements)
 - Homonyme invalide *Zamia nana* hort. ex Miq. (1844 ; IPNI, nom. inval. art. 36.1(c) ; WCVP sous *Encephalartos horridus*) ; citation de Calonje (Bramblett 2013) ; lignes IPNI et Bramblett 2013 ajoutées. Repris de l'EN 32271. Brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 29452), REST contrôlé = brouillon, brouillon aligné.

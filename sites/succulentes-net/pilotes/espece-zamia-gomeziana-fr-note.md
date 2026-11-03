@@ -50,3 +50,7 @@
 - Liens croisés posés après publication vers les fiches du lot : fairchildiana (première occurrence hors introduction et encadré).
 
 - **Retouche 25/10/2026 (0d avant ZAM08)** : 1 remplacement — « aucune offre commerciale n'a été trouvée » retiré. Brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26491), REST contrôlé = brouillon, brouillon aligné.

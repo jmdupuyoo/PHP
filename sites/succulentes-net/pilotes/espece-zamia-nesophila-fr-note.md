@@ -62,3 +62,8 @@ Fiche : `pilotes/espece-zamia-nesophila-fr.html` (blocs Gutenberg contrôlés pa
 - Pollinisateur : phrase « d'après Wikipédia » (mutualisme obligatoire, Tang et al. 2024) remplacée par les sources primaires lues (Tang et al. 2024, *Insecta Mundi* 1043 : *Pharaxonotha clarkorum* dans des cônes mâles de *Z. nesophila*, octobre 2012, seul pollinisateur connu, comme pour *neurophyllidia* et *hamannii* ; Skelley et al. 2026, *Insecta Mundi* 1184) ; « mutualisme obligatoire » absent des deux articles, retiré ; ligne Wikipédia remplacée par Insecta Mundi ; « n'a été trouvé(e) » (froid, toxicité) → « publié(e) » ; deux références ajoutées. Brouillon aligné. Fiche EN : voir espece-zamia-nesophila-en-note.md.
 
 - 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « fil « …par <pseudonyme> » (2013-2016) : » → « fil de 2013-2016 sur la germination de graines de Zamia : » (page 26544, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26544), REST contrôlé = brouillon, brouillon aligné.

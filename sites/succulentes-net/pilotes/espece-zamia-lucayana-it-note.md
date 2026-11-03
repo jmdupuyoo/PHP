@@ -38,3 +38,8 @@ FR ancienne : non repris faute de source vérifiable ou contredit :
 ## Points douteux
 - Divergence de distribution : la WLoC 2026 ajoute Abaco à Long Island (cité comme tel dans l'IT) ; les autres sources ne donnent que Long Island.
 - Corrections bibliographiques faites dans l'IT (à reporter en FR) : Griffith et al. 2017 (Biodiversity and Conservation) = 26(12): 2951-2966 (la FR donne 26(13): 3025-3043) ; l'étude 2020 est de Hoban et al. (PRSB 287(1926): 20200102), non de Griffith.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 3 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28105), REST contrôlé = brouillon, brouillon aligné.

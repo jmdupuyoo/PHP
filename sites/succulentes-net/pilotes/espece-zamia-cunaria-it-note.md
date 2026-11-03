@@ -27,3 +27,7 @@
 
 ## Ritocco del 25/10/2026 (0b prima di ZAM07)
 - Nota di ricerca «Nessun riscontro è stato trovato con le ricerche sul web» tolta; «Riferimenti internazionali» riempito (Montgomery 11 numeri, Selby, Cairns secondo BGCI 25/10/2026; coltivazione in vaso di Vannini 2019); paragrafo Coltivazione e FAQ «Si può coltivare?» corretti (coltivazione documentata da Vannini 2019); Vannini 2019, BGCI e Montgomery aggiunti alle fonti, Vannini alla bibliografia. 5 sostituzioni (simulazione poi applicazione); bozza allineata; fatti ripresi dall'EN 31979.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28031), REST contrôlé = brouillon, brouillon aligné.

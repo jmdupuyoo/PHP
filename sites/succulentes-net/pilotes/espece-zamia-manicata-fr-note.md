@@ -51,3 +51,9 @@ Brouillon : `pilotes/espece-zamia-manicata-fr.html` (blocs Gutenberg contrôlés
 
 ## Correction du 25/10/2026 (lot ZAM11, création EN 32212)
 - Données tirées de Wikipédia (dimensions, altitude, milieux, confusion avec *Zamia obliqua*) resourcées sur la Flora de Colombia (Stevenson 2001, fiche 621, lue) ; protologue Regel 1876 lu (copie cycad.org) ; type : néotype (Flora, Calonje 2021) / lectotype (WLoC) exposé ; Vannini daté 2019 ; Lavaud 2023 ajouté ; Taborda-López et al. 2025 (publié) et López-Gallego 2025 ajoutés ; notes de travail retirées. Simulation puis application (FR 17 / IT 18), brouillon aligné, texte en ligne identique.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26523), REST contrôlé = brouillon, brouillon aligné.

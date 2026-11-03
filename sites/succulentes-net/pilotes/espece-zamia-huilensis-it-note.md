@@ -30,3 +30,8 @@
 
 ## Ritocco 0 prima di ZAM13 (25/10/2026, simulazione poi applicazione, 3 sostituzioni)
 - « delle pianure orientali della Colombia (popolazioni attribuite dal 2022 a *orinoquiensis*) » sostituito dalla formulazione del protologo (Venezuela e Colombia nord-orientale, peduncoli 16-28 cm), circoscrizione di Stevenson (2001, 2004), separazione di *orinoquiensis* nel 2022 (link IT conservato) e areale attuale (WLoC); « due specie colombiane » → « due specie »; Calonje et al. 2022 in bibliografia. Bozza allineata.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28013), REST contrôlé = brouillon, brouillon aligné.

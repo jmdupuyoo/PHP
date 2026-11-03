@@ -50,3 +50,7 @@
 
 ## Retouche du 25/10/2026 (0d avant ZAM07)
 - Complété avec les mesures de la *Flora de Colombia* 21 (Stevenson 2001, p. 38-40, copie numérique du dépôt de l'Universidad Nacional de Colombia, lue pour l'IT) : tige, cataphylles, feuilles, folioles, cônes inconnus ; comparaison avec *hymenophyllidia* et *obliqua* (liens FR en 200) ; encadré « Port et dimensions » renseigné ; notes de travail retirées (« n'ont pas pu être vérifiées », « PDF indisponible au moment de la recherche », « liste complète des auteurs non recopiée ») ; auteurs de Calonje et al. 2021 complétés d'après Crossref ; source Repositorio UNAL ajoutée. 6 remplacements (simulation puis application) ; brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26477), REST contrôlé = brouillon, brouillon aligné.

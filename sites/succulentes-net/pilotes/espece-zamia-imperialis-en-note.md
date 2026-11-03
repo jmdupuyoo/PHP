@@ -33,3 +33,7 @@
 
 ## Complément du 24/10/2026 (ZAM04)
 - Liens entrants : depuis *skinneri* 20387 (Hybrides, hybridation locale évoquée sur Fous de palmiers) et depuis *wallisii* 20474 (mesures des folioles d'après Taylor et al. 2008), tous deux sur des phrases sourcées.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 3 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 20434), REST contrôlé = brouillon, brouillon aligné.

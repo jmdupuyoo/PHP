@@ -17,3 +17,8 @@
 ## Retouche du 25/10/2026 (lot ZAM16)
 
 - 4 remplacements (simulation puis application) : chiffre « environ 5 000 individus » (Wikipédia anglaise seule) et sa ligne de source retirés ; « existe, mais n'a pas pu être lue » → « avait été publiée en 2010 » ; « aucun relevé trouvé » et « aucune étude trouvée » reformulés. Brouillon aligné. Page EN créée : 32761.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 22308), REST contrôlé = brouillon, brouillon aligné.

@@ -22,3 +22,8 @@
 - Brouillon `pilotes/espece-zamia-imperialis-it.html` identique au contenu en ligne (texte rendu de l'API REST comparé mot à mot, hors sommaire Easy TOC ; liens identiques) ; URL en 200 ; aucun commentaire de bloc visible ; blocs Gutenberg appariés et balises équilibrées (script) ; aucun `<em>` imbriqué ni nom abrégé dans le texte ; aucun lien vers une page FR.
 - Vérifié avant création : aucune page IT de l'espèce (enfants de 11879 via l'API REST, recherche par épithète, list_content it « Zamia ») ; aucune redirection visant l'URL (list_redirects).
 - Rien commité.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 3 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28020), REST contrôlé = brouillon, brouillon aligné.

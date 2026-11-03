@@ -27,3 +27,9 @@
 
 ## Ritocco del 25/10/2026 (0f prima di ZAM07)
 - Rusticità: frase negativa sul Jardin zoologique tropical («non è stata pubblicata alcuna osservazione») tolta (stesso difetto della FR). 1 sostituzione (simulazione poi applicazione); bozza allineata.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 1 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 29497), REST contrôlé = brouillon, brouillon aligné.

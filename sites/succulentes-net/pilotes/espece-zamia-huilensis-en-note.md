@@ -21,3 +21,8 @@
 
 ## Retouche 0 avant ZAM13 (25/10/2026, simulation puis application, 3 remplacements)
 - Confusions : « *Zamia muricata*, of the eastern plains of Colombia » (circonscription d'avant 2022, formulation absente du protologue) remplacé par la formulation du protologue (Calonje et al. 2012, relu : « native to Venezuela and northeastern Colombia », pédoncules 16-28 cm), avec rappel de la circonscription large de Stevenson (2001, 2004), de la séparation d'*orinoquiensis* (Calonje et al. 2022, relu) et de l'aire actuelle (WLoC) ; « two Colombian species » → « two species » ; Calonje et al. 2022 ajouté à la bibliographie. Lien vers *orinoquiensis* EN posé à sa création (ZAM13). FR 26503 et IT 28013 corrigées de même (3 chacune).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32077), REST contrôlé = brouillon, brouillon aligné.

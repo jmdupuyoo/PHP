@@ -21,3 +21,10 @@
 ## FR/IT
 - FR 21767 (7) et IT 28190 (7) : notes de travail retirées (« seule description chiffrée consultée », « sources consultées », « non consulté ici », « présence actuelle non vérifiée », « n'a été trouvée / non è stato trovato ») ; Index Seminum : n° 1495 confirmé en FR (rien de faux), absence de 2014-15 à 2022-23 ajoutée ; BGCI (21), Montgomery, Jungle Music, Trebrown ajoutés avec leurs sources. Brouillons alignés (verify : identiques).
 - Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C (21 °F)** sur la page 32386 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 9 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32386), REST contrôlé = brouillon, brouillon aligné.

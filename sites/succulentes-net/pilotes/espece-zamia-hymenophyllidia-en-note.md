@@ -15,3 +15,8 @@
 ## Points douteux
 - Mesures du protologue (folioles 12-15 × 1-2 cm, 2 à 5 feuilles, tige souterraine 2-4 cm) très inférieures à celles de Segalla 2023 / Calonje 2026 (folioles 16-24 × 4,5-7,2 cm, 3 à 15 feuilles, tige aérienne jusqu'à 40 cm) : les deux jeux sont donnés, sans trancher.
 - Altitude : 94-250 m (collections 2023/2026) ; la fiche clé arrondit à « about 95 to 250 m ».
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 6 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32084), REST contrôlé = brouillon, brouillon aligné.

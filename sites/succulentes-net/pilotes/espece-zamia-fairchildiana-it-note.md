@@ -27,3 +27,8 @@
 - Retouche du 21/10/2026 (signalé lors de CYC14, contrôle de toutes les fiches cycadales FR/IT) : 1 phrase(s) de commentaire interne visibles du lecteur retirées ou reformulées (mentions de « versione precedente di questa pagina », de la « scheda francese/inglese del sito » ou annotations bibliographiques « letto per la scheda francese ») ; fond inchangé ; replace_in_content simulé puis appliqué, nombres attendus vérifiés ; brouillon aligné.
 
 - **Retouche 25/10/2026 (0b avant ZAM08)** : 2 remplacements — note de recherche (« Non è stato trovato alcun riscontro sul freddo con le ricerche sul web ») remplacée par Vannini 2019, BGCI et Montgomery ; 3 sources ajoutées. Brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 4 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 3 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28035), REST contrôlé = brouillon, brouillon aligné.

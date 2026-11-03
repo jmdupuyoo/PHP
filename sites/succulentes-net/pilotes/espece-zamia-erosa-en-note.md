@@ -22,3 +22,11 @@
 - IT 28033 : ligne « Wikipedia (in inglese) » des sources ; spécimen d'Eckenwalder « raccolto nel centro-sud… foglioline strette » et photographies « del 1899 e del 1901 » (Wikipédia ; WLoC et la FR donnent 1899) ; notes de travail « non consultato per questa scheda », « che non è stato possibile consultare », « Non è stato trovato alcun riscontro datato di gelo ».
 - FR 21754 : source Fous de palmiers « recherches « amblyphyllidia » et « zamia erosa » le 13 octobre 2026 » (note de recherche visible) ; « La valeur de −2 °C et les zones USDA 10b à 11 parfois avancées ne reposent sur aucune observation datée » (remarque éditoriale) ; compléments possibles : Lindstrom 2024, jardins BGCI/Montgomery/Fairchild, Jungle Music.
 - Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C (21 °F)** sur la page 32018 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 8 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 1 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32018), REST contrôlé = brouillon, brouillon aligné.

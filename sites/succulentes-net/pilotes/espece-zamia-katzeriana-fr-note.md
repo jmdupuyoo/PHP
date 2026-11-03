@@ -54,3 +54,8 @@ Brouillon : `pilotes/espece-zamia-katzeriana-fr.html` (blocs Gutenberg contrôl�
 
 ## Retouche du 25/10/2026 (ZAM09)
 - 18 remplacements (simulation puis application) : notation POWO « d'après un extrait de recherche » remplacée par WCVP via GBIF (Zamia ×katzeriana, version du 04/06/2026) ; Wikipédia retiré (Dans la nature et Sites de référence) ; notes de travail retirées (« dans les sources consultées », « n'ont pas pu être consultées », « le détail des menaces n'est pas connu ici », « forums consultés », « Aucun relevé de froid… ») ; « ne pousse pas au Costa Rica » remplacé ; caractères distinctifs (Pérez-Farrera 2016 via Lindstrom 2024 ; complexe *Z. katzeriana* de Nicolalde-Morejón 2011), lectotype LE, répartition Chiapas/Tabasco/Veracruz (2011), Lindstrom 2024 (sœur de *Z. splendens*) ; Culture et Repères internationaux : BGCI Xalapa, Montgomery (2 numéros sous *Z. splendens*, hybrides), Lavaud 2023 groupe 2 ; 5 sources et 2 références ajoutées. Page EN créée : 32132.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26497), REST contrôlé = brouillon, brouillon aligné.

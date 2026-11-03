@@ -27,3 +27,7 @@
 
 ## Retouche del 25/10/2026 (prima di ZAM09)
 - Divergenza sullo spessore delle foglioline (Standley 1924 « spesse » / chiave del protologo di *Z. grijalvensis*, 2012, « papyraceous ») aggiunta in Come riconoscere ; riferimento aggiunto in bibliografia. 2 sostituzioni.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28012), REST contrôlé = brouillon, brouillon aligné.

@@ -11,3 +11,7 @@
 - SEO Rank Math : titre « Zamia boliviana : la cycadale des savanes du Cerrado » (52 car.) ; meta 139 car. ; mot-clé `zamia boliviana`.
 - Vérifications : URL 200 sans redirection ; aucun commentaire de bloc visible ; 102 blocs appariés, balises équilibrées ; texte rendu identique au brouillon `pilotes/espece-zamia-boliviana-fr.html` ; 2479 mots.
 - Points douteux : largeur des folioles (1,1-2 vs 0,8-2 cm) ; durée du cône mâle (50 j selon le résumé 2022, 60 selon Wikipédia) ; La Paz et altitude connus via Wikipédia ; protologue, POWO et Liste rouge non consultés.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 22283), REST contrôlé = brouillon, brouillon aligné.

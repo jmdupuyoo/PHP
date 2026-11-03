@@ -23,3 +23,10 @@
 - FR 26510 (8) et IT 28120 (9) : notes de travail retirées (« inaccessible à notre robot », « ne sont pas reprises ici » → description Jungle Music attribuée, « aucune autre source consultée ne le confirme » → BGCI Copenhague, « secondo le fonti consultate ») ; divergence d'habitat exposée ; Lavaud 2023 ajouté (En France / In Italia e nel sud della Francia) ; Repères internationaux / Riferimenti internazionali remplis (Jungle Music, Trebrown 9b, BGCI, Montgomery) ; cinq sources ajoutées.
 
 - Retouche 25/10/2026 (avant ZAM12, 3 remplacements, simulation puis application) : Dodson 1998 (protologue de *gentryi*, archive.org biostor-63944, relu) — cônes « powerfully fragrant » de *lindenii* visités par des coléoptères à Río Palenque (plantes spontanées sur le site) ; paragraphe ajouté après le témoignage de terrain (lien vers *gentryi* de la même langue), ligne de source et entrée bibliographique ajoutées. Coléoptères non identifiés.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- BMAA/glycosides (formule Q15, BMAA attribuée), mécènes privés anonymisés (pyrophylla), membre de forum anonymisé (lindenii) : 1 remplacement(s).
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 3 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32164), REST contrôlé = brouillon, brouillon aligné.

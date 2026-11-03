@@ -19,3 +19,8 @@
 ## FR/IT à reprendre (signalé)
 - IT 28064 : « Nessun riscontro è stato trovato con le ricerche sul web » (Riferimenti internazionali) et « non è stata trovata alcuna offerta commerciale » (Coltivazione) : notes de recherche visibles.
 - FR 26491 : « aucune offre commerciale n'a été trouvée » (Culture), note de recherche visible ; compléments possibles : Vannini 2019 (photographies de plantes sauvages, doutes de Grayum & Hammel 2011).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32039), REST contrôlé = brouillon, brouillon aligné.

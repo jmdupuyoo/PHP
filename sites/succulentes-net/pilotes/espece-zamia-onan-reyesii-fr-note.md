@@ -54,3 +54,9 @@ Fiche : `pilotes/espece-zamia-onan-reyesii-fr.html` (blocs Gutenberg contrôlés
 
 ## Nettoyage et correction du 25/10/2026 (lot ZAM13, simulation puis application, 6 remplacements)
 - « non documentés dans les sources consultées » remplacé par *Pharaxonotha thomasi* (Skelley & Tang 2020, cités par Skelley et al. 2026, *Insecta Mundi* 1184, lu) ; « Aucune plante cultivée en France » corrigé (Lyon déclare l'espèce à BGCI) ; « Aucun retour… trouvé hors du Honduras » remplacé par les collections (Montgomery 2003 et 2019 ; BGCI, 7 jardins) et l'avis de Vannini 2019 (cultivée en Californie, « very rewarding ») ; toxicité « trouvée » → « publiée » ; 3 sources et 3 références ajoutées. Brouillon aligné. Fiche EN : voir espece-zamia-onan-reyesii-en-note.md.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 8 remplacement(s).
+- SEO Rank Math (titre et/ou méta) sans localité précise (Q47).
+- Méthode : simulation puis application (replace_in_content, page 26558), REST contrôlé = brouillon, brouillon aligné.

@@ -19,3 +19,8 @@
 
 ## FR/IT corrigées au passage (25/10/2026, simulation puis application)
 - FR 26505 (11) et IT 28117 (11) : Pérou et NT 2010 (Wikipédia seule) retirés, ligne Wikipédia remplacée par BGCI, Trebrown, Cycadales.eu ; notes de travail retirées (« sources consultées », « nous ne savons pas… », « Biodiversity Heritage Library inaccessible », « catégorie relevée sur Wikipédia », « secondo le fonti consultate », « è stata trovata ») ; Repères internationaux / Riferimenti internazionali remplis (Trebrown 10b, Lavaud groupe 4, BGCI).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32157), REST contrôlé = brouillon, brouillon aligné.

@@ -23,3 +23,7 @@
 - FR/IT : rien à reprendre (ajout possible : déclaration BGCI de Bogotá).
 - Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia cunaria* EN 31979, sur la comparaison du protologue (Confusions possibles) ; simulation puis application (1) ; brouillon aligné.
 - Lien entrant posé le 25/10/2026 (ZAM06) : *Zamia dressleri* EN 31990, sur la première mention sourcée ; simulation puis application (1) ; brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 20447), REST contrôlé = brouillon, brouillon aligné.

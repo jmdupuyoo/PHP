@@ -29,3 +29,7 @@
 
 ## Retouche du 25/10/2026 (lot ZAM13)
 - 7 remplacements (replace_in_content, simulation puis application) : phrase « aucun relevé… trouvé » remplacée (rien de publié hors de Colombie ; BGCI et Montgomery : aucune plante, interrogations du 25/10) ; toxicité « trouvée » → « publiée » ; paragraphe Lindstrom 2024 (sœur de *muricata* + *lecointei*) ; sources PMC, Montgomery, BGCI et référence Lindstrom ajoutées ; « consultati » et « che abbiamo potuto consultare » retirés ; brouillon identique au contenu en ligne.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28156), REST contrôlé = brouillon, brouillon aligné.

@@ -24,3 +24,7 @@
 ## Points douteux
 - Largeur des folioles : 1,1-2 cm (tableau) vs 0,8-2 cm (texte) du même article — les deux données. Durée du cône mâle : 50 jours (résumé 2022) vs 60 (Wikipedia) — 50 retenu.
 - POWO, UICN et BHL non consultés (Cloudflare) ; statuts UICN repris de WLoC.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28014), REST contrôlé = brouillon, brouillon aligné.

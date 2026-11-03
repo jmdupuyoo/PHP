@@ -31,3 +31,8 @@
 ## Lien CER07 (30/10/2026)
 
 - Lien vers *Ceratozamia robusta* (35806) posé sur « then identified as *Ceratozamia robusta* » (Confusions) ; simulation puis application ; brouillon aligné. La toxicité EN garde la citation ASPCA (cycasine et BMAA pour *Zamia furfuracea*), sourcée, hors consigne de CER07.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 31983), REST contrôlé = brouillon, brouillon aligné.

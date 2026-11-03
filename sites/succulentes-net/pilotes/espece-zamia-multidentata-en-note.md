@@ -19,3 +19,7 @@
 
 ## Retouche 0 avant ZAM13 (25/10/2026, 1 remplacement)
 - Pédoncule femelle : 12-17,5 cm du tableau de Calonje et al. 2026 (relu) ajouté à côté des 15-19 cm du protologue. Brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 6 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32251), REST contrôlé = brouillon, brouillon aligné.

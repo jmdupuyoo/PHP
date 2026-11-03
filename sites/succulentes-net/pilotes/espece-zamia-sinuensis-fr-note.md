@@ -44,3 +44,9 @@ Fichier : `pilotes/espece-zamia-sinuensis-fr.html` (blocs Gutenberg contrôlés 
 ## Retouche du 25/10/2026 (lot ZAM16)
 
 - 7 remplacements (simulation puis application) : position dans le clade confirmée par Lindstrom et al. 2024 (au lieu de « non étudiée par des analyses génétiques ») ; type n° 1147 selon The World List of Cycads ajouté ; culture : aucun jardin déclarant dans BGCI (au lieu de « aucun retour trouvé : ne semble pas cultivée en Europe ») ; « n'a été trouvé(e) » ×2 reformulés ; Lindstrom et al. 2024 en source et en bibliographie. Brouillon aligné. Page EN créée : 32750.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 4 remplacement(s).
+- SEO Rank Math (titre et/ou méta) sans localité précise (Q47).
+- Méthode : simulation puis application (replace_in_content, page 26564), REST contrôlé = brouillon, brouillon aligné.

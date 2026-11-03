@@ -20,3 +20,7 @@
 ## FR/IT corrigées au passage (25/10/2026, simulation puis application)
 - FR 26499 (11 + 1) : intertitre vide « Repères internationaux » rempli (Montgomery, BGCI, Trebrown) ; notes « n'a pas pu être consultée / vérifiés », « dans les sources consultées » (×4), « aucune offre commerciale n'a été trouvée » retirées et remplacées par Vannini 2019 et Lindstrom 2024 ; encadré (noms communs, port) complété ; lien *loddigesii* ; 4 sources et Lindstrom 2024 ajoutés ; Rusticité nuancée (saison sèche).
 - IT 28012 (13 + 1) : mêmes corrections (« non ha potuto essere consultata / verificati », « fonti consultate » ×4, recherche Tropicamente / Fous de palmiers, « Non è stato trovato alcun riscontro… preferiamo non indicarne »).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32071), REST contrôlé = brouillon, brouillon aligné.

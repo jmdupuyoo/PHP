@@ -12,3 +12,8 @@
 - Vérifications : URL 200 ; aucun commentaire de bloc visible ; 127 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-zamia-roezlii-fr.html` (hors sommaire automatique), même séquence de liens ; liens internes en 200.
 - Points douteux : écarts de mesures entre sources ; largeur 12-15 cm des folioles (Flora de Colombia, non reprise) ; type (néotype ou holotype K) ; présence en Amazonie (Flora) et au Panama (Species+), absentes de WLoC ; phénologie (décembre selon Dodson, toute l'année selon Jones) ; Lindström 2009 non lu ; fiche EN 20467 non vérifiée (probablement fondée sur l'ancienne FR).
 - Pour la fiche IT 28260 (non modifiée) : Species+ indique aussi le Panama dans la répartition ; Lindstrom 2024 (texte intégral) range l'espèce dans le clade VI (Andes occidentales) d'après une plante du Nariño et la cite pour les marécages côtiers.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 3 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 21660), REST contrôlé = brouillon, brouillon aligné.

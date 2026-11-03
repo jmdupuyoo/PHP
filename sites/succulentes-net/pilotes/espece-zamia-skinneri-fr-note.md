@@ -14,3 +14,8 @@
 - Points douteux : autorité (« Warsz. » selon WLoC, « Warsz. ex A.Dietr. » selon Taylor et Species+) ; écart entre NT proposé en 2008 et EN 2022 (évaluation non lue) ; répartition au sens large de Species+ ; populations costariciennes non attribuées ; Holzman 2009 et Haynes 2009 non consultés ; fiche EN 20387 non vérifiée (probablement fondée sur l'ancienne FR).
 
 - Retouche du 02/11/2026 (question 47, localités de *Zamia hamannii*, espèce VU) : dans la liste des espèces du groupe, île nommée remplacée par « d'une île au large de Bocas del Toro » (1 remplacement, simulation puis application ; brouillon aligné ; contrôle REST).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 3 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 21691), REST contrôlé = brouillon, brouillon aligné.

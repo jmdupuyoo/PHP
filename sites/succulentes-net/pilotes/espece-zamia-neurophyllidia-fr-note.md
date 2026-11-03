@@ -12,3 +12,8 @@
 - SEO Rank Math : titre « Zamia neurophyllidia : cycadale à folioles plissées » (51 car.) ; meta 150 car. ; mot-clé `zamia neurophyllidia` (champs vides auparavant).
 - Vérifications : URL 200 ; aucun commentaire de bloc visible ; 108 blocs appariés ; texte rendu identique au brouillon `pilotes/espece-zamia-neurophyllidia-fr.html`, même séquence de liens (verify.py) ; environ 3 400 mots.
 - Points douteux : Stevenson 1993 et Taylor et al. 2008 non relus ce jour (repris de la vérification du 10/10) ; nombres chromosomiques 2n = 18/22 gardés avec la réserve de Taylor et al. ; collecteur du type ; aire réelle de l'espèce (« à préciser » selon Taylor et al. 2008).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 22328), REST contrôlé = brouillon, brouillon aligné.

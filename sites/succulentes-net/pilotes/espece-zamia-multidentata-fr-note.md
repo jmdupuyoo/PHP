@@ -49,3 +49,7 @@ Fiche : `pilotes/espece-zamia-multidentata-fr.html` (blocs Gutenberg contrôlés
 
 ## Retouche 0 avant ZAM13 (25/10/2026, simulation puis application, 4 remplacements)
 - Étymologie attribuée au protologue (Segalla et al. 2023, relu) ; entrée Haynes 2022 retirée de la bibliographie (antérieure à la description de 2023) ; annotation du protologue complétée ; pédoncule femelle 12-17,5 cm (Calonje et al. 2026) ajouté à côté de 15-19 cm (protologue). Brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 5 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26550), REST contrôlé = brouillon, brouillon aligné.

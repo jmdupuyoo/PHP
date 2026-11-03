@@ -56,3 +56,8 @@
 - Hors lot : *Zamia obliqua* toujours sans page IT (404) → laissée sans lien.
 
 - Retouche du 02/11/2026 (question 47, localités de *Zamia hamannii*, espèce VU) : dans la liste des espèces du groupe, île nommée remplacée par « di un'isola al largo di Bocas del Toro » (1 remplacement, simulation puis application ; brouillon aligné ; contrôle REST).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 3 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28263), REST contrôlé = brouillon, brouillon aligné.

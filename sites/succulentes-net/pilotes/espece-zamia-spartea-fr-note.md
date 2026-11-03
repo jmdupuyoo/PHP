@@ -50,3 +50,8 @@ Fichier : `pilotes/espece-zamia-spartea-fr.html` (blocs Gutenberg contrôlés pa
 ## Retouche du 25/10/2026 (lot ZAM16)
 
 - 10 remplacements (simulation puis application) : Hybrides — hybride artificiel *Zamia spartea* × *Zamia purpurea* de Cycadales.eu ajouté (fiche produit lue le 25/10, ligne de source ajoutée) ; « sources scientifiques consultées », « publication consultée », « article non lu », « source moderne consultée », « détail des menaces non lu » et « n'a été trouvé(e) » ×4 reformulés. Brouillon aligné. Page EN créée : 32771 (cite aussi les hybrides de Norstog 1987, d'après Pérez-Farrera et al. 2012 : ajout facultatif ici).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26596), REST contrôlé = brouillon, brouillon aligné.

@@ -18,3 +18,8 @@
 
 ## FR/IT (25/10/2026)
 - FR 26599 (5) / IT 28367 (7) : « aucun retour… n'a été trouvé / non è stato trovato » → « documenté / documentato » ; « relevé de froid / misura di freddo… trouvé(e) » → « publié(e) / pubblicata » + BGCI (Longwood, Hilo) ; toxicité « trouvée / trovato » → « publiée / pubblicato » ; IT « forum italiani consultati » et « che abbiamo potuto consultare » retirés ; Lavaud 2023 (groupe 3) ajouté en Culture, avec la divergence d'habitat, + sources (Cycadales.eu, BGCI) et bibliographie (Lavaud).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- BMAA/glycosides (formule Q15, BMAA attribuée), mécènes privés anonymisés (pyrophylla), membre de forum anonymisé (lindenii) : 2 remplacement(s).
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32842), REST contrôlé = brouillon, brouillon aligné.

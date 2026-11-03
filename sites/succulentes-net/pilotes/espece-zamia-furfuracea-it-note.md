@@ -11,3 +11,7 @@
 - Index 11879 : « la più coltivata del genere » (non sourcé) remplacé par « venduta come pianta d'appartamento » ; « anglosassoni » → « anglofoni » (replace_in_content, simulation 1/1 puis application 1/1 ; `genre-zamia-it.html` aligné).
 - Contrôles : URL 200 (UA Chrome et curl), `<title>` correct après SEO, hreflang fr/it/en conservés, blocs 138/138, aucun commentaire visible, liens IT en 200 ; brouillon `espece-zamia-furfuracea-it.html` identique au contenu en ligne (seul écart : sommaire inséré par le thème). Rien commité.
 - Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 14474 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 14474), REST contrôlé = brouillon, brouillon aligné.

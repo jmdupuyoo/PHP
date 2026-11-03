@@ -26,3 +26,10 @@
 
 - **Retouche 25/10/2026 (0a avant ZAM08)** : 11 remplacements (simulation puis application) — détails tirés de Wikipédia seule retirés (spécimen d'Eckenwalder « centro-sud … foglioline strette », photographies « 1899 e 1901 », étiquette « Zamia integrifolia ») et remplacés par le résumé de Calonje et al. 2010 (Crossref) et WLoC (photographie de Vega Baja, 1899) ; ligne Wikipédia retirée des sources ; notes de travail retirées (mesures « non verificate », Broome « non consultato » → « citato da The World List of Cycads », « Nessun riscontro datato di gelo ») ; Riferimenti internazionali : climat sans gel + Montgomery (23 numéros, BG-BASE, lu le 25/10) ; source Fous de palmiers : recherche → fil daté (avril 2009). Brouillon aligné (texte en ligne identique).
 - Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C** sur la page 28033 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 7 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 1 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28033), REST contrôlé = brouillon, brouillon aligné.

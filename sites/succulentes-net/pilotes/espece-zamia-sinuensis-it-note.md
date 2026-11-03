@@ -25,3 +25,8 @@
 ## Ritocco del 25/10/2026 (lotto ZAM16)
 
 - 7 remplacements (simulation puis application) : posizione nel clade confermata da Lindstrom e collaboratori 2024 ; « segnaliamo la divergenza » retiré ; culture : aucun jardin déclarant dans BGCI, « che abbiamo potuto consultare » retiré ; « trovata / trovato » ×2 reformulés ; Lindstrom 2024 en source et bibliographie. Brouillon aligné. Page EN : 32750.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 4 remplacement(s).
+- SEO Rank Math (titre et/ou méta) sans localité précise (Q47).
+- Méthode : simulation puis application (replace_in_content, page 28237), REST contrôlé = brouillon, brouillon aligné.

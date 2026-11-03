@@ -28,3 +28,7 @@
 - Retouche 24/10/2026 (lot ZAM05, décision éditoriale du 24/10) : recherche Tropicamente sans résultat retirée (« In Italia » et Fonti) ; « Nessun riscontro è stato trovato con le ricerche sul web » → « Non è documentato alcun riscontro di coltivazione » (3 remplacements, simulation puis application) ; brouillon aligné.
 
 - 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « discussione «…par <pseudonyme>»: » → « discussione del 2013 sulla germinazione di semi di Zamia: » (page 28004, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28004), REST contrôlé = brouillon, brouillon aligné.

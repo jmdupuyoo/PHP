@@ -18,3 +18,8 @@
 
 ## Retouche 0 avant ZAM13 (25/10/2026, simulation puis application, 4 remplacements)
 - Divergence sur le type (holotype MO selon WLoC ; lectotype NY selon les étiquettes GBIF, doubles MO et US) ; identité des plantes guatémaltèques (Vannini 2019 ; Lindstrom 2024, *aff. monticola*, sous-clade III-B) ; déclaration BGCI du Wilson Botanical Garden (Costa Rica) ; Lindstrom 2024 en bibliographie. Repris de l'EN 32244. Brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 1 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 22382), REST contrôlé = brouillon, brouillon aligné.

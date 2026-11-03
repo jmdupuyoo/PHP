@@ -14,3 +14,7 @@
 
 - Retouche 24/10/2026 (lot ZAM05) : « le forum italien Tropicamente ne la cite pas » retiré (Rusticité, 1 remplacement, simulation puis application) ; brouillon aligné.
 - Retouche 25/10/2026 (avant ZAM06, retouche 0c ; simulation puis application, 1 remplacement) : ligne Wikipédia des Sites de référence retirée (aucun fait n'en dépendait). Stevenson 2004 reste en bibliographie (non consultée, non citée dans le texte). Brouillon aligné, texte en ligne contrôlé.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 21673), REST contrôlé = brouillon, brouillon aligné.

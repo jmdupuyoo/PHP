@@ -34,3 +34,7 @@
 
 ## Retouche du 25/10/2026 (lot ZAM17, création EN 32800)
 - 7 remplacements (simulation puis application) : « forum italiani consultati » → « forum italiani » ; nome indigeno « non è stato ripreso » → « privo di fonte verificabile » ; « non è stato trovato alcun riscontro » → « non è documentato » ; « che abbiamo potuto consultare » retiré ; « Non è stata trovata alcuna misura di freddo » → « pubblicata » ; « te voy a dar camotillo » attribué à Rivera García 2016 ; « Non è stato trovato alcuno studio » → « pubblicato ». Brouillon aligné, live = brouillon.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28239), REST contrôlé = brouillon, brouillon aligné.

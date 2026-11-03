@@ -46,3 +46,7 @@ Fichier : `pilotes/espece-zamia-stenophyllidia-fr.html` (blocs Gutenberg contrô
 
 ## Retouche du 25/10/2026 (lot ZAM17, création EN 32813)
 - Mentions d'extrait de recherche (corps, sources, bibliographie) remplacées par la lecture du résumé du protologue dans les métadonnées Crossref ; ajouts tirés de ce résumé : quatre espèces de la plaine côtière pacifique et clé des *Zamia* du Mexique (Taxonomie), sympatrie avec *Dioon stevensonii* (lien vers la fiche de même langue) ; tournures « n'a été trouvé(e) / è stato trovato », « forum consultati », « che abbiamo potuto consultare » reformulées ; BGCI et Montgomery (aucune entrée) ajoutés en Culture. Simulation puis application (FR 7, IT 9) ; brouillon aligné, live = brouillon.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26611), REST contrôlé = brouillon, brouillon aligné.

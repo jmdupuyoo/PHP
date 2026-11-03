@@ -18,3 +18,8 @@
 - Type : holotype MO (WLoC) contre lectotype NY (étiquettes GBIF) ; exposé.
 - Identité des plantes du Guatemala (Vannini) ; échantillon *aff. monticola* distinct chez Lindstrom ; place exacte de *monticola* (Alta Verapaz) dans l'arbre non lue (figure).
 - Déclaration BGCI au Costa Rica (aire de *pseudomonticola*) : identification non vérifiable ; exposée avec réserve.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 1 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32244), REST contrôlé = brouillon, brouillon aligné.

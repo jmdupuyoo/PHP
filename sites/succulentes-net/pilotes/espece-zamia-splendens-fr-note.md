@@ -69,3 +69,9 @@
 - Notes de travail reformulées : POWO « accès bloqué », publication de synonymie « non retrouvée », Liste rouge « non consultée / menaces non reprises », NOM-059 « mise à jour 2019 non consultée », « sources primaires consultées », « n'a été trouvé(e) » ×3 (IT : « non è stato trovato » ×4, « che abbiamo potuto consultare »), « retours trouvés », mention « relevée … vérifiée sur Crossref ».
 - Ajouts : hybride artificiel *Z. purpurea* « Smooth » × *Z. splendens* (fiche produit Cycadales.eu, lue ; croisement déjà réalisé par des cultivateurs australiens selon la pépinière) avec lien *purpurea* déplacé à cette première occurrence ; Montgomery Botanical Center (BG-BASE : *Z. splendens* synonyme de *Z. katzeriana*, accessions 93930 et 93941) ; Lavaud 2023 (groupe 2, Mexique-Honduras : substrat, 5-10 °C l'hiver, été) en Culture et Rusticité ; sources Lindstrom, Montgomery, Cycadales.eu ×2, Trebrown ; Lindstrom 2024 en bibliographie.
 - Sauvegarde du brouillon précédent : scratchpad zam16/bak_drafts/splendens-fr.pre-zam16.html.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 2 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 22343), REST contrôlé = brouillon, brouillon aligné.

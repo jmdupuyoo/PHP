@@ -47,3 +47,8 @@
 - SEO Rank Math appliqué (titre, meta, mot-clé ci-dessus).
 - Contenu publié vérifié identique au fichier local (comparaison du texte rendu, phrase par phrase).
 - Lien ajouté dans l'index des espèces de la page genre 3963 (replace_in_content, simulation puis application ; 11 liens en un appel pour le lot).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 7 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26487), REST contrôlé = brouillon, brouillon aligné.

@@ -18,3 +18,8 @@
 ## FR/IT corrigées au passage (25/10/2026, simulation puis application)
 - FR 26488 (5) : mention « consulté par extrait de recherche » (bibliographie) → « résumé lu » ; pollinisation complétée d'après le résumé ; « aucun retour de culture n'a été trouvé sur les forums consultés » → BGCI (3 jardins colombiens), Montgomery, Lavaud 2023 ; « Repères internationaux » (note de recherche) remplacé ; sources Cycadales.eu et BGCI ajoutées.
 - IT 28024 (7) : mêmes corrections, plus « forum italiani consultati », « che abbiamo potuto consultare » et « il forum Tropicamente usa la parola «incognita» solo nel senso comune » retirés.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32107), REST contrôlé = brouillon, brouillon aligné.

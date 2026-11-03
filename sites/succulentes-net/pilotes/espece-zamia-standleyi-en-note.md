@@ -23,3 +23,9 @@
 - FR 26607 (5) : nom indigène « n'a pas été retenu » → « n'a pas de source vérifiable » ; « aucun retour… n'a été trouvé » → « n'est documenté » ; Repères internationaux « n'a été trouvé » → « publié » + culture en plein air au Fairchild dès les années 1980 ; « te voy a dar camotillo » attribué à Rivera García 2016 ; toxicité « trouvée » → « publiée ».
 - IT 28239 (7) : « forum italiani consultati », « non è stato ripreso », « non è stato trovato… riscontro », « che abbiamo potuto consultare », « non è stata trovata… misura », « non è stato trovato… studio » reformulés ; « te voy a dar camotillo » attribué à Rivera García 2016.
 - Ajouts facultatifs FR/IT (présents en EN seulement) : Lindstrom 2024 (sous-clade III-B, milieux saisonnièrement secs, caducité en sécheresse) ; BGCI (19 jardins, dont Kew), Montgomery (10 numéros), Lavaud 2023 (groupe 2), Trebrown 9b, visite de Tampa 1985.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- BMAA/glycosides (formule Q15, BMAA attribuée), mécènes privés anonymisés (pyrophylla), membre de forum anonymisé (lindenii) : 2 remplacement(s).
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32800), REST contrôlé = brouillon, brouillon aligné.

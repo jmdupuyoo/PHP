@@ -21,3 +21,8 @@
 
 ## FR/IT corrigées au passage (25/10/2026, simulation puis application)
 - FR 26517 (29) et IT 28124 (30) : mention « extraits de recherche » / « estratti » retirée (signalée dans cycadales-a-verifier.md, FR 26517 → traitée) ; notes de travail retirées (« inaccessible à notre robot », « Nous ne donnons donc aucune mensuration », « Aucun retour de culture n'a été trouvé sur les forums… », « dans les sources consultées », « n'est pas connue ici », « non riportata qui », « secondo le fonti consultate ») ; Vannini daté 2019 (et non 2024) ; protologue (description, altitude, histoire des graines et troncs), *Flora de Colombia*, WCVP, Lavaud groupe 5, Trebrown, BGCI/Montgomery ajoutés ; Repères internationaux / Riferimenti internazionali remplis ; Lindstrom ajouté en FR ; lien vers *skinneri* FR/IT (200).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32174), REST contrôlé = brouillon, brouillon aligné.

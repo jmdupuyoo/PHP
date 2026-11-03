@@ -28,3 +28,8 @@
 - Retouche du 24/10/2026 : FR recherche Fous de palmiers sans résultat retirée (Rusticité, 1). IT : aucune recherche sans résultat visible (Tropicamente cité pour des messages réels).
 - **À reprendre (hors lot)** : FR 21722 / IT 28010 — remplacer les données Wikipédia par Calonje et al. 2013 (150 plantes, 2 sites, 0,34 km², Gregory Town, abondance à Cuba, doute taxonomique, lotissements) et Gardiner & Brace 1889 (texte primaire) ; retirer les lignes « Wikipédia » des sources et Meerow 2003 « cité d'après Wikipédia ».
 - Q38 (décision du propriétaire du 31/10/2026, « −6 °C est la température que j'ai mesurée ») : minimum du Jardin zoologique tropical en février 2012 corrigé de −7 °C en **−6 °C (21 °F)** sur la page 31224 (1 remplacement, simulation puis application, REST contrôlé, brouillon aligné). Les mentions « −7 °C » ci-dessus pour le JZT en février 2012 sont caduques.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 31224), REST contrôlé = brouillon, brouillon aligné.

@@ -32,3 +32,7 @@
 - SEO : titre devenu inexact (« l'unica cicadea endemica ») → « Zamia brasiliensis: cicadea brasiliana dal picciolo liscio » (58) ; meta 155.
 - JZT : aucune observation. Tropicamente / Fous de palmiers : rien (19/10/2026). Jardins italiens : aucune présence documentée.
 - Contrôles : URL 200 (UA Chrome et curl), hreflang fr/it/en, blocs 102/102, aucun commentaire visible, liens IT en 200 ; brouillon aligné. Index 11879 conforme (NE). Rien commité.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28017), REST contrôlé = brouillon, brouillon aligné.

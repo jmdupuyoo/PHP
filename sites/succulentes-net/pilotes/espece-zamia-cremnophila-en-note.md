@@ -28,3 +28,9 @@
 ## FR/IT
 - Retouche du 24/10/2026 : FR 22338 « (recherche du 13 octobre 2026) ; le forum italien Tropicamente ne contient aucun message » retiré et « ni sur les forums consultés » neutralisé (2) ; IT 28026 phrase Tropicamente, « né sui forum consultati » et ligne Fonti Tropicamente retirées (3) ; brouillons alignés.
 - FR/IT à revoir : « clade Purpurea » cité d'après Calonje 2019 non consulté (attesté par Lindstrom 2024, qui le nuance). Compléments facultatifs : Nicolalde-Morejón 2014 (NOM-059 P, altitude), fiche produit Cycadales.eu, Jungle Music, Vannini 2019, jardins BGCI/Montgomery.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 31239), REST contrôlé = brouillon, brouillon aligné.

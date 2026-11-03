@@ -35,3 +35,8 @@
 
 ## Retouche du 24/10/2026 (0a avant ZAM04)
 - Phrase visible sur PalmTalk / Dave’s Garden « could not be consulted » (ou variante) retirée du texte (le site ne commente pas ses limites de recherche) : replace_in_content, simulation puis application, 1 remplacement(s) ; brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 20459), REST contrôlé = brouillon, brouillon aligné.

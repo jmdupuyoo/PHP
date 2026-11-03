@@ -46,3 +46,7 @@ Fiche : `pilotes/espece-zamia-paucifoliolata-fr.html` (blocs Gutenberg contrôl�
 
 ## Retouche du 25/10/2026 (lot ZAM14)
 - 6 remplacements (simulation puis application) : notes de travail retirées (« n'a été trouvé… ni sur les forums ni dans les jardins botaniques », « n'a été trouvée ») ; BGCI et Montgomery (aucune plante, 25/10) ; paragraphe WCVP (« Phytotaxa 385: 88 (2018) ») et Lindstrom 2024 (clade VI, sous-groupe Cunaria) ; paragraphe Lavaud 2023 (groupe 4) ; lignes WCVP, PMC et Cycadales.eu aux sources, Lindstrom 2024 et Lavaud 2023 en bibliographie. Brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 26552), REST contrôlé = brouillon, brouillon aligné.

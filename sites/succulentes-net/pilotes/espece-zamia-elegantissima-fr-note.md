@@ -36,3 +36,9 @@
 
 ## Retouche du 25/10/2026 (0f avant ZAM07)
 - Rusticité, En France : mentions sans donnée retirées (message Fous de palmiers d'octobre 2012 annonçant une visite au Panama ; « aucune observation n'a été publiée » au Jardin zoologique tropical). 1 remplacement (simulation puis application) ; brouillon aligné.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 1 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 29456), REST contrôlé = brouillon, brouillon aligné.

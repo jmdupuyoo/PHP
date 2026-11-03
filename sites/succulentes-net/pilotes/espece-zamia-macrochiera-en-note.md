@@ -19,3 +19,9 @@
 
 ## FR/IT corrigées (25/10/2026, simulation puis application, nombre attendu vérifié)
 - FR 26521 (9) et IT 28155 (12) : phrase Wikipédia sur Pebas/Pucaurquillo remplacée par les étiquettes d'herbier (GBIF) ; catégorie CR 2010 retirée (encadré, Statut, FAQ, bibliographie) ; « Certaines bases, dont Wikipédia » → sites secondaires + WCVP ; ligne Wikipédia des Sites de référence remplacée par GBIF, WCVP et Lavaud ; Lavaud (climat d'Iquitos) ajouté en Culture ; notes de travail retirées (« aucun retour de culture n'a été trouvé sur les forums consultés », « n'a été trouvé », « secondo le fonti consultate », « Nessuna fonte consultata »).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 7 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32198), REST contrôlé = brouillon, brouillon aligné.

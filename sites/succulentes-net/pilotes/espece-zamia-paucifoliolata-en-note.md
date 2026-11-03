@@ -20,3 +20,7 @@
 
 ## FR/IT
 - FR 26552 (6) et IT 28159 (6) corrigées : « aucun relevé… trouvé… ni sur les forums ni dans les jardins botaniques » et « aucune étude… trouvée » (IT : « non è stata trovata », « non è stato trovato », « che abbiamo potuto consultare ») reformulés ; BGCI et Montgomery (aucune plante, 25/10) ; paragraphe taxonomique WCVP + Lindstrom 2024 ; FR : paragraphe Lavaud (comme en IT) ; sources et bibliographie ajoutées. Brouillons alignés (verify : identiques).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32356), REST contrôlé = brouillon, brouillon aligné.

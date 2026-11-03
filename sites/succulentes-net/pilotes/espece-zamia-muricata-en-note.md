@@ -16,3 +16,8 @@
 - Tolérance au froid : un seul retour commercial, sans date ni détail (présenté comme tel).
 - Plantes cultivées étiquetées *muricata* avant 2022 : peuvent relever d'*orinoquiensis* (mise en garde dans le texte).
 - *huilensis* EN 32077 : présente *muricata* comme « of the eastern plains of Colombia » (circonscription d'avant 2022, aujourd'hui *orinoquiensis*) ; lien posé, phrase signalée hors lot.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 32258), REST contrôlé = brouillon, brouillon aligné.

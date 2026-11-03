@@ -38,3 +38,8 @@
 
 ## Ajout du 25/10/2026 (avant ZAM14)
 - Paragraphe Tang et al. 2024 (*Insecta Mundi* 1043 ; *Pharaxonotha panamensis* partagé avec *dressleri*, *elegantissima*, *nana*, *stevensonii* ; *Notorhopalotria panamensis* ; *Pharaxonotha* distinct au Chocó ; expériences de choix de cônes, Terry et al. 2012) repris de l’EN 32301, avec ligne de source et entrée bibliographique (3 remplacements).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 29481), REST contrôlé = brouillon, brouillon aligné.

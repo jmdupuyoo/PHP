@@ -25,3 +25,8 @@
 
 ## Ritocco del 25/10/2026 (ZAM09)
 - 7 sostituzioni (simulazione poi applicazione) : Valencia-Montoya 2017 ora dal **riassunto** (non più « estratto di ricerca ») ; impollinazione completata ; Coltivazione (BGCI, Montgomery, Lavaud 2023) e Riferimenti internazionali riscritti ; « forum italiani consultati », « che abbiamo potuto consultare », nota Tropicamente rimossi ; fonti Cycadales.eu e BGCI aggiunte. Pagina EN creata : 32107.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 2 remplacement(s).
+- Lavaud 2023 : « hors des tropiques » → « sous climat tempéré » dans la phrase de classement : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28024), REST contrôlé = brouillon, brouillon aligné.

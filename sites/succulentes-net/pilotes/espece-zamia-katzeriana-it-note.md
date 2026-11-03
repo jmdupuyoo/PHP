@@ -25,3 +25,8 @@
 
 ## Retouche du 25/10/2026 (ZAM09)
 - 19 remplacements (simulation puis application), mêmes corrections que la FR 26497 : WCVP via GBIF au lieu de l'« estratto di ricerca » ; Wikipedia retiré ; notes de travail retirées (« nelle fonti consultate », « forum italiani consultati », « Non è stata trovata alcuna rilevazione di freddo… ») ; caractères distinctifs, lectotype LE, répartition 2011, Lindstrom 2024 ; BGCI, Montgomery, Lavaud 2023 ; 5 sources et 2 références ajoutées. Page EN créée : 32132.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- noms vernaculaires attestés par Species+ / notes CoP17 (ex-synonymies) : 1 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28036), REST contrôlé = brouillon, brouillon aligné.

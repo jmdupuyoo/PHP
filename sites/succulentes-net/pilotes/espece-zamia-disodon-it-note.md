@@ -29,3 +29,7 @@
 
 ## Retouche du 25/10/2026 (lot ZAM16, balayage complémentaire)
 - 1 remplacement (simulation puis application) : « Nelle fonti di riferimento consultate non è documentato alcun uso » → « Non è documentato alcun uso tradizionale » (forme à complément intercalé manquée par le premier balayage) ; brouillon aligné, live = brouillon.
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : fiche propre de l'espèce (au lieu de « couverte par le genre ») et annotation de source : 2 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 28023), REST contrôlé = brouillon, brouillon aligné.

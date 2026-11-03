@@ -48,3 +48,9 @@ Fichier : `pilotes/espece-zamia-urep-fr.html` (blocs Gutenberg contrôlés par s
 - Retouche 25/10/2026 (lot ZAM18, création EN 34430) : notes de travail visibles retirées (3 remplacements : analyse génétique « consultée ici », détail des menaces « pas été lu », mention de « l'ancienne liste de la page du genre sur ce site ») ; simulation puis application ; brouillon aligné. Fiche EN liée (hreflang fr/it/en).
 
 - 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « et « …par <pseudonyme> » : » → « et un fil de 2013 sur la germination de graines de Zamia : » (page 26568, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- annotations de bibliographie (notes de travail : « Crossref », « catégorie non vérifiée », DOI vérifié, accès payant…) retirées : 1 remplacement(s).
+- localités Q47 ramenées au municipio/province (alignement sur la page ES) : 7 remplacement(s).
+- SEO Rank Math (titre et/ou méta) sans localité précise (Q47).
+- Méthode : simulation puis application (replace_in_content, page 26568), REST contrôlé = brouillon, brouillon aligné.

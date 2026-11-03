@@ -25,3 +25,8 @@
 - Lien vers *ipetiensis* EN 32125 (première occurrence, 1 remplacement, simulation puis application).
 
 - 02/11/2026 (règle des forums anonymes) : titre de fil cité en source contenant le nom ou pseudonyme d'un membre remplacé par une citation anonyme et datée, URL conservée — « and “…par <pseudonyme>”: » → « and a thread from 2013 on the germination of Zamia seeds: » (page 31990, replace_in_content ciblé : simulation 1 / application 1 ; contrôle REST ; brouillon aligné).
+
+## Complément du 03/11/2026 (nettoyage résiduel Zamia EN/FR/IT après lots ES)
+- Species+ : quotas d'exportation zéro du Panama (19/06/2025) : 3 remplacement(s).
+- Cycadales.eu/Lavaud 2023 : liste de consignes du groupe supprimée, classement « sous climat tempéré » conservé : 4 remplacement(s).
+- Méthode : simulation puis application (replace_in_content, page 31990), REST contrôlé = brouillon, brouillon aligné.
