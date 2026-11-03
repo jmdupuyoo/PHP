@@ -31,3 +31,6 @@
 
 ## 03/11/2026 (lot ENC-ES02)
 - Lignes d'index liées : *barteri* 39767, *brevifoliolatus* 39790, *bubalinus* 39812, *cerinus* 39849, *chimanimaniensis* 39900 (replace_in_content limité à 39595, chaînes « <li><em>Encephalartos X</em> auteur » uniques, simulation 1 puis application 1 pour chaque fiche, au fil des créations) ; brouillon aligné par les mêmes remplacements (texte identique au texte en ligne, liens identiques, y compris ceux du lot parallèle ENC-ES03). Mentions du corps non liées.
+
+## 03/11/2026 (lot ENC-ES03)
+- Lignes d'index liées : *concinnus* 39769, *cupidus* 39793, *cycadifolius* 39832, *delucanus* 39852, *dolomiticus* 39906 (replace_in_content limité à 39595, chaînes « <li><em>Encephalartos X</em> auteur » uniques, simulation 1 puis application 1 pour chaque fiche) ; brouillon aligné par les mêmes remplacements (cmpall : texte et liens identiques au texte en ligne, y compris les lignes ENC-ES02). Mentions du corps non liées (*cupidus* 1, *cycadifolius* 6, *dolomiticus* 3).
